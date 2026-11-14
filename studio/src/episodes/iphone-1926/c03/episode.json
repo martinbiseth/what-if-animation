@@ -344,10 +344,6 @@
     "a smartphone vibrating on a wooden table, two short buzzes",
     1.2
    ],
-   "tap": [
-    "a finger tapping a glass phone screen, a soft tick",
-    0.4
-   ],
    "notify": [
     "a soft modern smartphone message notification chime",
     0.8
@@ -537,8 +533,8 @@
    ],
    [
     "S16+0",
-    "tap",
-    0.6
+    "pop",
+    0.24
    ],
    [
     "S17+0",

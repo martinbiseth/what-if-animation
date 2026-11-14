@@ -322,6 +322,11 @@
   }
  ],
  "audio": {
-  "voice": "iphone-1926/c07/voice.wav"
+  "voice": "iphone-1926/c07/voice.wav",
+  "sfx": "iphone-1926/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3077,
+  "music": "iphone-1926/c07/music.wav",
+  "musicVol": 0.0738
  }
 }

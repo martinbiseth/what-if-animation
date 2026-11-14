@@ -348,6 +348,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "iphone-1926/c06/voice.wav"
+  "voice": "iphone-1926/c06/voice.wav",
+  "sfx": "iphone-1926/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.499,
+  "music": "iphone-1926/c06/music.wav",
+  "musicVol": 0.0721
  }
 }
