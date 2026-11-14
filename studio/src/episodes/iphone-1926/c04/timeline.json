@@ -1,27 +1,384 @@
 {
  "slug": "iphone-1926/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2601,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 70,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 70,
+   "line": "Here's the problem nobody warned you about."
+  },
+  {
+   "shot": "S3",
+   "a": 70,
+   "b": 159,
+   "t0": 0,
+   "t1": 89,
+   "line": "Charging. Your charger needs a socket in the wall."
+  },
+  {
+   "shot": "S2",
+   "a": 159,
+   "b": 241,
+   "t0": 0,
+   "t1": 82,
+   "line": "Mo's building has electric lights, but no sockets."
+  },
+  {
+   "shot": "S4",
+   "a": 241,
+   "b": 312,
+   "t0": 0,
+   "t1": 71,
+   "line": "And lots of homes don't even have lights."
+  },
+  {
+   "shot": "S5",
+   "a": 312,
+   "b": 506,
+   "t0": 0,
+   "t1": 194,
+   "line": "Even in 1940, the census found that more than one in five American homes had no electric lights at all. That's real."
+  },
+  {
+   "shot": "S6",
+   "a": 506,
+   "b": 608,
+   "t0": 0,
+   "t1": 102,
+   "line": "You finally find a socket in a hotel lobby. You plug in."
+  },
+  {
+   "shot": "S7",
+   "a": 608,
+   "b": 626,
+   "t0": 0,
+   "t1": 18,
+   "line": "Nothing."
+  },
+  {
+   "shot": "S8",
+   "a": 626,
+   "b": 822,
+   "t0": 0,
+   "t1": 196,
+   "line": "Parts of New York still run on direct current, the old kind of electricity. Your charger was built for the other kind."
+  },
+  {
+   "shot": "S9",
+   "a": 822,
+   "b": 942,
+   "t0": 0,
+   "t1": 120,
+   "line": "You lose a whole day, and twelve percent, hunting for the right socket."
+  },
+  {
+   "shot": "S10",
+   "a": 942,
+   "b": 1142,
+   "t0": 0,
+   "t1": 200,
+   "line": "In the end you pay a hotel porter a whole dollar to let you sit behind the front desk, next to the only socket that works,"
+  },
+  {
+   "shot": "S11",
+   "a": 1142,
+   "b": 1239,
+   "t0": 0,
+   "t1": 97,
+   "line": "while the guests stare at the glowing brick on the counter."
+  },
+  {
+   "shot": "S12",
+   "a": 1239,
+   "b": 1342,
+   "t0": 0,
+   "t1": 103,
+   "line": "Then there's the bigger problem. Look at what you're holding."
+  },
+  {
+   "shot": "S13",
+   "a": 1342,
+   "b": 1466,
+   "t0": 0,
+   "t1": 124,
+   "line": "The chip inside a recent iPhone can do thirty-five trillion operations every second."
+  },
+  {
+   "shot": "S14",
+   "a": 1466,
+   "b": 1613,
+   "t0": 0,
+   "t1": 147,
+   "line": "The most famous computer of the next twenty years, ENIAC, won't be switched on until 1946."
+  },
+  {
+   "shot": "S22",
+   "a": 1613,
+   "b": 1769,
+   "t0": 0,
+   "t1": 156,
+   "line": "It will weigh twenty-seven tonnes, fill a whole room, burn a hundred and fifty kilowatts of power, and"
+  },
+  {
+   "shot": "S15",
+   "a": 1769,
+   "b": 1861,
+   "t0": 0,
+   "t1": 92,
+   "line": "do five thousand additions a second. That's real too."
+  },
+  {
+   "shot": "S16",
+   "a": 1861,
+   "b": 2065,
+   "t0": 0,
+   "t1": 204,
+   "line": "You're carrying a machine the world won't be able to build for half a century. And you've been showing it off in jazz clubs."
+  },
+  {
+   "shot": "S17",
+   "a": 2065,
+   "b": 2202,
+   "t0": 0,
+   "t1": 137,
+   "line": "The newspapers stop calling it a lightning box. Now they just call it the device."
+  },
+  {
+   "shot": "S18",
+   "a": 2202,
+   "b": 2339,
+   "t0": 0,
+   "t1": 137,
+   "line": "In January 1927, people will pay seventy-five dollars to talk to London for three minutes."
+  },
+  {
+   "shot": "S19",
+   "a": 2339,
+   "b": 2450,
+   "t0": 0,
+   "t1": 111,
+   "line": "That's well over a thousand dollars in today's money. That's real."
+  },
+  {
+   "shot": "S20",
+   "a": 2450,
+   "b": 2554,
+   "t0": 0,
+   "t1": 104,
+   "line": "So imagine what someone would pay for the thing in your pocket."
+  },
+  {
+   "shot": "S21",
+   "a": 2554,
+   "b": 2601,
+   "t0": 0,
+   "t1": 47,
+   "line": "Forty-one percent."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 70,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Here's the problem nobody warned you about.",
+   "note": "CHAPTER 4: THE CATCH"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 89,
+   "first": 70,
+   "line": "Charging. Your charger needs a socket in the wall.",
+   "note": "the charger against a bare wall"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 20,
+   "len": 82,
+   "first": 159,
+   "line": "Mo's building has electric lights, but no sockets.",
+   "note": "a bare bulb, no socket anywhere"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "len": 71,
+   "first": 241,
+   "line": "And lots of homes don't even have lights.",
+   "note": "a whole block with dark windows"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 100,
+   "len": 194,
+   "first": 312,
+   "line": "Even in 1940, the census found that more than one in five American homes had no electric lights at all. That's real.",
+   "note": "fact: 1 in 5 homes had no electric light in 1940"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 102,
+   "first": 506,
+   "line": "You finally find a socket in a hotel lobby. You plug in.",
+   "note": "you plug in at the hotel"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 20,
+   "len": 18,
+   "first": 608,
+   "line": "Nothing.",
+   "note": "nothing: not charging"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 100,
+   "len": 196,
+   "first": 626,
+   "line": "Parts of New York still run on direct current, the old kind of electricity. Your charger was built for the other kind.",
+   "note": "DC vs AC"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 20,
+   "len": 120,
+   "first": 822,
+   "line": "You lose a whole day, and twelve percent, hunting for the right socket.",
+   "note": "a day hunting for sockets"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 20,
+   "len": 200,
+   "first": 942,
+   "line": "In the end you pay a hotel porter a whole dollar to let you sit behind the front desk, next to the only socket that works,",
+   "note": "behind the front desk, the porter's dollar"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 20,
+   "len": 97,
+   "first": 1142,
+   "line": "while the guests stare at the glowing brick on the counter.",
+   "note": "a guest stares at the glowing brick"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 103,
+   "first": 1239,
+   "line": "Then there's the bigger problem. Look at what you're holding.",
+   "note": "the chip"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 100,
+   "len": 124,
+   "first": 1342,
+   "line": "The chip inside a recent iPhone can do thirty-five trillion operations every second.",
+   "note": "fact: 35 trillion operations a second"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 100,
+   "len": 147,
+   "first": 1466,
+   "line": "The most famous computer of the next twenty years, ENIAC, won't be switched on until 1946.",
+   "note": "ENIAC fills a room"
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "key": 60,
+   "len": 156,
+   "first": 1613,
+   "line": "It will weigh twenty-seven tonnes, fill a whole room, burn a hundred and fifty kilowatts of power, and",
+   "note": "27 tonnes"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 100,
+   "len": 92,
+   "first": 1769,
+   "line": "do five thousand additions a second. That's real too.",
+   "note": "fact: 5,000 additions a second"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "len": 204,
+   "first": 1861,
+   "line": "You're carrying a machine the world won't be able to build for half a century. And you've been showing it off in jazz clubs.",
+   "note": "you look at the phone like it's a bomb"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 100,
+   "len": 137,
+   "first": 2065,
+   "line": "The newspapers stop calling it a lightning box. Now they just call it the device.",
+   "note": "headline: THE DEVICE"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 100,
+   "len": 137,
+   "first": 2202,
+   "line": "In January 1927, people will pay seventy-five dollars to talk to London for three minutes.",
+   "note": "$75 to call London"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 100,
+   "len": 111,
+   "first": 2339,
+   "line": "That's well over a thousand dollars in today's money. That's real.",
+   "note": "fact: $1,350 today"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 20,
+   "len": 104,
+   "first": 2450,
+   "line": "So imagine what someone would pay for the thing in your pocket.",
+   "note": "a man in a grey suit watches you"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 100,
+   "len": 47,
+   "first": 2554,
+   "line": "Forty-one percent.",
+   "note": "forty-one percent"
   }
  ],
  "fx": [],

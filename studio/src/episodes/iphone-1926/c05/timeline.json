@@ -1,27 +1,384 @@
 {
  "slug": "iphone-1926/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2398,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 31,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 31,
+   "line": "It starts small."
+  },
+  {
+   "shot": "S2",
+   "a": 31,
+   "b": 76,
+   "t0": 0,
+   "t1": 45,
+   "line": "A reporter at your door."
+  },
+  {
+   "shot": "S3",
+   "a": 76,
+   "b": 148,
+   "t0": 0,
+   "t1": 72,
+   "line": "A professor who wants to examine the lamp."
+  },
+  {
+   "shot": "S4",
+   "a": 148,
+   "b": 226,
+   "t0": 0,
+   "t1": 78,
+   "line": "A man from a radio company who offers you a job"
+  },
+  {
+   "shot": "S5",
+   "a": 226,
+   "b": 307,
+   "t0": 0,
+   "t1": 81,
+   "line": "you don't understand. You turn them all away."
+  },
+  {
+   "shot": "S6",
+   "a": 307,
+   "b": 498,
+   "t0": 0,
+   "t1": 191,
+   "line": "Three days later, there's a man in a grey suit waiting in the boarding house kitchen. He doesn't take his hat off."
+  },
+  {
+   "shot": "S7",
+   "a": 498,
+   "b": 571,
+   "t0": 0,
+   "t1": 73,
+   "line": "He says he works for the telephone company."
+  },
+  {
+   "shot": "S8",
+   "a": 571,
+   "b": 595,
+   "t0": 0,
+   "t1": 24,
+   "line": "He doesn't."
+  },
+  {
+   "shot": "S9",
+   "a": 595,
+   "b": 752,
+   "t0": 0,
+   "t1": 157,
+   "line": "He knows about the photos. The music. The sums. He slides an envelope across the table."
+  },
+  {
+   "shot": "S10",
+   "a": 752,
+   "b": 839,
+   "t0": 0,
+   "t1": 87,
+   "line": "Ten thousand dollars. In 1926, that's a fortune."
+  },
+  {
+   "shot": "S11",
+   "a": 839,
+   "b": 993,
+   "t0": 0,
+   "t1": 154,
+   "line": "'We'd just like to borrow it,' he says. 'Take a look inside.' You know what that means."
+  },
+  {
+   "shot": "S12",
+   "a": 993,
+   "b": 1082,
+   "t0": 0,
+   "t1": 89,
+   "line": "They'll open it up. They'll copy whatever they can."
+  },
+  {
+   "shot": "S13",
+   "a": 1082,
+   "b": 1300,
+   "t0": 0,
+   "t1": 218,
+   "line": "The transistor, the tiny switch your phone is built from, won't be invented until 1947. That's real. You look down at the phone."
+  },
+  {
+   "shot": "S14",
+   "a": 1300,
+   "b": 1377,
+   "t0": 0,
+   "t1": 77,
+   "line": "Nineteen billion transistors, just in the chip."
+  },
+  {
+   "shot": "S15",
+   "a": 1377,
+   "b": 1501,
+   "t0": 0,
+   "t1": 124,
+   "line": "And two of the three men who will invent the first one are still teenagers."
+  },
+  {
+   "shot": "S16",
+   "a": 1501,
+   "b": 1720,
+   "t0": 0,
+   "t1": 219,
+   "line": "If they work out how it's made twenty years early, everything changes. Radio. Computers. Rockets. War. All of it, early."
+  },
+  {
+   "shot": "S17",
+   "a": 1720,
+   "b": 1790,
+   "t0": 0,
+   "t1": 70,
+   "line": "Maybe better. Maybe much, much worse."
+  },
+  {
+   "shot": "S18",
+   "a": 1790,
+   "b": 1965,
+   "t0": 0,
+   "t1": 175,
+   "line": "You say no. He smiles, like he expected that. 'Think about it,' he says. 'Everyone has a price.'"
+  },
+  {
+   "shot": "S19",
+   "a": 1965,
+   "b": 2067,
+   "t0": 0,
+   "t1": 102,
+   "line": "On his way out, he looks at Ellie. Just for a second."
+  },
+  {
+   "shot": "S20",
+   "a": 2067,
+   "b": 2258,
+   "t0": 0,
+   "t1": 191,
+   "line": "That night, you can't sleep. You lie in the dark with the phone face down on your chest, listening to the city."
+  },
+  {
+   "shot": "S22",
+   "a": 2258,
+   "b": 2349,
+   "t0": 0,
+   "t1": 91,
+   "line": "Every car that slows down outside makes your heart jump."
+  },
+  {
+   "shot": "S21",
+   "a": 2349,
+   "b": 2398,
+   "t0": 0,
+   "t1": 49,
+   "line": "Twenty-seven percent."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 31,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "It starts small.",
+   "note": "CHAPTER 5: SOMEONE NOTICES"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 20,
+   "len": 45,
+   "first": 31,
+   "line": "A reporter at your door.",
+   "note": "a reporter at your door"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 20,
+   "len": 72,
+   "first": 76,
+   "line": "A professor who wants to examine the lamp.",
+   "note": "a professor and the lamp"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "len": 78,
+   "first": 148,
+   "line": "A man from a radio company who offers you a job",
+   "note": "a man from a radio company"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 81,
+   "first": 226,
+   "line": "you don't understand. You turn them all away.",
+   "note": "you shut the door on them all"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 191,
+   "first": 307,
+   "line": "Three days later, there's a man in a grey suit waiting in the boarding house kitchen. He doesn't take his hat off.",
+   "note": "the man in the grey suit at the table"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 20,
+   "len": 73,
+   "first": 498,
+   "line": "He says he works for the telephone company.",
+   "note": "the telephone company"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 20,
+   "len": 24,
+   "first": 571,
+   "line": "He doesn't.",
+   "note": "you don't believe him"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 157,
+   "first": 595,
+   "line": "He knows about the photos. The music. The sums. He slides an envelope across the table.",
+   "note": "the envelope slides across"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 90,
+   "len": 87,
+   "first": 752,
+   "line": "Ten thousand dollars. In 1926, that's a fortune.",
+   "note": "$10,000"
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "key": 20,
+   "len": 154,
+   "first": 839,
+   "line": "'We'd just like to borrow it,' he says. 'Take a look inside.' You know what that means.",
+   "note": "we'd just like to borrow it"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 90,
+   "len": 89,
+   "first": 993,
+   "line": "They'll open it up. They'll copy whatever they can.",
+   "note": "the phone taken apart"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 90,
+   "len": 218,
+   "first": 1082,
+   "line": "The transistor, the tiny switch your phone is built from, won't be invented until 1947. That's real. You look down at the phone.",
+   "note": "fact: the transistor, 1947"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 90,
+   "len": 77,
+   "first": 1300,
+   "line": "Nineteen billion transistors, just in the chip.",
+   "note": "fact: 19 billion transistors"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 90,
+   "len": 124,
+   "first": 1377,
+   "line": "And two of the three men who will invent the first one are still teenagers.",
+   "note": "two inventors still teenagers"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 90,
+   "len": 219,
+   "first": 1501,
+   "line": "If they work out how it's made twenty years early, everything changes. Radio. Computers. Rockets. War. All of it, early.",
+   "note": "radio, computers, rockets, war"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 20,
+   "len": 70,
+   "first": 1720,
+   "line": "Maybe better. Maybe much, much worse.",
+   "note": "maybe much worse: the sky goes red"
+  },
+  {
+   "id": "S18",
+   "size": "two-shot",
+   "key": 20,
+   "len": 175,
+   "first": 1790,
+   "line": "You say no. He smiles, like he expected that. 'Think about it,' he says. 'Everyone has a price.'",
+   "note": "you say no; everyone has a price"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 20,
+   "len": 102,
+   "first": 1965,
+   "line": "On his way out, he looks at Ellie. Just for a second.",
+   "note": "he looks at Ellie"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "key": 20,
+   "len": 191,
+   "first": 2067,
+   "line": "That night, you can't sleep. You lie in the dark with the phone face down on your chest, listening to the city.",
+   "note": "awake in the dark, headlights on the ceiling"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 40,
+   "len": 91,
+   "first": 2258,
+   "line": "Every car that slows down outside makes your heart jump.",
+   "note": "a car slows down outside"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 20,
+   "len": 49,
+   "first": 2349,
+   "line": "Twenty-seven percent.",
+   "note": "twenty-seven percent"
   }
  ],
  "fx": [],

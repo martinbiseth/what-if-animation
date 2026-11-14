@@ -75,18 +75,248 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "card",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "CHAPTER 4: THE CATCH",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "a bare bulb, no socket anywhere",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "wall",
+   "note": "the charger against a bare wall",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "night street",
+   "note": "a whole block with dark windows",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "set": "none",
+   "note": "fact: 1 in 5 homes had no electric light in 1940",
+   "key": 100
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "lobby",
+   "note": "you plug in at the hotel",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "lobby",
+   "note": "nothing: not charging",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "set": "none",
+   "note": "DC vs AC",
+   "key": 100
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "night street",
+   "note": "a day hunting for sockets",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "lobby",
+   "note": "behind the front desk, the porter's dollar",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "set": "lobby",
+   "note": "a guest stares at the glowing brick",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "none",
+   "note": "the chip",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "set": "none",
+   "note": "fact: 35 trillion operations a second",
+   "key": 100
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "schematic",
+   "note": "ENIAC fills a room",
+   "key": 100
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "set": "none",
+   "note": "fact: 5,000 additions a second",
+   "key": 100
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "club",
+   "note": "you look at the phone like it's a bomb",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "none",
+   "note": "headline: THE DEVICE",
+   "key": 100
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "set": "street",
+   "note": "$75 to call London",
+   "key": 100
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "set": "none",
+   "note": "fact: $1,350 today",
+   "key": 100
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "set": "street",
+   "note": "a man in a grey suit watches you",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "set": "none",
+   "note": "forty-one percent",
+   "key": 100
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "set": "none",
+   "note": "27 tonnes",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S3",
+   "at": "Charging"
+  },
+  {
+   "shot": "S2",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S4",
+   "at": "And"
+  },
+  {
+   "shot": "S5",
+   "at": "Even#2"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S8",
+   "at": "Parts"
+  },
+  {
+   "shot": "S9",
+   "at": "You"
+  },
+  {
+   "shot": "S10",
+   "at": "In"
+  },
+  {
+   "shot": "S11",
+   "at": "while"
+  },
+  {
+   "shot": "S12",
+   "at": "Then"
+  },
+  {
+   "shot": "S13",
+   "at": "The#2"
+  },
+  {
+   "shot": "S14",
+   "at": "The"
+  },
+  {
+   "shot": "S22",
+   "at": "It"
+  },
+  {
+   "shot": "S15",
+   "at": "do"
+  },
+  {
+   "shot": "S16",
+   "at": "You're"
+  },
+  {
+   "shot": "S17",
+   "at": "The#2"
+  },
+  {
+   "shot": "S18",
+   "at": "In"
+  },
+  {
+   "shot": "S19",
+   "at": "That's"
+  },
+  {
+   "shot": "S20",
+   "at": "So"
+  },
+  {
+   "shot": "S21",
+   "at": "Forty"
   }
  ],
- "end": "f:90",
  "fx": []
 }

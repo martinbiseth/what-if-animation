@@ -1,27 +1,349 @@
 {
  "slug": "iphone-1926/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2223,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 56,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 56,
+   "line": "A week later, Ellie gets sick."
+  },
+  {
+   "shot": "S2",
+   "a": 56,
+   "b": 119,
+   "t0": 0,
+   "t1": 63,
+   "line": "A cut on her knee from the street."
+  },
+  {
+   "shot": "S4",
+   "a": 119,
+   "b": 148,
+   "t0": 0,
+   "t1": 29,
+   "line": "Then a fever."
+  },
+  {
+   "shot": "S3",
+   "a": 148,
+   "b": 209,
+   "t0": 0,
+   "t1": 61,
+   "line": "Then red lines creeping up her leg."
+  },
+  {
+   "shot": "S5",
+   "a": 209,
+   "b": 349,
+   "t0": 0,
+   "t1": 140,
+   "line": "The doctor comes. He's kind, and he's honest. There's nothing he can give her."
+  },
+  {
+   "shot": "S4",
+   "a": 349,
+   "b": 441,
+   "t0": 0,
+   "t1": 92,
+   "line": "Mo's mom sits by the bed all night with a wet cloth."
+  },
+  {
+   "shot": "S6",
+   "a": 441,
+   "b": 493,
+   "t0": 0,
+   "t1": 52,
+   "line": "Mo tries to make Ellie laugh."
+  },
+  {
+   "shot": "S7",
+   "a": 493,
+   "b": 611,
+   "t0": 0,
+   "t1": 118,
+   "line": "She asks for the star. You turn on the flashlight, and she smiles."
+  },
+  {
+   "shot": "S8",
+   "a": 611,
+   "b": 652,
+   "t0": 0,
+   "t1": 41,
+   "line": "Somehow, that's worse."
+  },
+  {
+   "shot": "S9",
+   "a": 652,
+   "b": 847,
+   "t0": 0,
+   "t1": 195,
+   "line": "Antibiotics don't exist yet. Penicillin won't be discovered until September 1928, almost two years from now. That's real."
+  },
+  {
+   "shot": "S11",
+   "a": 847,
+   "b": 907,
+   "t0": 0,
+   "t1": 60,
+   "line": "You know exactly what penicillin is."
+  },
+  {
+   "shot": "S10",
+   "a": 907,
+   "b": 1001,
+   "t0": 0,
+   "t1": 94,
+   "line": "You even have a photo of a pharmacy shelf full of it."
+  },
+  {
+   "shot": "S11",
+   "a": 1001,
+   "b": 1114,
+   "t0": 0,
+   "t1": 113,
+   "line": "But a photo can't cure anyone. You need someone who can make it."
+  },
+  {
+   "shot": "S12",
+   "a": 1114,
+   "b": 1337,
+   "t0": 0,
+   "t1": 223,
+   "line": "That night, the man in the grey suit comes back. He doesn't bring money this time. He brings a laboratory. Chemists. Equipment."
+  },
+  {
+   "shot": "S13",
+   "a": 1337,
+   "b": 1486,
+   "t0": 0,
+   "t1": 149,
+   "line": "'Give us the phone,' he says, 'and we'll make your medicine. Whatever you can show us.'"
+  },
+  {
+   "shot": "S14",
+   "a": 1486,
+   "b": 1573,
+   "t0": 0,
+   "t1": 87,
+   "line": "Mo is sitting on the stairs. He heard everything."
+  },
+  {
+   "shot": "S15",
+   "a": 1573,
+   "b": 1638,
+   "t0": 0,
+   "t1": 65,
+   "line": "Ellie is asleep upstairs, burning hot."
+  },
+  {
+   "shot": "S16",
+   "a": 1638,
+   "b": 1886,
+   "t0": 0,
+   "t1": 248,
+   "line": "Give it away, and the future changes. Maybe millions of people you'll never meet live, or don't. Keep it, and a little girl might never see 1927."
+  },
+  {
+   "shot": "S17",
+   "a": 1886,
+   "b": 2053,
+   "t0": 0,
+   "t1": 167,
+   "line": "You think about every time travel movie you've ever seen. Don't change anything. Don't touch anything."
+  },
+  {
+   "shot": "S18",
+   "a": 2053,
+   "b": 2124,
+   "t0": 0,
+   "t1": 71,
+   "line": "Easy to say, when it's not your family."
+  },
+  {
+   "shot": "S19",
+   "a": 2124,
+   "b": 2223,
+   "t0": 0,
+   "t1": 99,
+   "line": "You look down at the screen. Nine percent."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 56,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "A week later, Ellie gets sick.",
+   "note": "CHAPTER 6: THE CHOICE"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 20,
+   "len": 63,
+   "first": 56,
+   "line": "A cut on her knee from the street.",
+   "note": "Ellie trips and cuts her knee"
+  },
+  {
+   "id": "S4",
+   "size": "top",
+   "key": 20,
+   "len": 92,
+   "first": 119,
+   "line": "Then a fever.",
+   "note": "Ellie in bed with a fever"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 61,
+   "first": 148,
+   "line": "Then red lines creeping up her leg.",
+   "note": "red lines creeping up her leg"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 140,
+   "first": 209,
+   "line": "The doctor comes. He's kind, and he's honest. There's nothing he can give her.",
+   "note": "the doctor can't help"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 52,
+   "first": 441,
+   "line": "Mo tries to make Ellie laugh.",
+   "note": "Mo pulls faces for Ellie"
+  },
+  {
+   "id": "S7",
+   "size": "top",
+   "key": 20,
+   "len": 118,
+   "first": 493,
+   "line": "She asks for the star. You turn on the flashlight, and she smiles.",
+   "note": "the flashlight star again"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 20,
+   "len": 41,
+   "first": 611,
+   "line": "Somehow, that's worse.",
+   "note": "your face: somehow that's worse"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 90,
+   "len": 195,
+   "first": 652,
+   "line": "Antibiotics don't exist yet. Penicillin won't be discovered until September 1928, almost two years from now. That's real.",
+   "note": "fact: penicillin, September 1928"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 20,
+   "len": 113,
+   "first": 847,
+   "line": "You know exactly what penicillin is.",
+   "note": "a photo can't cure anyone"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 20,
+   "len": 94,
+   "first": 907,
+   "line": "You even have a photo of a pharmacy shelf full of it.",
+   "note": "a photo of a pharmacy shelf"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 20,
+   "len": 223,
+   "first": 1114,
+   "line": "That night, the man in the grey suit comes back. He doesn't bring money this time. He brings a laboratory. Chemists. Equipment.",
+   "note": "the grey suit returns with a laboratory"
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "key": 20,
+   "len": 149,
+   "first": 1337,
+   "line": "'Give us the phone,' he says, 'and we'll make your medicine. Whatever you can show us.'",
+   "note": "give us the phone"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 20,
+   "len": 87,
+   "first": 1486,
+   "line": "Mo is sitting on the stairs. He heard everything.",
+   "note": "Mo on the stairs heard everything"
+  },
+  {
+   "id": "S15",
+   "size": "top",
+   "key": 20,
+   "len": 65,
+   "first": 1573,
+   "line": "Ellie is asleep upstairs, burning hot.",
+   "note": "Ellie asleep, burning hot"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 90,
+   "len": 248,
+   "first": 1638,
+   "line": "Give it away, and the future changes. Maybe millions of people you'll never meet live, or don't. Keep it, and a little girl might never see 1927.",
+   "note": "the scales: the world against one girl"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 90,
+   "len": 167,
+   "first": 1886,
+   "line": "You think about every time travel movie you've ever seen. Don't change anything. Don't touch anything.",
+   "note": "don't change anything"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 20,
+   "len": 71,
+   "first": 2053,
+   "line": "Easy to say, when it's not your family.",
+   "note": "you on the bottom step"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 99,
+   "first": 2124,
+   "line": "You look down at the screen. Nine percent.",
+   "note": "nine percent"
   }
  ],
  "fx": [],

@@ -51,18 +51,223 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "card",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "CHAPTER 6: THE CHOICE",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "street",
+   "note": "Ellie trips and cuts her knee",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "none",
+   "note": "red lines creeping up her leg",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "top",
+   "set": "bedroom",
+   "note": "Ellie in bed with a fever",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "the doctor can't help",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "set": "kitchen",
+   "note": "Mo pulls faces for Ellie",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "top",
+   "set": "bedroom",
+   "note": "the flashlight star again",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "set": "kitchen",
+   "note": "your face: somehow that's worse",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "set": "none",
+   "note": "fact: penicillin, September 1928",
+   "key": 90
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "none",
+   "note": "a photo of a pharmacy shelf",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "set": "kitchen",
+   "note": "a photo can't cure anyone",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "the grey suit returns with a laboratory",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "give us the phone",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "stairs",
+   "note": "Mo on the stairs heard everything",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "top",
+   "set": "bedroom",
+   "note": "Ellie asleep, burning hot",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "set": "schematic",
+   "note": "the scales: the world against one girl",
+   "key": 90
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "set": "stairs",
+   "note": "don't change anything",
+   "key": 90
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "stairs",
+   "note": "you on the bottom step",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "none",
+   "note": "nine percent",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "A#2"
+  },
+  {
+   "shot": "S4",
+   "at": "Then"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S5",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S6",
+   "at": "Mo"
+  },
+  {
+   "shot": "S7",
+   "at": "She"
+  },
+  {
+   "shot": "S8",
+   "at": "Somehow"
+  },
+  {
+   "shot": "S9",
+   "at": "Antibiotics"
+  },
+  {
+   "shot": "S11",
+   "at": "You"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "But"
+  },
+  {
+   "shot": "S12",
+   "at": "That"
+  },
+  {
+   "shot": "S13",
+   "at": "Give"
+  },
+  {
+   "shot": "S14",
+   "at": "Mo"
+  },
+  {
+   "shot": "S15",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S16",
+   "at": "Give"
+  },
+  {
+   "shot": "S17",
+   "at": "You"
+  },
+  {
+   "shot": "S18",
+   "at": "Easy"
+  },
+  {
+   "shot": "S19",
+   "at": "You"
   }
  ],
- "end": "f:90",
  "fx": []
 }

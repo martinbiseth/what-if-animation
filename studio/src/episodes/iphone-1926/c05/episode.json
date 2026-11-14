@@ -60,18 +60,248 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "set": "rooftop",
+   "note": "CHAPTER 5: SOMEONE NOTICES",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "set": "night street",
+   "note": "a reporter at your door",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "set": "night street",
+   "note": "a professor and the lamp",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "set": "night street",
+   "note": "a man from a radio company",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "you shut the door on them all",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "the man in the grey suit at the table",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "set": "kitchen",
+   "note": "the telephone company",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "set": "kitchen",
+   "note": "you don't believe him",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the envelope slides across",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "set": "kitchen",
+   "note": "$10,000",
+   "key": 90
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "we'd just like to borrow it",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "set": "schematic",
+   "note": "the phone taken apart",
+   "key": 90
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "set": "none",
+   "note": "fact: the transistor, 1947",
+   "key": 90
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "set": "none",
+   "note": "fact: 19 billion transistors",
+   "key": 90
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "set": "none",
+   "note": "two inventors still teenagers",
+   "key": 90
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "set": "schematic",
+   "note": "radio, computers, rockets, war",
+   "key": 90
+  },
+  {
+   "id": "S17",
    "size": "wide",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "maybe much worse: the sky goes red",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "you say no; everyone has a price",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "he looks at Ellie",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "set": "bedroom",
+   "note": "awake in the dark, headlights on the ceiling",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "set": "none",
+   "note": "twenty-seven percent",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "night street",
+   "note": "a car slows down outside",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "A"
+  },
+  {
+   "shot": "S3",
+   "at": "A"
+  },
+  {
+   "shot": "S4",
+   "at": "A"
+  },
+  {
+   "shot": "S5",
+   "at": "You#2"
+  },
+  {
+   "shot": "S6",
+   "at": "Three"
+  },
+  {
+   "shot": "S7",
+   "at": "He#2"
+  },
+  {
+   "shot": "S8",
+   "at": "He#2"
+  },
+  {
+   "shot": "S9",
+   "at": "He"
+  },
+  {
+   "shot": "S10",
+   "at": "Ten"
+  },
+  {
+   "shot": "S11",
+   "at": "We'd"
+  },
+  {
+   "shot": "S12",
+   "at": "They'll"
+  },
+  {
+   "shot": "S13",
+   "at": "The"
+  },
+  {
+   "shot": "S14",
+   "at": "Nineteen"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "If"
+  },
+  {
+   "shot": "S17",
+   "at": "Maybe"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "On"
+  },
+  {
+   "shot": "S20",
+   "at": "That"
+  },
+  {
+   "shot": "S22",
+   "at": "Every"
+  },
+  {
+   "shot": "S21",
+   "at": "Twenty"
   }
  ],
- "end": "f:90",
  "fx": []
 }

@@ -27,7 +27,7 @@ const Doors: React.FC<{ u0: number; u1: number; v0: number; v1: number; w: numbe
   return <g>{out}</g>;
 };
 
-export const Kitchen: React.FC<{ t: number; id?: string; veil?: number; red?: number }> = ({ t, id = 'kit', veil = 0.5, red = 0 }) => {
+export const Kitchen: React.FC<{ t: number; id?: string; veil?: number; red?: number; period?: boolean }> = ({ t, id = 'kit', veil = 0.5, red = 0, period = false }) => {
   const R = KITCHEN;
   const { P, Q } = R;
   const T = KITCHEN_TOP;
@@ -111,8 +111,12 @@ export const Kitchen: React.FC<{ t: number; id?: string; veil?: number; red?: nu
       <WallLight r={R} u={0} v={0.42} w={0.66} />
       {/* the fridge on the right, with magnets and a child's drawing */}
       <FloorShadow r={R} u={[0.78, 0.98]} w={[0.02, 0.2]} />
-      <Box r={R} u={[0.79, 0.98]} v={[0.16, 1]} w={[0.02, 0.2]} front="#8E9497" side="#666C70" top="#7C8285" />
-      {(() => {
+      {period ? (
+        <Box r={R} u={[0.79, 0.98]} v={[0.3, 1]} w={[0.02, 0.2]} front="#6A4A34" side="#4A3424" top="#7A5A40" rim />
+      ) : (
+        <Box r={R} u={[0.79, 0.98]} v={[0.16, 1]} w={[0.02, 0.2]} front="#8E9497" side="#666C70" top="#7C8285" />
+      )}
+      {period ? null : (() => {
         const a = P(0.79, 0.16, 0.2);
         const b = P(0.79, 1, 0.2);
         const m = P(0.79, 0.44, 0.2);

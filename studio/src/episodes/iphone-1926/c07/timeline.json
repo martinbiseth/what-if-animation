@@ -1,29 +1,291 @@
 {
  "slug": "iphone-1926/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1484,
  "segments": [
   {
-   "shot": "S1",
+   "shot": "S2",
    "a": 0,
-   "b": 90,
+   "b": 36,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 36,
+   "line": "You walk downstairs."
+  },
+  {
+   "shot": "S3",
+   "a": 36,
+   "b": 70,
+   "t0": 0,
+   "t1": 34,
+   "line": "You put the phone on"
+  },
+  {
+   "shot": "S4",
+   "a": 70,
+   "b": 137,
+   "t0": 0,
+   "t1": 67,
+   "line": "the table. The man reaches for it."
+  },
+  {
+   "shot": "S5",
+   "a": 137,
+   "b": 202,
+   "t0": 0,
+   "t1": 65,
+   "line": "And it buzzes. One bar of signal."
+  },
+  {
+   "shot": "S6",
+   "a": 202,
+   "b": 259,
+   "t0": 0,
+   "t1": 57,
+   "line": "In 1926. Which is impossible."
+  },
+  {
+   "shot": "S7",
+   "a": 259,
+   "b": 315,
+   "t0": 0,
+   "t1": 56,
+   "line": "Unless someone else is here too."
+  },
+  {
+   "shot": "S8",
+   "a": 315,
+   "b": 391,
+   "t0": 0,
+   "t1": 76,
+   "line": "A message appears. 'Don't give it to him.'"
+  },
+  {
+   "shot": "S9",
+   "a": 391,
+   "b": 463,
+   "t0": 0,
+   "t1": 72,
+   "line": "One percent. And the screen goes black."
+  },
+  {
+   "shot": "S10",
+   "a": 463,
+   "b": 650,
+   "t0": 0,
+   "t1": 187,
+   "line": "In the dark, you hear the man in the grey suit laugh, very softly. 'Well,' he says. 'That changes things.'"
+  },
+  {
+   "shot": "S11",
+   "a": 650,
+   "b": 752,
+   "t0": 0,
+   "t1": 102,
+   "line": "Mo grabs your sleeve. Upstairs, Ellie coughs in her sleep."
+  },
+  {
+   "shot": "S12",
+   "a": 752,
+   "b": 895,
+   "t0": 0,
+   "t1": 143,
+   "line": "And on the table, the dead phone is warm, as if something inside it is still awake."
+  },
+  {
+   "shot": "S13",
+   "a": 895,
+   "b": 1001,
+   "t0": 0,
+   "t1": 106,
+   "line": "So what would you do? Save Ellie, or save the future?"
+  },
+  {
+   "shot": "S14",
+   "a": 1001,
+   "b": 1046,
+   "t0": 0,
+   "t1": 45,
+   "line": "Tell me in the comments."
+  },
+  {
+   "shot": "S15",
+   "a": 1046,
+   "b": 1356,
+   "t0": 0,
+   "t1": 310,
+   "line": "And is any of this real? The rules are. No cell network until 1979. No GPS until 1978. No penicillin until 1928. A hundred years ago, a computer was a person with a pencil."
+  },
+  {
+   "shot": "S16",
+   "a": 1356,
+   "b": 1411,
+   "t0": 0,
+   "t1": 55,
+   "line": "And whoever sent that message?"
+  },
+  {
+   "shot": "S17",
+   "a": 1411,
+   "b": 1484,
+   "t0": 0,
+   "t1": 73,
+   "line": "You'll find out in part two."
   }
  ],
  "shots": [
   {
-   "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "id": "S2",
+   "size": "medium",
+   "key": 20,
+   "len": 36,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "You walk downstairs.",
+   "note": "you walk downstairs"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 34,
+   "first": 36,
+   "line": "You put the phone on",
+   "note": "you put the phone on the table"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "len": 67,
+   "first": 70,
+   "line": "the table. The man reaches for it.",
+   "note": "his hand reaches for it"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 20,
+   "len": 65,
+   "first": 137,
+   "line": "And it buzzes. One bar of signal.",
+   "note": "it buzzes: one bar"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 60,
+   "len": 57,
+   "first": 202,
+   "line": "In 1926. Which is impossible.",
+   "note": "impossible"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 20,
+   "len": 56,
+   "first": 259,
+   "line": "Unless someone else is here too.",
+   "note": "unless someone else is here too"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 76,
+   "first": 315,
+   "line": "A message appears. 'Don't give it to him.'",
+   "note": "Don't give it to him"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 72,
+   "first": 391,
+   "line": "One percent. And the screen goes black.",
+   "note": "one percent, screen goes black"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 20,
+   "len": 187,
+   "first": 463,
+   "line": "In the dark, you hear the man in the grey suit laugh, very softly. 'Well,' he says. 'That changes things.'",
+   "note": "the man laughs in the dark"
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "key": 20,
+   "len": 102,
+   "first": 650,
+   "line": "Mo grabs your sleeve. Upstairs, Ellie coughs in her sleep.",
+   "note": "Mo grabs your sleeve"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 143,
+   "first": 752,
+   "line": "And on the table, the dead phone is warm, as if something inside it is still awake.",
+   "note": "the dead phone is warm"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 60,
+   "len": 106,
+   "first": 895,
+   "line": "So what would you do? Save Ellie, or save the future?",
+   "note": "save Ellie or save the future"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 60,
+   "len": 45,
+   "first": 1001,
+   "line": "Tell me in the comments.",
+   "note": "tell me in the comments"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 60,
+   "len": 310,
+   "first": 1046,
+   "line": "And is any of this real? The rules are. No cell network until 1979. No GPS until 1978. No penicillin until 1928. A hundred years ago, a computer was a person with a pencil.",
+   "note": "what's real"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 20,
+   "len": 55,
+   "first": 1356,
+   "line": "And whoever sent that message?",
+   "note": "the message again"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 60,
+   "len": 73,
+   "first": 1411,
+   "line": "You'll find out in part two.",
+   "note": "PART 2"
   }
  ],
- "fx": [],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 6,
+   "f": 137
+  }
+ ],
  "audio": {}
 }

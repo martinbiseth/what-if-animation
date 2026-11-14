@@ -13,7 +13,7 @@ const DUSK = StreetSet();
 const NIGHT = StreetSet({ night: true, cars: false });
 const Club: React.FC<{ t: number; id?: string }> = ({ t, id }) => <JazzClub t={t} id={id} />;
 const ClubQuiet: React.FC<{ t: number; id?: string }> = ({ t, id }) => <JazzClub t={t} id={id} play={0} />;
-const Home: React.FC<{ t: number; id?: string }> = ({ t, id }) => <Kitchen t={t} id={id} />;
+const Home: React.FC<{ t: number; id?: string }> = ({ t, id }) => <Kitchen t={t} id={id} period />;
 const Room: React.FC<{ t: number; id?: string }> = ({ t, id }) => <Bedroom t={t} id={id} lamp={0} duvet clock="" />;
 
 /** One person in the club, placed on the floor with the room's perspective. */

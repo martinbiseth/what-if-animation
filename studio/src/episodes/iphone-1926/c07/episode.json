@@ -36,19 +36,190 @@
  "science": [],
  "shots": [
   {
-   "id": "S1",
-   "size": "wide",
+   "id": "S2",
+   "size": "medium",
+   "set": "stairs",
+   "note": "you walk downstairs",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "table",
+   "note": "you put the phone on the table",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "table",
+   "note": "his hand reaches for it",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "table",
+   "note": "it buzzes: one bar",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "set": "kitchen",
+   "note": "impossible",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "set": "kitchen",
+   "note": "unless someone else is here too",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "none",
+   "note": "Don't give it to him",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "none",
+   "note": "one percent, screen goes black",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "set": "dark kitchen",
+   "note": "the man laughs in the dark",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "set": "dark kitchen",
+   "note": "Mo grabs your sleeve",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "table",
+   "note": "the dead phone is warm",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "set": "none",
+   "note": "save Ellie or save the future",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "set": "none",
+   "note": "tell me in the comments",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "set": "schematic",
+   "note": "what's real",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "none",
+   "note": "the message again",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "card",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "PART 2",
+   "key": 60
   }
  ],
  "edit": [
   {
-   "shot": "S1",
+   "shot": "S2",
    "at": "f:0"
+  },
+  {
+   "shot": "S3",
+   "at": "You#2"
+  },
+  {
+   "shot": "S4",
+   "at": "The#2"
+  },
+  {
+   "shot": "S5",
+   "at": "And"
+  },
+  {
+   "shot": "S6",
+   "at": "In"
+  },
+  {
+   "shot": "S7",
+   "at": "Unless"
+  },
+  {
+   "shot": "S8",
+   "at": "A"
+  },
+  {
+   "shot": "S9",
+   "at": "One"
+  },
+  {
+   "shot": "S10",
+   "at": "In"
+  },
+  {
+   "shot": "S11",
+   "at": "Mo"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "So"
+  },
+  {
+   "shot": "S14",
+   "at": "Tell"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "You'll"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S5+0",
+   "kind": "shake",
+   "len": 10,
+   "amp": 6
+  }
+ ]
 }
