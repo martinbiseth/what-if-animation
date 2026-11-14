@@ -52,18 +52,227 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "DAY 5 over the street, colder now"
+  },
+  {
+   "id": "S2",
+   "note": "two neighbours tugging at the same box, the others watching"
+  },
+  {
+   "id": "S3",
+   "note": "a shop window, smashed: cracks run out across the glass"
+  },
+  {
+   "id": "S4",
+   "note": "the man across the street on a chair in front of his garage, a bat across his knees"
+  },
+  {
+   "id": "S5",
+   "note": "his garage door rolls up a crack: shelves of cans, floor to ceiling"
+  },
+  {
+   "id": "S6",
+   "note": "nobody's coming: radio, phone, crossed on their words"
+  },
+  {
+   "id": "S7",
+   "note": "the man in the suit at a podium, tapping a dead microphone to an empty square"
+  },
+  {
+   "id": "S8",
+   "note": "a kid runs down the street shouting the news, people turn"
+  },
+  {
+   "id": "S9",
+   "note": "a rumour on the schematic: an arrow to downtown, FOOD?"
+  },
+  {
+   "id": "S10",
+   "note": "a globe, every city dark: the same everywhere?"
+  },
+  {
+   "id": "S11",
+   "note": "close, you, thinking: only one of them is true"
+  },
+  {
+   "id": "S12",
+   "note": "far away at dusk: a nuclear plant, cooling towers, not one light"
+  },
+  {
+   "id": "S13",
+   "note": "the reactor on the schematic: the core keeps heating; the pump crossed; the temperature climbs"
+  },
+  {
+   "id": "S14",
+   "note": "FUKUSHIMA 2011"
+  },
+  {
+   "id": "S15",
+   "note": "the fact: three reactors melted down when the backup power failed"
+  },
+  {
+   "id": "S16",
+   "note": "dots over a world map: more than 400 reactors, not one pump"
+  },
+  {
+   "id": "S17",
+   "note": "somewhere, engineers in hard hats pass buckets hand to hand, red light behind them"
+  },
+  {
+   "id": "S18",
+   "note": "the kitchen table by candlelight: mum counting what's left"
+  },
+  {
+   "id": "S19",
+   "note": "insert, the table from above: cans, rice, bottles appearing as they're counted"
+  },
+  {
+   "id": "S20",
+   "note": "5 DAYS"
+  },
+  {
+   "id": "S21",
+   "note": "the front door in the dark hall: three knocks shake it"
+  },
+  {
+   "id": "S22",
+   "note": "the door open: the man with the bat in the frame, lit by mum's candle"
+  },
+  {
+   "id": "S23",
+   "note": "two-shot in the doorway: he talks, mum listens, you behind her"
+  },
+  {
+   "id": "S24",
+   "note": "close, mum: she looks at you, at Ellie, back at him"
+  },
+  {
+   "id": "S25",
+   "note": "mum, firm: half our water, for half your food"
+  },
+  {
+   "id": "S26",
+   "note": "close, the man: he thinks a long time, then nods"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "People"
+  },
+  {
+   "shot": "S3",
+   "at": "Shop"
+  },
+  {
+   "shot": "S4",
+   "at": "man"
+  },
+  {
+   "shot": "S5",
+   "at": "His"
+  },
+  {
+   "shot": "S6",
+   "at": "nobody's"
+  },
+  {
+   "shot": "S7",
+   "at": "government"
+  },
+  {
+   "shot": "S8",
+   "at": "only"
+  },
+  {
+   "shot": "S9",
+   "at": "army"
+  },
+  {
+   "shot": "S10",
+   "at": "Another"
+  },
+  {
+   "shot": "S11",
+   "at": "Only"
+  },
+  {
+   "shot": "S12",
+   "at": "Far"
+  },
+  {
+   "shot": "S13",
+   "at": "fuel"
+  },
+  {
+   "shot": "S14",
+   "at": "2011"
+  },
+  {
+   "shot": "S15",
+   "at": "three"
+  },
+  {
+   "shot": "S16",
+   "at": "Now"
+  },
+  {
+   "shot": "S17",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S18",
+   "at": "home"
+  },
+  {
+   "shot": "S19",
+   "at": "Six"
+  },
+  {
+   "shot": "S20",
+   "at": "Five"
+  },
+  {
+   "shot": "S21",
+   "at": "night"
+  },
+  {
+   "shot": "S22",
+   "at": "man"
+  },
+  {
+   "shot": "S23",
+   "at": "I've"
+  },
+  {
+   "shot": "S24",
+   "at": "looks"
+  },
+  {
+   "shot": "S25",
+   "at": "Half"
+  },
+  {
+   "shot": "S26",
+   "at": "thinks"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S3+0",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.35
+  },
+  {
+   "at": "S21+0",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.15
+  }
+ ]
 }

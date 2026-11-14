@@ -1,29 +1,467 @@
 {
  "slug": "electricity/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2403,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 55,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 55,
+   "line": "By day five, the city changes."
+  },
+  {
+   "shot": "S2",
+   "a": 55,
+   "b": 93,
+   "t0": 0,
+   "t1": 38,
+   "line": "People stop sharing."
+  },
+  {
+   "shot": "S3",
+   "a": 93,
+   "b": 145,
+   "t0": 0,
+   "t1": 52,
+   "line": "Shop windows get smashed. The"
+  },
+  {
+   "shot": "S4",
+   "a": 145,
+   "b": 250,
+   "t0": 0,
+   "t1": 105,
+   "line": "man across the street, who never says hello, now sits in front of"
+  },
+  {
+   "shot": "S5",
+   "a": 250,
+   "b": 371,
+   "t0": 0,
+   "t1": 121,
+   "line": "his garage with a baseball bat. His garage is full of canned food. And"
+  },
+  {
+   "shot": "S6",
+   "a": 371,
+   "b": 488,
+   "t0": 0,
+   "t1": 117,
+   "line": "nobody's coming to help. Radios are dead. Phones are dead. The"
+  },
+  {
+   "shot": "S7",
+   "a": 488,
+   "b": 597,
+   "t0": 0,
+   "t1": 109,
+   "line": "government can't call anyone, so it can't tell anyone anything. The"
+  },
+  {
+   "shot": "S8",
+   "a": 597,
+   "b": 671,
+   "t0": 0,
+   "t1": 74,
+   "line": "only news travels on foot. A rumor says the"
+  },
+  {
+   "shot": "S9",
+   "a": 671,
+   "b": 730,
+   "t0": 0,
+   "t1": 59,
+   "line": "army is handing out food downtown."
+  },
+  {
+   "shot": "S10",
+   "a": 730,
+   "b": 808,
+   "t0": 0,
+   "t1": 78,
+   "line": "Another says it's the same all over the world."
+  },
+  {
+   "shot": "S11",
+   "a": 808,
+   "b": 856,
+   "t0": 0,
+   "t1": 48,
+   "line": "Only one of them is true."
+  },
+  {
+   "shot": "S12",
+   "a": 856,
+   "b": 970,
+   "t0": 0,
+   "t1": 114,
+   "line": "Far away, a much bigger problem is starting. Even switched off, the"
+  },
+  {
+   "shot": "S13",
+   "a": 970,
+   "b": 1102,
+   "t0": 0,
+   "t1": 132,
+   "line": "fuel in a nuclear reactor keeps making heat, and it needs pumps to stay cool. In"
+  },
+  {
+   "shot": "S14",
+   "a": 1102,
+   "b": 1182,
+   "t0": 0,
+   "t1": 80,
+   "line": "2011, at Fukushima, the backup power failed, and"
+  },
+  {
+   "shot": "S15",
+   "a": 1182,
+   "b": 1257,
+   "t0": 0,
+   "t1": 75,
+   "line": "three reactors melted down. That's real."
+  },
+  {
+   "shot": "S16",
+   "a": 1257,
+   "b": 1389,
+   "t0": 0,
+   "t1": 132,
+   "line": "Now there are more than four hundred reactors on Earth, and not one working pump."
+  },
+  {
+   "shot": "S17",
+   "a": 1389,
+   "b": 1526,
+   "t0": 0,
+   "t1": 137,
+   "line": "Somewhere, engineers are fighting to cool them with gravity, buckets and courage. At"
+  },
+  {
+   "shot": "S18",
+   "a": 1526,
+   "b": 1588,
+   "t0": 0,
+   "t1": 62,
+   "line": "home, your mom counts what's left."
+  },
+  {
+   "shot": "S19",
+   "a": 1588,
+   "b": 1708,
+   "t0": 0,
+   "t1": 120,
+   "line": "Six cans of beans. Half a bag of rice. Twelve bottles of water."
+  },
+  {
+   "shot": "S20",
+   "a": 1708,
+   "b": 1770,
+   "t0": 0,
+   "t1": 62,
+   "line": "Five days, if you're careful. That"
+  },
+  {
+   "shot": "S21",
+   "a": 1770,
+   "b": 1846,
+   "t0": 0,
+   "t1": 76,
+   "line": "night, someone knocks on the door. It's the"
+  },
+  {
+   "shot": "S22",
+   "a": 1846,
+   "b": 1957,
+   "t0": 0,
+   "t1": 111,
+   "line": "man with the bat. He saw your water bottles through the window."
+  },
+  {
+   "shot": "S23",
+   "a": 1957,
+   "b": 2088,
+   "t0": 0,
+   "t1": 131,
+   "line": "'I've got food, ' he says. 'You've got water. Let's talk. ' Your mom"
+  },
+  {
+   "shot": "S24",
+   "a": 2088,
+   "b": 2183,
+   "t0": 0,
+   "t1": 95,
+   "line": "looks at you. Then at Ellie. Then back at him."
+  },
+  {
+   "shot": "S25",
+   "a": 2183,
+   "b": 2297,
+   "t0": 0,
+   "t1": 114,
+   "line": "'Half, ' she says. 'Half our water, for half your food. '"
+  },
+  {
+   "shot": "S26",
+   "a": 2297,
+   "b": 2403,
+   "t0": 0,
+   "t1": 106,
+   "line": "He thinks about it for a long time. Then he nods."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 27,
+   "len": 55,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "By day five, the city changes.",
+   "note": "DAY 5 over the street, colder now"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 19,
+   "len": 38,
+   "first": 55,
+   "line": "People stop sharing.",
+   "note": "two neighbours tugging at the same box, the others watching"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 26,
+   "len": 52,
+   "first": 93,
+   "line": "Shop windows get smashed. The",
+   "note": "a shop window, smashed: cracks run out across the glass"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 52,
+   "len": 105,
+   "first": 145,
+   "line": "man across the street, who never says hello, now sits in front of",
+   "note": "the man across the street on a chair in front of his garage, a bat across his knees"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 60,
+   "len": 121,
+   "first": 250,
+   "line": "his garage with a baseball bat. His garage is full of canned food. And",
+   "note": "his garage door rolls up a crack: shelves of cans, floor to ceiling"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 58,
+   "len": 117,
+   "first": 371,
+   "line": "nobody's coming to help. Radios are dead. Phones are dead. The",
+   "note": "nobody's coming: radio, phone, crossed on their words"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 54,
+   "len": 109,
+   "first": 488,
+   "line": "government can't call anyone, so it can't tell anyone anything. The",
+   "note": "the man in the suit at a podium, tapping a dead microphone to an empty square"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 37,
+   "len": 74,
+   "first": 597,
+   "line": "only news travels on foot. A rumor says the",
+   "note": "a kid runs down the street shouting the news, people turn"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 29,
+   "len": 59,
+   "first": 671,
+   "line": "army is handing out food downtown.",
+   "note": "a rumour on the schematic: an arrow to downtown, FOOD?"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 39,
+   "len": 78,
+   "first": 730,
+   "line": "Another says it's the same all over the world.",
+   "note": "a globe, every city dark: the same everywhere?"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 24,
+   "len": 48,
+   "first": 808,
+   "line": "Only one of them is true.",
+   "note": "close, you, thinking: only one of them is true"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 57,
+   "len": 114,
+   "first": 856,
+   "line": "Far away, a much bigger problem is starting. Even switched off, the",
+   "note": "far away at dusk: a nuclear plant, cooling towers, not one light"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 66,
+   "len": 132,
+   "first": 970,
+   "line": "fuel in a nuclear reactor keeps making heat, and it needs pumps to stay cool. In",
+   "note": "the reactor on the schematic: the core keeps heating; the pump crossed; the temperature climbs"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 40,
+   "len": 80,
+   "first": 1102,
+   "line": "2011, at Fukushima, the backup power failed, and",
+   "note": "FUKUSHIMA 2011"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 37,
+   "len": 75,
+   "first": 1182,
+   "line": "three reactors melted down. That's real.",
+   "note": "the fact: three reactors melted down when the backup power failed"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 66,
+   "len": 132,
+   "first": 1257,
+   "line": "Now there are more than four hundred reactors on Earth, and not one working pump.",
+   "note": "dots over a world map: more than 400 reactors, not one pump"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 68,
+   "len": 137,
+   "first": 1389,
+   "line": "Somewhere, engineers are fighting to cool them with gravity, buckets and courage. At",
+   "note": "somewhere, engineers in hard hats pass buckets hand to hand, red light behind them"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 31,
+   "len": 62,
+   "first": 1526,
+   "line": "home, your mom counts what's left.",
+   "note": "the kitchen table by candlelight: mum counting what's left"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 60,
+   "len": 120,
+   "first": 1588,
+   "line": "Six cans of beans. Half a bag of rice. Twelve bottles of water.",
+   "note": "insert, the table from above: cans, rice, bottles appearing as they're counted"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 31,
+   "len": 62,
+   "first": 1708,
+   "line": "Five days, if you're careful. That",
+   "note": "5 DAYS"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 38,
+   "len": 76,
+   "first": 1770,
+   "line": "night, someone knocks on the door. It's the",
+   "note": "the front door in the dark hall: three knocks shake it"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 55,
+   "len": 111,
+   "first": 1846,
+   "line": "man with the bat. He saw your water bottles through the window.",
+   "note": "the door open: the man with the bat in the frame, lit by mum's candle"
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 65,
+   "len": 131,
+   "first": 1957,
+   "line": "'I've got food, ' he says. 'You've got water. Let's talk. ' Your mom",
+   "note": "two-shot in the doorway: he talks, mum listens, you behind her"
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 47,
+   "len": 95,
+   "first": 2088,
+   "line": "looks at you. Then at Ellie. Then back at him.",
+   "note": "close, mum: she looks at you, at Ellie, back at him"
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 57,
+   "len": 114,
+   "first": 2183,
+   "line": "'Half, ' she says. 'Half our water, for half your food. '",
+   "note": "mum, firm: half our water, for half your food"
+  },
+  {
+   "id": "S26",
+   "size": "",
+   "key": 53,
+   "len": 106,
+   "first": 2297,
+   "line": "He thinks about it for a long time. Then he nods.",
+   "note": "close, the man: he thinks a long time, then nods"
   }
  ],
- "fx": [],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.35,
+   "f": 93
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.15,
+   "f": 1770
+  }
+ ],
  "audio": {}
 }
