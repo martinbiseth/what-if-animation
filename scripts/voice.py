@@ -16,7 +16,7 @@ import base64, hashlib, json, re, sys, time
 
 import numpy as np
 
-from wi import SR, api, spent_since, decode, ep_dir, load_episode, load_json, log_cost, out_dir, pub_dir, save_json, write_wav
+from wi import SR, api, spent_since, decode, ep_dir, load_episode, load_json, log_cost, out_dir, pub_dir, save_json, series_dir, write_wav
 
 slug = sys.argv[1]
 force = '--force' in sys.argv
@@ -24,6 +24,20 @@ ep = load_episode(slug)
 V = {'id': 'TX3LPaxmHKxFdv7VOQHJ', 'model': 'eleven_multilingual_v2', 'settings': {'stability': 0.4, 'similarity_boost': 0.8, 'style': 0.35, 'use_speaker_boost': True}}
 V.update(ep.get('voice', {}))
 text = ' '.join(b['text'].strip() for b in ep['script'])
+# In a long-form series each chapter is voiced on its own; the neighbouring chapters' text goes along as context
+# (ElevenLabs' previous_text / next_text) so the read flows across the joins instead of restarting every chapter.
+ctx = {}
+sd = series_dir(slug)
+if sd:
+    chs = [c['slug'] for c in load_json(sd / 'series.json')['chapters']]
+    me = slug.split('/')[-1]
+    if me in chs:
+        k = chs.index(me)
+        nb = lambda c: ' '.join(b['text'].strip() for b in load_json(sd / c / 'episode.json', {}).get('script', []))
+        if k > 0 and nb(chs[k - 1]):
+            ctx['previous_text'] = nb(chs[k - 1])[-600:]
+        if k + 1 < len(chs) and nb(chs[k + 1]):
+            ctx['next_text'] = nb(chs[k + 1])[:300]
 sig = hashlib.sha1(json.dumps([text, V], sort_keys=True).encode()).hexdigest()[:12]
 raw_mp3 = pub_dir(slug) / 'voice_raw.mp3'
 raw_words = out_dir(slug) / 'words_raw.json'
@@ -32,7 +46,7 @@ meta = load_json(out_dir(slug) / 'voice_meta.json', {})
 if force or meta.get('sig') != sig or not raw_mp3.exists() or not raw_words.exists():
     print(f'{len(text)} characters to ElevenLabs (voice {V["id"]})')
     t0 = time.time()
-    res = json.loads(api(f'/v1/text-to-speech/{V["id"]}/with-timestamps?output_format=mp3_44100_128', {'text': text, 'model_id': V['model'], 'voice_settings': V['settings']}))
+    res = json.loads(api(f'/v1/text-to-speech/{V["id"]}/with-timestamps?output_format=mp3_44100_128', {'text': text, 'model_id': V['model'], 'voice_settings': V['settings'], **ctx}))
     raw_mp3.write_bytes(base64.b64decode(res['audio_base64']))
     al = res['alignment']
     words, cur = [], None

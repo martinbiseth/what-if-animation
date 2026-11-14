@@ -45,11 +45,36 @@ def stem(slug, name):
     return None
 
 
+def series_dir(slug):
+    """The long-form series folder a chapter belongs to (src/episodes/<series>/ with a series.json), or None.
+    A chapter's slug is '<series>/<chapter>', e.g. 'skip-sleep/c03'."""
+    d = ep_dir(slug).parent
+    return d if (d / 'series.json').exists() and d != STUDIO / 'src' / 'episodes' else None
+
+
+def load_series(slug):
+    p = ep_dir(slug) / 'series.json'
+    if not p.exists():
+        raise SystemExit(f'No series.json at {p}: create one with long.py init')
+    return json.loads(p.read_text(encoding='utf-8'))
+
+
+# Settings a chapter inherits from its series.json "defaults" unless its own episode.json sets them.
+INHERIT = ('voice', 'gaps', 'fps', 'lead', 'tail', 'pace', 'cast')
+
+
 def load_episode(slug):
     p = ep_dir(slug) / 'episode.json'
     if not p.exists():
         raise SystemExit(f'No episode.json at {p}')
-    return json.loads(p.read_text(encoding='utf-8'))
+    ep = json.loads(p.read_text(encoding='utf-8'))
+    sd = series_dir(slug)
+    if sd:
+        defaults = json.loads((sd / 'series.json').read_text(encoding='utf-8')).get('defaults', {})
+        for k in INHERIT:
+            if k in defaults and k not in ep:
+                ep[k] = defaults[k]
+    return ep
 
 
 def load_json(p, default=None):

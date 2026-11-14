@@ -111,10 +111,14 @@ first10 = len([c for c in cuts if c < 10 * FPS])
 per_min = len(cuts) / dur * 60
 print(f'{len(segments)} segments, {len(ids)} shots, {dur:.1f} s ({end} frames)')
 print(f'pace: {per_min:.0f} cuts/min overall, {first10 / min(10, dur) * 60:.0f} cuts/min in the first 10 s; median shot {statistics.median(lens):.1f} s, longest {max(lens):.1f} s')
-if per_min < 24:
-    print('  ! slower than the genre opening (about 27 cuts a minute): split long shots or cut on more words')
+# "pace": {"min_cuts": 24, "max_hold": 4} in episode.json (or a series' defaults). A long-form chapter after the cold
+# open runs slower: about 8-12 cuts a minute and holds up to 8 s, as long as something moves inside the shot.
+PACE = {'min_cuts': 24, 'max_hold': 4}
+PACE.update(ep.get('pace', {}))
+if per_min < PACE['min_cuts']:
+    print(f'  ! slower than {PACE["min_cuts"]} cuts a minute: split long shots or cut on more words')
 for s in segments:
-    if (s['b'] - s['a']) / FPS > 4:
+    if (s['b'] - s['a']) / FPS > PACE['max_hold']:
         print(f'  ! {s["shot"]} holds {(s["b"] - s["a"]) / FPS:.1f} s: give it action inside (a move, a light change, a push in) or split it')
 rows = ['| # | Shot | Size | In | Length | Clock | Look | Words |', '|---|---|---|---|---|---|---|---|']
 for k, s in enumerate(segments):

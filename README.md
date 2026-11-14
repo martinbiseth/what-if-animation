@@ -23,6 +23,14 @@ OpenCode with a free model. Made by [FreshStack](https://freshstack.ai).
 Why the character never changes: it isn't generated, it's a rig in code. The same function draws Pip in every
 shot, so there is nothing to drift.
 
+## Long form: 8 minute YouTube episodes
+
+This fork adds full-length episodes: seven chapters on the seven beats, joined and mastered, with captions, YouTube
+chapters, a description with the sources, suggested mid-roll breaks, a thumbnail and a private upload. See
+`references/longform.md` and the "Long form" section of `SKILL.md`. Say to Claude:
+
+> Make a long What If episode (8+ minutes): what if you could pause everyone but you?
+
 ## What you need
 
 - [Claude Code](https://claude.com/claude-code), or [OpenCode](https://opencode.ai) with a free model (see
@@ -106,7 +114,7 @@ Tips for the free model:
 | `SKILL.md` | The pipeline the AI follows |
 | `references/` | The formula, the measured look and checklists, the building-block catalogue, sound, traps |
 | `studio/` | The Remotion project: the engine (rig, sets, light, UI, the episode engine) and two example episodes |
-| `scripts/` | voice, plan, stills, board, sfx, mixcheck, motiongrid, master |
+| `scripts/` | voice, plan, stills, board, sfx, mixcheck, motiongrid, master, long (chapters, render, YouTube package), upload |
 | `opencode/commands/what-if.md` | The `/what-if` command for OpenCode |
 
 ## The rules it follows

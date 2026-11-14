@@ -18,8 +18,9 @@ schematic for the science beat, a cliffhanger blackout). Read the one closest to
 | `references/kit.md` | The building blocks: engine, cast, sets, room kit, light, UI, looks, and how to add each |
 | `references/sound.md` | Writing sound events, prompts, levels, costs |
 | `references/traps.md` | Everything that cost time on the two example episodes |
+| `references/longform.md` | 8 to 10 minute episodes: seven chapters, templates, captions, YouTube packaging and rules |
 | `studio/` | The Remotion project: copy it once, then every episode lives in it |
-| `scripts/` | voice, plan, stills, board, sfx, mixcheck, motiongrid, master (Python 3.9+ and Node) |
+| `scripts/` | voice, plan, stills, board, sfx, mixcheck, motiongrid, master, and for long form long and upload (Python 3.9+ and Node) |
 
 ## Rules
 
@@ -163,6 +164,25 @@ python <skill>/scripts/master.py <slug>
 Renders, brings the mix to -14 LUFS with peaks under -1 dBTP, and writes `out/<slug>/report.json` (length, loudness,
 pace, credits). Watch the final file once through with sound. Hand over `out/<slug>/<slug>-final.mp4` and
 `out/<slug>/storyboard.jpg`, with the length, the ElevenLabs credits used, and anything you'd still improve.
+
+## Long form (8 minutes and up)
+
+When someone asks for a full-length episode (a YouTube video of 8 minutes or more, mid-roll ads, "a long version"),
+read `references/longform.md` first. In short: one series of seven chapters, one per beat of the formula, each
+chapter an ordinary episode that steps 1 to 8 above make (its slug is `<slug>/<chapter>`), then joined.
+
+```bash
+python <skill>/scripts/long.py init <slug> --id PascalId --topic "What if ...?"   # series.json + 7 chapter stubs
+python <skill>/scripts/voice.py <slug>/c01        # then plan.py, stills.mjs, board.py, sfx.py per chapter
+python <skill>/scripts/long.py status <slug>       # length against 8:00, per chapter; start every session with it
+python <skill>/scripts/long.py render <slug>       # renders the chapters that changed, joins, masters to -14 LUFS
+python <skill>/scripts/long.py youtube <slug>      # captions.srt, chapters, description, mid-rolls, thumbnail
+python <skill>/scripts/upload.py <slug>            # private upload with captions and thumbnail (after `upload.py auth`)
+```
+
+Work one chapter per session: the files carry everything between sessions. After the cold open the pace drops to
+8 to 12 cuts a minute, and most shots come from `engine/templates.tsx` (`chapterCard`, `factCard`, `talkShot`).
+Never upload or publish without the person's go-ahead.
 
 ## Where an episode lives
 
