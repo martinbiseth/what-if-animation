@@ -267,5 +267,199 @@
   "min_cuts": 24,
   "max_hold": 4
  },
- "tail": 1.2
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "plug": [
+    "an electrical plug pushed into an old wall socket, a click and nothing",
+    0.8
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "room_tone",
+    0.5,
+    "onset",
+    "S7"
+   ],
+   [
+    "S2+0",
+    "power_off",
+    0.7
+   ],
+   [
+    "S3+6",
+    "plug",
+    0.6
+   ],
+   [
+    "S3+24",
+    "beep",
+    0.5
+   ],
+   [
+    "S4+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S5+4",
+    "buzzer",
+    0.35
+   ],
+   [
+    "S6+0",
+    "glitch",
+    0.35
+   ],
+   [
+    "S8+9",
+    "buzzer",
+    0.7
+   ],
+   [
+    "S9+0",
+    "glitch",
+    0.4
+   ],
+   [
+    "S10+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S11"
+   ],
+   [
+    "S10+12",
+    "beep",
+    0.4
+   ],
+   [
+    "S11+0",
+    "clink",
+    0.5
+   ],
+   [
+    "S12+0",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S13+0",
+    "room_tone",
+    0.5,
+    "onset",
+    "S16"
+   ],
+   [
+    "S15+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S16+0",
+    "drone",
+    0.5,
+    "onset",
+    "S21"
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.9,
+    "peak"
+   ],
+   [
+    "S18+0",
+    "tick",
+    0.5,
+    "onset",
+    "S20"
+   ],
+   [
+    "S19+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S20+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S21"
+   ],
+   [
+    "S22+0",
+    "title_boom",
+    0.9,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S16"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

@@ -33,18 +33,274 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "size": "card",
+   "note": "chapter 7",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "note": "he walks away with the phone",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "the article: Internet",
+   "key": 60
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "the edit at 7:41: Shutdown complete",
+   "key": 340
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "you: how?",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "note": "WHO WROTE THAT?",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "note": "why does he want it so badly?",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "the radio crackles on by itself",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "note": "a voice says your name",
+   "key": 45
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "IS ANY OF THIS REAL?",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "what's real: all of it",
+   "key": 320
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "note": "would you have given him the phone?",
+   "key": 40
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "note": "PART 2",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
-   "at": "f:0"
+   "at": "s:0"
+  },
+  {
+   "shot": "S2",
+   "at": "s:1.3"
+  },
+  {
+   "shot": "S3",
+   "at": "s:3.4"
+  },
+  {
+   "shot": "S4",
+   "at": "s:9.4"
+  },
+  {
+   "shot": "S5",
+   "at": "s:22.0"
+  },
+  {
+   "shot": "S6",
+   "at": "s:25.7"
+  },
+  {
+   "shot": "S7",
+   "at": "s:27.2"
+  },
+  {
+   "shot": "S8",
+   "at": "s:30.3"
+  },
+  {
+   "shot": "S9",
+   "at": "s:33.3"
+  },
+  {
+   "shot": "S10",
+   "at": "s:35.8"
+  },
+  {
+   "shot": "S11",
+   "at": "s:37.3"
+  },
+  {
+   "shot": "S12",
+   "at": "s:48.5"
+  },
+  {
+   "shot": "S13",
+   "at": "s:51.6"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 2.0,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S3+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S4+160",
+    "beep",
+    0.5
+   ],
+   [
+    "S4+282",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S4+200",
+    "drone_hit",
+    0.8,
+    "peak"
+   ],
+   [
+    "S6+0",
+    "drone_hit",
+    0.7,
+    "peak"
+   ],
+   [
+    "S8+30",
+    "glitch",
+    0.8
+   ],
+   [
+    "S9+16",
+    "heartbeat",
+    0.7
+   ],
+   [
+    "S10+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S11+39",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+111",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+192",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+246",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+309",
+    "ding",
+    0.7
+   ],
+   [
+    "S13+0",
+    "title_boom",
+    0.9,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S10"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

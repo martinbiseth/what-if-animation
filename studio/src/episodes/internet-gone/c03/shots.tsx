@@ -228,7 +228,7 @@ export const S20: React.FC<ShotProps> = ({ t, len }) => (
 );
 
 // ---------- S21: Ellie asks; Mum answers ----------
-const mumLine = span(words, 'Of', 'will');
+const mumLine: [number, number] = [78.4, 79.3];
 export const S21 = talkShot({
   Set: NIGHT, setT: 1800, words,
   cast: [

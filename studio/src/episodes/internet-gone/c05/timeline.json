@@ -1,29 +1,342 @@
 {
  "slug": "internet-gone/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2174,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 33,
+   "t0": 0,
+   "t1": 33,
+   "line": "Day six."
+  },
+  {
+   "shot": "S2",
+   "a": 33,
+   "b": 123,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Everyone's phone has turned into a camera with a flashlight."
+  },
+  {
+   "shot": "S3",
+   "a": 123,
+   "b": 162,
+   "t0": 0,
+   "t1": 39,
+   "line": "But yours is different."
+  },
+  {
+   "shot": "S4",
+   "a": 162,
+   "b": 309,
+   "t0": 0,
+   "t1": 147,
+   "line": "Before that flight, you didn't just download music. You downloaded the whole of Wikipedia."
+  },
+  {
+   "shot": "S5",
+   "a": 309,
+   "b": 435,
+   "t0": 0,
+   "t1": 126,
+   "line": "Almost seven million articles, with pictures, about a hundred gigabytes."
+  },
+  {
+   "shot": "S6",
+   "a": 435,
+   "b": 489,
+   "t0": 0,
+   "t1": 54,
+   "line": "You did it because you were bored."
+  },
+  {
+   "shot": "S7",
+   "a": 489,
+   "b": 579,
+   "t0": 0,
+   "t1": 90,
+   "line": "Now you're carrying the biggest library in town in your pocket."
+  },
+  {
+   "shot": "S8",
+   "a": 579,
+   "b": 738,
+   "t0": 0,
+   "t1": 159,
+   "line": "How to purify water. How to treat a burn. How to fix an engine. How to grow potatoes."
+  },
+  {
+   "shot": "S9",
+   "a": 738,
+   "b": 873,
+   "t0": 0,
+   "t1": 135,
+   "line": "Word gets around. People knock on your door with questions, and you read them the answers."
+  },
+  {
+   "shot": "S10",
+   "a": 873,
+   "b": 1041,
+   "t0": 0,
+   "t1": 168,
+   "line": "The farmer down the road. A nurse. A guy whose solar panels won't talk to his battery anymore."
+  },
+  {
+   "shot": "S11",
+   "a": 1041,
+   "b": 1164,
+   "t0": 0,
+   "t1": 123,
+   "line": "You start writing the answers on paper, and pinning them to the library door."
+  },
+  {
+   "shot": "S12",
+   "a": 1164,
+   "b": 1374,
+   "t0": 0,
+   "t1": 210,
+   "line": "A little boy asks how to make his grandad's old radio work. You find the page, and ten minutes later it crackles to life."
+  },
+  {
+   "shot": "S13",
+   "a": 1374,
+   "b": 1584,
+   "t0": 0,
+   "t1": 210,
+   "line": "Then, on the seventh evening, a black car pulls up outside. There's no traffic anymore, so you hear it from three streets away."
+  },
+  {
+   "shot": "S14",
+   "a": 1584,
+   "b": 1641,
+   "t0": 0,
+   "t1": 57,
+   "line": "A man in a grey suit gets out."
+  },
+  {
+   "shot": "S15",
+   "a": 1641,
+   "b": 1737,
+   "t0": 0,
+   "t1": 96,
+   "line": "His shoes are clean. Nobody's shoes are clean anymore."
+  },
+  {
+   "shot": "S16",
+   "a": 1737,
+   "b": 1830,
+   "t0": 0,
+   "t1": 93,
+   "line": "He doesn't knock. He just waits until you open the door."
+  },
+  {
+   "shot": "S17",
+   "a": 1830,
+   "b": 1962,
+   "t0": 0,
+   "t1": 132,
+   "line": "'You're the kid with the encyclopedia, ' he says. 'We'd like to borrow it."
+  },
+  {
+   "shot": "S18",
+   "a": 1962,
+   "b": 2010,
+   "t0": 0,
+   "t1": 48,
+   "line": "' You ask who 'we' is."
+  },
+  {
+   "shot": "S19",
+   "a": 2010,
+   "b": 2174,
+   "t0": 0,
+   "t1": 164,
+   "line": "He smiles. 'The people trying to keep the lights on. '"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 33,
+   "first": 0,
+   "line": "Day six.",
+   "note": "chapter 5"
+  },
+  {
+   "id": "S2",
    "size": "wide",
+   "key": 40,
+   "len": 90,
+   "first": 33,
+   "line": "Everyone's phone has turned into a camera with a flashlight.",
+   "note": "phones as torches"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 20,
+   "len": 39,
+   "first": 123,
+   "line": "But yours is different.",
+   "note": "yours is different"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 90,
+   "len": 147,
+   "first": 162,
+   "line": "Before that flight, you didn't just download music. You downloaded the whole of Wikipedia.",
+   "note": "flashback: downloading Wikipedia"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 70,
+   "len": 126,
+   "first": 309,
+   "line": "Almost seven million articles, with pictures, about a hundred gigabytes.",
+   "note": "almost 7 million articles"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 54,
+   "first": 435,
+   "line": "You did it because you were bored.",
+   "note": "because you were bored"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "first": 489,
+   "line": "Now you're carrying the biggest library in town in your pocket.",
+   "note": "the offline library"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 125,
+   "len": 159,
+   "first": 579,
+   "line": "How to purify water. How to treat a burn. How to fix an engine. How to grow potatoes.",
+   "note": "purify water, burns, engines, potatoes"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 135,
+   "first": 738,
+   "line": "Word gets around. People knock on your door with questions, and you read them the answers.",
+   "note": "a queue at your door"
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "key": 110,
+   "len": 168,
+   "first": 873,
+   "line": "The farmer down the road. A nurse. A guy whose solar panels won't talk to his battery anymore.",
+   "note": "the farmer, a nurse, the solar guy"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 90,
+   "len": 123,
+   "first": 1041,
+   "line": "You start writing the answers on paper, and pinning them to the library door.",
+   "note": "pages on the library door"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 180,
+   "len": 210,
+   "first": 1164,
+   "line": "A little boy asks how to make his grandad's old radio work. You find the page, and ten minutes later it crackles to life.",
+   "note": "the boy's radio crackles to life"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 80,
+   "len": 210,
+   "first": 1374,
+   "line": "Then, on the seventh evening, a black car pulls up outside. There's no traffic anymore, so you hear it from three streets away.",
+   "note": "a black car rolls in"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 1584,
+   "line": "A man in a grey suit gets out.",
+   "note": "the man in the grey suit"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 20,
+   "len": 96,
+   "first": 1641,
+   "line": "His shoes are clean. Nobody's shoes are clean anymore.",
+   "note": "clean shoes"
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "key": 30,
+   "len": 93,
+   "first": 1737,
+   "line": "He doesn't knock. He just waits until you open the door.",
+   "note": "he waits until you open the door"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "key": 40,
+   "len": 132,
+   "first": 1830,
+   "line": "'You're the kid with the encyclopedia, ' he says. 'We'd like to borrow it.",
+   "note": "we'd like to borrow it"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 20,
+   "len": 48,
+   "first": 1962,
+   "line": "' You ask who 'we' is.",
+   "note": "who is we?"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 40,
+   "len": 164,
+   "first": 2010,
+   "line": "He smiles. 'The people trying to keep the lights on. '",
+   "note": "the people trying to keep the lights on"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "internet-gone/c05/voice.wav",
+  "sfx": "internet-gone/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3829,
+  "music": "internet-gone/c05/music.wav",
+  "musicVol": 0.073
+ }
 }

@@ -400,6 +400,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "internet-gone/c04/voice.wav"
+  "voice": "internet-gone/c04/voice.wav",
+  "sfx": "internet-gone/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5048,
+  "music": "internet-gone/c04/music.wav",
+  "musicVol": 0.0755
  }
 }

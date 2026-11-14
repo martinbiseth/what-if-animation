@@ -37,18 +37,402 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 6",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "the offer at the kitchen table",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "note": "food, fuel, medicine",
+   "key": 50
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "Ellie coughs",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "note": "the inhaler: 1 left",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "the man notices",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "a new inhaler on the table",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "note": "Mo: nobody else gets the answers",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "note": "Ellie looks up from the sofa",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "one night",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "note": "awake at night; you remember",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "note": "RADIO STILL WORKS",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "up the hill on bikes",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "the studio switches on",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "note": "on air, reading the pages",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "clean water, first aid, growing food",
+   "key": 70
+  },
+  {
+   "id": "S17",
+   "size": "montage",
+   "note": "listeners writing in the dark",
+   "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "note": "sunrise, walking home",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "note": "you hand him the phone",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "note": "Ellie breathes",
+   "key": 55
+  },
+  {
+   "id": "S21",
+   "size": "two-shot",
+   "note": "Mo: they'll keep it; you: everyone else has it too",
+   "key": 150
   }
  ],
  "edit": [
   {
    "shot": "S1",
-   "at": "f:0"
+   "at": "s:0"
+  },
+  {
+   "shot": "S2",
+   "at": "s:2.2"
+  },
+  {
+   "shot": "S3",
+   "at": "s:5.8"
+  },
+  {
+   "shot": "S4",
+   "at": "s:8.0"
+  },
+  {
+   "shot": "S5",
+   "at": "s:10.8"
+  },
+  {
+   "shot": "S6",
+   "at": "s:14.4"
+  },
+  {
+   "shot": "S7",
+   "at": "s:15.8"
+  },
+  {
+   "shot": "S8",
+   "at": "s:21.4"
+  },
+  {
+   "shot": "S9",
+   "at": "s:27.4"
+  },
+  {
+   "shot": "S10",
+   "at": "s:32.0"
+  },
+  {
+   "shot": "S11",
+   "at": "s:33.8"
+  },
+  {
+   "shot": "S12",
+   "at": "s:37.2"
+  },
+  {
+   "shot": "S13",
+   "at": "s:38.7"
+  },
+  {
+   "shot": "S14",
+   "at": "s:41.9"
+  },
+  {
+   "shot": "S15",
+   "at": "s:44.5"
+  },
+  {
+   "shot": "S16",
+   "at": "s:48.8"
+  },
+  {
+   "shot": "S17",
+   "at": "s:52.0"
+  },
+  {
+   "shot": "S18",
+   "at": "s:57.0"
+  },
+  {
+   "shot": "S19",
+   "at": "s:58.9"
+  },
+  {
+   "shot": "S20",
+   "at": "s:62.2"
+  },
+  {
+   "shot": "S21",
+   "at": "s:64.7"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.3,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+0",
+    "room_tone",
+    0.5,
+    "onset",
+    "S8"
+   ],
+   [
+    "S3+3",
+    "ding",
+    0.5
+   ],
+   [
+    "S3+21",
+    "ding",
+    0.5
+   ],
+   [
+    "S3+39",
+    "ding",
+    0.6
+   ],
+   [
+    "S4+6",
+    "cough",
+    0.9
+   ],
+   [
+    "S5+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S7+0",
+    "slide",
+    0.8
+   ],
+   [
+    "S8+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S9"
+   ],
+   [
+    "S12+2",
+    "sparkle",
+    0.7
+   ],
+   [
+    "S13+0",
+    "roof_wind",
+    0.6,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+51",
+    "switch_off",
+    0.8
+   ],
+   [
+    "S14+55",
+    "power_hum",
+    0.5
+   ],
+   [
+    "S16+3",
+    "pop",
+    0.4
+   ],
+   [
+    "S16+33",
+    "pop",
+    0.4
+   ],
+   [
+    "S16+63",
+    "pop",
+    0.4
+   ],
+   [
+    "S17+0",
+    "pencils",
+    0.6,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "pigeon",
+    0.4
+   ],
+   [
+    "S19+0",
+    "slide",
+    0.5
+   ],
+   [
+    "S20+30",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S21+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "f:99999"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

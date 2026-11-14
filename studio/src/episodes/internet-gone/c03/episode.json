@@ -293,5 +293,219 @@
   }
  ],
  "fx": [],
- "tail": 1.2
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S3+0",
+    "class_murmur",
+    0.6,
+    "onset",
+    "S4"
+   ],
+   [
+    "S3+10",
+    "laugh",
+    0.7
+   ],
+   [
+    "S4+2",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+36",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+66",
+    "pop",
+    0.5
+   ],
+   [
+    "S5+0",
+    "knock",
+    0.9
+   ],
+   [
+    "S7+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S13"
+   ],
+   [
+    "S8+0",
+    "slide",
+    0.5
+   ],
+   [
+    "S10+30",
+    "laugh",
+    0.4
+   ],
+   [
+    "S11+16",
+    "sparkle",
+    0.8
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S13+10",
+    "gasp",
+    0.6
+   ],
+   [
+    "S14+0",
+    "clink",
+    0.6
+   ],
+   [
+    "S15+0",
+    "cheer",
+    0.6
+   ],
+   [
+    "S15+60",
+    "cheer",
+    0.4
+   ],
+   [
+    "S16+20",
+    "laugh",
+    0.4
+   ],
+   [
+    "S17+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S21"
+   ],
+   [
+    "S18+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S19+0",
+    "paper",
+    0.5
+   ],
+   [
+    "S20+0",
+    "paper",
+    0.8
+   ],
+   [
+    "S22+0",
+    "drone_hit",
+    0.7,
+    "peak"
+   ],
+   [
+    "S23+0",
+    "room_tone",
+    0.4,
+    "onset",
+    "S24"
+   ],
+   [
+    "S25+0",
+    "drone",
+    0.5,
+    "onset",
+    "f:99999"
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S21"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

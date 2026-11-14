@@ -302,5 +302,176 @@
   }
  ],
  "fx": [],
- "tail": 1.2
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S3+10",
+    "buzzer",
+    0.7
+   ],
+   [
+    "S4+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S5"
+   ],
+   [
+    "S6+186",
+    "buzzer",
+    0.6
+   ],
+   [
+    "S7+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S9+0",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S10+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S11+0",
+    "drone_hit",
+    0.8,
+    "peak"
+   ],
+   [
+    "S12+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "room_tone",
+    0.4,
+    "onset",
+    "S15"
+   ],
+   [
+    "S14+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S16+0",
+    "paper",
+    0.7
+   ],
+   [
+    "S18+0",
+    "drone",
+    0.5,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S20+234",
+    "power_down",
+    0.7
+   ],
+   [
+    "S21+0",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S22+0",
+    "beep",
+    0.6
+   ],
+   [
+    "S23+20",
+    "heartbeat",
+    0.7
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

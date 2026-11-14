@@ -39,18 +39,367 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 5",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "phones as torches",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "note": "yours is different",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "flashback: downloading Wikipedia",
+   "key": 90
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "note": "almost 7 million articles",
+   "key": 70
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "because you were bored",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "the offline library",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "note": "purify water, burns, engines, potatoes",
+   "key": 125
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "note": "a queue at your door",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "note": "the farmer, a nurse, the solar guy",
+   "key": 110
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "pages on the library door",
+   "key": 90
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "note": "the boy's radio crackles to life",
+   "key": 180
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "a black car rolls in",
+   "key": 80
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "note": "the man in the grey suit",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "note": "clean shoes",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "note": "he waits until you open the door",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "note": "we'd like to borrow it",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "who is we?",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "note": "the people trying to keep the lights on",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
-   "at": "f:0"
+   "at": "s:0"
+  },
+  {
+   "shot": "S2",
+   "at": "s:1.1"
+  },
+  {
+   "shot": "S3",
+   "at": "s:4.1"
+  },
+  {
+   "shot": "S4",
+   "at": "s:5.4"
+  },
+  {
+   "shot": "S5",
+   "at": "s:10.3"
+  },
+  {
+   "shot": "S6",
+   "at": "s:14.5"
+  },
+  {
+   "shot": "S7",
+   "at": "s:16.3"
+  },
+  {
+   "shot": "S8",
+   "at": "s:19.3"
+  },
+  {
+   "shot": "S9",
+   "at": "s:24.6"
+  },
+  {
+   "shot": "S10",
+   "at": "s:29.1"
+  },
+  {
+   "shot": "S11",
+   "at": "s:34.7"
+  },
+  {
+   "shot": "S12",
+   "at": "s:38.8"
+  },
+  {
+   "shot": "S13",
+   "at": "s:45.8"
+  },
+  {
+   "shot": "S14",
+   "at": "s:52.8"
+  },
+  {
+   "shot": "S15",
+   "at": "s:54.7"
+  },
+  {
+   "shot": "S16",
+   "at": "s:57.9"
+  },
+  {
+   "shot": "S17",
+   "at": "s:61.0"
+  },
+  {
+   "shot": "S18",
+   "at": "s:65.4"
+  },
+  {
+   "shot": "S19",
+   "at": "s:67.0"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.3,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "old_car": [
+    "a 1920s motor car driving past on cobblestones, rattling engine and an old bulb horn honk",
+    3.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+10",
+    "sparkle",
+    0.6
+   ],
+   [
+    "S5+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S7+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S8+3",
+    "ding",
+    0.5
+   ],
+   [
+    "S8+45",
+    "ding",
+    0.5
+   ],
+   [
+    "S8+78",
+    "ding",
+    0.5
+   ],
+   [
+    "S8+120",
+    "ding",
+    0.5
+   ],
+   [
+    "S9+0",
+    "knock",
+    0.7
+   ],
+   [
+    "S11+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S11+40",
+    "paper",
+    0.5
+   ],
+   [
+    "S12+171",
+    "glitch",
+    0.6
+   ],
+   [
+    "S13+0",
+    "drone",
+    0.5,
+    "onset",
+    "S15"
+   ],
+   [
+    "S13+0",
+    "old_car",
+    0.5
+   ],
+   [
+    "S14+0",
+    "door_shut",
+    0.7
+   ],
+   [
+    "S15+0",
+    "sparkle",
+    0.6
+   ],
+   [
+    "S16+0",
+    "door_shut",
+    0.6
+   ],
+   [
+    "S17+0",
+    "heartbeat",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "from": "S9"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

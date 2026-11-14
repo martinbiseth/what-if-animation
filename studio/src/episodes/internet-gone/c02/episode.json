@@ -235,5 +235,207 @@
   "WHAT IF YOU COULD",
   ""
  ],
- "tail": 1.5
+ "tail": 1.5,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+0",
+    "tick",
+    0.4,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+62",
+    "power_down",
+    0.9
+   ],
+   [
+    "S4+3",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+36",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+60",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+90",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+123",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+156",
+    "pop",
+    0.5
+   ],
+   [
+    "S5+30",
+    "drone_hit",
+    0.8,
+    "peak"
+   ],
+   [
+    "S6+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "notify",
+    0.6
+   ],
+   [
+    "S9+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S10+0",
+    "drone",
+    0.4,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.7
+   ],
+   [
+    "S13+2",
+    "ding",
+    0.6
+   ],
+   [
+    "S13+50",
+    "ding",
+    0.6
+   ],
+   [
+    "S13+98",
+    "ding",
+    0.6
+   ],
+   [
+    "S14+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S16+0",
+    "glitch",
+    0.3
+   ],
+   [
+    "S17+2",
+    "sparkle",
+    0.7
+   ],
+   [
+    "S18+0",
+    "title_boom",
+    0.9,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S18"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

@@ -315,6 +315,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "internet-gone/c02/voice.wav"
+  "voice": "internet-gone/c02/voice.wav",
+  "sfx": "internet-gone/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3918,
+  "music": "internet-gone/c02/music.wav",
+  "musicVol": 0.1268
  }
 }
