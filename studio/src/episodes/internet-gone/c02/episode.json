@@ -49,22 +49,191 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 2 card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "note": "7:42 on the lock screen",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "note": "the network: every link snaps",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "note": "websites, apps, email... crossed out",
+   "key": 150
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "note": "NOT SLOW. GONE.",
+   "key": 40
+  },
+  {
+   "id": "S6",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "you on the doorstep, phone up",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "your order has shipped",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "note": "it will never arrive",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "note": "6 hours, 2021",
+   "key": 70
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "the globe: everything, forever",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "5.5 billion people",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "note": "THE RULES",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "note": "still works: power, devices, files",
+   "key": 110
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "GPS still works",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "note": "no map",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "the old radio, glowing",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "note": "REMEMBER THIS: radio still works",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "note": "the title",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Tuesday"
+  },
+  {
+   "shot": "S3",
+   "at": "Every"
+  },
+  {
+   "shot": "S4",
+   "at": "No"
+  },
+  {
+   "shot": "S5",
+   "at": "Not"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "The"
+  },
+  {
+   "shot": "S8",
+   "at": "It"
+  },
+  {
+   "shot": "S9",
+   "at": "Remember"
+  },
+  {
+   "shot": "S10",
+   "at": "Now"
+  },
+  {
+   "shot": "S11",
+   "at": "For#2"
+  },
+  {
+   "shot": "S12",
+   "at": "The"
+  },
+  {
+   "shot": "S13",
+   "at": "Electricity"
+  },
+  {
+   "shot": "S14",
+   "at": "GPS"
+  },
+  {
+   "shot": "S15",
+   "at": "It"
+  },
+  {
+   "shot": "S16",
+   "at": "Old"
+  },
+  {
+   "shot": "S17",
+   "at": "Remember"
+  },
+  {
+   "shot": "S18",
+   "at": "This"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "tail": 1.5
 }

@@ -633,3 +633,84 @@ export const CarKey: React.FC<{ x: number; y: number; s?: number; rot?: number }
 );
 
 export const offlineProgress = (t: number, a: number, b: number) => clamp((t - a) / Math.max(1, b - a));
+
+/** A city skyline at night square-on; `screens` (0..1) of its windows glow blue-white like screens, and `red` tints the sky. */
+export const CitySkyline: React.FC<{ t: number; id?: string; red?: number; lit?: number; spread?: number }> = ({ t, id = 'city', red = 0.6, lit = 0.6, spread = 0 }) => {
+  const blocks: React.ReactNode[] = [];
+  let x = -400;
+  let i = 0;
+  while (x < 2320) {
+    const w = 110 + ((i * 53) % 90);
+    const h = 300 + ((i * 137) % 420);
+    const top = 1080 - h;
+    blocks.push(<rect key={`b${i}`} x={x} y={top} width={w} height={h + 400} fill={i % 2 ? '#141029' : '#1A1533'} />);
+    for (let wy = top + 24; wy < 1060; wy += 38) {
+      for (let wx = x + 14; wx < x + w - 20; wx += 30) {
+        const r = Math.abs(Math.sin(wx * 12.9898 + wy * 78.233) * 43758.5453) % 1;
+        const on = r < lit * (1 - spread * clamp((x + 400) / 2700 + 0.2));
+        blocks.push(<rect key={`w${wx}-${wy}`} x={wx} y={wy} width={14} height={20} fill={on ? '#FFD37A' : '#0E0B1E'} opacity={on ? 0.85 : 1} />);
+      }
+    }
+    x += w + 6;
+    i++;
+  }
+  return (
+    <g>
+      <defs>
+        <linearGradient id={`${id}sky`} x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stopColor="#1A0E3A" />
+          <stop offset="0.6" stopColor={red > 0.3 ? '#5A1A4A' : '#2A2458'} />
+          <stop offset="1" stopColor={red > 0.3 ? '#B8323A' : '#4A3A7A'} />
+        </linearGradient>
+      </defs>
+      <rect x={-400} y={-400} width={2800} height={1900} fill={`url(#${id}sky)`} />
+      {blocks}
+      <rect x={-400} y={-400} width={2800} height={1900} fill="#000" opacity={0.05 + Math.sin(t / 30) * 0.02} />
+    </g>
+  );
+};
+
+/** A flat globe: blue sea, green blobs for land; `marks` red X marks pop on over time (each at its own frame). */
+export const Globe: React.FC<{ x: number; y: number; r: number; t: number; marks?: number; spin?: number }> = ({ x, y, r, t, marks = 0, spin = 0 }) => {
+  const LAND = [[-0.45, -0.3, 0.32, 0.25], [-0.3, 0.25, 0.18, 0.3], [0.15, -0.35, 0.35, 0.2], [0.2, 0.05, 0.18, 0.3], [0.55, 0.15, 0.15, 0.12], [0.6, -0.25, 0.22, 0.15]];
+  const off = ((spin * t) % 2) - 1;
+  return (
+    <g transform={`translate(${x} ${y})`}>
+      <clipPath id="globeClip"><circle r={r} /></clipPath>
+      <circle r={r + 14} fill="#7FD4FF" opacity={0.15} />
+      <circle r={r} fill="#2A5AA8" />
+      <g clipPath="url(#globeClip)">
+        {[0, 2].map((k) =>
+          LAND.map(([lx, ly, rx, ry], i) => (
+            <ellipse key={`${k}${i}`} cx={(lx + off + k - 1) * r} cy={ly * r} rx={rx * r} ry={ry * r} fill="#4AA86A" />
+          )),
+        )}
+        {Array.from({ length: Math.floor(marks) }).map((_, i) => {
+          const mx = (rnd(71, i) - 0.5) * 1.5 * r;
+          const my = (rnd(72, i) - 0.5) * 1.4 * r;
+          const k = 22;
+          return <path key={i} d={`M ${mx - k} ${my - k} L ${mx + k} ${my + k} M ${mx + k} ${my - k} L ${mx - k} ${my + k}`} stroke="#FF3A2A" strokeWidth={12} strokeLinecap="round" />;
+        })}
+        <circle cx={-r * 0.35} cy={-r * 0.35} r={r * 0.9} fill="#FFFFFF" opacity={0.07} />
+      </g>
+      <circle r={r} fill="none" stroke="#0B0816" strokeWidth={10} />
+    </g>
+  );
+};
+
+/** A kitchen tap with water running (or not). */
+export const Tap: React.FC<{ x: number; y: number; s?: number; t: number; on?: boolean }> = ({ x, y, s = 1, t, on = true }) => (
+  <g transform={`translate(${x} ${y}) scale(${s})`}>
+    <rect x={-260} y={160} width={520} height={60} rx={10} fill="#B8BCC8" stroke="#100E16" strokeWidth={6} />
+    <path d="M -40 160 V -120 Q -40 -200 60 -200 H 140 Q 180 -200 180 -160 V -110" stroke="#C8CCD6" strokeWidth={50} fill="none" strokeLinecap="round" />
+    <path d="M -40 160 V -120 Q -40 -200 60 -200 H 140 Q 180 -200 180 -160 V -110" stroke="#100E16" strokeWidth={6} fill="none" opacity={0.3} />
+    <rect x={-90} y={-20} width={100} height={30} rx={10} fill="#C8CCD6" stroke="#100E16" strokeWidth={5} />
+    {on ? (
+      <g>
+        <rect x={164} y={-100} width={32} height={260} fill="#9AD8F8" opacity={0.85} />
+        {[0, 1, 2, 3].map((k) => <rect key={k} x={170} y={-100 + ((t * 18 + k * 65) % 260)} width={8} height={30} rx={4} fill="#FFFFFF" opacity={0.7} />)}
+        <ellipse cx={180} cy={160} rx={60} ry={14} fill="#9AD8F8" opacity={0.7} />
+      </g>
+    ) : null}
+  </g>
+);

@@ -162,8 +162,8 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
         <g>
           {bg('#101018')}
           {title('Downloading', SCR.y + 160)}
-          <text x={cx} y={SCR.y + 230} textAnchor="middle" fontFamily={FONT.ui} fontSize={20} fill="#C8C8D8">{text ?? 'Wikipedia (English)'}</text>
-          <text x={cx} y={SCR.y + 262} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#8A8A9A">102 GB</text>
+          <text x={cx} y={SCR.y + 230} textAnchor="middle" fontFamily={FONT.ui} fontSize={20} fill="#C8C8D8">{(text ?? 'Wikipedia (English)|102 GB').split('|')[0]}</text>
+          <text x={cx} y={SCR.y + 262} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#8A8A9A">{(text ?? '|102 GB').split('|')[1] ?? ''}</text>
           <rect x={SCR.x + 30} y={cy} width={SCR.w - 60} height={18} rx={9} fill="#2A2A36" />
           <rect x={SCR.x + 30} y={cy} width={(SCR.w - 60) * p} height={18} rx={9} fill="#5BE08A" />
           <text x={cx} y={cy + 60} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={34} fill="#F6EFE3">{`${Math.round(p * 100)}%`}</text>
@@ -174,7 +174,7 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
       return (
         <g>
           {bg('#0A0A12')}
-          <text x={cx} y={cy + 30} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={96} fill="#F6EFE3">{text ?? '7:42'}</text>
+          <text x={cx} y={cy + 30} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={(text ?? '7:42').length > 4 ? 64 : 96} fill="#F6EFE3">{text ?? '7:42'}</text>
         </g>
       );
 

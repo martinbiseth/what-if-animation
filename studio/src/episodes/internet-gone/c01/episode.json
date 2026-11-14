@@ -41,22 +41,231 @@
  "shots": [
   {
    "id": "S1",
+   "size": "bed",
+   "note": "from above, you wake, the phone lights your face",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "note": "OFFLINE on the phone",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "the router: off and on, the lights go red",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "still offline",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "note": "not delivered",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "blank grey map",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "Mum at the shop counter",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "the terminal: DECLINED",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "note": "the TV: spinning circle",
+   "key": 20
+  },
+  {
+   "id": "S10",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "Dad, the car won't unlock",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "the actual key",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "cannot connect to server",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "the kitchen: lights still on",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "note": "the tap still runs",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "note": "seventy percent",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "montage",
+   "note": "every screen: OFFLINE",
+   "key": 70
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "note": "OFFLINE, huge, over the city",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "note": "the globe, red crosses everywhere",
+   "key": 70
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "note": "7:42 on every phone",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "note": "the whole street holding phones up",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "note": "you: the question",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "note": "pull back over the dark city: FOREVER.",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Offline"
+  },
+  {
+   "shot": "S3",
+   "at": "Restart"
+  },
+  {
+   "shot": "S4",
+   "at": "Still"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "Your"
+  },
+  {
+   "shot": "S8",
+   "at": "Declined"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S11",
+   "at": "He"
+  },
+  {
+   "shot": "S12",
+   "at": "Mum's"
+  },
+  {
+   "shot": "S13",
+   "at": "The"
+  },
+  {
+   "shot": "S14",
+   "at": "The"
+  },
+  {
+   "shot": "S15",
+   "at": "Your"
+  },
+  {
+   "shot": "S16",
+   "at": "But"
+  },
+  {
+   "shot": "S17",
+   "at": "Offline"
+  },
+  {
+   "shot": "S18",
+   "at": "In"
+  },
+  {
+   "shot": "S19",
+   "at": "At"
+  },
+  {
+   "shot": "S20",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S21",
+   "at": "So"
+  },
+  {
+   "shot": "S22",
+   "at": "Forever"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
- }
+ },
+ "tail": 1.2
 }

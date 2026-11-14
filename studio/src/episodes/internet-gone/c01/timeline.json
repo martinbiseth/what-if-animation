@@ -1,29 +1,388 @@
 {
  "slug": "internet-gone/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1484,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 70,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 70,
+   "line": "You wake up and your phone says one word."
+  },
+  {
+   "shot": "S2",
+   "a": 70,
+   "b": 121,
+   "t0": 0,
+   "t1": 51,
+   "line": "Offline. Okay."
+  },
+  {
+   "shot": "S3",
+   "a": 121,
+   "b": 156,
+   "t0": 0,
+   "t1": 35,
+   "line": "Restart the router."
+  },
+  {
+   "shot": "S4",
+   "a": 156,
+   "b": 192,
+   "t0": 0,
+   "t1": 36,
+   "line": "Still offline."
+  },
+  {
+   "shot": "S5",
+   "a": 192,
+   "b": 266,
+   "t0": 0,
+   "t1": 74,
+   "line": "You open your messages. Not delivered."
+  },
+  {
+   "shot": "S6",
+   "a": 266,
+   "b": 347,
+   "t0": 0,
+   "t1": 81,
+   "line": "You try the map. Blank grey squares."
+  },
+  {
+   "shot": "S7",
+   "a": 347,
+   "b": 404,
+   "t0": 0,
+   "t1": 57,
+   "line": "Your mum taps her card at the shop."
+  },
+  {
+   "shot": "S8",
+   "a": 404,
+   "b": 433,
+   "t0": 0,
+   "t1": 29,
+   "line": "Declined."
+  },
+  {
+   "shot": "S9",
+   "a": 433,
+   "b": 519,
+   "t0": 0,
+   "t1": 86,
+   "line": "The TV. Every show is a spinning circle."
+  },
+  {
+   "shot": "S10",
+   "a": 519,
+   "b": 586,
+   "t0": 0,
+   "t1": 67,
+   "line": "Your dad's car won't unlock from the app."
+  },
+  {
+   "shot": "S11",
+   "a": 586,
+   "b": 646,
+   "t0": 0,
+   "t1": 60,
+   "line": "He has to find the actual key."
+  },
+  {
+   "shot": "S12",
+   "a": 646,
+   "b": 742,
+   "t0": 0,
+   "t1": 96,
+   "line": "Mum's work laptop: cannot connect to server."
+  },
+  {
+   "shot": "S13",
+   "a": 742,
+   "b": 785,
+   "t0": 0,
+   "t1": 43,
+   "line": "The lights still work."
+  },
+  {
+   "shot": "S14",
+   "a": 785,
+   "b": 831,
+   "t0": 0,
+   "t1": 46,
+   "line": "The water still runs."
+  },
+  {
+   "shot": "S15",
+   "a": 831,
+   "b": 897,
+   "t0": 0,
+   "t1": 66,
+   "line": "Your phone still has seventy percent."
+  },
+  {
+   "shot": "S16",
+   "a": 897,
+   "b": 984,
+   "t0": 0,
+   "t1": 87,
+   "line": "But every screen in the world is saying the same word."
+  },
+  {
+   "shot": "S17",
+   "a": 984,
+   "b": 1014,
+   "t0": 0,
+   "t1": 30,
+   "line": "Offline."
+  },
+  {
+   "shot": "S18",
+   "a": 1014,
+   "b": 1097,
+   "t0": 0,
+   "t1": 83,
+   "line": "In every country. On every network."
+  },
+  {
+   "shot": "S19",
+   "a": 1097,
+   "b": 1156,
+   "t0": 0,
+   "t1": 59,
+   "line": "At exactly the same second."
+  },
+  {
+   "shot": "S20",
+   "a": 1156,
+   "b": 1251,
+   "t0": 0,
+   "t1": 95,
+   "line": "Nobody switched it off. Nobody can switch it back on."
+  },
+  {
+   "shot": "S21",
+   "a": 1251,
+   "b": 1398,
+   "t0": 0,
+   "t1": 147,
+   "line": "So what would actually happen to you, and to everyone, if the internet just disappeared?"
+  },
+  {
+   "shot": "S22",
+   "a": 1398,
+   "b": 1484,
+   "t0": 0,
+   "t1": 86,
+   "line": "Forever. Without warning."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "bed",
    "key": 30,
-   "len": 90,
+   "len": 70,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "You wake up and your phone says one word.",
+   "note": "from above, you wake, the phone lights your face"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 51,
+   "first": 70,
+   "line": "Offline. Okay.",
+   "note": "OFFLINE on the phone"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 35,
+   "first": 121,
+   "line": "Restart the router.",
+   "note": "the router: off and on, the lights go red"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "len": 36,
+   "first": 156,
+   "line": "Still offline.",
+   "note": "still offline"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 20,
+   "len": 74,
+   "first": 192,
+   "line": "You open your messages. Not delivered.",
+   "note": "not delivered"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "len": 81,
+   "first": 266,
+   "line": "You try the map. Blank grey squares.",
+   "note": "blank grey map"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 20,
+   "len": 57,
+   "first": 347,
+   "line": "Your mum taps her card at the shop.",
+   "note": "Mum at the shop counter"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 29,
+   "first": 404,
+   "line": "Declined.",
+   "note": "the terminal: DECLINED"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 86,
+   "first": 433,
+   "line": "The TV. Every show is a spinning circle.",
+   "note": "the TV: spinning circle"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 20,
+   "len": 67,
+   "first": 519,
+   "line": "Your dad's car won't unlock from the app.",
+   "note": "Dad, the car won't unlock"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 20,
+   "len": 60,
+   "first": 586,
+   "line": "He has to find the actual key.",
+   "note": "the actual key"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 96,
+   "first": 646,
+   "line": "Mum's work laptop: cannot connect to server.",
+   "note": "cannot connect to server"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 20,
+   "len": 43,
+   "first": 742,
+   "line": "The lights still work.",
+   "note": "the kitchen: lights still on"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 20,
+   "len": 46,
+   "first": 785,
+   "line": "The water still runs.",
+   "note": "the tap still runs"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 20,
+   "len": 66,
+   "first": 831,
+   "line": "Your phone still has seventy percent.",
+   "note": "seventy percent"
+  },
+  {
+   "id": "S16",
+   "size": "montage",
+   "key": 70,
+   "len": 87,
+   "first": 897,
+   "line": "But every screen in the world is saying the same word.",
+   "note": "every screen: OFFLINE"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 20,
+   "len": 30,
+   "first": 984,
+   "line": "Offline.",
+   "note": "OFFLINE, huge, over the city"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 70,
+   "len": 83,
+   "first": 1014,
+   "line": "In every country. On every network.",
+   "note": "the globe, red crosses everywhere"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 59,
+   "first": 1097,
+   "line": "At exactly the same second.",
+   "note": "7:42 on every phone"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 20,
+   "len": 95,
+   "first": 1156,
+   "line": "Nobody switched it off. Nobody can switch it back on.",
+   "note": "the whole street holding phones up"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 40,
+   "len": 147,
+   "first": 1251,
+   "line": "So what would actually happen to you, and to everyone, if the internet just disappeared?",
+   "note": "you: the question"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 60,
+   "len": 86,
+   "first": 1398,
+   "line": "Forever. Without warning.",
+   "note": "pull back over the dark city: FOREVER."
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "internet-gone/c01/voice.wav"
+ }
 }

@@ -41,18 +41,257 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 3 card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "note": "kind of great",
+   "key": 20
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "the classroom: GO HOME",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "note": "homework portal, grades, group chat: gone",
+   "key": 80
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "note": "Mo knocks: is yours down too?",
+   "key": 120
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "something weird",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "the whole street outside comparing phones",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "a dad drags out the barbecue",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "note": "football in the empty road",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "note": "the board game on the wall",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "note": "you remember",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "flashback: 200 songs downloading",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "the street turns to hear your phone",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "note": "the phone in a cooking pot",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "the street party, Mo's mum on guitar",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "note": "Mo: you're a genius",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "note": "sunset: sitting on walls, talking",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "note": "screen time: 0h 0m",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "note": "Ellie teaches a card game",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "note": "Mum's paper maps",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "two-shot",
+   "note": "Ellie asks; Mum: of course",
+   "key": 100
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "note": "SHE'S WRONG.",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "note": "night: the street still outside",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "note": "nobody knows yet",
+   "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "note": "the hub: everything the internet held up",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Honestly,"
+  },
+  {
+   "shot": "S3",
+   "at": "School"
+  },
+  {
+   "shot": "S4",
+   "at": "No"
+  },
+  {
+   "shot": "S5",
+   "at": "Mo"
+  },
+  {
+   "shot": "S6",
+   "at": "So"
+  },
+  {
+   "shot": "S7",
+   "at": "You#2"
+  },
+  {
+   "shot": "S8",
+   "at": "Someone's"
+  },
+  {
+   "shot": "S9",
+   "at": "Kids"
+  },
+  {
+   "shot": "S10",
+   "at": "Someone"
+  },
+  {
+   "shot": "S11",
+   "at": "And"
+  },
+  {
+   "shot": "S12",
+   "at": "Last"
+  },
+  {
+   "shot": "S13",
+   "at": "Suddenly"
+  },
+  {
+   "shot": "S14",
+   "at": "You#2"
+  },
+  {
+   "shot": "S15",
+   "at": "The"
+  },
+  {
+   "shot": "S16",
+   "at": "Mo"
+  },
+  {
+   "shot": "S17",
+   "at": "By"
+  },
+  {
+   "shot": "S18",
+   "at": "Your"
+  },
+  {
+   "shot": "S19",
+   "at": "Your"
+  },
+  {
+   "shot": "S20",
+   "at": "Your"
+  },
+  {
+   "shot": "S21",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S22",
+   "at": "She's"
+  },
+  {
+   "shot": "S23",
+   "at": "For"
+  },
+  {
+   "shot": "S24",
+   "at": "But"
+  },
+  {
+   "shot": "S25",
+   "at": "Because"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2
 }

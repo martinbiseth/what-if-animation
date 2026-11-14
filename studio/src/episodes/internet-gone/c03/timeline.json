@@ -1,29 +1,439 @@
 {
  "slug": "internet-gone/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2791,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 55,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 55,
+   "line": "And for the first few hours?"
+  },
+  {
+   "shot": "S2",
+   "a": 55,
+   "b": 104,
+   "t0": 0,
+   "t1": 49,
+   "line": "Honestly, it's kind of great."
+  },
+  {
+   "shot": "S3",
+   "a": 104,
+   "b": 204,
+   "t0": 0,
+   "t1": 100,
+   "line": "School sends everyone home, because nobody can log in to anything."
+  },
+  {
+   "shot": "S4",
+   "a": 204,
+   "b": 334,
+   "t0": 0,
+   "t1": 130,
+   "line": "No homework portal. No grades. No group chat buzzing at midnight."
+  },
+  {
+   "shot": "S5",
+   "a": 334,
+   "b": 531,
+   "t0": 0,
+   "t1": 197,
+   "line": "Mo knocks on your door instead of texting, which he has never done in his life. 'Is yours down too? ' Everyone's is down."
+  },
+  {
+   "shot": "S6",
+   "a": 531,
+   "b": 581,
+   "t0": 0,
+   "t1": 50,
+   "line": "So you do something weird."
+  },
+  {
+   "shot": "S7",
+   "a": 581,
+   "b": 764,
+   "t0": 0,
+   "t1": 183,
+   "line": "You go outside. The whole street is out there. Neighbours you've never met are comparing phones, like that will help."
+  },
+  {
+   "shot": "S8",
+   "a": 764,
+   "b": 905,
+   "t0": 0,
+   "t1": 141,
+   "line": "Someone's dad drags a barbecue onto the pavement, because the freezer stuff won't eat itself."
+  },
+  {
+   "shot": "S9",
+   "a": 905,
+   "b": 1025,
+   "t0": 0,
+   "t1": 120,
+   "line": "Kids play football in the road, because nobody can find anywhere to drive to."
+  },
+  {
+   "shot": "S10",
+   "a": 1025,
+   "b": 1228,
+   "t0": 0,
+   "t1": 203,
+   "line": "Someone finds an old board game with half the pieces missing. Nobody cares. It's the best game anyone has ever played."
+  },
+  {
+   "shot": "S11",
+   "a": 1228,
+   "b": 1278,
+   "t0": 0,
+   "t1": 50,
+   "line": "And then you remember something."
+  },
+  {
+   "shot": "S12",
+   "a": 1278,
+   "b": 1412,
+   "t0": 0,
+   "t1": 134,
+   "line": "Last month, before a long flight, you downloaded two hundred songs to your phone."
+  },
+  {
+   "shot": "S13",
+   "a": 1412,
+   "b": 1494,
+   "t0": 0,
+   "t1": 82,
+   "line": "Suddenly you are the only person on the street with music."
+  },
+  {
+   "shot": "S14",
+   "a": 1494,
+   "b": 1593,
+   "t0": 0,
+   "t1": 99,
+   "line": "You put your phone in a cooking pot to make it louder. It works."
+  },
+  {
+   "shot": "S15",
+   "a": 1593,
+   "b": 1732,
+   "t0": 0,
+   "t1": 139,
+   "line": "The whole street starts dancing. Mo's mum brings out a guitar nobody knew she could play."
+  },
+  {
+   "shot": "S16",
+   "a": 1732,
+   "b": 1792,
+   "t0": 0,
+   "t1": 60,
+   "line": "Mo looks at you like you're a genius."
+  },
+  {
+   "shot": "S17",
+   "a": 1792,
+   "b": 1914,
+   "t0": 0,
+   "t1": 122,
+   "line": "By sunset, you've had more real conversations than in the whole last year."
+  },
+  {
+   "shot": "S18",
+   "a": 1914,
+   "b": 2016,
+   "t0": 0,
+   "t1": 102,
+   "line": "Your screen time? Zero hours, zero minutes."
+  },
+  {
+   "shot": "S19",
+   "a": 2016,
+   "b": 2103,
+   "t0": 0,
+   "t1": 87,
+   "line": "Your little sister Ellie teaches half the street a card game."
+  },
+  {
+   "shot": "S20",
+   "a": 2103,
+   "b": 2252,
+   "t0": 0,
+   "t1": 149,
+   "line": "Your mum finds a box of paper maps in the attic, and everyone crowds around them like they're treasure."
+  },
+  {
+   "shot": "S21",
+   "a": 2252,
+   "b": 2386,
+   "t0": 0,
+   "t1": 134,
+   "line": "Ellie asks if the internet will be back tomorrow. Mum says, 'Of course it will. '"
+  },
+  {
+   "shot": "S22",
+   "a": 2386,
+   "b": 2416,
+   "t0": 0,
+   "t1": 30,
+   "line": "She's wrong."
+  },
+  {
+   "shot": "S23",
+   "a": 2416,
+   "b": 2539,
+   "t0": 0,
+   "t1": 123,
+   "line": "For one evening, it feels like the whole world logged off and came outside."
+  },
+  {
+   "shot": "S24",
+   "a": 2539,
+   "b": 2646,
+   "t0": 0,
+   "t1": 107,
+   "line": "But here's what nobody on your street knows yet. That was the best day."
+  },
+  {
+   "shot": "S25",
+   "a": 2646,
+   "b": 2791,
+   "t0": 0,
+   "t1": 145,
+   "line": "Because the internet wasn't just apps. It was holding everything else together."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 55,
+   "first": 0,
+   "line": "And for the first few hours?",
+   "note": "chapter 3 card"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "key": 20,
+   "len": 49,
+   "first": 55,
+   "line": "Honestly, it's kind of great.",
+   "note": "kind of great"
+  },
+  {
+   "id": "S3",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 100,
+   "first": 104,
+   "line": "School sends everyone home, because nobody can log in to anything.",
+   "note": "the classroom: GO HOME"
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "key": 80,
+   "len": 130,
+   "first": 204,
+   "line": "No homework portal. No grades. No group chat buzzing at midnight.",
+   "note": "homework portal, grades, group chat: gone"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 120,
+   "len": 197,
+   "first": 334,
+   "line": "Mo knocks on your door instead of texting, which he has never done in his life. 'Is yours down too? ' Everyone's is down.",
+   "note": "Mo knocks: is yours down too?"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 50,
+   "first": 531,
+   "line": "So you do something weird.",
+   "note": "something weird"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 60,
+   "len": 183,
+   "first": 581,
+   "line": "You go outside. The whole street is out there. Neighbours you've never met are comparing phones, like that will help.",
+   "note": "the whole street outside comparing phones"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 50,
+   "len": 141,
+   "first": 764,
+   "line": "Someone's dad drags a barbecue onto the pavement, because the freezer stuff won't eat itself.",
+   "note": "a dad drags out the barbecue"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 120,
+   "first": 905,
+   "line": "Kids play football in the road, because nobody can find anywhere to drive to.",
+   "note": "football in the empty road"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 60,
+   "len": 203,
+   "first": 1025,
+   "line": "Someone finds an old board game with half the pieces missing. Nobody cares. It's the best game anyone has ever played.",
+   "note": "the board game on the wall"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 40,
+   "len": 50,
+   "first": 1228,
+   "line": "And then you remember something.",
+   "note": "you remember"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 60,
+   "len": 134,
+   "first": 1278,
+   "line": "Last month, before a long flight, you downloaded two hundred songs to your phone.",
+   "note": "flashback: 200 songs downloading"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 82,
+   "first": 1412,
+   "line": "Suddenly you are the only person on the street with music.",
+   "note": "the street turns to hear your phone"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 30,
+   "len": 99,
+   "first": 1494,
+   "line": "You put your phone in a cooking pot to make it louder. It works.",
+   "note": "the phone in a cooking pot"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 40,
+   "len": 139,
+   "first": 1593,
+   "line": "The whole street starts dancing. Mo's mum brings out a guitar nobody knew she could play.",
+   "note": "the street party, Mo's mum on guitar"
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "key": 30,
+   "len": 60,
+   "first": 1732,
+   "line": "Mo looks at you like you're a genius.",
+   "note": "Mo: you're a genius"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 40,
+   "len": 122,
+   "first": 1792,
+   "line": "By sunset, you've had more real conversations than in the whole last year.",
+   "note": "sunset: sitting on walls, talking"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 20,
+   "len": 102,
+   "first": 1914,
+   "line": "Your screen time? Zero hours, zero minutes.",
+   "note": "screen time: 0h 0m"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 40,
+   "len": 87,
+   "first": 2016,
+   "line": "Your little sister Ellie teaches half the street a card game.",
+   "note": "Ellie teaches a card game"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 40,
+   "len": 149,
+   "first": 2103,
+   "line": "Your mum finds a box of paper maps in the attic, and everyone crowds around them like they're treasure.",
+   "note": "Mum's paper maps"
+  },
+  {
+   "id": "S21",
+   "size": "two-shot",
+   "key": 100,
+   "len": 134,
+   "first": 2252,
+   "line": "Ellie asks if the internet will be back tomorrow. Mum says, 'Of course it will. '",
+   "note": "Ellie asks; Mum: of course"
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "key": 20,
+   "len": 30,
+   "first": 2386,
+   "line": "She's wrong.",
+   "note": "SHE'S WRONG."
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 40,
+   "len": 123,
+   "first": 2416,
+   "line": "For one evening, it feels like the whole world logged off and came outside.",
+   "note": "night: the street still outside"
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "key": 40,
+   "len": 107,
+   "first": 2539,
+   "line": "But here's what nobody on your street knows yet. That was the best day.",
+   "note": "nobody knows yet"
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "key": 60,
+   "len": 145,
+   "first": 2646,
+   "line": "Because the internet wasn't just apps. It was holding everything else together.",
+   "note": "the hub: everything the internet held up"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "internet-gone/c03/voice.wav"
+ }
 }

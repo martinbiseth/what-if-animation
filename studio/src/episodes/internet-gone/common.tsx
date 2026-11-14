@@ -232,3 +232,54 @@ export const HeldPhone: React.FC<{ pose: Pose; side?: 'L' | 'R'; mode?: ScreenMo
 
 /** A cast member as a pose on the street's pavement. */
 export const at = (x: number, o: Partial<Pose> = {}, scale = 1): Pose => ({ ...basePose, x, y: suburbHip(scale), scale, ...o });
+
+// ---------------------------------------------------------------- cards
+import { CitySkyline, Schematic, SCH } from '../../engine';
+
+/** A chapter opener over the city at night: kicker, title, a slow push. */
+export const netCard = (o: { kicker: string; title: string; red?: number; lit?: number }): React.FC<ShotProps> => {
+  const Card: React.FC<ShotProps> = ({ t, len }) => {
+    const pop = (d: number) => backOut(clamp((t - d) / 9));
+    const z = kf(t, [[0, 1], [Math.max(len, 1), 1.06]]);
+    return (
+      <g>
+        <g transform={camT(960, 560, z)}>
+          <CitySkyline t={t} id="card" red={o.red ?? 0.6} lit={o.lit ?? 0.5} />
+        </g>
+        <rect width={1920} height={1080} fill="#0E0C1E" opacity={0.4} />
+        <g transform={`translate(960 420) scale(${pop(1)})`}>
+          <text textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={8} fill="#FF8A3D">{o.kicker}</text>
+        </g>
+        <g transform={`translate(960 545) scale(${pop(3)})`}>
+          <text textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={o.title.length > 18 ? 100 : 124} fill="#F6EFE3" stroke="#1A1230" strokeWidth={12} paintOrder="stroke">{o.title}</text>
+        </g>
+      </g>
+    );
+  };
+  return Card;
+};
+
+/** A list on the schematic: each item pops on at its frame, with a green tick (ok) or a red cross. */
+export const listCard = (o: { title?: string; items: { at: number; text: string; ok: boolean; hot?: boolean }[] }): React.FC<ShotProps> => {
+  const Card: React.FC<ShotProps> = ({ t }) => (
+    <g>
+      <Schematic t={t} id="list" />
+      {o.title ? <text x={960} y={200} textAnchor="middle" fontFamily={FONT.ui} fontSize={44} letterSpacing={10} fill={SCH.dim}>{o.title}</text> : null}
+      {o.items.map((it, i) => {
+        const p = backOut(clamp((t - it.at) / 8));
+        const y = 330 + i * (560 / Math.max(o.items.length, 1));
+        return (
+          <g key={i} transform={`translate(560 ${y}) scale(${p})`} opacity={clamp((t - it.at) / 4)}>
+            {it.ok ? (
+              <path d="M -40 0 L -10 30 L 44 -34" stroke="#5BE08A" strokeWidth={18} fill="none" strokeLinecap="round" />
+            ) : (
+              <path d="M -34 -34 L 34 34 M 34 -34 L -34 34" stroke="#FF3A2A" strokeWidth={18} strokeLinecap="round" />
+            )}
+            <text x={90} y={26} fontFamily={FONT.title} fontWeight={800} fontSize={it.hot ? 92 : 76} fill={it.hot ? '#FFB15A' : '#F6EFE3'} textDecoration={it.ok ? undefined : 'line-through'}>{it.text}</text>
+          </g>
+        );
+      })}
+    </g>
+  );
+  return Card;
+};

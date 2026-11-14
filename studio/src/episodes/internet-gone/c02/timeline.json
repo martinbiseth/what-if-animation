@@ -1,29 +1,320 @@
 {
  "slug": "internet-gone/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1818,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 35,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 35,
+   "line": "Here's how it goes."
+  },
+  {
+   "shot": "S2",
+   "a": 35,
+   "b": 103,
+   "t0": 0,
+   "t1": 68,
+   "line": "Tuesday, seven forty- two in the morning."
+  },
+  {
+   "shot": "S3",
+   "a": 103,
+   "b": 194,
+   "t0": 0,
+   "t1": 91,
+   "line": "Every connection between every computer on Earth just stops."
+  },
+  {
+   "shot": "S4",
+   "a": 194,
+   "b": 382,
+   "t0": 0,
+   "t1": 188,
+   "line": "No websites. No apps. No email. No video calls. No streaming. No online games."
+  },
+  {
+   "shot": "S5",
+   "a": 382,
+   "b": 436,
+   "t0": 0,
+   "t1": 54,
+   "line": "Not slow. Gone."
+  },
+  {
+   "shot": "S6",
+   "a": 436,
+   "b": 485,
+   "t0": 0,
+   "t1": 49,
+   "line": "And it never comes back."
+  },
+  {
+   "shot": "S7",
+   "a": 485,
+   "b": 609,
+   "t0": 0,
+   "t1": 124,
+   "line": "The last notification on your lock screen says: 'Your order has shipped. '"
+  },
+  {
+   "shot": "S8",
+   "a": 609,
+   "b": 656,
+   "t0": 0,
+   "t1": 47,
+   "line": "It will never arrive."
+  },
+  {
+   "shot": "S9",
+   "a": 656,
+   "b": 846,
+   "t0": 0,
+   "t1": 190,
+   "line": "Remember when WhatsApp and Instagram went down for six hours in 2021, and it was news all over the world?"
+  },
+  {
+   "shot": "S10",
+   "a": 846,
+   "b": 935,
+   "t0": 0,
+   "t1": 89,
+   "line": "Now imagine that for everything. Forever."
+  },
+  {
+   "shot": "S11",
+   "a": 935,
+   "b": 1001,
+   "t0": 0,
+   "t1": 66,
+   "line": "For five and a half billion people."
+  },
+  {
+   "shot": "S12",
+   "a": 1001,
+   "b": 1045,
+   "t0": 0,
+   "t1": 44,
+   "line": "The rules are simple."
+  },
+  {
+   "shot": "S13",
+   "a": 1045,
+   "b": 1225,
+   "t0": 0,
+   "t1": 180,
+   "line": "Electricity still works. Your devices still work. Anything already saved on them is still there."
+  },
+  {
+   "shot": "S14",
+   "a": 1225,
+   "b": 1365,
+   "t0": 0,
+   "t1": 140,
+   "line": "GPS satellites keep circling, so your phone still knows exactly where you are."
+  },
+  {
+   "shot": "S15",
+   "a": 1365,
+   "b": 1457,
+   "t0": 0,
+   "t1": 92,
+   "line": "It just can't show you a map. And one more thing."
+  },
+  {
+   "shot": "S16",
+   "a": 1457,
+   "b": 1626,
+   "t0": 0,
+   "t1": 169,
+   "line": "Old radios, the kind with an antenna, still work fine, because radio never needed the internet."
+  },
+  {
+   "shot": "S17",
+   "a": 1626,
+   "b": 1697,
+   "t0": 0,
+   "t1": 71,
+   "line": "Remember that. It matters later."
+  },
+  {
+   "shot": "S18",
+   "a": 1697,
+   "b": 1818,
+   "t0": 0,
+   "t1": 121,
+   "line": "This is what if the internet just disappeared forever."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 35,
+   "first": 0,
+   "line": "Here's how it goes.",
+   "note": "chapter 2 card"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 68,
+   "first": 35,
+   "line": "Tuesday, seven forty- two in the morning.",
+   "note": "7:42 on the lock screen"
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "key": 70,
+   "len": 91,
+   "first": 103,
+   "line": "Every connection between every computer on Earth just stops.",
+   "note": "the network: every link snaps"
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "key": 150,
+   "len": 188,
+   "first": 194,
+   "line": "No websites. No apps. No email. No video calls. No streaming. No online games.",
+   "note": "websites, apps, email... crossed out"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 40,
+   "len": 54,
+   "first": 382,
+   "line": "Not slow. Gone.",
+   "note": "NOT SLOW. GONE."
+  },
+  {
+   "id": "S6",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "len": 49,
+   "first": 436,
+   "line": "And it never comes back.",
+   "note": "you on the doorstep, phone up"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 20,
+   "len": 124,
+   "first": 485,
+   "line": "The last notification on your lock screen says: 'Your order has shipped. '",
+   "note": "your order has shipped"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 20,
+   "len": 47,
+   "first": 609,
+   "line": "It will never arrive.",
+   "note": "it will never arrive"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 70,
+   "len": 190,
+   "first": 656,
+   "line": "Remember when WhatsApp and Instagram went down for six hours in 2021, and it was news all over the world?",
+   "note": "6 hours, 2021"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 40,
+   "len": 89,
+   "first": 846,
+   "line": "Now imagine that for everything. Forever.",
+   "note": "the globe: everything, forever"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 70,
+   "len": 66,
+   "first": 935,
+   "line": "For five and a half billion people.",
+   "note": "5.5 billion people"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 20,
+   "len": 44,
+   "first": 1001,
+   "line": "The rules are simple.",
+   "note": "THE RULES"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 110,
+   "len": 180,
+   "first": 1045,
+   "line": "Electricity still works. Your devices still work. Anything already saved on them is still there.",
+   "note": "still works: power, devices, files"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 30,
+   "len": 140,
+   "first": 1225,
+   "line": "GPS satellites keep circling, so your phone still knows exactly where you are.",
+   "note": "GPS still works"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 20,
+   "len": 92,
+   "first": 1365,
+   "line": "It just can't show you a map. And one more thing.",
+   "note": "no map"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "len": 169,
+   "first": 1457,
+   "line": "Old radios, the kind with an antenna, still work fine, because radio never needed the internet.",
+   "note": "the old radio, glowing"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 20,
+   "len": 71,
+   "first": 1626,
+   "line": "Remember that. It matters later.",
+   "note": "REMEMBER THIS: radio still works"
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "key": 40,
+   "len": 121,
+   "first": 1697,
+   "line": "This is what if the internet just disappeared forever.",
+   "note": "the title"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "internet-gone/c02/voice.wav"
+ }
 }
