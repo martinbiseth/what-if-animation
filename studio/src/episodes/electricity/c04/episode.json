@@ -74,18 +74,259 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "set": "schematic",
+   "note": "THE CATCH: WATER NEEDS POWER",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "the water system, the pump stops",
+   "key": 80
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "kitchen dark",
+   "note": "the tap: nothing",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "set": "card",
+   "note": "DETROIT 2003",
+   "key": 16
+  },
+  {
+   "id": "S5",
+   "size": "fact",
+   "set": "schematic",
+   "note": "126 communities",
+   "key": 70
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "2 days vs forever",
+   "key": 50
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "living candle",
+   "note": "Ellie holds her nose",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "kitchen dark",
+   "note": "mum opens the dead fridge",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "fact",
+   "set": "schematic",
+   "note": "4 hours / 2 days",
+   "key": 70
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "dark",
+   "note": "leftovers rot",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "icons",
+   "set": "schematic",
+   "note": "trucks need fuel, pumps are electric",
+   "key": 50
+  },
+  {
+   "id": "S12",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "supermarket",
+   "note": "empty shelves",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "bathroom",
+   "note": "mum fills the bathtub",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "bathroom",
+   "note": "the tub, treasure",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "living candle",
+   "note": "the candle burns down",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "bedroom",
+   "note": "in bed at sunset",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "set": "card",
+   "note": "THE BIGGEST PROBLEM",
+   "key": 16
+  },
+  {
+   "id": "S18",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "1.6 billion to 8 billion",
+   "key": 80
+  },
+  {
+   "id": "S19",
+   "size": "icons",
+   "set": "schematic",
+   "note": "machines, trucks, pumps, fertilizer",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "fact",
+   "set": "schematic",
+   "note": "48%",
+   "key": 70
+  },
+  {
+   "id": "S21",
+   "size": "icons",
+   "set": "schematic",
+   "note": "without power: crossed",
+   "key": 60
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "kitchen dark",
+   "note": "dinner: one can",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "big word",
+   "set": "card",
+   "note": "DINNER.",
+   "key": 16
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Water"
+  },
+  {
+   "shot": "S3",
+   "at": "taps"
+  },
+  {
+   "shot": "S4",
+   "at": "2003"
+  },
+  {
+   "shot": "S5",
+   "at": "hundred"
+  },
+  {
+   "shot": "S6",
+   "at": "lasted"
+  },
+  {
+   "shot": "S7",
+   "at": "toilets"
+  },
+  {
+   "shot": "S8",
+   "at": "food"
+  },
+  {
+   "shot": "S9",
+   "at": "fridge"
+  },
+  {
+   "shot": "S10",
+   "at": "After"
+  },
+  {
+   "shot": "S11",
+   "at": "shops"
+  },
+  {
+   "shot": "S12",
+   "at": "shelves"
+  },
+  {
+   "shot": "S13",
+   "at": "mom"
+  },
+  {
+   "shot": "S14",
+   "at": "Smart"
+  },
+  {
+   "shot": "S15",
+   "at": "dark"
+  },
+  {
+   "shot": "S16",
+   "at": "bed"
+  },
+  {
+   "shot": "S17",
+   "at": "biggest"
+  },
+  {
+   "shot": "S18",
+   "at": "nineteen"
+  },
+  {
+   "shot": "S19",
+   "at": "Machines"
+  },
+  {
+   "shot": "S20",
+   "at": "Scientists"
+  },
+  {
+   "shot": "S21",
+   "at": "Without"
+  },
+  {
+   "shot": "S22",
+   "at": "So"
+  },
+  {
+   "shot": "S23",
+   "at": "dinner"
   }
  ],
- "end": "f:90",
  "fx": []
 }
