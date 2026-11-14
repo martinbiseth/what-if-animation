@@ -327,9 +327,9 @@ def youtube(slug, args):
             'seconds': round(total, 2), 'length': fmt(total)}
     th = Y.get('thumbnail')
     if th and '--no-thumb' not in args:
-        ep = load_json(ep_dir(f"{slug}/{th['chapter']}") / 'episode.json')
+        comp = th.get('composition') or load_json(ep_dir(f"{slug}/{th['chapter']}") / 'episode.json')['id']
         out = yd / 'thumbnail.png'
-        subprocess.run([npx, 'remotion', 'still', 'src/index.ts', ep['id'], str(out), '--frame', str(th.get('frame', 0)), '--log', 'error'], cwd=STUDIO, check=True)
+        subprocess.run([npx, 'remotion', 'still', 'src/index.ts', comp, str(out), '--frame', str(th.get('frame', 0)), '--log', 'error'], cwd=STUDIO, check=True)
         meta['thumbnail'] = 'thumbnail.png'
     if len(meta['title']) > 100:
         problems.append(f'title is {len(meta["title"])} characters: YouTube allows 100')

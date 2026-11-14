@@ -5,6 +5,7 @@ import { STUDIO } from './studio.config';
 import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
 import { Kit26Sheet } from './Kit26Sheet';
+import { THUMBS } from './episodes/thumbs';
 
 // Every episode gets two compositions: <Id> (the film) and <Id>Board (one frame per shot, at its key frame, for the
 // storyboard). Cast renders the cast sheet.
@@ -19,6 +20,9 @@ export const Root: React.FC = () => {
           <Composition id={e.id} component={e.Main} durationInFrames={Math.max(1, e.total)} {...common} />
           <Composition id={`${e.id}Board`} component={e.Board} durationInFrames={Math.max(1, e.shotCount)} {...common} />
         </React.Fragment>
+      ))}
+      {THUMBS.map((t) => (
+        <Composition key={t.id} id={t.id} component={t.component} durationInFrames={1} {...common} />
       ))}
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
       <Composition id="Kit26" component={Kit26Sheet} durationInFrames={4} {...common} />

@@ -3,8 +3,8 @@
  "slug": "iphone-1926",
  "topic": "What if you had an iPhone 100 years ago?",
  "title": [
-  "WHAT IF YOU COULD",
-  ""
+  "WHAT IF YOU HAD AN",
+  "IPHONE 100 YEARS AGO?"
  ],
  "target_seconds": 540,
  "defaults": {
@@ -67,21 +67,27 @@
   }
  ],
  "youtube": {
-  "title": "What if you had an iPhone 100 years ago?",
+  "title": "What If You Had an iPhone 100 Years Ago?",
   "tags": [
    "what if",
+   "iphone 1926",
+   "time travel",
+   "iphone in the past",
+   "1920s",
+   "history",
    "animation",
-   "science"
+   "science",
+   "what if animation",
+   "technology history"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "You wake up in New York in 1926 with your phone and your charger. No signal, no internet, and one battery to last. What happens when the future fits in your pocket, and someone wants it?",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "Iphone1926Thumb"
   },
   "midroll_gap": 120
  }
