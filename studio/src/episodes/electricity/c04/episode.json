@@ -1,0 +1,83 @@
+{
+ "id": "ElectricityC04",
+ "slug": "electricity/c04",
+ "chapter": "The catch",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "catch 1: water",
+   "text": "Here's the problem nobody thinks about. Water doesn't climb up to your tap by itself. Electric pumps push it there. When the pumps stop, the pipes lose pressure, and the taps go dry."
+  },
+  {
+   "beat": "fact: Detroit 2003",
+   "text": "In 2003, a blackout cut the water pressure around Detroit. A hundred and twenty-six communities were told to boil their water. That's real. And that blackout lasted two days. Yours lasts forever."
+  },
+  {
+   "beat": "catch 2: food",
+   "text": "Then the food. A fridge keeps food safe for about four hours without power. A full freezer, about two days. That's real too. After that, everything you didn't eat at the barbecue starts to rot."
+  },
+  {
+   "beat": "catch 3: the shops",
+   "text": "And the shops can't refill. Trucks need fuel, and the pump at every gas station is electric. The shelves empty in a day. Nothing comes back."
+  },
+  {
+   "beat": "the bathtub",
+   "text": "Your mom fills every pot, every bottle and the bathtub with the last water from the tap. Smart. Because that bathtub is now the most important thing your family owns."
+  },
+  {
+   "beat": "catch 4: the big one",
+   "text": "Then there's the biggest problem of all. In nineteen hundred, before most homes had electricity, about one point six billion people lived on Earth. Today, more than eight billion do."
+  },
+  {
+   "beat": "fact: fertilizer",
+   "text": "How do you feed eight billion people? Machines, cold trucks, water pumps, and fertilizer made in giant factories. Scientists estimate that factory-made fertilizer feeds about half the people alive today. That's real."
+  },
+  {
+   "beat": "consequence",
+   "text": "Without power, the factories stop. The tractors with computers stop. The pumps that water the fields stop."
+  },
+  {
+   "beat": "button",
+   "text": "So the real danger isn't the dark. It's dinner."
+  }
+ ],
+ "science": [
+  {
+   "claim": "In 2003 a blackout cut the water pressure around Detroit; 126 communities were told to boil their water.",
+   "working": "After the 14 August 2003 blackout, the Detroit Water and Sewerage Department (4.3 million customers) lost pressure; its boil-water alert applied to 126 communities. Power returned in Detroit within about two days.",
+   "source": "Water & Wastes Digest, 'Detroit Water Safe to Drink' (19 Aug 2003); Wikipedia: Northeast blackout of 2003"
+  },
+  {
+   "claim": "A fridge keeps food safe about 4 hours without power; a full freezer about 48 hours.",
+   "working": "USDA guidance: a refrigerator keeps food safe for about 4 hours if unopened; a full freezer holds its temperature about 48 hours (24 if half full).",
+   "source": "USDA Food Safety and Inspection Service, 'Keeping Food Safe During an Emergency'"
+  },
+  {
+   "claim": "About 1.6 billion people lived on Earth in 1900; today more than 8 billion.",
+   "working": "UN estimates: about 1.65 billion in 1900; the world passed 8 billion on 15 November 2022.",
+   "source": "United Nations, World Population Prospects; UN, 'Day of Eight Billion' (2022)"
+  },
+  {
+   "claim": "Factory-made (synthetic nitrogen) fertilizer feeds about half the people alive today.",
+   "working": "Erisman et al. estimate nitrogen fertilizer from the Haber-Bosch process supported about 48% of the world's population in 2008.",
+   "source": "Erisman et al., 'How a century of ammonia synthesis changed the world', Nature Geoscience 1, 636-639 (2008)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

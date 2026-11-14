@@ -1,0 +1,54 @@
+{
+ "id": "ElectricityC02",
+ "slug": "electricity/c02",
+ "chapter": "The premise and its rules",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "rules: not a blackout",
+   "text": "Here are the rules. This isn't a blackout. Electricity itself has stopped working. No current flows through any wire, anywhere on Earth."
+  },
+  {
+   "beat": "rules: nothing stored",
+   "text": "No batteries. No generators. No solar panels. Not even the tiny battery in your watch."
+  },
+  {
+   "beat": "rules: what still works",
+   "text": "But some things still work. Fire works. Anything with no electric parts works. Bikes. Sailboats. Old steam trains. Your grandpa's wind-up clock."
+  },
+  {
+   "beat": "the weird part",
+   "text": "And here's the weird part. Your brain and your heart run on tiny electrical signals. Those still work. Otherwise this would be a very short video."
+  },
+  {
+   "beat": "the rule",
+   "text": "So the rule is simple. Anything people built to carry electricity is dead. Every wire, every chip, every screen. Silent. Forever."
+  },
+  {
+   "beat": "plant",
+   "text": "Remember that rule. Because one night, far from home, you're going to see it broken."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

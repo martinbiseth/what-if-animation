@@ -1,0 +1,50 @@
+{
+ "id": "ElectricityC07",
+ "slug": "electricity/c07",
+ "chapter": "Cliffhanger",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "the hill",
+   "text": "On the third night, you camp on a hill. Ellie's fever is going down. Your mom is finally asleep. And you look out over the dark valley."
+  },
+  {
+   "beat": "the light",
+   "text": "That's when you see it. A light. Not a fire. A steady, white, electric light, on the far side of the valley."
+  },
+  {
+   "beat": "impossible",
+   "text": "It's impossible. Every wire on Earth is dead. Unless someone, somewhere, found a way around the rule."
+  },
+  {
+   "beat": "the signal",
+   "text": "Then the light blinks. Three times. Like a signal. Like it knows you're watching."
+  },
+  {
+   "beat": "question",
+   "text": "So what would you do? Stay in the city, or walk away from everything? Tell me in the comments."
+  },
+  {
+   "beat": "is any of this real",
+   "text": "And is any of this real? The science is. Pumps push your water. A fridge keeps food safe for four hours. Fertilizer feeds half the world. And whoever is behind that light? You'll find out in part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

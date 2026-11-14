@@ -1,0 +1,54 @@
+{
+ "id": "ElectricityC06",
+ "slug": "electricity/c06",
+ "chapter": "The choice",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "Ellie gets sick",
+   "text": "Two days later, Ellie gets a fever. The hospital is dark. Its backup generators are dead, like everything else. The doctors are working by candlelight, the way they did two hundred years ago."
+  },
+  {
+   "beat": "the farm",
+   "text": "Your mom makes a decision. Grandpa's farm is ninety kilometers away. It has a well with a hand pump, a wood stove, chickens, and a field. Stay in the city, and the water runs out. Go, and it's four days on foot, with a sick little sister."
+  },
+  {
+   "beat": "Mo stays",
+   "text": "Mo's family is staying. 'It'll come back,' he says. 'The power has to come back.' But you know the rule. It doesn't."
+  },
+  {
+   "beat": "goodbye",
+   "text": "You hug him goodbye. He gives you his bike lights, out of habit. They don't work. You take them anyway."
+  },
+  {
+   "beat": "the trade",
+   "text": "You go to the man with the bat. You give him half your water. He gives you food, and a map. A paper map. Suddenly one of the most valuable things in the world."
+  },
+  {
+   "beat": "the choice",
+   "text": "You load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game. Ellie rides in the back, wrapped in a blanket. And at sunrise, you walk out of the city, and you don't look back."
+  },
+  {
+   "beat": "the road",
+   "text": "On the road, you pass hundreds of people walking the other way, into the city, looking for help that isn't there."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

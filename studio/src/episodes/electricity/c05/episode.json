@@ -1,0 +1,65 @@
+{
+ "id": "ElectricityC05",
+ "slug": "electricity/c05",
+ "chapter": "Someone notices",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "day five: the city turns",
+   "text": "By day five, the city changes. People stop sharing. Shop windows get smashed. The man across the street, who never says hello, now sits in front of his garage with a baseball bat. His garage is full of canned food."
+  },
+  {
+   "beat": "nobody's coming",
+   "text": "And nobody's coming to help. Radios are dead. Phones are dead. The government can't call anyone, so it can't tell anyone anything."
+  },
+  {
+   "beat": "rumors",
+   "text": "The only news travels on foot. A rumor says the army is handing out food downtown. Another says it's the same all over the world. Only one of them is true."
+  },
+  {
+   "beat": "the world: reactors",
+   "text": "Far away, a much bigger problem is starting. Even switched off, the fuel in a nuclear reactor keeps making heat, and it needs pumps to stay cool. In 2011, at Fukushima, the backup power failed, and three reactors melted down. That's real."
+  },
+  {
+   "beat": "the world: four hundred",
+   "text": "Now there are more than four hundred reactors on Earth, and not one working pump. Somewhere, engineers are fighting to cool them with gravity, buckets and courage."
+  },
+  {
+   "beat": "the count",
+   "text": "At home, your mom counts what's left. Six cans of beans. Half a bag of rice. Twelve bottles of water. Five days, if you're careful."
+  },
+  {
+   "beat": "someone notices",
+   "text": "That night, someone knocks on the door. It's the man with the bat. He saw your water bottles through the window. 'I've got food,' he says. 'You've got water. Let's talk.'"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Reactor fuel keeps making heat after shutdown and needs pumped cooling; at Fukushima in 2011 backup power failed and three reactors melted down.",
+   "working": "After the 11 March 2011 tsunami flooded the emergency diesel generators at Fukushima Daiichi, cooling was lost and the cores of units 1, 2 and 3 melted.",
+   "source": "IAEA, 'The Fukushima Daiichi Accident: Report by the Director General' (2015); World Nuclear Association: Fukushima Daiichi Accident"
+  },
+  {
+   "claim": "There are more than 400 nuclear reactors on Earth.",
+   "working": "IAEA PRIS (March 2025): 417 reactors in operation plus 23 in suspended operation, about 440.",
+   "source": "IAEA Power Reactor Information System (PRIS), via GRS 'Nuclear energy worldwide' (12 Mar 2025)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

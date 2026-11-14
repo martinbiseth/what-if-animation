@@ -1,0 +1,58 @@
+{
+ "id": "ElectricityC01",
+ "slug": "electricity/c01",
+ "chapter": "Cold open",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "cold open: the game",
+   "text": "Eight fourteen PM. You're one level away from beating the game. And the screen goes black."
+  },
+  {
+   "beat": "demo 1: the house",
+   "text": "So does the TV. The fridge stops humming. Every light in the house, gone. At the same moment."
+  },
+  {
+   "beat": "demo 2: the phone",
+   "text": "You grab your phone. Dead. Not low battery. Dead. You try the flashlight in the kitchen drawer. Dead too."
+  },
+  {
+   "beat": "demo 3: the street",
+   "text": "Outside, the whole street is dark. A car rolls to a stop, without a sound. The streetlights. The traffic lights. The whole city, all the way to the horizon. Black."
+  },
+  {
+   "beat": "demo 4: the sky",
+   "text": "Then you look up. And for the first time in your life, you see the Milky Way."
+  },
+  {
+   "beat": "title card",
+   "text": "What if electricity disappeared, forever?"
+  },
+  {
+   "beat": "the turn",
+   "text": "The first night feels like camping. But a city runs on electricity the way your body runs on blood. And the clock started the second the lights went out."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

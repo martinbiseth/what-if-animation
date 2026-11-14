@@ -1,0 +1,68 @@
+{
+ "id": "ElectricityC03",
+ "slug": "electricity/c03",
+ "chapter": "The fun part",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "day one: no school",
+   "text": "Day one. School is cancelled. Probably. Nobody can call anybody, so nobody knows. So nobody goes."
+  },
+  {
+   "beat": "candles and the game",
+   "text": "Your mom lights every candle in the house. Your little sister Ellie digs an old board game out of the closet. You play it by candlelight, and for the first time in years, nobody in your family looks at a phone."
+  },
+  {
+   "beat": "day two: the freezer",
+   "text": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's steak for breakfast, ice cream for lunch, and fish fingers for absolutely nobody."
+  },
+  {
+   "beat": "Mo on a bike",
+   "text": "Your best friend Mo rides over on his bike. Bikes are suddenly the fastest thing in the city. Every car is stuck exactly where it stopped, so kids ride down the middle of the highway where the traffic used to be."
+  },
+  {
+   "beat": "free ice cream",
+   "text": "You and Mo ride to the supermarket. The doors are wide open, and the manager is giving away melting ice cream for free, because it's better than throwing it away. You take six tubs."
+  },
+  {
+   "beat": "the quiet",
+   "text": "And it's quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city."
+  },
+  {
+   "beat": "fact: the Milky Way",
+   "text": "At night, people climb onto their roofs just to stare at the sky. Light pollution hides the Milky Way from about eighty percent of North Americans. That's real. Tonight, everyone sees it."
+  },
+  {
+   "beat": "best week ever",
+   "text": "Mo lies next to you on the roof, eating the last ice cream in the neighborhood. 'Honestly,' he says, 'this is kind of the best week ever.'"
+  },
+  {
+   "beat": "button",
+   "text": "He's wrong. Because tomorrow, the water stops."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Light pollution hides the Milky Way from about 80% of North Americans.",
+   "working": "The New World Atlas of Artificial Night Sky Brightness found the Milky Way is hidden from more than a third of humanity, including nearly 80% of North Americans.",
+   "source": "Falchi et al., 'The new world atlas of artificial night sky brightness', Science Advances 2(6), June 2016"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
