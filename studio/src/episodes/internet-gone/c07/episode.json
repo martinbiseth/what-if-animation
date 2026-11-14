@@ -1,0 +1,50 @@
+{
+ "id": "InternetGoneC07",
+ "slug": "internet-gone/c07",
+ "chapter": "Cliffhanger",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "the screen",
+   "text": "But as the man turns to go, you see the screen one last time. The page you'd been reading out was the article called 'Internet'. Downloaded the night before it all went dark."
+  },
+  {
+   "beat": "the line",
+   "text": "And at the very bottom, there's a line you've never seen. An edit, dated that Tuesday morning. Seven forty-one. One minute before. It says: 'Shutdown complete. Do not attempt to restore.'"
+  },
+  {
+   "beat": "the question",
+   "text": "A copy made the night before shouldn't know about the next morning. So who wrote that? And why does the man in the suit want this phone so badly?"
+  },
+  {
+   "beat": "the voice",
+   "text": "Behind you, the old radio on the kitchen table crackles. And a voice you've never heard says your name."
+  },
+  {
+   "beat": "is any of this real",
+   "text": "Is any of this real? The outages are. Six hours without WhatsApp in 2021. Eight and a half million computers in 2024. Three days of food on the shelves. All of Wikipedia on one phone. All real."
+  },
+  {
+   "beat": "ask",
+   "text": "So, would you have given him the phone? Tell me in the comments. Part two is coming."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

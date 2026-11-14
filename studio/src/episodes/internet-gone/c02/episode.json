@@ -1,0 +1,70 @@
+{
+ "id": "InternetGoneC02",
+ "slug": "internet-gone/c02",
+ "chapter": "The premise and its rules",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "premise: the moment",
+   "text": "Here's how it goes. Tuesday, seven forty-two in the morning. Every connection between every computer on Earth just stops. No websites. No apps. No email. No video calls. No streaming. No online games. Not slow. Gone. And it never comes back."
+  },
+  {
+   "beat": "frozen notification",
+   "text": "The last notification on your lock screen says: 'Your order has shipped.' It will never arrive."
+  },
+  {
+   "beat": "scale",
+   "text": "Remember when WhatsApp and Instagram went down for six hours in 2021, and it was news all over the world? Now imagine that for everything. Forever. For five and a half billion people."
+  },
+  {
+   "beat": "rules",
+   "text": "The rules are simple. Electricity still works. Your devices still work. Anything already saved on them is still there. GPS satellites keep circling, so your phone still knows exactly where you are. It just can't show you a map."
+  },
+  {
+   "beat": "planted rule: radio",
+   "text": "And one more thing. Old radios, the kind with an antenna, still work fine, because radio never needed the internet. Remember that. It matters later."
+  },
+  {
+   "beat": "title",
+   "text": "This is what if the internet just disappeared forever."
+  }
+ ],
+ "science": [
+  {
+   "claim": "About 5.5 billion people, 68% of the world, use the internet.",
+   "working": "ITU Facts and Figures 2024 estimates 5.5 billion internet users in 2024, 68% of the world population.",
+   "source": "ITU, Facts and Figures 2024 (Nov 2024)"
+  },
+  {
+   "claim": "Facebook, Instagram and WhatsApp went down for about six hours on 4 October 2021.",
+   "working": "A faulty configuration change to Facebook's backbone routers withdrew its BGP routes; the services were unreachable for roughly six hours.",
+   "source": "Meta Engineering, 'More details about the October 4 outage' (Oct 2021)"
+  },
+  {
+   "claim": "GPS works on a phone without any internet connection.",
+   "working": "A GPS receiver computes position from satellite signals alone; the internet only speeds up the first fix (A-GPS) and downloads map tiles.",
+   "source": "GPS.gov, How GPS works"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

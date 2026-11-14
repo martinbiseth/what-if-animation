@@ -1,0 +1,54 @@
+{
+ "id": "InternetGoneC06",
+ "slug": "internet-gone/c06",
+ "chapter": "The choice",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "the offer",
+   "text": "The man in the suit makes you an offer. Give him the phone, and your family goes to the front of every line. Food. Fuel. Medicine."
+  },
+  {
+   "beat": "Ellie",
+   "text": "And then Ellie coughs. She has asthma. Her inhaler is almost empty, and the pharmacy ran out two days ago. The man notices. He takes a brand new inhaler out of his pocket, and puts it on the table. 'There's more where that came from.'"
+  },
+  {
+   "beat": "Mo",
+   "text": "Mo pulls you aside. 'If he takes it, nobody else gets the answers. Just them.' He's right. But Ellie looks up at you from the sofa. She doesn't say anything. She doesn't have to. So you ask for one night."
+  },
+  {
+   "beat": "the radio",
+   "text": "That night, you and Mo don't sleep. You remember the rule. Radio still works. You ride your bikes to the old community radio station on the hill. The equipment is ancient, but it switches on. And for six hours straight, you read the most important pages into the microphone. Clean water. First aid. Growing food."
+  },
+  {
+   "beat": "listeners",
+   "text": "Across the whole region, people with old radios sit in the dark and write down every word."
+  },
+  {
+   "beat": "the choice made",
+   "text": "At sunrise, you go home, and you hand the man the phone. He gives you the inhaler. Ellie takes a breath. A full one."
+  },
+  {
+   "beat": "walking home",
+   "text": "On the way out, Mo is quiet. 'You know they'll keep it for themselves.' You nod. 'But now everyone else has it too.'"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

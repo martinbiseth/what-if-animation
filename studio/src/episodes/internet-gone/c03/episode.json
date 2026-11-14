@@ -1,0 +1,58 @@
+{
+ "id": "InternetGoneC03",
+ "slug": "internet-gone/c03",
+ "chapter": "The fun part",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "fun 1: school's off",
+   "text": "And for the first few hours? Honestly, it's kind of great. School sends everyone home, because nobody can log in to anything. No homework portal. No grades. No group chat buzzing at midnight."
+  },
+  {
+   "beat": "fun 2: Mo knocks",
+   "text": "Mo knocks on your door instead of texting, which he has never done in his life. 'Is yours down too?' Everyone's is down."
+  },
+  {
+   "beat": "fun 3: the street",
+   "text": "So you do something weird. You go outside. The whole street is out there. Neighbours you've never met are comparing phones, like that will help. Someone's dad drags a barbecue onto the pavement, because the freezer stuff won't eat itself. Kids play football in the road, because nobody can find anywhere to drive to."
+  },
+  {
+   "beat": "board game",
+   "text": "Someone finds an old board game with half the pieces missing. Nobody cares. It's the best game anyone has ever played."
+  },
+  {
+   "beat": "fun 4: the music",
+   "text": "And then you remember something. Last month, before a long flight, you downloaded two hundred songs to your phone. Suddenly you are the only person on the street with music. You put your phone in a cooking pot to make it louder. It works. The whole street starts dancing. Mo's mum brings out a guitar nobody knew she could play. Mo looks at you like you're a genius."
+  },
+  {
+   "beat": "fun 5: logged off",
+   "text": "By sunset, you've had more real conversations than in the whole last year. Your screen time? Zero hours, zero minutes. Your little sister Ellie teaches half the street a card game. Your mum finds a box of paper maps in the attic, and everyone crowds around them like they're treasure."
+  },
+  {
+   "beat": "mum's promise",
+   "text": "Ellie asks if the internet will be back tomorrow. Mum says, 'Of course it will.' She's wrong."
+  },
+  {
+   "beat": "turn",
+   "text": "For one evening, it feels like the whole world logged off and came outside. But here's what nobody on your street knows yet. That was the best day. Because the internet wasn't just apps. It was holding everything else together."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

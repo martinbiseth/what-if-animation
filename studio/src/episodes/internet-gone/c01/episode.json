@@ -1,0 +1,62 @@
+{
+ "id": "InternetGoneC01",
+ "slug": "internet-gone/c01",
+ "chapter": "Cold open",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "cold open: offline",
+   "text": "You wake up and your phone says one word. Offline. Okay. Restart the router. Still offline."
+  },
+  {
+   "beat": "demo: messages",
+   "text": "You open your messages. Not delivered."
+  },
+  {
+   "beat": "demo: maps",
+   "text": "You try the map. Blank grey squares."
+  },
+  {
+   "beat": "demo: card",
+   "text": "Your mum taps her card at the shop. Declined."
+  },
+  {
+   "beat": "demo: tv",
+   "text": "The TV. Every show is a spinning circle."
+  },
+  {
+   "beat": "demo: car",
+   "text": "Your dad's car won't unlock from the app. He has to find the actual key. Mum's work laptop: cannot connect to server."
+  },
+  {
+   "beat": "what still works",
+   "text": "The lights still work. The water still runs. Your phone still has seventy percent. But every screen in the world is saying the same word. Offline. In every country. On every network. At exactly the same second."
+  },
+  {
+   "beat": "premise question",
+   "text": "Nobody switched it off. Nobody can switch it back on. So what would actually happen to you, and to everyone, if the internet just disappeared? Forever. Without warning."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

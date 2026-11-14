@@ -1,0 +1,87 @@
+{
+ "id": "InternetGoneC04",
+ "slug": "internet-gone/c04",
+ "chapter": "The catch",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "script": [
+  {
+   "beat": "catch 1: payments",
+   "text": "Day two. Your mum goes to buy food. The card machine just shows an error. No internet, no payments. Everybody needs cash at the same time, and the cash machines are offline too."
+  },
+  {
+   "beat": "catch 2: food",
+   "text": "The shelves start to empty. A supermarket doesn't keep a big store room. Computers order exactly what's needed, and trucks bring it every day. Without the system, the trucks don't know where to go."
+  },
+  {
+   "beat": "fact: three days",
+   "text": "A study for America's truckers warned that if trucks stopped, grocery stores would start running out of food in about three days. That's real."
+  },
+  {
+   "beat": "catch 3: planes",
+   "text": "Day three. Planes aren't flying. Airlines need the internet for bookings, crews, weather and flight plans."
+  },
+  {
+   "beat": "fact: crowdstrike",
+   "text": "In July 2024, one bad software update crashed eight and a half million Windows computers, and thousands of flights were cancelled in a single day. That was one update. This is everything."
+  },
+  {
+   "beat": "catch: fuel",
+   "text": "Day four. The petrol pumps only take cards, so the queue at the one station that takes cash is two kilometres long."
+  },
+  {
+   "beat": "catch 4: medicine",
+   "text": "Then the pharmacy. Mo's grandma needs her heart medicine. The pharmacy can't check her prescription, because it lives on a server in another city. They give her three days' worth, and write the rest down on paper."
+  },
+  {
+   "beat": "catch: water",
+   "text": "The tap water still runs, but the engineers at the water plant can't reach each other. A notice gets taped to every lamp post: boil your water."
+  },
+  {
+   "beat": "the shape of it",
+   "text": "You start to see it. The internet isn't one thing. It's how money moves, how food moves, how the hospital knows who you are. Even phone calls. Many mobile calls today travel as internet data, so the network is jammed and patchy."
+  },
+  {
+   "beat": "fact: cables",
+   "text": "And it can't be fixed with a cable. Almost all the data between continents flows through cables on the sea floor. Those cables are fine. The connection itself is gone. And nobody knows why. Day five. Your phone is at forty percent, and for the first time, you realise it might be the most valuable thing you own."
+  }
+ ],
+ "science": [
+  {
+   "claim": "If trucks stopped, US grocery stores would see shortages within about three days.",
+   "working": "The American Trucking Associations' report 'When Trucks Stop, America Stops' gives a timeline: within 24 hours deliveries stop, and food shortages develop at grocery stores within about three days.",
+   "source": "American Trucking Associations, 'When Trucks Stop, America Stops' (2006, updated)"
+  },
+  {
+   "claim": "In July 2024 a faulty update crashed about 8.5 million Windows computers and grounded thousands of flights.",
+   "working": "Microsoft estimated 8.5 million Windows devices were hit by the faulty CrowdStrike Falcon update on 19 July 2024; airlines cancelled thousands of flights worldwide that day.",
+   "source": "Microsoft blog, 'Helping our customers through the CrowdStrike outage' (20 July 2024)"
+  },
+  {
+   "claim": "Many mobile calls now travel as internet-style data (VoLTE).",
+   "working": "4G and 5G networks carry voice as IP packets (Voice over LTE / Voice over NR) rather than on a separate circuit-switched network.",
+   "source": "GSMA, VoLTE overview"
+  },
+  {
+   "claim": "Almost all intercontinental data travels through undersea cables.",
+   "working": "Submarine cables carry the vast majority (commonly cited as over 95-99%) of international data traffic; satellites carry a small share.",
+   "source": "TeleGeography, Submarine Cable FAQ"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

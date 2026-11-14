@@ -1,0 +1,105 @@
+{
+ "id": "InternetGone",
+ "slug": "internet-gone",
+ "topic": "What if the internet just disappeared forever without warning?",
+ "title": [
+  "WHAT IF THE INTERNET",
+  "DISAPPEARED FOREVER?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "The day it stopped",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "The best day",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "Day two: the catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "The man in the suit",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "Shutdown complete",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If Internet Just Disappeared FOREVER Without Warning?!",
+  "tags": [
+   "what if",
+   "what if animation",
+   "internet disappeared",
+   "what if the internet disappeared",
+   "no internet",
+   "internet shutdown",
+   "world without internet",
+   "internet blackout",
+   "what would happen if",
+   "offline",
+   "animated story",
+   "science animation",
+   "crowdstrike outage",
+   "facebook outage",
+   "offline wikipedia",
+   "supply chain",
+   "survival",
+   "technology",
+   "alternate reality",
+   "cliffhanger"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "At 7:42 on a Tuesday morning, every connection on Earth stops, and it never comes back. The first day feels like a holiday. Then the card machines, the supermarkets, the planes and the pharmacies stop too. And your phone holds the one thing everyone suddenly wants.",
+  "thumbnail": {
+   "composition": "InternetGoneThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have given the man in the suit the phone? 👇\n\nAnd who wrote \"Shutdown complete\" one minute before it happened? Best theory gets pinned before Part 2.\n\nThe real parts check out: the 6-hour Facebook/WhatsApp outage (2021), 8.5 million computers down in the CrowdStrike crash (2024), ~3 days of food in grocery supply chains, and all of Wikipedia fitting on a phone (~100 GB). Sources are in the description."
+ }
+}
