@@ -41,18 +41,222 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "close, Ellie with a fever: flushed, eyes half shut, candle light"
+  },
+  {
+   "id": "S2",
+   "note": "the hospital corridor, dark: mum carries Ellie in, you beside her, candles on the floor"
+  },
+  {
+   "id": "S3",
+   "note": "the backup generator on the schematic: dead like everything else"
+  },
+  {
+   "id": "S4",
+   "note": "doctors working by candlelight: one walks up the corridor holding a candle"
+  },
+  {
+   "id": "S5",
+   "note": "200 YEARS AGO"
+  },
+  {
+   "id": "S6",
+   "note": "nothing is coming: medicine, ambulance, crossed on the words"
+  },
+  {
+   "id": "S7",
+   "note": "the tired doctor with a candle talks to mum, you beside her"
+  },
+  {
+   "id": "S8",
+   "note": "close, mum: a decision"
+  },
+  {
+   "id": "S9",
+   "note": "the schematic map: the city, a dashed line out to grandpa's farm, 90 KM"
+  },
+  {
+   "id": "S10",
+   "note": "what the farm has: a hand pump, a wood stove, chickens, a field"
+  },
+  {
+   "id": "S11",
+   "note": "STAY: the water runs out (a bottle draining on the left)"
+  },
+  {
+   "id": "S12",
+   "note": "GO: 4 DAYS ON FOOT"
+  },
+  {
+   "id": "S13",
+   "note": "on the street: Mo says they're staying, the power has to come back"
+  },
+  {
+   "id": "S14",
+   "note": "close, you: you know the rule"
+  },
+  {
+   "id": "S15",
+   "note": "IT DOESN'T."
+  },
+  {
+   "id": "S16",
+   "note": "you and Mo hug goodbye on the street, dusk"
+  },
+  {
+   "id": "S17",
+   "note": "insert, the bike lights in your palm: click, click, nothing"
+  },
+  {
+   "id": "S18",
+   "note": "close, you: you take them anyway"
+  },
+  {
+   "id": "S19",
+   "note": "back across the street: the man with the bat hands over a box of cans"
+  },
+  {
+   "id": "S20",
+   "note": "insert: a paper map unfolds, a route drawn on it"
+  },
+  {
+   "id": "S21",
+   "note": "A MAP: suddenly the most valuable thing you own"
+  },
+  {
+   "id": "S22",
+   "note": "dawn on the street: the old bike trailer, loaded one thing at a time"
+  },
+  {
+   "id": "S23",
+   "note": "on the move: Ellie wrapped up in the trailer, mum pulling, you pushing"
+  },
+  {
+   "id": "S24",
+   "note": "sunrise: three small figures and a trailer walk out of the city along the country road"
+  },
+  {
+   "id": "S25",
+   "note": "on the road: crowds walking the other way, into the city"
+  },
+  {
+   "id": "S26",
+   "note": "the empty school at night: mum and you asleep against the wall, Ellie in her blanket"
+  },
+  {
+   "id": "S27",
+   "note": "close, you, awake in the moonlight: the building you were so happy to skip"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "hospital"
+  },
+  {
+   "shot": "S3",
+   "at": "backup"
+  },
+  {
+   "shot": "S4",
+   "at": "doctors"
+  },
+  {
+   "shot": "S5",
+   "at": "two"
+  },
+  {
+   "shot": "S6",
+   "at": "No"
+  },
+  {
+   "shot": "S7",
+   "at": "Just"
+  },
+  {
+   "shot": "S8",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S9",
+   "at": "Grandpa's"
+  },
+  {
+   "shot": "S10",
+   "at": "well"
+  },
+  {
+   "shot": "S11",
+   "at": "Stay"
+  },
+  {
+   "shot": "S12",
+   "at": "Go"
+  },
+  {
+   "shot": "S13",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S14",
+   "at": "But"
+  },
+  {
+   "shot": "S15",
+   "at": "It"
+  },
+  {
+   "shot": "S16",
+   "at": "hug"
+  },
+  {
+   "shot": "S17",
+   "at": "gives"
+  },
+  {
+   "shot": "S18",
+   "at": "take"
+  },
+  {
+   "shot": "S19",
+   "at": "go"
+  },
+  {
+   "shot": "S20",
+   "at": "something"
+  },
+  {
+   "shot": "S21",
+   "at": "Suddenly"
+  },
+  {
+   "shot": "S22",
+   "at": "load"
+  },
+  {
+   "shot": "S23",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S24",
+   "at": "sunrise"
+  },
+  {
+   "shot": "S25",
+   "at": "road"
+  },
+  {
+   "shot": "S26",
+   "at": "night"
+  },
+  {
+   "shot": "S27",
+   "at": "same"
   }
  ],
- "end": "f:90",
  "fx": []
 }
