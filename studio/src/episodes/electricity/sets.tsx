@@ -263,15 +263,18 @@ export const MilkyWay: React.FC<{ x0: number; y0: number; x1: number; y1: number
   const len = Math.hypot(x1 - x0, y1 - y0);
   return (
     <g opacity={o} transform={`translate(${x0} ${y0}) rotate(${ang})`}>
-      <g filter="url(#blur16)">
+      <filter id="mwBlur" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation={w * 0.12} />
+      </filter>
+      <g filter="url(#mwBlur)">
         {Array.from({ length: 18 }).map((_, i) => {
           const u = (i + 0.5) / 18;
           const wv = w * (0.25 + 0.35 * Math.sin(u * Math.PI) + rnd(88, i) * 0.2);
-          return <ellipse key={i} cx={u * len} cy={(rnd(89, i) - 0.5) * w * 0.3} rx={len / 12} ry={wv} fill={i % 3 ? '#9AA8E8' : '#E8D0F0'} opacity={0.1 + 0.08 * Math.sin(u * Math.PI)} />;
+          return <ellipse key={i} cx={u * len} cy={(rnd(89, i) - 0.5) * w * 0.3} rx={len / 12} ry={wv} fill={i % 3 ? '#9AA8E8' : '#E8D0F0'} opacity={0.16 + 0.12 * Math.sin(u * Math.PI)} />;
         })}
         {Array.from({ length: 10 }).map((_, i) => {
           const u = 0.2 + (i / 10) * 0.6;
-          return <ellipse key={`c${i}`} cx={u * len} cy={(rnd(87, i) - 0.5) * w * 0.15} rx={len / 16} ry={w * (0.1 + rnd(86, i) * 0.1)} fill="#FFF2E2" opacity={0.16} />;
+          return <ellipse key={`c${i}`} cx={u * len} cy={(rnd(87, i) - 0.5) * w * 0.15} rx={len / 16} ry={w * (0.1 + rnd(86, i) * 0.1)} fill="#FFF2E2" opacity={0.24} />;
         })}
         {Array.from({ length: 9 }).map((_, i) => (
           <ellipse key={`d${i}`} cx={(0.1 + i * 0.1) * len} cy={(rnd(85, i) - 0.4) * w * 0.12} rx={len / 18} ry={w * (0.03 + rnd(84, i) * 0.04)} fill="#06061A" opacity={0.5} />
