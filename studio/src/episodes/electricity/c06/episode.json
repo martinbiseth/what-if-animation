@@ -6,7 +6,7 @@
  "script": [
   {
    "beat": "Ellie gets sick",
-   "text": "Two days later, Ellie gets a fever. The hospital is dark. Its backup generators are dead, like everything else. The doctors are working by candlelight, the way they did two hundred years ago."
+   "text": "Two days later, Ellie gets a fever. The hospital is dark. Its backup generators are dead, like everything else. The doctors are working by candlelight, the way they did two hundred years ago. No medicine is coming. No ambulance. Just a tired doctor with a candle, telling your mom to keep Ellie cool and give her water."
   },
   {
    "beat": "the farm",
@@ -22,15 +22,19 @@
   },
   {
    "beat": "the trade",
-   "text": "You go to the man with the bat. You give him half your water. He gives you food, and a map. A paper map. Suddenly one of the most valuable things in the world."
+   "text": "You go back to the man with the bat. He hands over the food he promised, and something else. A map. A paper map. Suddenly one of the most valuable things in the world."
   },
   {
    "beat": "the choice",
-   "text": "You load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game. Ellie rides in the back, wrapped in a blanket. And at sunrise, you walk out of the city, and you don't look back."
+   "text": "You load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game. Ellie rides in the back, wrapped in a blanket. Mom pulls. You push. And at sunrise, you walk out of the city, and you don't look back."
   },
   {
    "beat": "the road",
    "text": "On the road, you pass hundreds of people walking the other way, into the city, looking for help that isn't there."
+  },
+  {
+   "beat": "the school",
+   "text": "That night, you sleep on the floor of an empty school. The same kind of building you were so happy to skip, one week ago."
   }
  ],
  "science": [],
