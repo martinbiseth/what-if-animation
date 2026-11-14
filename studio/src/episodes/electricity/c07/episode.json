@@ -37,18 +37,166 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "the third night: the hill, the tent, the dark valley, the Milky Way overhead"
+  },
+  {
+   "id": "S2",
+   "note": "close on the ground: Ellie asleep in her blanket, mum asleep sitting up beside her"
+  },
+  {
+   "id": "S3",
+   "note": "you, awake, sitting on the edge of the hill, looking out over the dark valley"
+  },
+  {
+   "id": "S4",
+   "note": "close, you: then you see it (eyes go wide, a cold glint)"
+  },
+  {
+   "id": "S5",
+   "note": "the valley: a light, far away, steady"
+  },
+  {
+   "id": "S6",
+   "note": "closer on the light: steady, white, ELECTRIC"
+  },
+  {
+   "id": "S7",
+   "note": "you wake mum: a hand on her shoulder, her eyes open"
+  },
+  {
+   "id": "S8",
+   "note": "the two of you on the hill, looking at the light; she doesn't say a word"
+  },
+  {
+   "id": "S9",
+   "note": "insert: mum's hand grabs yours"
+  },
+  {
+   "id": "S10",
+   "note": "IMPOSSIBLE."
+  },
+  {
+   "id": "S11",
+   "note": "every wire on Earth is dead"
+  },
+  {
+   "id": "S12",
+   "note": "unless someone found a way around the rule: one icon lights, a question mark"
+  },
+  {
+   "id": "S13",
+   "note": "the light blinks: once, twice, three times"
+  },
+  {
+   "id": "S14",
+   "note": "close, you, the cold light flickering on your face: like it knows you're watching"
+  },
+  {
+   "id": "S15",
+   "note": "the question: STAY OR GO?"
+  },
+  {
+   "id": "S16",
+   "note": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "id": "S17",
+   "note": "what's real: the science, ticking on with the voice"
+  },
+  {
+   "id": "S18",
+   "note": "and whoever is behind that light? Slow push back toward it"
+  },
+  {
+   "id": "S19",
+   "note": "end card: the valley, the light, PART 2"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Ellie's"
+  },
+  {
+   "shot": "S3",
+   "at": "And"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "light"
+  },
+  {
+   "shot": "S6",
+   "at": "steady"
+  },
+  {
+   "shot": "S7",
+   "at": "wake"
+  },
+  {
+   "shot": "S8",
+   "at": "She"
+  },
+  {
+   "shot": "S9",
+   "at": "grabs"
+  },
+  {
+   "shot": "S10",
+   "at": "It's"
+  },
+  {
+   "shot": "S11",
+   "at": "Every"
+  },
+  {
+   "shot": "S12",
+   "at": "Unless"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Like"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "Tell"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "You'll"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S13+0",
+   "kind": "flash",
+   "color": "#CFE8FF",
+   "o": 0.12
+  }
+ ],
+ "tail": 3.0
 }
