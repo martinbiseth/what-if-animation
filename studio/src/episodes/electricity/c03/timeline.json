@@ -1,27 +1,418 @@
 {
  "slug": "electricity/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2853,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 80,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 80,
+   "line": "Day one. School is cancelled. Probably."
+  },
+  {
+   "shot": "S2",
+   "a": 80,
+   "b": 184,
+   "t0": 0,
+   "t1": 104,
+   "line": "Nobody can call anybody, so nobody knows. So nobody goes."
+  },
+  {
+   "shot": "S3",
+   "a": 184,
+   "b": 263,
+   "t0": 0,
+   "t1": 79,
+   "line": "Your mom lights every candle in the house. Your"
+  },
+  {
+   "shot": "S4",
+   "a": 263,
+   "b": 369,
+   "t0": 0,
+   "t1": 106,
+   "line": "little sister Ellie digs an old board game out of the closet. You"
+  },
+  {
+   "shot": "S5",
+   "a": 369,
+   "b": 536,
+   "t0": 0,
+   "t1": 167,
+   "line": "play it by candlelight, and for the first time in years, nobody in your family looks at a phone. Ellie"
+  },
+  {
+   "shot": "S6",
+   "a": 536,
+   "b": 612,
+   "t0": 0,
+   "t1": 76,
+   "line": "wins three times. She cheats every time."
+  },
+  {
+   "shot": "S7",
+   "a": 612,
+   "b": 901,
+   "t0": 0,
+   "t1": 289,
+   "line": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's"
+  },
+  {
+   "shot": "S8",
+   "a": 901,
+   "b": 934,
+   "t0": 0,
+   "t1": 33,
+   "line": "steak for breakfast,"
+  },
+  {
+   "shot": "S9",
+   "a": 934,
+   "b": 974,
+   "t0": 0,
+   "t1": 40,
+   "line": "ice cream for lunch, and"
+  },
+  {
+   "shot": "S10",
+   "a": 974,
+   "b": 1041,
+   "t0": 0,
+   "t1": 67,
+   "line": "fish fingers for absolutely nobody. Your"
+  },
+  {
+   "shot": "S11",
+   "a": 1041,
+   "b": 1189,
+   "t0": 0,
+   "t1": 148,
+   "line": "best friend Mo rides over on his bike. Bikes are suddenly the fastest thing in the city."
+  },
+  {
+   "shot": "S12",
+   "a": 1189,
+   "b": 1384,
+   "t0": 0,
+   "t1": 195,
+   "line": "Every car is stuck exactly where it stopped, so kids ride down the middle of the highway where the traffic used to be. That"
+  },
+  {
+   "shot": "S15",
+   "a": 1384,
+   "b": 1570,
+   "t0": 0,
+   "t1": 186,
+   "line": "evening, Mo's dad builds a fire pit in his backyard and shows everyone how to cook rice in a pot over the flames. It"
+  },
+  {
+   "shot": "S16",
+   "a": 1570,
+   "b": 1626,
+   "t0": 0,
+   "t1": 56,
+   "line": "takes an hour. It's burnt."
+  },
+  {
+   "shot": "S17",
+   "a": 1626,
+   "b": 1707,
+   "t0": 0,
+   "t1": 81,
+   "line": "Everybody eats it anyway. You and Mo ride to the"
+  },
+  {
+   "shot": "S13",
+   "a": 1707,
+   "b": 1948,
+   "t0": 0,
+   "t1": 241,
+   "line": "supermarket. The doors are wide open, and the manager is giving away melting ice cream for free, because it's better than throwing it away. You take"
+  },
+  {
+   "shot": "S14",
+   "a": 1948,
+   "b": 1984,
+   "t0": 0,
+   "t1": 36,
+   "line": "six tubs. And it's"
+  },
+  {
+   "shot": "S18",
+   "a": 1984,
+   "b": 2203,
+   "t0": 0,
+   "t1": 219,
+   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city. At"
+  },
+  {
+   "shot": "S19",
+   "a": 2203,
+   "b": 2308,
+   "t0": 0,
+   "t1": 105,
+   "line": "night, people climb onto their roofs just to stare at the sky."
+  },
+  {
+   "shot": "S20",
+   "a": 2308,
+   "b": 2461,
+   "t0": 0,
+   "t1": 153,
+   "line": "Light pollution hides the Milky Way from about eighty percent of North Americans. That's real."
+  },
+  {
+   "shot": "S21",
+   "a": 2461,
+   "b": 2516,
+   "t0": 0,
+   "t1": 55,
+   "line": "Tonight, everyone sees it. Mo"
+  },
+  {
+   "shot": "S22",
+   "a": 2516,
+   "b": 2748,
+   "t0": 0,
+   "t1": 232,
+   "line": "lies next to you on the roof, eating the last ice cream in the neighborhood. 'Honestly, ' he says, 'this is kind of the best week ever."
+  },
+  {
+   "shot": "S23",
+   "a": 2748,
+   "b": 2784,
+   "t0": 0,
+   "t1": 36,
+   "line": "' He's wrong. Because"
+  },
+  {
+   "shot": "S24",
+   "a": 2784,
+   "b": 2853,
+   "t0": 0,
+   "t1": 69,
+   "line": "tomorrow, the water stops."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 16,
+   "len": 80,
+   "first": 0,
+   "line": "Day one. School is cancelled. Probably.",
+   "note": "DAY ONE: NO SCHOOL?"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 20,
+   "len": 104,
+   "first": 80,
+   "line": "Nobody can call anybody, so nobody knows. So nobody goes.",
+   "note": "you shrug, grinning"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 79,
+   "first": 184,
+   "line": "Your mom lights every candle in the house. Your",
+   "note": "mum lights the candles"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 20,
+   "len": 106,
+   "first": 263,
+   "line": "little sister Ellie digs an old board game out of the closet. You",
+   "note": "Ellie and the board game"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 167,
+   "first": 369,
+   "line": "play it by candlelight, and for the first time in years, nobody in your family looks at a phone. Ellie",
+   "note": "the board by candlelight"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 24,
+   "len": 76,
+   "first": 536,
+   "line": "wins three times. She cheats every time.",
+   "note": "Ellie cheats"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 289,
+   "first": 612,
+   "line": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's",
+   "note": "the street barbecue"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 33,
+   "first": 901,
+   "line": "steak for breakfast,",
+   "note": "steak for breakfast"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 20,
+   "len": 40,
+   "first": 934,
+   "line": "ice cream for lunch, and",
+   "note": "you and the ice cream"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 20,
+   "len": 67,
+   "first": 974,
+   "line": "fish fingers for absolutely nobody. Your",
+   "note": "fish fingers for nobody"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 40,
+   "len": 148,
+   "first": 1041,
+   "line": "best friend Mo rides over on his bike. Bikes are suddenly the fastest thing in the city.",
+   "note": "Mo rides in"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 40,
+   "len": 195,
+   "first": 1189,
+   "line": "Every car is stuck exactly where it stopped, so kids ride down the middle of the highway where the traffic used to be. That",
+   "note": "stalled cars, kids on bikes"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 40,
+   "len": 186,
+   "first": 1384,
+   "line": "evening, Mo's dad builds a fire pit in his backyard and shows everyone how to cook rice in a pot over the flames. It",
+   "note": "the fire pit"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 20,
+   "len": 56,
+   "first": 1570,
+   "line": "takes an hour. It's burnt.",
+   "note": "burnt rice"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 1626,
+   "line": "Everybody eats it anyway. You and Mo ride to the",
+   "note": "everyone eats anyway"
+  },
+  {
+   "id": "S13",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 241,
+   "first": 1707,
+   "line": "supermarket. The doors are wide open, and the manager is giving away melting ice cream for free, because it's better than throwing it away. You take",
+   "note": "free ice cream"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 24,
+   "len": 36,
+   "first": 1948,
+   "line": "six tubs. And it's",
+   "note": "six tubs"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 219,
+   "first": 1984,
+   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city. At",
+   "note": "the quiet, birds on the wires"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 105,
+   "first": 2203,
+   "line": "night, people climb onto their roofs just to stare at the sky.",
+   "note": "people on the roofs"
+  },
+  {
+   "id": "S20",
+   "size": "fact",
+   "key": 70,
+   "len": 153,
+   "first": 2308,
+   "line": "Light pollution hides the Milky Way from about eighty percent of North Americans. That's real.",
+   "note": "80%"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 30,
+   "len": 55,
+   "first": 2461,
+   "line": "Tonight, everyone sees it. Mo",
+   "note": "everyone sees it"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 40,
+   "len": 232,
+   "first": 2516,
+   "line": "lies next to you on the roof, eating the last ice cream in the neighborhood. 'Honestly, ' he says, 'this is kind of the best week ever.",
+   "note": "you and Mo on the roof"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "key": 16,
+   "len": 36,
+   "first": 2748,
+   "line": "' He's wrong. Because",
+   "note": "he's wrong"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 40,
+   "len": 69,
+   "first": 2784,
+   "line": "tomorrow, the water stops.",
+   "note": "the tap runs dry"
   }
  ],
  "fx": [],

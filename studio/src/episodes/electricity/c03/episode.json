@@ -55,18 +55,270 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "street day",
+   "note": "DAY ONE: NO SCHOOL?",
+   "key": 16
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "street day",
+   "note": "you shrug, grinning",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "living candles",
+   "note": "mum lights the candles",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "living candles",
+   "note": "Ellie and the board game",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "table",
+   "note": "the board by candlelight",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "living candles",
+   "note": "Ellie cheats",
+   "key": 24
+  },
+  {
+   "id": "S7",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "set": "street day",
+   "note": "the street barbecue",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "barbecue",
+   "note": "steak for breakfast",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "street day",
+   "note": "you and the ice cream",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "table",
+   "note": "fish fingers for nobody",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "street day",
+   "note": "Mo rides in",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "highway",
+   "note": "stalled cars, kids on bikes",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "yard dusk",
+   "note": "the fire pit",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "pot",
+   "note": "burnt rice",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "yard dusk",
+   "note": "everyone eats anyway",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "supermarket",
+   "note": "free ice cream",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "basket",
+   "note": "six tubs",
+   "key": 24
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "street day",
+   "note": "the quiet, birds on the wires",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "roof night",
+   "note": "people on the roofs",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "fact",
+   "set": "schematic",
+   "note": "80%",
+   "key": 70
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "roof night",
+   "note": "everyone sees it",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "roof night",
+   "note": "you and Mo on the roof",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "roof night",
+   "note": "he's wrong",
+   "key": 16
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "set": "tap",
+   "note": "the tap runs dry",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "little"
+  },
+  {
+   "shot": "S5",
+   "at": "play"
+  },
+  {
+   "shot": "S6",
+   "at": "wins"
+  },
+  {
+   "shot": "S7",
+   "at": "Day"
+  },
+  {
+   "shot": "S8",
+   "at": "steak"
+  },
+  {
+   "shot": "S9",
+   "at": "ice"
+  },
+  {
+   "shot": "S10",
+   "at": "fish"
+  },
+  {
+   "shot": "S11",
+   "at": "best"
+  },
+  {
+   "shot": "S12",
+   "at": "Every"
+  },
+  {
+   "shot": "S15",
+   "at": "evening"
+  },
+  {
+   "shot": "S16",
+   "at": "takes"
+  },
+  {
+   "shot": "S17",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S13",
+   "at": "supermarket"
+  },
+  {
+   "shot": "S14",
+   "at": "six"
+  },
+  {
+   "shot": "S18",
+   "at": "quiet"
+  },
+  {
+   "shot": "S19",
+   "at": "night"
+  },
+  {
+   "shot": "S20",
+   "at": "Light"
+  },
+  {
+   "shot": "S21",
+   "at": "Tonight"
+  },
+  {
+   "shot": "S22",
+   "at": "lies"
+  },
+  {
+   "shot": "S23",
+   "at": "He's"
+  },
+  {
+   "shot": "S24",
+   "at": "tomorrow"
   }
  ],
- "end": "f:90",
  "fx": []
 }

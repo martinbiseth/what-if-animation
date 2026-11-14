@@ -81,8 +81,8 @@ export const S4: React.FC<ShotProps> = ({ t, len }) => {
       <CountryRoad t={t + 100} />
       <Hero look={{ ...NEIGHBOR, jacket: '#E07A2A', jacketShade: '#C0621C', hat: undefined }} pose={pose} />
       {/* the hard hat */}
-      <path d={`M ${head.x - 70 * s} ${head.y + 10 * s} Q ${head.x} ${head.y - 80 * s} ${head.x + 70 * s} ${head.y + 10 * s} Z`} fill="#FFD23A" stroke="#100E16" strokeWidth={5} />
-      <path d={`M ${head.x - 86 * s} ${head.y + 10 * s} L ${head.x + 86 * s} ${head.y + 10 * s}`} stroke="#100E16" strokeWidth={8} strokeLinecap="round" />
+      <path d={`M ${head.x - 70 * s} ${head.y + 28 * s} Q ${head.x} ${head.y - 62 * s} ${head.x + 70 * s} ${head.y + 28 * s} Z`} fill="#FFD23A" stroke="#100E16" strokeWidth={5} />
+      <path d={`M ${head.x - 86 * s} ${head.y + 28 * s} L ${head.x + 86 * s} ${head.y + 28 * s}`} stroke="#100E16" strokeWidth={8} strokeLinecap="round" />
     </g>
   );
 };
