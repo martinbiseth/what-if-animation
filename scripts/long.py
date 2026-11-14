@@ -3,7 +3,9 @@ know how to make, then joined, mastered and packaged for YouTube.
 
     python <skill>/scripts/long.py init    <slug> --id SkipSleep --topic "What if you never had to sleep?"
     python <skill>/scripts/long.py status  <slug>
-    python <skill>/scripts/long.py render  <slug> [c03 c04] [--force] [--concurrency 6]
+    python <skill>/scripts/long.py render  <slug> [c03 c04] [--force] [--concurrency 6] [--remix]
+          --remix: keep each chapter's rendered picture and rebuild only its sound from timeline.json's stems
+          (after sfx.py: minutes instead of a full re-render)
     python <skill>/scripts/long.py youtube <slug>
 
 A chapter's slug is '<slug>/<chapter>' (e.g. skip-sleep/c03), so every per-episode script works on it unchanged:
@@ -182,6 +184,25 @@ def newest_input(cs):
     return max(f.stat().st_mtime for f in files if f.is_file())
 
 
+def remix_audio(cs, raw):
+    """Replace a rendered chapter's sound with its stems (voice, sfx, music) at the volumes in timeline.json, as the
+    Episode composition plays them: every stem starts at frame 0."""
+    A = load_json(ep_dir(cs) / 'timeline.json').get('audio', {})
+    pub = STUDIO / 'public'
+    ins, parts = [], []
+    for k in ('voice', 'sfx', 'music'):
+        if A.get(k):
+            ins += ['-i', str(pub / A[k])]
+            parts.append(f"[{len(parts) + 1}:a]volume={A.get(k + 'Vol', 1)}[a{len(parts)}]")
+    if not parts:
+        return
+    mix = ';'.join(parts) + ';' + ''.join(f'[a{i}]' for i in range(len(parts))) + f'amix=inputs={len(parts)}:normalize=0:duration=longest,aresample=48000,pan=stereo|c0=c0|c1=c0,apad[out]'
+    tmp = raw.with_name(raw.stem + '-mix.mp4')
+    subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', str(raw), *ins, '-filter_complex', mix, '-map', '0:v', '-map', '[out]',
+                    '-c:v', 'copy', '-c:a', 'aac', '-b:a', '320k', '-t', f'{probe_len(raw):.3f}', str(tmp)], check=True)
+    tmp.replace(raw)
+
+
 def render(slug, args):
     s = load_series(slug)
     only = [a for a in args if not a.startswith('--') and (args.index(a) == 0 or args[args.index(a) - 1] != '--concurrency')]
@@ -194,7 +215,10 @@ def render(slug, args):
         ep = json.loads((ep_dir(cs) / 'episode.json').read_text(encoding='utf-8'))
         raw = out_dir(cs) / f"{c['slug']}-raw.mp4"
         stale = not raw.exists() or raw.stat().st_mtime < newest_input(cs)
-        if force or (c['slug'] in only) or (not only and stale):
+        if '--remix' in args and raw.exists():
+            remix_audio(cs, raw)
+            print(f"{c['slug']}: sound rebuilt from the stems")
+        elif force or (c['slug'] in only) or (not only and stale):
             t0 = time.time()
             # --enforce-audio-track: a chapter with no sound yet still gets a (silent) track, so the join lines up
             cmd = [npx, 'remotion', 'render', 'src/index.ts', ep['id'], str(raw), '--log', 'error', '--enforce-audio-track']
