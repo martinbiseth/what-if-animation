@@ -220,6 +220,24 @@
    "set": "tap",
    "note": "the tap runs dry",
    "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "note": "close on the birds on the dead wire: you can hear them in the middle of the city",
+   "key": 40
+  },
+  {
+   "id": "S26",
+   "size": "big word",
+   "note": "DAY 2: the freezer is melting",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "note": "a neighbour you've never met drags a barbecue into the road behind him",
+   "key": 40
   }
  ],
  "edit": [
@@ -248,8 +266,16 @@
    "at": "wins"
   },
   {
-   "shot": "S7",
+   "shot": "S26",
    "at": "Day"
+  },
+  {
+   "shot": "S7",
+   "at": "whole"
+  },
+  {
+   "shot": "S27",
+   "at": "Neighbors"
   },
   {
    "shot": "S8",
@@ -294,6 +320,10 @@
   {
    "shot": "S18",
    "at": "quiet"
+  },
+  {
+   "shot": "S25",
+   "at": "hear"
   },
   {
    "shot": "S19",

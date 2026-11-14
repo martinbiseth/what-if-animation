@@ -53,12 +53,28 @@
    "line": "wins three times. She cheats every time."
   },
   {
-   "shot": "S7",
+   "shot": "S26",
    "a": 610,
+   "b": 694,
+   "t0": 0,
+   "t1": 84,
+   "line": "Day two. The freezer is melting. And"
+  },
+  {
+   "shot": "S7",
+   "a": 694,
+   "b": 810,
+   "t0": 0,
+   "t1": 116,
+   "line": "the whole street has the same idea. Eat everything. Now."
+  },
+  {
+   "shot": "S27",
+   "a": 810,
    "b": 909,
    "t0": 0,
-   "t1": 299,
-   "line": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's"
+   "t1": 99,
+   "line": "Neighbors you've never met drag their barbecues into the road. There's"
   },
   {
    "shot": "S8",
@@ -143,10 +159,18 @@
   {
    "shot": "S18",
    "a": 1953,
+   "b": 2129,
+   "t0": 0,
+   "t1": 176,
+   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You"
+  },
+  {
+   "shot": "S25",
+   "a": 2129,
    "b": 2194,
    "t0": 0,
-   "t1": 241,
-   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city. At"
+   "t1": 65,
+   "line": "can hear birds in the middle of the city. At"
   },
   {
    "shot": "S19",
@@ -253,13 +277,31 @@
    "note": "Ellie cheats"
   },
   {
+   "id": "S26",
+   "size": "big word",
+   "key": 30,
+   "len": 84,
+   "first": 610,
+   "line": "Day two. The freezer is melting. And",
+   "note": "DAY 2: the freezer is melting"
+  },
+  {
    "id": "S7",
    "size": "wide",
    "key": 40,
-   "len": 299,
-   "first": 610,
-   "line": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's",
+   "len": 116,
+   "first": 694,
+   "line": "the whole street has the same idea. Eat everything. Now.",
    "note": "the street barbecue"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 40,
+   "len": 99,
+   "first": 810,
+   "line": "Neighbors you've never met drag their barbecues into the road. There's",
+   "note": "a neighbour you've never met drags a barbecue into the road behind him"
   },
   {
    "id": "S8",
@@ -355,10 +397,19 @@
    "id": "S18",
    "size": "wide",
    "key": 40,
-   "len": 241,
+   "len": 176,
    "first": 1953,
-   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city. At",
+   "line": "quiet. Really quiet. No traffic. No hum. No buzz from the wires. You",
    "note": "the quiet, birds on the wires"
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "key": 40,
+   "len": 65,
+   "first": 2129,
+   "line": "can hear birds in the middle of the city. At",
+   "note": "close on the birds on the dead wire: you can hear them in the middle of the city"
   },
   {
    "id": "S19",

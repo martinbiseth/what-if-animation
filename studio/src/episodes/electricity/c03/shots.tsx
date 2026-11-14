@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  Hero, Pose, basePose, kf, camT, clamp, easeOut, backOut, ShotProps, idleBlink, Glow, FONT, talkShot, factCard, faceAt, talkAt, LEG_LEN,
+  Hero, Pose, basePose, kf, camT, clamp, easeOut, backOut, ShotProps, idleBlink, Glow, FONT, talkShot, factCard, faceAt, talkAt, LEG_LEN, walkPose,
 } from '../../../engine';
 import { YOU, MOM, ELLIE, MO, NEIGHBOR, faceCU, bigWord, wordF, span, Soft, handAt, DarkBg } from '../common';
 import {
@@ -430,3 +430,30 @@ export const S24: React.FC<ShotProps> = ({ t, len }) => {
 };
 
 void faceAt; void Car; void walk; void sofaSit; void MilkyWay;
+
+// ---------- S25: close on the birds on the dead wire: you can hear them in the middle of the city ----------
+export const S25: React.FC<ShotProps> = (p) => {
+  const z = kf(p.t, [[0, 2.4], [p.len, 2.7]]);
+  return (
+    <g transform={`translate(960 560) scale(${z}) translate(${-470 - p.t * 0.3} -390)`}>
+      <S18 {...p} t={p.t + 120} />
+    </g>
+  );
+};
+
+// ---------- S26: DAY 2: the freezer is melting ----------
+export const S26 = bigWord({ kicker: 'THE FREEZER IS MELTING', word: 'DAY 2', color: '#FF8A3D', Bg: DAY });
+
+// ---------- S27: a neighbour you've never met drags a barbecue into the road behind him ----------
+export const S27: React.FC<ShotProps> = ({ t, len }) => {
+  const s = 0.95;
+  const x = kf(t, [[0, 520], [len, 980]]);
+  const man = walkPose(x, t * 0.35, STREETM.kerb + 120, s, { expr: 'happy', armL: { a: -55, b: 0 }, armR: { a: -50, b: 0 }, tilt: 10 }, 1);
+  return (
+    <g transform={camT(x - 40, 740, 1.5)}>
+      <DAY t={t + 520} />
+      <Barbecue x={x - 160} y={STREETM.kerb + 120} s={1} t={t} />
+      <Hero look={{ ...NEIGHBOR, hat: undefined, jacket: '#B85A3A', jacketShade: '#9A4A30' }} pose={man} />
+    </g>
+  );
+};
