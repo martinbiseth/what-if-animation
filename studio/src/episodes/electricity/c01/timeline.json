@@ -2,199 +2,199 @@
  "slug": "electricity/c01",
  "title": " ",
  "fps": 30,
- "total": 1441,
+ "total": 1435,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 33,
+   "b": 44,
    "t0": 0,
-   "t1": 33,
+   "t1": 44,
    "line": "Eight fourteen PM."
   },
   {
    "shot": "S2",
-   "a": 33,
-   "b": 107,
+   "a": 44,
+   "b": 109,
    "t0": 0,
-   "t1": 74,
+   "t1": 65,
    "line": "You're one level away from beating the game."
   },
   {
    "shot": "S3",
-   "a": 107,
-   "b": 155,
+   "a": 109,
+   "b": 157,
    "t0": 0,
    "t1": 48,
    "line": "And the screen goes black."
   },
   {
    "shot": "S4",
-   "a": 155,
-   "b": 194,
+   "a": 157,
+   "b": 196,
    "t0": 0,
    "t1": 39,
    "line": "So does the TV. The"
   },
   {
    "shot": "S5",
-   "a": 194,
-   "b": 234,
+   "a": 196,
+   "b": 239,
    "t0": 0,
-   "t1": 40,
+   "t1": 43,
    "line": "fridge stops humming."
   },
   {
    "shot": "S6",
-   "a": 234,
-   "b": 303,
+   "a": 239,
+   "b": 301,
    "t0": 0,
-   "t1": 69,
-   "line": "Every light in the house, gone. At the"
+   "t1": 62,
+   "line": "Every light in the house, gone. At"
   },
   {
    "shot": "S7",
-   "a": 303,
-   "b": 336,
+   "a": 301,
+   "b": 337,
    "t0": 0,
-   "t1": 33,
-   "line": "same moment. You"
+   "t1": 36,
+   "line": "the same moment. You"
   },
   {
    "shot": "S8",
-   "a": 336,
-   "b": 386,
+   "a": 337,
+   "b": 391,
    "t0": 0,
-   "t1": 50,
+   "t1": 54,
    "line": "grab your phone. Dead."
   },
   {
    "shot": "S9",
-   "a": 386,
-   "b": 442,
+   "a": 391,
+   "b": 456,
    "t0": 0,
-   "t1": 56,
+   "t1": 65,
    "line": "Not low battery. Dead. You"
   },
   {
    "shot": "S10",
-   "a": 442,
-   "b": 519,
+   "a": 456,
+   "b": 523,
    "t0": 0,
-   "t1": 77,
+   "t1": 67,
    "line": "try the flashlight in the kitchen drawer. Dead"
   },
   {
    "shot": "S11",
-   "a": 519,
-   "b": 534,
+   "a": 523,
+   "b": 543,
    "t0": 0,
-   "t1": 15,
+   "t1": 20,
    "line": "too."
   },
   {
    "shot": "S12",
-   "a": 534,
-   "b": 600,
+   "a": 543,
+   "b": 611,
    "t0": 0,
-   "t1": 66,
-   "line": "Outside, the whole street is dark."
+   "t1": 68,
+   "line": "Outside, the whole street is dark. A"
   },
   {
    "shot": "S13",
-   "a": 600,
-   "b": 675,
+   "a": 611,
+   "b": 689,
    "t0": 0,
-   "t1": 75,
-   "line": "A car rolls to a stop, without a sound. The"
+   "t1": 78,
+   "line": "car rolls to a stop, without a sound."
   },
   {
    "shot": "S14",
-   "a": 675,
-   "b": 708,
+   "a": 689,
+   "b": 724,
    "t0": 0,
-   "t1": 33,
-   "line": "streetlights. The"
+   "t1": 35,
+   "line": "The streetlights. The"
   },
   {
    "shot": "S15",
-   "a": 708,
-   "b": 745,
+   "a": 724,
+   "b": 761,
    "t0": 0,
    "t1": 37,
    "line": "traffic lights. The"
   },
   {
    "shot": "S16",
-   "a": 745,
-   "b": 834,
+   "a": 761,
+   "b": 852,
    "t0": 0,
-   "t1": 89,
+   "t1": 91,
    "line": "whole city, all the way to the horizon. Black."
   },
   {
    "shot": "S17",
-   "a": 834,
-   "b": 959,
+   "a": 852,
+   "b": 987,
    "t0": 0,
-   "t1": 125,
+   "t1": 135,
    "line": "Somewhere, a car alarm should be going off. It isn't. Nothing is."
   },
   {
    "shot": "S18",
-   "a": 959,
-   "b": 1013,
+   "a": 987,
+   "b": 1034,
    "t0": 0,
-   "t1": 54,
-   "line": "Then you look up. And for the"
+   "t1": 47,
+   "line": "Then you look up. And for"
   },
   {
    "shot": "S19",
-   "a": 1013,
-   "b": 1072,
+   "a": 1034,
+   "b": 1082,
    "t0": 0,
-   "t1": 59,
-   "line": "first time in your life, you see the"
+   "t1": 48,
+   "line": "the first time in your life, you see"
   },
   {
    "shot": "S20",
-   "a": 1072,
-   "b": 1096,
+   "a": 1082,
+   "b": 1116,
    "t0": 0,
-   "t1": 24,
-   "line": "Milky Way."
+   "t1": 34,
+   "line": "the Milky Way."
   },
   {
    "shot": "S21",
-   "a": 1096,
-   "b": 1177,
+   "a": 1116,
+   "b": 1194,
    "t0": 0,
-   "t1": 81,
+   "t1": 78,
    "line": "What if electricity disappeared, forever? The"
   },
   {
    "shot": "S22",
-   "a": 1177,
-   "b": 1231,
+   "a": 1194,
+   "b": 1245,
    "t0": 0,
-   "t1": 54,
+   "t1": 51,
    "line": "first night feels like camping."
   },
   {
    "shot": "S23",
-   "a": 1231,
-   "b": 1347,
+   "a": 1245,
+   "b": 1353,
    "t0": 0,
-   "t1": 116,
-   "line": "But a city runs on electricity the way your body runs on blood. And the"
+   "t1": 108,
+   "line": "But a city runs on electricity the way your body runs on blood. And"
   },
   {
    "shot": "S24",
-   "a": 1347,
-   "b": 1441,
+   "a": 1353,
+   "b": 1435,
    "t0": 0,
-   "t1": 94,
-   "line": "clock started the second the lights went out."
+   "t1": 82,
+   "line": "the clock started the second the lights went out."
   }
  ],
  "shots": [
@@ -202,7 +202,7 @@
    "id": "S1",
    "size": "insert",
    "key": 20,
-   "len": 33,
+   "len": 44,
    "first": 0,
    "line": "Eight fourteen PM.",
    "note": "the console: LEVEL 99, 8:14 PM"
@@ -211,8 +211,8 @@
    "id": "S2",
    "size": "medium",
    "key": 20,
-   "len": 74,
-   "first": 33,
+   "len": 65,
+   "first": 44,
    "line": "You're one level away from beating the game.",
    "note": "you on the sofa, leaning in"
   },
@@ -221,7 +221,7 @@
    "size": "insert",
    "key": 14,
    "len": 48,
-   "first": 107,
+   "first": 109,
    "line": "And the screen goes black.",
    "note": "the screen dies"
   },
@@ -230,7 +230,7 @@
    "size": "wide",
    "key": 10,
    "len": 39,
-   "first": 155,
+   "first": 157,
    "line": "So does the TV. The",
    "note": "the TV dies too"
   },
@@ -238,8 +238,8 @@
    "id": "S5",
    "size": "insert",
    "key": 3,
-   "len": 40,
-   "first": 194,
+   "len": 43,
+   "first": 196,
    "line": "fridge stops humming.",
    "note": "the fridge's display goes out"
   },
@@ -247,26 +247,26 @@
    "id": "S6",
    "size": "wide",
    "key": 10,
-   "len": 69,
-   "first": 234,
-   "line": "Every light in the house, gone. At the",
+   "len": 62,
+   "first": 239,
+   "line": "Every light in the house, gone. At",
    "note": "every light goes out"
   },
   {
    "id": "S7",
    "size": "close-up",
    "key": 14,
-   "len": 33,
-   "first": 303,
-   "line": "same moment. You",
+   "len": 36,
+   "first": 301,
+   "line": "the same moment. You",
    "note": "your face in the dark"
   },
   {
    "id": "S8",
    "size": "insert",
    "key": 14,
-   "len": 50,
-   "first": 336,
+   "len": 54,
+   "first": 337,
    "line": "grab your phone. Dead.",
    "note": "press and hold: nothing"
   },
@@ -274,8 +274,8 @@
    "id": "S9",
    "size": "close-up",
    "key": 10,
-   "len": 56,
-   "first": 386,
+   "len": 65,
+   "first": 391,
    "line": "Not low battery. Dead. You",
    "note": "worried"
   },
@@ -283,8 +283,8 @@
    "id": "S10",
    "size": "insert",
    "key": 18,
-   "len": 77,
-   "first": 442,
+   "len": 67,
+   "first": 456,
    "line": "try the flashlight in the kitchen drawer. Dead",
    "note": "the flashlight: click, nothing"
   },
@@ -292,8 +292,8 @@
    "id": "S11",
    "size": "close-up",
    "key": 10,
-   "len": 15,
-   "first": 519,
+   "len": 20,
+   "first": 523,
    "line": "too.",
    "note": "dead too"
   },
@@ -301,27 +301,27 @@
    "id": "S12",
    "size": "wide",
    "key": 20,
-   "len": 66,
-   "first": 534,
-   "line": "Outside, the whole street is dark.",
+   "len": 68,
+   "first": 543,
+   "line": "Outside, the whole street is dark. A",
    "note": "you come out into the dark street"
   },
   {
    "id": "S13",
    "size": "medium",
    "key": 40,
-   "len": 75,
-   "first": 600,
-   "line": "A car rolls to a stop, without a sound. The",
+   "len": 78,
+   "first": 611,
+   "line": "car rolls to a stop, without a sound.",
    "note": "a car rolls to a stop"
   },
   {
    "id": "S14",
    "size": "insert",
    "key": 10,
-   "len": 33,
-   "first": 675,
-   "line": "streetlights. The",
+   "len": 35,
+   "first": 689,
+   "line": "The streetlights. The",
    "note": "the dead street lamp"
   },
   {
@@ -329,7 +329,7 @@
    "size": "insert",
    "key": 10,
    "len": 37,
-   "first": 708,
+   "first": 724,
    "line": "traffic lights. The",
    "note": "the dead traffic light"
   },
@@ -337,8 +337,8 @@
    "id": "S16",
    "size": "wide pan",
    "key": 30,
-   "len": 89,
-   "first": 745,
+   "len": 91,
+   "first": 761,
    "line": "whole city, all the way to the horizon. Black.",
    "note": "the whole city dark"
   },
@@ -346,8 +346,8 @@
    "id": "S17",
    "size": "wide",
    "key": 30,
-   "len": 125,
-   "first": 834,
+   "len": 135,
+   "first": 852,
    "line": "Somewhere, a car alarm should be going off. It isn't. Nothing is.",
    "note": "you alone, a car alarm that doesn't go off"
   },
@@ -355,35 +355,35 @@
    "id": "S18",
    "size": "low angle",
    "key": 24,
-   "len": 54,
-   "first": 959,
-   "line": "Then you look up. And for the",
+   "len": 47,
+   "first": 987,
+   "line": "Then you look up. And for",
    "note": "you look up"
   },
   {
    "id": "S19",
    "size": "tilt up",
    "key": 55,
-   "len": 59,
-   "first": 1013,
-   "line": "first time in your life, you see the",
+   "len": 48,
+   "first": 1034,
+   "line": "the first time in your life, you see",
    "note": "into the stars"
   },
   {
    "id": "S20",
    "size": "sky",
    "key": 30,
-   "len": 24,
-   "first": 1072,
-   "line": "Milky Way.",
+   "len": 34,
+   "first": 1082,
+   "line": "the Milky Way.",
    "note": "the Milky Way"
   },
   {
    "id": "S21",
    "size": "title",
    "key": 48,
-   "len": 81,
-   "first": 1096,
+   "len": 78,
+   "first": 1116,
    "line": "What if electricity disappeared, forever? The",
    "note": "WHAT IF ELECTRICITY DISAPPEARED FOREVER?"
   },
@@ -391,8 +391,8 @@
    "id": "S22",
    "size": "medium",
    "key": 30,
-   "len": 54,
-   "first": 1177,
+   "len": 51,
+   "first": 1194,
    "line": "first night feels like camping.",
    "note": "the first night: the family round a candle"
   },
@@ -400,18 +400,18 @@
    "id": "S23",
    "size": "graphic",
    "key": 30,
-   "len": 116,
-   "first": 1231,
-   "line": "But a city runs on electricity the way your body runs on blood. And the",
+   "len": 108,
+   "first": 1245,
+   "line": "But a city runs on electricity the way your body runs on blood. And",
    "note": "the city's veins pulse, then fade"
   },
   {
    "id": "S24",
    "size": "big word",
    "key": 16,
-   "len": 94,
-   "first": 1347,
-   "line": "clock started the second the lights went out.",
+   "len": 82,
+   "first": 1353,
+   "line": "the clock started the second the lights went out.",
    "note": "DAY 1"
   }
  ],
@@ -420,14 +420,16 @@
    "kind": "flash",
    "color": "#FFFFFF",
    "o": 0.4,
-   "f": 107
+   "f": 109
   },
   {
    "kind": "flash",
    "color": "#CFE0FF",
    "o": 0.4,
-   "f": 1099
+   "f": 1119
   }
  ],
- "audio": {}
+ "audio": {
+  "voice": "electricity/c01/voice.wav"
+ }
 }

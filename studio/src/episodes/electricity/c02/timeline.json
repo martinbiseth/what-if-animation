@@ -2,126 +2,126 @@
  "slug": "electricity/c02",
  "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 1897,
+ "total": 2022,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 78,
+   "b": 80,
    "t0": 0,
-   "t1": 78,
+   "t1": 80,
    "line": "Here are the rules. This isn't a blackout."
   },
   {
    "shot": "S2",
-   "a": 78,
-   "b": 232,
+   "a": 80,
+   "b": 251,
    "t0": 0,
-   "t1": 154,
+   "t1": 171,
    "line": "Electricity itself has stopped working. No current flows through any wire, anywhere on Earth."
   },
   {
    "shot": "S3",
-   "a": 232,
-   "b": 357,
+   "a": 251,
+   "b": 379,
    "t0": 0,
-   "t1": 125,
+   "t1": 128,
    "line": "How do you even know it's forever? The first morning, everyone waits."
   },
   {
    "shot": "S4",
-   "a": 357,
-   "b": 463,
+   "a": 379,
+   "b": 488,
    "t0": 0,
-   "t1": 106,
+   "t1": 109,
    "line": "Power workers walk the lines on foot. Nothing is broken. The"
   },
   {
    "shot": "S5",
-   "a": 463,
-   "b": 604,
+   "a": 488,
+   "b": 639,
    "t0": 0,
-   "t1": 141,
+   "t1": 151,
    "line": "wires are fine. The power plants are fine. Electricity just isn't there anymore."
   },
   {
    "shot": "S6",
-   "a": 604,
-   "b": 764,
+   "a": 639,
+   "b": 812,
    "t0": 0,
-   "t1": 160,
+   "t1": 173,
    "line": "No batteries. No generators. No solar panels. Not even the tiny battery in your watch."
   },
   {
    "shot": "S7",
-   "a": 764,
-   "b": 982,
+   "a": 812,
+   "b": 1034,
    "t0": 0,
-   "t1": 218,
+   "t1": 222,
    "line": "Every photo you ever took. Every message. Every saved game. All of it is locked inside machines that will never turn on again."
   },
   {
    "shot": "S8",
-   "a": 982,
-   "b": 1121,
+   "a": 1034,
+   "b": 1182,
    "t0": 0,
-   "t1": 139,
+   "t1": 148,
    "line": "But some things still work. Fire works. Anything with no electric parts works."
   },
   {
    "shot": "S9",
-   "a": 1121,
-   "b": 1271,
+   "a": 1182,
+   "b": 1350,
    "t0": 0,
-   "t1": 150,
-   "line": "Bikes. Sailboats. Old steam trains. Your grandpa's wind- up clock. And here's the"
+   "t1": 168,
+   "line": "Bikes. Sailboats. Old steam trains. Your grandpa's wind- up clock. And here's"
   },
   {
    "shot": "S10",
-   "a": 1271,
-   "b": 1423,
+   "a": 1350,
+   "b": 1517,
    "t0": 0,
-   "t1": 152,
-   "line": "weird part. Your brain and your heart run on tiny electrical signals. Those still work."
+   "t1": 167,
+   "line": "the weird part. Your brain and your heart run on tiny electrical signals. Those still work."
   },
   {
    "shot": "S11",
-   "a": 1423,
-   "b": 1496,
+   "a": 1517,
+   "b": 1583,
    "t0": 0,
-   "t1": 73,
+   "t1": 66,
    "line": "Otherwise this would be a very short video."
   },
   {
    "shot": "S12",
-   "a": 1496,
-   "b": 1691,
+   "a": 1583,
+   "b": 1802,
    "t0": 0,
-   "t1": 195,
+   "t1": 219,
    "line": "So the rule is simple. Anything people built to carry electricity is dead. Every wire, every chip, every screen."
   },
   {
    "shot": "S13",
-   "a": 1691,
-   "b": 1731,
+   "a": 1802,
+   "b": 1856,
    "t0": 0,
-   "t1": 40,
+   "t1": 54,
    "line": "Silent. Forever."
   },
   {
    "shot": "S14",
-   "a": 1731,
-   "b": 1798,
+   "a": 1856,
+   "b": 1927,
    "t0": 0,
-   "t1": 67,
+   "t1": 71,
    "line": "Remember that rule. Because one night,"
   },
   {
    "shot": "S15",
-   "a": 1798,
-   "b": 1897,
+   "a": 1927,
+   "b": 2022,
    "t0": 0,
-   "t1": 99,
+   "t1": 95,
    "line": "far from home, you're going to see it broken."
   }
  ],
@@ -130,7 +130,7 @@
    "id": "S1",
    "size": "card",
    "key": 20,
-   "len": 78,
+   "len": 80,
    "first": 0,
    "line": "Here are the rules. This isn't a blackout.",
    "note": "NOT A BLACKOUT"
@@ -139,8 +139,8 @@
    "id": "S2",
    "size": "diagram",
    "key": 50,
-   "len": 154,
-   "first": 78,
+   "len": 171,
+   "first": 80,
    "line": "Electricity itself has stopped working. No current flows through any wire, anywhere on Earth.",
    "note": "current stops in the wire"
   },
@@ -148,8 +148,8 @@
    "id": "S3",
    "size": "wide",
    "key": 40,
-   "len": 125,
-   "first": 232,
+   "len": 128,
+   "first": 251,
    "line": "How do you even know it's forever? The first morning, everyone waits.",
    "note": "the first morning: everyone waits"
   },
@@ -157,8 +157,8 @@
    "id": "S4",
    "size": "wide",
    "key": 60,
-   "len": 106,
-   "first": 357,
+   "len": 109,
+   "first": 379,
    "line": "Power workers walk the lines on foot. Nothing is broken. The",
    "note": "a power worker walks the line, shrugs"
   },
@@ -166,8 +166,8 @@
    "id": "S5",
    "size": "diagram",
    "key": 40,
-   "len": 141,
-   "first": 463,
+   "len": 151,
+   "first": 488,
    "line": "wires are fine. The power plants are fine. Electricity just isn't there anymore.",
    "note": "power plants intact and dark"
   },
@@ -175,8 +175,8 @@
    "id": "S6",
    "size": "icons",
    "key": 60,
-   "len": 160,
-   "first": 604,
+   "len": 173,
+   "first": 639,
    "line": "No batteries. No generators. No solar panels. Not even the tiny battery in your watch.",
    "note": "nothing stored works"
   },
@@ -184,8 +184,8 @@
    "id": "S7",
    "size": "graphic",
    "key": 50,
-   "len": 218,
-   "first": 764,
+   "len": 222,
+   "first": 812,
    "line": "Every photo you ever took. Every message. Every saved game. All of it is locked inside machines that will never turn on again.",
    "note": "photos, messages, saves locked away"
   },
@@ -193,8 +193,8 @@
    "id": "S8",
    "size": "insert",
    "key": 30,
-   "len": 139,
-   "first": 982,
+   "len": 148,
+   "first": 1034,
    "line": "But some things still work. Fire works. Anything with no electric parts works.",
    "note": "a match, a candle: fire works"
   },
@@ -202,26 +202,26 @@
    "id": "S9",
    "size": "icons",
    "key": 60,
-   "len": 150,
-   "first": 1121,
-   "line": "Bikes. Sailboats. Old steam trains. Your grandpa's wind- up clock. And here's the",
+   "len": 168,
+   "first": 1182,
+   "line": "Bikes. Sailboats. Old steam trains. Your grandpa's wind- up clock. And here's",
    "note": "bikes, sails, steam, springs"
   },
   {
    "id": "S10",
    "size": "diagram",
    "key": 40,
-   "len": 152,
-   "first": 1271,
-   "line": "weird part. Your brain and your heart run on tiny electrical signals. Those still work.",
+   "len": 167,
+   "first": 1350,
+   "line": "the weird part. Your brain and your heart run on tiny electrical signals. Those still work.",
    "note": "brain and heart sparking"
   },
   {
    "id": "S11",
    "size": "close-up",
    "key": 20,
-   "len": 73,
-   "first": 1423,
+   "len": 66,
+   "first": 1517,
    "line": "Otherwise this would be a very short video.",
    "note": "smug: a very short video"
   },
@@ -229,8 +229,8 @@
    "id": "S12",
    "size": "icons",
    "key": 60,
-   "len": 195,
-   "first": 1496,
+   "len": 219,
+   "first": 1583,
    "line": "So the rule is simple. Anything people built to carry electricity is dead. Every wire, every chip, every screen.",
    "note": "wire, chip, screen: dead"
   },
@@ -238,8 +238,8 @@
    "id": "S13",
    "size": "big word",
    "key": 16,
-   "len": 40,
-   "first": 1691,
+   "len": 54,
+   "first": 1802,
    "line": "Silent. Forever.",
    "note": "FOREVER."
   },
@@ -247,8 +247,8 @@
    "id": "S14",
    "size": "medium",
    "key": 40,
-   "len": 67,
-   "first": 1731,
+   "len": 71,
+   "first": 1856,
    "line": "Remember that rule. Because one night,",
    "note": "you at the window from behind"
   },
@@ -256,12 +256,14 @@
    "id": "S15",
    "size": "wide push",
    "key": 60,
-   "len": 99,
-   "first": 1798,
+   "len": 95,
+   "first": 1927,
    "line": "far from home, you're going to see it broken.",
    "note": "far away, a flicker"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "electricity/c02/voice.wav"
+ }
 }
