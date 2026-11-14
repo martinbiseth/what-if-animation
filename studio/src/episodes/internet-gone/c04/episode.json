@@ -70,18 +70,237 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 4: day two",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "note": "Mum at the shop counter",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "terminal: no connection",
+   "key": 40
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "queue at the dead cash machine",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "shelves stripped",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "note": "supply chain: computer, trucks, shop; then broken",
+   "key": 100
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "note": "3 days",
+   "key": 70
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "note": "DAY 3",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "note": "airport: everything cancelled",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "8.5 million computers, 2024",
+   "key": 70
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "this is everything",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "note": "the petrol queue: 2 km",
+   "key": 90
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "note": "pharmacy: grandma, can't check",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "note": "3 days of pills, the rest on paper",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "note": "the tap still runs",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "BOIL YOUR WATER on a lamp post",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "note": "you start to see it",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "note": "the hub",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "note": "call failed",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "note": "sea cables: fine; the pulses stop",
+   "key": 150
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "note": "nobody knows why",
+   "key": 15
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "note": "forty percent",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "note": "the most valuable thing you own",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Your"
+  },
+  {
+   "shot": "S3",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S5",
+   "at": "The#3"
+  },
+  {
+   "shot": "S6",
+   "at": "A"
+  },
+  {
+   "shot": "S7",
+   "at": "A#2"
+  },
+  {
+   "shot": "S8",
+   "at": "Day"
+  },
+  {
+   "shot": "S9",
+   "at": "Planes"
+  },
+  {
+   "shot": "S10",
+   "at": "In"
+  },
+  {
+   "shot": "S11",
+   "at": "That"
+  },
+  {
+   "shot": "S12",
+   "at": "Day"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "They"
+  },
+  {
+   "shot": "S15",
+   "at": "The#2"
+  },
+  {
+   "shot": "S16",
+   "at": "A"
+  },
+  {
+   "shot": "S17",
+   "at": "You"
+  },
+  {
+   "shot": "S18",
+   "at": "The"
+  },
+  {
+   "shot": "S19",
+   "at": "Even"
+  },
+  {
+   "shot": "S20",
+   "at": "And#2"
+  },
+  {
+   "shot": "S21",
+   "at": "And"
+  },
+  {
+   "shot": "S22",
+   "at": "Day"
+  },
+  {
+   "shot": "S23",
+   "at": "you"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2
 }
