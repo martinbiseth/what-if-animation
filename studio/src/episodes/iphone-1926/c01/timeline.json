@@ -1,0 +1,370 @@
+{
+ "slug": "iphone-1926/c01",
+ "title": " ",
+ "fps": 30,
+ "total": 1225,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 63,
+   "t0": 0,
+   "t1": 63,
+   "line": "You wake up on a cobblestone street."
+  },
+  {
+   "shot": "S2",
+   "a": 63,
+   "b": 117,
+   "t0": 0,
+   "t1": 54,
+   "line": "Horses. Hats. Smoke. And"
+  },
+  {
+   "shot": "S3",
+   "a": 117,
+   "b": 206,
+   "t0": 0,
+   "t1": 89,
+   "line": "everyone is staring at the glowing thing in your hand."
+  },
+  {
+   "shot": "S4",
+   "a": 206,
+   "b": 237,
+   "t0": 0,
+   "t1": 31,
+   "line": "Your phone. You"
+  },
+  {
+   "shot": "S5",
+   "a": 237,
+   "b": 271,
+   "t0": 0,
+   "t1": 34,
+   "line": "snap a photo. In"
+  },
+  {
+   "shot": "S6",
+   "a": 271,
+   "b": 319,
+   "t0": 0,
+   "t1": 48,
+   "line": "full color. Instantly."
+  },
+  {
+   "shot": "S7",
+   "a": 319,
+   "b": 377,
+   "t0": 0,
+   "t1": 58,
+   "line": "A man in a bowler hat faints. You"
+  },
+  {
+   "shot": "S8",
+   "a": 377,
+   "b": 408,
+   "t0": 0,
+   "t1": 31,
+   "line": "play a song."
+  },
+  {
+   "shot": "S9",
+   "a": 408,
+   "b": 474,
+   "t0": 0,
+   "t1": 66,
+   "line": "A crowd forms. Nobody here has ever heard"
+  },
+  {
+   "shot": "S10",
+   "a": 474,
+   "b": 529,
+   "t0": 0,
+   "t1": 55,
+   "line": "music come out of a pocket."
+  },
+  {
+   "shot": "S11",
+   "a": 529,
+   "b": 590,
+   "t0": 0,
+   "t1": 61,
+   "line": "A policeman asks if it's a bomb. You"
+  },
+  {
+   "shot": "S12",
+   "a": 590,
+   "b": 637,
+   "t0": 0,
+   "t1": 47,
+   "line": "show him a cat video. He"
+  },
+  {
+   "shot": "S13",
+   "a": 637,
+   "b": 707,
+   "t0": 0,
+   "t1": 70,
+   "line": "laughs so hard he drops his whistle. You"
+  },
+  {
+   "shot": "S14",
+   "a": 707,
+   "b": 769,
+   "t0": 0,
+   "t1": 62,
+   "line": "grab a newspaper. October, 1926."
+  },
+  {
+   "shot": "S15",
+   "a": 769,
+   "b": 823,
+   "t0": 0,
+   "t1": 54,
+   "line": "One hundred years ago. And the"
+  },
+  {
+   "shot": "S16",
+   "a": 823,
+   "b": 881,
+   "t0": 0,
+   "t1": 58,
+   "line": "only smartphone on Earth is yours."
+  },
+  {
+   "shot": "S17",
+   "a": 881,
+   "b": 971,
+   "t0": 0,
+   "t1": 90,
+   "line": "What if you had an iPhone, one hundred years ago?"
+  },
+  {
+   "shot": "S18",
+   "a": 971,
+   "b": 1021,
+   "t0": 0,
+   "t1": 50,
+   "line": "Sounds like you'd be a god."
+  },
+  {
+   "shot": "S19",
+   "a": 1021,
+   "b": 1166,
+   "t0": 0,
+   "t1": 145,
+   "line": "But that little phone is about to become the most dangerous object on the planet. And it's"
+  },
+  {
+   "shot": "S20",
+   "a": 1166,
+   "b": 1225,
+   "t0": 0,
+   "t1": 59,
+   "line": "already counting down."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "high angle",
+   "key": 30,
+   "len": 63,
+   "first": 0,
+   "line": "You wake up on a cobblestone street.",
+   "note": "you wake on the cobbles, the phone glowing"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 30,
+   "len": 54,
+   "first": 63,
+   "line": "Horses. Hats. Smoke. And",
+   "note": "a car rattles past, hats everywhere"
+  },
+  {
+   "id": "S3",
+   "size": "medium three-shot",
+   "key": 14,
+   "len": 89,
+   "first": 117,
+   "line": "everyone is staring at the glowing thing in your hand.",
+   "note": "three faces stare at the glow"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 14,
+   "len": 31,
+   "first": 206,
+   "line": "Your phone. You",
+   "note": "the phone in your hand"
+  },
+  {
+   "id": "S5",
+   "size": "over the phone",
+   "key": 8,
+   "len": 34,
+   "first": 237,
+   "line": "snap a photo. In",
+   "note": "you lift it, the flash fires"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 14,
+   "len": 48,
+   "first": 271,
+   "line": "full color. Instantly.",
+   "note": "the photo, in colour"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 28,
+   "len": 58,
+   "first": 319,
+   "line": "A man in a bowler hat faints. You",
+   "note": "the man in the bowler hat faints"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 12,
+   "len": 31,
+   "first": 377,
+   "line": "play a song.",
+   "note": "the music app"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 66,
+   "first": 408,
+   "line": "A crowd forms. Nobody here has ever heard",
+   "note": "a crowd forms, dancing"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 14,
+   "len": 55,
+   "first": 474,
+   "line": "music come out of a pocket.",
+   "note": "the lady in the cloche, delighted"
+  },
+  {
+   "id": "S11",
+   "size": "medium two-shot",
+   "key": 20,
+   "len": 61,
+   "first": 529,
+   "line": "A policeman asks if it's a bomb. You",
+   "note": "the policeman: is it a bomb?"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 14,
+   "len": 47,
+   "first": 590,
+   "line": "show him a cat video. He",
+   "note": "a cat video"
+  },
+  {
+   "id": "S13",
+   "size": "medium close",
+   "key": 26,
+   "len": 70,
+   "first": 637,
+   "line": "laughs so hard he drops his whistle. You",
+   "note": "he laughs, drops his whistle"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 24,
+   "len": 62,
+   "first": 707,
+   "line": "grab a newspaper. October, 1926.",
+   "note": "the date: October 1926"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 16,
+   "len": 54,
+   "first": 769,
+   "line": "One hundred years ago. And the",
+   "note": "1926"
+  },
+  {
+   "id": "S16",
+   "size": "high wide, pull out",
+   "key": 30,
+   "len": 58,
+   "first": 823,
+   "line": "only smartphone on Earth is yours.",
+   "note": "you, alone, glowing"
+  },
+  {
+   "id": "S17",
+   "size": "title, wide",
+   "key": 48,
+   "len": 90,
+   "first": 881,
+   "line": "What if you had an iPhone, one hundred years ago?",
+   "note": "WHAT IF YOU HAD AN IPHONE 100 YEARS AGO?"
+  },
+  {
+   "id": "S18",
+   "size": "low angle",
+   "key": 20,
+   "len": 50,
+   "first": 971,
+   "line": "Sounds like you'd be a god.",
+   "note": "sounds like you'd be a god"
+  },
+  {
+   "id": "S19",
+   "size": "insert, push in",
+   "key": 30,
+   "len": 145,
+   "first": 1021,
+   "line": "But that little phone is about to become the most dangerous object on the planet. And it's",
+   "note": "the phone, red glow: the most dangerous object"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 30,
+   "len": 59,
+   "first": 1166,
+   "line": "already counting down.",
+   "note": "the battery: 97%"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "f": 251
+  },
+  {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 345
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5,
+   "f": 772
+  }
+ ],
+ "audio": {}
+}

@@ -1,0 +1,321 @@
+{
+ "id": "Iphone1926C03",
+ "slug": "iphone-1926/c03",
+ "chapter": "The fun part",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "fun 1: jazz club",
+   "text": "At first, it's amazing. You walk into a jazz club and play a song from a hundred years in the future. The band stops. Then they try to copy it. By midnight, the whole room is dancing to a beat that doesn't exist yet."
+  },
+  {
+   "beat": "added: not yours to sell",
+   "text": "The bandleader offers to buy the song. You tell him it's not yours to sell. Not for another eighty years."
+  },
+  {
+   "beat": "fun 2: Mo and the video",
+   "text": "A kid called Mo starts following you everywhere. You show him a video. Moving pictures, with sound. He doesn't blink for a whole minute. Movies here don't talk. The first feature film with spoken scenes won't come out until October 1927. That's real."
+  },
+  {
+   "beat": "fun 3: the city photo",
+   "text": "You show him a photo of a city at night. Towers of glass, lit up like Christmas. Mo whispers, 'Is that heaven?' You say, 'No. It's Tuesday.'"
+  },
+  {
+   "beat": "fun 3b: the flash",
+   "text": "You take a selfie with a crowd of strangers. Flash. The whole street gasps. The next morning, a newspaper prints a drawing of you: The Boy With the Lightning Box."
+  },
+  {
+   "beat": "fun 4: the computers",
+   "text": "Then you start making money. In 1926, a computer isn't a machine. It's a person with a pencil, paid to do math all day. You race ten of them with your calculator. You win before lunch."
+  },
+  {
+   "beat": "fun 4b: the voice",
+   "text": "You record a banker saying hello, and play it back. He pays you twenty dollars just to hear his own voice again."
+  },
+  {
+   "beat": "fun 5: the family",
+   "text": "Mo's mom runs a boarding house, and she gives you a room. His little sister, Ellie, makes you show her the flashlight every single night. 'Make the star again.' You're the most interesting person in New York."
+  },
+  {
+   "beat": "button",
+   "text": "Then you look at the corner of the screen. Sixty-two percent."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The first feature film with spoken scenes won't come out until October 1927.",
+   "working": "The Jazz Singer, the first feature presented as a talkie (with limited synchronized dialogue sequences), premiered 6 October 1927. Don Juan (1926) had synchronized music and effects but no dialogue.",
+   "source": "Wikipedia: Sound film"
+  },
+  {
+   "claim": "In 1926, a 'computer' was a person paid to do calculations.",
+   "working": "Until electronic computers took over in the late 1940s and 1950s, 'computer' was a job title for people who did calculations by hand.",
+   "source": "Wikipedia: Computer (occupation)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "set": "rooftop",
+   "note": "CHAPTER 3: THE FUN PART",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "club",
+   "note": "you walk into the jazz club and play a song",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "club",
+   "note": "the music app",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "club",
+   "note": "the band stops dead",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "club",
+   "note": "midnight: the whole room dancing",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "set": "club",
+   "note": "the bandleader offers to buy the song",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "street",
+   "note": "Mo follows you, ducking when you look",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "street",
+   "note": "a video on the phone",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "set": "street",
+   "note": "Mo doesn't blink",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "set": "none",
+   "note": "fact: the first talkie, October 1927",
+   "key": 100
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "night street",
+   "note": "a city at night on the screen",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "set": "night street",
+   "note": "Is that heaven? No. It's Tuesday.",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "street",
+   "note": "a selfie with strangers, flash",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "none",
+   "note": "the newspaper drawing",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "office",
+   "note": "the human computers",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "office",
+   "note": "the calculator racing",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "office",
+   "note": "you win, they stare",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "set": "street",
+   "note": "voice memo recording",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "set": "street",
+   "note": "the banker pays to hear his voice",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mo's mom gives you a room",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "bedroom",
+   "note": "the flashlight star for Ellie",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "set": "bedroom",
+   "note": "Ellie: Make the star again",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "none",
+   "note": "sixty-two percent",
+   "key": 100
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "play"
+  },
+  {
+   "shot": "S4",
+   "at": "The#2"
+  },
+  {
+   "shot": "S5",
+   "at": "By"
+  },
+  {
+   "shot": "S6",
+   "at": "The#2"
+  },
+  {
+   "shot": "S7",
+   "at": "A"
+  },
+  {
+   "shot": "S8",
+   "at": "You#2"
+  },
+  {
+   "shot": "S9",
+   "at": "He"
+  },
+  {
+   "shot": "S10",
+   "at": "The"
+  },
+  {
+   "shot": "S11",
+   "at": "You"
+  },
+  {
+   "shot": "S12",
+   "at": "Mo"
+  },
+  {
+   "shot": "S13",
+   "at": "You#2"
+  },
+  {
+   "shot": "S14",
+   "at": "The#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Then"
+  },
+  {
+   "shot": "S16",
+   "at": "You#2"
+  },
+  {
+   "shot": "S17",
+   "at": "You"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "He"
+  },
+  {
+   "shot": "S20",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S21",
+   "at": "His"
+  },
+  {
+   "shot": "S22",
+   "at": "Make"
+  },
+  {
+   "shot": "S23",
+   "at": "Then"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S13+30",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6
+  }
+ ]
+}

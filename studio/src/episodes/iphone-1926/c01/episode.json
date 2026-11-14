@@ -1,0 +1,284 @@
+{
+ "id": "Iphone1926C01",
+ "slug": "iphone-1926/c01",
+ "chapter": "Cold open",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "cold open: arrival",
+   "text": "You wake up on a cobblestone street. Horses. Hats. Smoke. And everyone is staring at the glowing thing in your hand."
+  },
+  {
+   "beat": "demo 1: photo",
+   "text": "Your phone. You snap a photo. In full color. Instantly. A man in a bowler hat faints."
+  },
+  {
+   "beat": "demo 2: music",
+   "text": "You play a song. A crowd forms. Nobody here has ever heard music come out of a pocket."
+  },
+  {
+   "beat": "demo 2b: the policeman",
+   "text": "A policeman asks if it's a bomb. You show him a cat video. He laughs so hard he drops his whistle."
+  },
+  {
+   "beat": "demo 3: the date",
+   "text": "You grab a newspaper. October, 1926. One hundred years ago. And the only smartphone on Earth is yours."
+  },
+  {
+   "beat": "title card",
+   "text": "What if you had an iPhone, one hundred years ago?"
+  },
+  {
+   "beat": "the turn",
+   "text": "Sounds like you'd be a god. But that little phone is about to become the most dangerous object on the planet. And it's already counting down."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "high angle",
+   "set": "street",
+   "note": "you wake on the cobbles, the phone glowing",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "street",
+   "note": "a car rattles past, hats everywhere",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium three-shot",
+   "set": "street",
+   "note": "three faces stare at the glow",
+   "key": 14
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "phone",
+   "note": "the phone in your hand",
+   "key": 14
+  },
+  {
+   "id": "S5",
+   "size": "over the phone",
+   "set": "street",
+   "note": "you lift it, the flash fires",
+   "key": 8
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "phone",
+   "note": "the photo, in colour",
+   "key": 14
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "street",
+   "note": "the man in the bowler hat faints",
+   "key": 28
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "phone",
+   "note": "the music app",
+   "key": 12
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "street",
+   "note": "a crowd forms, dancing",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "street",
+   "note": "the lady in the cloche, delighted",
+   "key": 14
+  },
+  {
+   "id": "S11",
+   "size": "medium two-shot",
+   "set": "street",
+   "note": "the policeman: is it a bomb?",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "phone",
+   "note": "a cat video",
+   "key": 14
+  },
+  {
+   "id": "S13",
+   "size": "medium close",
+   "set": "street",
+   "note": "he laughs, drops his whistle",
+   "key": 26
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "newspaper",
+   "note": "the date: October 1926",
+   "key": 24
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "card",
+   "note": "1926",
+   "key": 16
+  },
+  {
+   "id": "S16",
+   "size": "high wide, pull out",
+   "set": "street night",
+   "note": "you, alone, glowing",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "title, wide",
+   "set": "rooftop",
+   "note": "WHAT IF YOU HAD AN IPHONE 100 YEARS AGO?",
+   "key": 48
+  },
+  {
+   "id": "S18",
+   "size": "low angle",
+   "set": "rooftop",
+   "note": "sounds like you'd be a god",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "insert, push in",
+   "set": "black",
+   "note": "the phone, red glow: the most dangerous object",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "phone",
+   "note": "the battery: 97%",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Horses"
+  },
+  {
+   "shot": "S3",
+   "at": "everyone"
+  },
+  {
+   "shot": "S4",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S5",
+   "at": "snap"
+  },
+  {
+   "shot": "S6",
+   "at": "full"
+  },
+  {
+   "shot": "S7",
+   "at": "man"
+  },
+  {
+   "shot": "S8",
+   "at": "play"
+  },
+  {
+   "shot": "S9",
+   "at": "crowd"
+  },
+  {
+   "shot": "S10",
+   "at": "music"
+  },
+  {
+   "shot": "S11",
+   "at": "policeman"
+  },
+  {
+   "shot": "S12",
+   "at": "show"
+  },
+  {
+   "shot": "S13",
+   "at": "laughs"
+  },
+  {
+   "shot": "S14",
+   "at": "grab"
+  },
+  {
+   "shot": "S15",
+   "at": "One"
+  },
+  {
+   "shot": "S16",
+   "at": "only"
+  },
+  {
+   "shot": "S17",
+   "at": "What"
+  },
+  {
+   "shot": "S18",
+   "at": "Sounds"
+  },
+  {
+   "shot": "S19",
+   "at": "But"
+  },
+  {
+   "shot": "S20",
+   "at": "already"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S5+14",
+   "kind": "flash",
+   "color": "#FFFFFF"
+  },
+  {
+   "at": "S7+26",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  },
+  {
+   "at": "S15+3",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.5
+  }
+ ],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

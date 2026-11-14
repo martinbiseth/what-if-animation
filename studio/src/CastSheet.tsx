@@ -12,10 +12,20 @@ const Label: React.FC<{ x: number; y: number; text: string }> = ({ x, y, text })
   </text>
 );
 const P = (o: Partial<Pose>): Pose => ({ ...basePose, ...o });
-const NAMES: Record<CastName, string> = { pip: 'PIP A', pipHood: 'PIP B (HERO)', pipInk: 'PIP C', mo: 'MO, FRIEND', sis: 'SISTER', mom: 'MUM', suit: 'THE SUIT' };
+const NAMES: Record<CastName, string> = {
+  pip: 'PIP A', pipHood: 'PIP B (HERO)', pipInk: 'PIP C', mo: 'MO, FRIEND', sis: 'SISTER', mom: 'MUM', suit: 'THE SUIT',
+  you: 'YOU (INK HERO)', mo26: 'MO, 1926', ellie: 'ELLIE', mom26: 'MOM, 1926', suit26: 'GREY SUIT', gent: 'GENT', worker: 'WORKER', lady: 'LADY', doctor: 'DOCTOR', cop: 'POLICEMAN',
+};
+/** The two casts: the original one, and the ink cast of the period episodes. */
+export const CAST_GROUPS: Record<string, CastName[]> = {
+  main: ['pip', 'pipHood', 'pipInk', 'mo', 'sis', 'mom', 'suit'],
+  ink: ['you', 'mo26', 'ellie', 'mom26', 'suit26', 'gent', 'worker', 'lady', 'doctor', 'cop'],
+};
 
-export const CastSheet: React.FC = () => {
-  const cast = Object.keys(LOOKS) as CastName[];
+export const CastSheet: React.FC<{ group?: string }> = ({ group = 'main' }) => {
+  const cast = CAST_GROUPS[group] ?? CAST_GROUPS.main;
+  const hero = group === 'ink' ? LOOKS.you : LOOKS.pipHood;
+  const step = group === 'ink' ? 180 : 270;
   const row1 = 430;
   const row2 = 900;
   const poses: { name: string; p: Partial<Pose> }[] = [
@@ -35,8 +45,8 @@ export const CastSheet: React.FC = () => {
         </g>
         <rect width={1920} height={1080} fill="#0B0816" opacity={0.35} />
         {cast.map((c, i) => {
-          const x = 150 + i * 270;
-          const small = c === 'sis' ? 0.68 : 0.82;
+          const x = 150 + i * step;
+          const small = c === 'sis' || c === 'ellie' ? 0.68 : 0.82;
           return (
             <g key={c}>
               <Hero look={LOOKS[c]} pose={P({ x, y: row1 + (0.82 - small) * 340, scale: small, yaw: i % 2 ? -0.35 : 0.35, look: i % 2 ? -0.5 : 0.5, expr: 'happy' })} shadow={0.6} />
@@ -46,7 +56,7 @@ export const CastSheet: React.FC = () => {
         })}
         {poses.map((q, i) => (
           <g key={q.name}>
-            <Hero look={LOOKS.pipHood} pose={P({ x: 220 + i * 370, y: row2 - 40, scale: 0.72, ...q.p })} shadow={0.6} />
+            <Hero look={hero} pose={P({ x: 220 + i * 370, y: row2 - 40, scale: 0.72, ...q.p })} shadow={0.6} />
             <Label x={220 + i * 370} y={row2 + 110} text={q.name.toUpperCase()} />
           </g>
         ))}

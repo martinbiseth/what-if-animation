@@ -1,0 +1,240 @@
+{
+ "id": "Iphone1926C02",
+ "slug": "iphone-1926/c02",
+ "chapter": "The premise and its rules",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "rules: no signal",
+   "text": "Here's the deal. You have your phone, and your charger. Nothing else. No signal. Not one bar. Your messages just spin, because there's nothing out there to connect to."
+  },
+  {
+   "beat": "fact: cellular",
+   "text": "The first cellular phone network won't switch on until 1979. That's real."
+  },
+  {
+   "beat": "fact: GPS",
+   "text": "GPS? The first satellite goes up in 1978. Your map shows a little blue dot, floating on a blank grey grid."
+  },
+  {
+   "beat": "trying anyway",
+   "text": "You try anyway. You climb to the top of the tallest building you can find, and hold the phone up to the sky. Nothing. Just the wind, and a pigeon looking at you like you're crazy."
+  },
+  {
+   "beat": "rule: what works",
+   "text": "So the rules are simple. Everything that lives inside the phone still works. The camera. The flashlight. The calculator. Every photo, every song, every video you ever downloaded. Everything that needs the internet is dead."
+  },
+  {
+   "beat": "added: your life",
+   "text": "You open your photos. Your whole life is in there. Your friends. Your room. Your dog, asleep on a couch that hasn't been built yet. You scroll for a long, long time."
+  },
+  {
+   "beat": "rule: battery",
+   "text": "And one more rule. The battery. One hundred percent. Every minute you use it, it drains. And in 1926, charging it is not as easy as you think."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The first cellular phone network won't switch on until 1979.",
+   "working": "NTT launched the first-generation cellular mobile telephone service in Japan in 1979.",
+   "source": "Ministry of Internal Affairs and Communications (Japan), Information and Communications White Paper 2022, Section 1"
+  },
+  {
+   "claim": "The first GPS satellite goes up in 1978.",
+   "working": "Navstar 1 (OPS 5111), the first GPS satellite, launched 22 February 1978.",
+   "source": "Wikipedia: OPS 5111; US Air Force history (afhistory.org, February 22, 1978)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "set": "rooftop",
+   "note": "CHAPTER 2: THE RULES",
+   "key": 14
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "street",
+   "note": "you with phone and charger, nothing else",
+   "key": 14
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "street",
+   "note": "no signal, messages spin",
+   "key": 14
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "set": "none",
+   "note": "fact: first cellular network 1979",
+   "key": 100
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "street",
+   "note": "map: blue dot on a blank grid",
+   "key": 14
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "rooftop",
+   "note": "phone held up to the sky",
+   "key": 14
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "set": "rooftop",
+   "note": "a pigeon judges you",
+   "key": 14
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "night street",
+   "note": "camera works",
+   "key": 14
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "night street",
+   "note": "flashlight works",
+   "key": 14
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "night street",
+   "note": "calculator works",
+   "key": 14
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "night street",
+   "note": "your whole life in photos",
+   "key": 14
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "set": "bedroom",
+   "note": "scrolling in bed, face lit",
+   "key": 14
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "none",
+   "note": "battery 100 percent, then 99",
+   "key": 100
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "night street",
+   "note": "plug in hand, no socket anywhere",
+   "key": 14
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "night street",
+   "note": "music, songs, videos all still there",
+   "key": 14
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "set": "rooftop",
+   "note": "you give up on signal and lay out the rules",
+   "key": 14
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "No"
+  },
+  {
+   "shot": "S4",
+   "at": "The"
+  },
+  {
+   "shot": "S5",
+   "at": "GPS"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "Just"
+  },
+  {
+   "shot": "S16",
+   "at": "So"
+  },
+  {
+   "shot": "S8",
+   "at": "The#3"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "The"
+  },
+  {
+   "shot": "S15",
+   "at": "Every"
+  },
+  {
+   "shot": "S3",
+   "at": "Everything"
+  },
+  {
+   "shot": "S11",
+   "at": "You"
+  },
+  {
+   "shot": "S12",
+   "at": "Your#5"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "charging"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S9+4",
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "o": 0.4
+  }
+ ]
+}

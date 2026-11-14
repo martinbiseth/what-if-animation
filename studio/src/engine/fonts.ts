@@ -1,17 +1,16 @@
 import { loadFont } from '@remotion/fonts';
 import { staticFile } from 'remotion';
-import { loadFont as loadBricolage } from '@remotion/google-fonts/BricolageGrotesque';
-import { loadFont as loadMono } from '@remotion/google-fonts/FragmentMono';
-import { loadFont as loadHand } from '@remotion/google-fonts/Kalam';
 import { STUDIO } from '../studio.config';
 
 // Three faces: a heavy display face for the title card, a mono for on-screen readouts (timers, labels, chips),
-// and a handwriting face for chalk and notes. The Google faces load at render time (they need a connection);
-// a local title face from studio.config.ts loads from public/ and works offline.
+// and a handwriting face for chalk and notes. They ship in public/fonts/ (SIL Open Font License), so renders work
+// offline and behind proxies; a title face of your own from studio.config.ts loads the same way.
 
-loadBricolage('normal', { weights: ['600', '700', '800'], subsets: ['latin'] });
-loadMono('normal', { weights: ['400'], subsets: ['latin'] });
-loadHand('normal', { weights: ['400', '700'], subsets: ['latin'] });
+const local = (family: string, file: string, weight: string) => loadFont({ family, url: staticFile(`fonts/${file}`), weight });
+local('Bricolage Grotesque', 'BricolageGrotesque-700.woff2', '600 800');
+local('Fragment Mono', 'FragmentMono-400.woff2', '400');
+local('Kalam', 'Kalam-400.woff2', '400');
+local('Kalam', 'Kalam-700.woff2', '700');
 if (STUDIO.titleFont) loadFont({ family: STUDIO.titleFont.family, url: staticFile(STUDIO.titleFont.file), weight: STUDIO.titleFont.weight });
 
 export const FONT = {

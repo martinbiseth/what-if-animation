@@ -17,3 +17,6 @@ export * from './sets/kitchen';
 export * from './sets/schematic';
 export * from './sets/bedroom';
 export * from './templates';
+export * from './props26';
+export * from './sets/street26';
+export * from './sets/jazzclub';

@@ -30,8 +30,13 @@ export type Look = {
   face: string;
   hair: string;
   extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
+  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche'; // period hats (the 1920s episodes), drawn over the hair
+  hatColor?: string;
+  noPhones?: boolean; // curls without the headphones (a period version of Mo)
 };
-export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit';
+export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit' | 'you' | 'mo26' | 'ellie' | 'mom26' | 'suit26' | 'gent' | 'worker' | 'lady' | 'doctor' | 'cop';
+const INK = '#26232F';
+const INK2 = '#1C1A24';
 export const LOOKS: Record<CastName, Look> = {
   // A: Pip as built
   pip: { skin: C.skin, skinShade: C.skinShade, hand: C.skin, jacket: C.jacket, jacketShade: C.jacketShade, accent: C.jacketShade, limb: C.limb, line: C.ink, shoe: C.shoe, face: C.ink, hair: C.ink },
@@ -45,7 +50,61 @@ export const LOOKS: Record<CastName, Look> = {
   // and the man in a suit who notices the power. All three are ours: plain shapes, no famous silhouettes.
   sis: { skin: C.skin, skinShade: C.skinShade, hand: C.skin, jacket: '#3E8C86', jacketShade: '#2F6E69', accent: '#F28C6A', limb: '#3A3446', line: '#14121C', shoe: '#F28C6A', face: C.ink, hair: '#3A2620', extra: 'bunches' },
   mom: { skin: C.skin, skinShade: C.skinShade, hand: C.skin, jacket: '#8A5A6A', jacketShade: '#704858', accent: '#E9C46A', limb: '#3A3446', line: '#14121C', shoe: '#5A4A6A', face: C.ink, hair: '#5A3226', extra: 'bob' },
+  // The ink cast: dark heads with light features, the genre's high-contrast convention (the thumbnails' look).
+  // 'you' is the hero of the time-travel episodes, in an orange hoodie from the present; the rest wear the 1920s.
+  you: { skin: INK, skinShade: INK2, hand: INK, jacket: '#F07A2A', jacketShade: '#C85E1C', accent: '#F6EFE3', limb: '#3B3646', line: '#100E16', shoe: '#F6EFE3', face: '#F6EFE3', hair: INK, extra: 'hood' },
+  mo26: { skin: INK, skinShade: INK2, hand: INK, jacket: '#7A5A3A', jacketShade: '#62472D', accent: '#C9B48A', limb: '#4A4038', line: '#100E16', shoe: '#3A2A20', face: '#F6EFE3', hair: '#17131C', extra: 'curls', noPhones: true, hat: 'cap', hatColor: '#6B6458' },
+  ellie: { skin: INK, skinShade: INK2, hand: INK, jacket: '#3E8C86', jacketShade: '#2F6E69', accent: '#F28C6A', limb: '#3B3646', line: '#100E16', shoe: '#F28C6A', face: '#F6EFE3', hair: '#17131C', extra: 'bunches' },
+  mom26: { skin: INK, skinShade: INK2, hand: INK, jacket: '#8A5A6A', jacketShade: '#704858', accent: '#E9DCC0', limb: '#3B3646', line: '#100E16', shoe: '#5A4A6A', face: '#F6EFE3', hair: '#17131C', extra: 'bob' },
+  suit26: { skin: INK, skinShade: INK2, hand: INK, jacket: '#5A5F6B', jacketShade: '#474B55', accent: '#7A1F2A', limb: '#3B3646', line: '#0E0F14', shoe: '#14151A', face: '#F6EFE3', hair: '#17141A', extra: 'suit', hat: 'fedora', hatColor: '#3E424C' },
+  gent: { skin: INK, skinShade: INK2, hand: INK, jacket: '#5B4636', jacketShade: '#4A3829', accent: '#B8A27A', limb: '#3B3646', line: '#100E16', shoe: '#1E1712', face: '#F6EFE3', hair: '#17131C', extra: 'suit', hat: 'bowler', hatColor: '#211C1A' },
+  worker: { skin: INK, skinShade: INK2, hand: INK, jacket: '#4E5A66', jacketShade: '#3E4852', accent: '#A89A80', limb: '#3B3646', line: '#100E16', shoe: '#2A2420', face: '#F6EFE3', hair: '#17131C', hat: 'cap', hatColor: '#5A5248' },
+  lady: { skin: INK, skinShade: INK2, hand: INK, jacket: '#6E7F5E', jacketShade: '#58664A', accent: '#E9DCC0', limb: '#3B3646', line: '#100E16', shoe: '#3A2A30', face: '#F6EFE3', hair: '#17131C', extra: 'bob', hat: 'cloche', hatColor: '#A8505A' },
+  doctor: { skin: INK, skinShade: INK2, hand: INK, jacket: '#2E3440', jacketShade: '#242833', accent: '#E9E4DA', limb: '#3B3646', line: '#0E0F14', shoe: '#14151A', face: '#F6EFE3', hair: '#B9B4AA', extra: 'suit' },
+  cop: { skin: INK, skinShade: INK2, hand: INK, jacket: '#2A3A5E', jacketShade: '#1F2C48', accent: '#E9C46A', limb: '#3B3646', line: '#0E0F14', shoe: '#14151A', face: '#F6EFE3', hair: '#17131C', hat: 'cap', hatColor: '#1E2A44' },
   suit: { skin: '#D9C6AE', skinShade: '#C2AE96', hand: '#D9C6AE', jacket: '#2B2F3A', jacketShade: '#20232C', accent: '#A8323E', limb: '#2B2F3A', line: '#0E0F14', shoe: '#14151A', face: C.ink, hair: '#17141A', extra: 'suit' },
+};
+
+// ---------- period hats ----------
+/** A hat on the rig's head (1920s episodes): flat cap, bowler, fedora with a band, or a cloche. Turns with yaw. */
+const Hat: React.FC<{ kind: 'cap' | 'bowler' | 'fedora' | 'cloche'; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
+  const y = HEAD.y;
+  const sx = yaw * 10;
+  const dark = 'rgba(0,0,0,0.22)';
+  const sw = 4;
+  if (kind === 'bowler')
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <ellipse cx={0} cy={y - 40} rx={84} ry={16} fill={color} stroke={line} strokeWidth={sw} />
+        <path d={`M -54 ${y - 42} Q -58 ${y - 118} 0 ${y - 120} Q 58 ${y - 118} 54 ${y - 42} Z`} fill={color} stroke={line} strokeWidth={sw} />
+        <path d={`M 18 ${y - 112} Q 46 ${y - 100} 50 ${y - 50}`} stroke="#FFFFFF" strokeOpacity={0.18} strokeWidth={6} fill="none" strokeLinecap="round" />
+      </g>
+    );
+  if (kind === 'fedora')
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <ellipse cx={0} cy={y - 42} rx={96} ry={18} fill={color} stroke={line} strokeWidth={sw} />
+        <path d={`M -52 ${y - 44} L -46 ${y - 104} Q -20 ${y - 92} 0 ${y - 106} Q 20 ${y - 92} 46 ${y - 104} L 52 ${y - 44} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -50 ${y - 50} L 50 ${y - 50} L 51 ${y - 62} L -51 ${y - 62} Z`} fill="#17141A" />
+      </g>
+    );
+  if (kind === 'cloche')
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <path d={`M -74 ${y - 4} Q -82 ${y - 96} 0 ${y - 100} Q 82 ${y - 96} 74 ${y - 4} Q 70 ${y - 30} 0 ${y - 34} Q -70 ${y - 30} -74 ${y - 4} Z`} fill={color} stroke={line} strokeWidth={sw} />
+        <path d={`M -66 ${y - 36} Q 0 ${y - 54} 66 ${y - 36}`} stroke={dark} strokeWidth={10} fill="none" />
+        <circle cx={46} cy={y - 46} r={10} fill="#E9DCC0" stroke={line} strokeWidth={3} />
+      </g>
+    );
+  // flat cap: a soft crown pulled forward, a short peak toward the way the face turns
+  const f = yaw >= 0 ? 1 : -1;
+  return (
+    <g transform={`translate(${-sx} 0)`}>
+      <path d={`M -66 ${y - 30} Q -72 ${y - 92} 0 ${y - 94} Q 70 ${y - 92} 70 ${y - 34} Q 0 ${y - 46} -66 ${y - 30} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+      <path d={`M ${f * 10} ${y - 38} Q ${f * 70} ${y - 44} ${f * 92} ${y - 30} Q ${f * 60} ${y - 22} ${f * 10} ${y - 30} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+      <path d={`M -40 ${y - 84} Q 0 ${y - 70} 40 ${y - 84}`} stroke={dark} strokeWidth={5} fill="none" />
+    </g>
+  );
 };
 
 // ---------- the hero ----------
@@ -411,6 +470,7 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
             return <circle key={k} cx={Math.cos(a) * 54} cy={HEAD.y + Math.sin(a) * 54} r={24} fill={L.hair} />;
           })
         : null}
+      {L.hat ? <Hat kind={L.hat} color={L.hatColor ?? '#2A2420'} line={L.line} yaw={pose.yaw} /> : null}
     </g>
   );
   return (
@@ -438,7 +498,7 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
               })()}
             </g>
           ) : null}
-          {L.extra === 'curls' ? (
+          {L.extra === 'curls' && !L.noPhones ? (
             <g transform={`rotate(${pose.tilt})`}>
               <path d="M -46 -110 Q 0 -86 46 -110" stroke="#E06A5A" strokeWidth={8} fill="none" strokeLinecap="round" />
               <rect x={-60} y={-126} width={20} height={32} rx={8} fill="#E06A5A" stroke={L.line} strokeWidth={4} />

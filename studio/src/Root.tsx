@@ -4,6 +4,7 @@ import './engine/fonts';
 import { STUDIO } from './studio.config';
 import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
+import { Kit26Sheet } from './Kit26Sheet';
 
 // Every episode gets two compositions: <Id> (the film) and <Id>Board (one frame per shot, at its key frame, for the
 // storyboard). Cast renders the cast sheet.
@@ -20,6 +21,8 @@ export const Root: React.FC = () => {
         </React.Fragment>
       ))}
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
+      <Composition id="Kit26" component={Kit26Sheet} durationInFrames={4} {...common} />
+      <Composition id="CastInk" component={() => <CastSheet group="ink" />} durationInFrames={1} {...common} />
     </>
   );
 };

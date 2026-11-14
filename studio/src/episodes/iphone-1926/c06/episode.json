@@ -1,0 +1,68 @@
+{
+ "id": "Iphone1926C06",
+ "slug": "iphone-1926/c06",
+ "chapter": "The choice",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "Ellie gets sick",
+   "text": "A week later, Ellie gets sick. A cut on her knee from the street. Then a fever. Then red lines creeping up her leg."
+  },
+  {
+   "beat": "the doctor",
+   "text": "The doctor comes. He's kind, and he's honest. There's nothing he can give her."
+  },
+  {
+   "beat": "the star",
+   "text": "Mo's mom sits by the bed all night with a wet cloth. Mo tries to make Ellie laugh. She asks for the star. You turn on the flashlight, and she smiles. Somehow, that's worse."
+  },
+  {
+   "beat": "fact: penicillin",
+   "text": "Antibiotics don't exist yet. Penicillin won't be discovered until September 1928, almost two years from now. That's real."
+  },
+  {
+   "beat": "useless knowledge",
+   "text": "You know exactly what penicillin is. You even have a photo of a pharmacy shelf full of it. But a photo can't cure anyone. You need someone who can make it."
+  },
+  {
+   "beat": "the second offer",
+   "text": "That night, the man in the grey suit comes back. He doesn't bring money this time. He brings a laboratory. Chemists. Equipment. 'Give us the phone,' he says, 'and we'll make your medicine. Whatever you can show us.'"
+  },
+  {
+   "beat": "the choice",
+   "text": "Mo is sitting on the stairs. He heard everything. Ellie is asleep upstairs, burning hot. Give it away, and the future changes. Maybe millions of people you'll never meet live, or don't. Keep it, and a little girl might never see 1927."
+  },
+  {
+   "beat": "time travel rules",
+   "text": "You think about every time travel movie you've ever seen. Don't change anything. Don't touch anything. Easy to say, when it's not your family."
+  },
+  {
+   "beat": "button",
+   "text": "You look down at the screen. Nine percent."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Penicillin won't be discovered until September 1928.",
+   "working": "Alexander Fleming observed the mould killing bacteria in September 1928 (often dated 28 September); the episode is set in late 1926, almost two years earlier.",
+   "source": "Live Science, 'Alexander Fleming discovers the first antibiotic, Sept. 28, 1928'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

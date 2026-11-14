@@ -1,0 +1,77 @@
+{
+ "id": "Iphone1926C05",
+ "slug": "iphone-1926/c05",
+ "chapter": "Someone notices",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "it starts small",
+   "text": "It starts small. A reporter at your door. A professor who wants to examine the lamp. A man from a radio company who offers you a job you don't understand. You turn them all away."
+  },
+  {
+   "beat": "the suit arrives",
+   "text": "Three days later, there's a man in a grey suit waiting in the boarding house kitchen. He doesn't take his hat off. He says he works for the telephone company. He doesn't."
+  },
+  {
+   "beat": "he knows",
+   "text": "He knows about the photos. The music. The sums. He slides an envelope across the table. Ten thousand dollars. In 1926, that's a fortune."
+  },
+  {
+   "beat": "the offer",
+   "text": "'We'd just like to borrow it,' he says. 'Take a look inside.' You know what that means. They'll open it up. They'll copy whatever they can."
+  },
+  {
+   "beat": "fact: transistor",
+   "text": "The transistor, the tiny switch your phone is built from, won't be invented until 1947. That's real."
+  },
+  {
+   "beat": "added: nineteen billion",
+   "text": "You look down at the phone. Nineteen billion transistors, just in the chip. And two of the three men who will invent the first one are still teenagers."
+  },
+  {
+   "beat": "stakes",
+   "text": "If they work out how it's made twenty years early, everything changes. Radio. Computers. Rockets. War. All of it, early. Maybe better. Maybe much, much worse."
+  },
+  {
+   "beat": "the threat",
+   "text": "You say no. He smiles, like he expected that. 'Think about it,' he says. 'Everyone has a price.' On his way out, he looks at Ellie. Just for a second."
+  },
+  {
+   "beat": "sleepless",
+   "text": "That night, you can't sleep. You lie in the dark with the phone face down on your chest, listening to the city. Every car that slows down outside makes your heart jump."
+  },
+  {
+   "beat": "button",
+   "text": "Twenty-seven percent."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The transistor won't be invented until 1947.",
+   "working": "The point-contact transistor was demonstrated at Bell Labs in December 1947 by Bardeen, Brattain and Shockley.",
+   "source": "Wikipedia: History of the transistor; Nobel Prize in Physics 1956"
+  },
+  {
+   "claim": "The chip alone has nineteen billion transistors; two of the three inventors of the transistor were teenagers in 1926.",
+   "working": "The A17 Pro contains 19 billion transistors. Inventors: William Shockley (born Feb 1910, 16 in late 1926), John Bardeen (born May 1908, 18), Walter Brattain (born Feb 1902, 24).",
+   "source": "Wikipedia: Apple A17 Pro; Nobel Prize in Physics 1956 biographies"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

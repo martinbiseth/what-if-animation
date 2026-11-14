@@ -1,0 +1,92 @@
+{
+ "id": "Iphone1926C04",
+ "slug": "iphone-1926/c04",
+ "chapter": "The catch",
+ "topic": "What if you had an iPhone 100 years ago?",
+ "script": [
+  {
+   "beat": "catch 1: charging",
+   "text": "Here's the problem nobody warned you about. Charging. Your charger needs a socket in the wall. Mo's building has electric lights, but no sockets. And lots of homes don't even have lights."
+  },
+  {
+   "beat": "fact: electric light",
+   "text": "Even in 1940, the census found that more than one in five American homes had no electric lights at all. That's real."
+  },
+  {
+   "beat": "catch 2: DC power",
+   "text": "You finally find a socket in a hotel lobby. You plug in. Nothing. Parts of New York still run on direct current, the old kind of electricity. Your charger was built for the other kind. You lose a whole day, and twelve percent, hunting for the right socket."
+  },
+  {
+   "beat": "added: hotel porter",
+   "text": "In the end you pay a hotel porter a whole dollar to let you sit behind the front desk, next to the only socket that works, while the guests stare at the glowing brick on the counter."
+  },
+  {
+   "beat": "catch 3: what you're holding",
+   "text": "Then there's the bigger problem. Look at what you're holding. The chip inside a recent iPhone can do thirty-five trillion operations every second."
+  },
+  {
+   "beat": "fact: ENIAC",
+   "text": "The most famous computer of the next twenty years, ENIAC, won't be switched on until 1946. It will weigh twenty-seven tonnes, fill a whole room, burn a hundred and fifty kilowatts of power, and do five thousand additions a second. That's real too."
+  },
+  {
+   "beat": "consequence",
+   "text": "You're carrying a machine the world won't be able to build for half a century. And you've been showing it off in jazz clubs."
+  },
+  {
+   "beat": "the papers",
+   "text": "The newspapers stop calling it a lightning box. Now they just call it the device."
+  },
+  {
+   "beat": "fact: the price of a call",
+   "text": "In January 1927, people will pay seventy-five dollars to talk to London for three minutes. That's well over a thousand dollars in today's money. That's real. So imagine what someone would pay for the thing in your pocket."
+  },
+  {
+   "beat": "button",
+   "text": "Forty-one percent."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Even in 1940, more than one in five American homes had no electric lights.",
+   "working": "The 1940 Census found 78.7% of all occupied housing units had electric lights, so 21.3% did not: more than one in five.",
+   "source": "US Census Bureau, History and the Census: Electricity"
+  },
+  {
+   "claim": "Parts of New York still ran on direct current in the 1920s.",
+   "working": "Edison's DC distribution served much of Manhattan into the 20th century; Con Edison only ended its last DC service in 2007.",
+   "source": "Con Edison / New York Times, 'Con Ed Shuts Down Last of Its DC Service' (Nov 2007)"
+  },
+  {
+   "claim": "The chip inside a recent iPhone can do 35 trillion operations every second.",
+   "working": "The A17 Pro (iPhone 15 Pro) has a 16-core Neural Engine rated at 35 trillion operations per second.",
+   "source": "Apple, A17 Pro announcement (Sept 2023); Wikipedia: Apple A17 Pro"
+  },
+  {
+   "claim": "ENIAC, switched on in 1946, weighed 27 tonnes, used 150 kW and did 5,000 additions a second.",
+   "working": "ENIAC was announced 14 February 1946; it weighed more than 30 short tons (27 t), consumed 150 kW, and performed 5,000 additions or subtractions per second.",
+   "source": "Wikipedia: ENIAC; Computer History Museum"
+  },
+  {
+   "claim": "In January 1927, a three-minute call to London cost $75; well over $1,000 today.",
+   "working": "Commercial New York-London telephone service opened 7 January 1927 at $75 for the first three minutes. CPI-U 1927 = 17.4, 2024 = 313.7: 75 x 313.7 / 17.4 = about $1,350.",
+   "source": "This Day in Tech History (First Transatlantic Telephone Call); BLS CPI-U annual averages"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -153,7 +153,7 @@ def log_cost(slug, step, used, note=''):
 
 # ---------------------------------------------------------------- words and cues
 def norm(w):
-    return re.sub(r"[^\w']", '', w.lower().replace('’', "'"))
+    return re.sub(r"[^\w']", '', w.lower().replace('’', "'")).strip("'")
 
 
 def word_frame(words, fps, i):
