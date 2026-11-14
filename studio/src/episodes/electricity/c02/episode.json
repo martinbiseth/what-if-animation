@@ -211,5 +211,119 @@
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+0",
+    "power_down",
+    0.4,
+    "peak"
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S7+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S10+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S12+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S13+0",
+    "drone_hit",
+    0.8
+   ],
+   [
+    "S14+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "glitch",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S13"
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -13.0
+  }
+ }
 }

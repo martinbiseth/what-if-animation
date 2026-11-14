@@ -258,5 +258,154 @@
    "at": "same"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "cough",
+    0.6
+   ],
+   [
+    "S3+0",
+    "power_off",
+    0.5
+   ],
+   [
+    "S5+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S10+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S11+0",
+    "gulp",
+    0.4
+   ],
+   [
+    "S12+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S15+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S17+0",
+    "switch_off",
+    0.5
+   ],
+   [
+    "S20+0",
+    "paper",
+    0.7
+   ],
+   [
+    "S21+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S22+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S24+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "tick",
+    0.3,
+    "onset",
+    "S27"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -13.0
+  }
+ }
 }

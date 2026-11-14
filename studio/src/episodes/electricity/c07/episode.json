@@ -198,5 +198,145 @@
    "o": 0.12
   }
  ],
- "tail": 3.0
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.6
+   ],
+   [
+    "S6+0",
+    "drone",
+    0.5,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.8
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S12+0",
+    "glitch",
+    0.4
+   ],
+   [
+    "S13+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S13+10",
+    "beep",
+    0.5
+   ],
+   [
+    "S13+20",
+    "beep",
+    0.5
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S17+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S18+0",
+    "drone",
+    0.5,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "card_hit",
+    1.0
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "from": "S4"
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -14.0
+  }
+ }
 }

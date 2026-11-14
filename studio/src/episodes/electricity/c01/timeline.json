@@ -430,6 +430,11 @@
   }
  ],
  "audio": {
-  "voice": "electricity/c01/voice.wav"
+  "voice": "electricity/c01/voice.wav",
+  "sfx": "electricity/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5106,
+  "music": "electricity/c01/music.wav",
+  "musicVol": 0.0643
  }
 }

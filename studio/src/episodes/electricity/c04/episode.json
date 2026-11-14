@@ -328,5 +328,138 @@
    "at": "dinner"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+0",
+    "power_down",
+    0.4,
+    "peak"
+   ],
+   [
+    "S3+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S4+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S5+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S7+0",
+    "gulp",
+    0.4
+   ],
+   [
+    "S8+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S15+0",
+    "tick",
+    0.5,
+    "onset",
+    "S16"
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.9
+   ],
+   [
+    "S18+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S21+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S23+0",
+    "drone_hit",
+    0.9
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S23"
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -13.5
+  }
+ }
 }

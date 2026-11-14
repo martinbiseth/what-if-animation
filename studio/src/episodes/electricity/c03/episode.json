@@ -350,5 +350,139 @@
    "at": "tomorrow"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S3+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S26+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S13+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S14+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S18+0",
+    "roof_wind",
+    0.5,
+    "onset",
+    "S19"
+   ],
+   [
+    "S25+0",
+    "pigeon",
+    0.6
+   ],
+   [
+    "S19+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S23"
+   ],
+   [
+    "S20+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S21+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S24+0",
+    "drone_hit",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S18"
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -12.0
+  }
+ }
 }

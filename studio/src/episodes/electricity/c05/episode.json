@@ -274,5 +274,159 @@
    "color": "#FFFFFF",
    "o": 0.15
   }
- ]
+ ],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S3+0",
+    "crack",
+    0.9
+   ],
+   [
+    "S5+0",
+    "slide",
+    0.5
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S7+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S12+0",
+    "drone",
+    0.5,
+    "onset",
+    "S18"
+   ],
+   [
+    "S14+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S15+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S16+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S18+0",
+    "tick",
+    0.4,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S21+0",
+    "knock",
+    1.0
+   ],
+   [
+    "S22+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S24+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S26+0",
+    "drone_hit",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": 0.0,
+   "music_lu": -13.5
+  }
+ }
 }
