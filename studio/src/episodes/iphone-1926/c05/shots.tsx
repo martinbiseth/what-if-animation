@@ -170,7 +170,7 @@ export const S17: React.FC<ShotProps> = ({ t, len }) => {
 export const S18 = talkShot({
   Set: Home, setT: 900, words,
   cast: [
-    { look: YOU, x: 1120, y: 600, yaw: -0.5, faces: [[0, 'worried']], talk: [span(words, 'You', 'no', 5)], seed: 9 },
+    { look: YOU, x: 1120, y: 600, yaw: -0.5, faces: [[0, 'worried']], talk: [span(words, 'You', 'no', 6)], seed: 9 },
     { look: L.suit26, x: 860, y: 600, yaw: 0.5, faces: [[0, 'smug']], talk: [span(words, 'Think', 'price')], seed: 10 },
   ],
   cam: { from: [990, 440, 1.9], to: [990, 440, 2.0] },

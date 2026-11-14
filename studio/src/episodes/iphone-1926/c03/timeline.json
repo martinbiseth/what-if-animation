@@ -2,191 +2,191 @@
  "slug": "iphone-1926/c03",
  "title": " ",
  "fps": 30,
- "total": 2480,
+ "total": 2552,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 44,
+   "b": 51,
    "t0": 0,
-   "t1": 44,
+   "t1": 51,
    "line": "At first, it's amazing."
   },
   {
    "shot": "S2",
-   "a": 44,
+   "a": 51,
    "b": 93,
    "t0": 0,
-   "t1": 49,
-   "line": "You walk into a jazz club and"
+   "t1": 42,
+   "line": "You walk into a jazz club"
   },
   {
    "shot": "S3",
    "a": 93,
-   "b": 175,
+   "b": 166,
    "t0": 0,
-   "t1": 82,
-   "line": "play a song from a hundred years in the future."
+   "t1": 73,
+   "line": "and play a song from a hundred years in the future."
   },
   {
    "shot": "S4",
-   "a": 175,
-   "b": 254,
+   "a": 166,
+   "b": 256,
    "t0": 0,
-   "t1": 79,
+   "t1": 90,
    "line": "The band stops. Then they try to copy it."
   },
   {
    "shot": "S5",
-   "a": 254,
-   "b": 375,
+   "a": 256,
+   "b": 378,
    "t0": 0,
-   "t1": 121,
+   "t1": 122,
    "line": "By midnight, the whole room is dancing to a beat that doesn't exist yet."
   },
   {
    "shot": "S6",
-   "a": 375,
-   "b": 555,
+   "a": 378,
+   "b": 551,
    "t0": 0,
-   "t1": 180,
+   "t1": 173,
    "line": "The bandleader offers to buy the song. You tell him it's not yours to sell. Not for another eighty years."
   },
   {
    "shot": "S7",
-   "a": 555,
-   "b": 633,
+   "a": 551,
+   "b": 640,
    "t0": 0,
-   "t1": 78,
+   "t1": 89,
    "line": "A kid called Mo starts following you everywhere."
   },
   {
    "shot": "S8",
-   "a": 633,
-   "b": 724,
+   "a": 640,
+   "b": 746,
    "t0": 0,
-   "t1": 91,
+   "t1": 106,
    "line": "You show him a video. Moving pictures, with sound."
   },
   {
    "shot": "S9",
-   "a": 724,
-   "b": 829,
+   "a": 746,
+   "b": 847,
    "t0": 0,
-   "t1": 105,
+   "t1": 101,
    "line": "He doesn't blink for a whole minute. Movies here don't talk."
   },
   {
    "shot": "S10",
-   "a": 829,
-   "b": 973,
+   "a": 847,
+   "b": 1016,
    "t0": 0,
-   "t1": 144,
+   "t1": 169,
    "line": "The first feature film with spoken scenes won't come out until October 1927. That's real."
   },
   {
    "shot": "S11",
-   "a": 973,
-   "b": 1116,
+   "a": 1016,
+   "b": 1159,
    "t0": 0,
    "t1": 143,
    "line": "You show him a photo of a city at night. Towers of glass, lit up like Christmas."
   },
   {
    "shot": "S12",
-   "a": 1116,
-   "b": 1230,
+   "a": 1159,
+   "b": 1302,
    "t0": 0,
-   "t1": 114,
-   "line": "Mo whispers, 'Is that heaven?' You say, 'No. It's Tuesday.'"
+   "t1": 143,
+   "line": "Mo whispers, 'Is that heaven? ' You say, 'No. It's Tuesday. '"
   },
   {
    "shot": "S13",
-   "a": 1230,
-   "b": 1363,
+   "a": 1302,
+   "b": 1456,
    "t0": 0,
-   "t1": 133,
+   "t1": 154,
    "line": "You take a selfie with a crowd of strangers. Flash. The whole street gasps."
   },
   {
    "shot": "S14",
-   "a": 1363,
-   "b": 1503,
+   "a": 1456,
+   "b": 1581,
    "t0": 0,
-   "t1": 140,
+   "t1": 125,
    "line": "The next morning, a newspaper prints a drawing of you: The Boy With the Lightning Box."
   },
   {
    "shot": "S15",
-   "a": 1503,
-   "b": 1713,
+   "a": 1581,
+   "b": 1816,
    "t0": 0,
-   "t1": 210,
+   "t1": 235,
    "line": "Then you start making money. In 1926, a computer isn't a machine. It's a person with a pencil, paid to do math all day."
   },
   {
    "shot": "S16",
-   "a": 1713,
-   "b": 1785,
+   "a": 1816,
+   "b": 1884,
    "t0": 0,
-   "t1": 72,
+   "t1": 68,
    "line": "You race ten of them with your calculator."
   },
   {
    "shot": "S17",
-   "a": 1785,
-   "b": 1824,
+   "a": 1884,
+   "b": 1928,
    "t0": 0,
-   "t1": 39,
+   "t1": 44,
    "line": "You win before lunch."
   },
   {
    "shot": "S18",
-   "a": 1824,
-   "b": 1913,
+   "a": 1928,
+   "b": 2022,
    "t0": 0,
-   "t1": 89,
+   "t1": 94,
    "line": "You record a banker saying hello, and play it back."
   },
   {
    "shot": "S19",
-   "a": 1913,
-   "b": 2013,
+   "a": 2022,
+   "b": 2111,
    "t0": 0,
-   "t1": 100,
+   "t1": 89,
    "line": "He pays you twenty dollars just to hear his own voice again."
   },
   {
    "shot": "S20",
-   "a": 2013,
-   "b": 2113,
+   "a": 2111,
+   "b": 2195,
    "t0": 0,
-   "t1": 100,
+   "t1": 84,
    "line": "Mo's mom runs a boarding house, and she gives you a room."
   },
   {
    "shot": "S21",
-   "a": 2113,
-   "b": 2242,
+   "a": 2195,
+   "b": 2319,
    "t0": 0,
-   "t1": 129,
+   "t1": 124,
    "line": "His little sister, Ellie, makes you show her the flashlight every single night."
   },
   {
    "shot": "S22",
-   "a": 2242,
-   "b": 2358,
+   "a": 2319,
+   "b": 2435,
    "t0": 0,
    "t1": 116,
-   "line": "'Make the star again.' You're the most interesting person in New York."
+   "line": "'Make the star again. ' You're the most interesting person in New York."
   },
   {
    "shot": "S23",
-   "a": 2358,
-   "b": 2480,
+   "a": 2435,
+   "b": 2552,
    "t0": 0,
-   "t1": 122,
-   "line": "Then you look at the corner of the screen. Sixty-two percent."
+   "t1": 117,
+   "line": "Then you look at the corner of the screen. Sixty- two percent."
   }
  ],
  "shots": [
@@ -194,7 +194,7 @@
    "id": "S1",
    "size": "card",
    "key": 20,
-   "len": 44,
+   "len": 51,
    "first": 0,
    "line": "At first, it's amazing.",
    "note": "CHAPTER 3: THE FUN PART"
@@ -203,26 +203,26 @@
    "id": "S2",
    "size": "wide",
    "key": 20,
-   "len": 49,
-   "first": 44,
-   "line": "You walk into a jazz club and",
+   "len": 42,
+   "first": 51,
+   "line": "You walk into a jazz club",
    "note": "you walk into the jazz club and play a song"
   },
   {
    "id": "S3",
    "size": "insert",
    "key": 20,
-   "len": 82,
+   "len": 73,
    "first": 93,
-   "line": "play a song from a hundred years in the future.",
+   "line": "and play a song from a hundred years in the future.",
    "note": "the music app"
   },
   {
    "id": "S4",
    "size": "medium",
    "key": 20,
-   "len": 79,
-   "first": 175,
+   "len": 90,
+   "first": 166,
    "line": "The band stops. Then they try to copy it.",
    "note": "the band stops dead"
   },
@@ -230,8 +230,8 @@
    "id": "S5",
    "size": "wide",
    "key": 20,
-   "len": 121,
-   "first": 254,
+   "len": 122,
+   "first": 256,
    "line": "By midnight, the whole room is dancing to a beat that doesn't exist yet.",
    "note": "midnight: the whole room dancing"
   },
@@ -239,8 +239,8 @@
    "id": "S6",
    "size": "two-shot",
    "key": 20,
-   "len": 180,
-   "first": 375,
+   "len": 173,
+   "first": 378,
    "line": "The bandleader offers to buy the song. You tell him it's not yours to sell. Not for another eighty years.",
    "note": "the bandleader offers to buy the song"
   },
@@ -248,8 +248,8 @@
    "id": "S7",
    "size": "wide",
    "key": 20,
-   "len": 78,
-   "first": 555,
+   "len": 89,
+   "first": 551,
    "line": "A kid called Mo starts following you everywhere.",
    "note": "Mo follows you, ducking when you look"
   },
@@ -257,8 +257,8 @@
    "id": "S8",
    "size": "insert",
    "key": 20,
-   "len": 91,
-   "first": 633,
+   "len": 106,
+   "first": 640,
    "line": "You show him a video. Moving pictures, with sound.",
    "note": "a video on the phone"
   },
@@ -266,8 +266,8 @@
    "id": "S9",
    "size": "close",
    "key": 20,
-   "len": 105,
-   "first": 724,
+   "len": 101,
+   "first": 746,
    "line": "He doesn't blink for a whole minute. Movies here don't talk.",
    "note": "Mo doesn't blink"
   },
@@ -275,8 +275,8 @@
    "id": "S10",
    "size": "card",
    "key": 100,
-   "len": 144,
-   "first": 829,
+   "len": 169,
+   "first": 847,
    "line": "The first feature film with spoken scenes won't come out until October 1927. That's real.",
    "note": "fact: the first talkie, October 1927"
   },
@@ -285,7 +285,7 @@
    "size": "insert",
    "key": 20,
    "len": 143,
-   "first": 973,
+   "first": 1016,
    "line": "You show him a photo of a city at night. Towers of glass, lit up like Christmas.",
    "note": "a city at night on the screen"
   },
@@ -293,17 +293,17 @@
    "id": "S12",
    "size": "two-shot",
    "key": 20,
-   "len": 114,
-   "first": 1116,
-   "line": "Mo whispers, 'Is that heaven?' You say, 'No. It's Tuesday.'",
+   "len": 143,
+   "first": 1159,
+   "line": "Mo whispers, 'Is that heaven? ' You say, 'No. It's Tuesday. '",
    "note": "Is that heaven? No. It's Tuesday."
   },
   {
    "id": "S13",
    "size": "medium",
    "key": 20,
-   "len": 133,
-   "first": 1230,
+   "len": 154,
+   "first": 1302,
    "line": "You take a selfie with a crowd of strangers. Flash. The whole street gasps.",
    "note": "a selfie with strangers, flash"
   },
@@ -311,8 +311,8 @@
    "id": "S14",
    "size": "insert",
    "key": 20,
-   "len": 140,
-   "first": 1363,
+   "len": 125,
+   "first": 1456,
    "line": "The next morning, a newspaper prints a drawing of you: The Boy With the Lightning Box.",
    "note": "the newspaper drawing"
   },
@@ -320,8 +320,8 @@
    "id": "S15",
    "size": "wide",
    "key": 20,
-   "len": 210,
-   "first": 1503,
+   "len": 235,
+   "first": 1581,
    "line": "Then you start making money. In 1926, a computer isn't a machine. It's a person with a pencil, paid to do math all day.",
    "note": "the human computers"
   },
@@ -329,8 +329,8 @@
    "id": "S16",
    "size": "insert",
    "key": 20,
-   "len": 72,
-   "first": 1713,
+   "len": 68,
+   "first": 1816,
    "line": "You race ten of them with your calculator.",
    "note": "the calculator racing"
   },
@@ -338,8 +338,8 @@
    "id": "S17",
    "size": "wide",
    "key": 20,
-   "len": 39,
-   "first": 1785,
+   "len": 44,
+   "first": 1884,
    "line": "You win before lunch.",
    "note": "you win, they stare"
   },
@@ -347,8 +347,8 @@
    "id": "S18",
    "size": "insert",
    "key": 20,
-   "len": 89,
-   "first": 1824,
+   "len": 94,
+   "first": 1928,
    "line": "You record a banker saying hello, and play it back.",
    "note": "voice memo recording"
   },
@@ -356,8 +356,8 @@
    "id": "S19",
    "size": "close",
    "key": 20,
-   "len": 100,
-   "first": 1913,
+   "len": 89,
+   "first": 2022,
    "line": "He pays you twenty dollars just to hear his own voice again.",
    "note": "the banker pays to hear his voice"
   },
@@ -365,8 +365,8 @@
    "id": "S20",
    "size": "medium",
    "key": 20,
-   "len": 100,
-   "first": 2013,
+   "len": 84,
+   "first": 2111,
    "line": "Mo's mom runs a boarding house, and she gives you a room.",
    "note": "Mo's mom gives you a room"
   },
@@ -374,8 +374,8 @@
    "id": "S21",
    "size": "medium",
    "key": 20,
-   "len": 129,
-   "first": 2113,
+   "len": 124,
+   "first": 2195,
    "line": "His little sister, Ellie, makes you show her the flashlight every single night.",
    "note": "the flashlight star for Ellie"
   },
@@ -384,17 +384,17 @@
    "size": "close",
    "key": 20,
    "len": 116,
-   "first": 2242,
-   "line": "'Make the star again.' You're the most interesting person in New York.",
+   "first": 2319,
+   "line": "'Make the star again. ' You're the most interesting person in New York.",
    "note": "Ellie: Make the star again"
   },
   {
    "id": "S23",
    "size": "insert",
    "key": 100,
-   "len": 122,
-   "first": 2358,
-   "line": "Then you look at the corner of the screen. Sixty-two percent.",
+   "len": 117,
+   "first": 2435,
+   "line": "Then you look at the corner of the screen. Sixty- two percent.",
    "note": "sixty-two percent"
   }
  ],
@@ -403,8 +403,10 @@
    "kind": "flash",
    "color": "#FFFFFF",
    "o": 0.6,
-   "f": 1260
+   "f": 1332
   }
  ],
- "audio": {}
+ "audio": {
+  "voice": "iphone-1926/c03/voice.wav"
+ }
 }

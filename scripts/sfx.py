@@ -13,9 +13,10 @@ Writes public/<slug>/sfx.wav and music.wav, sets their volumes in timeline.json,
                                                         where the clip is cut with a short fade
   "repeats": [{"at": cue, "clip": name, "n": 15, "every": 2, "gain": [lo, hi], "pitch": [lo, hi]}]
                                                         one clip many times, each pitched a little differently
-  "music":   {"clip": name, "until": cue, "reverse_looks": ["rewind"], "from": cue}
+  "music":   {"clip": name, "until": cue, "reverse_looks": ["rewind"], "from": cue, "loop": true}
                                                         the bed starts at "from" (default 0), cut at "until"; during a look
-                                                        listed in reverse_looks it plays what just played, backwards
+                                                        listed in reverse_looks it plays what just played, backwards;
+                                                        loop repeats a short bed with crossfades to the end
   "levels":  {"sfx_lu": 1.5, "music_lu": -9.5}         integrated loudness of each stem against the voice's
 }
 Cues are the same as in plan.py: "S3+2", "f:46", "s:1.5", "paste+3".
@@ -115,8 +116,26 @@ M = S.get('music')
 if M:
     m = clips[M['clip']]
     m0 = int(cue(M['from']) / FPS * SR) if M.get('from') else 0
-    n = min(len(music) - m0, len(m))
-    music[m0:m0 + n] = m[:n]
+    if M.get('loop'):
+        # a short bed looped to cover the scene: each pass overlaps the last by a crossfade
+        xf = min(int(1.5 * SR), len(m) // 3)
+        ramp = np.linspace(0, 1, xf)
+        i = m0
+        first = True
+        while i < len(music):
+            x = m.copy()
+            if not first:
+                x[:xf] *= ramp
+            x[-xf:] *= ramp[::-1]
+            j = min(len(music), i + len(x))
+            music[i:j] += x[: j - i]
+            i += len(x) - xf
+            first = False
+        tail = int(1.5 * SR)
+        music[-tail:] *= np.linspace(1, 0, tail)
+    else:
+        n = min(len(music) - m0, len(m))
+        music[m0:m0 + n] = m[:n]
     for seg_look in M.get('reverse_looks', []):
         runs = []
         for s in tl['segments']:

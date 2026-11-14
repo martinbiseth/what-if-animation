@@ -146,6 +146,20 @@
    "set": "rooftop",
    "note": "PART 2",
    "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "set": "none",
+   "note": "is any of this real?",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "set": "none",
+   "note": "a computer was a person",
+   "key": 40
   }
  ],
  "edit": [
@@ -202,8 +216,16 @@
    "at": "Tell"
   },
   {
-   "shot": "S15",
+   "shot": "S18",
    "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "The"
+  },
+  {
+   "shot": "S19",
+   "at": "A"
   },
   {
    "shot": "S16",
@@ -221,5 +243,230 @@
    "len": 10,
    "amp": 6
   }
- ]
+ ],
+ "sound": {
+  "clips": {
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "flash_old": [
+    "a vintage camera flash going off, a sharp pop and a quick electric whine",
+    1.0
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "tap": [
+    "a finger tapping a glass phone screen, a soft tick",
+    0.4
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "old_car": [
+    "a 1920s motor car driving past on cobblestones, rattling engine and an old bulb horn honk",
+    3.0
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "jazz": [
+    "a lively 1920s jazz band playing in a small club, trumpet, piano, double bass and brushed drums",
+    10.0
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "plug": [
+    "an electrical plug pushed into an old wall socket, a click and nothing",
+    0.8
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_fun": [
+    "upbeat playful 1920s ragtime piano with clarinet, light and curious, instrumental background loop",
+    20.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S3+10",
+    "tap",
+    0.6
+   ],
+   [
+    "S4+0",
+    "drone",
+    0.5,
+    "onset",
+    "S9"
+   ],
+   [
+    "S5+0",
+    "buzz",
+    1.0
+   ],
+   [
+    "S6+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S8+0",
+    "notify",
+    0.9
+   ],
+   [
+    "S9+40",
+    "power_off",
+    0.9
+   ],
+   [
+    "S10+0",
+    "laugh_low",
+    0.8
+   ],
+   [
+    "S11+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S15+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S13+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S14+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S17+0",
+    "card_hit",
+    1.0
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
 }

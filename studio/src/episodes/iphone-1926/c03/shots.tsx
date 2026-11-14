@@ -92,7 +92,7 @@ export const S6 = talkShot({
   Set: Club, setT: 700, words,
   cast: [
     { look: L.gent, x: 820, y: 640, yaw: 0.5, faces: [[0, 'happy']], talk: [span(words, 'bandleader', 'song')], seed: 7, pose: { armR: { a: 70, b: -30 } } },
-    { look: YOU, x: 1120, y: 640, yaw: -0.5, faces: [[0, 'neutral'], [40, 'smug']], talk: [span(words, 'You', 'sell')], seed: 8 },
+    { look: YOU, x: 1120, y: 640, yaw: -0.5, faces: [[0, 'neutral'], [40, 'smug']], talk: [span(words, 'You', 'sell', 2)], seed: 8 },
   ],
   cam: { from: [970, 420, 1.9], to: [970, 420, 2.05] },
 });
@@ -141,7 +141,7 @@ export const S11 = phoneCU({ mode: 'city', battery: 89, Bg: NIGHT, push: 0.1 });
 export const S12 = talkShot({
   Set: NIGHT, setT: 500, words,
   cast: [
-    { look: L.mo26, x: 840, y: 700, scale: 0.85, yaw: 0.5, faces: [[0, 'shock']], talk: [span(words, 'Is', 'heaven')], seed: 9 },
+    { look: L.mo26, x: 840, y: 700, scale: 0.85, yaw: 0.5, faces: [[0, 'shock']], talk: [span(words, 'Is', 'heaven', 2)], seed: 9 },
     { look: YOU, x: 1100, y: 640, yaw: -0.4, faces: [[0, 'neutral'], [50, 'smug']], talk: [span(words, 'No', 'Tuesday')], seed: 10 },
   ],
   cam: { from: [970, 440, 2.0], to: [970, 440, 2.15] },

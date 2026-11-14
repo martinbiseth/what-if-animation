@@ -2,142 +2,142 @@
  "slug": "iphone-1926/c02",
  "title": " ",
  "fps": 30,
- "total": 1858,
+ "total": 1977,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 31,
+   "b": 32,
    "t0": 0,
-   "t1": 31,
+   "t1": 32,
    "line": "Here's the deal."
   },
   {
    "shot": "S2",
-   "a": 31,
-   "b": 125,
+   "a": 32,
+   "b": 137,
    "t0": 0,
-   "t1": 94,
+   "t1": 105,
    "line": "You have your phone, and your charger. Nothing else."
   },
   {
    "shot": "S3",
-   "a": 125,
-   "b": 292,
+   "a": 137,
+   "b": 314,
    "t0": 0,
-   "t1": 167,
+   "t1": 177,
    "line": "No signal. Not one bar. Your messages just spin, because there's nothing out there to connect to."
   },
   {
    "shot": "S4",
-   "a": 292,
-   "b": 412,
+   "a": 314,
+   "b": 462,
    "t0": 0,
-   "t1": 120,
+   "t1": 148,
    "line": "The first cellular phone network won't switch on until 1979. That's real."
   },
   {
    "shot": "S5",
-   "a": 412,
-   "b": 602,
+   "a": 462,
+   "b": 693,
    "t0": 0,
-   "t1": 190,
+   "t1": 231,
    "line": "GPS? The first satellite goes up in 1978. Your map shows a little blue dot, floating on a blank grey grid."
   },
   {
    "shot": "S6",
-   "a": 602,
-   "b": 808,
+   "a": 693,
+   "b": 891,
    "t0": 0,
-   "t1": 206,
+   "t1": 198,
    "line": "You try anyway. You climb to the top of the tallest building you can find, and hold the phone up to the sky. Nothing."
   },
   {
    "shot": "S7",
-   "a": 808,
-   "b": 912,
+   "a": 891,
+   "b": 992,
    "t0": 0,
-   "t1": 104,
+   "t1": 101,
    "line": "Just the wind, and a pigeon looking at you like you're crazy."
   },
   {
    "shot": "S16",
-   "a": 912,
-   "b": 1038,
+   "a": 992,
+   "b": 1119,
    "t0": 0,
-   "t1": 126,
+   "t1": 127,
    "line": "So the rules are simple. Everything that lives inside the phone still works."
   },
   {
    "shot": "S8",
-   "a": 1038,
-   "b": 1062,
+   "a": 1119,
+   "b": 1149,
    "t0": 0,
-   "t1": 24,
+   "t1": 30,
    "line": "The camera."
   },
   {
    "shot": "S9",
-   "a": 1062,
-   "b": 1090,
+   "a": 1149,
+   "b": 1181,
    "t0": 0,
-   "t1": 28,
+   "t1": 32,
    "line": "The flashlight."
   },
   {
    "shot": "S10",
-   "a": 1090,
-   "b": 1118,
+   "a": 1181,
+   "b": 1217,
    "t0": 0,
-   "t1": 28,
+   "t1": 36,
    "line": "The calculator."
   },
   {
    "shot": "S15",
-   "a": 1118,
-   "b": 1213,
+   "a": 1217,
+   "b": 1321,
    "t0": 0,
-   "t1": 95,
+   "t1": 104,
    "line": "Every photo, every song, every video you ever downloaded."
   },
   {
    "shot": "S3",
-   "a": 1213,
-   "b": 1283,
+   "a": 1321,
+   "b": 1385,
    "t0": 0,
-   "t1": 70,
+   "t1": 64,
    "line": "Everything that needs the internet is dead."
   },
   {
    "shot": "S11",
-   "a": 1283,
-   "b": 1423,
+   "a": 1385,
+   "b": 1531,
    "t0": 0,
-   "t1": 140,
+   "t1": 146,
    "line": "You open your photos. Your whole life is in there. Your friends. Your room."
   },
   {
    "shot": "S12",
-   "a": 1423,
-   "b": 1580,
+   "a": 1531,
+   "b": 1686,
    "t0": 0,
-   "t1": 157,
+   "t1": 155,
    "line": "Your dog, asleep on a couch that hasn't been built yet. You scroll for a long, long time."
   },
   {
    "shot": "S13",
-   "a": 1580,
-   "b": 1765,
+   "a": 1686,
+   "b": 1893,
    "t0": 0,
-   "t1": 185,
+   "t1": 207,
    "line": "And one more rule. The battery. One hundred percent. Every minute you use it, it drains. And in 1926,"
   },
   {
    "shot": "S14",
-   "a": 1765,
-   "b": 1858,
+   "a": 1893,
+   "b": 1977,
    "t0": 0,
-   "t1": 93,
+   "t1": 84,
    "line": "charging it is not as easy as you think."
   }
  ],
@@ -146,7 +146,7 @@
    "id": "S1",
    "size": "card",
    "key": 14,
-   "len": 31,
+   "len": 32,
    "first": 0,
    "line": "Here's the deal.",
    "note": "CHAPTER 2: THE RULES"
@@ -155,8 +155,8 @@
    "id": "S2",
    "size": "medium",
    "key": 14,
-   "len": 94,
-   "first": 31,
+   "len": 105,
+   "first": 32,
    "line": "You have your phone, and your charger. Nothing else.",
    "note": "you with phone and charger, nothing else"
   },
@@ -164,17 +164,17 @@
    "id": "S3",
    "size": "insert",
    "key": 14,
-   "len": 167,
-   "first": 125,
+   "len": 177,
+   "first": 137,
    "line": "No signal. Not one bar. Your messages just spin, because there's nothing out there to connect to.",
    "note": "no signal, messages spin"
   },
   {
    "id": "S4",
    "size": "card",
-   "key": 14,
-   "len": 120,
-   "first": 292,
+   "key": 100,
+   "len": 148,
+   "first": 314,
    "line": "The first cellular phone network won't switch on until 1979. That's real.",
    "note": "fact: first cellular network 1979"
   },
@@ -182,8 +182,8 @@
    "id": "S5",
    "size": "insert",
    "key": 14,
-   "len": 190,
-   "first": 412,
+   "len": 231,
+   "first": 462,
    "line": "GPS? The first satellite goes up in 1978. Your map shows a little blue dot, floating on a blank grey grid.",
    "note": "map: blue dot on a blank grid"
   },
@@ -191,8 +191,8 @@
    "id": "S6",
    "size": "wide",
    "key": 14,
-   "len": 206,
-   "first": 602,
+   "len": 198,
+   "first": 693,
    "line": "You try anyway. You climb to the top of the tallest building you can find, and hold the phone up to the sky. Nothing.",
    "note": "phone held up to the sky"
   },
@@ -200,8 +200,8 @@
    "id": "S7",
    "size": "close",
    "key": 14,
-   "len": 104,
-   "first": 808,
+   "len": 101,
+   "first": 891,
    "line": "Just the wind, and a pigeon looking at you like you're crazy.",
    "note": "a pigeon judges you"
   },
@@ -209,8 +209,8 @@
    "id": "S16",
    "size": "close",
    "key": 14,
-   "len": 126,
-   "first": 912,
+   "len": 127,
+   "first": 992,
    "line": "So the rules are simple. Everything that lives inside the phone still works.",
    "note": "you give up on signal and lay out the rules"
   },
@@ -218,8 +218,8 @@
    "id": "S8",
    "size": "insert",
    "key": 14,
-   "len": 24,
-   "first": 1038,
+   "len": 30,
+   "first": 1119,
    "line": "The camera.",
    "note": "camera works"
   },
@@ -227,8 +227,8 @@
    "id": "S9",
    "size": "insert",
    "key": 14,
-   "len": 28,
-   "first": 1062,
+   "len": 32,
+   "first": 1149,
    "line": "The flashlight.",
    "note": "flashlight works"
   },
@@ -236,8 +236,8 @@
    "id": "S10",
    "size": "insert",
    "key": 14,
-   "len": 28,
-   "first": 1090,
+   "len": 36,
+   "first": 1181,
    "line": "The calculator.",
    "note": "calculator works"
   },
@@ -245,8 +245,8 @@
    "id": "S15",
    "size": "insert",
    "key": 14,
-   "len": 95,
-   "first": 1118,
+   "len": 104,
+   "first": 1217,
    "line": "Every photo, every song, every video you ever downloaded.",
    "note": "music, songs, videos all still there"
   },
@@ -254,8 +254,8 @@
    "id": "S11",
    "size": "insert",
    "key": 14,
-   "len": 140,
-   "first": 1283,
+   "len": 146,
+   "first": 1385,
    "line": "You open your photos. Your whole life is in there. Your friends. Your room.",
    "note": "your whole life in photos"
   },
@@ -263,17 +263,17 @@
    "id": "S12",
    "size": "close",
    "key": 14,
-   "len": 157,
-   "first": 1423,
+   "len": 155,
+   "first": 1531,
    "line": "Your dog, asleep on a couch that hasn't been built yet. You scroll for a long, long time.",
    "note": "scrolling in bed, face lit"
   },
   {
    "id": "S13",
    "size": "insert",
-   "key": 14,
-   "len": 185,
-   "first": 1580,
+   "key": 100,
+   "len": 207,
+   "first": 1686,
    "line": "And one more rule. The battery. One hundred percent. Every minute you use it, it drains. And in 1926,",
    "note": "battery 100 percent, then 99"
   },
@@ -281,8 +281,8 @@
    "id": "S14",
    "size": "medium",
    "key": 14,
-   "len": 93,
-   "first": 1765,
+   "len": 84,
+   "first": 1893,
    "line": "charging it is not as easy as you think.",
    "note": "plug in hand, no socket anywhere"
   }
@@ -292,8 +292,10 @@
    "kind": "flash",
    "color": "#FFF3DC",
    "o": 0.4,
-   "f": 1066
+   "f": 1153
   }
  ],
- "audio": {}
+ "audio": {
+  "voice": "iphone-1926/c02/voice.wav"
+ }
 }

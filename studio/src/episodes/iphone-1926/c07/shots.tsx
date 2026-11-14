@@ -115,7 +115,7 @@ export const S12: React.FC<ShotProps> = ({ t, len }) => (
 /** The question: Ellie on one side, the future on the other. */
 export const S13: React.FC<ShotProps> = ({ t, f }) => {
   const a = at('Save');
-  const b = at('save');
+  const b = at('save', 2);
   const ellie: Pose = { ...basePose, x: 480, y: 700, yaw: 0.2, expr: 'tired', blink: idleBlink(t, 7) };
   return (
     <g>
@@ -199,3 +199,7 @@ export const S17: React.FC<ShotProps> = ({ t, len }) => (
     </g>
   </g>
 );
+
+export const S18 = bigWord({ kicker: 'AND IS ANY OF THIS', word: 'REAL?', color: '#FFE27A', Bg: Dark });
+
+export const S19 = bigWord({ kicker: 'IN 1926, A COMPUTER WAS', word: 'A PERSON', color: '#FF8A3D' });
