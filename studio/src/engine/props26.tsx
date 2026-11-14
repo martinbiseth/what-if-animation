@@ -8,7 +8,9 @@ import { FONT } from './fonts';
 
 export type ScreenMode =
   | 'off' | 'home' | 'camera' | 'photo' | 'city' | 'music' | 'nosignal' | 'map' | 'battery' | 'calc' | 'video'
-  | 'flash' | 'message' | 'photos' | 'record' | 'chip' | 'pharmacy' | 'signal';
+  | 'flash' | 'message' | 'photos' | 'record' | 'chip' | 'pharmacy' | 'signal'
+  // the internet episode
+  | 'offline' | 'mapblank' | 'wiki' | 'lock' | 'download' | 'wikihome' | 'clock';
 
 export const PHONE = { w: 300, h: 620, r: 46 };
 const SCR = { x: -136, y: -296, w: 272, h: 592, r: 34 };
@@ -85,6 +87,97 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
   switch (mode) {
     case 'off':
       return bg('#07060B');
+    case 'offline':
+      return (
+        <g>
+          {bg('#101018')}
+          <g transform={`translate(${cx} ${cy - 60}) scale(0.9)`} fill="none" stroke="#F6EFE3" strokeLinecap="round" strokeWidth={22}>
+            <path d="M -100 -10 Q 0 -100 100 -10" opacity={0.35} />
+            <path d="M -64 30 Q 0 -25 64 30" opacity={0.35} />
+            <path d="M -30 66 Q 0 42 30 66" opacity={0.35} />
+            <path d="M -100 -70 L 100 120" stroke="#FF4A3D" />
+          </g>
+          <text x={cx} y={cy + 90} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={40} fill="#F6EFE3">{text ?? 'Offline'}</text>
+          <text x={cx} y={cy + 130} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#9A98A8">No internet connection</text>
+        </g>
+      );
+    case 'mapblank':
+      return (
+        <g>
+          {bg('#CFCFD2')}
+          {Array.from({ length: 8 }).map((_, r) =>
+            Array.from({ length: 4 }).map((__, c) => (
+              <rect key={`${r}${c}`} x={SCR.x + c * 70} y={SCR.y + r * 76} width={66} height={72} fill="#C2C2C6" />
+            )),
+          )}
+          <circle cx={cx} cy={cy} r={34} fill="#3A7AFF" opacity={0.2} />
+          <circle cx={cx} cy={cy} r={14} fill="#3A7AFF" stroke="#fff" strokeWidth={4} />
+          <rect x={SCR.x + 30} y={SCR.y + SCR.h - 120} width={SCR.w - 60} height={56} rx={14} fill="#fff" />
+          <text x={cx} y={SCR.y + SCR.h - 84} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#C83A3A">Map unavailable</text>
+        </g>
+      );
+    case 'wikihome':
+    case 'wiki': {
+      const head = mode === 'wikihome' ? 'Offline library' : text ?? 'Internet';
+      return (
+        <g>
+          {bg('#F8F8F6')}
+          <rect x={SCR.x} y={SCR.y + 56} width={SCR.w} height={60} fill="#EAEAEE" />
+          <circle cx={SCR.x + 36} cy={SCR.y + 86} r={16} fill="none" stroke="#2A2A30" strokeWidth={3} />
+          <text x={SCR.x + 64} y={SCR.y + 93} fontFamily={FONT.title} fontWeight={700} fontSize={20} fill="#2A2A30">W</text>
+          <text x={SCR.x + 20} y={SCR.y + 160} fontFamily={FONT.title} fontWeight={700} fontSize={mode === 'wikihome' ? 28 : 34} fill="#101014">{head}</text>
+          <rect x={SCR.x + 20} y={SCR.y + 172} width={SCR.w - 40} height={2} fill="#C8C8CC" />
+          {mode === 'wikihome'
+            ? ['Water purification', 'First aid', 'Growing potatoes', 'Engine repair', 'Radio'].map((l, i) => (
+                <g key={i}>
+                  <rect x={SCR.x + 20} y={SCR.y + 196 + i * 62} width={SCR.w - 40} height={50} rx={10} fill="#EEF2FA" />
+                  <text x={SCR.x + 36} y={SCR.y + 228 + i * 62} fontFamily={FONT.ui} fontSize={19} fill="#2A5AB8">{l}</text>
+                </g>
+              ))
+            : Array.from({ length: 11 }).map((_, i) => (
+                <rect key={i} x={SCR.x + 20} y={SCR.y + 196 + i * 30} width={(SCR.w - 40) * (i % 4 === 3 ? 0.6 : 0.95)} height={10} rx={5} fill="#B8B8C0" />
+              ))}
+          {mode === 'wiki' && battery < 0 ? null : null}
+        </g>
+      );
+    }
+    case 'lock': {
+      const [a, b] = (text ?? 'Your order has shipped|Arriving Wednesday').split('|');
+      return (
+        <g>
+          {bg('#1A2450')}
+          <circle cx={cx + 70} cy={SCR.y + 420} r={220} fill="#5A3EA0" opacity={0.5} />
+          <text x={cx} y={SCR.y + 170} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={84} fill="#F6EFE3">7:42</text>
+          <text x={cx} y={SCR.y + 205} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#F6EFE3" opacity={0.8}>Tuesday</text>
+          <rect x={SCR.x + 16} y={SCR.y + 250} width={SCR.w - 32} height={90} rx={20} fill="#FFFFFF" opacity={0.85} />
+          <rect x={SCR.x + 30} y={SCR.y + 266} width={36} height={36} rx={9} fill="#F2A33A" />
+          <text x={SCR.x + 78} y={SCR.y + 290} fontFamily={FONT.ui} fontWeight={700} fontSize={17} fill="#1A1A20">{a}</text>
+          <text x={SCR.x + 78} y={SCR.y + 318} fontFamily={FONT.ui} fontSize={16} fill="#4A4A54">{b}</text>
+        </g>
+      );
+    }
+    case 'download': {
+      const p = clamp(t / 90);
+      return (
+        <g>
+          {bg('#101018')}
+          {title('Downloading', SCR.y + 160)}
+          <text x={cx} y={SCR.y + 230} textAnchor="middle" fontFamily={FONT.ui} fontSize={20} fill="#C8C8D8">{text ?? 'Wikipedia (English)'}</text>
+          <text x={cx} y={SCR.y + 262} textAnchor="middle" fontFamily={FONT.ui} fontSize={18} fill="#8A8A9A">102 GB</text>
+          <rect x={SCR.x + 30} y={cy} width={SCR.w - 60} height={18} rx={9} fill="#2A2A36" />
+          <rect x={SCR.x + 30} y={cy} width={(SCR.w - 60) * p} height={18} rx={9} fill="#5BE08A" />
+          <text x={cx} y={cy + 60} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={34} fill="#F6EFE3">{`${Math.round(p * 100)}%`}</text>
+        </g>
+      );
+    }
+    case 'clock':
+      return (
+        <g>
+          {bg('#0A0A12')}
+          <text x={cx} y={cy + 30} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={96} fill="#F6EFE3">{text ?? '7:42'}</text>
+        </g>
+      );
+
     case 'home': {
       const cols = ['#FF8A3D', '#5BE08A', '#7FD4FF', '#FFD86A', '#E46AD2', '#FF5A4A', '#6A8CFF', '#3DD6C8'];
       return (
@@ -280,8 +373,8 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
  * The phone from the front, centred on x, y, `s` its scale (1 = 300 x 620). Generic on purpose: a dark slab, thin
  * bezel, a small round front camera, no logo. `glow` spills its light round it (on a dark set).
  */
-export const Smartphone: React.FC<{ x: number; y: number; s?: number; rot?: number; mode?: ScreenMode; t?: number; battery?: number; text?: string; bars?: number; glow?: number; buzz?: number; status?: boolean }> = ({
-  x, y, s = 1, rot = 0, mode = 'home', t = 0, battery = 100, text, bars = 0, glow = 1, buzz = 0, status = true,
+export const Smartphone: React.FC<{ x: number; y: number; s?: number; rot?: number; mode?: ScreenMode; t?: number; battery?: number; text?: string; bars?: number; glow?: number; buzz?: number; status?: boolean; time?: string }> = ({
+  x, y, s = 1, rot = 0, mode = 'home', t = 0, battery = 100, text, bars = 0, glow = 1, buzz = 0, status = true, time,
 }) => {
   const jx = buzz > 0 ? Math.sin(t * 9.1) * 6 * buzz : 0;
   const lit = mode !== 'off';
@@ -296,7 +389,7 @@ export const Smartphone: React.FC<{ x: number; y: number; s?: number; rot?: numb
       </clipPath>
       <g clipPath={`url(#scr${mode})`}>
         <Screen mode={mode} t={t} battery={battery} text={text} bars={bars} />
-        {lit && status && mode !== 'flash' && mode !== 'battery' ? <StatusBar battery={battery} bars={bars} /> : null}
+        {lit && status && mode !== 'flash' && mode !== 'battery' && mode !== 'lock' && mode !== 'clock' ? <StatusBar battery={battery} bars={bars} time={time} /> : null}
         {/* a soft diagonal reflection on the glass */}
         <path d={`M ${SCR.x} ${SCR.y + 40} L ${SCR.x + 150} ${SCR.y} L ${SCR.x + 200} ${SCR.y} L ${SCR.x} ${SCR.y + 260} Z`} fill="#FFFFFF" opacity={0.06} />
       </g>
@@ -330,7 +423,7 @@ export const SmartphoneBack: React.FC<{ x: number; y: number; s?: number; rot?: 
  * An insert of a hand holding the phone up to camera: the orange sleeve from the bottom of frame, a dark mitten
  * round the phone's lower edge. x, y the phone's centre; the arm enters from `from` (bottom-left or bottom-right).
  */
-export const PhoneInHand: React.FC<{ x: number; y: number; s?: number; rot?: number; mode?: ScreenMode; t?: number; battery?: number; text?: string; bars?: number; from?: 'left' | 'right'; sleeve?: string; buzz?: number; glow?: number }> = ({
+export const PhoneInHand: React.FC<{ x: number; y: number; s?: number; rot?: number; mode?: ScreenMode; t?: number; battery?: number; text?: string; bars?: number; from?: 'left' | 'right'; sleeve?: string; buzz?: number; glow?: number; time?: string; status?: boolean }> = ({
   x, y, s = 1, rot = 0, from = 'right', sleeve = '#F07A2A', ...rest
 }) => {
   const sd = from === 'right' ? 1 : -1;
