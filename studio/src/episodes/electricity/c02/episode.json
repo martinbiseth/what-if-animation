@@ -41,19 +41,172 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "set": "schematic",
+   "note": "NOT A BLACKOUT",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "current stops in the wire",
+   "key": 50
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "set": "street day",
+   "note": "the first morning: everyone waits",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "country road",
+   "note": "a power worker walks the line, shrugs",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "power plants intact and dark",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "icons",
+   "set": "schematic",
+   "note": "nothing stored works",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "dark",
+   "note": "photos, messages, saves locked away",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "dark",
+   "note": "a match, a candle: fire works",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "icons",
+   "set": "schematic",
+   "note": "bikes, sails, steam, springs",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "brain and heart sparking",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "living dark",
+   "note": "smug: a very short video",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "icons",
+   "set": "schematic",
+   "note": "wire, chip, screen: dead",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "set": "card",
+   "note": "FOREVER.",
+   "key": 16
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "living dark",
+   "note": "you at the window from behind",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "wide push",
+   "set": "valley",
+   "note": "far away, a flicker",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Electricity"
+  },
+  {
+   "shot": "S3",
+   "at": "How"
+  },
+  {
+   "shot": "S4",
+   "at": "Power"
+  },
+  {
+   "shot": "S5",
+   "at": "wires"
+  },
+  {
+   "shot": "S6",
+   "at": "No"
+  },
+  {
+   "shot": "S7",
+   "at": "Every"
+  },
+  {
+   "shot": "S8",
+   "at": "But"
+  },
+  {
+   "shot": "S9",
+   "at": "Bikes"
+  },
+  {
+   "shot": "S10",
+   "at": "weird"
+  },
+  {
+   "shot": "S11",
+   "at": "Otherwise"
+  },
+  {
+   "shot": "S12",
+   "at": "So"
+  },
+  {
+   "shot": "S13",
+   "at": "Silent"
+  },
+  {
+   "shot": "S14",
+   "at": "Remember"
+  },
+  {
+   "shot": "S15",
+   "at": "far"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",
