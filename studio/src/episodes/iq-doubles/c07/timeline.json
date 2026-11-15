@@ -298,6 +298,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "iq-doubles/c07/voice.wav"
+  "voice": "iq-doubles/c07/voice.wav",
+  "sfx": "iq-doubles/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3297,
+  "music": "iq-doubles/c07/music.wav",
+  "musicVol": 0.0828
  }
 }

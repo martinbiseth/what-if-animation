@@ -270,5 +270,148 @@
    "at": "night"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "drone",
+    0.35,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "notify",
+    0.5
+   ],
+   [
+    "S4+0",
+    "ding",
+    0.35
+   ],
+   [
+    "S5+0",
+    "paper",
+    0.4
+   ],
+   [
+    "S6+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S7+0",
+    "knock",
+    0.6
+   ],
+   [
+    "S8+0",
+    "laugh_low",
+    0.3
+   ],
+   [
+    "S10+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S12+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S15+0",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.35
+   ],
+   [
+    "S18+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "from": "S3",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.5
+  }
+ }
 }

@@ -345,5 +345,168 @@
    "at": "But"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S2+0",
+    "class_murmur",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S3+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S4+0",
+    "ding",
+    0.35
+   ],
+   [
+    "S5+0",
+    "paper_land",
+    0.5
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.2
+   ],
+   [
+    "S7+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S9+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S12+0",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S15+0",
+    "buzzer",
+    0.3
+   ],
+   [
+    "S16+0",
+    "ding",
+    0.22
+   ],
+   [
+    "S17+0",
+    "card_hit",
+    0.35
+   ],
+   [
+    "S24+0",
+    "cash",
+    0.35
+   ],
+   [
+    "S20+0",
+    "copy_click",
+    0.4
+   ],
+   [
+    "S21+0",
+    "door_shut",
+    0.3
+   ],
+   [
+    "S22+0",
+    "laugh_low",
+    0.3
+   ],
+   [
+    "S23+0",
+    "drone",
+    0.22,
+    "onset"
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "S23",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.0
+  }
+ }
 }

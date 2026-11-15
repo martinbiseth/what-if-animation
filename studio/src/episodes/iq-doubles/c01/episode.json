@@ -280,5 +280,189 @@
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "room_tone",
+    0.25,
+    "onset",
+    "S5"
+   ],
+   [
+    "S2+4",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S3+16",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S4+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S6+0",
+    "pencils",
+    0.4,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "ding",
+    0.35
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S12+8",
+    "copy_click",
+    0.4
+   ],
+   [
+    "S13+0",
+    "counter_tick",
+    0.4,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "ding",
+    0.35
+   ],
+   [
+    "S15+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S17+0",
+    "paper",
+    0.5
+   ],
+   [
+    "S18+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S19+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S21+0",
+    "title_boom",
+    1.0,
+    "peak"
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "S1+0",
+    "clip": "beep",
+    "n": 9,
+    "every": 7,
+    "gain": [
+     0.3,
+     0.35
+    ],
+    "pitch": [
+     1.3,
+     1.3
+    ]
+   },
+   {
+    "at": "S20+20",
+    "clip": "beep",
+    "n": 5,
+    "every": 7,
+    "gain": [
+     0.3,
+     0.35
+    ],
+    "pitch": [
+     1.3,
+     1.3
+    ]
+   }
+  ],
+  "music": {
+   "clip": "music",
+   "from": "S5",
+   "until": "S20",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.0
+  }
  }
 }

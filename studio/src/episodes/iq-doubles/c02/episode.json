@@ -224,5 +224,124 @@
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S3+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S4+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S6+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S7+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S8+0",
+    "glitch",
+    0.4
+   ],
+   [
+    "S10+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S13+0",
+    "clock_back",
+    0.4
+   ],
+   [
+    "S14+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S15+0",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S16+0",
+    "heartbeat",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "until": "S16",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.0
+  }
+ }
 }

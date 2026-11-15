@@ -282,5 +282,172 @@
    "at": "Then"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "tick",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S2+0",
+    "power_hum",
+    0.25
+   ],
+   [
+    "S3+0",
+    "drone_hit",
+    0.4
+   ],
+   [
+    "S4+0",
+    "power_down",
+    0.5,
+    "peak"
+   ],
+   [
+    "S5+0",
+    "rewind_start",
+    0.4
+   ],
+   [
+    "S6+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "knock",
+    0.5
+   ],
+   [
+    "S13+0",
+    "paper_land",
+    0.6
+   ],
+   [
+    "S14+0",
+    "clock_back",
+    0.4
+   ],
+   [
+    "S15+0",
+    "pencils",
+    0.4,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "cough",
+    0.2
+   ],
+   [
+    "S17+0",
+    "drone",
+    0.2,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "pencils",
+    0.3,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "tick",
+    0.4,
+    "onset",
+    "S20"
+   ],
+   [
+    "off#3+8",
+    "switch_off",
+    0.7
+   ],
+   [
+    "off#3+10",
+    "power_off",
+    0.7
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "from": "S7",
+   "until": "S20",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.0
+  }
+ }
 }

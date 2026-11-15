@@ -328,5 +328,162 @@
    "at": "math"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "bulb_pop": [
+    "a small light bulb popping out, a tiny glass tink and fizz",
+    0.5
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S3+0",
+    "gulp",
+    0.4
+   ],
+   [
+    "S4+0",
+    "clink",
+    0.5
+   ],
+   [
+    "S5+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S6+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S7+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S8+0",
+    "power_hum",
+    0.3
+   ],
+   [
+    "S9+0",
+    "bulb_pop",
+    0.5
+   ],
+   [
+    "S10+0",
+    "power_hum",
+    0.3
+   ],
+   [
+    "S12+0",
+    "rewind",
+    0.3
+   ],
+   [
+    "S13+0",
+    "laugh",
+    0.12
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.55
+   ],
+   [
+    "S18+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S19+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S20+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S22+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S23+0",
+    "drone_hit",
+    0.55
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "until": "S23",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -13.5
+  }
+ }
 }
