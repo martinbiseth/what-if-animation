@@ -1,29 +1,439 @@
 {
  "slug": "strength-doubles/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2948,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 74,
+   "t0": 0,
+   "t1": 74,
+   "line": "Day nine. Twenty- five tonnes. You"
+  },
+  {
+   "shot": "S2",
+   "a": 74,
+   "b": 147,
+   "t0": 0,
+   "t1": 73,
+   "line": "reach for your toothbrush, and it snaps. You"
+  },
+  {
+   "shot": "S3",
+   "a": 147,
+   "b": 220,
+   "t0": 0,
+   "t1": 73,
+   "line": "turn the tap, and the tap comes off."
+  },
+  {
+   "shot": "S4",
+   "a": 220,
+   "b": 295,
+   "t0": 0,
+   "t1": 75,
+   "line": "Water everywhere. Breakfast. Your"
+  },
+  {
+   "shot": "S5",
+   "a": 295,
+   "b": 356,
+   "t0": 0,
+   "t1": 61,
+   "line": "spoon folds like paper. Your"
+  },
+  {
+   "shot": "S6",
+   "a": 356,
+   "b": 446,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "phone cracks in your pocket, just because you leaned on it."
+  },
+  {
+   "shot": "S7",
+   "a": 446,
+   "b": 538,
+   "t0": 0,
+   "t1": 92,
+   "line": "Every door in the house has your fingerprints pressed into it."
+  },
+  {
+   "shot": "S8",
+   "a": 538,
+   "b": 686,
+   "t0": 0,
+   "t1": 148,
+   "line": "Here's what nobody tells you about strength. Strength is easy. Control is hard. Your"
+  },
+  {
+   "shot": "S9",
+   "a": 686,
+   "b": 890,
+   "t0": 0,
+   "t1": 204,
+   "line": "brain spent fourteen years learning a body that could lift fifty kilos. Now every tiny push is five hundred times too big."
+  },
+  {
+   "shot": "S10",
+   "a": 890,
+   "b": 1036,
+   "t0": 0,
+   "t1": 146,
+   "line": "So you start living in slow motion. Fingertips only. Every movement planned."
+  },
+  {
+   "shot": "S11",
+   "a": 1036,
+   "b": 1158,
+   "t0": 0,
+   "t1": 122,
+   "line": "Day ten. You try to lift Dad's car again, to show him. Your"
+  },
+  {
+   "shot": "S12",
+   "a": 1158,
+   "b": 1245,
+   "t0": 0,
+   "t1": 87,
+   "line": "feet sink into the lawn, right up to your ankles."
+  },
+  {
+   "shot": "S13",
+   "a": 1245,
+   "b": 1385,
+   "t0": 0,
+   "t1": 140,
+   "line": "Because all that weight still has to go somewhere, down through two small trainers. The"
+  },
+  {
+   "shot": "S14",
+   "a": 1385,
+   "b": 1496,
+   "t0": 0,
+   "t1": 111,
+   "line": "school sends a letter. Please stay at home until further notice."
+  },
+  {
+   "shot": "S15",
+   "a": 1496,
+   "b": 1613,
+   "t0": 0,
+   "t1": 117,
+   "line": "Then on day eleven, you sneeze, grab the kitchen counter, and"
+  },
+  {
+   "shot": "S16",
+   "a": 1613,
+   "b": 1675,
+   "t0": 0,
+   "t1": 62,
+   "line": "something in your hand goes crack. The"
+  },
+  {
+   "shot": "S17",
+   "a": 1675,
+   "b": 1771,
+   "t0": 0,
+   "t1": 96,
+   "line": "X- ray says fracture. From your own grip."
+  },
+  {
+   "shot": "S18",
+   "a": 1771,
+   "b": 1896,
+   "t0": 0,
+   "t1": 125,
+   "line": "Remember the rule. Your muscles double. Your bones don't. And"
+  },
+  {
+   "shot": "S19",
+   "a": 1896,
+   "b": 2027,
+   "t0": 0,
+   "t1": 131,
+   "line": "doctors already know what happens when muscles pull harder than bones can take."
+  },
+  {
+   "shot": "S20",
+   "a": 2027,
+   "b": 2264,
+   "t0": 0,
+   "t1": 237,
+   "line": "During a strong seizure or an electric shock, a person's own muscles can dislocate a shoulder, or even break a bone. That's real. And"
+  },
+  {
+   "shot": "S21",
+   "a": 2264,
+   "b": 2395,
+   "t0": 0,
+   "t1": 131,
+   "line": "now your muscles pull two thousand times harder than they were built to. Then there's"
+  },
+  {
+   "shot": "S22",
+   "a": 2395,
+   "b": 2511,
+   "t0": 0,
+   "t1": 116,
+   "line": "the food. Holding something is free. Lifting it is not."
+  },
+  {
+   "shot": "S23",
+   "a": 2511,
+   "b": 2718,
+   "t0": 0,
+   "t1": 207,
+   "line": "To lift the Titanic just one metre, you'd burn about the food you eat in two months. And that's if your body wasted nothing."
+  },
+  {
+   "shot": "S24",
+   "a": 2718,
+   "b": 2840,
+   "t0": 0,
+   "t1": 122,
+   "line": "So you're the strongest person on Earth, and you can't hold a glass of water. Your"
+  },
+  {
+   "shot": "S25",
+   "a": 2840,
+   "b": 2948,
+   "t0": 0,
+   "t1": 108,
+   "line": "little sister runs at you for a hug, and you have to step back."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 74,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Day nine. Twenty- five tonnes. You",
+   "note": "chapter 4 card, day 9"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 36,
+   "len": 73,
+   "first": 74,
+   "line": "reach for your toothbrush, and it snaps. You",
+   "note": "the toothbrush snaps"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 40,
+   "len": 73,
+   "first": 147,
+   "line": "turn the tap, and the tap comes off.",
+   "note": "the tap comes off"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "len": 75,
+   "first": 220,
+   "line": "Water everywhere. Breakfast. Your",
+   "note": "water everywhere"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 26,
+   "len": 61,
+   "first": 295,
+   "line": "spoon folds like paper. Your",
+   "note": "the spoon folds"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "len": 90,
+   "first": 356,
+   "line": "phone cracks in your pocket, just because you leaned on it.",
+   "note": "the phone cracks"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 60,
+   "len": 92,
+   "first": 446,
+   "line": "Every door in the house has your fingerprints pressed into it.",
+   "note": "fingerprints in every door"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 100,
+   "len": 148,
+   "first": 538,
+   "line": "Here's what nobody tells you about strength. Strength is easy. Control is hard. Your",
+   "note": "strength easy, control hard"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 150,
+   "len": 204,
+   "first": 686,
+   "line": "brain spent fourteen years learning a body that could lift fifty kilos. Now every tiny push is five hundred times too big.",
+   "note": "trained for 50 kg; every push 500x"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 60,
+   "len": 146,
+   "first": 890,
+   "line": "So you start living in slow motion. Fingertips only. Every movement planned.",
+   "note": "slow motion, fingertips"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 50,
+   "len": 122,
+   "first": 1036,
+   "line": "Day ten. You try to lift Dad's car again, to show him. Your",
+   "note": "day ten: lift Dad's car again"
+  },
+  {
+   "id": "S12",
+   "size": "low",
+   "key": 40,
+   "len": 87,
+   "first": 1158,
+   "line": "feet sink into the lawn, right up to your ankles.",
+   "note": "feet sink into the lawn"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 60,
+   "len": 140,
+   "first": 1245,
+   "line": "Because all that weight still has to go somewhere, down through two small trainers. The",
+   "note": "the weight through two trainers"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "len": 111,
+   "first": 1385,
+   "line": "school sends a letter. Please stay at home until further notice.",
+   "note": "the school letter"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 46,
+   "len": 117,
+   "first": 1496,
+   "line": "Then on day eleven, you sneeze, grab the kitchen counter, and",
+   "note": "day eleven: sneeze, grab the counter"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 6,
+   "len": 62,
+   "first": 1613,
+   "line": "something in your hand goes crack. The",
+   "note": "crack"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "len": 96,
+   "first": 1675,
+   "line": "X- ray says fracture. From your own grip.",
+   "note": "X-ray: fracture"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 90,
+   "len": 125,
+   "first": 1771,
+   "line": "Remember the rule. Your muscles double. Your bones don't. And",
+   "note": "muscles double, bones don't"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 40,
+   "len": 131,
+   "first": 1896,
+   "line": "doctors already know what happens when muscles pull harder than bones can take.",
+   "note": "a doctor"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 210,
+   "len": 237,
+   "first": 2027,
+   "line": "During a strong seizure or an electric shock, a person's own muscles can dislocate a shoulder, or even break a bone. That's real. And",
+   "note": "seizure, shock: dislocation, broken bone"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 60,
+   "len": 131,
+   "first": 2264,
+   "line": "now your muscles pull two thousand times harder than they were built to. Then there's",
+   "note": "2,048 times harder"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 40,
+   "len": 116,
+   "first": 2395,
+   "line": "the food. Holding something is free. Lifting it is not.",
+   "note": "the food: a mountain of plates"
+  },
+  {
+   "id": "S23",
+   "size": "card",
+   "key": 70,
+   "len": 207,
+   "first": 2511,
+   "line": "To lift the Titanic just one metre, you'd burn about the food you eat in two months. And that's if your body wasted nothing.",
+   "note": "61 days of food"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 40,
+   "len": 122,
+   "first": 2718,
+   "line": "So you're the strongest person on Earth, and you can't hold a glass of water. Your",
+   "note": "the glass shatters"
+  },
+  {
+   "id": "S25",
+   "size": "two-shot",
+   "key": 50,
+   "len": 108,
+   "first": 2840,
+   "line": "little sister runs at you for a hug, and you have to step back.",
+   "note": "sister runs for a hug, you step back"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c04/voice.wav"
+ }
 }

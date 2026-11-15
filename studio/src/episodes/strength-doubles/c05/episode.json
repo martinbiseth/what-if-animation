@@ -47,23 +47,216 @@
    "claim": "On day twelve you can lift about two hundred tonnes.",
    "working": "50 kg x 2^12 = 204,800 kg = 205 t.",
    "source": "Arithmetic"
+  },
+  {
+   "claim": "In ten more days (day 22) you could lift a loaded cargo ship.",
+   "working": "50 kg x 2^22 = 209,715,200 kg = about 210,000 t. The largest container ships displace roughly 200,000-260,000 t fully loaded.",
+   "source": "Arithmetic; typical displacement of ultra-large container ships"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 5 card, day 12"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 40,
+   "note": "your face on every news channel"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 90,
+   "note": "scientists argue: hoax vs most important"
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
+   "key": 40,
+   "note": "black car outside, engine running"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "note": "a man in a grey suit rings the bell"
+  },
+  {
+   "id": "S6",
+   "size": "three-shot",
+   "key": 60,
+   "note": "Mum opens; he smiles: we've been watching"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
+   "key": 80,
+   "note": "kitchen table: the maths"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 50,
+   "note": "day 22: a cargo ship"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 60,
+   "note": "day 27: the Great Pyramid"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 190,
+   "note": "real: 6 vs 6.7 million tonnes"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 40,
+   "note": "we can help you"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 20,
+   "note": "the contract slides across"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 16,
+   "note": "the table bends under your elbow"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 90,
+   "note": "the folder: he knows too much"
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "key": 80,
+   "note": "and in return? ships, rubble"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 60,
+   "note": "things we'd rather not say in front of your mother"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "note": "that night: Mo on the phone, a weapon"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
    "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "the card he left"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "note": "dusk: on the phone by his car"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 60,
+   "note": "nobody will be able to stop him"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "face"
+  },
+  {
+   "shot": "S3",
+   "at": "Scientists"
+  },
+  {
+   "shot": "S4",
+   "at": "That"
+  },
+  {
+   "shot": "S5",
+   "at": "man"
+  },
+  {
+   "shot": "S6",
+   "at": "Mum"
+  },
+  {
+   "shot": "S7",
+   "at": "He#2"
+  },
+  {
+   "shot": "S20",
+   "at": "In"
+  },
+  {
+   "shot": "S8",
+   "at": "twenty"
+  },
+  {
+   "shot": "S9",
+   "at": "That"
+  },
+  {
+   "shot": "S10",
+   "at": "We"
+  },
+  {
+   "shot": "S11",
+   "at": "He#2"
+  },
+  {
+   "shot": "S12",
+   "at": "The#2"
+  },
+  {
+   "shot": "S13",
+   "at": "He"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "He#2"
+  },
+  {
+   "shot": "S16",
+   "at": "That"
+  },
+  {
+   "shot": "S17",
+   "at": "You#2"
+  },
+  {
+   "shot": "S18",
+   "at": "But"
+  },
+  {
+   "shot": "S19",
+   "at": "No"
   }
  ],
- "end": "f:90",
  "fx": []
 }

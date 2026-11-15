@@ -57,18 +57,256 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 4 card, day 9"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 36,
+   "note": "the toothbrush snaps"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 40,
+   "note": "the tap comes off"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "note": "water everywhere"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 26,
+   "note": "the spoon folds"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "note": "the phone cracks"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 60,
+   "note": "fingerprints in every door"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 100,
+   "note": "strength easy, control hard"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 150,
+   "note": "trained for 50 kg; every push 500x"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 60,
+   "note": "slow motion, fingertips"
+  },
+  {
+   "id": "S11",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "key": 50,
+   "note": "day ten: lift Dad's car again"
+  },
+  {
+   "id": "S12",
+   "size": "low",
+   "key": 40,
+   "note": "feet sink into the lawn"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 60,
+   "note": "the weight through two trainers"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "note": "the school letter"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 46,
+   "note": "day eleven: sneeze, grab the counter"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 6,
+   "note": "crack"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "note": "X-ray: fracture"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 90,
+   "note": "muscles double, bones don't"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 40,
+   "note": "a doctor"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 210,
+   "note": "seizure, shock: dislocation, broken bone"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 60,
+   "note": "2,048 times harder"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 40,
+   "note": "the food: a mountain of plates"
+  },
+  {
+   "id": "S23",
+   "size": "card",
+   "key": 70,
+   "note": "61 days of food"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 40,
+   "note": "the glass shatters"
+  },
+  {
+   "id": "S25",
+   "size": "two-shot",
+   "key": 50,
+   "note": "sister runs for a hug, you step back"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "reach"
+  },
+  {
+   "shot": "S3",
+   "at": "turn"
+  },
+  {
+   "shot": "S4",
+   "at": "Water"
+  },
+  {
+   "shot": "S5",
+   "at": "spoon"
+  },
+  {
+   "shot": "S6",
+   "at": "phone"
+  },
+  {
+   "shot": "S7",
+   "at": "Every"
+  },
+  {
+   "shot": "S8",
+   "at": "Here's"
+  },
+  {
+   "shot": "S9",
+   "at": "brain"
+  },
+  {
+   "shot": "S10",
+   "at": "So"
+  },
+  {
+   "shot": "S11",
+   "at": "Day"
+  },
+  {
+   "shot": "S12",
+   "at": "feet"
+  },
+  {
+   "shot": "S13",
+   "at": "Because"
+  },
+  {
+   "shot": "S14",
+   "at": "school"
+  },
+  {
+   "shot": "S15",
+   "at": "Then"
+  },
+  {
+   "shot": "S16",
+   "at": "something"
+  },
+  {
+   "shot": "S17",
+   "at": "X"
+  },
+  {
+   "shot": "S18",
+   "at": "Remember"
+  },
+  {
+   "shot": "S19",
+   "at": "doctors"
+  },
+  {
+   "shot": "S20",
+   "at": "During"
+  },
+  {
+   "shot": "S21",
+   "at": "now"
+  },
+  {
+   "shot": "S22",
+   "at": "food"
+  },
+  {
+   "shot": "S23",
+   "at": "To"
+  },
+  {
+   "shot": "S24",
+   "at": "So"
+  },
+  {
+   "shot": "S25",
+   "at": "little"
   }
  ],
- "end": "f:90",
  "fx": []
 }

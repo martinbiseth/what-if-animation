@@ -1,29 +1,354 @@
 {
  "slug": "strength-doubles/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2556,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 35,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 35,
+   "line": "By day twelve, your"
+  },
+  {
+   "shot": "S2",
+   "a": 35,
+   "b": 93,
+   "t0": 0,
+   "t1": 58,
+   "line": "face is on every news channel."
+  },
+  {
+   "shot": "S3",
+   "a": 93,
+   "b": 282,
+   "t0": 0,
+   "t1": 189,
+   "line": "Scientists argue about you on TV. One says you're a hoax. Another says you're the most important person alive."
+  },
+  {
+   "shot": "S4",
+   "a": 282,
+   "b": 419,
+   "t0": 0,
+   "t1": 137,
+   "line": "That afternoon, there's a black car parked outside your house, engine running. A"
+  },
+  {
+   "shot": "S5",
+   "a": 419,
+   "b": 481,
+   "t0": 0,
+   "t1": 62,
+   "line": "man in a grey suit rings the doorbell."
+  },
+  {
+   "shot": "S6",
+   "a": 481,
+   "b": 649,
+   "t0": 0,
+   "t1": 168,
+   "line": "Mum opens the door. He smiles at you over her shoulder. 'We've been watching your friend's videos. '"
+  },
+  {
+   "shot": "S7",
+   "a": 649,
+   "b": 805,
+   "t0": 0,
+   "t1": 156,
+   "line": "He sits down at the kitchen table and does the maths out loud. 'Today, two hundred tonnes."
+  },
+  {
+   "shot": "S20",
+   "a": 805,
+   "b": 899,
+   "t0": 0,
+   "t1": 94,
+   "line": "In ten more days, a cargo ship. And on day"
+  },
+  {
+   "shot": "S8",
+   "a": 899,
+   "b": 979,
+   "t0": 0,
+   "t1": 80,
+   "line": "twenty- seven, the Great Pyramid of Giza. '"
+  },
+  {
+   "shot": "S9",
+   "a": 979,
+   "b": 1229,
+   "t0": 0,
+   "t1": 250,
+   "line": "That one's real too. The Great Pyramid weighs about six million tonnes. Fifty kilos, doubled twenty- seven times, is six point seven million."
+  },
+  {
+   "shot": "S10",
+   "a": 1229,
+   "b": 1390,
+   "t0": 0,
+   "t1": 161,
+   "line": "'We can help you, ' he says. 'Doctors. Control training. A safe place to live. '"
+  },
+  {
+   "shot": "S11",
+   "a": 1390,
+   "b": 1464,
+   "t0": 0,
+   "t1": 74,
+   "line": "He slides a contract across the table."
+  },
+  {
+   "shot": "S12",
+   "a": 1464,
+   "b": 1529,
+   "t0": 0,
+   "t1": 65,
+   "line": "The table bends under your elbow."
+  },
+  {
+   "shot": "S13",
+   "a": 1529,
+   "b": 1678,
+   "t0": 0,
+   "t1": 149,
+   "line": "He knows things he shouldn't. Your shoe size. Your school. Which hand cracked."
+  },
+  {
+   "shot": "S14",
+   "a": 1678,
+   "b": 1901,
+   "t0": 0,
+   "t1": 223,
+   "line": "'And in return? ' He smiles again. 'In return, you help us. Ships. Rubble. Things no machine can move. '"
+  },
+  {
+   "shot": "S15",
+   "a": 1901,
+   "b": 2020,
+   "t0": 0,
+   "t1": 119,
+   "line": "He pauses. 'And a few things we'd rather not talk about in front of your mother. '"
+  },
+  {
+   "shot": "S16",
+   "a": 2020,
+   "b": 2190,
+   "t0": 0,
+   "t1": 170,
+   "line": "That night, Mo whispers through the phone. 'Bro. They don't want to help you. They want a weapon. '"
+  },
+  {
+   "shot": "S17",
+   "a": 2190,
+   "b": 2292,
+   "t0": 0,
+   "t1": 102,
+   "line": "You told the man you needed time to think. He left a card."
+  },
+  {
+   "shot": "S18",
+   "a": 2292,
+   "b": 2385,
+   "t0": 0,
+   "t1": 93,
+   "line": "But before his car pulled away, you heard him on the phone."
+  },
+  {
+   "shot": "S19",
+   "a": 2385,
+   "b": 2556,
+   "t0": 0,
+   "t1": 171,
+   "line": "'No. Not yet. But by day twenty, nobody will be able to stop him. '"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 35,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "By day twelve, your",
+   "note": "chapter 5 card, day 12"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 40,
+   "len": 58,
+   "first": 35,
+   "line": "face is on every news channel.",
+   "note": "your face on every news channel"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 90,
+   "len": 189,
+   "first": 93,
+   "line": "Scientists argue about you on TV. One says you're a hoax. Another says you're the most important person alive.",
+   "note": "scientists argue: hoax vs most important"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 40,
+   "len": 137,
+   "first": 282,
+   "line": "That afternoon, there's a black car parked outside your house, engine running. A",
+   "note": "black car outside, engine running"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 62,
+   "first": 419,
+   "line": "man in a grey suit rings the doorbell.",
+   "note": "a man in a grey suit rings the bell"
+  },
+  {
+   "id": "S6",
+   "size": "three-shot",
+   "key": 60,
+   "len": 168,
+   "first": 481,
+   "line": "Mum opens the door. He smiles at you over her shoulder. 'We've been watching your friend's videos. '",
+   "note": "Mum opens; he smiles: we've been watching"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
+   "key": 80,
+   "len": 156,
+   "first": 649,
+   "line": "He sits down at the kitchen table and does the maths out loud. 'Today, two hundred tonnes.",
+   "note": "kitchen table: the maths"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 50,
+   "len": 94,
+   "first": 805,
+   "line": "In ten more days, a cargo ship. And on day",
+   "note": "day 22: a cargo ship"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 60,
+   "len": 80,
+   "first": 899,
+   "line": "twenty- seven, the Great Pyramid of Giza. '",
+   "note": "day 27: the Great Pyramid"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 190,
+   "len": 250,
+   "first": 979,
+   "line": "That one's real too. The Great Pyramid weighs about six million tonnes. Fifty kilos, doubled twenty- seven times, is six point seven million.",
+   "note": "real: 6 vs 6.7 million tonnes"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 40,
+   "len": 161,
+   "first": 1229,
+   "line": "'We can help you, ' he says. 'Doctors. Control training. A safe place to live. '",
+   "note": "we can help you"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 20,
+   "len": 74,
+   "first": 1390,
+   "line": "He slides a contract across the table.",
+   "note": "the contract slides across"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 16,
+   "len": 65,
+   "first": 1464,
+   "line": "The table bends under your elbow.",
+   "note": "the table bends under your elbow"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 90,
+   "len": 149,
+   "first": 1529,
+   "line": "He knows things he shouldn't. Your shoe size. Your school. Which hand cracked.",
+   "note": "the folder: he knows too much"
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "key": 80,
+   "len": 223,
+   "first": 1678,
+   "line": "'And in return? ' He smiles again. 'In return, you help us. Ships. Rubble. Things no machine can move. '",
+   "note": "and in return? ships, rubble"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 60,
+   "len": 119,
+   "first": 1901,
+   "line": "He pauses. 'And a few things we'd rather not talk about in front of your mother. '",
+   "note": "things we'd rather not say in front of your mother"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "len": 170,
+   "first": 2020,
+   "line": "That night, Mo whispers through the phone. 'Bro. They don't want to help you. They want a weapon. '",
+   "note": "that night: Mo on the phone, a weapon"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 30,
+   "len": 102,
+   "first": 2190,
+   "line": "You told the man you needed time to think. He left a card.",
+   "note": "the card he left"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 93,
+   "first": 2292,
+   "line": "But before his car pulled away, you heard him on the phone.",
+   "note": "dusk: on the phone by his car"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 60,
+   "len": 171,
+   "first": 2385,
+   "line": "'No. Not yet. But by day twenty, nobody will be able to stop him. '",
+   "note": "nobody will be able to stop him"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c05/voice.wav"
+ }
 }
