@@ -1,0 +1,62 @@
+{
+ "id": "SlowLightC03",
+ "slug": "slow-light/c03",
+ "chapter": "The fun part",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c03 p1",
+   "text": "Hour one. Eight o'clock. Light is half as fast. Nobody notices. Your teacher's laser pointer still works. The bus is still late."
+  },
+  {
+   "beat": "c03 p2",
+   "text": "Only one group of people on Earth knows something is wrong. In a lab, a scientist checks her machine three times, then calls her boss. 'Either my equipment is broken,' she says, 'or the universe is.'"
+  },
+  {
+   "beat": "c03 p3",
+   "text": "Hour three. Ten o'clock. Every online game on Earth starts lagging at the same moment. Internet signals ride on light, in glass cables under the ocean. Your best friend Mo gets taken out in his game and throws his phone onto the bed. 'Lag! In the final round!'"
+  },
+  {
+   "beat": "c03 p4",
+   "text": "Then it starts to get dark. At eleven o'clock. In the morning. There isn't a single cloud. The Sun is still up there, it's just fading, like someone is turning down a dimmer switch."
+  },
+  {
+   "beat": "c03 p5",
+   "text": "The streetlights come on at lunchtime. Nobody knows what's happening, so the principal sends everyone home. Best. Day. Ever."
+  },
+  {
+   "beat": "c03 p6",
+   "text": "The whole street comes outside. Somebody fires up a barbecue. Your little sister Ellie calls it a darkness party. People take pictures of the sky, even though nobody can say what they're taking pictures of."
+  },
+  {
+   "beat": "c03 p7",
+   "text": "At five o'clock, you call Grandma on the other side of the world. You say hi. And then you wait. Almost a minute later, she says hi back. Talking to her is like sending letters."
+  },
+  {
+   "beat": "c03 p8",
+   "text": "By evening, the Sun is gone. And when Mo looks up at the sky, he asks the question nobody wants to answer. 'Wait. Where's the Moon?'"
+  },
+  {
+   "beat": "c03 p9",
+   "text": "The Moon was only ever a mirror for the Sun. And the Sun's light isn't coming back."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

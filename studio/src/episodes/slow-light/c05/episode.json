@@ -1,0 +1,73 @@
+{
+ "id": "SlowLightC05",
+ "slug": "slow-light/c05",
+ "chapter": "Someone notices",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c05 p1",
+   "text": "Hour twenty-five. Eight in the morning. Light is now slower than Usain Bolt. He ran a hundred meters in nine point five eight seconds. That's real. Today, light would lose that race."
+  },
+  {
+   "beat": "c05 p2",
+   "text": "There's no sunrise. Just a black sky and frost on every window."
+  },
+  {
+   "beat": "c05 p3",
+   "text": "Then a man in a suit walks down the middle of your street with a megaphone. Shouting is suddenly the fastest way to tell people anything. Sound beats light now."
+  },
+  {
+   "beat": "c05 p4",
+   "text": "'Listen to me. The government is opening shelters underground. Subway tunnels. Mines. Parking garages. Buses to the shelter leave the station at noon.'"
+  },
+  {
+   "beat": "c05 p5",
+   "text": "Why underground? A few meters under the surface, the ground stays about the same temperature all year round. Summer or winter, sun or no sun. That's real. Down there, people can survive the cold."
+  },
+  {
+   "beat": "c05 p6",
+   "text": "Mo's dad asks the question everybody is thinking. 'Is there room for everyone?'"
+  },
+  {
+   "beat": "c05 p7",
+   "text": "The man in the suit doesn't answer. He just lowers his megaphone. 'Be at the station by noon. The buses won't wait.'"
+  },
+  {
+   "beat": "c05 p8",
+   "text": "Then you remember. Your mom works the night shift at the hospital, across town. She never came home this morning. Her phone doesn't answer, because every message now crawls."
+  },
+  {
+   "beat": "c05 p9",
+   "text": "It's three kilometers to the hospital, and the buses leave at noon."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Usain Bolt ran 100 meters in 9.58 seconds.",
+   "working": "World record set in Berlin on 16 August 2009, an average of 10.4 m/s. In this story light falls to 8.9 m/s at hour 25 (299,792,458 / 2^25).",
+   "source": "World Athletics, 100 metres world records"
+  },
+  {
+   "claim": "A few meters underground, the ground stays at a fairly constant temperature all year.",
+   "working": "The US Department of Energy notes that a few feet below the surface the ground stays at a relatively constant temperature, which is what geothermal heat pumps use.",
+   "source": "US Department of Energy, Energy Saver: 'Geothermal Heat Pumps'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,70 @@
+{
+ "id": "SlowLightC06",
+ "slug": "slow-light/c06",
+ "chapter": "The choice",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c06 p1",
+   "text": "Mo grabs your arm. 'Come with us to the station. Your mom will find you there.' But what if she doesn't? What if she's waiting for you at home, and the buses leave without her?"
+  },
+  {
+   "beat": "c06 p2",
+   "text": "Ellie looks at you. She's waiting for you to decide."
+  },
+  {
+   "beat": "c06 p3",
+   "text": "You decide. You put Ellie on the back of your bike, and you ride the other way."
+  },
+  {
+   "beat": "c06 p4",
+   "text": "Hour twenty-six. Light is slower than your bike. Your bike light can't keep up with you. You are riding faster than your own beam, into the dark."
+  },
+  {
+   "beat": "c06 p5",
+   "text": "At the hospital, everything you see is old. You spot your mom at the end of a long hallway and run toward her. But when you get there, she's gone. You were looking at where she was a minute ago."
+  },
+  {
+   "beat": "c06 p6",
+   "text": "So you do the only thing that still works fast. You shout. 'Mom!'"
+  },
+  {
+   "beat": "c06 p7",
+   "text": "And from right behind you, she shouts back."
+  },
+  {
+   "beat": "c06 p8",
+   "text": "She hugs you both so hard it hurts. Then she looks at her watch. Eleven forty."
+  },
+  {
+   "beat": "c06 p9",
+   "text": "You ride like you've never ridden. At the station, you see the last bus still waiting at the stop. But that's old light. It already left."
+  },
+  {
+   "beat": "c06 p10",
+   "text": "Ellie screams. The sound reaches the bus before any light could. Its brakes squeal. The door opens. Mo is inside, waving like crazy."
+  },
+  {
+   "beat": "c06 p11",
+   "text": "The bus rolls down a ramp, into a tunnel, under the ground. Behind you, the city goes dark."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

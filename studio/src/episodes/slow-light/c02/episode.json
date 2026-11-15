@@ -1,0 +1,52 @@
+{
+ "id": "SlowLightC02",
+ "slug": "slow-light/c02",
+ "chapter": "The rules",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c02 p1",
+   "text": "Here's how it works. Light is the fastest thing in the universe. Three hundred thousand kilometers every second. Seven and a half times around the Earth in one blink. That's real."
+  },
+  {
+   "beat": "c02 p2",
+   "text": "Then, on a Monday morning at seven o'clock, it halves. And every hour after that, on the hour, it halves again."
+  },
+  {
+   "beat": "c02 p3",
+   "text": "The rules. Only light slows down, and everything that travels like light. Radio. Wi-Fi. Phone signals. GPS. Your body, electricity and everything made of atoms still work fine. Otherwise this would be a very short video."
+  },
+  {
+   "beat": "c02 p4",
+   "text": "And one more rule, the oldest one in physics. Everything you see has already happened. Light only ever shows you the past. Today, it's a billionth of a second ago. You'd never notice. Remember that rule. Because it's about to get very, very noticeable."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Light travels about 300,000 km every second, about 7.5 times around the Earth.",
+   "working": "The speed of light in vacuum is exactly 299,792,458 m/s by definition; Earth's equatorial circumference is 40,075 km, so 299,792/40,075 = 7.48 laps per second.",
+   "source": "NIST, 'Speed of light in vacuum' (CODATA); NASA Earth Fact Sheet"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF LIGHT",
+  "KEPT GETTING SLOWER?"
+ ]
+}

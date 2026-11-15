@@ -1,0 +1,54 @@
+{
+ "id": "SlowLightC07",
+ "slug": "slow-light/c07",
+ "chapter": "The mirror",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c07 p1",
+   "text": "Hour thirty-four. Deep underground. Light now crawls slower than an ant. The lamps are on, but when you lift your hand, you see it move two seconds later."
+  },
+  {
+   "beat": "c07 p2",
+   "text": "You find a bathroom with a mirror. You stand perfectly still. And you wait for your reflection to catch up."
+  },
+  {
+   "beat": "c07 p3",
+   "text": "It does. Then it smiles. You didn't smile."
+  },
+  {
+   "beat": "c07 p4",
+   "text": "Then your reflection slowly lifts its hand, and points at something behind you."
+  },
+  {
+   "beat": "c07 p5",
+   "text": "Light only ever shows you the past. That's the rule. So what is this mirror showing you?"
+  },
+  {
+   "beat": "c07 p6",
+   "text": "What would you do? Get on the bus, or go back for your mom? Tell me in the comments."
+  },
+  {
+   "beat": "c07 p7",
+   "text": "And is any of this real? The science is. Sunlight takes eight minutes to reach us. Without it, Earth freezes in a week. And GPS needs light to keep its speed. And what's in that mirror? You'll find out in part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

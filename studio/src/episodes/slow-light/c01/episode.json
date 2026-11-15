@@ -1,0 +1,50 @@
+{
+ "id": "SlowLightC01",
+ "slug": "slow-light/c01",
+ "chapter": "Cold open",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c01 p1",
+   "text": "You wave at your best friend across the street. He doesn't wave back. You wave again. Fifteen seconds later, he finally waves. Not because he's slow. Because the light from your hand took fifteen seconds to reach him."
+  },
+  {
+   "beat": "c01 p2",
+   "text": "You switch on a flashlight and start running. And you win. You beat the beam to the end of the street."
+  },
+  {
+   "beat": "c01 p3",
+   "text": "You look up at the sky. It's noon. There are no clouds. And the Sun is going out. Not exploding. Not moving. Its light just can't get here anymore."
+  },
+  {
+   "beat": "c01 p4",
+   "text": "What if light kept getting slower, every hour?"
+  },
+  {
+   "beat": "c01 p5",
+   "text": "At first, nobody even notices. Then it's the best day off school ever. And by tomorrow night, the only thing that matters is getting underground."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "id": "SlowLightC04",
+ "slug": "slow-light/c04",
+ "chapter": "The catch",
+ "topic": "What if light kept getting slower every hour?",
+ "script": [
+  {
+   "beat": "c04 p1",
+   "text": "Here's what happened. Sunlight takes about eight minutes and twenty seconds to reach us. That's real. But today, light was halving faster than it could make the trip. Any sunlight that left the Sun after about ten twenty this morning will never arrive. The Sun didn't go out. Earth just got cut off from it."
+  },
+  {
+   "beat": "c04 p2",
+   "text": "And sunlight isn't only light. It's heat. Almost all the warmth on Earth's surface comes from it. Scientists at Caltech worked out what happens without it. Within about a week, the surface drops below freezing. Within a year, to about minus seventy degrees. That's real."
+  },
+  {
+   "beat": "c04 p3",
+   "text": "No sunlight also means no plants growing. No crops. No food. Not this year, not ever."
+  },
+  {
+   "beat": "c04 p4",
+   "text": "Then the signals go. GPS satellites fly about twenty thousand kilometers up. That's real. Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes every hour. Every map on Earth points to the wrong place. Ships, planes and delivery trucks stop where they are."
+  },
+  {
+   "beat": "c04 p5",
+   "text": "At midnight, a phone call to the other side of the world takes almost two hours to arrive. The internet is still there. It just takes all night to load a page."
+  },
+  {
+   "beat": "c04 p6",
+   "text": "And at three in the morning, light becomes slower than sound. That's three hundred and forty meters a second. That's real. If you clapped your hands in the dark, you would hear the clap before you saw it."
+  },
+  {
+   "beat": "c04 p7",
+   "text": "Outside, it's already colder than any morning this time of year."
+  },
+  {
+   "beat": "c04 p8",
+   "text": "And every hour, it gets worse."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sunlight takes about 8 minutes 20 seconds to reach Earth.",
+   "working": "Mean Earth-Sun distance 149.6 million km / 299,792 km/s = 499 s = 8 min 19 s.",
+   "source": "NASA Space Place, 'How long does it take sunlight to reach Earth?'"
+  },
+  {
+   "claim": "Without sunlight Earth's surface would drop below freezing within about a week and to about -73 C (200 K) within a year.",
+   "working": "Caltech planetary scientist Dave Stevenson: within days to a week the surface cools below the freezing point of salty water; in a year or so it is below 200 K.",
+   "source": "Caltech, 'Question of the Month: If the Sun ceased to exist right now...' (Dave Stevenson, 1 July 1999)"
+  },
+  {
+   "claim": "GPS satellites orbit about 20,200 km up, and GPS works by timing radio signals that travel at the speed of light.",
+   "working": "The GPS constellation flies in medium Earth orbit at about 20,200 km; a receiver turns each signal's travel time into a distance using the speed of light.",
+   "source": "GPS.gov, 'Space Segment'; GPS.gov, 'How GPS works'"
+  },
+  {
+   "claim": "Sound travels about 343 m/s in air.",
+   "working": "Speed of sound in dry air at 20 C is about 343 m/s. In this story light passes below it at hour 20 (299,792 km/s / 2^20 = 286 m/s).",
+   "source": "NASA Glenn Research Center, 'Speed of Sound'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
