@@ -67,22 +67,39 @@
   }
  ],
  "youtube": {
-  "title": "What if you brought a modern car to ancient Rome?",
+  "title": "What If You Brought a Modern Car to Ancient Rome?",
   "tags": [
    "what if",
-   "animation",
-   "science"
+   "what if animation",
+   "ancient rome",
+   "modern car in ancient rome",
+   "time travel",
+   "time travel story",
+   "roman empire",
+   "emperor trajan",
+   "circus maximus",
+   "chariot race",
+   "appian way",
+   "apollodorus of damascus",
+   "history animation",
+   "animated story",
+   "what would happen if",
+   "roman history",
+   "alternate history",
+   "cliffhanger",
+   "fuel",
+   "car vs chariot"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "Three days after passing your driving test, you and your friend Mo drive into a tunnel and come out in Rome, in the year 113. Your car works perfectly. To the Romans it is a chariot of the gods. There is just one problem: every drop of fuel you burn is gone forever.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "RomeCarThumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "Give the car to the emperor or run for the tunnel? 👇 What would you do, and why?\n\nAnd who do you think made those other tyre tracks? Best theory gets pinned before Part 2.\n\nThe history is real: Julius Caesar banned most carts from Rome's streets by day, the Circus Maximus held around 150,000 people, and Europe didn't distill alcohol until about the 1100s. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2, and find out who made those tracks."
  }
 }
