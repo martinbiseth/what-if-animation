@@ -1,29 +1,286 @@
 {
  "slug": "aging-backwards/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1742,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 60,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 60,
+   "line": "The lab is white and silent. At"
+  },
+  {
+   "shot": "S2",
+   "a": 60,
+   "b": 147,
+   "t0": 0,
+   "t1": 87,
+   "line": "eleven fifty- nine, they slide you into the machine."
+  },
+  {
+   "shot": "S3",
+   "a": 147,
+   "b": 189,
+   "t0": 0,
+   "t1": 42,
+   "line": "Midnight comes. And"
+  },
+  {
+   "shot": "S4",
+   "a": 189,
+   "b": 276,
+   "t0": 0,
+   "t1": 87,
+   "line": "nothing happens. You're still six. For"
+  },
+  {
+   "shot": "S5",
+   "a": 276,
+   "b": 372,
+   "t0": 0,
+   "t1": 96,
+   "line": "the first time since this started, you didn't lose a year. The"
+  },
+  {
+   "shot": "S6",
+   "a": 372,
+   "b": 472,
+   "t0": 0,
+   "t1": 100,
+   "line": "scientists cheer. The man in the suit almost smiles."
+  },
+  {
+   "shot": "S7",
+   "a": 472,
+   "b": 585,
+   "t0": 0,
+   "t1": 113,
+   "line": "One year a month. You have time now. Years of it. Then"
+  },
+  {
+   "shot": "S8",
+   "a": 585,
+   "b": 676,
+   "t0": 0,
+   "t1": 91,
+   "line": "his phone buzzes. It's a photo, from your mom."
+  },
+  {
+   "shot": "S9",
+   "a": 676,
+   "b": 866,
+   "t0": 0,
+   "t1": 190,
+   "line": "Ellie, standing against the pencil marks on the kitchen door frame. Her newest mark is lower than the one from last week."
+  },
+  {
+   "shot": "S10",
+   "a": 866,
+   "b": 967,
+   "t0": 0,
+   "t1": 101,
+   "line": "Remember the rule? It only happens to you. Not anymore. So"
+  },
+  {
+   "shot": "S11",
+   "a": 967,
+   "b": 1015,
+   "t0": 0,
+   "t1": 48,
+   "line": "where did your year go? The"
+  },
+  {
+   "shot": "S12",
+   "a": 1015,
+   "b": 1194,
+   "t0": 0,
+   "t1": 179,
+   "line": "man in the suit is already on the phone. 'Turn the car around, ' he says. 'We need the sister. ' Is"
+  },
+  {
+   "shot": "S13",
+   "a": 1194,
+   "b": 1455,
+   "t0": 0,
+   "t1": 261,
+   "line": "any of this real? Kids really do grow about two inches a year. Babies really are born with about three hundred bones. And nobody really remembers being a baby. So"
+  },
+  {
+   "shot": "S14",
+   "a": 1455,
+   "b": 1569,
+   "t0": 0,
+   "t1": 114,
+   "line": "what would you do? Stay home for the last week, or go to the lab?"
+  },
+  {
+   "shot": "S15",
+   "a": 1569,
+   "b": 1612,
+   "t0": 0,
+   "t1": 43,
+   "line": "Tell me in the comments. And"
+  },
+  {
+   "shot": "S16",
+   "a": 1612,
+   "b": 1742,
+   "t0": 0,
+   "t1": 130,
+   "line": "subscribe, because in part two, we find out what's happening to Ellie."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 20,
+   "len": 60,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "The lab is white and silent. At",
+   "note": "the lab, white and silent"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 40,
+   "len": 87,
+   "first": 60,
+   "line": "eleven fifty- nine, they slide you into the machine.",
+   "note": "11:59: they slide you into the machine"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 42,
+   "first": 147,
+   "line": "Midnight comes. And",
+   "note": "12:00"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 40,
+   "len": 87,
+   "first": 189,
+   "line": "nothing happens. You're still six. For",
+   "note": "you in the machine: nothing happens"
+  },
+  {
+   "id": "S5",
+   "size": "big word",
+   "key": 30,
+   "len": 96,
+   "first": 276,
+   "line": "the first time since this started, you didn't lose a year. The",
+   "note": "STILL 6"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 50,
+   "len": 100,
+   "first": 372,
+   "line": "scientists cheer. The man in the suit almost smiles.",
+   "note": "the scientists cheer; the suit almost smiles"
+  },
+  {
+   "id": "S7",
+   "size": "big word",
+   "key": 40,
+   "len": 113,
+   "first": 472,
+   "line": "One year a month. You have time now. Years of it. Then",
+   "note": "1 YEAR A MONTH: TIME"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 40,
+   "len": 91,
+   "first": 585,
+   "line": "his phone buzzes. It's a photo, from your mom.",
+   "note": "his phone buzzes: a photo from mum"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 120,
+   "len": 190,
+   "first": 676,
+   "line": "Ellie, standing against the pencil marks on the kitchen door frame. Her newest mark is lower than the one from last week.",
+   "note": "Ellie at the door frame: her newest mark is lower"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "key": 70,
+   "len": 101,
+   "first": 866,
+   "line": "Remember the rule? It only happens to you. Not anymore. So",
+   "note": "IT ONLY HAPPENS TO YOU: crossed out"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 20,
+   "len": 48,
+   "first": 967,
+   "line": "where did your year go? The",
+   "note": "where did your year go?"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 120,
+   "len": 179,
+   "first": 1015,
+   "line": "man in the suit is already on the phone. 'Turn the car around, ' he says. 'We need the sister. ' Is",
+   "note": "the suit on the phone: we need the sister"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 200,
+   "len": 261,
+   "first": 1194,
+   "line": "any of this real? Kids really do grow about two inches a year. Babies really are born with about three hundred bones. And nobody really remembers being a baby. So",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 30,
+   "len": 114,
+   "first": 1455,
+   "line": "what would you do? Stay home for the last week, or go to the lab?",
+   "note": "STAY OR GO?"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 20,
+   "len": 43,
+   "first": 1569,
+   "line": "Tell me in the comments. And",
+   "note": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "id": "S16",
+   "size": "end card",
+   "key": 60,
+   "len": 130,
+   "first": 1612,
+   "line": "subscribe, because in part two, we find out what's happening to Ellie.",
+   "note": "PART 2: WHAT'S HAPPENING TO ELLIE?"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c07/voice.wav"
+ }
 }

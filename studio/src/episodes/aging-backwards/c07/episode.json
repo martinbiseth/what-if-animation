@@ -34,17 +34,181 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "lab",
+   "note": "the lab, white and silent",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "lab",
+   "note": "11:59: they slide you into the machine",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "lab clock",
+   "note": "12:00",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "lab",
+   "note": "you in the machine: nothing happens",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "big word",
+   "set": "lab",
+   "note": "STILL 6",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "lab",
+   "note": "the scientists cheer; the suit almost smiles",
+   "key": 50
+  },
+  {
+   "id": "S7",
+   "size": "big word",
+   "set": "card",
+   "note": "1 YEAR A MONTH: TIME",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "phone",
+   "note": "his phone buzzes: a photo from mum",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "photo",
+   "note": "Ellie at the door frame: her newest mark is lower",
+   "key": 120
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "card",
+   "note": "IT ONLY HAPPENS TO YOU: crossed out",
+   "key": 70
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "lab",
+   "note": "where did your year go?",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "lab",
+   "note": "the suit on the phone: we need the sister",
+   "key": 120
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "is any of this real?",
+   "key": 200
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "card",
+   "note": "STAY OR GO?",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "card",
+   "note": "TELL ME IN THE COMMENTS",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "end card",
+   "set": "door frame",
+   "note": "PART 2: WHAT'S HAPPENING TO ELLIE?",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "eleven"
+  },
+  {
+   "shot": "S3",
+   "at": "Midnight"
+  },
+  {
+   "shot": "S4",
+   "at": "nothing"
+  },
+  {
+   "shot": "S5",
+   "at": "first"
+  },
+  {
+   "shot": "S6",
+   "at": "scientists"
+  },
+  {
+   "shot": "S7",
+   "at": "One"
+  },
+  {
+   "shot": "S8",
+   "at": "phone"
+  },
+  {
+   "shot": "S9",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S10",
+   "at": "Remember"
+  },
+  {
+   "shot": "S11",
+   "at": "where"
+  },
+  {
+   "shot": "S12",
+   "at": "man"
+  },
+  {
+   "shot": "S13",
+   "at": "any"
+  },
+  {
+   "shot": "S14",
+   "at": "what"
+  },
+  {
+   "shot": "S15",
+   "at": "Tell"
+  },
+  {
+   "shot": "S16",
+   "at": "subscribe"
   }
  ],
- "end": "f:90",
  "fx": []
 }
