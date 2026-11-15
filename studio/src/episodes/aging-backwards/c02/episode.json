@@ -1,0 +1,58 @@
+{
+ "id": "AgingBackwardsC02",
+ "slug": "aging-backwards/c02",
+ "chapter": "The rule",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "the rule",
+   "text": "Here are the rules. Every night at exactly midnight, you lose one year. Not your memories. Just your body. Your height, your voice, your bones, your face. All of it rewinds one year."
+  },
+  {
+   "beat": "staying awake",
+   "text": "You can't stop it by staying awake. You try that on the second night. The clock hits twelve, and you feel it. Your sleeves get longer. Your feet slide around in your socks. It takes about four seconds."
+  },
+  {
+   "beat": "the cures",
+   "text": "Mo suggests a cold shower. Your mom suggests a doctor. Ellie suggests you just don't fall asleep, which is exactly what you just tried. Nothing works."
+  },
+  {
+   "beat": "only you",
+   "text": "And it only happens to you. Your mom keeps getting older. Mo keeps getting older. Ellie is eight, and she keeps getting older too."
+  },
+  {
+   "beat": "the math",
+   "text": "You do the math on the back of your homework. Fourteen years old. One year a night. That's fourteen nights. Then you hit zero."
+  },
+  {
+   "beat": "zero",
+   "text": "Nobody knows what happens at zero."
+  },
+  {
+   "beat": "plant",
+   "text": "So remember the rule. It only happens to you. Because near the end of this story, that rule breaks."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU AGED",
+  "BACKWARDS?"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "AgingBackwardsC05",
+ "slug": "aging-backwards/c05",
+ "chapter": "Someone notices",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "the x-ray",
+   "text": "Day eight is also the day your mom stops pretending this is fine. She takes you to the doctor and the doctor x-rays your hand. Doctors can tell how old a child is from the growth plates in their hand bones. It's called a bone age test. That's real."
+  },
+  {
+   "beat": "two x-rays",
+   "text": "Your bone age yesterday: eight. Your bone age today: seven. The doctor stares at the two x-rays for a very long time. Then she leaves the room. And when the door opens again, it isn't her."
+  },
+  {
+   "beat": "the suit",
+   "text": "It's a man in a gray suit. He doesn't say his name. He just sits down at your eye level, which these days is pretty low. 'We've been watching cases like yours,' he says. 'There have been others. Three, in forty years.'"
+  },
+  {
+   "beat": "the others",
+   "text": "'What happened to them?' He doesn't answer that."
+  },
+  {
+   "beat": "the offer",
+   "text": "Instead, he slides a folder across the desk. A lab, two hours north. Doctors. Machines. A treatment that has never been tried on a person. 'We think we can slow it down,' he says. 'One year a month instead of one year a night. That buys you years to find a cure.'"
+  },
+  {
+   "beat": "the price",
+   "text": "'And if I come with you?' 'Then you come tonight. And you stay. No visits. No calls. You have until midnight to decide.'"
+  },
+  {
+   "beat": "the window",
+   "text": "Through the window, you can see your mom in the parking lot with Ellie. Ellie is drawing on the foggy car window with her finger. It's you and her, holding hands. You have seven nights left."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Doctors estimate a child's age from the growth plates in an X-ray of the hand: a bone age test.",
+   "working": "A left hand and wrist X-ray is compared with standards (Greulich and Pyle atlas).",
+   "source": "Nemours KidsHealth, 'Bone Age Study'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

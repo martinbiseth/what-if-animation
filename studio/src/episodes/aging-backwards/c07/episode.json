@@ -1,0 +1,50 @@
+{
+ "id": "AgingBackwardsC07",
+ "slug": "aging-backwards/c07",
+ "chapter": "The rule breaks",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "the machine",
+   "text": "The lab is white and silent. At eleven fifty-nine, they slide you into the machine."
+  },
+  {
+   "beat": "nothing",
+   "text": "Midnight comes. And nothing happens. You're still six. For the first time since this started, you didn't lose a year. The scientists cheer. The man in the suit almost smiles. One year a month. You have time now. Years of it."
+  },
+  {
+   "beat": "the photo",
+   "text": "Then his phone buzzes. It's a photo, from your mom. Ellie, standing against the pencil marks on the kitchen door frame. Her newest mark is lower than the one from last week."
+  },
+  {
+   "beat": "the rule breaks",
+   "text": "Remember the rule? It only happens to you. Not anymore. So where did your year go? The man in the suit is already on the phone. 'Turn the car around,' he says. 'We need the sister.'"
+  },
+  {
+   "beat": "is it real",
+   "text": "Is any of this real? Kids really do grow about two inches a year. Babies really are born with about three hundred bones. And nobody really remembers being a baby."
+  },
+  {
+   "beat": "ask",
+   "text": "So what would you do? Stay home for the last week, or go to the lab? Tell me in the comments. And subscribe, because in part two, we find out what's happening to Ellie."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

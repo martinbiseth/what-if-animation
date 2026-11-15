@@ -1,0 +1,75 @@
+{
+ "id": "AgingBackwardsC04",
+ "slug": "aging-backwards/c04",
+ "chapter": "The catch",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "un-build",
+   "text": "Here's the problem with going backwards. Your body doesn't just shrink. It un-builds."
+  },
+  {
+   "beat": "fact: height",
+   "text": "Between age four and the start of puberty, kids grow about five to six centimeters a year. That's real. So every midnight, you lose about two inches. Your clothes don't fit. Your bike doesn't fit. By day eight, you need a step stool to reach the sink in your own bathroom."
+  },
+  {
+   "beat": "fact: bones",
+   "text": "Then your bones. A newborn baby has around three hundred bones. An adult has two hundred and six. That's real. As you grow up, bones fuse together. Going backwards, they come apart again. Your skull. Your hips. The bottom of your spine. Every night, a little more of you comes undone."
+  },
+  {
+   "beat": "the clothes",
+   "text": "Your mom buys new clothes every two days. Smaller every time. Ellie starts wearing your old hoodies. They fit her better than they fit you now."
+  },
+  {
+   "beat": "fact: brain",
+   "text": "And then the one nobody wants to talk about. Your brain. By age six, it's already about ninety percent of its adult size. Before that, it grows faster than at any other time in your life. Going backwards, that means it shrinks faster too."
+  },
+  {
+   "beat": "fact: memory",
+   "text": "There's a reason most adults can't remember anything from before about age three. That's real too. A brain that young just doesn't keep memories the way an older one does. So right now, you remember everything. Fifteen years. Mo. Your mom. Ellie. But a three-year-old's brain can't hold all of that."
+  },
+  {
+   "beat": "big sister",
+   "text": "Day eight. You're seven. Ellie is eight. At dinner, she cuts your food for you. At bedtime, she reads you a story, doing all the voices, the way you used to read to her. And that night, you realize something terrible. Your little sister is now your big sister."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Between about age 4 and puberty, children grow about 5-6 cm (2-2.5 in) a year.",
+   "working": "Average childhood growth velocity after age 3-4 and before the pubertal growth spurt is about 5-6 cm per year (2-2.5 inches).",
+   "source": "Cleveland Clinic, 'Growth Plate Fractures / Child growth'; CDC growth charts; Nemours KidsHealth, 'Growth and Your 6- to 12-Year-Old'"
+  },
+  {
+   "claim": "A newborn has around 300 bones; an adult has 206.",
+   "working": "Many bones, e.g. in the skull, pelvis and sacrum, start as separate pieces (bone and cartilage) and fuse during growth.",
+   "source": "Library of Congress, Everyday Mysteries: 'Why do babies have more bones than adults?'"
+  },
+  {
+   "claim": "By age 6 the brain is about 90% of its adult size.",
+   "working": "Brain volume reaches roughly 90% of adult volume by about age 6.",
+   "source": "Lenroot & Giedd, 'Brain development in children and adolescents: insights from anatomical MRI', Neuroscience & Biobehavioral Reviews 30(6), 2006"
+  },
+  {
+   "claim": "Most adults can't remember anything from before about age 3 (childhood amnesia).",
+   "working": "The mean age of earliest memories in a survey of 6,641 adults was 3.2 years.",
+   "source": "Akhtar, Justice, Morrison & Conway, 'Fictional first memories', Psychological Science 29(10), 2018"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

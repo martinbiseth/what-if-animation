@@ -1,0 +1,66 @@
+{
+ "id": "AgingBackwardsC01",
+ "slug": "aging-backwards/c01",
+ "chapter": "The morning you got younger",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "the pants",
+   "text": "Seven AM. Your alarm goes off. You roll out of bed, and your pajama pants slide straight down to your ankles."
+  },
+  {
+   "beat": "the mirror",
+   "text": "In the bathroom mirror, the zit on your chin is gone. So is the scar on your knee from the bike crash last summer."
+  },
+  {
+   "beat": "Face ID",
+   "text": "You grab your phone. Face ID doesn't recognize you. Three tries. Enter passcode."
+  },
+  {
+   "beat": "the voice crack",
+   "text": "At breakfast, you say good morning, and your voice cracks. Upward. Your little sister Ellie spits out her cereal."
+  },
+  {
+   "beat": "the shoes",
+   "text": "Mo texts you. Bus in five. You run outside, and your sneakers are half a size too big."
+  },
+  {
+   "beat": "the door frame",
+   "text": "Your mom checks your height against the pencil marks on the kitchen door frame. You're not at last night's mark. You're at the mark from exactly one year ago."
+  },
+  {
+   "beat": "the count",
+   "text": "Yesterday you were fifteen. Today you're fourteen. And tonight, at midnight, it happens again."
+  },
+  {
+   "beat": "premise",
+   "text": "What if you aged backwards, and couldn't stop?"
+  },
+  {
+   "beat": "button",
+   "text": "At first, it sounds like a superpower. But every clock counts down to something. And yours just started."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "AgingBackwardsC06",
+ "slug": "aging-backwards/c06",
+ "chapter": "The choice",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "awake",
+   "text": "That night, you don't sleep. You don't want to waste a single hour."
+  },
+  {
+   "beat": "Ellie",
+   "text": "Ellie climbs into your bed, the way you used to climb into hers. Except that never happened. It just feels like it did now. 'Are you going away?' she asks."
+  },
+  {
+   "beat": "the truth",
+   "text": "You tell her the truth. If you stay, you get one more week. Every day smaller. Every night forgetting a little more. And then nobody knows. If you go, you might get years. But you don't see her. Not her birthday. Not her first day at her new school. Maybe not ever."
+  },
+  {
+   "beat": "go",
+   "text": "Ellie thinks about it for a long time, which for an eight-year-old is about nine seconds. 'Go,' she says. 'If you go, then when I'm big, you'll still be my brother.'"
+  },
+  {
+   "beat": "the rabbit",
+   "text": "She gives you her stuffed rabbit, the one she's had since she was a baby. 'He sleeps all day,' she says. 'Like babies.' She's right. Newborns sleep fourteen to seventeen hours a day. That's real. She just doesn't want you to sleep alone."
+  },
+  {
+   "beat": "the car",
+   "text": "At five to midnight, a black car waits outside with its headlights off. You hug your mom. You hug Mo, who's pretending not to cry and is really bad at it. And Ellie stands at the window, waving, until the car turns the corner."
+  },
+  {
+   "beat": "the street",
+   "text": "In the back seat, you hold the rabbit and watch your street slide by. Your house. The roof where you made the list. Mo's bike, lying on the lawn."
+  },
+  {
+   "beat": "midnight",
+   "text": "Midnight. You feel the shift. Six years old."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Newborns sleep 14 to 17 hours a day.",
+   "working": "Recommended sleep for newborns (0-3 months) is 14-17 hours per 24 hours.",
+   "source": "Hirshkowitz et al., 'National Sleep Foundation's sleep time duration recommendations', Sleep Health 1(1), 2015"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

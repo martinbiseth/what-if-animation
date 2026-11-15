@@ -1,0 +1,62 @@
+{
+ "id": "AgingBackwardsC03",
+ "slug": "aging-backwards/c03",
+ "chapter": "The fun part",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "script": [
+  {
+   "beat": "fourteen",
+   "text": "Day one. You're fourteen again, and honestly, fourteen was a good year. Your knee doesn't hurt. Your skin is perfect. You eat a whole pizza and feel nothing."
+  },
+  {
+   "beat": "the test",
+   "text": "You take the history test you already took last year. You remember every answer. A plus. Your teacher thinks you cheated. You didn't. You just did it twice."
+  },
+  {
+   "beat": "soccer",
+   "text": "Day three. You're twelve. Mo signs you up for his little cousin's soccer team. A twelve-year-old body with a fifteen-year-old brain. You score six goals. The other coach demands to see your birth certificate. Your mom shows it to him. He reads it three times. It doesn't help."
+  },
+  {
+   "beat": "kids price",
+   "text": "At the movies, you pay the kids' price. At the diner, you get the kids' menu, with crayons. Mo pays full price, and he is furious about it."
+  },
+  {
+   "beat": "the bike",
+   "text": "Day four. You're eleven. Your old bike fits perfectly again. The red one, with the stickers. You and Mo ride to the lake, and for one whole afternoon it's exactly like being a kid. Because you are one."
+  },
+  {
+   "beat": "grandma",
+   "text": "Day five. You're ten. Grandma comes over and cries, because you look exactly like your old school photo on her fridge. She pinches your cheeks for an hour. You let her."
+  },
+  {
+   "beat": "the list",
+   "text": "That night, you and Mo sit on the roof and make a list. Things you're allowed to do again. Ride the kiddie rides. Get carried when you're tired. Eat dessert first, because who's going to stop a ten-year-old?"
+  },
+  {
+   "beat": "Mo",
+   "text": "'Okay,' Mo says. 'This is the coolest thing that has ever happened to anybody I know.'"
+  },
+  {
+   "beat": "the hatch",
+   "text": "Then you stand up to go inside, and you can't reach the handle on the roof hatch anymore. Mo has to open it for you. That's when it stops being funny."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,88 @@
+{
+ "id": "AgingBackwards",
+ "slug": "aging-backwards",
+ "topic": "What if you aged backwards and couldn't stop?",
+ "title": [
+  "WHAT IF YOU AGED",
+  "BACKWARDS?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "The morning you got younger",
+   "words": 164
+  },
+  {
+   "slug": "c02",
+   "name": "The rule",
+   "words": 170
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 286
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 285
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 246
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 250
+  },
+  {
+   "slug": "c07",
+   "name": "The rule breaks",
+   "words": 188
+  }
+ ],
+ "youtube": {
+  "title": "What if you aged backwards and couldn't stop?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}
