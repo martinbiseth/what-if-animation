@@ -350,5 +350,155 @@
    "at": "And"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "flash_old": [
+    "a vintage camera flash going off, a sharp pop and a quick electric whine",
+    1.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S2+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S3+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S6+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S8+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S9+0",
+    "knock",
+    0.7
+   ],
+   [
+    "S11+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S13+0",
+    "cookie_crunch",
+    0.4
+   ],
+   [
+    "S14+0",
+    "step",
+    0.3
+   ],
+   [
+    "S16+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S17+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S21+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S22+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S24+0",
+    "thud",
+    0.5
+   ],
+   [
+    "S26+0",
+    "flash_old",
+    0.6
+   ],
+   [
+    "S27+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S28+0",
+    "whoosh",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12
+  }
+ }
 }

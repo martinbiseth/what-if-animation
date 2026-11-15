@@ -251,5 +251,127 @@
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S4+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S5+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S6+0",
+    "glitch",
+    0.6
+   ],
+   [
+    "S7+0",
+    "title_boom",
+    0.9,
+    "peak"
+   ],
+   [
+    "S9+0",
+    "wind",
+    0.35,
+    "onset",
+    "S11"
+   ],
+   [
+    "S10+0",
+    "thud",
+    0.4
+   ],
+   [
+    "S12+0",
+    "fall_whoosh",
+    0.4
+   ],
+   [
+    "S13+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S14+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S15+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S17+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S19+0",
+    "counter_tick",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S5"
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12
+  }
  }
 }

@@ -2,167 +2,167 @@
  "slug": "rome-car/c07",
  "title": " ",
  "fps": 30,
- "total": 2571,
+ "total": 1788,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 68,
+   "b": 45,
    "t0": 0,
-   "t1": 68,
-   "line": "The fuel light comes on"
+   "t1": 45,
+   "line": "The fuel light comes on."
   },
   {
    "shot": "S2",
-   "a": 68,
-   "b": 143,
+   "a": 45,
+   "b": 117,
    "t0": 0,
-   "t1": 75,
-   "line": "Ten kilometers left Five"
+   "t1": 72,
+   "line": "Ten kilometers left. Five."
   },
   {
    "shot": "S3",
-   "a": 143,
-   "b": 348,
+   "a": 117,
+   "b": 247,
    "t0": 0,
-   "t1": 205,
-   "line": "Then the engine coughs and dies right at the foot of the hill where you arrived"
+   "t1": 130,
+   "line": "Then the engine coughs, and dies, right at the foot of the hill where you arrived."
   },
   {
    "shot": "S4",
-   "a": 348,
-   "b": 493,
+   "a": 247,
+   "b": 347,
    "t0": 0,
-   "t1": 145,
-   "line": "You turn the key again Nothing Not even a click"
+   "t1": 100,
+   "line": "You turn the key again. Nothing. Not even a click."
   },
   {
    "shot": "S5",
-   "a": 493,
-   "b": 654,
+   "a": 347,
+   "b": 454,
    "t0": 0,
-   "t1": 161,
-   "line": "The tunnel is gone It's just a hillside Grass and rocks"
+   "t1": 107,
+   "line": "The tunnel is gone. It's just a hillside. Grass and rocks."
   },
   {
    "shot": "S6",
-   "a": 654,
-   "b": 903,
+   "a": 454,
+   "b": 621,
    "t0": 0,
-   "t1": 249,
-   "line": "Behind you far away a line of torches is coming down the road You can already hear the horses"
+   "t1": 167,
+   "line": "Behind you, far away, a line of torches is coming down the road. You can already hear the horses."
   },
   {
    "shot": "S7",
-   "a": 903,
-   "b": 1071,
+   "a": 621,
+   "b": 734,
    "t0": 0,
-   "t1": 168,
-   "line": "Mo gets out first Then he freezes He points at the ground"
+   "t1": 113,
+   "line": "Mo gets out first. Then he freezes. He points at the ground."
   },
   {
    "shot": "S8",
-   "a": 1071,
-   "b": 1245,
+   "a": 734,
+   "b": 872,
    "t0": 0,
-   "t1": 174,
-   "line": "Tire tracks In the dust Fresh ones And they're not yours"
+   "t1": 138,
+   "line": "Tire tracks. In the dust. Fresh ones. And they're not yours."
   },
   {
    "shot": "S9",
-   "a": 1245,
-   "b": 1309,
+   "a": 872,
+   "b": 913,
    "t0": 0,
-   "t1": 64,
-   "line": "The pattern is different"
+   "t1": 41,
+   "line": "The pattern is different."
   },
   {
    "shot": "S10",
-   "a": 1309,
-   "b": 1435,
+   "a": 913,
+   "b": 998,
    "t0": 0,
-   "t1": 126,
-   "line": "Then from somewhere over the hill you hear it"
+   "t1": 85,
+   "line": "Then, from somewhere over the hill, you hear it."
   },
   {
    "shot": "S11",
-   "a": 1435,
-   "b": 1548,
+   "a": 998,
+   "b": 1093,
    "t0": 0,
-   "t1": 113,
-   "line": "Faint but impossible to miss An engine"
+   "t1": 95,
+   "line": "Faint, but impossible to miss. An engine."
   },
   {
    "shot": "S12",
-   "a": 1548,
-   "b": 1626,
+   "a": 1093,
+   "b": 1146,
    "t0": 0,
-   "t1": 78,
-   "line": "You were never the only one"
+   "t1": 53,
+   "line": "You were never the only one."
   },
   {
    "shot": "S13",
-   "a": 1626,
-   "b": 1824,
+   "a": 1146,
+   "b": 1271,
    "t0": 0,
-   "t1": 198,
-   "line": "So what would you do Give the car to the emperor or run for the tunnel"
+   "t1": 125,
+   "line": "So what would you do? Give the car to the emperor, or run for the tunnel?"
   },
   {
    "shot": "S14",
-   "a": 1824,
-   "b": 1891,
+   "a": 1271,
+   "b": 1312,
    "t0": 0,
-   "t1": 67,
-   "line": "Tell me in the comments"
+   "t1": 41,
+   "line": "Tell me in the comments."
   },
   {
    "shot": "S15",
-   "a": 1891,
-   "b": 2008,
+   "a": 1312,
+   "b": 1390,
    "t0": 0,
-   "t1": 117,
-   "line": "And is any of this real The history is"
+   "t1": 78,
+   "line": "And is any of this real? The history is."
   },
   {
    "shot": "S16",
-   "a": 2008,
-   "b": 2094,
+   "a": 1390,
+   "b": 1457,
    "t0": 0,
-   "t1": 86,
-   "line": "Caesar really banned carts by day"
+   "t1": 67,
+   "line": "Caesar really banned carts by day."
   },
   {
    "shot": "S17",
-   "a": 2094,
-   "b": 2246,
+   "a": 1457,
+   "b": 1561,
    "t0": 0,
-   "t1": 152,
-   "line": "The Circus Maximus really held a hundred and fifty thousand people"
+   "t1": 104,
+   "line": "The Circus Maximus really held a hundred and fifty thousand people."
   },
   {
    "shot": "S18",
-   "a": 2246,
-   "b": 2404,
+   "a": 1561,
+   "b": 1665,
    "t0": 0,
-   "t1": 158,
-   "line": "And nobody in Europe could distill alcohol for another thousand years"
+   "t1": 104,
+   "line": "And nobody in Europe could distill alcohol for another thousand years."
   },
   {
    "shot": "S19",
-   "a": 2404,
-   "b": 2479,
+   "a": 1665,
+   "b": 1723,
    "t0": 0,
-   "t1": 75,
-   "line": "And whoever made those tracks"
+   "t1": 58,
+   "line": "And whoever made those tracks?"
   },
   {
    "shot": "S20",
-   "a": 2479,
-   "b": 2571,
+   "a": 1723,
+   "b": 1788,
    "t0": 0,
-   "t1": 92,
-   "line": "You'll find out in part two"
+   "t1": 65,
+   "line": "You'll find out in part two."
   }
  ],
  "shots": [
@@ -170,183 +170,190 @@
    "id": "S1",
    "size": "insert",
    "key": 20,
-   "len": 68,
+   "len": 45,
    "first": 0,
-   "line": "The fuel light comes on",
+   "line": "The fuel light comes on.",
    "note": "the fuel light comes on"
   },
   {
    "id": "S2",
    "size": "insert",
    "key": 20,
-   "len": 75,
-   "first": 68,
-   "line": "Ten kilometers left Five",
+   "len": 72,
+   "first": 45,
+   "line": "Ten kilometers left. Five.",
    "note": "range 10 km, then 5"
   },
   {
    "id": "S3",
    "size": "wide",
    "key": 20,
-   "len": 205,
-   "first": 143,
-   "line": "Then the engine coughs and dies right at the foot of the hill where you arrived",
+   "len": 130,
+   "first": 117,
+   "line": "Then the engine coughs, and dies, right at the foot of the hill where you arrived.",
    "note": "the engine coughs and dies"
   },
   {
    "id": "S4",
    "size": "close",
    "key": 20,
-   "len": 145,
-   "first": 348,
-   "line": "You turn the key again Nothing Not even a click",
+   "len": 100,
+   "first": 247,
+   "line": "You turn the key again. Nothing. Not even a click.",
    "note": "you turn the key: nothing"
   },
   {
    "id": "S5",
    "size": "wide",
    "key": 20,
-   "len": 161,
-   "first": 493,
-   "line": "The tunnel is gone It's just a hillside Grass and rocks",
+   "len": 107,
+   "first": 347,
+   "line": "The tunnel is gone. It's just a hillside. Grass and rocks.",
    "note": "the tunnel is gone: just a hillside"
   },
   {
    "id": "S6",
    "size": "wide",
    "key": 20,
-   "len": 249,
-   "first": 654,
-   "line": "Behind you far away a line of torches is coming down the road You can already hear the horses",
+   "len": 167,
+   "first": 454,
+   "line": "Behind you, far away, a line of torches is coming down the road. You can already hear the horses.",
    "note": "torches coming down the road"
   },
   {
    "id": "S7",
    "size": "medium",
    "key": 20,
-   "len": 168,
-   "first": 903,
-   "line": "Mo gets out first Then he freezes He points at the ground",
+   "len": 113,
+   "first": 621,
+   "line": "Mo gets out first. Then he freezes. He points at the ground.",
    "note": "Mo gets out, freezes, points"
   },
   {
    "id": "S8",
    "size": "insert",
    "key": 20,
-   "len": 174,
-   "first": 1071,
-   "line": "Tire tracks In the dust Fresh ones And they're not yours",
+   "len": 138,
+   "first": 734,
+   "line": "Tire tracks. In the dust. Fresh ones. And they're not yours.",
    "note": "fresh tyre tracks in the dust"
   },
   {
    "id": "S9",
    "size": "insert",
    "key": 20,
-   "len": 64,
-   "first": 1245,
-   "line": "The pattern is different",
+   "len": 41,
+   "first": 872,
+   "line": "The pattern is different.",
    "note": "the tread is different"
   },
   {
    "id": "S10",
    "size": "close",
    "key": 20,
-   "len": 126,
-   "first": 1309,
-   "line": "Then from somewhere over the hill you hear it",
+   "len": 85,
+   "first": 913,
+   "line": "Then, from somewhere over the hill, you hear it.",
    "note": "you hear it"
   },
   {
    "id": "S11",
    "size": "wide",
    "key": 20,
-   "len": 113,
-   "first": 1435,
-   "line": "Faint but impossible to miss An engine",
+   "len": 95,
+   "first": 998,
+   "line": "Faint, but impossible to miss. An engine.",
    "note": "headlights glow beyond the crest"
   },
   {
    "id": "S12",
    "size": "insert",
    "key": 20,
-   "len": 78,
-   "first": 1548,
-   "line": "You were never the only one",
+   "len": 53,
+   "first": 1093,
+   "line": "You were never the only one.",
    "note": "YOU WERE NEVER THE ONLY ONE"
   },
   {
    "id": "S13",
    "size": "insert",
    "key": 20,
-   "len": 198,
-   "first": 1626,
-   "line": "So what would you do Give the car to the emperor or run for the tunnel",
+   "len": 125,
+   "first": 1146,
+   "line": "So what would you do? Give the car to the emperor, or run for the tunnel?",
    "note": "give it up, or run?"
   },
   {
    "id": "S14",
    "size": "close",
    "key": 20,
-   "len": 67,
-   "first": 1824,
-   "line": "Tell me in the comments",
+   "len": 41,
+   "first": 1271,
+   "line": "Tell me in the comments.",
    "note": "tell me in the comments"
   },
   {
    "id": "S15",
    "size": "insert",
    "key": 20,
-   "len": 117,
-   "first": 1891,
-   "line": "And is any of this real The history is",
+   "len": 78,
+   "first": 1312,
+   "line": "And is any of this real? The history is.",
    "note": "IS ANY OF THIS REAL?"
   },
   {
    "id": "S16",
    "size": "insert",
    "key": 20,
-   "len": 86,
-   "first": 2008,
-   "line": "Caesar really banned carts by day",
+   "len": 67,
+   "first": 1390,
+   "line": "Caesar really banned carts by day.",
    "note": "45 BC: carts banned by day"
   },
   {
    "id": "S17",
    "size": "insert",
    "key": 20,
-   "len": 152,
-   "first": 2094,
-   "line": "The Circus Maximus really held a hundred and fifty thousand people",
+   "len": 104,
+   "first": 1457,
+   "line": "The Circus Maximus really held a hundred and fifty thousand people.",
    "note": "Circus Maximus: 150,000"
   },
   {
    "id": "S18",
    "size": "insert",
    "key": 20,
-   "len": 158,
-   "first": 2246,
-   "line": "And nobody in Europe could distill alcohol for another thousand years",
+   "len": 104,
+   "first": 1561,
+   "line": "And nobody in Europe could distill alcohol for another thousand years.",
    "note": "distilling: 1100s"
   },
   {
    "id": "S19",
    "size": "wide",
    "key": 20,
-   "len": 75,
-   "first": 2404,
-   "line": "And whoever made those tracks",
+   "len": 58,
+   "first": 1665,
+   "line": "And whoever made those tracks?",
    "note": "the tracks lead over the hill"
   },
   {
    "id": "S20",
    "size": "insert",
    "key": 20,
-   "len": 92,
-   "first": 2479,
-   "line": "You'll find out in part two",
+   "len": 65,
+   "first": 1723,
+   "line": "You'll find out in part two.",
    "note": "part two"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "rome-car/c07/voice.wav",
+  "sfx": "rome-car/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2388,
+  "music": "rome-car/c07/music.wav",
+  "musicVol": 0.0908
+ }
 }

@@ -358,5 +358,97 @@
    "at": "look"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S3+0",
+    "gasp",
+    0.6
+   ],
+   [
+    "S5+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S8+0",
+    "gasp",
+    0.5
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S15+0",
+    "cheer",
+    0.5
+   ],
+   [
+    "S18+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S20+0",
+    "cheer",
+    0.6
+   ],
+   [
+    "S23+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S26+0",
+    "counter_tick",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12.5
+  }
+ }
 }

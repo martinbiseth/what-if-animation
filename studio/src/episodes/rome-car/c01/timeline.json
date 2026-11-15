@@ -2,159 +2,159 @@
  "slug": "rome-car/c01",
  "title": " ",
  "fps": 30,
- "total": 2027,
+ "total": 1360,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 72,
+   "b": 46,
    "t0": 0,
-   "t1": 72,
-   "line": "Eight forty in the morning"
+   "t1": 46,
+   "line": "Eight forty in the morning."
   },
   {
    "shot": "S2",
-   "a": 72,
-   "b": 96,
+   "a": 46,
+   "b": 58,
    "t0": 0,
-   "t1": 24,
-   "line": "You've had"
+   "t1": 12,
+   "line": "You've"
   },
   {
    "shot": "S3",
-   "a": 96,
-   "b": 359,
+   "a": 58,
+   "b": 228,
    "t0": 0,
-   "t1": 263,
-   "line": "your driver's license for exactly three days Your best friend Mo is in the passenger seat picking the music"
+   "t1": 170,
+   "line": "had your driver's license for exactly three days. Your best friend Mo is in the passenger seat, picking the music."
   },
   {
    "shot": "S4",
-   "a": 359,
-   "b": 426,
+   "a": 228,
+   "b": 274,
    "t0": 0,
-   "t1": 67,
-   "line": "You drive into a tunnel"
+   "t1": 46,
+   "line": "You drive into a tunnel."
   },
   {
    "shot": "S5",
-   "a": 426,
-   "b": 542,
+   "a": 274,
+   "b": 352,
    "t0": 0,
-   "t1": 116,
-   "line": "Halfway through the radio turns to static The"
+   "t1": 78,
+   "line": "Halfway through, the radio turns to static."
   },
   {
    "shot": "S6",
-   "a": 542,
-   "b": 650,
+   "a": 352,
+   "b": 413,
    "t0": 0,
-   "t1": 108,
-   "line": "lights in the tunnel flicker Then there's a"
+   "t1": 61,
+   "line": "The lights in the tunnel flicker. Then there's"
   },
   {
    "shot": "S7",
-   "a": 650,
-   "b": 668,
+   "a": 413,
+   "b": 433,
    "t0": 0,
-   "t1": 18,
-   "line": "flash"
+   "t1": 20,
+   "line": "a flash,"
   },
   {
    "shot": "S8",
-   "a": 668,
-   "b": 766,
+   "a": 433,
+   "b": 490,
    "t0": 0,
-   "t1": 98,
-   "line": "so bright you have to shut your eyes"
+   "t1": 57,
+   "line": "so bright you have to shut your eyes."
   },
   {
    "shot": "S9",
-   "a": 766,
-   "b": 826,
+   "a": 490,
+   "b": 517,
    "t0": 0,
-   "t1": 60,
-   "line": "When you open them the"
+   "t1": 27,
+   "line": "When you open them,"
   },
   {
    "shot": "S10",
-   "a": 826,
-   "b": 982,
+   "a": 517,
+   "b": 626,
    "t0": 0,
-   "t1": 156,
-   "line": "road is gone You're on a dirt track in blazing sun A"
+   "t1": 109,
+   "line": "the road is gone. You're on a dirt track, in blazing sun."
   },
   {
    "shot": "S11",
-   "a": 982,
-   "b": 1069,
+   "a": 626,
+   "b": 683,
    "t0": 0,
-   "t1": 87,
-   "line": "man with a donkey stares at you"
+   "t1": 57,
+   "line": "A man with a donkey stares at you."
   },
   {
    "shot": "S12",
-   "a": 1069,
-   "b": 1165,
+   "a": 683,
+   "b": 746,
    "t0": 0,
-   "t1": 96,
-   "line": "Then he drops everything and runs Your"
+   "t1": 63,
+   "line": "Then he drops everything and runs. Your"
   },
   {
    "shot": "S13",
-   "a": 1165,
-   "b": 1297,
+   "a": 746,
+   "b": 865,
    "t0": 0,
-   "t1": 132,
-   "line": "GPS says 'Recalculating.' Then it says nothing at all"
+   "t1": 119,
+   "line": "GPS says, 'Recalculating. ' Then it says nothing at all."
   },
   {
    "shot": "S14",
-   "a": 1297,
-   "b": 1331,
+   "a": 865,
+   "b": 897,
    "t0": 0,
-   "t1": 34,
-   "line": "Mo points"
+   "t1": 32,
+   "line": "Mo points."
   },
   {
    "shot": "S15",
-   "a": 1331,
-   "b": 1471,
+   "a": 897,
+   "b": 990,
    "t0": 0,
-   "t1": 140,
-   "line": "Across the hills there's an aqueduct A huge one And"
+   "t1": 93,
+   "line": "Across the hills there's an aqueduct. A huge one. And"
   },
   {
    "shot": "S16",
-   "a": 1471,
-   "b": 1565,
+   "a": 990,
+   "b": 1054,
    "t0": 0,
-   "t1": 94,
-   "line": "behind it a city of white marble"
+   "t1": 64,
+   "line": "behind it, a city of white marble."
   },
   {
    "shot": "S17",
-   "a": 1565,
-   "b": 1689,
+   "a": 1054,
+   "b": 1136,
    "t0": 0,
-   "t1": 124,
-   "line": "What if you brought a modern car to ancient Rome"
+   "t1": 82,
+   "line": "What if you brought a modern car to ancient Rome?"
   },
   {
    "shot": "S18",
-   "a": 1689,
-   "b": 1851,
+   "a": 1136,
+   "b": 1242,
    "t0": 0,
-   "t1": 162,
-   "line": "For a few days you'll be the most powerful person in the world"
+   "t1": 106,
+   "line": "For a few days, you'll be the most powerful person in the world."
   },
   {
    "shot": "S19",
-   "a": 1851,
-   "b": 2027,
+   "a": 1242,
+   "b": 1360,
    "t0": 0,
-   "t1": 176,
-   "line": "But every kilometer you drive costs something you can never get back"
+   "t1": 118,
+   "line": "But every kilometer you drive costs something you can never get back."
   }
  ],
  "shots": [
@@ -162,174 +162,181 @@
    "id": "S1",
    "size": "pov",
    "key": 20,
-   "len": 72,
+   "len": 46,
    "first": 0,
-   "line": "Eight forty in the morning",
+   "line": "Eight forty in the morning.",
    "note": "through the windscreen on a modern road, 8:40 on the satnav"
   },
   {
    "id": "S2",
    "size": "close",
    "key": 20,
-   "len": 24,
-   "first": 72,
-   "line": "You've had",
+   "len": 12,
+   "first": 46,
+   "line": "You've",
    "note": "you at the wheel, holding up your brand-new licence"
   },
   {
    "id": "S3",
    "size": "close",
    "key": 20,
-   "len": 263,
-   "first": 96,
-   "line": "your driver's license for exactly three days Your best friend Mo is in the passenger seat picking the music",
+   "len": 170,
+   "first": 58,
+   "line": "had your driver's license for exactly three days. Your best friend Mo is in the passenger seat, picking the music.",
    "note": "Mo in the passenger seat, music notes from his phone"
   },
   {
    "id": "S4",
    "size": "wide",
    "key": 20,
-   "len": 67,
-   "first": 359,
-   "line": "You drive into a tunnel",
+   "len": 46,
+   "first": 228,
+   "line": "You drive into a tunnel.",
    "note": "the car drives into a modern tunnel in a hillside"
   },
   {
    "id": "S5",
    "size": "pov",
    "key": 20,
-   "len": 116,
-   "first": 426,
-   "line": "Halfway through the radio turns to static The",
+   "len": 78,
+   "first": 274,
+   "line": "Halfway through, the radio turns to static.",
    "note": "inside the tunnel, the radio crackles to static"
   },
   {
    "id": "S6",
    "size": "pov",
    "key": 20,
-   "len": 108,
-   "first": 542,
-   "line": "lights in the tunnel flicker Then there's a",
+   "len": 61,
+   "first": 352,
+   "line": "The lights in the tunnel flicker. Then there's",
    "note": "the tunnel lights flicker"
   },
   {
    "id": "S7",
    "size": "pov",
-   "key": 20,
-   "len": 18,
-   "first": 650,
-   "line": "flash",
+   "key": 8,
+   "len": 20,
+   "first": 413,
+   "line": "a flash,",
    "note": "white flash"
   },
   {
    "id": "S8",
    "size": "close",
    "key": 20,
-   "len": 98,
-   "first": 668,
-   "line": "so bright you have to shut your eyes",
+   "len": 57,
+   "first": 433,
+   "line": "so bright you have to shut your eyes.",
    "note": "you squeeze your eyes shut in the white light"
   },
   {
    "id": "S9",
    "size": "close",
    "key": 20,
-   "len": 60,
-   "first": 766,
-   "line": "When you open them the",
+   "len": 27,
+   "first": 490,
+   "line": "When you open them,",
    "note": "you open your eyes, blazing sun on your face"
   },
   {
    "id": "S10",
    "size": "wide",
    "key": 20,
-   "len": 156,
-   "first": 826,
-   "line": "road is gone You're on a dirt track in blazing sun A",
+   "len": 109,
+   "first": 517,
+   "line": "the road is gone. You're on a dirt track, in blazing sun.",
    "note": "the car on a dirt track in the sun, no road, no tunnel"
   },
   {
    "id": "S11",
    "size": "medium",
    "key": 20,
-   "len": 87,
-   "first": 982,
-   "line": "man with a donkey stares at you",
+   "len": 57,
+   "first": 626,
+   "line": "A man with a donkey stares at you.",
    "note": "a man with a donkey stares"
   },
   {
    "id": "S12",
    "size": "medium",
    "key": 20,
-   "len": 96,
-   "first": 1069,
-   "line": "Then he drops everything and runs Your",
+   "len": 63,
+   "first": 683,
+   "line": "Then he drops everything and runs. Your",
    "note": "he drops his basket and runs; the donkey stays"
   },
   {
    "id": "S13",
    "size": "insert",
-   "key": 20,
-   "len": 132,
-   "first": 1165,
-   "line": "GPS says 'Recalculating.' Then it says nothing at all",
+   "key": 40,
+   "len": 119,
+   "first": 746,
+   "line": "GPS says, 'Recalculating. ' Then it says nothing at all.",
    "note": "satnav: RECALCULATING... then nothing"
   },
   {
    "id": "S14",
    "size": "pov",
    "key": 20,
-   "len": 34,
-   "first": 1297,
-   "line": "Mo points",
+   "len": 32,
+   "first": 865,
+   "line": "Mo points.",
    "note": "Mo points through the windscreen"
   },
   {
    "id": "S15",
    "size": "wide",
    "key": 20,
-   "len": 140,
-   "first": 1331,
-   "line": "Across the hills there's an aqueduct A huge one And",
+   "len": 93,
+   "first": 897,
+   "line": "Across the hills there's an aqueduct. A huge one. And",
    "note": "the aqueduct across the hills"
   },
   {
    "id": "S16",
    "size": "wide",
    "key": 20,
-   "len": 94,
-   "first": 1471,
-   "line": "behind it a city of white marble",
+   "len": 64,
+   "first": 990,
+   "line": "behind it, a city of white marble.",
    "note": "push in on the marble city"
   },
   {
    "id": "S17",
    "size": "wide",
    "key": 20,
-   "len": 124,
-   "first": 1565,
-   "line": "What if you brought a modern car to ancient Rome",
+   "len": 82,
+   "first": 1054,
+   "line": "What if you brought a modern car to ancient Rome?",
    "note": "title over the car on the hill, dusk"
   },
   {
    "id": "S18",
    "size": "medium",
    "key": 20,
-   "len": 162,
-   "first": 1689,
-   "line": "For a few days you'll be the most powerful person in the world",
+   "len": 106,
+   "first": 1136,
+   "line": "For a few days, you'll be the most powerful person in the world.",
    "note": "you stand on the car's sill, arms out over Rome"
   },
   {
    "id": "S19",
    "size": "insert",
    "key": 20,
-   "len": 176,
-   "first": 1851,
-   "line": "But every kilometer you drive costs something you can never get back",
+   "len": 118,
+   "first": 1242,
+   "line": "But every kilometer you drive costs something you can never get back.",
    "note": "fuel gauge: the needle ticks down"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "rome-car/c01/voice.wav",
+  "sfx": "rome-car/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3259,
+  "music": "rome-car/c01/music.wav",
+  "musicVol": 0.1439
+ }
 }

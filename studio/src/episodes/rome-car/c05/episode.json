@@ -305,5 +305,110 @@
    "at": "fuel"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S2+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S4+0",
+    "gasp",
+    0.5
+   ],
+   [
+    "S5+0",
+    "title_boom",
+    0.6,
+    "peak"
+   ],
+   [
+    "S8+0",
+    "clink",
+    0.5
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S15+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S17+0",
+    "paper",
+    0.4
+   ],
+   [
+    "S19+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S21+0",
+    "door_shut",
+    0.6
+   ],
+   [
+    "S23+0",
+    "beep",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12.5
+  }
+ }
 }

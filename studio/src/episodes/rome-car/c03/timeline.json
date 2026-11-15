@@ -2,223 +2,223 @@
  "slug": "rome-car/c03",
  "title": " ",
  "fps": 30,
- "total": 4197,
+ "total": 2905,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 165,
+   "b": 109,
    "t0": 0,
-   "t1": 165,
-   "line": "At the city gate a dozen soldiers point their spears at you You"
+   "t1": 109,
+   "line": "At the city gate, a dozen soldiers point their spears at you. You"
   },
   {
    "shot": "S2",
-   "a": 165,
-   "b": 209,
+   "a": 109,
+   "b": 141,
    "t0": 0,
-   "t1": 44,
-   "line": "honk the horn"
+   "t1": 32,
+   "line": "honk the horn."
   },
   {
    "shot": "S3",
-   "a": 209,
-   "b": 358,
+   "a": 141,
+   "b": 228,
    "t0": 0,
-   "t1": 149,
-   "line": "Every single one of them drops his spear and hits the ground"
+   "t1": 87,
+   "line": "Every single one of them drops his spear and hits the ground."
   },
   {
    "shot": "S4",
-   "a": 358,
-   "b": 434,
+   "a": 228,
+   "b": 291,
    "t0": 0,
-   "t1": 76,
-   "line": "Mo laughs so hard he cries"
+   "t1": 63,
+   "line": "Mo laughs so hard he cries."
   },
   {
    "shot": "S5",
-   "a": 434,
-   "b": 780,
+   "a": 291,
+   "b": 519,
    "t0": 0,
-   "t1": 346,
-   "line": "They decide you must be gods Or at least friends of the gods Nobody wants to find out which Then there's a problem nobody saw coming"
+   "t1": 228,
+   "line": "They decide you must be gods. Or at least friends of the gods. Nobody wants to find out which. Then there's a problem nobody saw coming."
   },
   {
    "shot": "S6",
-   "a": 780,
-   "b": 1059,
+   "a": 519,
+   "b": 704,
    "t0": 0,
-   "t1": 279,
-   "line": "Julius Caesar banned carts from the streets of Rome during the day because the traffic was so bad That's real An"
+   "t1": 185,
+   "line": "Julius Caesar banned carts from the streets of Rome during the day, because the traffic was so bad. That's real. An"
   },
   {
    "shot": "S7",
-   "a": 1059,
-   "b": 1172,
+   "a": 704,
+   "b": 791,
    "t0": 0,
-   "t1": 113,
-   "line": "official runs after you waving a wax tablet"
+   "t1": 87,
+   "line": "official runs after you, waving a wax tablet."
   },
   {
    "shot": "S8",
-   "a": 1172,
-   "b": 1381,
+   "a": 791,
+   "b": 943,
    "t0": 0,
-   "t1": 209,
-   "line": "Is a cart with no horse still a cart Nobody knows So nobody stops you You"
+   "t1": 152,
+   "line": "Is a cart with no horse still a cart? Nobody knows. So nobody stops you. You"
   },
   {
    "shot": "S9",
-   "a": 1381,
-   "b": 1564,
+   "a": 943,
+   "b": 1067,
    "t0": 0,
-   "t1": 183,
-   "line": "roll through the Forum at walking speed Thousands of people follow you Mo"
+   "t1": 124,
+   "line": "roll through the Forum at walking speed. Thousands of people follow you. Mo"
   },
   {
    "shot": "S10",
-   "a": 1564,
-   "b": 1841,
+   "a": 1067,
+   "b": 1250,
    "t0": 0,
-   "t1": 277,
-   "line": "plugs in his phone and turns the music all the way up A crowd of Romans tries to dance to it Badly A"
+   "t1": 183,
+   "line": "plugs in his phone and turns the music all the way up. A crowd of Romans tries to dance to it. Badly. A"
   },
   {
    "shot": "S11",
-   "a": 1841,
-   "b": 2018,
+   "a": 1250,
+   "b": 1360,
    "t0": 0,
-   "t1": 177,
-   "line": "senator offers you a bag of gold coins for a ride around the block You"
+   "t1": 110,
+   "line": "senator offers you a bag of gold coins for a ride around the block. You"
   },
   {
    "shot": "S12",
-   "a": 2018,
-   "b": 2097,
+   "a": 1360,
+   "b": 1421,
    "t0": 0,
-   "t1": 79,
-   "line": "take him Then five more"
+   "t1": 61,
+   "line": "take him. Then five more."
   },
   {
    "shot": "S13",
-   "a": 2097,
-   "b": 2244,
+   "a": 1421,
+   "b": 1516,
    "t0": 0,
-   "t1": 147,
-   "line": "Kids run alongside the car all the way down the street You"
+   "t1": 95,
+   "line": "Kids run alongside the car all the way down the street. You"
   },
   {
    "shot": "S14",
-   "a": 2244,
-   "b": 2381,
+   "a": 1516,
+   "b": 1610,
    "t0": 0,
-   "t1": 137,
-   "line": "show them the windshield wipers They think it's magic"
+   "t1": 94,
+   "line": "show them the windshield wipers. They think it's magic."
   },
   {
    "shot": "S15",
-   "a": 2381,
-   "b": 2452,
+   "a": 1610,
+   "b": 1673,
    "t0": 0,
-   "t1": 71,
-   "line": "Honestly so does Mo At"
+   "t1": 63,
+   "line": "Honestly, so does Mo. At"
   },
   {
    "shot": "S16",
-   "a": 2452,
-   "b": 2669,
+   "a": 1673,
+   "b": 1834,
    "t0": 0,
-   "t1": 217,
-   "line": "night Rome goes completely dark No streetlights Just torches and the moon Then you"
+   "t1": 161,
+   "line": "night, Rome goes completely dark. No streetlights. Just torches and the moon. Then"
   },
   {
    "shot": "S17",
-   "a": 2669,
-   "b": 2863,
+   "a": 1834,
+   "b": 1964,
    "t0": 0,
-   "t1": 194,
-   "line": "switch on your headlights For one second the whole street is silent Then a"
+   "t1": 130,
+   "line": "you switch on your headlights. For one second, the whole street is silent. Then"
   },
   {
    "shot": "S18",
-   "a": 2863,
-   "b": 2951,
+   "a": 1964,
+   "b": 2027,
    "t0": 0,
-   "t1": 88,
-   "line": "thousand people scream And then the"
+   "t1": 63,
+   "line": "a thousand people scream. And then"
   },
   {
    "shot": "S19",
-   "a": 2951,
-   "b": 3078,
+   "a": 2027,
+   "b": 2122,
    "t0": 0,
-   "t1": 127,
-   "line": "big one The Circus Maximus the chariot track"
+   "t1": 95,
+   "line": "the big one. The Circus Maximus, the chariot track."
   },
   {
    "shot": "S20",
-   "a": 3078,
-   "b": 3263,
+   "a": 2122,
+   "b": 2246,
    "t0": 0,
-   "t1": 185,
-   "line": "Up to a hundred and fifty thousand people in the stands That's real The"
+   "t1": 124,
+   "line": "Up to a hundred and fifty thousand people in the stands. That's real. The"
   },
   {
    "shot": "S21",
-   "a": 3263,
-   "b": 3382,
+   "a": 2246,
+   "b": 2338,
    "t0": 0,
-   "t1": 119,
-   "line": "best charioteer in Rome challenges you to a race"
+   "t1": 92,
+   "line": "best charioteer in Rome challenges you to a race."
   },
   {
    "shot": "S22",
-   "a": 3382,
-   "b": 3530,
+   "a": 2338,
+   "b": 2443,
    "t0": 0,
-   "t1": 148,
-   "line": "Four horses against a hundred and fifty under the hood You"
+   "t1": 105,
+   "line": "Four horses, against a hundred and fifty under the hood. You"
   },
   {
    "shot": "S23",
-   "a": 3530,
-   "b": 3678,
+   "a": 2443,
+   "b": 2538,
    "t0": 0,
-   "t1": 148,
-   "line": "let him lead for one lap Just to be polite Then you"
+   "t1": 95,
+   "line": "let him lead for one lap. Just to be polite. Then"
   },
   {
    "shot": "S24",
-   "a": 3678,
-   "b": 3744,
+   "a": 2538,
+   "b": 2582,
    "t0": 0,
-   "t1": 66,
-   "line": "put your foot down You"
+   "t1": 44,
+   "line": "you put your foot down. You"
   },
   {
    "shot": "S25",
-   "a": 3744,
-   "b": 3867,
+   "a": 2582,
+   "b": 2682,
    "t0": 0,
-   "t1": 123,
-   "line": "win by three laps The crowd goes insane Mo"
+   "t1": 100,
+   "line": "win by three laps. The crowd goes insane. Mo"
   },
   {
    "shot": "S26",
-   "a": 3867,
-   "b": 4057,
+   "a": 2682,
+   "b": 2812,
    "t0": 0,
-   "t1": 190,
-   "line": "stands up through the sunroof with his arms in the air 'We're legends!' Then you"
+   "t1": 130,
+   "line": "stands up through the sunroof with his arms in the air. 'We're legends! ' Then you"
   },
   {
    "shot": "S27",
-   "a": 4057,
-   "b": 4197,
+   "a": 2812,
+   "b": 2905,
    "t0": 0,
-   "t1": 140,
-   "line": "look at the fuel gauge It's already at half"
+   "t1": 93,
+   "line": "look at the fuel gauge. It's already at half."
   }
  ],
  "shots": [
@@ -226,246 +226,253 @@
    "id": "S1",
    "size": "wide",
    "key": 20,
-   "len": 165,
+   "len": 109,
    "first": 0,
-   "line": "At the city gate a dozen soldiers point their spears at you You",
+   "line": "At the city gate, a dozen soldiers point their spears at you. You",
    "note": "a dozen soldiers at the gate, spears levelled at the car"
   },
   {
    "id": "S2",
    "size": "close",
    "key": 20,
-   "len": 44,
-   "first": 165,
-   "line": "honk the horn",
+   "len": 32,
+   "first": 109,
+   "line": "honk the horn.",
    "note": "the car head-on: HONK, sound waves"
   },
   {
    "id": "S3",
    "size": "medium",
    "key": 30,
-   "len": 149,
-   "first": 209,
-   "line": "Every single one of them drops his spear and hits the ground",
+   "len": 87,
+   "first": 141,
+   "line": "Every single one of them drops his spear and hits the ground.",
    "note": "the soldiers drop their spears and hit the ground"
   },
   {
    "id": "S4",
    "size": "close",
    "key": 20,
-   "len": 76,
-   "first": 358,
-   "line": "Mo laughs so hard he cries",
+   "len": 63,
+   "first": 228,
+   "line": "Mo laughs so hard he cries.",
    "note": "Mo laughing so hard he cries"
   },
   {
    "id": "S5",
    "size": "medium",
    "key": 20,
-   "len": 346,
-   "first": 434,
-   "line": "They decide you must be gods Or at least friends of the gods Nobody wants to find out which Then there's a problem nobody saw coming",
+   "len": 228,
+   "first": 291,
+   "line": "They decide you must be gods. Or at least friends of the gods. Nobody wants to find out which. Then there's a problem nobody saw coming.",
    "note": "the soldiers kneel and bow to the car"
   },
   {
    "id": "S6",
    "size": "insert",
    "key": 40,
-   "len": 279,
-   "first": 780,
-   "line": "Julius Caesar banned carts from the streets of Rome during the day because the traffic was so bad That's real An",
+   "len": 185,
+   "first": 519,
+   "line": "Julius Caesar banned carts from the streets of Rome during the day, because the traffic was so bad. That's real. An",
    "note": "CAESAR'S LAW: NO CARTS BY DAY"
   },
   {
    "id": "S7",
    "size": "wide",
    "key": 20,
-   "len": 113,
-   "first": 1059,
-   "line": "official runs after you waving a wax tablet",
+   "len": 87,
+   "first": 704,
+   "line": "official runs after you, waving a wax tablet.",
    "note": "an official runs after the car waving a wax tablet"
   },
   {
    "id": "S8",
    "size": "close",
    "key": 20,
-   "len": 209,
-   "first": 1172,
-   "line": "Is a cart with no horse still a cart Nobody knows So nobody stops you You",
+   "len": 152,
+   "first": 791,
+   "line": "Is a cart with no horse still a cart? Nobody knows. So nobody stops you. You",
    "note": "the official, baffled: is it a cart?"
   },
   {
    "id": "S9",
    "size": "wide",
    "key": 20,
-   "len": 183,
-   "first": 1381,
-   "line": "roll through the Forum at walking speed Thousands of people follow you Mo",
+   "len": 124,
+   "first": 943,
+   "line": "roll through the Forum at walking speed. Thousands of people follow you. Mo",
    "note": "the car rolls through the Forum, crowds following"
   },
   {
    "id": "S10",
    "size": "wide",
    "key": 20,
-   "len": 277,
-   "first": 1564,
-   "line": "plugs in his phone and turns the music all the way up A crowd of Romans tries to dance to it Badly A",
+   "len": 183,
+   "first": 1067,
+   "line": "plugs in his phone and turns the music all the way up. A crowd of Romans tries to dance to it. Badly. A",
    "note": "music from the car, the crowd dancing badly"
   },
   {
    "id": "S11",
    "size": "medium",
    "key": 20,
-   "len": 177,
-   "first": 1841,
-   "line": "senator offers you a bag of gold coins for a ride around the block You",
+   "len": 110,
+   "first": 1250,
+   "line": "senator offers you a bag of gold coins for a ride around the block. You",
    "note": "a senator at the window holding up a bag of gold"
   },
   {
    "id": "S12",
    "size": "medium",
    "key": 20,
-   "len": 79,
-   "first": 2018,
-   "line": "take him Then five more",
+   "len": 61,
+   "first": 1360,
+   "line": "take him. Then five more.",
    "note": "the senator riding in the car, delighted"
   },
   {
    "id": "S13",
    "size": "medium",
    "key": 20,
-   "len": 147,
-   "first": 2097,
-   "line": "Kids run alongside the car all the way down the street You",
+   "len": 95,
+   "first": 1421,
+   "line": "Kids run alongside the car all the way down the street. You",
    "note": "kids running alongside the car"
   },
   {
    "id": "S14",
    "size": "close",
    "key": 20,
-   "len": 137,
-   "first": 2244,
-   "line": "show them the windshield wipers They think it's magic",
+   "len": 94,
+   "first": 1516,
+   "line": "show them the windshield wipers. They think it's magic.",
    "note": "the windscreen wipers sweep"
   },
   {
    "id": "S15",
    "size": "close",
    "key": 20,
-   "len": 71,
-   "first": 2381,
-   "line": "Honestly so does Mo At",
+   "len": 63,
+   "first": 1610,
+   "line": "Honestly, so does Mo. At",
    "note": "Mo, amazed by the wipers too"
   },
   {
    "id": "S16",
    "size": "wide",
    "key": 20,
-   "len": 217,
-   "first": 2452,
-   "line": "night Rome goes completely dark No streetlights Just torches and the moon Then you",
+   "len": 161,
+   "first": 1673,
+   "line": "night, Rome goes completely dark. No streetlights. Just torches and the moon. Then",
    "note": "Rome at night: torches and the moon"
   },
   {
    "id": "S17",
    "size": "wide",
    "key": 12,
-   "len": 194,
-   "first": 2669,
-   "line": "switch on your headlights For one second the whole street is silent Then a",
+   "len": 130,
+   "first": 1834,
+   "line": "you switch on your headlights. For one second, the whole street is silent. Then",
    "note": "headlights switch on: the street lit white"
   },
   {
    "id": "S18",
    "size": "medium",
    "key": 10,
-   "len": 88,
-   "first": 2863,
-   "line": "thousand people scream And then the",
+   "len": 63,
+   "first": 1964,
+   "line": "a thousand people scream. And then",
    "note": "a thousand people scream"
   },
   {
    "id": "S19",
    "size": "wide",
    "key": 20,
-   "len": 127,
-   "first": 2951,
-   "line": "big one The Circus Maximus the chariot track",
+   "len": 95,
+   "first": 2027,
+   "line": "the big one. The Circus Maximus, the chariot track.",
    "note": "the Circus Maximus"
   },
   {
    "id": "S20",
    "size": "insert",
    "key": 60,
-   "len": 185,
-   "first": 3078,
-   "line": "Up to a hundred and fifty thousand people in the stands That's real The",
+   "len": 124,
+   "first": 2122,
+   "line": "Up to a hundred and fifty thousand people in the stands. That's real. The",
    "note": "fact: 150,000 seats"
   },
   {
    "id": "S21",
    "size": "medium",
    "key": 20,
-   "len": 119,
-   "first": 3263,
-   "line": "best charioteer in Rome challenges you to a race",
+   "len": 92,
+   "first": 2246,
+   "line": "best charioteer in Rome challenges you to a race.",
    "note": "the charioteer points at you: race"
   },
   {
    "id": "S22",
    "size": "wide",
    "key": 20,
-   "len": 148,
-   "first": 3382,
-   "line": "Four horses against a hundred and fifty under the hood You",
+   "len": 105,
+   "first": 2338,
+   "line": "Four horses, against a hundred and fifty under the hood. You",
    "note": "four horses beside the car at the start"
   },
   {
    "id": "S23",
    "size": "wide",
    "key": 20,
-   "len": 148,
-   "first": 3530,
-   "line": "let him lead for one lap Just to be polite Then you",
+   "len": 95,
+   "first": 2443,
+   "line": "let him lead for one lap. Just to be polite. Then",
    "note": "the chariot leads, the car cruising behind"
   },
   {
    "id": "S24",
    "size": "wide",
    "key": 20,
-   "len": 66,
-   "first": 3678,
-   "line": "put your foot down You",
+   "len": 44,
+   "first": 2538,
+   "line": "you put your foot down. You",
    "note": "the car roars past"
   },
   {
    "id": "S25",
    "size": "wide",
    "key": 20,
-   "len": 123,
-   "first": 3744,
-   "line": "win by three laps The crowd goes insane Mo",
+   "len": 100,
+   "first": 2582,
+   "line": "win by three laps. The crowd goes insane. Mo",
    "note": "lap counters, the car far ahead, the crowd up"
   },
   {
    "id": "S26",
    "size": "medium",
    "key": 20,
-   "len": 190,
-   "first": 3867,
-   "line": "stands up through the sunroof with his arms in the air 'We're legends!' Then you",
+   "len": 130,
+   "first": 2682,
+   "line": "stands up through the sunroof with his arms in the air. 'We're legends! ' Then you",
    "note": "Mo up through the sunroof: WE'RE LEGENDS"
   },
   {
    "id": "S27",
    "size": "insert",
    "key": 40,
-   "len": 140,
-   "first": 4057,
-   "line": "look at the fuel gauge It's already at half",
+   "len": 93,
+   "first": 2812,
+   "line": "look at the fuel gauge. It's already at half.",
    "note": "the fuel gauge at half"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "rome-car/c03/voice.wav",
+  "sfx": "rome-car/c03/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2129,
+  "music": "rome-car/c03/music.wav",
+  "musicVol": 0.1542
+ }
 }

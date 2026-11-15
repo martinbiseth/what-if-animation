@@ -262,5 +262,130 @@
    "at": "You'll"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "plug": [
+    "an electrical plug pushed into an old wall socket, a click and nothing",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "beep",
+    0.6
+   ],
+   [
+    "S3+0",
+    "power_off",
+    0.7
+   ],
+   [
+    "S4+0",
+    "plug",
+    0.5
+   ],
+   [
+    "S6+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S8+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S11+0",
+    "power_hum",
+    0.5
+   ],
+   [
+    "S12+0",
+    "title_boom",
+    0.8,
+    "peak"
+   ],
+   [
+    "S13+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S16+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S17+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S18+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S12"
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12
+  }
+ }
 }

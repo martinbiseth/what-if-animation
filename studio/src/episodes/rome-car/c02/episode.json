@@ -172,5 +172,92 @@
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S3+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S5+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S7+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S9+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S11+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S12+0",
+    "card_hit",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S7"
+  },
+  "levels": {
+   "sfx_lu": -3,
+   "music_lu": -12
+  }
+ }
 }
