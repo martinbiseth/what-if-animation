@@ -1,0 +1,406 @@
+{
+ "slug": "rome-burger/c01",
+ "title": " ",
+ "fps": 30,
+ "total": 1598,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 56,
+   "t0": 0,
+   "t1": 56,
+   "line": "The smoke hits the street first."
+  },
+  {
+   "shot": "S2",
+   "a": 56,
+   "b": 90,
+   "t0": 0,
+   "t1": 34,
+   "line": "Then the smell."
+  },
+  {
+   "shot": "S3",
+   "a": 90,
+   "b": 178,
+   "t0": 0,
+   "t1": 88,
+   "line": "Sizzling meat, toasted bread, melted cheese."
+  },
+  {
+   "shot": "S4",
+   "a": 178,
+   "b": 270,
+   "t0": 0,
+   "t1": 92,
+   "line": "A line of people stretches all the way around the block."
+  },
+  {
+   "shot": "S5",
+   "a": 270,
+   "b": 318,
+   "t0": 0,
+   "t1": 48,
+   "line": "Senators in white togas."
+  },
+  {
+   "shot": "S6",
+   "a": 318,
+   "b": 346,
+   "t0": 0,
+   "t1": 28,
+   "line": "Soldiers."
+  },
+  {
+   "shot": "S7",
+   "a": 346,
+   "b": 408,
+   "t0": 0,
+   "t1": 62,
+   "line": "Bakers still covered in flour."
+  },
+  {
+   "shot": "S8",
+   "a": 408,
+   "b": 501,
+   "t0": 0,
+   "t1": 93,
+   "line": "A gladiator the size of a door orders twelve."
+  },
+  {
+   "shot": "S9",
+   "a": 501,
+   "b": 570,
+   "t0": 0,
+   "t1": 69,
+   "line": "He eats three before he reaches the corner."
+  },
+  {
+   "shot": "S10",
+   "a": 570,
+   "b": 627,
+   "t0": 0,
+   "t1": 57,
+   "line": "A little boy takes his first bite,"
+  },
+  {
+   "shot": "S11",
+   "a": 627,
+   "b": 682,
+   "t0": 0,
+   "t1": 55,
+   "line": "and his eyes go huge."
+  },
+  {
+   "shot": "S12",
+   "a": 682,
+   "b": 745,
+   "t0": 0,
+   "t1": 63,
+   "line": "A senator pays with a silver coin,"
+  },
+  {
+   "shot": "S13",
+   "a": 745,
+   "b": 812,
+   "t0": 0,
+   "t1": 67,
+   "line": "and doesn't even wait for his change."
+  },
+  {
+   "shot": "S14",
+   "a": 812,
+   "b": 925,
+   "t0": 0,
+   "t1": 113,
+   "line": "Above the counter, a painted sign says Burgus Maximus."
+  },
+  {
+   "shot": "S15",
+   "a": 925,
+   "b": 964,
+   "t0": 0,
+   "t1": 39,
+   "line": "You painted it yourself."
+  },
+  {
+   "shot": "S16",
+   "a": 964,
+   "b": 1061,
+   "t0": 0,
+   "t1": 97,
+   "line": "Because this is Rome. The year sixty- four."
+  },
+  {
+   "shot": "S17",
+   "a": 1061,
+   "b": 1122,
+   "t0": 0,
+   "t1": 61,
+   "line": "Nobody here has ever eaten a burger."
+  },
+  {
+   "shot": "S18",
+   "a": 1122,
+   "b": 1205,
+   "t0": 0,
+   "t1": 83,
+   "line": "And you just opened the first burger restaurant on Earth."
+  },
+  {
+   "shot": "S19",
+   "a": 1205,
+   "b": 1298,
+   "t0": 0,
+   "t1": 93,
+   "line": "What if you opened a McDonald's in ancient Rome?"
+  },
+  {
+   "shot": "S20",
+   "a": 1298,
+   "b": 1357,
+   "t0": 0,
+   "t1": 59,
+   "line": "Sounds like you'd be rich by Friday."
+  },
+  {
+   "shot": "S21",
+   "a": 1357,
+   "b": 1484,
+   "t0": 0,
+   "t1": 127,
+   "line": "But in Rome, being loved by the crowd is the most dangerous thing there is."
+  },
+  {
+   "shot": "S22",
+   "a": 1484,
+   "b": 1598,
+   "t0": 0,
+   "t1": 114,
+   "line": "And in eight days, this whole city is going to burn."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 56,
+   "first": 0,
+   "line": "The smoke hits the street first.",
+   "note": "the grill close up, patties sizzling"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 34,
+   "first": 56,
+   "line": "Then the smell.",
+   "note": "smoke drifts into the street, a passer-by sniffs"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 88,
+   "first": 90,
+   "line": "Sizzling meat, toasted bread, melted cheese.",
+   "note": "the burger builds itself in close-up"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 92,
+   "first": 178,
+   "line": "A line of people stretches all the way around the block.",
+   "note": "the line all the way round the block"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 48,
+   "first": 270,
+   "line": "Senators in white togas.",
+   "note": "senators in togas waiting"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 28,
+   "first": 318,
+   "line": "Soldiers.",
+   "note": "two soldiers in the line"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 62,
+   "first": 346,
+   "line": "Bakers still covered in flour.",
+   "note": "a baker covered in flour"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 93,
+   "first": 408,
+   "line": "A gladiator the size of a door orders twelve.",
+   "note": "a gladiator the size of a door orders twelve"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 69,
+   "first": 501,
+   "line": "He eats three before he reaches the corner.",
+   "note": "he walks off with a stack, eating"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 57,
+   "first": 570,
+   "line": "A little boy takes his first bite,",
+   "note": "a boy's first bite"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 55,
+   "first": 627,
+   "line": "and his eyes go huge.",
+   "note": "his eyes go huge"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 63,
+   "first": 682,
+   "line": "A senator pays with a silver coin,",
+   "note": "a silver coin lands on the marble"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 67,
+   "first": 745,
+   "line": "and doesn't even wait for his change.",
+   "note": "the senator walks off without his change"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 113,
+   "first": 812,
+   "line": "Above the counter, a painted sign says Burgus Maximus.",
+   "note": "tilt up to the sign"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 39,
+   "first": 925,
+   "line": "You painted it yourself.",
+   "note": "you, smug, paint on your cheek"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 97,
+   "first": 964,
+   "line": "Because this is Rome. The year sixty- four.",
+   "note": "the whole city: ROME AD 64"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 61,
+   "first": 1061,
+   "line": "Nobody here has ever eaten a burger.",
+   "note": "customers' first bites at the counter"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 83,
+   "first": 1122,
+   "line": "And you just opened the first burger restaurant on Earth.",
+   "note": "you hold a burger up, Tullia and Felix"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 93,
+   "first": 1205,
+   "line": "What if you opened a McDonald's in ancient Rome?",
+   "note": "title over the street at dusk"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 59,
+   "first": 1298,
+   "line": "Sounds like you'd be rich by Friday.",
+   "note": "coins pile up"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 127,
+   "first": 1357,
+   "line": "But in Rome, being loved by the crowd is the most dangerous thing there is.",
+   "note": "the Circus crowd, the emperor's box"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 114,
+   "first": 1484,
+   "line": "And in eight days, this whole city is going to burn.",
+   "note": "night, the sky glows orange, you look up"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.25,
+   "f": 696
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 1207
+  }
+ ],
+ "audio": {
+  "voice": "rome-burger/c01/voice.wav",
+  "sfx": "rome-burger/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4198,
+  "music": "rome-burger/c01/music.wav",
+  "musicVol": 0.0962
+ }
+}

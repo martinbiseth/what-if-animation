@@ -1,0 +1,298 @@
+{
+ "slug": "rome-burger/c02",
+ "title": "WHAT IF YOU COULD ",
+ "fps": 30,
+ "total": 1753,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 151,
+   "t0": 0,
+   "t1": 151,
+   "line": "Here's how it starts. You and your little sister Ellie are walking home with a bag of takeaway."
+  },
+  {
+   "shot": "S2",
+   "a": 151,
+   "b": 181,
+   "t0": 0,
+   "t1": 30,
+   "line": "A flash."
+  },
+  {
+   "shot": "S3",
+   "a": 181,
+   "b": 226,
+   "t0": 0,
+   "t1": 45,
+   "line": "A ringing in your ears."
+  },
+  {
+   "shot": "S4",
+   "a": 226,
+   "b": 367,
+   "t0": 0,
+   "t1": 141,
+   "line": "And then you're standing in a narrow street that smells like smoke, donkeys and fish sauce."
+  },
+  {
+   "shot": "S5",
+   "a": 367,
+   "b": 457,
+   "t0": 0,
+   "t1": 90,
+   "line": "Everyone is wearing sheets. Okay, tunics."
+  },
+  {
+   "shot": "S6",
+   "a": 457,
+   "b": 471,
+   "t0": 0,
+   "t1": 14,
+   "line": "A man"
+  },
+  {
+   "shot": "S7",
+   "a": 471,
+   "b": 635,
+   "t0": 0,
+   "t1": 164,
+   "line": "with a cart shouts at you in Latin. A coin in the dirt has an emperor's face on it. Nero."
+  },
+  {
+   "shot": "S8",
+   "a": 635,
+   "b": 642,
+   "t0": 0,
+   "t1": 7,
+   "line": "It's"
+  },
+  {
+   "shot": "S9",
+   "a": 642,
+   "b": 838,
+   "t0": 0,
+   "t1": 196,
+   "line": "the summer of the year sixty- four, and this is Rome. The biggest city in the world, with around a million people."
+  },
+  {
+   "shot": "S10",
+   "a": 838,
+   "b": 919,
+   "t0": 0,
+   "t1": 81,
+   "line": "So here are the rules. There's no way back."
+  },
+  {
+   "shot": "S11",
+   "a": 919,
+   "b": 1099,
+   "t0": 0,
+   "t1": 180,
+   "line": "You have the clothes you're wearing, a phone with no signal, and one cold burger in a paper bag. That's it."
+  },
+  {
+   "shot": "S12",
+   "a": 1099,
+   "b": 1227,
+   "t0": 0,
+   "t1": 128,
+   "line": "No fridge. No fryer. No electricity. Not one machine."
+  },
+  {
+   "shot": "S13",
+   "a": 1227,
+   "b": 1382,
+   "t0": 0,
+   "t1": 155,
+   "line": "But you have something nobody else in Rome has. You know exactly how a fast food restaurant works."
+  },
+  {
+   "shot": "S14",
+   "a": 1382,
+   "b": 1480,
+   "t0": 0,
+   "t1": 98,
+   "line": "The same food, every time, ready in one minute."
+  },
+  {
+   "shot": "S15",
+   "a": 1480,
+   "b": 1597,
+   "t0": 0,
+   "t1": 117,
+   "line": "And one more thing. Rome, in the summer of sixty- four."
+  },
+  {
+   "shot": "S16",
+   "a": 1597,
+   "b": 1753,
+   "t0": 0,
+   "t1": 156,
+   "line": "It sounds familiar. Something from history class. You just can't remember what."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 151,
+   "first": 0,
+   "line": "Here's how it starts. You and your little sister Ellie are walking home with a bag of takeaway.",
+   "note": "the present at dusk: you and Ellie walking home with takeaway"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 30,
+   "first": 151,
+   "line": "A flash.",
+   "note": "a white flash"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 45,
+   "first": 181,
+   "line": "A ringing in your ears.",
+   "note": "your face, rings of sound"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 141,
+   "first": 226,
+   "line": "And then you're standing in a narrow street that smells like smoke, donkeys and fish sauce.",
+   "note": "a Roman alley: you and Ellie blinking"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 90,
+   "first": 367,
+   "line": "Everyone is wearing sheets. Okay, tunics.",
+   "note": "Romans in tunics walk past"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 14,
+   "first": 457,
+   "line": "A man",
+   "note": "a carter shouts at you in Latin"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 164,
+   "first": 471,
+   "line": "with a cart shouts at you in Latin. A coin in the dirt has an emperor's face on it. Nero.",
+   "note": "a coin in the dirt: NERO"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 7,
+   "first": 635,
+   "line": "It's",
+   "note": "the city wide: ROME SUMMER AD 64"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 196,
+   "first": 642,
+   "line": "the summer of the year sixty- four, and this is Rome. The biggest city in the world, with around a million people.",
+   "note": "around a million people"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 81,
+   "first": 838,
+   "line": "So here are the rules. There's no way back.",
+   "note": "NO WAY BACK"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 180,
+   "first": 919,
+   "line": "You have the clothes you're wearing, a phone with no signal, and one cold burger in a paper bag. That's it.",
+   "note": "what you have: clothes, phone, one cold burger"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 128,
+   "first": 1099,
+   "line": "No fridge. No fryer. No electricity. Not one machine.",
+   "note": "no fridge, fryer, electricity, machines"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 155,
+   "first": 1227,
+   "line": "But you have something nobody else in Rome has. You know exactly how a fast food restaurant works.",
+   "note": "you know something nobody here knows"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 98,
+   "first": 1382,
+   "line": "The same food, every time, ready in one minute.",
+   "note": "same food every time, one minute"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 117,
+   "first": 1480,
+   "line": "And one more thing. Rome, in the summer of sixty- four.",
+   "note": "you look toward the Circus, frowning"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 156,
+   "first": 1597,
+   "line": "It sounds familiar. Something from history class. You just can't remember what.",
+   "note": "something from history class"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.6,
+   "f": 151
+  }
+ ],
+ "audio": {
+  "voice": "rome-burger/c02/voice.wav",
+  "sfx": "rome-burger/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3297,
+  "music": "rome-burger/c02/music.wav",
+  "musicVol": 0.1406
+ }
+}

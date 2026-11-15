@@ -5,5 +5,6 @@ import { copyPaste } from './copy-paste';
 import { iphone1926Chapters } from './iphone-1926';
 
 import { electricityChapters } from './electricity';
+import { romeBurgerChapters } from './rome-burger';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters];
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...romeBurgerChapters];

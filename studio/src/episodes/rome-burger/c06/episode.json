@@ -1,0 +1,395 @@
+{
+  "id": "RomeBurgerC06",
+  "slug": "rome-burger/c06",
+  "chapter": "The choice",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "Ellie is gone",
+      "text": "Two days later, Ellie doesn't come back from the market. Felix runs every street around the Circus. Tullia asks every shopkeeper. Nobody saw anything."
+    },
+    {
+      "beat": "the message",
+      "text": "Then a boy you've never seen walks up to the counter and puts down a little coral hair tie. Ellie's. Next to it, a wax tablet. The contract. Unsigned."
+    },
+    {
+      "beat": "what it means",
+      "text": "You know what it means. Sign, and Ellie comes home tonight. Don't sign, and you might never see her again."
+    },
+    {
+      "beat": "the cost",
+      "text": "But if you sign, Tullia loses the shop her husband built. Every cook on this street loses everything. And the most powerful men in Rome get a machine that turns hungry crowds into loyal ones. Maybe you just taught an empire a new way to control people."
+    },
+    {
+      "beat": "movies",
+      "text": "You think about every time travel movie you've ever seen. Don't change history. Don't help the bad guys. Easy to say, when it isn't your sister."
+    },
+    {
+      "beat": "Tullia decides",
+      "text": "Tullia puts a hand on your shoulder. 'Family first,' she says. 'Shops can be rebuilt.' So you sign."
+    },
+    {
+      "beat": "Ellie returns",
+      "text": "That evening, Ellie walks back through the door with another honey cake, completely fine. She thinks she was at a party. You hug her so hard she complains."
+    },
+    {
+      "beat": "the order",
+      "text": "Then a messenger arrives from the palace. The emperor is throwing a feast tonight, and he wants two hundred burgers. Cooked fresh, here, on your grill. All night."
+    },
+    {
+      "beat": "the date",
+      "text": "Outside, a hot, dry wind is blowing. You ask Felix what day it is. He thinks for a moment. 'The eighteenth of July.'"
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "two days later, you call for Ellie"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "Felix runs every street"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "Tullia asks a shopkeeper"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "a strange boy walks to the counter"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "Ellie's coral hair tie"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "the contract, unsigned"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "you know what it means"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "sign or don't"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "Tullia and the shop her husband built"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "every cook loses everything"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "crowds turned loyal: the emperor's box"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "you taught an empire"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "every time-travel movie"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "the hair tie in your hand"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "family first, shops can be rebuilt"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "you sign"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "Ellie walks back in with a honey cake"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "the hug"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "the palace messenger: 200 burgers tonight"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "the grill all night"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "a hot dry wind"
+    },
+    {
+      "id": "S22",
+      "key": 20,
+      "note": "Felix: the eighteenth of July"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Felix"
+    },
+    {
+      "shot": "S3",
+      "at": "Tullia"
+    },
+    {
+      "shot": "S4",
+      "at": "Then"
+    },
+    {
+      "shot": "S5",
+      "at": "little"
+    },
+    {
+      "shot": "S6",
+      "at": "Next"
+    },
+    {
+      "shot": "S7",
+      "at": "You"
+    },
+    {
+      "shot": "S8",
+      "at": "Sign"
+    },
+    {
+      "shot": "S9",
+      "at": "But"
+    },
+    {
+      "shot": "S10",
+      "at": "Every"
+    },
+    {
+      "shot": "S11",
+      "at": "And"
+    },
+    {
+      "shot": "S12",
+      "at": "Maybe"
+    },
+    {
+      "shot": "S13",
+      "at": "You#2"
+    },
+    {
+      "shot": "S14",
+      "at": "Easy"
+    },
+    {
+      "shot": "S15",
+      "at": "Tullia"
+    },
+    {
+      "shot": "S16",
+      "at": "So"
+    },
+    {
+      "shot": "S17",
+      "at": "That"
+    },
+    {
+      "shot": "S18",
+      "at": "You"
+    },
+    {
+      "shot": "S19",
+      "at": "Then"
+    },
+    {
+      "shot": "S20",
+      "at": "Cooked"
+    },
+    {
+      "shot": "S21",
+      "at": "Outside"
+    },
+    {
+      "shot": "S22",
+      "at": "The"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "knock": [
+        "three firm knocks on an old wooden door",
+        1.2
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "pencils": [
+        "many pencils scribbling quickly on paper in a quiet office",
+        3.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "wind": [
+        "wind blowing on a city rooftop at dusk, distant traffic far below",
+        6.0
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "roman_street",
+        0.15,
+        "onset",
+        "S4"
+      ],
+      [
+        "S4+0",
+        "step",
+        0.5
+      ],
+      [
+        "S5+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S6+0",
+        "slide",
+        0.5
+      ],
+      [
+        "S7+0",
+        "heartbeat",
+        0.3
+      ],
+      [
+        "S8+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S13+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S16+0",
+        "pencils",
+        0.3,
+        "onset",
+        "S17"
+      ],
+      [
+        "S17+0",
+        "door_shut",
+        0.5
+      ],
+      [
+        "S18+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S19+0",
+        "knock",
+        0.7
+      ],
+      [
+        "S20+0",
+        "sizzle",
+        0.6
+      ],
+      [
+        "S21+0",
+        "wind",
+        0.3,
+        "onset",
+        "S22"
+      ],
+      [
+        "S22+0",
+        "drone_hit",
+        0.52
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "from": "S1",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

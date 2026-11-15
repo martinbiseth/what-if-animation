@@ -1,0 +1,417 @@
+{
+  "id": "RomeBurgerC01",
+  "slug": "rome-burger/c01",
+  "chapter": "Cold open",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "cold open: the smell",
+      "text": "The smoke hits the street first. Then the smell. Sizzling meat, toasted bread, melted cheese."
+    },
+    {
+      "beat": "the line",
+      "text": "A line of people stretches all the way around the block. Senators in white togas. Soldiers. Bakers still covered in flour."
+    },
+    {
+      "beat": "demo: gladiator",
+      "text": "A gladiator the size of a door orders twelve. He eats three before he reaches the corner."
+    },
+    {
+      "beat": "demo: boy and senator",
+      "text": "A little boy takes his first bite, and his eyes go huge. A senator pays with a silver coin, and doesn't even wait for his change."
+    },
+    {
+      "beat": "the sign",
+      "text": "Above the counter, a painted sign says Burgus Maximus. You painted it yourself."
+    },
+    {
+      "beat": "the reveal",
+      "text": "Because this is Rome. The year sixty-four. Nobody here has ever eaten a burger. And you just opened the first burger restaurant on Earth."
+    },
+    {
+      "beat": "premise question",
+      "text": "What if you opened a McDonald's in ancient Rome?"
+    },
+    {
+      "beat": "the threat",
+      "text": "Sounds like you'd be rich by Friday. But in Rome, being loved by the crowd is the most dangerous thing there is. And in eight days, this whole city is going to burn."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "the grill close up, patties sizzling"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "smoke drifts into the street, a passer-by sniffs"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "the burger builds itself in close-up"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "the line all the way round the block"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "senators in togas waiting"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "two soldiers in the line"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "a baker covered in flour"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "a gladiator the size of a door orders twelve"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "he walks off with a stack, eating"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "a boy's first bite"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "his eyes go huge"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "a silver coin lands on the marble"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "the senator walks off without his change"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "tilt up to the sign"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "you, smug, paint on your cheek"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "the whole city: ROME AD 64"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "customers' first bites at the counter"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "you hold a burger up, Tullia and Felix"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "title over the street at dusk"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "coins pile up"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "the Circus crowd, the emperor's box"
+    },
+    {
+      "id": "S22",
+      "key": 20,
+      "note": "night, the sky glows orange, you look up"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Then"
+    },
+    {
+      "shot": "S3",
+      "at": "Sizzling"
+    },
+    {
+      "shot": "S4",
+      "at": "A"
+    },
+    {
+      "shot": "S5",
+      "at": "Senators"
+    },
+    {
+      "shot": "S6",
+      "at": "Soldiers"
+    },
+    {
+      "shot": "S7",
+      "at": "Bakers"
+    },
+    {
+      "shot": "S8",
+      "at": "A"
+    },
+    {
+      "shot": "S9",
+      "at": "He"
+    },
+    {
+      "shot": "S10",
+      "at": "A"
+    },
+    {
+      "shot": "S11",
+      "at": "and"
+    },
+    {
+      "shot": "S12",
+      "at": "A"
+    },
+    {
+      "shot": "S13",
+      "at": "and"
+    },
+    {
+      "shot": "S14",
+      "at": "Above"
+    },
+    {
+      "shot": "S15",
+      "at": "You"
+    },
+    {
+      "shot": "S16",
+      "at": "Because"
+    },
+    {
+      "shot": "S17",
+      "at": "Nobody"
+    },
+    {
+      "shot": "S18",
+      "at": "And"
+    },
+    {
+      "shot": "S19",
+      "at": "What"
+    },
+    {
+      "shot": "S20",
+      "at": "Sounds"
+    },
+    {
+      "shot": "S21",
+      "at": "But"
+    },
+    {
+      "shot": "S22",
+      "at": "And"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S12+14",
+      "kind": "flash",
+      "color": "#FFFFFF",
+      "o": 0.25
+    },
+    {
+      "at": "S19+2",
+      "kind": "flash",
+      "color": "#FFFFFF",
+      "o": 0.3
+    }
+  ],
+  "pace": {
+    "min_cuts": 24,
+    "max_hold": 4
+  },
+  "sound": {
+    "clips": {
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "chew": [
+        "someone chewing food thoughtfully, close, cartoon",
+        1.0
+      ],
+      "circus_roar": [
+        "a huge ancient stadium crowd roaring and cheering wildly at a chariot race",
+        5.0
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "m_rome": [
+        "light playful music with plucked lyre, frame drum and soft wooden flute, curious and upbeat, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "sizzle",
+        0.8
+      ],
+      [
+        "S2+0",
+        "roman_street",
+        0.21,
+        "onset",
+        "S16"
+      ],
+      [
+        "S3+4",
+        "pop",
+        0.4
+      ],
+      [
+        "S4+0",
+        "whoosh",
+        0.5
+      ],
+      [
+        "S8+0",
+        "land",
+        0.6
+      ],
+      [
+        "S10+10",
+        "chew",
+        0.6
+      ],
+      [
+        "S11+4",
+        "sparkle",
+        0.5
+      ],
+      [
+        "S12+4",
+        "coins",
+        0.9
+      ],
+      [
+        "S14+0",
+        "whoosh",
+        0.5
+      ],
+      [
+        "S16+0",
+        "title_boom",
+        0.9,
+        "peak"
+      ],
+      [
+        "S17+0",
+        "roman_street",
+        0.18,
+        "onset",
+        "S19"
+      ],
+      [
+        "S19+3",
+        "title_boom",
+        1.0,
+        "peak"
+      ],
+      [
+        "S20+0",
+        "coins",
+        0.8
+      ],
+      [
+        "S20+12",
+        "cash",
+        0.6
+      ],
+      [
+        "S21+0",
+        "circus_roar",
+        0.3,
+        "onset",
+        "S22"
+      ],
+      [
+        "S22+0",
+        "drone",
+        0.24
+      ]
+    ],
+    "music": {
+      "clip": "m_rome",
+      "from": "S2",
+      "until": "S22",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

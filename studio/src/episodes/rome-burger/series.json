@@ -1,0 +1,105 @@
+{
+ "id": "RomeBurger",
+ "slug": "rome-burger",
+ "topic": "What if you opened a McDonald's in ancient Rome?",
+ "title": [
+  "WHAT IF YOU OPENED A",
+  "BURGER JOINT IN ROME?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "How you got here",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "Opening Burgus Maximus",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "The night of the fire",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If You Opened a McDonald's in Ancient Rome?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "ancient rome",
+   "what if you opened a mcdonalds in ancient rome",
+   "fast food in ancient rome",
+   "time travel",
+   "roman food",
+   "burger",
+   "thermopolium",
+   "nero",
+   "great fire of rome",
+   "circus maximus",
+   "bread and circuses",
+   "history animation",
+   "animated story",
+   "what would happen if",
+   "alternate history",
+   "roman empire",
+   "pompeii",
+   "cliffhanger"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "You and your little sister wake up in Rome, in the summer of AD 64, with one cold burger in a paper bag. So you open the first burger restaurant on Earth. The crowds love it. The other cooks hate it. And the emperor's palace wants it. But something about Rome in July of 64 should sound very familiar.",
+  "thumbnail": {
+   "composition": "RomeBurgerThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have signed the contract to get Ellie back? 👇\n\nAnd be honest: did your grill start the Great Fire of Rome, or did someone set you up? Best theory gets pinned before Part 2.\n\nThe history checks out: about 80 street food counters found in Pompeii, a meat patty in a real Roman cookbook (isicia omentata), Nero's ban on hot food in taverns, and the fire that started by the Circus Maximus on 18 July AD 64. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2!"
+ }
+}

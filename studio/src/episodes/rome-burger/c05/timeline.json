@@ -1,0 +1,376 @@
+{
+ "slug": "rome-burger/c05",
+ "title": " ",
+ "fps": 30,
+ "total": 2511,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 5,
+   "t0": 0,
+   "t1": 5,
+   "line": "Then"
+  },
+  {
+   "shot": "S2",
+   "a": 5,
+   "b": 66,
+   "t0": 0,
+   "t1": 61,
+   "line": "you make a mistake. You start selling"
+  },
+  {
+   "shot": "S3",
+   "a": 66,
+   "b": 258,
+   "t0": 0,
+   "t1": 192,
+   "line": "at the chariot races. The Circus Maximus seats around a hundred and fifty thousand people. That's real."
+  },
+  {
+   "shot": "S4",
+   "a": 258,
+   "b": 401,
+   "t0": 0,
+   "t1": 143,
+   "line": "Felix and his friends run up and down the stands with baskets of burgers, shouting your name."
+  },
+  {
+   "shot": "S5",
+   "a": 401,
+   "b": 502,
+   "t0": 0,
+   "t1": 101,
+   "line": "By the fourth race, the crowd isn't cheering for the chariots anymore."
+  },
+  {
+   "shot": "S6",
+   "a": 502,
+   "b": 611,
+   "t0": 0,
+   "t1": 109,
+   "line": "They're chanting. Burgus! Burgus! Burgus!"
+  },
+  {
+   "shot": "S7",
+   "a": 611,
+   "b": 699,
+   "t0": 0,
+   "t1": 88,
+   "line": "And up in the emperor's box, someone notices."
+  },
+  {
+   "shot": "S8",
+   "a": 699,
+   "b": 920,
+   "t0": 0,
+   "t1": 221,
+   "line": "The next morning, a man in a white toga with a wide purple stripe is sitting at your counter. He doesn't order. He's from the palace."
+  },
+  {
+   "shot": "S9",
+   "a": 920,
+   "b": 974,
+   "t0": 0,
+   "t1": 54,
+   "line": "He explains how Rome works."
+  },
+  {
+   "shot": "S10",
+   "a": 974,
+   "b": 1111,
+   "t0": 0,
+   "t1": 137,
+   "line": "The emperor keeps the people quiet with two things: free food, and shows."
+  },
+  {
+   "shot": "S11",
+   "a": 1111,
+   "b": 1220,
+   "t0": 0,
+   "t1": 109,
+   "line": "A Roman poet called it bread and circuses. That's real."
+  },
+  {
+   "shot": "S12",
+   "a": 1220,
+   "b": 1385,
+   "t0": 0,
+   "t1": 165,
+   "line": "Every month, the state hands out free grain to about two hundred thousand men in this city. That's real too."
+  },
+  {
+   "shot": "S13",
+   "a": 1385,
+   "b": 1539,
+   "t0": 0,
+   "t1": 154,
+   "line": "'The people love your food, ' he says. 'So from tomorrow, it's the emperor's food. '"
+  },
+  {
+   "shot": "S14",
+   "a": 1539,
+   "b": 1651,
+   "t0": 0,
+   "t1": 112,
+   "line": "He slides a wax tablet across the counter. A contract."
+  },
+  {
+   "shot": "S15",
+   "a": 1651,
+   "b": 1779,
+   "t0": 0,
+   "t1": 128,
+   "line": "Burgus Maximus becomes property of the palace. You'll cook for the emperor,"
+  },
+  {
+   "shot": "S16",
+   "a": 1779,
+   "b": 1897,
+   "t0": 0,
+   "t1": 118,
+   "line": "live in a house on the Palatine Hill, and never worry about money again."
+  },
+  {
+   "shot": "S17",
+   "a": 1897,
+   "b": 1992,
+   "t0": 0,
+   "t1": 95,
+   "line": "Every other cookshop on the street will be closed, by order."
+  },
+  {
+   "shot": "S18",
+   "a": 1992,
+   "b": 2159,
+   "t0": 0,
+   "t1": 167,
+   "line": "Tullia looks at you. She doesn't say a word. She knows those cooks. She's known them all her life."
+  },
+  {
+   "shot": "S19",
+   "a": 2159,
+   "b": 2265,
+   "t0": 0,
+   "t1": 106,
+   "line": "You say you need to think about it. 'Of course, ' he says."
+  },
+  {
+   "shot": "S20",
+   "a": 2265,
+   "b": 2354,
+   "t0": 0,
+   "t1": 89,
+   "line": "Then he smiles at Ellie, and gives her a honey cake."
+  },
+  {
+   "shot": "S21",
+   "a": 2354,
+   "b": 2511,
+   "t0": 0,
+   "t1": 157,
+   "line": "'What a sweet girl. Rome can be so dangerous for children. '"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 5,
+   "first": 0,
+   "line": "Then",
+   "note": "you, pleased with yourself"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 61,
+   "first": 5,
+   "line": "you make a mistake. You start selling",
+   "note": "the chariot races"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 192,
+   "first": 66,
+   "line": "at the chariot races. The Circus Maximus seats around a hundred and fifty thousand people. That's real.",
+   "note": "150,000 seats"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 143,
+   "first": 258,
+   "line": "Felix and his friends run up and down the stands with baskets of burgers, shouting your name.",
+   "note": "Felix in the stands with burgers"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 101,
+   "first": 401,
+   "line": "By the fourth race, the crowd isn't cheering for the chariots anymore.",
+   "note": "nobody watches the chariots"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 109,
+   "first": 502,
+   "line": "They're chanting. Burgus! Burgus! Burgus!",
+   "note": "BURGUS! BURGUS! BURGUS!"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 88,
+   "first": 611,
+   "line": "And up in the emperor's box, someone notices.",
+   "note": "the emperor's box"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 221,
+   "first": 699,
+   "line": "The next morning, a man in a white toga with a wide purple stripe is sitting at your counter. He doesn't order. He's from the palace.",
+   "note": "next morning: the man in the purple stripe"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 54,
+   "first": 920,
+   "line": "He explains how Rome works.",
+   "note": "he explains how Rome works"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 137,
+   "first": 974,
+   "line": "The emperor keeps the people quiet with two things: free food, and shows.",
+   "note": "free food and shows"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 109,
+   "first": 1111,
+   "line": "A Roman poet called it bread and circuses. That's real.",
+   "note": "bread and circuses"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 165,
+   "first": 1220,
+   "line": "Every month, the state hands out free grain to about two hundred thousand men in this city. That's real too.",
+   "note": "free grain for 200,000 men"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 154,
+   "first": 1385,
+   "line": "'The people love your food, ' he says. 'So from tomorrow, it's the emperor's food. '",
+   "note": "the people love your food"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 112,
+   "first": 1539,
+   "line": "He slides a wax tablet across the counter. A contract.",
+   "note": "the wax tablet slides across"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 128,
+   "first": 1651,
+   "line": "Burgus Maximus becomes property of the palace. You'll cook for the emperor,",
+   "note": "property of the palace"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 118,
+   "first": 1779,
+   "line": "live in a house on the Palatine Hill, and never worry about money again.",
+   "note": "a house on the Palatine"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 95,
+   "first": 1897,
+   "line": "Every other cookshop on the street will be closed, by order.",
+   "note": "every other cookshop boarded up"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 167,
+   "first": 1992,
+   "line": "Tullia looks at you. She doesn't say a word. She knows those cooks. She's known them all her life.",
+   "note": "Tullia says nothing"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 106,
+   "first": 2159,
+   "line": "You say you need to think about it. 'Of course, ' he says.",
+   "note": "you need to think; of course"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 89,
+   "first": 2265,
+   "line": "Then he smiles at Ellie, and gives her a honey cake.",
+   "note": "a honey cake for Ellie"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 157,
+   "first": 2354,
+   "line": "'What a sweet girl. Rome can be so dangerous for children. '",
+   "note": "dangerous for children"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "rome-burger/c05/voice.wav",
+  "sfx": "rome-burger/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3492,
+  "music": "rome-burger/c05/music.wav",
+  "musicVol": 0.0838
+ }
+}

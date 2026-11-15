@@ -1,0 +1,494 @@
+{
+  "id": "RomeBurgerC03",
+  "slug": "rome-burger/c03",
+  "chapter": "Opening Burgus Maximus",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "Rome already has fast food",
+      "text": "First, you need a kitchen. And it turns out Rome already has fast food. All over the city, there are little street counters with big clay pots sunk into the stone, selling hot food to people whose apartments don't even have kitchens. In Pompeii alone, archaeologists have found about eighty of them. That's real."
+    },
+    {
+      "beat": "Tullia's counter",
+      "text": "One of those counters, right next to the giant race track called the Circus Maximus, belongs to a widow named Tullia. Business is terrible. Her son Felix is sweeping an empty floor."
+    },
+    {
+      "beat": "the cold burger",
+      "text": "You unwrap your cold burger and cut it into three. Tullia chews. Felix chews. Silence. Then Tullia rolls up her sleeves."
+    },
+    {
+      "beat": "the easy parts",
+      "text": "Building a burger in Rome is harder than it sounds. Bread is easy. The bakers here make beautiful loaves. You just ask for them round. Cheese? Rome loves cheese. Lettuce and onions? No problem."
+    },
+    {
+      "beat": "the meat",
+      "text": "The meat is trickier. Cows here pull ploughs, so you use pork. Then Tullia shows you an old recipe. Minced meat, pepper, pine nuts and fish sauce, pressed into a patty. A Roman cookbook really has one. That's real. Rome basically invented the burger. It just forgot the bun."
+    },
+    {
+      "beat": "no ketchup, no fries",
+      "text": "Ketchup is impossible. Tomatoes come from the Americas, and nobody will bring them to Europe for another fourteen hundred years. Same with potatoes, so no fries. You try turnip fries instead. Felix spits his into a pot."
+    },
+    {
+      "beat": "the system",
+      "text": "But your real secret isn't the food. It's the system. One grill. One job per person. A painted menu with pictures, because a lot of people here can't read. Clay tokens with numbers, so nobody fights over whose order is next."
+    },
+    {
+      "beat": "the price and the line",
+      "text": "You set the price at two bronze coins. In Pompeii, a cup of wine cost one. The first day, you sell forty burgers. The third day, four hundred. By the end of the week, the line goes around the block, and a gladiator asks if he can marry Tullia."
+    }
+  ],
+  "science": [
+    {
+      "claim": "In Pompeii archaeologists have found about eighty street food counters (thermopolia).",
+      "working": "The Pompeii Archaeological Park put the number of thermopolia found in Pompeii at about 80 when it unveiled the Regio V thermopolium in December 2020.",
+      "source": "Parco Archeologico di Pompei, press release on the Regio V thermopolium (26 Dec 2020); BBC News, 'Pompeii: Ancient Roman street food counter unearthed' (Dec 2020)"
+    },
+    {
+      "claim": "Many Romans lived in apartments without kitchens and ate at street counters.",
+      "working": "Most insulae flats had no proper kitchen; cookshops and thermopolia fed them.",
+      "source": "Smithsonian Magazine, 'Pompeii's Snack Bar' (2020); M. Beard, 'Pompeii: The Life of a Roman Town' (2008)"
+    },
+    {
+      "claim": "A Roman cookbook has a minced-meat patty with pepper, pine nuts and fish sauce.",
+      "working": "Isicia omentata in the Apicius collection (De re coquinaria, book 2): minced meat with pepper, pine nuts, garum and wine, shaped and wrapped in caul fat.",
+      "source": "Apicius, De re coquinaria 2.1; Smithsonian / BBC coverage calling it 'the Roman burger'"
+    },
+    {
+      "claim": "Tomatoes and potatoes reached Europe only after 1492.",
+      "working": "Both are American crops brought to Europe in the 16th century; 1492 - 64 = 1,428 years, 'fourteen hundred years'.",
+      "source": "Britannica, 'tomato' and 'potato'"
+    },
+    {
+      "claim": "In Pompeii a cup of wine cost one as.",
+      "working": "A bar inscription in Pompeii (CIL IV 1679): 'For one as you can drink wine; for two, the best; for four, Falernian.' The as was a bronze/copper coin.",
+      "source": "CIL IV 1679 (the Hedone inscription), Pompeii"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "a street of food counters, you and Ellie walking"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "a counter close: clay pots, a cook ladling"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "people without kitchens eating in the street"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "80 counters found in Pompeii"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "Tullia's counter by the Circus, no smoke"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "Tullia leaning, Felix sweeping an empty floor"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "the cold burger cut into three"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "Tullia chews"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "Felix chews"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "silence, then Tullia rolls up her sleeves"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "the baker's loaves, made round"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "cheese, lettuce, onions ticked off"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "cows pull ploughs, so pork"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "the old recipe: isicia omentata"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "a real Roman cookbook: a meat patty"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "you press a patty into a bun"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "tomatoes: not in Europe till after 1492"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "turnip fries"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "Felix spits his into a pot"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "your real secret"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "the system: grill, assembly, front, menu"
+    },
+    {
+      "id": "S22",
+      "key": 20,
+      "note": "numbered clay tokens"
+    },
+    {
+      "id": "S23",
+      "key": 20,
+      "note": "two bronze coins; wine cost one"
+    },
+    {
+      "id": "S24",
+      "key": 20,
+      "note": "40 the first day, 400 the third"
+    },
+    {
+      "id": "S25",
+      "key": 20,
+      "note": "the line round the block, the gladiator proposes"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "All"
+    },
+    {
+      "shot": "S3",
+      "at": "selling"
+    },
+    {
+      "shot": "S4",
+      "at": "In"
+    },
+    {
+      "shot": "S5",
+      "at": "One"
+    },
+    {
+      "shot": "S6",
+      "at": "Business"
+    },
+    {
+      "shot": "S7",
+      "at": "You"
+    },
+    {
+      "shot": "S8",
+      "at": "Tullia"
+    },
+    {
+      "shot": "S9",
+      "at": "Felix"
+    },
+    {
+      "shot": "S10",
+      "at": "Silence"
+    },
+    {
+      "shot": "S11",
+      "at": "Building"
+    },
+    {
+      "shot": "S12",
+      "at": "Cheese"
+    },
+    {
+      "shot": "S13",
+      "at": "The"
+    },
+    {
+      "shot": "S14",
+      "at": "Then"
+    },
+    {
+      "shot": "S15",
+      "at": "A#2"
+    },
+    {
+      "shot": "S16",
+      "at": "Rome"
+    },
+    {
+      "shot": "S17",
+      "at": "Ketchup"
+    },
+    {
+      "shot": "S18",
+      "at": "Same"
+    },
+    {
+      "shot": "S19",
+      "at": "Felix"
+    },
+    {
+      "shot": "S20",
+      "at": "But"
+    },
+    {
+      "shot": "S21",
+      "at": "One"
+    },
+    {
+      "shot": "S22",
+      "at": "Clay"
+    },
+    {
+      "shot": "S23",
+      "at": "You"
+    },
+    {
+      "shot": "S24",
+      "at": "The#2"
+    },
+    {
+      "shot": "S25",
+      "at": "By"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "cheer": [
+        "a small crowd in a club cheering and clapping",
+        2.0
+      ],
+      "chew": [
+        "someone chewing food thoughtfully, close, cartoon",
+        1.0
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "m_rome": [
+        "light playful music with plucked lyre, frame drum and soft wooden flute, curious and upbeat, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "spit": [
+        "a cartoon spit, a quick wet ptoo",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "roman_street",
+        0.21,
+        "onset",
+        "S7"
+      ],
+      [
+        "S4+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S7+0",
+        "slide",
+        0.5
+      ],
+      [
+        "S8+0",
+        "chew",
+        0.7
+      ],
+      [
+        "S9+0",
+        "chew",
+        0.7
+      ],
+      [
+        "S10+0",
+        "gulp",
+        0.5
+      ],
+      [
+        "S11+0",
+        "roman_street",
+        0.18,
+        "onset",
+        "S14"
+      ],
+      [
+        "S12+0",
+        "ding",
+        0.4
+      ],
+      [
+        "S13+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S14+0",
+        "paper",
+        0.5
+      ],
+      [
+        "S15+0",
+        "ding",
+        0.6
+      ],
+      [
+        "S16+0",
+        "sizzle",
+        0.6
+      ],
+      [
+        "S17+0",
+        "buzzer",
+        0.6
+      ],
+      [
+        "S18+0",
+        "sizzle",
+        0.5
+      ],
+      [
+        "S19+6",
+        "spit",
+        0.9
+      ],
+      [
+        "S20+0",
+        "sparkle",
+        0.5
+      ],
+      [
+        "S22+0",
+        "clink",
+        0.6
+      ],
+      [
+        "S23+0",
+        "coins",
+        0.8
+      ],
+      [
+        "S24+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S24+20",
+        "cash",
+        0.6
+      ],
+      [
+        "S25+0",
+        "roman_street",
+        0.27
+      ],
+      [
+        "S25+40",
+        "cheer",
+        0.5
+      ]
+    ],
+    "music": {
+      "clip": "m_rome",
+      "from": "f:0",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

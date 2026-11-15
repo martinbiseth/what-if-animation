@@ -1,0 +1,417 @@
+{
+ "slug": "rome-burger/c04",
+ "title": " ",
+ "fps": 30,
+ "total": 2810,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 58,
+   "t0": 0,
+   "t1": 58,
+   "line": "Then July really arrives."
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 169,
+   "t0": 0,
+   "t1": 111,
+   "line": "It's over thirty degrees in the shade, and you have no fridge."
+  },
+  {
+   "shot": "S3",
+   "a": 169,
+   "b": 229,
+   "t0": 0,
+   "t1": 60,
+   "line": "Raw meat goes bad in hours."
+  },
+  {
+   "shot": "S4",
+   "a": 229,
+   "b": 393,
+   "t0": 0,
+   "t1": 164,
+   "line": "On day eight, a whole delivery turns grey and starts to smell, and you have to throw it in the river."
+  },
+  {
+   "shot": "S5",
+   "a": 393,
+   "b": 467,
+   "t0": 0,
+   "t1": 74,
+   "line": "Felix starts buying meat three times a day."
+  },
+  {
+   "shot": "S6",
+   "a": 467,
+   "b": 551,
+   "t0": 0,
+   "t1": 84,
+   "line": "Ice? The rich buy snow, carried down"
+  },
+  {
+   "shot": "S7",
+   "a": 551,
+   "b": 722,
+   "t0": 0,
+   "t1": 171,
+   "line": "from the mountains and packed in straw. The emperor himself drinks water chilled in snow. That's real."
+  },
+  {
+   "shot": "S8",
+   "a": 722,
+   "b": 779,
+   "t0": 0,
+   "t1": 57,
+   "line": "You can't afford a single bucket."
+  },
+  {
+   "shot": "S9",
+   "a": 779,
+   "b": 885,
+   "t0": 0,
+   "t1": 106,
+   "line": "Pepper costs a fortune too. It comes on ships from India."
+  },
+  {
+   "shot": "S10",
+   "a": 885,
+   "b": 1043,
+   "t0": 0,
+   "t1": 158,
+   "line": "One Roman writer complained that India drained fifty million sesterces out of the empire every year."
+  },
+  {
+   "shot": "S11",
+   "a": 1043,
+   "b": 1100,
+   "t0": 0,
+   "t1": 57,
+   "line": "Your patties use a lot of pepper."
+  },
+  {
+   "shot": "S12",
+   "a": 1100,
+   "b": 1324,
+   "t0": 0,
+   "t1": 224,
+   "line": "Then there's the fire. Your grill burns charcoal all day, in a city packed with wooden balconies and apartment blocks up to twenty metres tall."
+  },
+  {
+   "shot": "S13",
+   "a": 1324,
+   "b": 1424,
+   "t0": 0,
+   "t1": 100,
+   "line": "The neighbours upstairs bang on the floor every time the smoke comes up."
+  },
+  {
+   "shot": "S14",
+   "a": 1424,
+   "b": 1572,
+   "t0": 0,
+   "t1": 148,
+   "line": "And the other cooks on your street hate you. You sell twice as fast, for half the price."
+  },
+  {
+   "shot": "S15",
+   "a": 1572,
+   "b": 1705,
+   "t0": 0,
+   "t1": 133,
+   "line": "One morning, someone has scratched a word into your counter. You don't read Latin,"
+  },
+  {
+   "shot": "S16",
+   "a": 1705,
+   "b": 1872,
+   "t0": 0,
+   "t1": 167,
+   "line": "but you can tell it's not a compliment. But the real problem is something Felix tells you, very quietly."
+  },
+  {
+   "shot": "S17",
+   "a": 1872,
+   "b": 1976,
+   "t0": 0,
+   "t1": 104,
+   "line": "Roman emperors don't like places where crowds gather to eat and talk."
+  },
+  {
+   "shot": "S18",
+   "a": 1976,
+   "b": 2133,
+   "t0": 0,
+   "t1": 157,
+   "line": "Tiberius banned eating houses from selling even pastries. Claudius shut taverns down."
+  },
+  {
+   "shot": "S19",
+   "a": 2133,
+   "b": 2348,
+   "t0": 0,
+   "t1": 215,
+   "line": "And Nero, the emperor right now, banned taverns from selling any hot food except beans and vegetables. That's real."
+  },
+  {
+   "shot": "S20",
+   "a": 2348,
+   "b": 2498,
+   "t0": 0,
+   "t1": 150,
+   "line": "Why? Because a place where hundreds of people meet every day is a place where people talk."
+  },
+  {
+   "shot": "S21",
+   "a": 2498,
+   "b": 2591,
+   "t0": 0,
+   "t1": 93,
+   "line": "And in Rome, people talking can turn into a riot."
+  },
+  {
+   "shot": "S22",
+   "a": 2591,
+   "b": 2709,
+   "t0": 0,
+   "t1": 118,
+   "line": "You look at the line outside. Three hundred people, all talking."
+  },
+  {
+   "shot": "S23",
+   "a": 2709,
+   "b": 2810,
+   "t0": 0,
+   "t1": 101,
+   "line": "And across the street, two soldiers are watching."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 58,
+   "first": 0,
+   "line": "Then July really arrives.",
+   "note": "JULY over the blazing street"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 111,
+   "first": 58,
+   "line": "It's over thirty degrees in the shade, and you have no fridge.",
+   "note": "31 C in the shade"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 60,
+   "first": 169,
+   "line": "Raw meat goes bad in hours.",
+   "note": "raw meat going grey, flies"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 164,
+   "first": 229,
+   "line": "On day eight, a whole delivery turns grey and starts to smell, and you have to throw it in the river.",
+   "note": "day 8: carrying a stinking crate"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 393,
+   "line": "Felix starts buying meat three times a day.",
+   "note": "Felix runs for meat three times a day"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 84,
+   "first": 467,
+   "line": "Ice? The rich buy snow, carried down",
+   "note": "snow carried down from the mountains"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 171,
+   "first": 551,
+   "line": "from the mountains and packed in straw. The emperor himself drinks water chilled in snow. That's real.",
+   "note": "the emperor's water chilled in snow"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 57,
+   "first": 722,
+   "line": "You can't afford a single bucket.",
+   "note": "you and an empty purse"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 106,
+   "first": 779,
+   "line": "Pepper costs a fortune too. It comes on ships from India.",
+   "note": "pepper on ships from India"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 158,
+   "first": 885,
+   "line": "One Roman writer complained that India drained fifty million sesterces out of the empire every year.",
+   "note": "50 million sesterces a year"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 57,
+   "first": 1043,
+   "line": "Your patties use a lot of pepper.",
+   "note": "you pepper the patties, Tullia winces"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 224,
+   "first": 1100,
+   "line": "Then there's the fire. Your grill burns charcoal all day, in a city packed with wooden balconies and apartment blocks up to twenty metres tall.",
+   "note": "smoke climbs the apartment block"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 100,
+   "first": 1324,
+   "line": "The neighbours upstairs bang on the floor every time the smoke comes up.",
+   "note": "a neighbour bangs and shouts"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 148,
+   "first": 1424,
+   "line": "And the other cooks on your street hate you. You sell twice as fast, for half the price.",
+   "note": "the other cooks glare"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 133,
+   "first": 1572,
+   "line": "One morning, someone has scratched a word into your counter. You don't read Latin,",
+   "note": "FVR! scratched into the counter"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 167,
+   "first": 1705,
+   "line": "but you can tell it's not a compliment. But the real problem is something Felix tells you, very quietly.",
+   "note": "Felix whispers"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 104,
+   "first": 1872,
+   "line": "Roman emperors don't like places where crowds gather to eat and talk.",
+   "note": "emperors do not like crowds that eat"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 157,
+   "first": 1976,
+   "line": "Tiberius banned eating houses from selling even pastries. Claudius shut taverns down.",
+   "note": "Tiberius, Claudius bans"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 215,
+   "first": 2133,
+   "line": "And Nero, the emperor right now, banned taverns from selling any hot food except beans and vegetables. That's real.",
+   "note": "Nero: no hot food except beans and veg"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 150,
+   "first": 2348,
+   "line": "Why? Because a place where hundreds of people meet every day is a place where people talk.",
+   "note": "crowds talk at the counter"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 93,
+   "first": 2498,
+   "line": "And in Rome, people talking can turn into a riot.",
+   "note": "talk turns to a riot"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 118,
+   "first": 2591,
+   "line": "You look at the line outside. Three hundred people, all talking.",
+   "note": "three hundred people in your line"
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 20,
+   "len": 101,
+   "first": 2709,
+   "line": "And across the street, two soldiers are watching.",
+   "note": "two soldiers watching"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.25,
+   "f": 2139
+  }
+ ],
+ "audio": {
+  "voice": "rome-burger/c04/voice.wav",
+  "sfx": "rome-burger/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.6503,
+  "music": "rome-burger/c04/music.wav",
+  "musicVol": 0.1456
+ }
+}

@@ -1,0 +1,418 @@
+{
+  "id": "RomeBurgerC05",
+  "slug": "rome-burger/c05",
+  "chapter": "Someone notices",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "the races",
+      "text": "Then you make a mistake. You start selling at the chariot races. The Circus Maximus seats around a hundred and fifty thousand people. That's real. Felix and his friends run up and down the stands with baskets of burgers, shouting your name."
+    },
+    {
+      "beat": "the chant",
+      "text": "By the fourth race, the crowd isn't cheering for the chariots anymore. They're chanting. Burgus! Burgus! Burgus! And up in the emperor's box, someone notices."
+    },
+    {
+      "beat": "the man from the palace",
+      "text": "The next morning, a man in a white toga with a wide purple stripe is sitting at your counter. He doesn't order. He's from the palace."
+    },
+    {
+      "beat": "bread and circuses",
+      "text": "He explains how Rome works. The emperor keeps the people quiet with two things: free food, and shows. A Roman poet called it bread and circuses. That's real. Every month, the state hands out free grain to about two hundred thousand men in this city. That's real too."
+    },
+    {
+      "beat": "the offer",
+      "text": "'The people love your food,' he says. 'So from tomorrow, it's the emperor's food.' He slides a wax tablet across the counter. A contract. Burgus Maximus becomes property of the palace. You'll cook for the emperor, live in a house on the Palatine Hill, and never worry about money again. Every other cookshop on the street will be closed, by order."
+    },
+    {
+      "beat": "Tullia",
+      "text": "Tullia looks at you. She doesn't say a word. She knows those cooks. She's known them all her life."
+    },
+    {
+      "beat": "the threat",
+      "text": "You say you need to think about it. 'Of course,' he says. Then he smiles at Ellie, and gives her a honey cake. 'What a sweet girl. Rome can be so dangerous for children.'"
+    }
+  ],
+  "science": [
+    {
+      "claim": "The Circus Maximus seated around 150,000 people.",
+      "working": "Dionysius of Halicarnassus (1st century BC) gives 150,000 seats; later sources give more after enlargements.",
+      "source": "Dionysius of Halicarnassus, Roman Antiquities 3.68; Britannica, 'Circus Maximus'"
+    },
+    {
+      "claim": "A Roman poet called it bread and circuses.",
+      "working": "Juvenal, Satire 10.81: the people now long for two things only, 'panem et circenses'.",
+      "source": "Juvenal, Satires 10.77-81"
+    },
+    {
+      "claim": "About two hundred thousand men in Rome received free grain every month.",
+      "working": "Augustus records a little over 200,000 recipients of the public grain in 2 BC; the dole stayed at about that size under his successors.",
+      "source": "Res Gestae Divi Augusti 15; Suetonius, Augustus 40"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "you, pleased with yourself"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "the chariot races"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "150,000 seats"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "Felix in the stands with burgers"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "nobody watches the chariots"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "BURGUS! BURGUS! BURGUS!"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "the emperor's box"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "next morning: the man in the purple stripe"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "he explains how Rome works"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "free food and shows"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "bread and circuses"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "free grain for 200,000 men"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "the people love your food"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "the wax tablet slides across"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "property of the palace"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "a house on the Palatine"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "every other cookshop boarded up"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "Tullia says nothing"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "you need to think; of course"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "a honey cake for Ellie"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "dangerous for children"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You"
+    },
+    {
+      "shot": "S3",
+      "at": "The"
+    },
+    {
+      "shot": "S4",
+      "at": "Felix"
+    },
+    {
+      "shot": "S5",
+      "at": "By"
+    },
+    {
+      "shot": "S6",
+      "at": "They're"
+    },
+    {
+      "shot": "S7",
+      "at": "And"
+    },
+    {
+      "shot": "S8",
+      "at": "The#2"
+    },
+    {
+      "shot": "S9",
+      "at": "He#2"
+    },
+    {
+      "shot": "S10",
+      "at": "The"
+    },
+    {
+      "shot": "S11",
+      "at": "A"
+    },
+    {
+      "shot": "S12",
+      "at": "Every"
+    },
+    {
+      "shot": "S13",
+      "at": "The#2"
+    },
+    {
+      "shot": "S14",
+      "at": "He#2"
+    },
+    {
+      "shot": "S15",
+      "at": "Burgus"
+    },
+    {
+      "shot": "S16",
+      "at": "live"
+    },
+    {
+      "shot": "S17",
+      "at": "Every"
+    },
+    {
+      "shot": "S18",
+      "at": "Tullia"
+    },
+    {
+      "shot": "S19",
+      "at": "You#2"
+    },
+    {
+      "shot": "S20",
+      "at": "Then"
+    },
+    {
+      "shot": "S21",
+      "at": "What"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "chant": [
+        "a huge stadium crowd chanting one short word together in a steady rhythm, deep male voices",
+        4.0
+      ],
+      "chariots": [
+        "chariots racing past, galloping horses and rattling wooden wheels on sand",
+        3.0
+      ],
+      "circus_roar": [
+        "a huge ancient stadium crowd roaring and cheering wildly at a chariot race",
+        5.0
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S2+0",
+        "circus_roar",
+        0.36,
+        "onset",
+        "S3"
+      ],
+      [
+        "S2+4",
+        "chariots",
+        0.7
+      ],
+      [
+        "S3+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S4+0",
+        "circus_roar",
+        0.24,
+        "onset",
+        "S7"
+      ],
+      [
+        "S5+0",
+        "chariots",
+        0.5
+      ],
+      [
+        "S6+0",
+        "chant",
+        0.9
+      ],
+      [
+        "S7+0",
+        "drone_hit",
+        0.38
+      ],
+      [
+        "S8+0",
+        "roman_street",
+        0.15,
+        "onset",
+        "S10"
+      ],
+      [
+        "S10+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S11+0",
+        "card_hit",
+        0.6
+      ],
+      [
+        "S12+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S14+0",
+        "slide",
+        0.8
+      ],
+      [
+        "S15+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S16+0",
+        "coins",
+        0.6
+      ],
+      [
+        "S17+0",
+        "door_shut",
+        0.6
+      ],
+      [
+        "S18+0",
+        "heartbeat",
+        0.24
+      ],
+      [
+        "S20+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S21+0",
+        "drone",
+        0.24
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "from": "S8",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

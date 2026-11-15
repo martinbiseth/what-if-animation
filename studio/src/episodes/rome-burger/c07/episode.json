@@ -1,0 +1,433 @@
+{
+  "id": "RomeBurgerC07",
+  "slug": "rome-burger/c07",
+  "chapter": "The night of the fire",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "you remember",
+      "text": "And that's when you remember history class."
+    },
+    {
+      "beat": "the Great Fire",
+      "text": "On the night of the eighteenth of July, in the year sixty-four, a fire broke out in the shops around the Circus Maximus. The Great Fire of Rome. It burned for six days. Of the city's fourteen districts, only four were left untouched. That's real."
+    },
+    {
+      "beat": "where you are",
+      "text": "You're standing in a shop next to the Circus Maximus, with a grill that has to burn all night. On the eighteenth of July."
+    },
+    {
+      "beat": "the doorway",
+      "text": "You turn to put the fire out. And the man with the purple stripe is standing in the doorway, with two soldiers. 'The emperor's feast,' he says softly. 'The grill stays lit.'"
+    },
+    {
+      "beat": "the glow",
+      "text": "Somewhere down the street, someone shouts. And the sky over the Circus starts to glow orange."
+    },
+    {
+      "beat": "the question",
+      "text": "So did you just start the Great Fire of Rome? Or did someone want it to look like you did? Tell me what you'd do, in the comments."
+    },
+    {
+      "beat": "is any of this real",
+      "text": "And is any of this real? The history is. Rome had fast food counters. A Roman cookbook has a meat patty. No tomatoes or potatoes in Europe until after fourteen ninety-two. Nero banned hot food in taverns. And the fire started at the Circus Maximus, on the eighteenth of July. What happens next? That's part two."
+    }
+  ],
+  "science": [
+    {
+      "claim": "The Great Fire of Rome broke out on 18/19 July AD 64 in the shops around the Circus Maximus and burned six days; of 14 districts, 4 were untouched.",
+      "working": "Tacitus: the fire began in the part of the Circus next to the Palatine and Caelian hills, among shops with flammable goods, on 19 July (the night of 18-19 July); it raged six days before being stopped at the foot of the Esquiline. Of Rome's fourteen districts four stood intact, three were levelled and seven reduced to a few ruins.",
+      "source": "Tacitus, Annals 15.38-41"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "you remember history class"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "the map: fire breaks out by the Circus"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "THE GREAT FIRE OF ROME"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "six days"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "only 4 of 14 districts untouched"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "you, alone, the grill burning"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "18 JULY"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "you turn to put it out"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "the official in the doorway with soldiers"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "the grill stays lit"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "a shout, people running"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "the sky over the Circus glows orange"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "did you start it?"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "or did someone want it to look like you did?"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "comments card"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "is any of this real?"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "recap 1-2"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "recap 3"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "recap 4"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "recap 5"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "end card: PART 2, SUBSCRIBE"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "On"
+    },
+    {
+      "shot": "S3",
+      "at": "Great"
+    },
+    {
+      "shot": "S4",
+      "at": "It"
+    },
+    {
+      "shot": "S5",
+      "at": "Of"
+    },
+    {
+      "shot": "S6",
+      "at": "You're"
+    },
+    {
+      "shot": "S7",
+      "at": "On"
+    },
+    {
+      "shot": "S8",
+      "at": "You"
+    },
+    {
+      "shot": "S9",
+      "at": "And"
+    },
+    {
+      "shot": "S10",
+      "at": "The#4"
+    },
+    {
+      "shot": "S11",
+      "at": "Somewhere"
+    },
+    {
+      "shot": "S12",
+      "at": "And"
+    },
+    {
+      "shot": "S13",
+      "at": "So"
+    },
+    {
+      "shot": "S14",
+      "at": "Or"
+    },
+    {
+      "shot": "S15",
+      "at": "Tell"
+    },
+    {
+      "shot": "S16",
+      "at": "And"
+    },
+    {
+      "shot": "S17",
+      "at": "Rome"
+    },
+    {
+      "shot": "S18",
+      "at": "No"
+    },
+    {
+      "shot": "S19",
+      "at": "Nero"
+    },
+    {
+      "shot": "S20",
+      "at": "And"
+    },
+    {
+      "shot": "S21",
+      "at": "What"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S12+30",
+      "kind": "flash",
+      "color": "#FF6A2A",
+      "o": 0.25
+    }
+  ],
+  "tail": 3.0,
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "fire_roar": [
+        "a large city fire roaring, crackling flames and distant collapsing timber",
+        6.0
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "laugh_low": [
+        "a man in a dark room laughing very softly, a quiet amused chuckle",
+        1.6
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "heartbeat",
+        0.24
+      ],
+      [
+        "S2+0",
+        "fire_roar",
+        0.18,
+        "onset",
+        "S3"
+      ],
+      [
+        "S3+0",
+        "title_boom",
+        1.0,
+        "peak"
+      ],
+      [
+        "S4+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S5+0",
+        "fire_roar",
+        0.15,
+        "onset",
+        "S6"
+      ],
+      [
+        "S6+0",
+        "sizzle",
+        0.3,
+        "onset",
+        "S9"
+      ],
+      [
+        "S7+0",
+        "drone_hit",
+        0.4
+      ],
+      [
+        "S8+0",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S9+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S11+0",
+        "fire_roar",
+        0.18,
+        "onset",
+        "S15"
+      ],
+      [
+        "S11+0",
+        "gasp",
+        0.45
+      ],
+      [
+        "S12+0",
+        "fire_roar",
+        0.2
+      ],
+      [
+        "S13+0",
+        "heartbeat",
+        0.36
+      ],
+      [
+        "S14+0",
+        "laugh_low",
+        0.45
+      ],
+      [
+        "S15+0",
+        "pop",
+        0.5
+      ],
+      [
+        "S16+0",
+        "card_hit",
+        0.6
+      ],
+      [
+        "S17+0",
+        "ding",
+        0.5
+      ],
+      [
+        "S17+40",
+        "ding",
+        0.5
+      ],
+      [
+        "S18+0",
+        "ding",
+        0.5
+      ],
+      [
+        "S19+0",
+        "ding",
+        0.5
+      ],
+      [
+        "S20+0",
+        "ding",
+        0.5
+      ],
+      [
+        "S21+0",
+        "title_boom",
+        0.9,
+        "peak"
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "from": "S1",
+      "until": "S16",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

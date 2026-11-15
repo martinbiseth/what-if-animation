@@ -1,0 +1,476 @@
+{
+  "id": "RomeBurgerC04",
+  "slug": "rome-burger/c04",
+  "chapter": "The catch",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "the heat",
+      "text": "Then July really arrives. It's over thirty degrees in the shade, and you have no fridge. Raw meat goes bad in hours. On day eight, a whole delivery turns grey and starts to smell, and you have to throw it in the river. Felix starts buying meat three times a day."
+    },
+    {
+      "beat": "ice",
+      "text": "Ice? The rich buy snow, carried down from the mountains and packed in straw. The emperor himself drinks water chilled in snow. That's real. You can't afford a single bucket."
+    },
+    {
+      "beat": "pepper",
+      "text": "Pepper costs a fortune too. It comes on ships from India. One Roman writer complained that India drained fifty million sesterces out of the empire every year. Your patties use a lot of pepper."
+    },
+    {
+      "beat": "fire",
+      "text": "Then there's the fire. Your grill burns charcoal all day, in a city packed with wooden balconies and apartment blocks up to twenty metres tall. The neighbours upstairs bang on the floor every time the smoke comes up."
+    },
+    {
+      "beat": "rivals",
+      "text": "And the other cooks on your street hate you. You sell twice as fast, for half the price. One morning, someone has scratched a word into your counter. You don't read Latin, but you can tell it's not a compliment."
+    },
+    {
+      "beat": "the law",
+      "text": "But the real problem is something Felix tells you, very quietly. Roman emperors don't like places where crowds gather to eat and talk. Tiberius banned eating houses from selling even pastries. Claudius shut taverns down. And Nero, the emperor right now, banned taverns from selling any hot food except beans and vegetables. That's real."
+    },
+    {
+      "beat": "why",
+      "text": "Why? Because a place where hundreds of people meet every day is a place where people talk. And in Rome, people talking can turn into a riot."
+    },
+    {
+      "beat": "the soldiers",
+      "text": "You look at the line outside. Three hundred people, all talking. And across the street, two soldiers are watching."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Rome in July is over thirty degrees in the shade.",
+      "working": "Rome's average July high today is about 31 to 32 C.",
+      "source": "Italian Air Force climate normals, Roma Ciampino 1991-2020"
+    },
+    {
+      "claim": "Nero drank water chilled in snow.",
+      "working": "Pliny describes Nero's invention of boiling water and chilling it in a glass vessel set in snow ('decocta Neronis'); snow was brought down from the mountains for the rich.",
+      "source": "Pliny the Elder, Natural History 31.40; Seneca, Natural Questions 4b.13"
+    },
+    {
+      "claim": "India drained fifty million sesterces a year from the empire.",
+      "working": "Pliny: 'in no year does India drain our empire of less than fifty million sesterces'.",
+      "source": "Pliny the Elder, Natural History 6.101"
+    },
+    {
+      "claim": "Apartment blocks up to about twenty metres tall.",
+      "working": "Augustus limited new buildings on public streets to 70 Roman feet, about 20.7 m.",
+      "source": "Strabo, Geography 5.3.7"
+    },
+    {
+      "claim": "Tiberius, Claudius and Nero restricted cookshops and taverns; Nero banned hot food except beans and vegetables.",
+      "working": "Tiberius had the aediles restrain eating houses 'so that not even pastry might be sold' (Suetonius, Tiberius 34). Claudius abolished the taverns where people gathered (Cassius Dio 60.6.7). Nero 'forbade the sale of any kind of cooked food in the taverns, except pulse and vegetables' (Suetonius, Nero 16).",
+      "source": "Suetonius, Lives of the Caesars (Tiberius 34, Nero 16); Cassius Dio, Roman History 60.6.7"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "JULY over the blazing street"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "31 C in the shade"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "raw meat going grey, flies"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "day 8: carrying a stinking crate"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "Felix runs for meat three times a day"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "snow carried down from the mountains"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "the emperor's water chilled in snow"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "you and an empty purse"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "pepper on ships from India"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "50 million sesterces a year"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "you pepper the patties, Tullia winces"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "smoke climbs the apartment block"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "a neighbour bangs and shouts"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "the other cooks glare"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "FVR! scratched into the counter"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "Felix whispers"
+    },
+    {
+      "id": "S17",
+      "key": 20,
+      "note": "emperors do not like crowds that eat"
+    },
+    {
+      "id": "S18",
+      "key": 20,
+      "note": "Tiberius, Claudius bans"
+    },
+    {
+      "id": "S19",
+      "key": 20,
+      "note": "Nero: no hot food except beans and veg"
+    },
+    {
+      "id": "S20",
+      "key": 20,
+      "note": "crowds talk at the counter"
+    },
+    {
+      "id": "S21",
+      "key": 20,
+      "note": "talk turns to a riot"
+    },
+    {
+      "id": "S22",
+      "key": 20,
+      "note": "three hundred people in your line"
+    },
+    {
+      "id": "S23",
+      "key": 20,
+      "note": "two soldiers watching"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "It's"
+    },
+    {
+      "shot": "S3",
+      "at": "Raw"
+    },
+    {
+      "shot": "S4",
+      "at": "On"
+    },
+    {
+      "shot": "S5",
+      "at": "Felix"
+    },
+    {
+      "shot": "S6",
+      "at": "Ice"
+    },
+    {
+      "shot": "S7",
+      "at": "The#2"
+    },
+    {
+      "shot": "S8",
+      "at": "You"
+    },
+    {
+      "shot": "S9",
+      "at": "Pepper"
+    },
+    {
+      "shot": "S10",
+      "at": "One"
+    },
+    {
+      "shot": "S11",
+      "at": "Your"
+    },
+    {
+      "shot": "S12",
+      "at": "Then"
+    },
+    {
+      "shot": "S13",
+      "at": "The#2"
+    },
+    {
+      "shot": "S14",
+      "at": "And"
+    },
+    {
+      "shot": "S15",
+      "at": "One"
+    },
+    {
+      "shot": "S16",
+      "at": "But"
+    },
+    {
+      "shot": "S17",
+      "at": "Roman"
+    },
+    {
+      "shot": "S18",
+      "at": "Tiberius"
+    },
+    {
+      "shot": "S19",
+      "at": "And"
+    },
+    {
+      "shot": "S20",
+      "at": "Why"
+    },
+    {
+      "shot": "S21",
+      "at": "And"
+    },
+    {
+      "shot": "S22",
+      "at": "You"
+    },
+    {
+      "shot": "S23",
+      "at": "And"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S19+6",
+      "kind": "flash",
+      "color": "#FF4A3A",
+      "o": 0.25
+    }
+  ],
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cheer": [
+        "a small crowd in a club cheering and clapping",
+        2.0
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flies": [
+        "a few flies buzzing around close by",
+        2.0
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "knock": [
+        "three firm knocks on an old wooden door",
+        1.2
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ],
+      "wind": [
+        "wind blowing on a city rooftop at dusk, distant traffic far below",
+        6.0
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "roman_street",
+        0.18,
+        "onset",
+        "S3"
+      ],
+      [
+        "S1+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S2+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S3+0",
+        "flies",
+        0.4
+      ],
+      [
+        "S4+0",
+        "flies",
+        0.3
+      ],
+      [
+        "S5+0",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S6+0",
+        "wind",
+        0.18,
+        "onset",
+        "S8"
+      ],
+      [
+        "S8+0",
+        "coins",
+        0.5
+      ],
+      [
+        "S10+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S11+0",
+        "sizzle",
+        0.5
+      ],
+      [
+        "S12+0",
+        "sizzle",
+        0.24,
+        "onset",
+        "S13"
+      ],
+      [
+        "S13+0",
+        "knock",
+        0.8
+      ],
+      [
+        "S14+0",
+        "drone_hit",
+        0.3
+      ],
+      [
+        "S15+0",
+        "crack",
+        0.5
+      ],
+      [
+        "S17+0",
+        "drone",
+        0.12,
+        "onset",
+        "S20"
+      ],
+      [
+        "S18+0",
+        "paper",
+        0.5
+      ],
+      [
+        "S19+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S20+0",
+        "roman_street",
+        0.24,
+        "onset",
+        "S23"
+      ],
+      [
+        "S21+0",
+        "cheer",
+        0.4
+      ],
+      [
+        "S23+0",
+        "heartbeat",
+        0.3
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "from": "f:0",
+      "until": "S17",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

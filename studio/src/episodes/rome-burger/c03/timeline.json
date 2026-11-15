@@ -1,0 +1,444 @@
+{
+ "slug": "rome-burger/c03",
+ "title": " ",
+ "fps": 30,
+ "total": 3278,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 132,
+   "t0": 0,
+   "t1": 132,
+   "line": "First, you need a kitchen. And it turns out Rome already has fast food."
+  },
+  {
+   "shot": "S2",
+   "a": 132,
+   "b": 276,
+   "t0": 0,
+   "t1": 144,
+   "line": "All over the city, there are little street counters with big clay pots sunk into the stone,"
+  },
+  {
+   "shot": "S3",
+   "a": 276,
+   "b": 375,
+   "t0": 0,
+   "t1": 99,
+   "line": "selling hot food to people whose apartments don't even have kitchens."
+  },
+  {
+   "shot": "S4",
+   "a": 375,
+   "b": 519,
+   "t0": 0,
+   "t1": 144,
+   "line": "In Pompeii alone, archaeologists have found about eighty of them. That's real."
+  },
+  {
+   "shot": "S5",
+   "a": 519,
+   "b": 721,
+   "t0": 0,
+   "t1": 202,
+   "line": "One of those counters, right next to the giant race track called the Circus Maximus, belongs to a widow named Tullia."
+  },
+  {
+   "shot": "S6",
+   "a": 721,
+   "b": 845,
+   "t0": 0,
+   "t1": 124,
+   "line": "Business is terrible. Her son Felix is sweeping an empty floor."
+  },
+  {
+   "shot": "S7",
+   "a": 845,
+   "b": 920,
+   "t0": 0,
+   "t1": 75,
+   "line": "You unwrap your cold burger and cut it into three."
+  },
+  {
+   "shot": "S8",
+   "a": 920,
+   "b": 958,
+   "t0": 0,
+   "t1": 38,
+   "line": "Tullia chews."
+  },
+  {
+   "shot": "S9",
+   "a": 958,
+   "b": 997,
+   "t0": 0,
+   "t1": 39,
+   "line": "Felix chews."
+  },
+  {
+   "shot": "S10",
+   "a": 997,
+   "b": 1089,
+   "t0": 0,
+   "t1": 92,
+   "line": "Silence. Then Tullia rolls up her sleeves."
+  },
+  {
+   "shot": "S11",
+   "a": 1089,
+   "b": 1328,
+   "t0": 0,
+   "t1": 239,
+   "line": "Building a burger in Rome is harder than it sounds. Bread is easy. The bakers here make beautiful loaves. You just ask for them round."
+  },
+  {
+   "shot": "S12",
+   "a": 1328,
+   "b": 1480,
+   "t0": 0,
+   "t1": 152,
+   "line": "Cheese? Rome loves cheese. Lettuce and onions? No problem."
+  },
+  {
+   "shot": "S13",
+   "a": 1480,
+   "b": 1612,
+   "t0": 0,
+   "t1": 132,
+   "line": "The meat is trickier. Cows here pull ploughs, so you use pork."
+  },
+  {
+   "shot": "S14",
+   "a": 1612,
+   "b": 1814,
+   "t0": 0,
+   "t1": 202,
+   "line": "Then Tullia shows you an old recipe. Minced meat, pepper, pine nuts and fish sauce, pressed into a patty."
+  },
+  {
+   "shot": "S15",
+   "a": 1814,
+   "b": 1908,
+   "t0": 0,
+   "t1": 94,
+   "line": "A Roman cookbook really has one. That's real."
+  },
+  {
+   "shot": "S16",
+   "a": 1908,
+   "b": 2014,
+   "t0": 0,
+   "t1": 106,
+   "line": "Rome basically invented the burger. It just forgot the bun."
+  },
+  {
+   "shot": "S17",
+   "a": 2014,
+   "b": 2222,
+   "t0": 0,
+   "t1": 208,
+   "line": "Ketchup is impossible. Tomatoes come from the Americas, and nobody will bring them to Europe for another fourteen hundred years."
+  },
+  {
+   "shot": "S18",
+   "a": 2222,
+   "b": 2351,
+   "t0": 0,
+   "t1": 129,
+   "line": "Same with potatoes, so no fries. You try turnip fries instead."
+  },
+  {
+   "shot": "S19",
+   "a": 2351,
+   "b": 2413,
+   "t0": 0,
+   "t1": 62,
+   "line": "Felix spits his into a pot."
+  },
+  {
+   "shot": "S20",
+   "a": 2413,
+   "b": 2511,
+   "t0": 0,
+   "t1": 98,
+   "line": "But your real secret isn't the food. It's the system."
+  },
+  {
+   "shot": "S21",
+   "a": 2511,
+   "b": 2701,
+   "t0": 0,
+   "t1": 190,
+   "line": "One grill. One job per person. A painted menu with pictures, because a lot of people here can't read."
+  },
+  {
+   "shot": "S22",
+   "a": 2701,
+   "b": 2819,
+   "t0": 0,
+   "t1": 118,
+   "line": "Clay tokens with numbers, so nobody fights over whose order is next."
+  },
+  {
+   "shot": "S23",
+   "a": 2819,
+   "b": 2975,
+   "t0": 0,
+   "t1": 156,
+   "line": "You set the price at two bronze coins. In Pompeii, a cup of wine cost one."
+  },
+  {
+   "shot": "S24",
+   "a": 2975,
+   "b": 3111,
+   "t0": 0,
+   "t1": 136,
+   "line": "The first day, you sell forty burgers. The third day, four hundred."
+  },
+  {
+   "shot": "S25",
+   "a": 3111,
+   "b": 3278,
+   "t0": 0,
+   "t1": 167,
+   "line": "By the end of the week, the line goes around the block, and a gladiator asks if he can marry Tullia."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 132,
+   "first": 0,
+   "line": "First, you need a kitchen. And it turns out Rome already has fast food.",
+   "note": "a street of food counters, you and Ellie walking"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 144,
+   "first": 132,
+   "line": "All over the city, there are little street counters with big clay pots sunk into the stone,",
+   "note": "a counter close: clay pots, a cook ladling"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 99,
+   "first": 276,
+   "line": "selling hot food to people whose apartments don't even have kitchens.",
+   "note": "people without kitchens eating in the street"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 144,
+   "first": 375,
+   "line": "In Pompeii alone, archaeologists have found about eighty of them. That's real.",
+   "note": "80 counters found in Pompeii"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 202,
+   "first": 519,
+   "line": "One of those counters, right next to the giant race track called the Circus Maximus, belongs to a widow named Tullia.",
+   "note": "Tullia's counter by the Circus, no smoke"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 124,
+   "first": 721,
+   "line": "Business is terrible. Her son Felix is sweeping an empty floor.",
+   "note": "Tullia leaning, Felix sweeping an empty floor"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 75,
+   "first": 845,
+   "line": "You unwrap your cold burger and cut it into three.",
+   "note": "the cold burger cut into three"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 38,
+   "first": 920,
+   "line": "Tullia chews.",
+   "note": "Tullia chews"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 39,
+   "first": 958,
+   "line": "Felix chews.",
+   "note": "Felix chews"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 92,
+   "first": 997,
+   "line": "Silence. Then Tullia rolls up her sleeves.",
+   "note": "silence, then Tullia rolls up her sleeves"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 239,
+   "first": 1089,
+   "line": "Building a burger in Rome is harder than it sounds. Bread is easy. The bakers here make beautiful loaves. You just ask for them round.",
+   "note": "the baker's loaves, made round"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 152,
+   "first": 1328,
+   "line": "Cheese? Rome loves cheese. Lettuce and onions? No problem.",
+   "note": "cheese, lettuce, onions ticked off"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 132,
+   "first": 1480,
+   "line": "The meat is trickier. Cows here pull ploughs, so you use pork.",
+   "note": "cows pull ploughs, so pork"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 202,
+   "first": 1612,
+   "line": "Then Tullia shows you an old recipe. Minced meat, pepper, pine nuts and fish sauce, pressed into a patty.",
+   "note": "the old recipe: isicia omentata"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 94,
+   "first": 1814,
+   "line": "A Roman cookbook really has one. That's real.",
+   "note": "a real Roman cookbook: a meat patty"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 106,
+   "first": 1908,
+   "line": "Rome basically invented the burger. It just forgot the bun.",
+   "note": "you press a patty into a bun"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 208,
+   "first": 2014,
+   "line": "Ketchup is impossible. Tomatoes come from the Americas, and nobody will bring them to Europe for another fourteen hundred years.",
+   "note": "tomatoes: not in Europe till after 1492"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 129,
+   "first": 2222,
+   "line": "Same with potatoes, so no fries. You try turnip fries instead.",
+   "note": "turnip fries"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 62,
+   "first": 2351,
+   "line": "Felix spits his into a pot.",
+   "note": "Felix spits his into a pot"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 98,
+   "first": 2413,
+   "line": "But your real secret isn't the food. It's the system.",
+   "note": "your real secret"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 190,
+   "first": 2511,
+   "line": "One grill. One job per person. A painted menu with pictures, because a lot of people here can't read.",
+   "note": "the system: grill, assembly, front, menu"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 118,
+   "first": 2701,
+   "line": "Clay tokens with numbers, so nobody fights over whose order is next.",
+   "note": "numbered clay tokens"
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 20,
+   "len": 156,
+   "first": 2819,
+   "line": "You set the price at two bronze coins. In Pompeii, a cup of wine cost one.",
+   "note": "two bronze coins; wine cost one"
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 20,
+   "len": 136,
+   "first": 2975,
+   "line": "The first day, you sell forty burgers. The third day, four hundred.",
+   "note": "40 the first day, 400 the third"
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 20,
+   "len": 167,
+   "first": 3111,
+   "line": "By the end of the week, the line goes around the block, and a gladiator asks if he can marry Tullia.",
+   "note": "the line round the block, the gladiator proposes"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "rome-burger/c03/voice.wav",
+  "sfx": "rome-burger/c03/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4604,
+  "music": "rome-burger/c03/music.wav",
+  "musicVol": 0.0919
+ }
+}

@@ -1,0 +1,349 @@
+{
+  "id": "RomeBurgerC02",
+  "slug": "rome-burger/c02",
+  "chapter": "How you got here",
+  "topic": "What if you opened a McDonald's in ancient Rome?",
+  "script": [
+    {
+      "beat": "the flash",
+      "text": "Here's how it starts. You and your little sister Ellie are walking home with a bag of takeaway. A flash. A ringing in your ears."
+    },
+    {
+      "beat": "arrival",
+      "text": "And then you're standing in a narrow street that smells like smoke, donkeys and fish sauce. Everyone is wearing sheets. Okay, tunics. A man with a cart shouts at you in Latin."
+    },
+    {
+      "beat": "where and when",
+      "text": "A coin in the dirt has an emperor's face on it. Nero. It's the summer of the year sixty-four, and this is Rome. The biggest city in the world, with around a million people."
+    },
+    {
+      "beat": "rules",
+      "text": "So here are the rules. There's no way back. You have the clothes you're wearing, a phone with no signal, and one cold burger in a paper bag. That's it. No fridge. No fryer. No electricity. Not one machine."
+    },
+    {
+      "beat": "your edge",
+      "text": "But you have something nobody else in Rome has. You know exactly how a fast food restaurant works. The same food, every time, ready in one minute."
+    },
+    {
+      "beat": "the plant",
+      "text": "And one more thing. Rome, in the summer of sixty-four. It sounds familiar. Something from history class. You just can't remember what."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Rome had around a million people in the first century AD, the largest city in the world.",
+      "working": "Modern estimates for Rome under the early emperors range from about 800,000 to over a million; 'around a million' is the usual figure.",
+      "source": "Encyclopaedia Britannica, 'Rome: The imperial city'; W. Scheidel, 'Roman population size' (2008)"
+    },
+    {
+      "claim": "Nero was emperor in AD 64.",
+      "working": "Nero reigned AD 54 to 68.",
+      "source": "Suetonius, Life of Nero; Britannica, 'Nero'"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "key": 20,
+      "note": "the present at dusk: you and Ellie walking home with takeaway"
+    },
+    {
+      "id": "S2",
+      "key": 20,
+      "note": "a white flash"
+    },
+    {
+      "id": "S3",
+      "key": 20,
+      "note": "your face, rings of sound"
+    },
+    {
+      "id": "S4",
+      "key": 20,
+      "note": "a Roman alley: you and Ellie blinking"
+    },
+    {
+      "id": "S5",
+      "key": 20,
+      "note": "Romans in tunics walk past"
+    },
+    {
+      "id": "S6",
+      "key": 20,
+      "note": "a carter shouts at you in Latin"
+    },
+    {
+      "id": "S7",
+      "key": 20,
+      "note": "a coin in the dirt: NERO"
+    },
+    {
+      "id": "S8",
+      "key": 20,
+      "note": "the city wide: ROME SUMMER AD 64"
+    },
+    {
+      "id": "S9",
+      "key": 20,
+      "note": "around a million people"
+    },
+    {
+      "id": "S10",
+      "key": 20,
+      "note": "NO WAY BACK"
+    },
+    {
+      "id": "S11",
+      "key": 20,
+      "note": "what you have: clothes, phone, one cold burger"
+    },
+    {
+      "id": "S12",
+      "key": 20,
+      "note": "no fridge, fryer, electricity, machines"
+    },
+    {
+      "id": "S13",
+      "key": 20,
+      "note": "you know something nobody here knows"
+    },
+    {
+      "id": "S14",
+      "key": 20,
+      "note": "same food every time, one minute"
+    },
+    {
+      "id": "S15",
+      "key": 20,
+      "note": "you look toward the Circus, frowning"
+    },
+    {
+      "id": "S16",
+      "key": 20,
+      "note": "something from history class"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "A#2"
+    },
+    {
+      "shot": "S3",
+      "at": "A"
+    },
+    {
+      "shot": "S4",
+      "at": "And"
+    },
+    {
+      "shot": "S5",
+      "at": "Everyone"
+    },
+    {
+      "shot": "S6",
+      "at": "A"
+    },
+    {
+      "shot": "S7",
+      "at": "A"
+    },
+    {
+      "shot": "S8",
+      "at": "It's"
+    },
+    {
+      "shot": "S9",
+      "at": "The"
+    },
+    {
+      "shot": "S10",
+      "at": "So"
+    },
+    {
+      "shot": "S11",
+      "at": "You"
+    },
+    {
+      "shot": "S12",
+      "at": "No#2"
+    },
+    {
+      "shot": "S13",
+      "at": "But"
+    },
+    {
+      "shot": "S14",
+      "at": "The"
+    },
+    {
+      "shot": "S15",
+      "at": "And"
+    },
+    {
+      "shot": "S16",
+      "at": "It"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S2+0",
+      "kind": "flash",
+      "color": "#FFFFFF",
+      "o": 0.6
+    }
+  ],
+  "title": [
+    "WHAT IF YOU COULD",
+    ""
+  ],
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "clock_back": [
+        "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+        1.6
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flash_old": [
+        "a vintage camera flash going off, a sharp pop and a quick electric whine",
+        1.0
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roman_street": [
+        "a busy ancient market street ambience, murmuring crowd, a donkey cart on stone, distant hammering, no modern sounds",
+        10.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "street": [
+        "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+        8.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "f:0",
+        "street",
+        0.15,
+        "onset",
+        "S2"
+      ],
+      [
+        "S2+0",
+        "flash_old",
+        1.0
+      ],
+      [
+        "S2+2",
+        "glitch",
+        0.6
+      ],
+      [
+        "S3+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S4+0",
+        "roman_street",
+        0.21,
+        "onset",
+        "S8"
+      ],
+      [
+        "S6+0",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S7+0",
+        "coins",
+        0.6
+      ],
+      [
+        "S8+0",
+        "card_hit",
+        0.8
+      ],
+      [
+        "S10+0",
+        "drone_hit",
+        0.52
+      ],
+      [
+        "S11+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S12+0",
+        "buzzer",
+        0.5
+      ],
+      [
+        "S13+0",
+        "sparkle",
+        0.5
+      ],
+      [
+        "S14+0",
+        "ding",
+        0.5
+      ],
+      [
+        "S16+0",
+        "clock_back",
+        0.4
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "from": "S4",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -13.0
+    }
+  }
+}

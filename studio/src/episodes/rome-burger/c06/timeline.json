@@ -1,0 +1,393 @@
+{
+ "slug": "rome-burger/c06",
+ "title": " ",
+ "fps": 30,
+ "total": 2370,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 89,
+   "t0": 0,
+   "t1": 89,
+   "line": "Two days later, Ellie doesn't come back from the market."
+  },
+  {
+   "shot": "S2",
+   "a": 89,
+   "b": 169,
+   "t0": 0,
+   "t1": 80,
+   "line": "Felix runs every street around the Circus."
+  },
+  {
+   "shot": "S3",
+   "a": 169,
+   "b": 269,
+   "t0": 0,
+   "t1": 100,
+   "line": "Tullia asks every shopkeeper. Nobody saw anything."
+  },
+  {
+   "shot": "S4",
+   "a": 269,
+   "b": 368,
+   "t0": 0,
+   "t1": 99,
+   "line": "Then a boy you've never seen walks up to the counter and puts down"
+  },
+  {
+   "shot": "S5",
+   "a": 368,
+   "b": 440,
+   "t0": 0,
+   "t1": 72,
+   "line": "a little coral hair tie. Ellie's."
+  },
+  {
+   "shot": "S6",
+   "a": 440,
+   "b": 565,
+   "t0": 0,
+   "t1": 125,
+   "line": "Next to it, a wax tablet. The contract. Unsigned."
+  },
+  {
+   "shot": "S7",
+   "a": 565,
+   "b": 600,
+   "t0": 0,
+   "t1": 35,
+   "line": "You know what it means."
+  },
+  {
+   "shot": "S8",
+   "a": 600,
+   "b": 743,
+   "t0": 0,
+   "t1": 143,
+   "line": "Sign, and Ellie comes home tonight. Don't sign, and you might never see her again."
+  },
+  {
+   "shot": "S9",
+   "a": 743,
+   "b": 842,
+   "t0": 0,
+   "t1": 99,
+   "line": "But if you sign, Tullia loses the shop her husband built."
+  },
+  {
+   "shot": "S10",
+   "a": 842,
+   "b": 908,
+   "t0": 0,
+   "t1": 66,
+   "line": "Every cook on this street loses everything."
+  },
+  {
+   "shot": "S11",
+   "a": 908,
+   "b": 1038,
+   "t0": 0,
+   "t1": 130,
+   "line": "And the most powerful men in Rome get a machine that turns hungry crowds into loyal ones."
+  },
+  {
+   "shot": "S12",
+   "a": 1038,
+   "b": 1128,
+   "t0": 0,
+   "t1": 90,
+   "line": "Maybe you just taught an empire a new way to control people."
+  },
+  {
+   "shot": "S13",
+   "a": 1128,
+   "b": 1291,
+   "t0": 0,
+   "t1": 163,
+   "line": "You think about every time travel movie you've ever seen. Don't change history. Don't help the bad guys."
+  },
+  {
+   "shot": "S14",
+   "a": 1291,
+   "b": 1363,
+   "t0": 0,
+   "t1": 72,
+   "line": "Easy to say, when it isn't your sister."
+  },
+  {
+   "shot": "S15",
+   "a": 1363,
+   "b": 1532,
+   "t0": 0,
+   "t1": 169,
+   "line": "Tullia puts a hand on your shoulder. 'Family first, ' she says. 'Shops can be rebuilt. '"
+  },
+  {
+   "shot": "S16",
+   "a": 1532,
+   "b": 1569,
+   "t0": 0,
+   "t1": 37,
+   "line": "So you sign."
+  },
+  {
+   "shot": "S17",
+   "a": 1569,
+   "b": 1761,
+   "t0": 0,
+   "t1": 192,
+   "line": "That evening, Ellie walks back through the door with another honey cake, completely fine. She thinks she was at a party."
+  },
+  {
+   "shot": "S18",
+   "a": 1761,
+   "b": 1823,
+   "t0": 0,
+   "t1": 62,
+   "line": "You hug her so hard she complains."
+  },
+  {
+   "shot": "S19",
+   "a": 1823,
+   "b": 2004,
+   "t0": 0,
+   "t1": 181,
+   "line": "Then a messenger arrives from the palace. The emperor is throwing a feast tonight, and he wants two hundred burgers."
+  },
+  {
+   "shot": "S20",
+   "a": 2004,
+   "b": 2098,
+   "t0": 0,
+   "t1": 94,
+   "line": "Cooked fresh, here, on your grill. All night."
+  },
+  {
+   "shot": "S21",
+   "a": 2098,
+   "b": 2267,
+   "t0": 0,
+   "t1": 169,
+   "line": "Outside, a hot, dry wind is blowing. You ask Felix what day it is. He thinks for a moment."
+  },
+  {
+   "shot": "S22",
+   "a": 2267,
+   "b": 2370,
+   "t0": 0,
+   "t1": 103,
+   "line": "'The eighteenth of July. '"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 89,
+   "first": 0,
+   "line": "Two days later, Ellie doesn't come back from the market.",
+   "note": "two days later, you call for Ellie"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 80,
+   "first": 89,
+   "line": "Felix runs every street around the Circus.",
+   "note": "Felix runs every street"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 100,
+   "first": 169,
+   "line": "Tullia asks every shopkeeper. Nobody saw anything.",
+   "note": "Tullia asks a shopkeeper"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 99,
+   "first": 269,
+   "line": "Then a boy you've never seen walks up to the counter and puts down",
+   "note": "a strange boy walks to the counter"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 72,
+   "first": 368,
+   "line": "a little coral hair tie. Ellie's.",
+   "note": "Ellie's coral hair tie"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 125,
+   "first": 440,
+   "line": "Next to it, a wax tablet. The contract. Unsigned.",
+   "note": "the contract, unsigned"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 35,
+   "first": 565,
+   "line": "You know what it means.",
+   "note": "you know what it means"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 143,
+   "first": 600,
+   "line": "Sign, and Ellie comes home tonight. Don't sign, and you might never see her again.",
+   "note": "sign or don't"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 99,
+   "first": 743,
+   "line": "But if you sign, Tullia loses the shop her husband built.",
+   "note": "Tullia and the shop her husband built"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 66,
+   "first": 842,
+   "line": "Every cook on this street loses everything.",
+   "note": "every cook loses everything"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 130,
+   "first": 908,
+   "line": "And the most powerful men in Rome get a machine that turns hungry crowds into loyal ones.",
+   "note": "crowds turned loyal: the emperor's box"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 90,
+   "first": 1038,
+   "line": "Maybe you just taught an empire a new way to control people.",
+   "note": "you taught an empire"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 163,
+   "first": 1128,
+   "line": "You think about every time travel movie you've ever seen. Don't change history. Don't help the bad guys.",
+   "note": "every time-travel movie"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 72,
+   "first": 1291,
+   "line": "Easy to say, when it isn't your sister.",
+   "note": "the hair tie in your hand"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 169,
+   "first": 1363,
+   "line": "Tullia puts a hand on your shoulder. 'Family first, ' she says. 'Shops can be rebuilt. '",
+   "note": "family first, shops can be rebuilt"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 37,
+   "first": 1532,
+   "line": "So you sign.",
+   "note": "you sign"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 192,
+   "first": 1569,
+   "line": "That evening, Ellie walks back through the door with another honey cake, completely fine. She thinks she was at a party.",
+   "note": "Ellie walks back in with a honey cake"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 62,
+   "first": 1761,
+   "line": "You hug her so hard she complains.",
+   "note": "the hug"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 181,
+   "first": 1823,
+   "line": "Then a messenger arrives from the palace. The emperor is throwing a feast tonight, and he wants two hundred burgers.",
+   "note": "the palace messenger: 200 burgers tonight"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 94,
+   "first": 2004,
+   "line": "Cooked fresh, here, on your grill. All night.",
+   "note": "the grill all night"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 169,
+   "first": 2098,
+   "line": "Outside, a hot, dry wind is blowing. You ask Felix what day it is. He thinks for a moment.",
+   "note": "a hot dry wind"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 103,
+   "first": 2267,
+   "line": "'The eighteenth of July. '",
+   "note": "Felix: the eighteenth of July"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "rome-burger/c06/voice.wav",
+  "sfx": "rome-burger/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4103,
+  "music": "rome-burger/c06/music.wav",
+  "musicVol": 0.0809
+ }
+}

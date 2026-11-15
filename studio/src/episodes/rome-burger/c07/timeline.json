@@ -1,0 +1,383 @@
+{
+ "slug": "rome-burger/c07",
+ "title": " ",
+ "fps": 30,
+ "total": 2065,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 74,
+   "t0": 0,
+   "t1": 74,
+   "line": "And that's when you remember history class."
+  },
+  {
+   "shot": "S2",
+   "a": 74,
+   "b": 272,
+   "t0": 0,
+   "t1": 198,
+   "line": "On the night of the eighteenth of July, in the year sixty- four, a fire broke out in the shops around the Circus Maximus. The"
+  },
+  {
+   "shot": "S3",
+   "a": 272,
+   "b": 317,
+   "t0": 0,
+   "t1": 45,
+   "line": "Great Fire of Rome."
+  },
+  {
+   "shot": "S4",
+   "a": 317,
+   "b": 372,
+   "t0": 0,
+   "t1": 55,
+   "line": "It burned for six days."
+  },
+  {
+   "shot": "S5",
+   "a": 372,
+   "b": 510,
+   "t0": 0,
+   "t1": 138,
+   "line": "Of the city's fourteen districts, only four were left untouched. That's real."
+  },
+  {
+   "shot": "S6",
+   "a": 510,
+   "b": 653,
+   "t0": 0,
+   "t1": 143,
+   "line": "You're standing in a shop next to the Circus Maximus, with a grill that has to burn all night."
+  },
+  {
+   "shot": "S7",
+   "a": 653,
+   "b": 695,
+   "t0": 0,
+   "t1": 42,
+   "line": "On the eighteenth of July."
+  },
+  {
+   "shot": "S8",
+   "a": 695,
+   "b": 746,
+   "t0": 0,
+   "t1": 51,
+   "line": "You turn to put the fire out."
+  },
+  {
+   "shot": "S9",
+   "a": 746,
+   "b": 867,
+   "t0": 0,
+   "t1": 121,
+   "line": "And the man with the purple stripe is standing in the doorway, with two soldiers."
+  },
+  {
+   "shot": "S10",
+   "a": 867,
+   "b": 994,
+   "t0": 0,
+   "t1": 127,
+   "line": "'The emperor's feast, ' he says softly. 'The grill stays lit. '"
+  },
+  {
+   "shot": "S11",
+   "a": 994,
+   "b": 1060,
+   "t0": 0,
+   "t1": 66,
+   "line": "Somewhere down the street, someone shouts."
+  },
+  {
+   "shot": "S12",
+   "a": 1060,
+   "b": 1148,
+   "t0": 0,
+   "t1": 88,
+   "line": "And the sky over the Circus starts to glow orange."
+  },
+  {
+   "shot": "S13",
+   "a": 1148,
+   "b": 1231,
+   "t0": 0,
+   "t1": 83,
+   "line": "So did you just start the Great Fire of Rome?"
+  },
+  {
+   "shot": "S14",
+   "a": 1231,
+   "b": 1296,
+   "t0": 0,
+   "t1": 65,
+   "line": "Or did someone want it to look like you did?"
+  },
+  {
+   "shot": "S15",
+   "a": 1296,
+   "b": 1362,
+   "t0": 0,
+   "t1": 66,
+   "line": "Tell me what you'd do, in the comments."
+  },
+  {
+   "shot": "S16",
+   "a": 1362,
+   "b": 1457,
+   "t0": 0,
+   "t1": 95,
+   "line": "And is any of this real? The history is."
+  },
+  {
+   "shot": "S17",
+   "a": 1457,
+   "b": 1583,
+   "t0": 0,
+   "t1": 126,
+   "line": "Rome had fast food counters. A Roman cookbook has a meat patty."
+  },
+  {
+   "shot": "S18",
+   "a": 1583,
+   "b": 1702,
+   "t0": 0,
+   "t1": 119,
+   "line": "No tomatoes or potatoes in Europe until after fourteen ninety- two."
+  },
+  {
+   "shot": "S19",
+   "a": 1702,
+   "b": 1773,
+   "t0": 0,
+   "t1": 71,
+   "line": "Nero banned hot food in taverns."
+  },
+  {
+   "shot": "S20",
+   "a": 1773,
+   "b": 1905,
+   "t0": 0,
+   "t1": 132,
+   "line": "And the fire started at the Circus Maximus, on the eighteenth of July."
+  },
+  {
+   "shot": "S21",
+   "a": 1905,
+   "b": 2065,
+   "t0": 0,
+   "t1": 160,
+   "line": "What happens next? That's part two."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 0,
+   "line": "And that's when you remember history class.",
+   "note": "you remember history class"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 198,
+   "first": 74,
+   "line": "On the night of the eighteenth of July, in the year sixty- four, a fire broke out in the shops around the Circus Maximus. The",
+   "note": "the map: fire breaks out by the Circus"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 45,
+   "first": 272,
+   "line": "Great Fire of Rome.",
+   "note": "THE GREAT FIRE OF ROME"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 55,
+   "first": 317,
+   "line": "It burned for six days.",
+   "note": "six days"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 138,
+   "first": 372,
+   "line": "Of the city's fourteen districts, only four were left untouched. That's real.",
+   "note": "only 4 of 14 districts untouched"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 143,
+   "first": 510,
+   "line": "You're standing in a shop next to the Circus Maximus, with a grill that has to burn all night.",
+   "note": "you, alone, the grill burning"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 42,
+   "first": 653,
+   "line": "On the eighteenth of July.",
+   "note": "18 JULY"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 51,
+   "first": 695,
+   "line": "You turn to put the fire out.",
+   "note": "you turn to put it out"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 121,
+   "first": 746,
+   "line": "And the man with the purple stripe is standing in the doorway, with two soldiers.",
+   "note": "the official in the doorway with soldiers"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 127,
+   "first": 867,
+   "line": "'The emperor's feast, ' he says softly. 'The grill stays lit. '",
+   "note": "the grill stays lit"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 66,
+   "first": 994,
+   "line": "Somewhere down the street, someone shouts.",
+   "note": "a shout, people running"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 88,
+   "first": 1060,
+   "line": "And the sky over the Circus starts to glow orange.",
+   "note": "the sky over the Circus glows orange"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 83,
+   "first": 1148,
+   "line": "So did you just start the Great Fire of Rome?",
+   "note": "did you start it?"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 65,
+   "first": 1231,
+   "line": "Or did someone want it to look like you did?",
+   "note": "or did someone want it to look like you did?"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 66,
+   "first": 1296,
+   "line": "Tell me what you'd do, in the comments.",
+   "note": "comments card"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 95,
+   "first": 1362,
+   "line": "And is any of this real? The history is.",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 126,
+   "first": 1457,
+   "line": "Rome had fast food counters. A Roman cookbook has a meat patty.",
+   "note": "recap 1-2"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 119,
+   "first": 1583,
+   "line": "No tomatoes or potatoes in Europe until after fourteen ninety- two.",
+   "note": "recap 3"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 71,
+   "first": 1702,
+   "line": "Nero banned hot food in taverns.",
+   "note": "recap 4"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 132,
+   "first": 1773,
+   "line": "And the fire started at the Circus Maximus, on the eighteenth of July.",
+   "note": "recap 5"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 160,
+   "first": 1905,
+   "line": "What happens next? That's part two.",
+   "note": "end card: PART 2, SUBSCRIBE"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FF6A2A",
+   "o": 0.25,
+   "f": 1090
+  }
+ ],
+ "audio": {
+  "voice": "rome-burger/c07/voice.wav",
+  "sfx": "rome-burger/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5286,
+  "music": "rome-burger/c07/music.wav",
+  "musicVol": 0.0867
+ }
+}
