@@ -48,9 +48,9 @@
    "source": "Wired, 'Bitcoin's Price Plummets on Mt. Gox' (June 2011)"
   },
   {
-   "claim": "Mt. Gox collapsed in February 2014, saying about 850,000 bitcoins were missing",
+   "claim": "Mt. Gox collapsed in February 2014, saying about 850,000 bitcoins were missing (about 200,000 were later found).",
    "working": "Mt. Gox filed for bankruptcy protection in February 2014 reporting about 850,000 BTC missing; about 200,000 BTC were later found in an old wallet.",
-   "source": "about 200,000 were later found). (Reuters, Mt. Gox bankruptcy filing (Feb 2014)"
+   "source": "Reuters, Mt. Gox bankruptcy filing (Feb 2014)"
   },
   {
    "claim": "Bitcoin peaked near $20,000 in December 2017 and fell to about $3,200 by December 2018, a drop of over 80%.",
@@ -63,7 +63,7 @@
    "source": "BBC News, 'Man who threw away bitcoin hard drive' (2021–2024)"
   },
   {
-   "claim": "Stefan Thomas has two password guesses left on an IronKey holding 7,002 BTC.",
+   "claim": "In January 2021, Stefan Thomas said he had two password guesses left on an IronKey holding 7,002 BTC.",
    "working": "Programmer Stefan Thomas told the New York Times in January 2021 that he had two of ten password guesses left on an IronKey holding 7,002 BTC.",
    "source": "New York Times, 'Lost Passwords Lock Millionaires Out of Their Bitcoin Fortunes' (Jan 2021)"
   },
