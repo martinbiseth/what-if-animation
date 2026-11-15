@@ -33,18 +33,227 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 6",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "note": "we need someone like you",
+   "key": 100
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "note": "all of it; you can",
+   "key": 60
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "the office over the station",
+   "key": 50
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "thousands below, every one a number",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "note": "point: which ones are stealing",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "the cash machine woman",
+   "key": 90
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "note": "the number too long",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "note": "you point; he writes",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "note": "the paper slides",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "note": "one year; tell nobody",
+   "key": 90
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "Mum's name, one million",
+   "key": 100
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "her red number",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "note": "Ellie's trip",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "note": "Mo, not hungry",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "note": "don't worry about it",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "note": "just pointing",
+   "key": 90
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "that's what worries you",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "two-shot",
+   "note": "and if I say no?",
+   "key": 100
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "note": "still zero",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "note": "the paper, the pen",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "note": "you sign",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "doesn't"
+  },
+  {
+   "shot": "S3",
+   "at": "All"
+  },
+  {
+   "shot": "S4",
+   "at": "takes"
+  },
+  {
+   "shot": "S5",
+   "at": "Thousands"
+  },
+  {
+   "shot": "S6",
+   "at": "Point"
+  },
+  {
+   "shot": "S7",
+   "at": "woman"
+  },
+  {
+   "shot": "S8",
+   "at": "man"
+  },
+  {
+   "shot": "S9",
+   "at": "point"
+  },
+  {
+   "shot": "S10",
+   "at": "Then"
+  },
+  {
+   "shot": "S11",
+   "at": "One"
+  },
+  {
+   "shot": "S12",
+   "at": "On"
+  },
+  {
+   "shot": "S13",
+   "at": "You"
+  },
+  {
+   "shot": "S14",
+   "at": "Ellie's"
+  },
+  {
+   "shot": "S15",
+   "at": "Mo"
+  },
+  {
+   "shot": "S16",
+   "at": "how"
+  },
+  {
+   "shot": "S17",
+   "at": "ask"
+  },
+  {
+   "shot": "S18",
+   "at": "It"
+  },
+  {
+   "shot": "S19",
+   "at": "And"
+  },
+  {
+   "shot": "S20",
+   "at": "look"
+  },
+  {
+   "shot": "S21",
+   "at": "paper"
+  },
+  {
+   "shot": "S22",
+   "at": "And"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.5
 }

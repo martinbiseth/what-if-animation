@@ -1,29 +1,388 @@
 {
  "slug": "bank-balance/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2354,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 55,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 55,
+   "line": "Then, on Tuesday, you go to"
+  },
+  {
+   "shot": "S2",
+   "a": 55,
+   "b": 98,
+   "t0": 0,
+   "t1": 43,
+   "line": "the bank with your mum. At"
+  },
+  {
+   "shot": "S3",
+   "a": 98,
+   "b": 321,
+   "t0": 0,
+   "t1": 223,
+   "line": "the counter, there's an old lady from down your road, Mrs. Hale. Her number is eighteen thousand dollars. Her whole life's savings."
+  },
+  {
+   "shot": "S4",
+   "a": 321,
+   "b": 451,
+   "t0": 0,
+   "t1": 130,
+   "line": "Next to her is a nice young man in a nice jacket, helping her with a form."
+  },
+  {
+   "shot": "S5",
+   "a": 451,
+   "b": 599,
+   "t0": 0,
+   "t1": 148,
+   "line": "'Just sign here, and your money will be safe. ' His number is minus ninety thousand."
+  },
+  {
+   "shot": "S6",
+   "a": 599,
+   "b": 632,
+   "t0": 0,
+   "t1": 33,
+   "line": "She signs."
+  },
+  {
+   "shot": "S7",
+   "a": 632,
+   "b": 680,
+   "t0": 0,
+   "t1": 48,
+   "line": "And you watch it happen."
+  },
+  {
+   "shot": "S8",
+   "a": 680,
+   "b": 823,
+   "t0": 0,
+   "t1": 143,
+   "line": "Her number drops. Eighteen thousand. Nine thousand. Zero. And"
+  },
+  {
+   "shot": "S9",
+   "a": 823,
+   "b": 948,
+   "t0": 0,
+   "t1": 125,
+   "line": "his number jumps by the exact same amount, at the exact same second."
+  },
+  {
+   "shot": "S10",
+   "a": 948,
+   "b": 1025,
+   "t0": 0,
+   "t1": 77,
+   "line": "You shout before you can think. 'Stop him! '"
+  },
+  {
+   "shot": "S11",
+   "a": 1025,
+   "b": 1092,
+   "t0": 0,
+   "t1": 67,
+   "line": "Security grabs him at the door. The bank"
+  },
+  {
+   "shot": "S12",
+   "a": 1092,
+   "b": 1197,
+   "t0": 0,
+   "t1": 105,
+   "line": "freezes the transfer. Mrs. Hale gets every cent back."
+  },
+  {
+   "shot": "S13",
+   "a": 1197,
+   "b": 1255,
+   "t0": 0,
+   "t1": 58,
+   "line": "She hugs you and won't let go. The"
+  },
+  {
+   "shot": "S14",
+   "a": 1255,
+   "b": 1440,
+   "t0": 0,
+   "t1": 185,
+   "line": "manager wants your name. A local reporter takes your picture. You tell everyone you just had a bad feeling about him."
+  },
+  {
+   "shot": "S15",
+   "a": 1440,
+   "b": 1606,
+   "t0": 0,
+   "t1": 166,
+   "line": "In America alone, people reported losing more than ten billion dollars to fraud in one year. That's real."
+  },
+  {
+   "shot": "S16",
+   "a": 1606,
+   "b": 1673,
+   "t0": 0,
+   "t1": 67,
+   "line": "And nobody else in that bank saw it happen."
+  },
+  {
+   "shot": "S17",
+   "a": 1673,
+   "b": 1715,
+   "t0": 0,
+   "t1": 42,
+   "line": "But somebody saw you."
+  },
+  {
+   "shot": "S18",
+   "a": 1715,
+   "b": 1808,
+   "t0": 0,
+   "t1": 93,
+   "line": "The next morning, there's a man in a grey suit at the school gate."
+  },
+  {
+   "shot": "S19",
+   "a": 1808,
+   "b": 1960,
+   "t0": 0,
+   "t1": 152,
+   "line": "'You knew, ' he says. 'Before the bank did. Before anyone. How? ' You"
+  },
+  {
+   "shot": "S20",
+   "a": 1960,
+   "b": 2107,
+   "t0": 0,
+   "t1": 147,
+   "line": "look at the space above his head. And for the first time, something is wrong with a number."
+  },
+  {
+   "shot": "S21",
+   "a": 2107,
+   "b": 2193,
+   "t0": 0,
+   "t1": 86,
+   "line": "It just says zero. Exactly zero."
+  },
+  {
+   "shot": "S22",
+   "a": 2193,
+   "b": 2354,
+   "t0": 0,
+   "t1": 161,
+   "line": "A man in a suit that perfect, with nothing at all. As if he doesn't exist."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 55,
+   "first": 0,
+   "line": "Then, on Tuesday, you go to",
+   "note": "chapter 5"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "len": 43,
+   "first": 55,
+   "line": "the bank with your mum. At",
+   "note": "the bank queue"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 110,
+   "len": 223,
+   "first": 98,
+   "line": "the counter, there's an old lady from down your road, Mrs. Hale. Her number is eighteen thousand dollars. Her whole life's savings.",
+   "note": "Mrs. Hale: $18,000"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 60,
+   "len": 130,
+   "first": 321,
+   "line": "Next to her is a nice young man in a nice jacket, helping her with a form.",
+   "note": "the nice young man"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 80,
+   "len": 148,
+   "first": 451,
+   "line": "'Just sign here, and your money will be safe. ' His number is minus ninety thousand.",
+   "note": "just sign here; -$90,000"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "len": 33,
+   "first": 599,
+   "line": "She signs.",
+   "note": "she signs"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 20,
+   "len": 48,
+   "first": 632,
+   "line": "And you watch it happen.",
+   "note": "you watch"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 90,
+   "len": 143,
+   "first": 680,
+   "line": "Her number drops. Eighteen thousand. Nine thousand. Zero. And",
+   "note": "18,000, 9,000, 0"
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "key": 26,
+   "len": 125,
+   "first": 823,
+   "line": "his number jumps by the exact same amount, at the exact same second.",
+   "note": "his jumps"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "len": 77,
+   "first": 948,
+   "line": "You shout before you can think. 'Stop him! '",
+   "note": "stop him!"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 67,
+   "first": 1025,
+   "line": "Security grabs him at the door. The bank",
+   "note": "security grabs him"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 90,
+   "len": 105,
+   "first": 1092,
+   "line": "freezes the transfer. Mrs. Hale gets every cent back.",
+   "note": "every cent back"
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "key": 30,
+   "len": 58,
+   "first": 1197,
+   "line": "She hugs you and won't let go. The",
+   "note": "the hug"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 54,
+   "len": 185,
+   "first": 1255,
+   "line": "manager wants your name. A local reporter takes your picture. You tell everyone you just had a bad feeling about him.",
+   "note": "the reporter"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 90,
+   "len": 166,
+   "first": 1440,
+   "line": "In America alone, people reported losing more than ten billion dollars to fraud in one year. That's real.",
+   "note": "fact: $10 billion"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 67,
+   "first": 1606,
+   "line": "And nobody else in that bank saw it happen.",
+   "note": "nobody else saw"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 30,
+   "len": 42,
+   "first": 1673,
+   "line": "But somebody saw you.",
+   "note": "somebody saw you"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 93,
+   "first": 1715,
+   "line": "The next morning, there's a man in a grey suit at the school gate.",
+   "note": "the school gate"
+  },
+  {
+   "id": "S19",
+   "size": "two-shot",
+   "key": 90,
+   "len": 152,
+   "first": 1808,
+   "line": "'You knew, ' he says. 'Before the bank did. Before anyone. How? ' You",
+   "note": "you knew. how?"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "key": 80,
+   "len": 147,
+   "first": 1960,
+   "line": "look at the space above his head. And for the first time, something is wrong with a number.",
+   "note": "you look up"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "len": 86,
+   "first": 2107,
+   "line": "It just says zero. Exactly zero.",
+   "note": "zero"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 20,
+   "len": 161,
+   "first": 2193,
+   "line": "A man in a suit that perfect, with nothing at all. As if he doesn't exist.",
+   "note": "as if he doesn't exist"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c05/voice.wav"
+ }
 }

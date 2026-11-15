@@ -1,29 +1,388 @@
 {
  "slug": "bank-balance/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2162,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 49,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 49,
+   "line": "He knows what you can do. He"
+  },
+  {
+   "shot": "S2",
+   "a": 49,
+   "b": 276,
+   "t0": 0,
+   "t1": 227,
+   "line": "doesn't say how. He just says, 'We need someone like you. ' 'Who are you? ' you ask. 'People who follow money, ' he says."
+  },
+  {
+   "shot": "S3",
+   "a": 276,
+   "b": 378,
+   "t0": 0,
+   "t1": 102,
+   "line": "'All of it. Except we can't see it. You can. ' He"
+  },
+  {
+   "shot": "S4",
+   "a": 378,
+   "b": 449,
+   "t0": 0,
+   "t1": 71,
+   "line": "takes you to an office high above a train station."
+  },
+  {
+   "shot": "S5",
+   "a": 449,
+   "b": 521,
+   "t0": 0,
+   "t1": 72,
+   "line": "Thousands of people walk past underneath."
+  },
+  {
+   "shot": "S6",
+   "a": 521,
+   "b": 651,
+   "t0": 0,
+   "t1": 130,
+   "line": "'Point, ' he says. 'Tell me which ones are stealing. ' And you can."
+  },
+  {
+   "shot": "S7",
+   "a": 651,
+   "b": 783,
+   "t0": 0,
+   "t1": 132,
+   "line": "A woman whose number jumps by five thousand every time she walks past a cash machine."
+  },
+  {
+   "shot": "S8",
+   "a": 783,
+   "b": 868,
+   "t0": 0,
+   "t1": 85,
+   "line": "A man whose number is so long it doesn't fit above his head. You"
+  },
+  {
+   "shot": "S9",
+   "a": 868,
+   "b": 928,
+   "t0": 0,
+   "t1": 60,
+   "line": "point. He writes it all down."
+  },
+  {
+   "shot": "S10",
+   "a": 928,
+   "b": 1003,
+   "t0": 0,
+   "t1": 75,
+   "line": "Then he slides a piece of paper across the table."
+  },
+  {
+   "shot": "S11",
+   "a": 1003,
+   "b": 1148,
+   "t0": 0,
+   "t1": 145,
+   "line": "'One year. You work for us. You tell nobody, not even your mum. And this happens. '"
+  },
+  {
+   "shot": "S12",
+   "a": 1148,
+   "b": 1284,
+   "t0": 0,
+   "t1": 136,
+   "line": "On the paper is your mum's name. And a number. One million dollars."
+  },
+  {
+   "shot": "S13",
+   "a": 1284,
+   "b": 1358,
+   "t0": 0,
+   "t1": 74,
+   "line": "You think about the red number above her head. About"
+  },
+  {
+   "shot": "S14",
+   "a": 1358,
+   "b": 1407,
+   "t0": 0,
+   "t1": 49,
+   "line": "Ellie's school trip. About"
+  },
+  {
+   "shot": "S15",
+   "a": 1407,
+   "b": 1470,
+   "t0": 0,
+   "t1": 63,
+   "line": "Mo pretending he isn't hungry. About"
+  },
+  {
+   "shot": "S16",
+   "a": 1470,
+   "b": 1598,
+   "t0": 0,
+   "t1": 128,
+   "line": "how your mum smiled and said 'don't worry about it', every single time. You"
+  },
+  {
+   "shot": "S17",
+   "a": 1598,
+   "b": 1723,
+   "t0": 0,
+   "t1": 125,
+   "line": "ask what the work is. 'Just pointing, ' he says. 'Nothing else. '"
+  },
+  {
+   "shot": "S18",
+   "a": 1723,
+   "b": 1788,
+   "t0": 0,
+   "t1": 65,
+   "line": "It sounds easy. That's what worries you."
+  },
+  {
+   "shot": "S19",
+   "a": 1788,
+   "b": 1958,
+   "t0": 0,
+   "t1": 170,
+   "line": "'And if I say no? ' He smiles. 'Then you go home, and nothing changes. For anyone. ' You"
+  },
+  {
+   "shot": "S20",
+   "a": 1958,
+   "b": 2047,
+   "t0": 0,
+   "t1": 89,
+   "line": "look up at his number again. Still zero. You look at"
+  },
+  {
+   "shot": "S21",
+   "a": 2047,
+   "b": 2093,
+   "t0": 0,
+   "t1": 46,
+   "line": "the paper. You look at the pen."
+  },
+  {
+   "shot": "S22",
+   "a": 2093,
+   "b": 2162,
+   "t0": 0,
+   "t1": 69,
+   "line": "And you sign it."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 49,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "He knows what you can do. He",
+   "note": "chapter 6"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 100,
+   "len": 227,
+   "first": 49,
+   "line": "doesn't say how. He just says, 'We need someone like you. ' 'Who are you? ' you ask. 'People who follow money, ' he says.",
+   "note": "we need someone like you"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 60,
+   "len": 102,
+   "first": 276,
+   "line": "'All of it. Except we can't see it. You can. ' He",
+   "note": "all of it; you can"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 50,
+   "len": 71,
+   "first": 378,
+   "line": "takes you to an office high above a train station.",
+   "note": "the office over the station"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 72,
+   "first": 449,
+   "line": "Thousands of people walk past underneath.",
+   "note": "thousands below, every one a number"
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "key": 60,
+   "len": 130,
+   "first": 521,
+   "line": "'Point, ' he says. 'Tell me which ones are stealing. ' And you can.",
+   "note": "point: which ones are stealing"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 90,
+   "len": 132,
+   "first": 651,
+   "line": "A woman whose number jumps by five thousand every time she walks past a cash machine.",
+   "note": "the cash machine woman"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "len": 85,
+   "first": 783,
+   "line": "A man whose number is so long it doesn't fit above his head. You",
+   "note": "the number too long"
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "key": 30,
+   "len": 60,
+   "first": 868,
+   "line": "point. He writes it all down.",
+   "note": "you point; he writes"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "len": 75,
+   "first": 928,
+   "line": "Then he slides a piece of paper across the table.",
+   "note": "the paper slides"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 90,
+   "len": 145,
+   "first": 1003,
+   "line": "'One year. You work for us. You tell nobody, not even your mum. And this happens. '",
+   "note": "one year; tell nobody"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 100,
+   "len": 136,
+   "first": 1148,
+   "line": "On the paper is your mum's name. And a number. One million dollars.",
+   "note": "Mum's name, one million"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 20,
+   "len": 74,
+   "first": 1284,
+   "line": "You think about the red number above her head. About",
+   "note": "her red number"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 20,
+   "len": 49,
+   "first": 1358,
+   "line": "Ellie's school trip. About",
+   "note": "Ellie's trip"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 20,
+   "len": 63,
+   "first": 1407,
+   "line": "Mo pretending he isn't hungry. About",
+   "note": "Mo, not hungry"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 60,
+   "len": 128,
+   "first": 1470,
+   "line": "how your mum smiled and said 'don't worry about it', every single time. You",
+   "note": "don't worry about it"
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "key": 90,
+   "len": 125,
+   "first": 1598,
+   "line": "ask what the work is. 'Just pointing, ' he says. 'Nothing else. '",
+   "note": "just pointing"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 40,
+   "len": 65,
+   "first": 1723,
+   "line": "It sounds easy. That's what worries you.",
+   "note": "that's what worries you"
+  },
+  {
+   "id": "S19",
+   "size": "two-shot",
+   "key": 100,
+   "len": 170,
+   "first": 1788,
+   "line": "'And if I say no? ' He smiles. 'Then you go home, and nothing changes. For anyone. ' You",
+   "note": "and if I say no?"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "key": 40,
+   "len": 89,
+   "first": 1958,
+   "line": "look up at his number again. Still zero. You look at",
+   "note": "still zero"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 20,
+   "len": 46,
+   "first": 2047,
+   "line": "the paper. You look at the pen.",
+   "note": "the paper, the pen"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 40,
+   "len": 69,
+   "first": 2093,
+   "line": "And you sign it.",
+   "note": "you sign"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c06/voice.wav"
+ }
 }

@@ -43,18 +43,227 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 5",
+   "key": 30
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "the bank queue",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "Mrs. Hale: $18,000",
+   "key": 110
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "note": "the nice young man",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "note": "just sign here; -$90,000",
+   "key": 80
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "she signs",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "note": "you watch",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "18,000, 9,000, 0",
+   "key": 90
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "note": "his jumps",
+   "key": 26
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "stop him!",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "note": "security grabs him",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "note": "every cent back",
+   "key": 90
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "note": "the hug",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "the reporter",
+   "key": 54
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "note": "fact: $10 billion",
+   "key": 90
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "note": "nobody else saw",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "note": "somebody saw you",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "note": "the school gate",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "two-shot",
+   "note": "you knew. how?",
+   "key": 90
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "note": "you look up",
+   "key": 80
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "note": "zero",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "note": "as if he doesn't exist",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "bank"
+  },
+  {
+   "shot": "S3",
+   "at": "counter"
+  },
+  {
+   "shot": "S4",
+   "at": "Next"
+  },
+  {
+   "shot": "S5",
+   "at": "Just"
+  },
+  {
+   "shot": "S6",
+   "at": "She"
+  },
+  {
+   "shot": "S7",
+   "at": "And"
+  },
+  {
+   "shot": "S8",
+   "at": "Her"
+  },
+  {
+   "shot": "S9",
+   "at": "his"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "Security"
+  },
+  {
+   "shot": "S12",
+   "at": "freezes"
+  },
+  {
+   "shot": "S13",
+   "at": "She"
+  },
+  {
+   "shot": "S14",
+   "at": "manager"
+  },
+  {
+   "shot": "S15",
+   "at": "In"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "But"
+  },
+  {
+   "shot": "S18",
+   "at": "The"
+  },
+  {
+   "shot": "S19",
+   "at": "You"
+  },
+  {
+   "shot": "S20",
+   "at": "look"
+  },
+  {
+   "shot": "S21",
+   "at": "It"
+  },
+  {
+   "shot": "S22",
+   "at": "A"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2
 }
