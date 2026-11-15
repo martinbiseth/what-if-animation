@@ -1,27 +1,486 @@
 {
  "slug": "rome-car/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3671,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 53,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 53,
+   "line": "You do the math"
+  },
+  {
+   "shot": "S2",
+   "a": 53,
+   "b": 201,
+   "t0": 0,
+   "t1": 148,
+   "line": "A quarter of a tank is about a hundred and fifty kilometers"
+  },
+  {
+   "shot": "S3",
+   "a": 201,
+   "b": 352,
+   "t0": 0,
+   "t1": 151,
+   "line": "The war in the east is more than two thousand kilometers away"
+  },
+  {
+   "shot": "S4",
+   "a": 352,
+   "b": 438,
+   "t0": 0,
+   "t1": 86,
+   "line": "The car will die in the desert"
+  },
+  {
+   "shot": "S5",
+   "a": 438,
+   "b": 594,
+   "t0": 0,
+   "t1": 156,
+   "line": "And so will you the moment the emperor finds out it's useless"
+  },
+  {
+   "shot": "S6",
+   "a": 594,
+   "b": 776,
+   "t0": 0,
+   "t1": 182,
+   "line": "But the tunnel the place where you arrived is only forty kilometers south"
+  },
+  {
+   "shot": "S7",
+   "a": 776,
+   "b": 883,
+   "t0": 0,
+   "t1": 107,
+   "line": "Maybe it still works Maybe it doesn't"
+  },
+  {
+   "shot": "S8",
+   "a": 883,
+   "b": 1031,
+   "t0": 0,
+   "t1": 148,
+   "line": "And if it doesn't you've burned your last fuel for nothing"
+  },
+  {
+   "shot": "S9",
+   "a": 1031,
+   "b": 1208,
+   "t0": 0,
+   "t1": 177,
+   "line": "Then someone knocks It's Apollodorus He shuts the door and whispers"
+  },
+  {
+   "shot": "S10",
+   "a": 1208,
+   "b": 1381,
+   "t0": 0,
+   "t1": 173,
+   "line": "'An emperor with a horseless chariot would never stop making war Go home.'"
+  },
+  {
+   "shot": "S11",
+   "a": 1381,
+   "b": 1513,
+   "t0": 0,
+   "t1": 132,
+   "line": "He gives you a key And a map of the palace"
+  },
+  {
+   "shot": "S12",
+   "a": 1513,
+   "b": 1636,
+   "t0": 0,
+   "t1": 123,
+   "line": "You find Mo locked in a storeroom eating grapes"
+  },
+  {
+   "shot": "S13",
+   "a": 1636,
+   "b": 1719,
+   "t0": 0,
+   "t1": 83,
+   "line": "'Took you long enough,' he says"
+  },
+  {
+   "shot": "S14",
+   "a": 1719,
+   "b": 1878,
+   "t0": 0,
+   "t1": 159,
+   "line": "You push the car out of the courtyard in silence headlights off"
+  },
+  {
+   "shot": "S15",
+   "a": 1878,
+   "b": 2005,
+   "t0": 0,
+   "t1": 127,
+   "line": "At the bottom of the hill you start the engine"
+  },
+  {
+   "shot": "S16",
+   "a": 2005,
+   "b": 2096,
+   "t0": 0,
+   "t1": 91,
+   "line": "Somewhere above you a guard shouts"
+  },
+  {
+   "shot": "S17",
+   "a": 2096,
+   "b": 2264,
+   "t0": 0,
+   "t1": 168,
+   "line": "You race through the dark streets past sleeping bakeries and empty markets"
+  },
+  {
+   "shot": "S18",
+   "a": 2264,
+   "b": 2394,
+   "t0": 0,
+   "t1": 130,
+   "line": "with Mo reading the map by the light of his phone"
+  },
+  {
+   "shot": "S19",
+   "a": 2394,
+   "b": 2557,
+   "t0": 0,
+   "t1": 163,
+   "line": "At the city gate the same soldiers from day one see you coming"
+  },
+  {
+   "shot": "S20",
+   "a": 2557,
+   "b": 2671,
+   "t0": 0,
+   "t1": 114,
+   "line": "This time they don't even raise their spears"
+  },
+  {
+   "shot": "S21",
+   "a": 2671,
+   "b": 2730,
+   "t0": 0,
+   "t1": 59,
+   "line": "They just step aside"
+  },
+  {
+   "shot": "S22",
+   "a": 2730,
+   "b": 2807,
+   "t0": 0,
+   "t1": 77,
+   "line": "Horses A lot of horses"
+  },
+  {
+   "shot": "S23",
+   "a": 2807,
+   "b": 2939,
+   "t0": 0,
+   "t1": 132,
+   "line": "On a smooth highway you'd leave them behind in seconds"
+  },
+  {
+   "shot": "S24",
+   "a": 2939,
+   "b": 3160,
+   "t0": 0,
+   "t1": 221,
+   "line": "But this is a Roman road made of big stone blocks and every bump could break the car"
+  },
+  {
+   "shot": "S25",
+   "a": 3160,
+   "b": 3271,
+   "t0": 0,
+   "t1": 111,
+   "line": "So you do the one thing they've never seen"
+  },
+  {
+   "shot": "S26",
+   "a": 3271,
+   "b": 3349,
+   "t0": 0,
+   "t1": 78,
+   "line": "You switch on the high beams"
+  },
+  {
+   "shot": "S27",
+   "a": 3349,
+   "b": 3455,
+   "t0": 0,
+   "t1": 106,
+   "line": "The horses rear The riders go flying"
+  },
+  {
+   "shot": "S28",
+   "a": 3455,
+   "b": 3671,
+   "t0": 0,
+   "t1": 216,
+   "line": "And you race south on the Appian Way in the dark on the last of your fuel"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "close",
+   "key": 20,
+   "len": 53,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "You do the math",
+   "note": "you do the maths"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 148,
+   "first": 53,
+   "line": "A quarter of a tank is about a hundred and fifty kilometers",
+   "note": "a quarter tank: about 150 km"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 151,
+   "first": 201,
+   "line": "The war in the east is more than two thousand kilometers away",
+   "note": "the war in the east: 2,000+ km"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "len": 86,
+   "first": 352,
+   "line": "The car will die in the desert",
+   "note": "the car dead in the desert"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 20,
+   "len": 156,
+   "first": 438,
+   "line": "And so will you the moment the emperor finds out it's useless",
+   "note": "the emperor finds out"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "len": 182,
+   "first": 594,
+   "line": "But the tunnel the place where you arrived is only forty kilometers south",
+   "note": "the tunnel: 40 km south"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 20,
+   "len": 107,
+   "first": 776,
+   "line": "Maybe it still works Maybe it doesn't",
+   "note": "maybe it works, maybe not"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 148,
+   "first": 883,
+   "line": "And if it doesn't you've burned your last fuel for nothing",
+   "note": "the needle sinks to empty"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 20,
+   "len": 177,
+   "first": 1031,
+   "line": "Then someone knocks It's Apollodorus He shuts the door and whispers",
+   "note": "a knock; Apollodorus slips in"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 20,
+   "len": 173,
+   "first": 1208,
+   "line": "'An emperor with a horseless chariot would never stop making war Go home.'",
+   "note": "\"Go home.\""
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 20,
+   "len": 132,
+   "first": 1381,
+   "line": "He gives you a key And a map of the palace",
+   "note": "a key and a map of the palace"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 123,
+   "first": 1513,
+   "line": "You find Mo locked in a storeroom eating grapes",
+   "note": "Mo locked in, eating grapes"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 20,
+   "len": 83,
+   "first": 1636,
+   "line": "'Took you long enough,' he says",
+   "note": "\"Took you long enough.\""
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 20,
+   "len": 159,
+   "first": 1719,
+   "line": "You push the car out of the courtyard in silence headlights off",
+   "note": "pushing the car out, lights off"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 20,
+   "len": 127,
+   "first": 1878,
+   "line": "At the bottom of the hill you start the engine",
+   "note": "the engine starts at the foot of the hill"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "len": 91,
+   "first": 2005,
+   "line": "Somewhere above you a guard shouts",
+   "note": "a guard with a torch shouts"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 20,
+   "len": 168,
+   "first": 2096,
+   "line": "You race through the dark streets past sleeping bakeries and empty markets",
+   "note": "racing through the dark streets"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 20,
+   "len": 130,
+   "first": 2264,
+   "line": "with Mo reading the map by the light of his phone",
+   "note": "Mo reads the map by phone light"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 20,
+   "len": 163,
+   "first": 2394,
+   "line": "At the city gate the same soldiers from day one see you coming",
+   "note": "the gate soldiers see you coming"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "key": 20,
+   "len": 114,
+   "first": 2557,
+   "line": "This time they don't even raise their spears",
+   "note": "they don't raise their spears"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 20,
+   "len": 59,
+   "first": 2671,
+   "line": "They just step aside",
+   "note": "they step aside; the car flies through"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 20,
+   "len": 77,
+   "first": 2730,
+   "line": "Horses A lot of horses",
+   "note": "cavalry across the road ahead"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 20,
+   "len": 132,
+   "first": 2807,
+   "line": "On a smooth highway you'd leave them behind in seconds",
+   "note": "a highway: gone in seconds"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 20,
+   "len": 221,
+   "first": 2939,
+   "line": "But this is a Roman road made of big stone blocks and every bump could break the car",
+   "note": "the wheel hammering over stone blocks"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "key": 20,
+   "len": 111,
+   "first": 3160,
+   "line": "So you do the one thing they've never seen",
+   "note": "the one thing they've never seen"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 20,
+   "len": 78,
+   "first": 3271,
+   "line": "You switch on the high beams",
+   "note": "the high beams flare on"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "key": 20,
+   "len": 106,
+   "first": 3349,
+   "line": "The horses rear The riders go flying",
+   "note": "the horses rear, the riders fly"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "key": 20,
+   "len": 216,
+   "first": 3455,
+   "line": "And you race south on the Appian Way in the dark on the last of your fuel",
+   "note": "south on the Appian Way on the last fuel"
   }
  ],
  "fx": [],

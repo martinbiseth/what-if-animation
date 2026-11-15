@@ -41,18 +41,314 @@
  "shots": [
   {
    "id": "S1",
+   "size": "close",
+   "set": "gold room",
+   "key": 20,
+   "note": "you do the maths"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "a quarter tank: about 150 km"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "the war in the east: 2,000+ km"
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "country",
+   "key": 20,
+   "note": "the car dead in the desert"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "set": "palace night",
+   "key": 20,
+   "note": "the emperor finds out"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "the tunnel: 40 km south"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "set": "gold room",
+   "key": 20,
+   "note": "maybe it works, maybe not"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "gold room",
+   "key": 20,
+   "note": "the needle sinks to empty"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "gold room",
+   "key": 20,
+   "note": "a knock; Apollodorus slips in"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "set": "gold room",
+   "key": 20,
+   "note": "\"Go home.\""
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "gold room",
+   "key": 20,
+   "note": "a key and a map of the palace"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "storeroom",
+   "key": 20,
+   "note": "Mo locked in, eating grapes"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "set": "storeroom",
+   "key": 20,
+   "note": "\"Took you long enough.\""
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "palace night",
+   "key": 20,
+   "note": "pushing the car out, lights off"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "night road",
+   "key": 20,
+   "note": "the engine starts at the foot of the hill"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "palace night",
+   "key": 20,
+   "note": "a guard with a torch shouts"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "streets night",
+   "key": 20,
+   "note": "racing through the dark streets"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "set": "streets night",
+   "key": 20,
+   "note": "Mo reads the map by phone light"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "gate night",
+   "key": 20,
+   "note": "the gate soldiers see you coming"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "set": "gate night",
+   "key": 20,
+   "note": "they don't raise their spears"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "gate night",
+   "key": 20,
+   "note": "they step aside; the car flies through"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "night road",
+   "key": 20,
+   "note": "cavalry across the road ahead"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "a highway: gone in seconds"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "set": "night road",
+   "key": 20,
+   "note": "the wheel hammering over stone blocks"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "set": "night road",
+   "key": 20,
+   "note": "the one thing they've never seen"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "set": "night road",
+   "key": 20,
+   "note": "the high beams flare on"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "set": "night road",
+   "key": 20,
+   "note": "the horses rear, the riders fly"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "set": "night road",
+   "key": 20,
+   "note": "south on the Appian Way on the last fuel"
   }
  ],
  "edit": [
   {
    "shot": "S1",
-   "at": "f:0"
+   "at": "You"
+  },
+  {
+   "shot": "S2",
+   "at": "A"
+  },
+  {
+   "shot": "S3",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "The#2"
+  },
+  {
+   "shot": "S5",
+   "at": "And"
+  },
+  {
+   "shot": "S6",
+   "at": "But"
+  },
+  {
+   "shot": "S7",
+   "at": "Maybe"
+  },
+  {
+   "shot": "S8",
+   "at": "And"
+  },
+  {
+   "shot": "S9",
+   "at": "Then"
+  },
+  {
+   "shot": "S10",
+   "at": "An"
+  },
+  {
+   "shot": "S11",
+   "at": "He"
+  },
+  {
+   "shot": "S12",
+   "at": "You#2"
+  },
+  {
+   "shot": "S13",
+   "at": "Took"
+  },
+  {
+   "shot": "S14",
+   "at": "You#2"
+  },
+  {
+   "shot": "S15",
+   "at": "At"
+  },
+  {
+   "shot": "S16",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S17",
+   "at": "You#2"
+  },
+  {
+   "shot": "S18",
+   "at": "with"
+  },
+  {
+   "shot": "S19",
+   "at": "At"
+  },
+  {
+   "shot": "S20",
+   "at": "This"
+  },
+  {
+   "shot": "S21",
+   "at": "They#2"
+  },
+  {
+   "shot": "S22",
+   "at": "Horses"
+  },
+  {
+   "shot": "S23",
+   "at": "On"
+  },
+  {
+   "shot": "S24",
+   "at": "But"
+  },
+  {
+   "shot": "S25",
+   "at": "So"
+  },
+  {
+   "shot": "S26",
+   "at": "You#2"
+  },
+  {
+   "shot": "S27",
+   "at": "The#2"
+  },
+  {
+   "shot": "S28",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": []
 }
