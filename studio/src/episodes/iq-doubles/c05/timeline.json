@@ -1,29 +1,354 @@
 {
  "slug": "iq-doubles/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2488,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 100,
+   "t0": 0,
+   "t1": 100,
+   "line": "That afternoon, there's a black car parked outside your house."
+  },
+  {
+   "shot": "S2",
+   "a": 100,
+   "b": 144,
+   "t0": 0,
+   "t1": 44,
+   "line": "It's been there since lunch."
+  },
+  {
+   "shot": "S3",
+   "a": 144,
+   "b": 241,
+   "t0": 0,
+   "t1": 97,
+   "line": "Remember the proof you posted online? Without your name?"
+  },
+  {
+   "shot": "S4",
+   "a": 241,
+   "b": 402,
+   "t0": 0,
+   "t1": 161,
+   "line": "Mathematicians all over the world have been checking it for two days. They can't find a single mistake."
+  },
+  {
+   "shot": "S5",
+   "a": 402,
+   "b": 610,
+   "t0": 0,
+   "t1": 208,
+   "line": "On the TV news, a professor holds up a printout of your proof.\" Whoever did this,\" she says,\" just changed mathematics forever.\""
+  },
+  {
+   "shot": "S6",
+   "a": 610,
+   "b": 767,
+   "t0": 0,
+   "t1": 157,
+   "line": "And someone traced it to the school computer, at the exact minute you were the only one in the room."
+  },
+  {
+   "shot": "S7",
+   "a": 767,
+   "b": 873,
+   "t0": 0,
+   "t1": 106,
+   "line": "A man in a grey suit knocks on the door. Mom lets him in."
+  },
+  {
+   "shot": "S8",
+   "a": 873,
+   "b": 1062,
+   "t0": 0,
+   "t1": 189,
+   "line": "He sits at the kitchen table and smiles like he's known you for years.\" We've been looking for someone like you for a very long time.\""
+  },
+  {
+   "shot": "S9",
+   "a": 1062,
+   "b": 1176,
+   "t0": 0,
+   "t1": 114,
+   "line": "He offers you a lab. The best doctors in the world, to keep you cool."
+  },
+  {
+   "shot": "S10",
+   "a": 1176,
+   "b": 1381,
+   "t0": 0,
+   "t1": 205,
+   "line": "And every unsolved problem humanity has. Cancer. Clean energy. The things nobody's figured out in a hundred years."
+  },
+  {
+   "shot": "S11",
+   "a": 1381,
+   "b": 1502,
+   "t0": 0,
+   "t1": 121,
+   "line": "It sounds amazing. Except you're smarter than him now. Much smarter."
+  },
+  {
+   "shot": "S12",
+   "a": 1502,
+   "b": 1562,
+   "t0": 0,
+   "t1": 60,
+   "line": "And you can read people like a book. You"
+  },
+  {
+   "shot": "S13",
+   "a": 1562,
+   "b": 1652,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "notice his eyes stop on Ellie when he says\" family\". You"
+  },
+  {
+   "shot": "S14",
+   "a": 1652,
+   "b": 1747,
+   "t0": 0,
+   "t1": 95,
+   "line": "notice he says\" keep you cool\", not\" keep you safe\". You"
+  },
+  {
+   "shot": "S15",
+   "a": 1747,
+   "b": 1865,
+   "t0": 0,
+   "t1": 118,
+   "line": "notice the second man, in the car, who hasn't moved in four hours."
+  },
+  {
+   "shot": "S16",
+   "a": 1865,
+   "b": 1977,
+   "t0": 0,
+   "t1": 112,
+   "line": "They don't care if your brain cooks. They want everything inside it first."
+  },
+  {
+   "shot": "S17",
+   "a": 1977,
+   "b": 2039,
+   "t0": 0,
+   "t1": 62,
+   "line": "Every answer. Before day eight."
+  },
+  {
+   "shot": "S18",
+   "a": 2039,
+   "b": 2194,
+   "t0": 0,
+   "t1": 155,
+   "line": "And if you say no? You've already played it forward in your head, a thousand different ways. In"
+  },
+  {
+   "shot": "S19",
+   "a": 2194,
+   "b": 2384,
+   "t0": 0,
+   "t1": 190,
+   "line": "most of them, they take you anyway. In some of them, they take Ellie too. Just to see if it runs in the family.\" Take"
+  },
+  {
+   "shot": "S20",
+   "a": 2384,
+   "b": 2488,
+   "t0": 0,
+   "t1": 104,
+   "line": "the night,\" the man says.\" We'll be right outside.\""
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "wide push",
+   "key": 60,
+   "len": 100,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "That afternoon, there's a black car parked outside your house.",
+   "note": "black car outside your house"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 100,
+   "line": "It's been there since lunch.",
+   "note": "the shape behind the windscreen, since 12:04"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 40,
+   "len": 97,
+   "first": 144,
+   "line": "Remember the proof you posted online? Without your name?",
+   "note": "posted: anonymous"
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "key": 120,
+   "len": 161,
+   "first": 241,
+   "line": "Mathematicians all over the world have been checking it for two days. They can't find a single mistake.",
+   "note": "the world checking: 0 mistakes"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 120,
+   "len": 208,
+   "first": 402,
+   "line": "On the TV news, a professor holds up a printout of your proof.\" Whoever did this,\" she says,\" just changed mathematics forever.\"",
+   "note": "news: the professor holds up your proof"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "key": 100,
+   "len": 157,
+   "first": 610,
+   "line": "And someone traced it to the school computer, at the exact minute you were the only one in the room.",
+   "note": "traced to school computer 3"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 80,
+   "len": 106,
+   "first": 767,
+   "line": "A man in a grey suit knocks on the door. Mom lets him in.",
+   "note": "the suit walks up, knocks"
+  },
+  {
+   "id": "S8",
+   "size": "three-shot",
+   "key": 120,
+   "len": 189,
+   "first": 873,
+   "line": "He sits at the kitchen table and smiles like he's known you for years.\" We've been looking for someone like you for a very long time.\"",
+   "note": "the suit smiles: we've been looking"
+  },
+  {
+   "id": "S9",
+   "size": "diagram",
+   "key": 90,
+   "len": 114,
+   "first": 1062,
+   "line": "He offers you a lab. The best doctors in the world, to keep you cool.",
+   "note": "a lab, doctors, cooling"
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "key": 120,
+   "len": 205,
+   "first": 1176,
+   "line": "And every unsolved problem humanity has. Cancer. Clean energy. The things nobody's figured out in a hundred years.",
+   "note": "every unsolved problem fans out"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 60,
+   "len": 121,
+   "first": 1381,
+   "line": "It sounds amazing. Except you're smarter than him now. Much smarter.",
+   "note": "amazing... then you narrow your eyes"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 60,
+   "first": 1502,
+   "line": "And you can read people like a book. You",
+   "note": "analysis brackets on the suit"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 40,
+   "len": 90,
+   "first": 1562,
+   "line": "notice his eyes stop on Ellie when he says\" family\". You",
+   "note": "his eyes go to Ellie"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 60,
+   "len": 95,
+   "first": 1652,
+   "line": "notice he says\" keep you cool\", not\" keep you safe\". You",
+   "note": "keep you cool / keep you safe"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 60,
+   "len": 118,
+   "first": 1747,
+   "line": "notice the second man, in the car, who hasn't moved in four hours.",
+   "note": "the second man, 4 hours"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 40,
+   "len": 112,
+   "first": 1865,
+   "line": "They don't care if your brain cooks. They want everything inside it first.",
+   "note": "they don't care"
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "key": 16,
+   "len": 62,
+   "first": 1977,
+   "line": "Every answer. Before day eight.",
+   "note": "BEFORE DAY 8"
+  },
+  {
+   "id": "S18",
+   "size": "diagram",
+   "key": 60,
+   "len": 155,
+   "first": 2039,
+   "line": "And if you say no? You've already played it forward in your head, a thousand different ways. In",
+   "note": "futures tree grows"
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "key": 160,
+   "len": 190,
+   "first": 2194,
+   "line": "most of them, they take you anyway. In some of them, they take Ellie too. Just to see if it runs in the family.\" Take",
+   "note": "most red, some with Ellie"
+  },
+  {
+   "id": "S20",
+   "size": "two-shot",
+   "key": 40,
+   "len": 104,
+   "first": 2384,
+   "line": "the night,\" the man says.\" We'll be right outside.\"",
+   "note": "take the night, we'll be outside"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "iq-doubles/c05/voice.wav"
+ }
 }

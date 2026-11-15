@@ -49,18 +49,226 @@
  "shots": [
   {
    "id": "S1",
+   "size": "wide push",
+   "set": "street day",
+   "note": "black car outside your house",
+   "key": 60
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "street day",
+   "note": "the shape behind the windscreen, since 12:04",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "laptop",
+   "note": "posted: anonymous",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "the world checking: 0 mistakes",
+   "key": 120
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "tv",
+   "note": "news: the professor holds up your proof",
+   "key": 120
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "traced to school computer 3",
+   "key": 100
+  },
+  {
+   "id": "S7",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "street day",
+   "note": "the suit walks up, knocks",
+   "key": 80
+  },
+  {
+   "id": "S8",
+   "size": "three-shot",
+   "set": "kitchen",
+   "note": "the suit smiles: we've been looking",
+   "key": 120
+  },
+  {
+   "id": "S9",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "a lab, doctors, cooling",
+   "key": 90
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "every unsolved problem fans out",
+   "key": 120
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "amazing... then you narrow your eyes",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "analysis brackets on the suit",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "his eyes go to Ellie",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "set": "kitchen",
+   "note": "keep you cool / keep you safe",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "street day",
+   "note": "the second man, 4 hours",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "they don't care",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "set": "card",
+   "note": "BEFORE DAY 8",
+   "key": 16
+  },
+  {
+   "id": "S18",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "futures tree grows",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "most red, some with Ellie",
+   "key": 160
+  },
+  {
+   "id": "S20",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "take the night, we'll be outside",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "It's"
+  },
+  {
+   "shot": "S3",
+   "at": "Remember"
+  },
+  {
+   "shot": "S4",
+   "at": "Mathematicians"
+  },
+  {
+   "shot": "S5",
+   "at": "On"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "A"
+  },
+  {
+   "shot": "S8",
+   "at": "He"
+  },
+  {
+   "shot": "S9",
+   "at": "He"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "It"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "notice"
+  },
+  {
+   "shot": "S14",
+   "at": "notice"
+  },
+  {
+   "shot": "S15",
+   "at": "notice"
+  },
+  {
+   "shot": "S16",
+   "at": "They"
+  },
+  {
+   "shot": "S17",
+   "at": "Every"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "most"
+  },
+  {
+   "shot": "S20",
+   "at": "night"
   }
  ],
- "end": "f:90",
  "fx": []
 }
