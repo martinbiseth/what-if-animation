@@ -1,29 +1,354 @@
 {
  "slug": "iq-doubles/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2306,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 130,
+   "t0": 0,
+   "t1": 130,
+   "line": "That night, you can't sleep. Your head is burning, and your brain won't stop."
+  },
+  {
+   "shot": "S2",
+   "a": 130,
+   "b": 330,
+   "t0": 0,
+   "t1": 200,
+   "line": "At three thousand two hundred, you finally see it. The thing that's been changing your brain every morning. And how to switch it off."
+  },
+  {
+   "shot": "S3",
+   "a": 330,
+   "b": 435,
+   "t0": 0,
+   "t1": 105,
+   "line": "But there's a catch. Switching it off doesn't just stop the doubling. It"
+  },
+  {
+   "shot": "S4",
+   "a": 435,
+   "b": 496,
+   "t0": 0,
+   "t1": 61,
+   "line": "resets you. Back to a hundred."
+  },
+  {
+   "shot": "S5",
+   "a": 496,
+   "b": 615,
+   "t0": 0,
+   "t1": 119,
+   "line": "Everything you've learned, gone. You won't even remember how you did it."
+  },
+  {
+   "shot": "S6",
+   "a": 615,
+   "b": 782,
+   "t0": 0,
+   "t1": 167,
+   "line": "Or you can keep going. Go with the man in the suit. Maybe cure a disease or two before day eight."
+  },
+  {
+   "shot": "S7",
+   "a": 782,
+   "b": 872,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Millions of people could live because of what's in your head right now."
+  },
+  {
+   "shot": "S8",
+   "a": 872,
+   "b": 921,
+   "t0": 0,
+   "t1": 49,
+   "line": "And all it would cost is you."
+  },
+  {
+   "shot": "S9",
+   "a": 921,
+   "b": 1157,
+   "t0": 0,
+   "t1": 236,
+   "line": "Ellie knocks on your door. She can't sleep either. She sits on the end of your bed in her dinosaur pajamas.\" Are you going away with that man?\"\""
+  },
+  {
+   "shot": "S10",
+   "a": 1157,
+   "b": 1184,
+   "t0": 0,
+   "t1": 27,
+   "line": "I don't know.\"\""
+  },
+  {
+   "shot": "S11",
+   "a": 1184,
+   "b": 1259,
+   "t0": 0,
+   "t1": 75,
+   "line": "Will you still be my brother? If you stop?\""
+  },
+  {
+   "shot": "S12",
+   "a": 1259,
+   "b": 1409,
+   "t0": 0,
+   "t1": 150,
+   "line": "And that's the moment the smartest person who ever lived works out the easiest question in the world."
+  },
+  {
+   "shot": "S13",
+   "a": 1409,
+   "b": 1471,
+   "t0": 0,
+   "t1": 62,
+   "line": "You grab every notebook in the house."
+  },
+  {
+   "shot": "S14",
+   "a": 1471,
+   "b": 1526,
+   "t0": 0,
+   "t1": 55,
+   "line": "And for six hours, you write."
+  },
+  {
+   "shot": "S15",
+   "a": 1526,
+   "b": 1734,
+   "t0": 0,
+   "t1": 208,
+   "line": "Cures. The proof. Clean energy. Everything you can fit on paper, faster than you've ever written in your life."
+  },
+  {
+   "shot": "S16",
+   "a": 1734,
+   "b": 1790,
+   "t0": 0,
+   "t1": 56,
+   "line": "Ellie falls asleep at your feet."
+  },
+  {
+   "shot": "S17",
+   "a": 1790,
+   "b": 2040,
+   "t0": 0,
+   "t1": 250,
+   "line": "Outside, the man in the car is watching your window. You see him check his watch at four, and again at five. He's waiting for the morning too."
+  },
+  {
+   "shot": "S18",
+   "a": 2040,
+   "b": 2159,
+   "t0": 0,
+   "t1": 119,
+   "line": "By six thirty, your hand is shaking so hard you can barely hold the pen."
+  },
+  {
+   "shot": "S19",
+   "a": 2159,
+   "b": 2249,
+   "t0": 0,
+   "t1": 90,
+   "line": "At six fifty- nine, you write the last line."
+  },
+  {
+   "shot": "S20",
+   "a": 2249,
+   "b": 2306,
+   "t0": 0,
+   "t1": 57,
+   "line": "Then you switch it off."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
+   "key": 45,
+   "len": 130,
+   "first": 0,
+   "line": "That night, you can't sleep. Your head is burning, and your brain won't stop.",
+   "note": "3 AM, red glow, you sitting up awake"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 200,
+   "first": 130,
+   "line": "At three thousand two hundred, you finally see it. The thing that's been changing your brain every morning. And how to switch it off.",
+   "note": "the brain with the switch"
+  },
+  {
+   "id": "S3",
+   "size": "title",
+   "key": 20,
+   "len": 105,
+   "first": 330,
+   "line": "But there's a catch. Switching it off doesn't just stop the doubling. It",
+   "note": "THERE'S A CATCH"
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "key": 30,
+   "len": 61,
+   "first": 435,
+   "line": "resets you. Back to a hundred.",
+   "note": "IQ 3,200 back to 100"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 119,
+   "first": 496,
+   "line": "Everything you've learned, gone. You won't even remember how you did it.",
+   "note": "things you learned fading, GONE."
+  },
+  {
+   "id": "S6",
+   "size": "split",
+   "key": 30,
+   "len": 167,
+   "first": 615,
+   "line": "Or you can keep going. Go with the man in the suit. Maybe cure a disease or two before day eight.",
+   "note": "the fork: SWITCH IT OFF / KEEP GOING"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The choice"
+   "first": 782,
+   "line": "Millions of people could live because of what's in your head right now.",
+   "note": "millions could live"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 49,
+   "first": 872,
+   "line": "And all it would cost is you.",
+   "note": "your face"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 45,
+   "len": 236,
+   "first": 921,
+   "line": "Ellie knocks on your door. She can't sleep either. She sits on the end of your bed in her dinosaur pajamas.\" Are you going away with that man?\"\"",
+   "note": "Ellie at the door, sits on the bed"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 20,
+   "len": 27,
+   "first": 1157,
+   "line": "I don't know.\"\"",
+   "note": "\"I don't know\""
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 20,
+   "len": 75,
+   "first": 1184,
+   "line": "Will you still be my brother? If you stop?\"",
+   "note": "Ellie: will you still be my brother"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot push",
+   "key": 30,
+   "len": 150,
+   "first": 1259,
+   "line": "And that's the moment the smartest person who ever lived works out the easiest question in the world.",
+   "note": "the two of you on the bed"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 20,
+   "len": 62,
+   "first": 1409,
+   "line": "You grab every notebook in the house.",
+   "note": "notebooks slam down"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 55,
+   "first": 1471,
+   "line": "And for six hours, you write.",
+   "note": "desk lamp, writing, clock spinning"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 30,
+   "len": 208,
+   "first": 1526,
+   "line": "Cures. The proof. Clean energy. Everything you can fit on paper, faster than you've ever written in your life.",
+   "note": "notebook filling, tags pop"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 1734,
+   "line": "Ellie falls asleep at your feet.",
+   "note": "Ellie asleep at the foot of the bed"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 30,
+   "len": 250,
+   "first": 1790,
+   "line": "Outside, the man in the car is watching your window. You see him check his watch at four, and again at five. He's waiting for the morning too.",
+   "note": "the car at night, watch checks"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 20,
+   "len": 119,
+   "first": 2040,
+   "line": "By six thirty, your hand is shaking so hard you can barely hold the pen.",
+   "note": "shaking hand"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 90,
+   "first": 2159,
+   "line": "At six fifty- nine, you write the last line.",
+   "note": "06:59 alarm"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 20,
+   "len": 57,
+   "first": 2249,
+   "line": "Then you switch it off.",
+   "note": "switch off: flash, then black"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "iq-doubles/c06/voice.wav"
+ }
 }

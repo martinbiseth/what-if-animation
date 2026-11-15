@@ -62,17 +62,225 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "bedroom night",
+   "note": "3 AM, red glow, you sitting up awake",
+   "key": 45
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "schematic",
+   "note": "the brain with the switch",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "title",
+   "set": "dark",
+   "note": "THERE'S A CATCH",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "set": "dark",
+   "note": "IQ 3,200 back to 100",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "dark",
+   "note": "things you learned fading, GONE.",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "split",
+   "set": "dark",
+   "note": "the fork: SWITCH IT OFF / KEEP GOING",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "schematic",
+   "note": "millions could live",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "your face",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "bedroom night",
+   "note": "Ellie at the door, sits on the bed",
+   "key": 45
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "\"I don't know\"",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "Ellie: will you still be my brother",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "two-shot push",
+   "set": "bedroom night",
+   "note": "the two of you on the bed",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "study",
+   "note": "notebooks slam down",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "study",
+   "note": "desk lamp, writing, clock spinning",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "study",
+   "note": "notebook filling, tags pop",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "bedroom night",
+   "note": "Ellie asleep at the foot of the bed",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "street night",
+   "note": "the car at night, watch checks",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "set": "study",
+   "note": "shaking hand",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "study",
+   "note": "06:59 alarm",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "set": "dark",
+   "note": "switch off: flash, then black",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "At"
+  },
+  {
+   "shot": "S3",
+   "at": "But"
+  },
+  {
+   "shot": "S4",
+   "at": "resets"
+  },
+  {
+   "shot": "S5",
+   "at": "Everything"
+  },
+  {
+   "shot": "S6",
+   "at": "Or"
+  },
+  {
+   "shot": "S7",
+   "at": "Millions"
+  },
+  {
+   "shot": "S8",
+   "at": "And"
+  },
+  {
+   "shot": "S9",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S10",
+   "at": "I"
+  },
+  {
+   "shot": "S11",
+   "at": "Will"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "You"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "Cures"
+  },
+  {
+   "shot": "S16",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S17",
+   "at": "Outside"
+  },
+  {
+   "shot": "S18",
+   "at": "By"
+  },
+  {
+   "shot": "S19",
+   "at": "At"
+  },
+  {
+   "shot": "S20",
+   "at": "Then"
   }
  ],
- "end": "f:90",
  "fx": []
 }
