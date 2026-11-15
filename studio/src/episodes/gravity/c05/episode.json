@@ -74,17 +74,185 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "living floor",
+   "note": "you and Mom flat, the TV on",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "tv",
+   "set": "news",
+   "note": "the scientist lying down: exactly on the hour",
+   "key": 90
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "living floor",
+   "note": "Mom goes quiet",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "tv close",
+   "set": "news",
+   "note": "something is doing this on purpose",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "sky",
+   "set": "sky",
+   "note": "airliners racing down before nine",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "2.5 G",
+   "key": 70
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "satellites too slow, the low ones fall",
+   "key": 100
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "hospital",
+   "note": "patients on mattresses on the floor",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "sky",
+   "set": "ocean",
+   "note": "a pilot radios: we don't have a choice",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "tv",
+   "set": "news",
+   "note": "get into water",
+   "key": 80
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "floating body: weight x2, water push x2",
+   "key": 90
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "living floor",
+   "note": "you and Mom look at each other",
+   "key": 40
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "set": "yard",
+   "note": "Mr. Patel has a pool",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "living",
+   "note": "8:41, NINETEEN MINUTES",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "tv wall",
+   "set": "news",
+   "note": "every anchor lying down",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "living floor",
+   "note": "you listening",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "He's"
+  },
+  {
+   "shot": "S15",
+   "at": "Every"
+  },
+  {
+   "shot": "S2",
+   "at": "scientist"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S4",
+   "at": "Something"
+  },
+  {
+   "shot": "S5",
+   "at": "The"
+  },
+  {
+   "shot": "S6",
+   "at": "An"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "Down"
+  },
+  {
+   "shot": "S9",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "Then"
+  },
+  {
+   "shot": "S10",
+   "at": "If"
+  },
+  {
+   "shot": "S11",
+   "at": "That's"
+  },
+  {
+   "shot": "S12",
+   "at": "Your"
+  },
+  {
+   "shot": "S13",
+   "at": "Mr"
+  },
+  {
+   "shot": "S14",
+   "at": "It's"
   }
  ],
- "end": "f:90",
  "fx": []
 }

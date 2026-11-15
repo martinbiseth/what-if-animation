@@ -1,29 +1,294 @@
 {
  "slug": "gravity/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2283,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 119,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 119,
+   "line": "On the TV, lying sideways on the floor, a man in a suit is talking."
+  },
+  {
+   "shot": "S2",
+   "a": 119,
+   "b": 160,
+   "t0": 0,
+   "t1": 41,
+   "line": "He's lying down too."
+  },
+  {
+   "shot": "S15",
+   "a": 160,
+   "b": 234,
+   "t0": 0,
+   "t1": 74,
+   "line": "Every news anchor on Earth is lying down. He's"
+  },
+  {
+   "shot": "S2",
+   "a": 234,
+   "b": 456,
+   "t0": 0,
+   "t1": 222,
+   "line": "a scientist. 'We can measure it to the millisecond, ' he says. 'It doubles at exactly the top of the hour. Not near it. Exactly. '"
+  },
+  {
+   "shot": "S3",
+   "a": 456,
+   "b": 540,
+   "t0": 0,
+   "t1": 84,
+   "line": "Then he says the thing that makes your mom go quiet."
+  },
+  {
+   "shot": "S4",
+   "a": 540,
+   "b": 659,
+   "t0": 0,
+   "t1": 119,
+   "line": "'Something is doing this on purpose. Nature doesn't keep a schedule. '"
+  },
+  {
+   "shot": "S5",
+   "a": 659,
+   "b": 789,
+   "t0": 0,
+   "t1": 130,
+   "line": "The planes come first. Every pilot in the sky is trying to land before nine."
+  },
+  {
+   "shot": "S6",
+   "a": 789,
+   "b": 920,
+   "t0": 0,
+   "t1": 131,
+   "line": "An airliner is only built to handle about two and a half g. They have a few minutes."
+  },
+  {
+   "shot": "S7",
+   "a": 920,
+   "b": 1152,
+   "t0": 0,
+   "t1": 232,
+   "line": "Then the satellites. Every one of them is going around the Earth at a speed set for normal gravity. Now they're too slow. The lowest ones start to fall."
+  },
+  {
+   "shot": "S8",
+   "a": 1152,
+   "b": 1317,
+   "t0": 0,
+   "t1": 165,
+   "line": "Down here, hospitals move every patient onto the floor. Firefighters can't climb their own ladders."
+  },
+  {
+   "shot": "S9",
+   "a": 1317,
+   "b": 1493,
+   "t0": 0,
+   "t1": 176,
+   "line": "And somewhere over the ocean, a pilot radios the tower. 'We're coming down early. We don't have a choice. '"
+  },
+  {
+   "shot": "S16",
+   "a": 1493,
+   "b": 1602,
+   "t0": 0,
+   "t1": 109,
+   "line": "Then the man in the suit says the one useful thing anyone says all day."
+  },
+  {
+   "shot": "S10",
+   "a": 1602,
+   "b": 1803,
+   "t0": 0,
+   "t1": 201,
+   "line": "'If you can, get into water. Water pushes up on you. And the stronger gravity gets, the harder it pushes back. '"
+  },
+  {
+   "shot": "S11",
+   "a": 1803,
+   "b": 2001,
+   "t0": 0,
+   "t1": 198,
+   "line": "That's real. A floating body is held up by the water around it. Double the gravity, and the push of the water doubles too."
+  },
+  {
+   "shot": "S12",
+   "a": 2001,
+   "b": 2124,
+   "t0": 0,
+   "t1": 123,
+   "line": "Your mom looks at you. You look at her. You both think the same thing."
+  },
+  {
+   "shot": "S13",
+   "a": 2124,
+   "b": 2192,
+   "t0": 0,
+   "t1": 68,
+   "line": "Mr. Patel next door has a swimming pool."
+  },
+  {
+   "shot": "S14",
+   "a": 2192,
+   "b": 2283,
+   "t0": 0,
+   "t1": 91,
+   "line": "It's eight forty- one. Nineteen minutes."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 40,
+   "len": 119,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "On the TV, lying sideways on the floor, a man in a suit is talking.",
+   "note": "you and Mom flat, the TV on"
+  },
+  {
+   "id": "S2",
+   "size": "tv",
+   "key": 90,
+   "len": 222,
+   "first": 119,
+   "line": "He's lying down too.",
+   "note": "the scientist lying down: exactly on the hour"
+  },
+  {
+   "id": "S15",
+   "size": "tv wall",
+   "key": 30,
+   "len": 74,
+   "first": 160,
+   "line": "Every news anchor on Earth is lying down. He's",
+   "note": "every anchor lying down"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 40,
+   "len": 84,
+   "first": 456,
+   "line": "Then he says the thing that makes your mom go quiet.",
+   "note": "Mom goes quiet"
+  },
+  {
+   "id": "S4",
+   "size": "tv close",
+   "key": 60,
+   "len": 119,
+   "first": 540,
+   "line": "'Something is doing this on purpose. Nature doesn't keep a schedule. '",
+   "note": "something is doing this on purpose"
+  },
+  {
+   "id": "S5",
+   "size": "sky",
+   "key": 60,
+   "len": 130,
+   "first": 659,
+   "line": "The planes come first. Every pilot in the sky is trying to land before nine.",
+   "note": "airliners racing down before nine"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 70,
+   "len": 131,
+   "first": 789,
+   "line": "An airliner is only built to handle about two and a half g. They have a few minutes.",
+   "note": "2.5 G"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 100,
+   "len": 232,
+   "first": 920,
+   "line": "Then the satellites. Every one of them is going around the Earth at a speed set for normal gravity. Now they're too slow. The lowest ones start to fall.",
+   "note": "satellites too slow, the low ones fall"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "len": 165,
+   "first": 1152,
+   "line": "Down here, hospitals move every patient onto the floor. Firefighters can't climb their own ladders.",
+   "note": "patients on mattresses on the floor"
+  },
+  {
+   "id": "S9",
+   "size": "sky",
+   "key": 60,
+   "len": 176,
+   "first": 1317,
+   "line": "And somewhere over the ocean, a pilot radios the tower. 'We're coming down early. We don't have a choice. '",
+   "note": "a pilot radios: we don't have a choice"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 30,
+   "len": 109,
+   "first": 1493,
+   "line": "Then the man in the suit says the one useful thing anyone says all day.",
+   "note": "you listening"
+  },
+  {
+   "id": "S10",
+   "size": "tv",
+   "key": 80,
+   "len": 201,
+   "first": 1602,
+   "line": "'If you can, get into water. Water pushes up on you. And the stronger gravity gets, the harder it pushes back. '",
+   "note": "get into water"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 90,
+   "len": 198,
+   "first": 1803,
+   "line": "That's real. A floating body is held up by the water around it. Double the gravity, and the push of the water doubles too.",
+   "note": "floating body: weight x2, water push x2"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 40,
+   "len": 123,
+   "first": 2001,
+   "line": "Your mom looks at you. You look at her. You both think the same thing.",
+   "note": "you and Mom look at each other"
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "key": 40,
+   "len": 68,
+   "first": 2124,
+   "line": "Mr. Patel next door has a swimming pool.",
+   "note": "Mr. Patel has a pool"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 20,
+   "len": 91,
+   "first": 2192,
+   "line": "It's eight forty- one. Nineteen minutes.",
+   "note": "8:41, NINETEEN MINUTES"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gravity/c05/voice.wav"
+ }
 }
