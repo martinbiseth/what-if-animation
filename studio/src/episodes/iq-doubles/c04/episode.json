@@ -1,0 +1,91 @@
+{
+ "id": "IqDoublesC04",
+ "slug": "iq-doubles/c04",
+ "chapter": "The catch",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day four. Sixteen hundred. And you are starving."
+  },
+  {
+   "beat": "p2",
+   "text": "You eat breakfast. Then a second breakfast. Then Ellie's breakfast. By lunch, you've eaten more than your whole family. And you're still hungry."
+  },
+  {
+   "beat": "p3",
+   "text": "Here's why. Your brain is only about two percent of your body's weight. But it burns about twenty percent of your energy. Even when you're asleep, it's the hungriest thing you own."
+  },
+  {
+   "beat": "p4",
+   "text": "Your whole body, sitting still, runs on about eighty watts. Twenty of those go to your brain. That's like a light bulb burning inside your head. All day. Every day."
+  },
+  {
+   "beat": "p5",
+   "text": "Now that brain is doing sixteen times the work. Every morning, it needs more fuel. And everything that burns fuel makes heat."
+  },
+  {
+   "beat": "p6",
+   "text": "There's a second catch, too. Talking to people starts to feel like watching a video at quarter speed. You know how every sentence ends before it's halfway out. Mo tells you a joke, and you see the punchline in his face before he says it. You laugh anyway. A second too late. And for the first time in your life, you feel lonely in a room full of people."
+  },
+  {
+   "beat": "p7",
+   "text": "Day five. Three thousand two hundred. You wake up with your pillow soaked. Mom puts a hand on your forehead and pulls it back fast. The thermometer says thirty-nine point four."
+  },
+  {
+   "beat": "p8",
+   "text": "Doctors say that at forty degrees, your body starts to break down. That's heatstroke. Proteins in your brain begin to stop working. And your temperature is rising a little more every morning."
+  },
+  {
+   "beat": "p9",
+   "text": "That's the other problem with doubling. It feels slow, then it isn't. If you keep going like this, by day ten your IQ would be over a hundred thousand. By day thirty, a hundred billion."
+  },
+  {
+   "beat": "p10",
+   "text": "But you won't make it to day thirty."
+  },
+  {
+   "beat": "p11",
+   "text": "You do the math lying on the bathroom floor, with a bag of frozen peas on your head. At this rate, your brain cooks in three days."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The brain is about 2% of body weight but uses about 20% of the body's energy.",
+   "working": "Resting brain energy use ~20% of total resting metabolism.",
+   "source": "Raichle & Gusnard, \"Appraising the brain's energy budget\", PNAS 99(16), 2002"
+  },
+  {
+   "claim": "A body at rest runs on about 80 watts, about 20 of them in the brain.",
+   "working": "Resting metabolism ~1,700 kcal/day = 1,700 x 4,184 J / 86,400 s = 82 W; 20% of that is about 16-20 W.",
+   "source": "Balasubramanian, \"Brain power\", PNAS 118(32), 2021 (about 20 W); resting metabolic rate ~1,700 kcal/day"
+  },
+  {
+   "claim": "A core temperature of 40 C (104 F) or higher is the main sign of heatstroke, which can damage the brain.",
+   "working": "",
+   "source": "Mayo Clinic, Heatstroke: symptoms and causes"
+  },
+  {
+   "claim": "Doubling from 100: day 10 is 102,400, day 30 is over 100 billion.",
+   "working": "100 x 2^10 = 102,400; 100 x 2^30 = 107,374,182,400.",
+   "source": "Arithmetic"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

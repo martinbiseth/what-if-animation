@@ -1,0 +1,78 @@
+{
+ "id": "IqDoublesC06",
+ "slug": "iq-doubles/c06",
+ "chapter": "The choice",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "That night, you can't sleep. Your head is burning, and your brain won't stop."
+  },
+  {
+   "beat": "p2",
+   "text": "At three thousand two hundred, you finally see it. The thing that's been changing your brain every morning. And how to switch it off."
+  },
+  {
+   "beat": "p3",
+   "text": "But there's a catch. Switching it off doesn't just stop the doubling. It resets you. Back to a hundred. Everything you've learned, gone. You won't even remember how you did it."
+  },
+  {
+   "beat": "p4",
+   "text": "Or you can keep going. Go with the man in the suit. Maybe cure a disease or two before day eight. Millions of people could live because of what's in your head right now. And all it would cost is you."
+  },
+  {
+   "beat": "p5",
+   "text": "Ellie knocks on your door. She can't sleep either. She sits on the end of your bed in her dinosaur pajamas."
+  },
+  {
+   "beat": "p6",
+   "text": "\"Are you going away with that man?\""
+  },
+  {
+   "beat": "p7",
+   "text": "\"I don't know.\""
+  },
+  {
+   "beat": "p8",
+   "text": "\"Will you still be my brother? If you stop?\""
+  },
+  {
+   "beat": "p9",
+   "text": "And that's the moment the smartest person who ever lived works out the easiest question in the world."
+  },
+  {
+   "beat": "p10",
+   "text": "You grab every notebook in the house. And for six hours, you write. Cures. The proof. Clean energy. Everything you can fit on paper, faster than you've ever written in your life. Ellie falls asleep at your feet."
+  },
+  {
+   "beat": "p11",
+   "text": "Outside, the man in the car is watching your window. You see him check his watch at four, and again at five. He's waiting for the morning too. By six thirty, your hand is shaking so hard you can barely hold the pen."
+  },
+  {
+   "beat": "p12",
+   "text": "At six fifty-nine, you write the last line."
+  },
+  {
+   "beat": "p13",
+   "text": "Then you switch it off."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

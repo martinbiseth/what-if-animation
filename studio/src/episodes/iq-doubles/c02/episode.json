@@ -1,0 +1,64 @@
+{
+ "id": "IqDoublesC02",
+ "slug": "iq-doubles/c02",
+ "chapter": "The rules",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here are the rules. Most people have an IQ of around a hundred. Yesterday, that was you."
+  },
+  {
+   "beat": "p2",
+   "text": "Today, you're two hundred. Tomorrow, four hundred. Then eight hundred. Every morning at seven, while you sleep, your brain doubles."
+  },
+  {
+   "beat": "p3",
+   "text": "How rare is two hundred? On the IQ scale, it should turn up about once in seventy-six billion people. There are only eight billion people alive. You're already off the chart. And tomorrow, the chart won't even go that high."
+  },
+  {
+   "beat": "p4",
+   "text": "It's not just knowing more. You learn faster. You think faster. You notice everything. The tiny crack in the ceiling. The fact that your teacher is wearing two different socks."
+  },
+  {
+   "beat": "p5",
+   "text": "And you can't stop it. You can't slow it down. Sleep, and it doubles. Stay awake, and it doubles anyway."
+  },
+  {
+   "beat": "p6",
+   "text": "And one more rule. It only happens to you. Nobody else on Earth is changing."
+  },
+  {
+   "beat": "p7",
+   "text": "Remember that one."
+  }
+ ],
+ "science": [
+  {
+   "claim": "An IQ of 200 should turn up about once in 76 billion people; about 8 billion people are alive.",
+   "working": "IQ scales have mean 100 and SD 15, so 200 is 6.67 SD above the mean; the normal upper tail beyond z=6.67 is 1.31e-11, i.e. 1 in 7.6e10.",
+   "source": "Normal-distribution tail (IQ mean 100, SD 15, as in the Wechsler scales); UN World Population Prospects 2024 (about 8.2 billion people)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

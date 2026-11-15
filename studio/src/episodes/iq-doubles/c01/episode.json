@@ -1,0 +1,54 @@
+{
+ "id": "IqDoublesC01",
+ "slug": "iq-doubles/c01",
+ "chapter": "The morning it started",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Seven AM. Your alarm goes off. And for the first time in your life, you're not tired. You're... awake. Really awake."
+  },
+  {
+   "beat": "p2",
+   "text": "At breakfast, your little sister Ellie is crying over her math homework. You glance at it. Done. All twenty questions. In your head. Before your toast pops up."
+  },
+  {
+   "beat": "p3",
+   "text": "Mom's old puzzle cube is on the shelf. Nobody in this house has ever solved it. You pick it up. Click, click, click. Eleven seconds."
+  },
+  {
+   "beat": "p4",
+   "text": "On the bus, you open a history book you were supposed to read last month. You turn the pages like you're flicking through a comic. You remember every word."
+  },
+  {
+   "beat": "p5",
+   "text": "Then you do the math on yourself. Something happened to your brain overnight. It got twice as good. And tomorrow morning, it's going to happen again."
+  },
+  {
+   "beat": "p6",
+   "text": "What if your IQ doubled, every single day?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

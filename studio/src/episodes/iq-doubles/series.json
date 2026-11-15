@@ -1,0 +1,105 @@
+{
+ "id": "IqDoubles",
+ "slug": "iq-doubles",
+ "topic": "What if your IQ doubled every day?",
+ "title": [
+  "WHAT IF YOUR IQ",
+  "DOUBLED EVERY DAY?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "The morning it started",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "The last morning",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If Your IQ Doubled Every Day?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "what if your iq doubled",
+   "iq",
+   "genius",
+   "smartest person",
+   "superintelligence",
+   "brain",
+   "human brain",
+   "brain energy",
+   "exponential growth",
+   "millennium prize problems",
+   "science animation",
+   "animated story",
+   "what would happen if",
+   "cliffhanger",
+   "alternate reality",
+   "learn japanese",
+   "rubik's cube",
+   "heatstroke"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One morning you wake up twice as smart. The next morning, twice as smart again. Every day at 7 AM your IQ doubles: math homework, Japanese, a million-dollar math problem. But your brain is the hungriest organ you own, and it is getting hotter every day.",
+  "thumbnail": {
+   "composition": "IqDoublesThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Keep the brain, or keep your family? 👇 What would you have done on that last night?\n\nAnd why is it happening to Ellie now? Best theory gets pinned before Part 2.\n\nThe science checks out: an IQ of 200 should turn up about once in 76 billion people, your brain is 2% of your weight but burns about 20% of your energy, and Japanese takes about 2,200 hours of class. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2, and find out what happens to Ellie."
+ }
+}

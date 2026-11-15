@@ -1,0 +1,86 @@
+{
+ "id": "IqDoublesC03",
+ "slug": "iq-doubles/c03",
+ "chapter": "The fun part",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day one. Math class. The teacher writes a problem on the board that's supposed to take the whole lesson. You put your hand up before she puts the pen down. She checks the answer twice. Then she just sits down. At lunch, you read every book on the library's science shelf. It takes forty minutes. You'd have finished sooner, but the librarian kept staring."
+  },
+  {
+   "beat": "p2",
+   "text": "Your best friend Mo stares at you. \"Since when are you smart?\" \"Since about seven this morning.\""
+  },
+  {
+   "beat": "p3",
+   "text": "Day two. Four hundred. You decide to learn Japanese. The people who train American diplomats say it takes about twenty-two hundred hours of class. You learn it in an afternoon, from a cooking show. By dinner, you're correcting the subtitles."
+  },
+  {
+   "beat": "p4",
+   "text": "At the table, Ellie asks why the sky is blue. Normally you'd say \"because\". Tonight, you use a glass of water and Mom's reading lamp, and you make a tiny sunset on the tablecloth. Ellie's mouth falls open. Then she asks why it's blue again, just to see it twice."
+  },
+  {
+   "beat": "p5",
+   "text": "That night, Mo dares you to play the chess computer on his laptop on its hardest level. It's the kind that beats world champions. You lose the first game. You win the second. In the third, you tell the computer how it's going to lose, twenty moves before it does."
+  },
+  {
+   "beat": "p6",
+   "text": "Day three. Eight hundred. In the year two thousand, a group of mathematicians named seven of the hardest problems in the world. One million dollars for each one you solve. In twenty-six years, only one has ever been solved."
+  },
+  {
+   "beat": "p7",
+   "text": "You read about them on the bus to school. By lunch, you've solved one. You type it up on the school computer and post it online, without your name. Just to see what happens."
+  },
+  {
+   "beat": "p8",
+   "text": "Mo reads the first line of your proof. Then the second. Then he slowly closes the laptop."
+  },
+  {
+   "beat": "p9",
+   "text": "\"Okay. You're scaring me now.\""
+  },
+  {
+   "beat": "p10",
+   "text": "You laugh. Because it's the best week of your life."
+  },
+  {
+   "beat": "p11",
+   "text": "But you haven't noticed the one thing that's been getting worse every morning."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The people who train American diplomats say Japanese takes about 2,200 class hours for an English speaker.",
+   "working": "FSI Category IV, 88 weeks, about 2,200 class hours.",
+   "source": "U.S. Department of State, Foreign Service Institute, Foreign Language Training (language difficulty rankings)"
+  },
+  {
+   "claim": "In 2000 the Clay Mathematics Institute named seven Millennium Prize Problems, $1 million each; only one (the Poincare conjecture) has been solved.",
+   "working": "Perelman's proof was recognised in 2010; he declined the prize. 2000 to 2026 is 26 years.",
+   "source": "Clay Mathematics Institute, Millennium Problems; CMI press release 18 March 2010"
+  },
+  {
+   "claim": "Top chess engines beat world champions.",
+   "working": "Deep Blue beat Kasparov in 1997; engines have been far stronger than any human since.",
+   "source": "IBM, Deep Blue (1997)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

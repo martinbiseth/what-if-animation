@@ -1,0 +1,66 @@
+{
+ "id": "IqDoublesC05",
+ "slug": "iq-doubles/c05",
+ "chapter": "Someone notices",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "That afternoon, there's a black car parked outside your house. It's been there since lunch."
+  },
+  {
+   "beat": "p2",
+   "text": "Remember the proof you posted online? Without your name? Mathematicians all over the world have been checking it for two days. They can't find a single mistake. On the TV news, a professor holds up a printout of your proof. \"Whoever did this,\" she says, \"just changed mathematics forever.\" And someone traced it to the school computer, at the exact minute you were the only one in the room."
+  },
+  {
+   "beat": "p3",
+   "text": "A man in a grey suit knocks on the door. Mom lets him in. He sits at the kitchen table and smiles like he's known you for years."
+  },
+  {
+   "beat": "p4",
+   "text": "\"We've been looking for someone like you for a very long time.\""
+  },
+  {
+   "beat": "p5",
+   "text": "He offers you a lab. The best doctors in the world, to keep you cool. And every unsolved problem humanity has. Cancer. Clean energy. The things nobody's figured out in a hundred years."
+  },
+  {
+   "beat": "p6",
+   "text": "It sounds amazing. Except you're smarter than him now. Much smarter. And you can read people like a book."
+  },
+  {
+   "beat": "p7",
+   "text": "You notice his eyes stop on Ellie when he says \"family\". You notice he says \"keep you cool\", not \"keep you safe\". You notice the second man, in the car, who hasn't moved in four hours."
+  },
+  {
+   "beat": "p8",
+   "text": "They don't care if your brain cooks. They want everything inside it first. Every answer. Before day eight."
+  },
+  {
+   "beat": "p9",
+   "text": "And if you say no? You've already played it forward in your head, a thousand different ways. In most of them, they take you anyway. In some of them, they take Ellie too. Just to see if it runs in the family."
+  },
+  {
+   "beat": "p10",
+   "text": "\"Take the night,\" the man says. \"We'll be right outside.\""
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

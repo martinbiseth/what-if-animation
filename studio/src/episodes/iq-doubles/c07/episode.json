@@ -1,0 +1,70 @@
+{
+ "id": "IqDoublesC07",
+ "slug": "iq-doubles/c07",
+ "chapter": "The last morning",
+ "topic": "What if your IQ doubled every day?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Seven AM. Your alarm goes off. And you're tired. Normal tired."
+  },
+  {
+   "beat": "p2",
+   "text": "Your head is cool. Your mind is quiet. You're a hundred again."
+  },
+  {
+   "beat": "p3",
+   "text": "On your desk, there's a stack of notebooks in your own handwriting. You open the first one. You can't understand a single line. On the last page, there's one sentence you can read. \"Don't let them have this.\""
+  },
+  {
+   "beat": "p4",
+   "text": "You look out of the window. The black car is gone."
+  },
+  {
+   "beat": "p5",
+   "text": "You go down to breakfast. Ellie is already there. She's eating her cereal with one hand. With the other, she's holding Mom's puzzle cube. Click, click, click. Solved."
+  },
+  {
+   "beat": "p6",
+   "text": "She looks up at you, puzzled."
+  },
+  {
+   "beat": "p7",
+   "text": "\"Why does everything feel so easy today?\""
+  },
+  {
+   "beat": "p8",
+   "text": "It only happens to you. That was the rule. So why is it happening to her?"
+  },
+  {
+   "beat": "p9",
+   "text": "What would you do? Keep the brain, or keep your family? Tell me in the comments."
+  },
+  {
+   "beat": "p10",
+   "text": "Is any of this real? The rarity of a two hundred IQ, the brain's hunger, the two thousand two hundred hours of Japanese and the million-dollar problems are all real. The sources are in the description."
+  },
+  {
+   "beat": "p11",
+   "text": "And Ellie? That's part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
