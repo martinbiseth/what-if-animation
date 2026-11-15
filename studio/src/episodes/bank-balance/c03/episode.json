@@ -45,18 +45,257 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 3",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "note": "class: guess the number",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "the teacher: $41,000",
+   "key": 80
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "note": "the trainers: red",
+   "key": 80
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "note": "the quiet girl: $230,000",
+   "key": 110
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "no idea why",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "bike for sale",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "note": "best I can do is fifty",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "note": "$9,000",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "note": "a hundred and twenty; he pays",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "note": "Mo: how did you know?",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "note": "prove it",
+   "key": 70
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "the app: $47.30",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "note": "do my brother",
+   "key": 40
+  },
+  {
+   "id": "S15",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "the brother pays",
+   "key": 170
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "note": "Friday night, the window",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "note": "midnight: +$2,000",
+   "key": 125
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "note": "payday",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "note": "every window going up",
+   "key": 50
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "note": "pizza: the waiter's tips",
+   "key": 60
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "note": "six figures, no tip",
+   "key": 70
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "note": "car boot sale",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "two-shot",
+   "note": "Mo's business",
+   "key": 60
+  },
+  {
+   "id": "S24",
+   "size": "two-shot",
+   "note": "Sunday, Mum",
+   "key": 60
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "note": "you stop laughing",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "In"
+  },
+  {
+   "shot": "S3",
+   "at": "teacher"
+  },
+  {
+   "shot": "S4",
+   "at": "kid"
+  },
+  {
+   "shot": "S5",
+   "at": "quiet"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "man"
+  },
+  {
+   "shot": "S9",
+   "at": "His"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "Mo"
+  },
+  {
+   "shot": "S12",
+   "at": "He"
+  },
+  {
+   "shot": "S13",
+   "at": "checks"
+  },
+  {
+   "shot": "S14",
+   "at": "Then"
+  },
+  {
+   "shot": "S15",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S16",
+   "at": "Friday"
+  },
+  {
+   "shot": "S17",
+   "at": "neighbour"
+  },
+  {
+   "shot": "S18",
+   "at": "Payday"
+  },
+  {
+   "shot": "S19",
+   "at": "All"
+  },
+  {
+   "shot": "S20",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S21",
+   "at": "table"
+  },
+  {
+   "shot": "S22",
+   "at": "By"
+  },
+  {
+   "shot": "S23",
+   "at": "wants"
+  },
+  {
+   "shot": "S24",
+   "at": "And"
+  },
+  {
+   "shot": "S25",
+   "at": "stop"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.0
 }

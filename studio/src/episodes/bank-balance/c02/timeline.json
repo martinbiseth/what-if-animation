@@ -1,29 +1,269 @@
 {
  "slug": "bank-balance/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD SEE EVERYONE'S BANK BALANCE?",
  "fps": 30,
- "total": 90,
+ "total": 1322,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 37,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 37,
+   "line": "Here's how it works."
+  },
+  {
+   "shot": "S2",
+   "a": 37,
+   "b": 147,
+   "t0": 0,
+   "t1": 110,
+   "line": "One Monday morning, every person you look at has a number above their head."
+  },
+  {
+   "shot": "S3",
+   "a": 147,
+   "b": 316,
+   "t0": 0,
+   "t1": 169,
+   "line": "It's everything they have. Every bank account, every savings account, minus every debt they owe."
+  },
+  {
+   "shot": "S4",
+   "a": 316,
+   "b": 494,
+   "t0": 0,
+   "t1": 178,
+   "line": "It doesn't count cash under the mattress, or a house, or a car. Just money in the bank, and money owed."
+  },
+  {
+   "shot": "S5",
+   "a": 494,
+   "b": 536,
+   "t0": 0,
+   "t1": 42,
+   "line": "Green if they have money."
+  },
+  {
+   "shot": "S6",
+   "a": 536,
+   "b": 603,
+   "t0": 0,
+   "t1": 67,
+   "line": "Red if they owe more than they own."
+  },
+  {
+   "shot": "S7",
+   "a": 603,
+   "b": 675,
+   "t0": 0,
+   "t1": 72,
+   "line": "And it updates live, to the cent."
+  },
+  {
+   "shot": "S8",
+   "a": 675,
+   "b": 731,
+   "t0": 0,
+   "t1": 56,
+   "line": "Somebody taps a card, and you watch"
+  },
+  {
+   "shot": "S9",
+   "a": 731,
+   "b": 853,
+   "t0": 0,
+   "t1": 122,
+   "line": "the number drop. The rules are simple. You only see it in real life."
+  },
+  {
+   "shot": "S10",
+   "a": 853,
+   "b": 940,
+   "t0": 0,
+   "t1": 87,
+   "line": "Not on TV, not in photos, not on video calls."
+  },
+  {
+   "shot": "S11",
+   "a": 940,
+   "b": 977,
+   "t0": 0,
+   "t1": 37,
+   "line": "Only you can see it."
+  },
+  {
+   "shot": "S12",
+   "a": 977,
+   "b": 1115,
+   "t0": 0,
+   "t1": 138,
+   "line": "And no matter how hard you try, you can never see your own. Not in a mirror. Not"
+  },
+  {
+   "shot": "S13",
+   "a": 1115,
+   "b": 1146,
+   "t0": 0,
+   "t1": 31,
+   "line": "in a shop window."
+  },
+  {
+   "shot": "S14",
+   "a": 1146,
+   "b": 1214,
+   "t0": 0,
+   "t1": 68,
+   "line": "Remember that. It matters later."
+  },
+  {
+   "shot": "S15",
+   "a": 1214,
+   "b": 1322,
+   "t0": 0,
+   "t1": 108,
+   "line": "This is what if you could see everyone's bank balance."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 37,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's how it works.",
+   "note": "chapter 2"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 60,
+   "len": 110,
+   "first": 37,
+   "line": "One Monday morning, every person you look at has a number above their head.",
+   "note": "Monday: numbers pop over every head"
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "key": 140,
+   "len": 169,
+   "first": 147,
+   "line": "It's everything they have. Every bank account, every savings account, minus every debt they owe.",
+   "note": "what it counts: the sum"
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "key": 120,
+   "len": 178,
+   "first": 316,
+   "line": "It doesn't count cash under the mattress, or a house, or a car. Just money in the bank, and money owed.",
+   "note": "what it doesn't count"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 42,
+   "first": 494,
+   "line": "Green if they have money.",
+   "note": "green"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 67,
+   "first": 536,
+   "line": "Red if they owe more than they own.",
+   "note": "red"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 50,
+   "len": 72,
+   "first": 603,
+   "line": "And it updates live, to the cent.",
+   "note": "live, to the cent"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 50,
+   "len": 56,
+   "first": 675,
+   "line": "Somebody taps a card, and you watch",
+   "note": "a card tap, the number drops"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 30,
+   "len": 122,
+   "first": 731,
+   "line": "the number drop. The rules are simple. You only see it in real life.",
+   "note": "real life only"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 70,
+   "len": 87,
+   "first": 853,
+   "line": "Not on TV, not in photos, not on video calls.",
+   "note": "not on TV, photos, video calls"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 20,
+   "len": 37,
+   "first": 940,
+   "line": "Only you can see it.",
+   "note": "only you"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 60,
+   "len": 138,
+   "first": 977,
+   "line": "And no matter how hard you try, you can never see your own. Not in a mirror. Not",
+   "note": "the mirror: no number"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 31,
+   "first": 1115,
+   "line": "in a shop window.",
+   "note": "the shop window: everyone but you"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 20,
+   "len": 68,
+   "first": 1146,
+   "line": "Remember that. It matters later.",
+   "note": "remember that"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 60,
+   "len": 108,
+   "first": 1214,
+   "line": "This is what if you could see everyone's bank balance.",
+   "note": "title"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c02/voice.wav"
+ }
 }

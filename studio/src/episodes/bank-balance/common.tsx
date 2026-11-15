@@ -130,7 +130,7 @@ export const phoneCU = (o: {
           <rect x={0} y={0} width={1920} height={1080} fill={o.bgColor ?? '#1A1420'} />
         )}
         <g transform={`translate(960 540) scale(${z}) translate(-960 -540)`}>
-          <PhoneInHand x={o.x ?? 960} y={(o.y ?? 520) + bob} s={o.s ?? 1.25} rot={o.rot ?? (o.from === 'left' ? 4 : -4)} from={o.from ?? 'right'} mode={mode} t={t} battery={o.battery ?? 70} text={text} bars={0} buzz={o.buzz ? o.buzz(t) : 0} time={o.time ?? '7:42'} sleeve={o.sleeve} />
+          <PhoneInHand x={o.x ?? 960} y={(o.y ?? 520) + bob} s={o.s ?? 1.25} rot={o.rot ?? (o.from === 'left' ? 4 : -4)} from={o.from ?? 'right'} mode={mode} t={t} battery={o.battery ?? 70} text={text} bars={4} buzz={o.buzz ? o.buzz(t) : 0} time={o.time ?? '7:42'} sleeve={o.sleeve} />
         </g>
       </g>
     );

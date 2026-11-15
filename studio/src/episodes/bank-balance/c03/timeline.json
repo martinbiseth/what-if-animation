@@ -1,29 +1,439 @@
 {
  "slug": "bank-balance/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2988,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 58,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 58,
+   "line": "And at first, it's the best game"
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 165,
+   "t0": 0,
+   "t1": 107,
+   "line": "in the world. In class, you play guess the number. The"
+  },
+  {
+   "shot": "S3",
+   "a": 165,
+   "b": 303,
+   "t0": 0,
+   "t1": 138,
+   "line": "teacher who drives the tiny old car? Forty- one thousand dollars, saved. The"
+  },
+  {
+   "shot": "S4",
+   "a": 303,
+   "b": 460,
+   "t0": 0,
+   "t1": 157,
+   "line": "kid with the expensive trainers? Red. His parents are still paying them off. The"
+  },
+  {
+   "shot": "S5",
+   "a": 460,
+   "b": 619,
+   "t0": 0,
+   "t1": 159,
+   "line": "quiet girl at the back, who wears the same jumper every day, has two hundred and thirty thousand dollars."
+  },
+  {
+   "shot": "S6",
+   "a": 619,
+   "b": 708,
+   "t0": 0,
+   "t1": 89,
+   "line": "You have no idea why. You decide not to ask."
+  },
+  {
+   "shot": "S7",
+   "a": 708,
+   "b": 833,
+   "t0": 0,
+   "t1": 125,
+   "line": "Then you find out what it's actually good for. You sell your old bike online, and"
+  },
+  {
+   "shot": "S8",
+   "a": 833,
+   "b": 978,
+   "t0": 0,
+   "t1": 145,
+   "line": "a man comes to look at it. 'Best I can do is fifty, ' he says, and looks sad."
+  },
+  {
+   "shot": "S9",
+   "a": 978,
+   "b": 1040,
+   "t0": 0,
+   "t1": 62,
+   "line": "His number says nine thousand."
+  },
+  {
+   "shot": "S10",
+   "a": 1040,
+   "b": 1115,
+   "t0": 0,
+   "t1": 75,
+   "line": "You say a hundred and twenty. He pays it."
+  },
+  {
+   "shot": "S11",
+   "a": 1115,
+   "b": 1272,
+   "t0": 0,
+   "t1": 157,
+   "line": "Mo figures out something is going on in about a day. 'How did you know that? ' So you tell him."
+  },
+  {
+   "shot": "S12",
+   "a": 1272,
+   "b": 1415,
+   "t0": 0,
+   "t1": 143,
+   "line": "He doesn't believe you, so you prove it. You tell him exactly how much is on his bank card. He"
+  },
+  {
+   "shot": "S13",
+   "a": 1415,
+   "b": 1447,
+   "t0": 0,
+   "t1": 32,
+   "line": "checks the app."
+  },
+  {
+   "shot": "S14",
+   "a": 1447,
+   "b": 1549,
+   "t0": 0,
+   "t1": 102,
+   "line": "Then he goes very quiet. 'Okay. Do my brother. '"
+  },
+  {
+   "shot": "S15",
+   "a": 1549,
+   "b": 1780,
+   "t0": 0,
+   "t1": 231,
+   "line": "Mo's big brother swears he's broke and can't pay back the twenty dollars he owes you. You just point at the space above his head. He pays."
+  },
+  {
+   "shot": "S16",
+   "a": 1780,
+   "b": 1879,
+   "t0": 0,
+   "t1": 99,
+   "line": "Friday night, you can't sleep, so you look out of the window. A"
+  },
+  {
+   "shot": "S17",
+   "a": 1879,
+   "b": 2072,
+   "t0": 0,
+   "t1": 193,
+   "line": "neighbour is walking home from a late shift. Midnight hits, and his number jumps by two thousand dollars, right there in the street."
+  },
+  {
+   "shot": "S18",
+   "a": 2072,
+   "b": 2100,
+   "t0": 0,
+   "t1": 28,
+   "line": "Payday."
+  },
+  {
+   "shot": "S19",
+   "a": 2100,
+   "b": 2202,
+   "t0": 0,
+   "t1": 102,
+   "line": "All along the road, in every dark window, numbers are going up."
+  },
+  {
+   "shot": "S20",
+   "a": 2202,
+   "b": 2387,
+   "t0": 0,
+   "t1": 185,
+   "line": "Mo's mum takes you both out for pizza, and you watch the waiter's number go up by a few dollars every time someone leaves a tip. The"
+  },
+  {
+   "shot": "S21",
+   "a": 2387,
+   "b": 2478,
+   "t0": 0,
+   "t1": 91,
+   "line": "table that left nothing at all? Six figures."
+  },
+  {
+   "shot": "S22",
+   "a": 2478,
+   "b": 2635,
+   "t0": 0,
+   "t1": 157,
+   "line": "By Saturday, you and Mo have a system. At the car boot sale, you never overpay. Mo"
+  },
+  {
+   "shot": "S23",
+   "a": 2635,
+   "b": 2798,
+   "t0": 0,
+   "t1": 163,
+   "line": "wants to start a business. 'We could charge people to tell them who's lying about money. ' You laugh."
+  },
+  {
+   "shot": "S24",
+   "a": 2798,
+   "b": 2932,
+   "t0": 0,
+   "t1": 134,
+   "line": "And then, on Sunday morning, you finally look properly at your mum. And you"
+  },
+  {
+   "shot": "S25",
+   "a": 2932,
+   "b": 2988,
+   "t0": 0,
+   "t1": 56,
+   "line": "stop laughing."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "card",
    "key": 30,
-   "len": 90,
+   "len": 58,
    "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "line": "And at first, it's the best game",
+   "note": "chapter 3"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 30,
+   "len": 107,
+   "first": 58,
+   "line": "in the world. In class, you play guess the number. The",
+   "note": "class: guess the number"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 80,
+   "len": 138,
+   "first": 165,
+   "line": "teacher who drives the tiny old car? Forty- one thousand dollars, saved. The",
+   "note": "the teacher: $41,000"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 80,
+   "len": 157,
+   "first": 303,
+   "line": "kid with the expensive trainers? Red. His parents are still paying them off. The",
+   "note": "the trainers: red"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 110,
+   "len": 159,
+   "first": 460,
+   "line": "quiet girl at the back, who wears the same jumper every day, has two hundred and thirty thousand dollars.",
+   "note": "the quiet girl: $230,000"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 30,
+   "len": 89,
+   "first": 619,
+   "line": "You have no idea why. You decide not to ask.",
+   "note": "no idea why"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 20,
+   "len": 125,
+   "first": 708,
+   "line": "Then you find out what it's actually good for. You sell your old bike online, and",
+   "note": "bike for sale"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "key": 60,
+   "len": 145,
+   "first": 833,
+   "line": "a man comes to look at it. 'Best I can do is fifty, ' he says, and looks sad.",
+   "note": "best I can do is fifty"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 30,
+   "len": 62,
+   "first": 978,
+   "line": "His number says nine thousand.",
+   "note": "$9,000"
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "key": 60,
+   "len": 75,
+   "first": 1040,
+   "line": "You say a hundred and twenty. He pays it.",
+   "note": "a hundred and twenty; he pays"
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "key": 60,
+   "len": 157,
+   "first": 1115,
+   "line": "Mo figures out something is going on in about a day. 'How did you know that? ' So you tell him.",
+   "note": "Mo: how did you know?"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 70,
+   "len": 143,
+   "first": 1272,
+   "line": "He doesn't believe you, so you prove it. You tell him exactly how much is on his bank card. He",
+   "note": "prove it"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 20,
+   "len": 32,
+   "first": 1415,
+   "line": "checks the app.",
+   "note": "the app: $47.30"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 40,
+   "len": 102,
+   "first": 1447,
+   "line": "Then he goes very quiet. 'Okay. Do my brother. '",
+   "note": "do my brother"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 170,
+   "len": 231,
+   "first": 1549,
+   "line": "Mo's big brother swears he's broke and can't pay back the twenty dollars he owes you. You just point at the space above his head. He pays.",
+   "note": "the brother pays"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 99,
+   "first": 1780,
+   "line": "Friday night, you can't sleep, so you look out of the window. A",
+   "note": "Friday night, the window"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 125,
+   "len": 193,
+   "first": 1879,
+   "line": "neighbour is walking home from a late shift. Midnight hits, and his number jumps by two thousand dollars, right there in the street.",
+   "note": "midnight: +$2,000"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 20,
+   "len": 28,
+   "first": 2072,
+   "line": "Payday.",
+   "note": "payday"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 50,
+   "len": 102,
+   "first": 2100,
+   "line": "All along the road, in every dark window, numbers are going up.",
+   "note": "every window going up"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 60,
+   "len": 185,
+   "first": 2202,
+   "line": "Mo's mum takes you both out for pizza, and you watch the waiter's number go up by a few dollars every time someone leaves a tip. The",
+   "note": "pizza: the waiter's tips"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 70,
+   "len": 91,
+   "first": 2387,
+   "line": "table that left nothing at all? Six figures.",
+   "note": "six figures, no tip"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 40,
+   "len": 157,
+   "first": 2478,
+   "line": "By Saturday, you and Mo have a system. At the car boot sale, you never overpay. Mo",
+   "note": "car boot sale"
+  },
+  {
+   "id": "S23",
+   "size": "two-shot",
+   "key": 60,
+   "len": 163,
+   "first": 2635,
+   "line": "wants to start a business. 'We could charge people to tell them who's lying about money. ' You laugh.",
+   "note": "Mo's business"
+  },
+  {
+   "id": "S24",
+   "size": "two-shot",
+   "key": 60,
+   "len": 134,
+   "first": 2798,
+   "line": "And then, on Sunday morning, you finally look properly at your mum. And you",
+   "note": "Sunday, Mum"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "key": 20,
+   "len": 56,
+   "first": 2932,
+   "line": "stop laughing.",
+   "note": "you stop laughing"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c03/voice.wav"
+ }
 }

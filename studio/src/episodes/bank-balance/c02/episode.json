@@ -25,22 +25,161 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 2",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "Monday: numbers pop over every head",
+   "key": 60
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "note": "what it counts: the sum",
+   "key": 140
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "note": "what it doesn't count",
+   "key": 120
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "note": "green",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "note": "red",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "live, to the cent",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "a card tap, the number drops",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "note": "real life only",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "not on TV, photos, video calls",
+   "key": 70
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "note": "only you",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "note": "the mirror: no number",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "the shop window: everyone but you",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "remember that",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "note": "title",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "One"
+  },
+  {
+   "shot": "S3",
+   "at": "It's"
+  },
+  {
+   "shot": "S4",
+   "at": "It"
+  },
+  {
+   "shot": "S5",
+   "at": "Green"
+  },
+  {
+   "shot": "S6",
+   "at": "Red"
+  },
+  {
+   "shot": "S7",
+   "at": "And"
+  },
+  {
+   "shot": "S8",
+   "at": "Somebody"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "Not"
+  },
+  {
+   "shot": "S11",
+   "at": "Only"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "shop"
+  },
+  {
+   "shot": "S14",
+   "at": "Remember"
+  },
+  {
+   "shot": "S15",
+   "at": "This"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD SEE",
   "EVERYONE'S BANK BALANCE?"
- ]
+ ],
+ "tail": 1.0
 }
