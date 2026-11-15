@@ -1,0 +1,66 @@
+{
+ "id": "DroneEgyptC02",
+ "slug": "drone-egypt/c02",
+ "chapter": "The rules",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c02 1",
+   "text": "Here's the deal. The year is around 2560 BC. You're at Giza, where the Great Pyramid of King Khufu is being built right now."
+  },
+  {
+   "beat": "c02 2",
+   "text": "In your backpack: one normal camera drone. It weighs less than a kilo, about as much as a bag of sugar. One controller with a screen. Three batteries, each good for about half an hour in the air. And one folding solar panel, because the nearest wall socket is four and a half thousand years away."
+  },
+  {
+   "beat": "c02 3",
+   "text": "Egypt has plenty of sun, so the panel can fill one battery in an afternoon. Half an hour of magic, then you wait."
+  },
+  {
+   "beat": "c02 4",
+   "text": "And one more thing. If the drone ever loses its signal, it doesn't crash. It turns around and flies straight back to the spot it took off from, all by itself. It's called Return to Home. Remember that."
+  },
+  {
+   "beat": "c02 5",
+   "text": "This is what if you brought a drone to ancient Egypt."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The Great Pyramid of Giza was built for King Khufu around 2560 BC.",
+   "working": "Khufu reigned c. 2589-2566 BC (4th Dynasty); the pyramid's completion is usually dated to about 2560 BC.",
+   "source": "Encyclopaedia Britannica, 'Pyramids of Giza'"
+  },
+  {
+   "claim": "A normal camera drone weighs under a kilo and flies about half an hour per battery.",
+   "working": "DJI Mavic 3: takeoff weight 895 g, rated max flight time 46 min in still air; real-world flights with reserve are about 30 min.",
+   "source": "DJI, Mavic 3 specifications"
+  },
+  {
+   "claim": "Consumer drones fly home on their own when they lose signal (Return to Home).",
+   "working": "DJI's Failsafe RTH: if the remote controller signal is lost, the aircraft flies back to the recorded home point and lands.",
+   "source": "DJI, Mavic 3 user manual, 'Return to Home'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

@@ -30,8 +30,12 @@ export type Look = {
   face: string;
   hair: string;
   extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
-  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche'; // period hats (the 1920s episodes), drawn over the hair
+  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche' | 'nemes' | 'khat'; // period hats (1920s, ancient Egypt), drawn over the hair
   hatColor?: string;
+  hatStripe?: string; // second colour of a striped headcloth (the nemes)
+  bald?: boolean; // no hair tuft (a shaved priest)
+  collar?: string; // a broad bead collar on the chest (ancient Egypt), in this colour with the accent between the rows
+  kilt?: string; // a wrapped linen kilt over the hips and thighs
   noPhones?: boolean; // curls without the headphones (a period version of Mo)
 };
 export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit' | 'you' | 'mo26' | 'ellie' | 'mom26' | 'suit26' | 'gent' | 'worker' | 'lady' | 'doctor' | 'cop';
@@ -67,11 +71,48 @@ export const LOOKS: Record<CastName, Look> = {
 
 // ---------- period hats ----------
 /** A hat on the rig's head (1920s episodes): flat cap, bowler, fedora with a band, or a cloche. Turns with yaw. */
-const Hat: React.FC<{ kind: 'cap' | 'bowler' | 'fedora' | 'cloche'; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
+const Hat: React.FC<{ kind: NonNullable<Look['hat']>; color: string; line: string; yaw: number; stripe?: string }> = ({ kind, color, line, yaw, stripe }) => {
   const y = HEAD.y;
   const sx = yaw * 10;
   const dark = 'rgba(0,0,0,0.22)';
   const sw = 4;
+  if (kind === 'nemes') {
+    // the king's striped headcloth: a cap over the brow, lappets falling to the shoulders, a gold band and a cobra
+    const st = stripe ?? '#2A4A9A';
+    const capD = `M -70 ${y + 4} Q -82 ${y - 92} 0 ${y - 96} Q 82 ${y - 92} 70 ${y + 4} Q 60 ${y - 36} 0 ${y - 40} Q -60 ${y - 36} -70 ${y + 4} Z`;
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <defs>
+          <clipPath id={`nem${Math.round(yaw * 100)}`}>
+            <path d={capD} />
+            <path d={`M -70 ${y - 4} L -88 ${y + 100} L -54 ${y + 104} L -56 ${y + 20} Z M 70 ${y - 4} L 88 ${y + 100} L 54 ${y + 104} L 56 ${y + 20} Z`} />
+          </clipPath>
+        </defs>
+        <path d={`M -70 ${y - 4} L -88 ${y + 100} L -54 ${y + 104} L -56 ${y + 20} Z M 70 ${y - 4} L 88 ${y + 100} L 54 ${y + 104} L 56 ${y + 20} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={capD} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <g clipPath={`url(#nem${Math.round(yaw * 100)})`}>
+          {Array.from({ length: 12 }).map((_, k) => (
+            <path key={k} d={`M -120 ${y - 96 + k * 18} Q 0 ${y - 110 + k * 18} 120 ${y - 96 + k * 18}`} stroke={st} strokeWidth={8} fill="none" />
+          ))}
+        </g>
+        <path d={capD} fill="none" stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -64 ${y - 30} Q 0 ${y - 48} 64 ${y - 30}`} stroke="#E8B83A" strokeWidth={9} fill="none" strokeLinecap="round" />
+        <path d={`M ${-yaw * 20} ${y - 44} q -10 -22 0 -34 q 12 -8 12 6 q 0 10 -8 14 Z`} fill="#E8B83A" stroke={line} strokeWidth={3} />
+      </g>
+    );
+  }
+  if (kind === 'khat') {
+    // a plain linen headcloth (the khat): over the brow, tied behind, a short tail at the back of the neck
+    const f = yaw >= 0 ? 1 : -1;
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <path d={`M ${-f * 62} ${y - 10} Q ${-f * 96} ${y + 40} ${-f * 70} ${y + 70} Q ${-f * 56} ${y + 40} ${-f * 50} ${y + 6} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -68 ${y + 2} Q -80 ${y - 90} 0 ${y - 92} Q 80 ${y - 90} 68 ${y + 2} Q 58 ${y - 34} 0 ${y - 38} Q -58 ${y - 34} -68 ${y + 2} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -62 ${y - 30} Q 0 ${y - 46} 62 ${y - 30}`} stroke={dark} strokeWidth={6} fill="none" />
+        {stripe ? <path d={`M -64 ${y - 22} Q 0 ${y - 38} 64 ${y - 22}`} stroke={stripe} strokeWidth={6} fill="none" /> : null}
+      </g>
+    );
+  }
   if (kind === 'bowler')
     return (
       <g transform={`translate(${-sx} 0)`}>
@@ -424,16 +465,30 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
           <path d="M -7 -112 L 7 -112 L 9 -100 L 5 -64 L 0 -56 L -5 -64 L -9 -100 Z" fill={L.accent} />
           <path d="M -26 -116 L 0 -54 M 26 -116 L 0 -54" stroke={L.line} strokeWidth={4} />
         </g>
-      ) : (
+      ) : L.collar ? null : (
         <path d="M -22 -118 Q 0 -100 22 -118" stroke={L.accent} strokeWidth={6} fill="none" strokeLinecap="round" />
       )}
+      {L.kilt ? (
+        <g>
+          <path d="M -44 -30 L 44 -30 L 58 44 Q 0 54 -58 44 Z" fill={L.kilt} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          <path d="M 6 -28 L 30 46 M 18 -28 L 44 44" stroke="rgba(0,0,0,0.18)" strokeWidth={3} />
+          <path d="M -46 -30 L 46 -30" stroke={L.accent} strokeWidth={8} />
+        </g>
+      ) : null}
+      {L.collar ? (
+        <g>
+          <path d="M -48 -112 Q 0 -40 48 -112 L 40 -118 Q 0 -66 -40 -118 Z" fill={L.collar} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          <path d="M -44 -110 Q 0 -54 44 -110" stroke={L.accent} strokeWidth={6} fill="none" />
+          <path d="M -46 -106 Q 0 -44 46 -106" stroke={L.line} strokeWidth={2} strokeDasharray="4 8" fill="none" />
+        </g>
+      ) : null}
     </g>
   );
   const head = (
     <g transform={`rotate(${pose.tilt}) rotate(${pose.headTilt} 0 ${HEAD.y + 40})`}>
       <circle cx={HEAD.x} cy={HEAD.y} r={HEAD.r} fill={L.skin} stroke={L.line} strokeWidth={4} />
       <path d={`M ${HEAD.x + 14} ${HEAD.y + 58} A ${HEAD.r} ${HEAD.r} 0 0 0 ${HEAD.x + 60} ${HEAD.y + 14} A 70 70 0 0 1 ${HEAD.x + 14} ${HEAD.y + 58} Z`} fill={L.skinShade} />
-      {L.extra === 'bunches' || L.extra === 'bob' || L.extra === 'suit' ? null : (
+      {L.extra === 'bunches' || L.extra === 'bob' || L.extra === 'suit' || L.bald || L.hat === 'nemes' || L.hat === 'khat' ? null : (
         <path transform={`translate(${-pose.yaw * 16} 0)`} d={`M -6 ${HEAD.y - 60} q 10 -26 30 -18 q -16 2 -14 16 q -8 -10 -16 2 Z`} fill={L.hair} />
       )}
       {L.extra === 'bunches' ? (
@@ -470,7 +525,7 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
             return <circle key={k} cx={Math.cos(a) * 54} cy={HEAD.y + Math.sin(a) * 54} r={24} fill={L.hair} />;
           })
         : null}
-      {L.hat ? <Hat kind={L.hat} color={L.hatColor ?? '#2A2420'} line={L.line} yaw={pose.yaw} /> : null}
+      {L.hat ? <Hat kind={L.hat} color={L.hatColor ?? '#2A2420'} line={L.line} yaw={pose.yaw} stripe={L.hatStripe} /> : null}
     </g>
   );
   return (

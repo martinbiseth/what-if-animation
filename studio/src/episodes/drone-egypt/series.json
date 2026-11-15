@@ -1,0 +1,105 @@
+{
+ "id": "DroneEgypt",
+ "slug": "drone-egypt",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "title": [
+  "WHAT IF YOU BROUGHT",
+  "A DRONE TO ANCIENT EGYPT?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "The sky eye",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "The king's magician",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "Aircraft nearby",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If You Brought a Drone to Ancient Egypt?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "ancient egypt",
+   "drone",
+   "what if you brought a drone to ancient egypt",
+   "time travel",
+   "great pyramid",
+   "pyramids of giza",
+   "khufu",
+   "hemiunu",
+   "how were the pyramids built",
+   "pharaoh",
+   "modern technology in the past",
+   "drone footage",
+   "what would happen if",
+   "animated story",
+   "history animation",
+   "alternate history",
+   "diary of merer",
+   "cliffhanger"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "You land at Giza around 2560 BC, with a camera drone, three batteries and a folding solar panel. The pyramid builders call it the buzzing scarab. The architect Hemiunu sees his pyramid from the sky for the first time. Then the king and his magician want it too. And on your last battery, the controller shows a warning that should be impossible.",
+  "thumbnail": {
+   "composition": "DroneEgyptThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have used the last full battery to find Nefer's dad? 👇\n\nAnd who else is flying over Egypt in 2560 BC? Best theory gets pinned before Part 2.\n\nThe real parts check out: ~2.3 million blocks of ~2.5 tonnes, a base square to within ~20 cm, workers paid in bread and beer, the Diary of Merer (oldest written papyrus ever found), drone batteries rated to 40 °C, and the AirSense aircraft warning. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2: who else is up there?"
+ }
+}

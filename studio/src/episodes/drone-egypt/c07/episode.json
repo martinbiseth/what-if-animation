@@ -1,0 +1,64 @@
+{
+ "id": "DroneEgyptC07",
+ "slug": "drone-egypt/c07",
+ "chapter": "Aircraft nearby",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c07 1",
+   "text": "At sunrise you stand in front of the king with your last battery. Forty-eight percent."
+  },
+  {
+   "beat": "c07 2",
+   "text": "You send the drone straight up. Higher than any bird. The king sees his pyramid from the sky, the river, the desert, all the way to the edge of the world. He's smiling. Djedi isn't. For the first time, the king of Egypt looks at you like you're not a servant. He opens his mouth to say something."
+  },
+  {
+   "beat": "c07 3",
+   "text": "Then the controller beeps. A warning you have never seen before. Manned aircraft nearby."
+  },
+  {
+   "beat": "c07 4",
+   "text": "Your drone listens for signals from real planes, so it can get out of the way. It only goes off when there's an aircraft with a transponder close by."
+  },
+  {
+   "beat": "c07 5",
+   "text": "In 2560 BC."
+  },
+  {
+   "beat": "c07 6",
+   "text": "Somewhere above you, something is flying. And it isn't yours."
+  },
+  {
+   "beat": "c07 7",
+   "text": "Is any of this real? The pyramid, the bread and beer, Hemiunu, the battery limits and that warning are all real."
+  },
+  {
+   "beat": "c07 8",
+   "text": "So who else is up there? Tell me in the comments. Part two is coming."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Many camera drones warn you when a manned aircraft with a transponder is nearby.",
+   "working": "DJI AirSense is an ADS-B receiver: it picks up position broadcasts from planes and helicopters and warns the pilot. DJI put it in all new drones over 250 g from 2020.",
+   "source": "DJI, 'DJI to add AirSense to all new drones over 250 grams' (May 2019)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,87 @@
+{
+ "id": "DroneEgyptC03",
+ "slug": "drone-egypt/c03",
+ "chapter": "The sky eye",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c03 1",
+   "text": "By lunchtime the workers have a name for it. The buzzing scarab."
+  },
+  {
+   "beat": "c03 2",
+   "text": "By the afternoon, two guards walk you to the man in charge of the whole pyramid. His name is Hemiunu. He's the king's nephew, and this pyramid is his life's work. He has been building it for years, and he has never once seen it from above."
+  },
+  {
+   "beat": "c03 3",
+   "text": "You hand him the controller. He holds the screen with both hands and doesn't say a word for a very long time. Then he starts pointing."
+  },
+  {
+   "beat": "c03 4",
+   "text": "From the sky, the problems are easy to see. One team is dragging a stone the long way round the whole site. You show them the shortcut. A boat full of limestone is stuck on a sandbank in the Nile. You fly down the river and find the deep channel."
+  },
+  {
+   "beat": "c03 5",
+   "text": "The crew on that boat keeps a logbook. A logbook just like it, written by an inspector called Merer, was dug up in 2013. It's the oldest papyrus with writing on it ever found, and it's all about bringing stone to this pyramid."
+  },
+  {
+   "beat": "c03 6",
+   "text": "Then Hemiunu asks you to fly over the corners. From above, the base is almost a perfect square. Each side is about two hundred and thirty metres long, and none of them is off by more than the length of your hand. They did that with ropes, sticks and the stars."
+  },
+  {
+   "beat": "c03 7",
+   "text": "A worker's daughter called Nefer has lost her goat. You find it in two minutes, behind a pile of rubble, eating somebody's lunch. After that, Nefer follows you everywhere."
+  },
+  {
+   "beat": "c03 8",
+   "text": "She shows you how they really live. The workers here aren't slaves. They're paid, in bread and beer, every single day. They live in a town right next to the pyramid, with bakeries, breweries and doctors. Some of them are even buried beside it, with their names on their tombs."
+  },
+  {
+   "beat": "c03 9",
+   "text": "By the end of the week, half the building site takes its lunch break when you fly, just to watch. You have a nickname now. The one with the sky eye."
+  },
+  {
+   "beat": "c03 10",
+   "text": "And then a golden boat arrives from the palace."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Hemiunu, Khufu's nephew and vizier, is believed to have been the architect of the Great Pyramid.",
+   "working": "Hemiunu was son of prince Nefermaat (a son of Sneferu), so Khufu's nephew; his tomb is beside the pyramid and his titles include overseer of all the king's works.",
+   "source": "Encyclopaedia Britannica, 'Hemiunu'; Museum Roemer- und Pelizaeus, Hildesheim (statue of Hemiunu)"
+  },
+  {
+   "claim": "The oldest inscribed papyri ever found, the Diary of Merer, log the transport of limestone to the Great Pyramid.",
+   "working": "Found by Pierre Tallet's team at Wadi al-Jarf in 2013; inspector Merer's logbook from Khufu's 27th year records boat trips carrying Tura limestone to Giza.",
+   "source": "Tallet, 'The Red Sea Scrolls' (2021); Smithsonian Magazine, 'The Diary of Merer' (2017)"
+  },
+  {
+   "claim": "The sides of the Great Pyramid's base are about 230 m and differ by only around 20 cm.",
+   "working": "J. H. Cole's 1925 survey: sides between 230.25 m and 230.45 m, a spread of 20 cm (about a hand's length).",
+   "source": "Cole, 'Determination of the Exact Size and Orientation of the Great Pyramid of Giza' (1925)"
+  },
+  {
+   "claim": "The pyramid builders were paid workers, given bread and beer, lived in a town beside the site and some were buried near the pyramid.",
+   "working": "Excavations of the workers' town (Heit el-Ghurab) by AERA and the workers' cemetery found by Zahi Hawass from 1990 show bakeries, breweries, medical care and named tombs.",
+   "source": "AERA (Mark Lehner), 'Lost City of the Pyramid Builders'; Hawass, workers' tombs at Giza"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

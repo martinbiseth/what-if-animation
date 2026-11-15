@@ -1,0 +1,74 @@
+{
+ "id": "DroneEgyptC06",
+ "slug": "drone-egypt/c06",
+ "chapter": "The choice",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c06 1",
+   "text": "That night, Nefer comes running. Her father went out with a team to bring copper tools back from the desert. A sandstorm hit this afternoon. They haven't come back."
+  },
+  {
+   "beat": "c06 2",
+   "text": "Out there, at night, with no water, people don't last long. And the king's soldiers won't search the desert in the dark for a few workers."
+  },
+  {
+   "beat": "c06 3",
+   "text": "You look at the batteries. If you fly now, you use the full one. At sunrise you'll have half a battery to show the king all of Egypt. Djedi will make sure that isn't enough."
+  },
+  {
+   "beat": "c06 4",
+   "text": "Nefer doesn't ask. She just looks at you."
+  },
+  {
+   "beat": "c06 5",
+   "text": "You fly."
+  },
+  {
+   "beat": "c06 6",
+   "text": "You keep the drone low and slow, under the wind, following the old track toward the copper mines. The air still carries sand. The screen goes brown, then clear, then brown again."
+  },
+  {
+   "beat": "c06 7",
+   "text": "The desert at night is grey on black. Dunes. Rocks. Nothing. Nefer is holding your sleeve so tight it hurts. Forty percent. Thirty. Twenty."
+  },
+  {
+   "beat": "c06 8",
+   "text": "Then, far out, a tiny orange dot. A fire. You drop lower. Six people around it, waving at the sky. You mark the spot, and the soldiers ride out."
+  },
+  {
+   "beat": "c06 9",
+   "text": "Then the screen freezes. Signal lost. The drone is behind a dune, kilometres away, in the dark."
+  },
+  {
+   "beat": "c06 10",
+   "text": "And then you remember the rule."
+  },
+  {
+   "beat": "c06 11",
+   "text": "Two minutes later you hear it. A buzz in the dark sky, getting louder. Return to Home. It lands in the sand, right at your feet. Battery: nine percent."
+  },
+  {
+   "beat": "c06 12",
+   "text": "And the sun is coming up."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

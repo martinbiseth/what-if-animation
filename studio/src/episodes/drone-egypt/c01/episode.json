@@ -1,0 +1,58 @@
+{
+ "id": "DroneEgyptC01",
+ "slug": "drone-egypt/c01",
+ "chapter": "Cold open",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c01 1",
+   "text": "You open the case. You unfold four little arms. You press one button, and it screams up into the sky."
+  },
+  {
+   "beat": "c01 2",
+   "text": "Below you, two thousand workers drop their ropes at the same time. A camel bolts. An old man falls to his knees."
+  },
+  {
+   "beat": "c01 3",
+   "text": "On your screen you can see all of it from above. A giant pyramid, only half finished, and thousands of tiny people staring straight up at you."
+  },
+  {
+   "beat": "c01 4",
+   "text": "A soldier throws a spear at it. Miss. Another one. Miss."
+  },
+  {
+   "beat": "c01 5",
+   "text": "Somebody shouts a word you don't understand. Then everyone is shouting it."
+  },
+  {
+   "beat": "c01 6",
+   "text": "This is Egypt, about four and a half thousand years ago. Nobody here has ever seen anything fly that isn't a bird or a bug. And you just brought a camera drone. Battery: ninety-one percent."
+  },
+  {
+   "beat": "c01 7",
+   "text": "So what would actually happen if you brought a drone to ancient Egypt?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

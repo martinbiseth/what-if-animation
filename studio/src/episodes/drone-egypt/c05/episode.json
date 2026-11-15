@@ -1,0 +1,77 @@
+{
+ "id": "DroneEgyptC05",
+ "slug": "drone-egypt/c05",
+ "chapter": "The king's magician",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c05 1",
+   "text": "The man on the golden boat is the king's magician. His name is Djedi. In the old stories, he could put a goose's head back on after it was cut off."
+  },
+  {
+   "beat": "c05 2",
+   "text": "He takes you up the river to the king."
+  },
+  {
+   "beat": "c05 3",
+   "text": "Khufu himself sits on the throne. You fly the drone between the columns of his hall. The guards drop their spears. The king doesn't flinch. He laughs. Then he wants to fly it himself. He pushes both sticks at once. The drone shoots straight at a column. Your heart stops. Its sensors catch it half a metre away, and it just hangs there, humming."
+  },
+  {
+   "beat": "c05 4",
+   "text": "\"An eye that flies. With this I could see every corner of Egypt. Every mine. Every enemy.\""
+  },
+  {
+   "beat": "c05 5",
+   "text": "Then he says the sentence you were afraid of. \"It belongs to the king.\""
+  },
+  {
+   "beat": "c05 6",
+   "text": "Djedi leans in and whispers something. You don't speak the language, but Nefer does. Later, very quietly, she tells you what he said. \"A man who commands a sky spirit is more dangerous than an army.\""
+  },
+  {
+   "beat": "c05 7",
+   "text": "The king gives you an order. At sunrise tomorrow, you will show him all of Egypt from the sky. If the eye sees everything, you live. If it doesn't, the magician was right about you. Nefer squeezes your hand. Nobody says no to a king of Egypt. Not if they want to keep breathing."
+  },
+  {
+   "beat": "c05 8",
+   "text": "Back at the camp, you unfold the solar panel to charge for tomorrow. One of Djedi's men walks straight across it. Crack."
+  },
+  {
+   "beat": "c05 9",
+   "text": "The panel still works. Barely. About a tenth of the power."
+  },
+  {
+   "beat": "c05 10",
+   "text": "Now you have one full battery, one at half, and no more sun."
+  }
+ ],
+ "science": [
+  {
+   "claim": "In the old stories Djedi, a magician at Khufu's court, put a goose's head back on.",
+   "working": "The Westcar Papyrus (Middle Kingdom, tales set at Khufu's court) tells of Djedi rejoining the severed head of a goose before the king.",
+   "source": "Westcar Papyrus, Egyptian Museum Berlin (P. 3033)"
+  },
+  {
+   "claim": "Camera drones have obstacle sensors that stop them before a wall.",
+   "working": "DJI Mavic 3 has omnidirectional obstacle sensing that brakes the aircraft in front of obstacles in normal mode.",
+   "source": "DJI, Mavic 3 specifications"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

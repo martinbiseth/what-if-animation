@@ -1,0 +1,87 @@
+{
+ "id": "DroneEgyptC04",
+ "slug": "drone-egypt/c04",
+ "chapter": "The catch",
+ "topic": "What if you brought a drone to ancient Egypt?",
+ "script": [
+  {
+   "beat": "c04 1",
+   "text": "But here's the problem. Everybody now thinks the sky eye can lift stones."
+  },
+  {
+   "beat": "c04 2",
+   "text": "Hemiunu asks you how many blocks it can carry in a day. The honest answer is zero."
+  },
+  {
+   "beat": "c04 3",
+   "text": "One block in this pyramid weighs about two and a half tonnes. Your drone weighs less than one kilo. The stone is almost three thousand times heavier than the thing that's supposed to lift it."
+  },
+  {
+   "beat": "c04 4",
+   "text": "And there are about two point three million blocks. To finish in twenty years, they have to set one every two or three minutes, ten hours a day, for twenty years. Your drone is not going to help with that."
+  },
+  {
+   "beat": "c04 5",
+   "text": "Problem two: heat. Your batteries are made to work up to forty degrees. Summer afternoons here are around thirty-five in the shade, and there is no shade in the sky. At noon the controller flashes a warning. Battery temperature too high. So you can only fly early in the morning and in the evening."
+  },
+  {
+   "beat": "c04 6",
+   "text": "And then there's the sand. It gets into everything, including the motors. After one bad gust, your drone sounds like a coffee grinder. You clean it with a tiny brush and a lot of hope."
+  },
+  {
+   "beat": "c04 7",
+   "text": "Problem three. Every time you charge a battery, it wears out a little. After a few hundred charges, it holds a lot less. A year, maybe two, and your magic is just a plastic bug."
+  },
+  {
+   "beat": "c04 8",
+   "text": "Every flight is one flight closer to the last one."
+  },
+  {
+   "beat": "c04 9",
+   "text": "And then there's the language. Nobody here speaks a word of English, and you don't speak a word of ancient Egyptian. Nobody does anymore. Nobody alive in your time knows exactly how it sounded, because they wrote it down without the vowels. Nefer is teaching you. So far you know three words. Water. Bread. And no."
+  },
+  {
+   "beat": "c04 10",
+   "text": "And the people stepping off the golden boat don't know any of that. All they know is that a stranger has a god's eye in a box, and the king doesn't."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A block of the Great Pyramid weighs about 2.5 tonnes; a camera drone under one kilo: almost 3,000 times lighter.",
+   "working": "Average block about 2.5 t (2,500 kg). 2,500 / 0.895 ≈ 2,800.",
+   "source": "Encyclopaedia Britannica, 'Pyramids of Giza'; DJI Mavic 3 specifications"
+  },
+  {
+   "claim": "About 2.3 million blocks: one every two to three minutes over twenty years.",
+   "working": "2,300,000 / (20 × 365) ≈ 315 blocks a day; over a 10-hour day that is about one every 1.9 minutes (fewer working days make it a little over 2).",
+   "source": "Encyclopaedia Britannica, 'Pyramids of Giza' (2.3 million blocks, about 20 years per Herodotus)"
+  },
+  {
+   "claim": "Camera drones are rated to work up to 40 °C; summer highs at Giza are around 35 °C.",
+   "working": "DJI Mavic 3 operating temperature -10 to 40 °C. Cairo's average July maximum is about 34-35 °C.",
+   "source": "DJI, Mavic 3 specifications; World Meteorological Organization climate normals for Cairo"
+  },
+  {
+   "claim": "Lithium-ion batteries lose capacity with every charge: a few hundred cycles brings a clear drop.",
+   "working": "Typical Li-ion cells keep about 80% of their capacity after roughly 300-500 full cycles; heat speeds it up.",
+   "source": "Battery University, BU-808 'How to Prolong Lithium-based Batteries'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

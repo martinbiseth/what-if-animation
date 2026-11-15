@@ -21,3 +21,4 @@ export * from './props26';
 export * from './sets/street26';
 export * from './sets/jazzclub';
 export * from './modern';
+export * from './egypt';
