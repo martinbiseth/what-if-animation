@@ -285,10 +285,6 @@
  ],
  "sound": {
   "clips": {
-   "bonk": [
-    "a balloon hitting a ceiling with a soft rubbery bonk",
-    0.5
-   ],
    "buzz": [
     "a smartphone vibrating on a wooden table, two short buzzes",
     1.2
@@ -297,8 +293,8 @@
     "a cinematic title hit, a deep soft boom with a short shimmering tail",
     2.0
    ],
-   "clang": [
-    "a metal spoon hitting a tiled kitchen floor, a loud clang",
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
     0.7
    ],
    "ding": [
@@ -325,6 +321,10 @@
     "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
     17.0
    ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
    "street": [
     "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
     8.0
@@ -342,21 +342,21 @@
    [
     "S1+0",
     "card_hit",
-    0.6
+    0.13
    ],
    [
     "S3+20",
     "land",
-    0.6
+    0.13
    ],
    [
     "S4+0",
     "laugh",
-    0.3
+    0.18
    ],
    [
     "S5+10",
-    "clang",
+    "clink",
     0.7
    ],
    [
@@ -366,8 +366,8 @@
    ],
    [
     "S8+10",
-    "bonk",
-    0.6
+    "pop",
+    0.36
    ],
    [
     "S9+0",
@@ -377,17 +377,17 @@
    [
     "S11+0",
     "ding",
-    0.4
+    0.086
    ],
    [
     "S12+0",
     "buzz",
-    0.5
+    0.108
    ],
    [
     "S13+0",
     "street",
-    0.25,
+    0.054,
     "onset",
     "S15"
    ],
@@ -399,14 +399,14 @@
    [
     "S17+0",
     "tick",
-    0.5,
+    0.108,
     "onset",
     "S18"
    ],
    [
     "S18+0",
     "drone_hit",
-    0.7
+    0.151
    ]
   ],
   "music": {
@@ -415,8 +415,8 @@
    "until": "S17"
   },
   "levels": {
-   "sfx_lu": -3.0,
-   "music_lu": -12.0
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
   }
  }
 }

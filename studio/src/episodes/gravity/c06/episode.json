@@ -287,17 +287,17 @@
     "soft sad solo piano, slow and gentle, instrumental background loop",
     20.0
    ],
-   "pool_lap": [
-    "calm swimming pool water lapping gently against the edge, a soft pool filter hum, outdoors",
+   "pool_syn": [
+    "procedural: calm pool water lapping with a soft filter hum",
     8.0
    ],
    "slide": [
     "a thick paper envelope sliding across a wooden table",
     1.0
    ],
-   "splash": [
-    "a person rolling into a swimming pool, a big heavy water splash",
-    1.2
+   "splash_syn": [
+    "procedural: a heavy body splashing into a pool",
+    1.4
    ],
    "whoosh": [
     "a quick soft cartoon whoosh, airy transition",
@@ -308,7 +308,7 @@
    [
     "S1+0",
     "slide",
-    0.4
+    0.24
    ],
    [
     "S3+0",
@@ -318,12 +318,12 @@
    [
     "S7+0",
     "drone_hit",
-    0.6
+    0.13
    ],
    [
     "S8+0",
     "buzz",
-    0.6
+    0.13
    ],
    [
     "S11+0",
@@ -333,32 +333,32 @@
    [
     "S13+0",
     "heartbeat",
-    0.5,
+    0.256,
     "onset",
     "S14"
    ],
    [
     "S14+0",
-    "pool_lap",
-    0.4,
+    "pool_syn",
+    0.154,
     "onset",
     "S17"
    ],
    [
     "S17+0",
     "drone_hit",
-    0.6
+    0.13
    ],
    [
     "S18+0",
-    "splash",
-    0.9,
+    "splash_syn",
+    0.54,
     "peak"
    ],
    [
     "S19+0",
-    "pool_lap",
-    0.4
+    "pool_syn",
+    0.144
    ]
   ],
   "music": {
@@ -368,8 +368,8 @@
    "until": "S18"
   },
   "levels": {
-   "sfx_lu": -3.0,
-   "music_lu": -12.0
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
   }
  }
 }

@@ -330,6 +330,11 @@
   }
  ],
  "audio": {
-  "voice": "gravity/c04/voice.wav"
+  "voice": "gravity/c04/voice.wav",
+  "sfx": "gravity/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3533,
+  "music": "gravity/c04/music.wav",
+  "musicVol": 0.0658
  }
 }

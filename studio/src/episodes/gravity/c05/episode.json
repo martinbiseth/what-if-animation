@@ -261,10 +261,6 @@
     "a cinematic title hit, a deep soft boom with a short shimmering tail",
     2.0
    ],
-   "creak": [
-    "a wooden house creaking and groaning under heavy weight",
-    2.0
-   ],
    "ding": [
     "a correct answer ding, bright bell chime",
     0.8
@@ -273,16 +269,16 @@
     "a dark ominous low drone hit, deep cinematic horror sting",
     2.6
    ],
-   "jet": [
-    "a jet airliner flying low and slow far away, distant engine roar",
+   "jet_syn": [
+    "procedural: a distant jet airliner roar",
     4.0
    ],
    "m_tense": [
     "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
     20.0
    ],
-   "pool_lap": [
-    "calm swimming pool water lapping gently against the edge, a soft pool filter hum, outdoors",
+   "pool_syn": [
+    "procedural: calm pool water lapping with a soft filter hum",
     8.0
    ],
    "pop": [
@@ -306,13 +302,13 @@
    ],
    [
     "S5+0",
-    "jet",
-    0.5
+    "jet_syn",
+    0.108
    ],
    [
     "S6+0",
     "card_hit",
-    0.5
+    0.18
    ],
    [
     "S7+0",
@@ -320,19 +316,14 @@
     0.4
    ],
    [
-    "S8+0",
-    "creak",
-    0.3
-   ],
-   [
     "S9+0",
-    "jet",
-    0.4
+    "jet_syn",
+    0.086
    ],
    [
     "S10+0",
     "ding",
-    0.5
+    0.18
    ],
    [
     "S11+0",
@@ -341,20 +332,20 @@
    ],
    [
     "S13+0",
-    "pool_lap",
-    0.4,
+    "pool_syn",
+    0.086,
     "onset",
     "S14"
    ],
    [
     "S13+0",
     "sparkle",
-    0.5
+    0.108
    ],
    [
     "S14+0",
     "drone_hit",
-    0.7
+    0.151
    ]
   ],
   "music": {
@@ -363,8 +354,8 @@
    "until": "S14"
   },
   "levels": {
-   "sfx_lu": -3.0,
-   "music_lu": -12.0
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
   }
  }
 }

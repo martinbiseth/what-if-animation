@@ -290,10 +290,6 @@
     "glass cracking sharply, the crack spreading across a pane",
     1.1
    ],
-   "creak": [
-    "a wooden house creaking and groaning under heavy weight",
-    2.0
-   ],
    "dizzy": [
     "cartoon dizzy birds tweeting in a circle after a bonk",
     1.4
@@ -318,9 +314,9 @@
     "a soft modern smartphone message notification chime",
     0.8
    ],
-   "rumble": [
-    "a deep heavy low rumble pressing down, like enormous weight, building pressure",
-    2.0
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
    ],
    "shatter": [
     "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
@@ -330,57 +326,52 @@
   "events": [
    [
     "S1+0",
-    "rumble",
-    0.8
+    "rumble_syn",
+    0.173
    ],
    [
     "S2+0",
     "notify",
-    0.3
+    0.18
    ],
    [
     "S3+6",
     "land",
-    0.6
+    0.36
    ],
    [
     "S4+0",
     "heartbeat",
-    0.5,
+    0.108,
     "onset",
     "S6"
    ],
    [
     "S6+0",
     "heartbeat",
-    0.6,
+    0.173,
     "onset",
     "S8"
    ],
    [
     "S7+0",
     "dizzy",
-    0.4
-   ],
-   [
-    "S10+0",
-    "creak",
-    0.4
+    0.24
    ],
    [
     "S11+0",
     "card_hit",
-    0.5
+    0.18
    ],
    [
     "S12+0",
     "drone_hit",
-    0.6
+    0.13
    ],
    [
     "S13+0",
     "crack",
-    0.7
+    0.42
    ],
    [
     "S14+0",
@@ -389,8 +380,8 @@
    ],
    [
     "S16+0",
-    "rumble",
-    0.6
+    "rumble_syn",
+    0.13
    ],
    [
     "S18+0",
@@ -402,11 +393,11 @@
    "clip": "m_tense",
    "loop": true,
    "from": "S8",
-   "until": "S18"
+   "until": "S17"
   },
   "levels": {
-   "sfx_lu": -3.0,
-   "music_lu": -12.0
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
   }
  }
 }

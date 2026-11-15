@@ -256,13 +256,13 @@
  "tail": 2.2,
  "sound": {
   "clips": {
-   "alarm": [
-    "an old digital alarm clock beeping, three fast beeps",
-    1.5
-   ],
-   "cereal": [
-    "dry cereal pouring very fast into a ceramic bowl, a sharp rattling hit",
+   "beep": [
+    "a soft electronic low battery warning beep",
     0.6
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
    ],
    "gulp": [
     "a nervous cartoon gulp, short",
@@ -284,13 +284,13 @@
     "a pigeon cooing close by",
     1.5
    ],
-   "rumble": [
-    "a deep heavy low rumble pressing down, like enormous weight, building pressure",
-    2.0
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
    ],
-   "splash": [
-    "a person rolling into a swimming pool, a big heavy water splash",
-    1.2
+   "splash_syn": [
+    "procedural: a heavy body splashing into a pool",
+    1.4
    ],
    "thud": [
     "a cartoon body falling flat on cobblestones, soft thud",
@@ -308,34 +308,34 @@
   "events": [
    [
     "S1+0",
-    "alarm",
-    0.7
+    "beep",
+    0.151
    ],
    [
     "S2+8",
     "land",
-    0.8,
+    0.48,
     "peak"
    ],
    [
     "S4+20",
     "thud",
-    0.6
+    0.36
    ],
    [
     "S6+0",
-    "cereal",
+    "clink",
     0.6
    ],
    [
     "S7+6",
-    "splash",
-    0.4
+    "splash_syn",
+    0.144
    ],
    [
     "S10+0",
     "pigeon",
-    0.5
+    0.108
    ],
    [
     "S13+0",
@@ -345,25 +345,25 @@
    [
     "S14+0",
     "gulp",
-    0.5
+    0.108
    ],
    [
     "S15+7",
-    "rumble",
-    0.8,
+    "rumble_syn",
+    0.173,
     "peak"
    ],
    [
     "S16+0",
     "tick",
-    0.4,
+    0.086,
     "onset",
     "S17"
    ],
    [
     "S17+0",
     "title_boom",
-    0.8
+    0.173
    ]
   ],
   "music": {
@@ -372,8 +372,8 @@
    "until": "S15"
   },
   "levels": {
-   "sfx_lu": -3.0,
-   "music_lu": -12.0
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
   }
  }
 }

@@ -332,6 +332,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "gravity/c06/voice.wav"
+  "voice": "gravity/c06/voice.wav",
+  "sfx": "gravity/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2742,
+  "music": "gravity/c06/music.wav",
+  "musicVol": 0.0643
  }
 }
