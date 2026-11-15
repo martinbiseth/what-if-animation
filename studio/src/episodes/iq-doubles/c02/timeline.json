@@ -1,29 +1,286 @@
 {
  "slug": "iq-doubles/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1525,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 38,
+   "t0": 0,
+   "t1": 38,
+   "line": "Here are the rules."
+  },
+  {
+   "shot": "S2",
+   "a": 38,
+   "b": 169,
+   "t0": 0,
+   "t1": 131,
+   "line": "Most people have an IQ of around a hundred. Yesterday, that was you."
+  },
+  {
+   "shot": "S3",
+   "a": 169,
+   "b": 222,
+   "t0": 0,
+   "t1": 53,
+   "line": "Today, you're two hundred."
+  },
+  {
+   "shot": "S4",
+   "a": 222,
+   "b": 319,
+   "t0": 0,
+   "t1": 97,
+   "line": "Tomorrow, four hundred. Then eight hundred."
+  },
+  {
+   "shot": "S5",
+   "a": 319,
+   "b": 424,
+   "t0": 0,
+   "t1": 105,
+   "line": "Every morning at seven, while you sleep, your brain doubles."
+  },
+  {
+   "shot": "S6",
+   "a": 424,
+   "b": 620,
+   "t0": 0,
+   "t1": 196,
+   "line": "How rare is two hundred? On the IQ scale, it should turn up about once in seventy- six billion people."
+  },
+  {
+   "shot": "S7",
+   "a": 620,
+   "b": 696,
+   "t0": 0,
+   "t1": 76,
+   "line": "There are only eight billion people alive."
+  },
+  {
+   "shot": "S8",
+   "a": 696,
+   "b": 820,
+   "t0": 0,
+   "t1": 124,
+   "line": "You're already off the chart. And tomorrow, the chart won't even go that high."
+  },
+  {
+   "shot": "S9",
+   "a": 820,
+   "b": 950,
+   "t0": 0,
+   "t1": 130,
+   "line": "It's not just knowing more. You learn faster. You think faster. You"
+  },
+  {
+   "shot": "S10",
+   "a": 950,
+   "b": 1040,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "notice everything. The tiny crack in the ceiling. The"
+  },
+  {
+   "shot": "S11",
+   "a": 1040,
+   "b": 1119,
+   "t0": 0,
+   "t1": 79,
+   "line": "fact that your teacher is wearing two different socks."
+  },
+  {
+   "shot": "S12",
+   "a": 1119,
+   "b": 1203,
+   "t0": 0,
+   "t1": 84,
+   "line": "And you can't stop it. You can't slow it down."
+  },
+  {
+   "shot": "S13",
+   "a": 1203,
+   "b": 1334,
+   "t0": 0,
+   "t1": 131,
+   "line": "Sleep, and it doubles. Stay awake, and it doubles anyway. And"
+  },
+  {
+   "shot": "S14",
+   "a": 1334,
+   "b": 1371,
+   "t0": 0,
+   "t1": 37,
+   "line": "one more rule."
+  },
+  {
+   "shot": "S15",
+   "a": 1371,
+   "b": 1472,
+   "t0": 0,
+   "t1": 101,
+   "line": "It only happens to you. Nobody else on Earth is changing."
+  },
+  {
+   "shot": "S16",
+   "a": 1472,
+   "b": 1525,
+   "t0": 0,
+   "t1": 53,
+   "line": "Remember that one."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 38,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here are the rules.",
+   "note": "THE RULES"
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "key": 90,
+   "len": 131,
+   "first": 38,
+   "line": "Most people have an IQ of around a hundred. Yesterday, that was you.",
+   "note": "bell curve, you at 100"
+  },
+  {
+   "id": "S3",
+   "size": "big number",
+   "key": 30,
+   "len": 53,
+   "first": 169,
+   "line": "Today, you're two hundred.",
+   "note": "IQ 200"
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "key": 60,
+   "len": 97,
+   "first": 222,
+   "line": "Tomorrow, four hundred. Then eight hundred.",
+   "note": "bars 200 400 800 1600"
+  },
+  {
+   "id": "S5",
+   "size": "wide push",
+   "key": 60,
+   "len": 105,
+   "first": 319,
+   "line": "Every morning at seven, while you sleep, your brain doubles.",
+   "note": "asleep, 07:00, a ring of light"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "key": 120,
+   "len": 196,
+   "first": 424,
+   "line": "How rare is two hundred? On the IQ scale, it should turn up about once in seventy- six billion people.",
+   "note": "dot slides to the tail: 1 in 76 billion"
+  },
+  {
+   "id": "S7",
+   "size": "diagram",
+   "key": 60,
+   "len": 76,
+   "first": 620,
+   "line": "There are only eight billion people alive.",
+   "note": "8 billion people, none at 200"
+  },
+  {
+   "id": "S8",
+   "size": "diagram",
+   "key": 80,
+   "len": 124,
+   "first": 696,
+   "line": "You're already off the chart. And tomorrow, the chart won't even go that high.",
+   "note": "off the chart"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "len": 130,
+   "first": 820,
+   "line": "It's not just knowing more. You learn faster. You think faster. You",
+   "note": "you, sharp, looking around"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 20,
+   "len": 90,
+   "first": 950,
+   "line": "notice everything. The tiny crack in the ceiling. The",
+   "note": "the crack, measured"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 79,
+   "first": 1040,
+   "line": "fact that your teacher is wearing two different socks.",
+   "note": "two different socks"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 84,
+   "first": 1119,
+   "line": "And you can't stop it. You can't slow it down.",
+   "note": "fighting sleep"
+  },
+  {
+   "id": "S13",
+   "size": "split",
+   "key": 60,
+   "len": 131,
+   "first": 1203,
+   "line": "Sleep, and it doubles. Stay awake, and it doubles anyway. And",
+   "note": "asleep x2, awake x2"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 16,
+   "len": 37,
+   "first": 1334,
+   "line": "one more rule.",
+   "note": "ONE MORE RULE"
+  },
+  {
+   "id": "S15",
+   "size": "diagram",
+   "key": 50,
+   "len": 101,
+   "first": 1371,
+   "line": "It only happens to you. Nobody else on Earth is changing.",
+   "note": "Earth, one lit dot: you"
+  },
+  {
+   "id": "S16",
+   "size": "medium push",
+   "key": 40,
+   "len": 53,
+   "first": 1472,
+   "line": "Remember that one.",
+   "note": "Ellie in the doorway"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "iq-doubles/c02/voice.wav"
+ }
 }

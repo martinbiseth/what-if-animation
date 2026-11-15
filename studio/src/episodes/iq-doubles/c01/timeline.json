@@ -1,29 +1,388 @@
 {
  "slug": "iq-doubles/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1362,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 74,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 74,
+   "line": "Seven AM. Your alarm goes off."
+  },
+  {
+   "shot": "S2",
+   "a": 74,
+   "b": 113,
+   "t0": 0,
+   "t1": 39,
+   "line": "And for the first time in your life,"
+  },
+  {
+   "shot": "S3",
+   "a": 113,
+   "b": 199,
+   "t0": 0,
+   "t1": 86,
+   "line": "you're not tired. You're... awake."
+  },
+  {
+   "shot": "S4",
+   "a": 199,
+   "b": 234,
+   "t0": 0,
+   "t1": 35,
+   "line": "Really awake."
+  },
+  {
+   "shot": "S5",
+   "a": 234,
+   "b": 360,
+   "t0": 0,
+   "t1": 126,
+   "line": "At breakfast, your little sister Ellie is crying over her math homework. You"
+  },
+  {
+   "shot": "S6",
+   "a": 360,
+   "b": 390,
+   "t0": 0,
+   "t1": 30,
+   "line": "glance at it."
+  },
+  {
+   "shot": "S7",
+   "a": 390,
+   "b": 455,
+   "t0": 0,
+   "t1": 65,
+   "line": "Done. All twenty questions."
+  },
+  {
+   "shot": "S8",
+   "a": 455,
+   "b": 487,
+   "t0": 0,
+   "t1": 32,
+   "line": "In your head."
+  },
+  {
+   "shot": "S9",
+   "a": 487,
+   "b": 541,
+   "t0": 0,
+   "t1": 54,
+   "line": "Before your toast pops up."
+  },
+  {
+   "shot": "S10",
+   "a": 541,
+   "b": 613,
+   "t0": 0,
+   "t1": 72,
+   "line": "Mom's old puzzle cube is on the shelf."
+  },
+  {
+   "shot": "S11",
+   "a": 613,
+   "b": 677,
+   "t0": 0,
+   "t1": 64,
+   "line": "Nobody in this house has ever solved it."
+  },
+  {
+   "shot": "S12",
+   "a": 677,
+   "b": 707,
+   "t0": 0,
+   "t1": 30,
+   "line": "You pick it up."
+  },
+  {
+   "shot": "S13",
+   "a": 707,
+   "b": 739,
+   "t0": 0,
+   "t1": 32,
+   "line": "Click, click,"
+  },
+  {
+   "shot": "S14",
+   "a": 739,
+   "b": 759,
+   "t0": 0,
+   "t1": 20,
+   "line": "click."
+  },
+  {
+   "shot": "S15",
+   "a": 759,
+   "b": 797,
+   "t0": 0,
+   "t1": 38,
+   "line": "Eleven seconds."
+  },
+  {
+   "shot": "S16",
+   "a": 797,
+   "b": 919,
+   "t0": 0,
+   "t1": 122,
+   "line": "On the bus, you open a history book you were supposed to read last month. You"
+  },
+  {
+   "shot": "S17",
+   "a": 919,
+   "b": 992,
+   "t0": 0,
+   "t1": 73,
+   "line": "turn the pages like you're flicking through a comic. You"
+  },
+  {
+   "shot": "S18",
+   "a": 992,
+   "b": 1033,
+   "t0": 0,
+   "t1": 41,
+   "line": "remember every word."
+  },
+  {
+   "shot": "S22",
+   "a": 1033,
+   "b": 1085,
+   "t0": 0,
+   "t1": 52,
+   "line": "Then you do the math on yourself."
+  },
+  {
+   "shot": "S19",
+   "a": 1085,
+   "b": 1187,
+   "t0": 0,
+   "t1": 102,
+   "line": "Something happened to your brain overnight. It got twice as good."
+  },
+  {
+   "shot": "S20",
+   "a": 1187,
+   "b": 1265,
+   "t0": 0,
+   "t1": 78,
+   "line": "And tomorrow morning, it's going to happen again."
+  },
+  {
+   "shot": "S21",
+   "a": 1265,
+   "b": 1362,
+   "t0": 0,
+   "t1": 97,
+   "line": "What if your IQ doubled, every single day?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "key": 8,
+   "len": 74,
+   "first": 0,
+   "line": "Seven AM. Your alarm goes off.",
+   "note": "alarm clock 07:00 ringing"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 20,
+   "len": 39,
+   "first": 74,
+   "line": "And for the first time in your life,",
+   "note": "you sit bolt upright"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 26,
+   "len": 86,
+   "first": 113,
+   "line": "you're not tired. You're... awake.",
+   "note": "eyes snap wide, glint"
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "key": 16,
+   "len": 35,
+   "first": 199,
+   "line": "Really awake.",
+   "note": "REALLY AWAKE."
+  },
+  {
+   "id": "S5",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 126,
+   "first": 234,
+   "line": "At breakfast, your little sister Ellie is crying over her math homework. You",
+   "note": "Ellie crying over homework, you walk in"
+  },
+  {
+   "id": "S6",
+   "size": "ots insert",
+   "key": 30,
+   "len": 30,
+   "first": 360,
+   "line": "glance at it.",
+   "note": "answers fill in by themselves"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 16,
+   "len": 65,
+   "first": 390,
+   "line": "Done. All twenty questions.",
+   "note": "20/20, ticks"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 16,
+   "len": 32,
+   "first": 455,
+   "line": "In your head.",
+   "note": "you tap your temple"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 54,
+   "first": 487,
+   "line": "Before your toast pops up.",
+   "note": "toaster pops a beat late"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 72,
+   "first": 541,
+   "line": "Mom's old puzzle cube is on the shelf.",
+   "note": "the dusty puzzle cube on the shelf"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 20,
+   "len": 64,
+   "first": 613,
+   "line": "Nobody in this house has ever solved it.",
+   "note": "Mom and Ellie, arms folded"
+  },
+  {
+   "id": "S12",
+   "size": "close insert",
+   "key": 14,
+   "len": 30,
+   "first": 677,
+   "line": "You pick it up.",
+   "note": "cube in your hands"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 14,
+   "len": 32,
+   "first": 707,
+   "line": "Click, click,",
+   "note": "layers spin, colours sort"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 10,
+   "len": 20,
+   "first": 739,
+   "line": "click.",
+   "note": "solved"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 10,
+   "len": 38,
+   "first": 759,
+   "line": "Eleven seconds.",
+   "note": "Mom gapes: 0:11"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 122,
+   "first": 797,
+   "line": "On the bus, you open a history book you were supposed to read last month. You",
+   "note": "you with a fat book on the bus"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 30,
+   "len": 73,
+   "first": 919,
+   "line": "turn the pages like you're flicking through a comic. You",
+   "note": "pages flick past"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 41,
+   "first": 992,
+   "line": "remember every word.",
+   "note": "words swirl round your head"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "key": 20,
+   "len": 52,
+   "first": 1033,
+   "line": "Then you do the math on yourself.",
+   "note": "you narrow your eyes, numbers in the air"
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "key": 70,
+   "len": 102,
+   "first": 1085,
+   "line": "Something happened to your brain overnight. It got twice as good.",
+   "note": "brain x2"
+  },
+  {
+   "id": "S20",
+   "size": "wide push",
+   "key": 40,
+   "len": 78,
+   "first": 1187,
+   "line": "And tomorrow morning, it's going to happen again.",
+   "note": "06:59 then 07:00"
+  },
+  {
+   "id": "S21",
+   "size": "title",
+   "key": 50,
+   "len": 97,
+   "first": 1265,
+   "line": "What if your IQ doubled, every single day?",
+   "note": "title card"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "iq-doubles/c01/voice.wav"
+ }
 }

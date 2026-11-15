@@ -33,19 +33,249 @@
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "set": "bedroom",
+   "note": "alarm clock 07:00 ringing",
+   "key": 8
+  },
+  {
+   "id": "S2",
    "size": "wide",
+   "set": "bedroom",
+   "note": "you sit bolt upright",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "eyes snap wide, glint",
+   "key": 26
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "set": "bedroom",
+   "note": "REALLY AWAKE.",
+   "key": 16
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "kitchen",
+   "note": "Ellie crying over homework, you walk in",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "ots insert",
+   "set": "kitchen",
+   "note": "answers fill in by themselves",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "20/20, ticks",
+   "key": 16
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "you tap your temple",
+   "key": 16
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "toaster pops a beat late",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the dusty puzzle cube on the shelf",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mom and Ellie, arms folded",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "close insert",
+   "set": "hands",
+   "note": "cube in your hands",
+   "key": 14
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "hands",
+   "note": "layers spin, colours sort",
+   "key": 14
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "hands",
+   "note": "solved",
+   "key": 10
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Mom gapes: 0:11",
+   "key": 10
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "bus",
+   "note": "you with a fat book on the bus",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "bus",
+   "note": "pages flick past",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "bus",
+   "note": "words swirl round your head",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "set": "bus",
+   "note": "you narrow your eyes, numbers in the air",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "brain x2",
+   "key": 70
+  },
+  {
+   "id": "S20",
+   "size": "wide push",
+   "set": "bedroom night",
+   "note": "06:59 then 07:00",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "title",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "title card",
+   "key": 50
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S3",
+   "at": "You're"
+  },
+  {
+   "shot": "S4",
+   "at": "Really"
+  },
+  {
+   "shot": "S5",
+   "at": "At"
+  },
+  {
+   "shot": "S6",
+   "at": "glance"
+  },
+  {
+   "shot": "S7",
+   "at": "Done"
+  },
+  {
+   "shot": "S8",
+   "at": "In"
+  },
+  {
+   "shot": "S9",
+   "at": "Before"
+  },
+  {
+   "shot": "S10",
+   "at": "Mom's"
+  },
+  {
+   "shot": "S11",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S12",
+   "at": "You"
+  },
+  {
+   "shot": "S13",
+   "at": "Click"
+  },
+  {
+   "shot": "S14",
+   "at": "click#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Eleven"
+  },
+  {
+   "shot": "S16",
+   "at": "On"
+  },
+  {
+   "shot": "S17",
+   "at": "turn"
+  },
+  {
+   "shot": "S18",
+   "at": "remember"
+  },
+  {
+   "shot": "S22",
+   "at": "Then"
+  },
+  {
+   "shot": "S19",
+   "at": "Something"
+  },
+  {
+   "shot": "S20",
+   "at": "And"
+  },
+  {
+   "shot": "S21",
+   "at": "What"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,

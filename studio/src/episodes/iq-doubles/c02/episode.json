@@ -43,19 +43,183 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "size": "card",
+   "set": "schematic",
+   "note": "THE RULES",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "bell curve, you at 100",
+   "key": 90
+  },
+  {
+   "id": "S3",
+   "size": "big number",
+   "set": "bedroom",
+   "note": "IQ 200",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "bars 200 400 800 1600",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "wide push",
+   "set": "bedroom night",
+   "note": "asleep, 07:00, a ring of light",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "dot slides to the tail: 1 in 76 billion",
+   "key": 120
+  },
+  {
+   "id": "S7",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "8 billion people, none at 200",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "off the chart",
+   "key": 80
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "classroom",
+   "note": "you, sharp, looking around",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "ceiling",
+   "note": "the crack, measured",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "classroom",
+   "note": "two different socks",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "fighting sleep",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "split",
+   "set": "bedroom",
+   "note": "asleep x2, awake x2",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "card",
+   "note": "ONE MORE RULE",
+   "key": 16
+  },
+  {
+   "id": "S15",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "Earth, one lit dot: you",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "medium push",
+   "set": "bedroom",
+   "note": "Ellie in the doorway",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Most"
+  },
+  {
+   "shot": "S3",
+   "at": "Today"
+  },
+  {
+   "shot": "S4",
+   "at": "Tomorrow"
+  },
+  {
+   "shot": "S5",
+   "at": "Every"
+  },
+  {
+   "shot": "S6",
+   "at": "How"
+  },
+  {
+   "shot": "S7",
+   "at": "There"
+  },
+  {
+   "shot": "S8",
+   "at": "You're"
+  },
+  {
+   "shot": "S9",
+   "at": "It's"
+  },
+  {
+   "shot": "S10",
+   "at": "notice"
+  },
+  {
+   "shot": "S11",
+   "at": "fact"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "Sleep"
+  },
+  {
+   "shot": "S14",
+   "at": "one"
+  },
+  {
+   "shot": "S15",
+   "at": "It"
+  },
+  {
+   "shot": "S16",
+   "at": "Remember"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

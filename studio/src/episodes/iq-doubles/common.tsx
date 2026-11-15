@@ -64,9 +64,9 @@ export const iqCard = (o: { kicker: string; iq: number; from?: number; Bg?: SetF
         ) : (
           <rect width={1920} height={1080} fill="#0C0A16" />
         )}
-        <text x={960} y={380} textAnchor="middle" fontFamily={FONT.ui} fontSize={46} letterSpacing={10} fill="#F6EFE3" opacity={clamp(t / 6)}>{o.kicker}</text>
+        <text x={960} y={300} textAnchor="middle" fontFamily={FONT.ui} fontSize={46} letterSpacing={10} fill="#F6EFE3" opacity={clamp(t / 6)}>{o.kicker}</text>
         <g transform={`translate(960 640) scale(${pop})`}>
-          <text x={-20} y={-150} textAnchor="middle" fontFamily={FONT.ui} fontSize={60} letterSpacing={14} fill={UI.live}>IQ</text>
+          <text x={-20} y={-215} textAnchor="middle" fontFamily={FONT.ui} fontSize={60} letterSpacing={14} fill={UI.live}>IQ</text>
           <text textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={250} fill={o.color ?? '#FFD23A'} stroke="#0B0816" strokeWidth={16} paintOrder="stroke">{v.toLocaleString('en-US')}</text>
         </g>
         {o.sub ? <text x={960} y={820} textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={6} fill="#F6EFE3" opacity={clamp((t - 14) / 6)}>{o.sub}</text> : null}
@@ -182,7 +182,7 @@ export const OpenNotebook: React.FC<{ x: number; y: number; w?: number; rot?: nu
       ))}
       <path d={`M 0 ${-h / 2} L 0 ${h / 2}`} stroke="#C9BFA8" strokeWidth={6} />
       {lines}
-      {readable ? <text x={w / 4} y={h / 2 - 40} textAnchor="middle" fontFamily={FONT.hand ?? FONT.ui} fontSize={32} fill="#1A1A3A">{readable}</text> : null}
+      {readable ? <text x={w / 4} y={h / 2 - 40} textAnchor="middle" fontFamily={FONT.hand} fontSize={32} fill="#1A1A3A">{readable}</text> : null}
     </g>
   );
 };
@@ -225,7 +225,7 @@ export const DoublingBars: React.FC<{ t: number; days: number; at?: number; step
     <g>
       {Array.from({ length: days }).map((_, i) => {
         const k = easeOut(clamp((t - at - i * step) / 10));
-        const h = Math.min(720, 22 * Math.pow(2, i)) * k;
+        const h = Math.min(640, 70 * Math.pow(2, i)) * k;
         const x = 960 + (i - (days - 1) / 2) * (w + 20);
         const red = i + 1 >= hot;
         return (
@@ -335,7 +335,7 @@ export const DocLines: React.FC<{ w: number; n: number; title?: string; seed?: n
 export const BoardMath: React.FC<{ t: number; write?: number; answer?: number }> = ({ t, write = 1, answer = 0 }) => {
   const lines = ['∫ x² e^(-x) dx  from 0 to ∞', '+  Σ 1/2ⁿ  (n = 1 … ∞)', '=  ?'];
   return (
-    <g fontFamily={FONT.hand ?? FONT.ui} fill="#F4F1EA">
+    <g fontFamily={FONT.hand} fill="#F4F1EA">
       {lines.map((l, i) => (
         <text key={i} x={460} y={270 + i * 80} fontSize={50} opacity={clamp(write * 3 - i)}>{l}</text>
       ))}
@@ -377,3 +377,8 @@ export const live = (t: number, p: Partial<Pose>, faces: [number, Expr][] = [[0,
 };
 
 export const K = { BEDROOM, KITCHEN, CLS, STUDY, stand, LEG_LEN, Hero };
+
+/** Asleep sitting back against the pillows, head lolled, eyes shut (lying flat reads badly on this rig). */
+export const asleep = (b: { x: number; y: number; scale: number }, t = 0): Partial<Pose> => ({
+  ...b, y: b.y + 12, yaw: 0.25, tilt: -12, headTilt: 22 + Math.sin(t / 30) * 2, expr: 'tired', blink: 1, armL: { a: 20, b: 20 }, armR: { a: 20, b: 20 },
+});
