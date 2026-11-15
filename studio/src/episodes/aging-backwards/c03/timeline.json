@@ -1,29 +1,473 @@
 {
  "slug": "aging-backwards/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2687,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 33,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 33,
+   "line": "Day one."
+  },
+  {
+   "shot": "S2",
+   "a": 33,
+   "b": 220,
+   "t0": 0,
+   "t1": 187,
+   "line": "You're fourteen again, and honestly, fourteen was a good year. Your knee doesn't hurt. Your skin is perfect. You"
+  },
+  {
+   "shot": "S3",
+   "a": 220,
+   "b": 286,
+   "t0": 0,
+   "t1": 66,
+   "line": "eat a whole pizza and feel nothing. You"
+  },
+  {
+   "shot": "S4",
+   "a": 286,
+   "b": 418,
+   "t0": 0,
+   "t1": 132,
+   "line": "take the history test you already took last year. You remember every answer."
+  },
+  {
+   "shot": "S5",
+   "a": 418,
+   "b": 453,
+   "t0": 0,
+   "t1": 35,
+   "line": "A plus. Your"
+  },
+  {
+   "shot": "S6",
+   "a": 453,
+   "b": 560,
+   "t0": 0,
+   "t1": 107,
+   "line": "teacher thinks you cheated. You didn't. You just did it twice."
+  },
+  {
+   "shot": "S7",
+   "a": 560,
+   "b": 625,
+   "t0": 0,
+   "t1": 65,
+   "line": "Day three. You're twelve."
+  },
+  {
+   "shot": "S8",
+   "a": 625,
+   "b": 801,
+   "t0": 0,
+   "t1": 176,
+   "line": "Mo signs you up for his little cousin's soccer team. A twelve- year- old body with a fifteen- year- old brain. You"
+  },
+  {
+   "shot": "S9",
+   "a": 801,
+   "b": 852,
+   "t0": 0,
+   "t1": 51,
+   "line": "score six goals. The other"
+  },
+  {
+   "shot": "S10",
+   "a": 852,
+   "b": 930,
+   "t0": 0,
+   "t1": 78,
+   "line": "coach demands to see your birth certificate. Your"
+  },
+  {
+   "shot": "S11",
+   "a": 930,
+   "b": 1053,
+   "t0": 0,
+   "t1": 123,
+   "line": "mom shows it to him. He reads it three times. It doesn't help. At"
+  },
+  {
+   "shot": "S12",
+   "a": 1053,
+   "b": 1128,
+   "t0": 0,
+   "t1": 75,
+   "line": "the movies, you pay the kids' price. At"
+  },
+  {
+   "shot": "S13",
+   "a": 1128,
+   "b": 1212,
+   "t0": 0,
+   "t1": 84,
+   "line": "the diner, you get the kids' menu, with crayons."
+  },
+  {
+   "shot": "S14",
+   "a": 1212,
+   "b": 1311,
+   "t0": 0,
+   "t1": 99,
+   "line": "Mo pays full price, and he is furious about it."
+  },
+  {
+   "shot": "S15",
+   "a": 1311,
+   "b": 1378,
+   "t0": 0,
+   "t1": 67,
+   "line": "Day four. You're eleven. Your"
+  },
+  {
+   "shot": "S16",
+   "a": 1378,
+   "b": 1506,
+   "t0": 0,
+   "t1": 128,
+   "line": "old bike fits perfectly again. The red one, with the stickers. You and Mo"
+  },
+  {
+   "shot": "S17",
+   "a": 1506,
+   "b": 1677,
+   "t0": 0,
+   "t1": 171,
+   "line": "ride to the lake, and for one whole afternoon it's exactly like being a kid. Because you are one."
+  },
+  {
+   "shot": "S18",
+   "a": 1677,
+   "b": 1730,
+   "t0": 0,
+   "t1": 53,
+   "line": "Day five. You're ten."
+  },
+  {
+   "shot": "S19",
+   "a": 1730,
+   "b": 1827,
+   "t0": 0,
+   "t1": 97,
+   "line": "Grandma comes over and cries, because you look exactly like your old"
+  },
+  {
+   "shot": "S20",
+   "a": 1827,
+   "b": 1878,
+   "t0": 0,
+   "t1": 51,
+   "line": "school photo on her fridge. She"
+  },
+  {
+   "shot": "S21",
+   "a": 1878,
+   "b": 1957,
+   "t0": 0,
+   "t1": 79,
+   "line": "pinches your cheeks for an hour. You let her."
+  },
+  {
+   "shot": "S22",
+   "a": 1957,
+   "b": 2095,
+   "t0": 0,
+   "t1": 138,
+   "line": "That night, you and Mo sit on the roof and make a list. Things you're allowed to do again."
+  },
+  {
+   "shot": "S23",
+   "a": 2095,
+   "b": 2293,
+   "t0": 0,
+   "t1": 198,
+   "line": "Ride the kiddie rides. Get carried when you're tired. Eat dessert first, because who's going to stop a ten- year- old?"
+  },
+  {
+   "shot": "S24",
+   "a": 2293,
+   "b": 2437,
+   "t0": 0,
+   "t1": 144,
+   "line": "'Okay, ' Mo says. 'This is the coolest thing that has ever happened to anybody I know. '"
+  },
+  {
+   "shot": "S25",
+   "a": 2437,
+   "b": 2565,
+   "t0": 0,
+   "t1": 128,
+   "line": "Then you stand up to go inside, and you can't reach the handle on the roof hatch anymore."
+  },
+  {
+   "shot": "S26",
+   "a": 2565,
+   "b": 2612,
+   "t0": 0,
+   "t1": 47,
+   "line": "Mo has to open it for you."
+  },
+  {
+   "shot": "S27",
+   "a": 2612,
+   "b": 2687,
+   "t0": 0,
+   "t1": 75,
+   "line": "That's when it stops being funny."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 16,
+   "len": 33,
+   "first": 0,
+   "line": "Day one.",
+   "note": "DAY 1 · AGE 14"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 187,
+   "first": 33,
+   "line": "You're fourteen again, and honestly, fourteen was a good year. Your knee doesn't hurt. Your skin is perfect. You",
+   "note": "you, grinning, a little jump: no knee pain"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 66,
+   "first": 220,
+   "line": "eat a whole pizza and feel nothing. You",
+   "note": "a whole pizza, gone"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 40,
+   "len": 132,
+   "first": 286,
+   "line": "take the history test you already took last year. You remember every answer.",
+   "note": "the history test again"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 20,
+   "len": 35,
+   "first": 418,
+   "line": "A plus. Your",
+   "note": "A+"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 40,
+   "len": 107,
+   "first": 453,
+   "line": "teacher thinks you cheated. You didn't. You just did it twice.",
+   "note": "the teacher squints: cheated?"
+  },
+  {
+   "id": "S7",
+   "size": "big word",
+   "key": 16,
+   "len": 65,
+   "first": 560,
+   "line": "Day three. You're twelve.",
+   "note": "DAY 3 · AGE 12"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 50,
+   "len": 176,
+   "first": 625,
+   "line": "Mo signs you up for his little cousin's soccer team. A twelve- year- old body with a fifteen- year- old brain. You",
+   "note": "Mo signs you up: little kids around you"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 50,
+   "len": 51,
+   "first": 801,
+   "line": "score six goals. The other",
+   "note": "you score: 6 goals"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 20,
+   "len": 78,
+   "first": 852,
+   "line": "coach demands to see your birth certificate. Your",
+   "note": "the other coach: BIRTH CERTIFICATE?"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 70,
+   "len": 123,
+   "first": 930,
+   "line": "mom shows it to him. He reads it three times. It doesn't help. At",
+   "note": "the certificate: born 15 years ago, read three times"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 75,
+   "first": 1053,
+   "line": "the movies, you pay the kids' price. At",
+   "note": "CHILD ticket"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 84,
+   "first": 1128,
+   "line": "the diner, you get the kids' menu, with crayons.",
+   "note": "the kids' menu with crayons"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 40,
+   "len": 99,
+   "first": 1212,
+   "line": "Mo pays full price, and he is furious about it.",
+   "note": "Mo pays full price, furious"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 16,
+   "len": 67,
+   "first": 1311,
+   "line": "Day four. You're eleven. Your",
+   "note": "DAY 4 · AGE 11"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 40,
+   "len": 128,
+   "first": 1378,
+   "line": "old bike fits perfectly again. The red one, with the stickers. You and Mo",
+   "note": "your old red bike fits again"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 60,
+   "len": 171,
+   "first": 1506,
+   "line": "ride to the lake, and for one whole afternoon it's exactly like being a kid. Because you are one.",
+   "note": "you and Mo ride to the lake"
+  },
+  {
+   "id": "S18",
+   "size": "big word",
+   "key": 16,
+   "len": 53,
+   "first": 1677,
+   "line": "Day five. You're ten.",
+   "note": "DAY 5 · AGE 10"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 40,
+   "len": 97,
+   "first": 1730,
+   "line": "Grandma comes over and cries, because you look exactly like your old",
+   "note": "grandma comes over and cries"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 20,
+   "len": 51,
+   "first": 1827,
+   "line": "school photo on her fridge. She",
+   "note": "your old school photo on her fridge"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 79,
+   "first": 1878,
+   "line": "pinches your cheeks for an hour. You let her.",
+   "note": "grandma pinches your cheeks"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 40,
+   "len": 138,
+   "first": 1957,
+   "line": "That night, you and Mo sit on the roof and make a list. Things you're allowed to do again.",
+   "note": "you and Mo on the roof, the list"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 160,
+   "len": 198,
+   "first": 2095,
+   "line": "Ride the kiddie rides. Get carried when you're tired. Eat dessert first, because who's going to stop a ten- year- old?",
+   "note": "the list: kiddie rides, get carried, dessert first"
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "key": 60,
+   "len": 144,
+   "first": 2293,
+   "line": "'Okay, ' Mo says. 'This is the coolest thing that has ever happened to anybody I know. '",
+   "note": "Mo: the coolest thing ever"
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "key": 60,
+   "len": 128,
+   "first": 2437,
+   "line": "Then you stand up to go inside, and you can't reach the handle on the roof hatch anymore.",
+   "note": "you can't reach the hatch handle"
+  },
+  {
+   "id": "S26",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 47,
+   "first": 2565,
+   "line": "Mo has to open it for you.",
+   "note": "Mo opens it for you"
+  },
+  {
+   "id": "S27",
+   "size": "close-up",
+   "key": 30,
+   "len": 75,
+   "first": 2612,
+   "line": "That's when it stops being funny.",
+   "note": "it stops being funny"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c03/voice.wav"
+ }
 }

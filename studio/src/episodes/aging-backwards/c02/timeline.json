@@ -1,29 +1,252 @@
 {
  "slug": "aging-backwards/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU AGED BACKWARDS?",
  "fps": 30,
- "total": 90,
+ "total": 1651,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 133,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 133,
+   "line": "Here are the rules. Every night at exactly midnight, you lose one year."
+  },
+  {
+   "shot": "S2",
+   "a": 133,
+   "b": 369,
+   "t0": 0,
+   "t1": 236,
+   "line": "Not your memories. Just your body. Your height, your voice, your bones, your face. All of it rewinds one year."
+  },
+  {
+   "shot": "S3",
+   "a": 369,
+   "b": 451,
+   "t0": 0,
+   "t1": 82,
+   "line": "You can't stop it by staying awake. You try that"
+  },
+  {
+   "shot": "S4",
+   "a": 451,
+   "b": 551,
+   "t0": 0,
+   "t1": 100,
+   "line": "on the second night. The clock hits twelve, and you feel it. Your"
+  },
+  {
+   "shot": "S5",
+   "a": 551,
+   "b": 594,
+   "t0": 0,
+   "t1": 43,
+   "line": "sleeves get longer. Your"
+  },
+  {
+   "shot": "S6",
+   "a": 594,
+   "b": 697,
+   "t0": 0,
+   "t1": 103,
+   "line": "feet slide around in your socks. It takes about four seconds."
+  },
+  {
+   "shot": "S7",
+   "a": 697,
+   "b": 758,
+   "t0": 0,
+   "t1": 61,
+   "line": "Mo suggests a cold shower. Your"
+  },
+  {
+   "shot": "S8",
+   "a": 758,
+   "b": 804,
+   "t0": 0,
+   "t1": 46,
+   "line": "mom suggests a doctor."
+  },
+  {
+   "shot": "S9",
+   "a": 804,
+   "b": 921,
+   "t0": 0,
+   "t1": 117,
+   "line": "Ellie suggests you just don't fall asleep, which is exactly what you just tried."
+  },
+  {
+   "shot": "S10",
+   "a": 921,
+   "b": 959,
+   "t0": 0,
+   "t1": 38,
+   "line": "Nothing works. And"
+  },
+  {
+   "shot": "S11",
+   "a": 959,
+   "b": 1179,
+   "t0": 0,
+   "t1": 220,
+   "line": "it only happens to you. Your mom keeps getting older. Mo keeps getting older. Ellie is eight, and she keeps getting older too. You do"
+  },
+  {
+   "shot": "S12",
+   "a": 1179,
+   "b": 1398,
+   "t0": 0,
+   "t1": 219,
+   "line": "the math on the back of your homework. Fourteen years old. One year a night. That's fourteen nights. Then you hit zero."
+  },
+  {
+   "shot": "S13",
+   "a": 1398,
+   "b": 1466,
+   "t0": 0,
+   "t1": 68,
+   "line": "Nobody knows what happens at zero. So"
+  },
+  {
+   "shot": "S14",
+   "a": 1466,
+   "b": 1651,
+   "t0": 0,
+   "t1": 185,
+   "line": "remember the rule. It only happens to you. Because near the end of this story, that rule breaks."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "big word",
    "key": 30,
-   "len": 90,
+   "len": 133,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here are the rules. Every night at exactly midnight, you lose one year.",
+   "note": "EVERY NIGHT AT 12:00"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 200,
+   "len": 236,
+   "first": 133,
+   "line": "Not your memories. Just your body. Your height, your voice, your bones, your face. All of it rewinds one year.",
+   "note": "memories kept; height, voice, bones, face rewind"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 82,
+   "first": 369,
+   "line": "You can't stop it by staying awake. You try that",
+   "note": "you sit up in bed, wide awake, staring at the clock"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "len": 100,
+   "first": 451,
+   "line": "on the second night. The clock hits twelve, and you feel it. Your",
+   "note": "12:00"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 8,
+   "len": 43,
+   "first": 551,
+   "line": "sleeves get longer. Your",
+   "note": "the sleeve slides down over your hand"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 103,
+   "first": 594,
+   "line": "feet slide around in your socks. It takes about four seconds.",
+   "note": "your feet slide around in your socks"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 30,
+   "len": 61,
+   "first": 697,
+   "line": "Mo suggests a cold shower. Your",
+   "note": "Mo: a cold shower"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 46,
+   "first": 758,
+   "line": "mom suggests a doctor.",
+   "note": "mum: a doctor"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 50,
+   "len": 117,
+   "first": 804,
+   "line": "Ellie suggests you just don't fall asleep, which is exactly what you just tried.",
+   "note": "Ellie: just don't fall asleep"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 20,
+   "len": 38,
+   "first": 921,
+   "line": "Nothing works. And",
+   "note": "NOTHING WORKS."
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 100,
+   "len": 220,
+   "first": 959,
+   "line": "it only happens to you. Your mom keeps getting older. Mo keeps getting older. Ellie is eight, and she keeps getting older too. You do",
+   "note": "everyone older, only you younger: age tags"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 220,
+   "len": 219,
+   "first": 1179,
+   "line": "the math on the back of your homework. Fourteen years old. One year a night. That's fourteen nights. Then you hit zero.",
+   "note": "the math on your homework: 14 nights"
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "key": 30,
+   "len": 68,
+   "first": 1398,
+   "line": "Nobody knows what happens at zero. So",
+   "note": "AGE 0 = ?"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 130,
+   "len": 185,
+   "first": 1466,
+   "line": "remember the rule. It only happens to you. Because near the end of this story, that rule breaks.",
+   "note": "the rule: IT ONLY HAPPENS TO YOU, then a crack"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c02/voice.wav"
+ }
 }

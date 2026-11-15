@@ -37,19 +37,161 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "card",
+   "note": "EVERY NIGHT AT 12:00",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "memories kept; height, voice, bones, face rewind",
+   "key": 200
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "set": "bedroom night",
+   "note": "you sit up in bed, wide awake, staring at the clock",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "clock",
+   "note": "12:00",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "arm",
+   "note": "the sleeve slides down over your hand",
+   "key": 8
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "feet",
+   "note": "your feet slide around in your socks",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "street",
+   "note": "Mo: a cold shower",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "mum: a doctor",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "Ellie: just don't fall asleep",
+   "key": 50
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "card",
+   "note": "NOTHING WORKS.",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "set": "kitchen",
+   "note": "everyone older, only you younger: age tags",
+   "key": 100
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "homework",
+   "note": "the math on your homework: 14 nights",
+   "key": 220
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "set": "card",
+   "note": "AGE 0 = ?",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "card",
+   "note": "the rule: IT ONLY HAPPENS TO YOU, then a crack",
+   "key": 130
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Not"
+  },
+  {
+   "shot": "S3",
+   "at": "You"
+  },
+  {
+   "shot": "S4",
+   "at": "The"
+  },
+  {
+   "shot": "S5",
+   "at": "sleeves"
+  },
+  {
+   "shot": "S6",
+   "at": "feet"
+  },
+  {
+   "shot": "S7",
+   "at": "Mo"
+  },
+  {
+   "shot": "S8",
+   "at": "mom"
+  },
+  {
+   "shot": "S9",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S10",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S11",
+   "at": "only"
+  },
+  {
+   "shot": "S12",
+   "at": "math"
+  },
+  {
+   "shot": "S13",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S14",
+   "at": "remember"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU AGED",

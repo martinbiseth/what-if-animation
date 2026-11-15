@@ -176,7 +176,7 @@ export const S9 = faceCU({
 
 // ---------- S10: close, Ellie: she spits out her cereal ----------
 export const S10: React.FC<ShotProps> = (p) => {
-  const spit = rel('Your', 'spits') + 2;
+  const spit = (rel('sister', 'spits') + 12) + 2;
   const Face = faceCU({ look: ELLIE, Bg: KIT, faces: [[0, 'neutral'], [spit, 'shock']], yaw: -0.3, zoom: [3.0, 3.3], pose: { scale: 1 } });
   const k = clamp((p.t - spit) / 14);
   return (
@@ -272,7 +272,7 @@ export const S14: React.FC<ShotProps> = ({ t, len }) => {
 
 // ---------- S15: close on the jamb: last night's mark (15) is well above your head; mum draws the new line at 14 ----------
 export const S15: React.FC<ShotProps> = ({ t, len }) => {
-  const draw = clamp((t - rel("You're", 'mark', 2)) / 12);
+  const draw = clamp((t - (rel("You're", 'from') - 8)) / 12);
   const hiY = FY - FH * 0.78;
   return (
     <g transform={camT(FX + 40, kf(t, [[0, hiY + 40], [len, hiY + 20]]), kf(t, [[0, 3.2], [len, 3.4]]))}>
@@ -308,7 +308,7 @@ export const S16: React.FC<ShotProps> = ({ t }) => {
 
 // ---------- S17: night, the alarm clock: 11:59 rolls to 12:00, the red glow pulses ----------
 export const S17: React.FC<ShotProps> = ({ t, len }) => {
-  const mid = rel('And', 'midnight') + 4;
+  const mid = rel('And', 'midnight', 4) + 4;
   return (
     <g>
       <Soft blur={16} dim={0.55}><g transform={camT(1000, 520, 1.6)}><Bedroom t={t + 300} veil={0.75} clock="23:59" lamp={0} /></g></Soft>
@@ -337,7 +337,7 @@ export const S19: React.FC<ShotProps> = ({ t, len }) => (
       <DAY t={t + 200} />
       <Hero look={YOU} pose={{ ...basePose, x: 960, y: streetHip(K14), scale: K14, yaw: 0.1, expr: 'smug', blink: idleBlink(t, 3), armL: { a: 95, b: 85 }, armR: { a: 95, b: 85 }, legL: { a: 14, b: 0 }, legR: { a: -14, b: 0 } }} />
     </g>
-    <g transform={`translate(960 210) scale(${backOut(clamp((t - rel('At', 'superpower') + 2) / 9))})`}>
+    <g transform={`translate(960 210) scale(${backOut(clamp((t - rel('At', 'superpower', 2) + 2) / 9))})`}>
       <text textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={130} fill="#FFD23A" stroke="#0B0816" strokeWidth={14} paintOrder="stroke">SUPERPOWER?</text>
     </g>
   </g>

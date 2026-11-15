@@ -45,18 +45,303 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "street day",
+   "note": "DAY 1 · AGE 14",
+   "key": 16
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "street day",
+   "note": "you, grinning, a little jump: no knee pain",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "a whole pizza, gone",
+   "key": 30
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "set": "classroom",
+   "note": "the history test again",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "paper",
+   "note": "A+",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "classroom",
+   "note": "the teacher squints: cheated?",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "big word",
+   "set": "field",
+   "note": "DAY 3 · AGE 12",
+   "key": 16
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "field",
+   "note": "Mo signs you up: little kids around you",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "field",
+   "note": "you score: 6 goals",
+   "key": 50
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "field",
+   "note": "the other coach: BIRTH CERTIFICATE?",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "certificate",
+   "note": "the certificate: born 15 years ago, read three times",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "ticket",
+   "note": "CHILD ticket",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "kids menu",
+   "note": "the kids' menu with crayons",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "diner",
+   "note": "Mo pays full price, furious",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "street",
+   "note": "DAY 4 · AGE 11",
+   "key": 16
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "street day",
+   "note": "your old red bike fits again",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "country",
+   "note": "you and Mo ride to the lake",
+   "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "big word",
+   "set": "living",
+   "note": "DAY 5 · AGE 10",
+   "key": 16
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "living",
+   "note": "grandma comes over and cries",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "fridge",
+   "note": "your old school photo on her fridge",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "living",
+   "note": "grandma pinches your cheeks",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "roof",
+   "note": "you and Mo on the roof, the list",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "list",
+   "note": "the list: kiddie rides, get carried, dessert first",
+   "key": 160
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "set": "roof",
+   "note": "Mo: the coolest thing ever",
+   "key": 60
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "set": "hatch",
+   "note": "you can't reach the hatch handle",
+   "key": 60
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "set": "roof",
+   "note": "Mo opens it for you",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "close-up",
+   "set": "roof",
+   "note": "it stops being funny",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "eat"
+  },
+  {
+   "shot": "S4",
+   "at": "take"
+  },
+  {
+   "shot": "S5",
+   "at": "A"
+  },
+  {
+   "shot": "S6",
+   "at": "teacher"
+  },
+  {
+   "shot": "S7",
+   "at": "Day"
+  },
+  {
+   "shot": "S8",
+   "at": "Mo"
+  },
+  {
+   "shot": "S9",
+   "at": "score"
+  },
+  {
+   "shot": "S10",
+   "at": "coach"
+  },
+  {
+   "shot": "S11",
+   "at": "mom"
+  },
+  {
+   "shot": "S12",
+   "at": "movies"
+  },
+  {
+   "shot": "S13",
+   "at": "diner"
+  },
+  {
+   "shot": "S14",
+   "at": "Mo"
+  },
+  {
+   "shot": "S15",
+   "at": "Day"
+  },
+  {
+   "shot": "S16",
+   "at": "old"
+  },
+  {
+   "shot": "S17",
+   "at": "ride"
+  },
+  {
+   "shot": "S18",
+   "at": "Day"
+  },
+  {
+   "shot": "S19",
+   "at": "Grandma"
+  },
+  {
+   "shot": "S20",
+   "at": "school"
+  },
+  {
+   "shot": "S21",
+   "at": "pinches"
+  },
+  {
+   "shot": "S22",
+   "at": "That"
+  },
+  {
+   "shot": "S23",
+   "at": "Ride"
+  },
+  {
+   "shot": "S24",
+   "at": "Okay"
+  },
+  {
+   "shot": "S25",
+   "at": "Then"
+  },
+  {
+   "shot": "S26",
+   "at": "Mo"
+  },
+  {
+   "shot": "S27",
+   "at": "That's"
   }
  ],
- "end": "f:90",
  "fx": []
 }
