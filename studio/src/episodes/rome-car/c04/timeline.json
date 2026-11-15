@@ -1,27 +1,418 @@
 {
  "slug": "rome-car/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3884,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 52,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 52,
+   "line": "Here's the problem"
+  },
+  {
+   "shot": "S2",
+   "a": 52,
+   "b": 295,
+   "t0": 0,
+   "t1": 243,
+   "line": "You've burned half your fuel in five days mostly showing off And there is no way to make more"
+  },
+  {
+   "shot": "S3",
+   "a": 295,
+   "b": 542,
+   "t0": 0,
+   "t1": 247,
+   "line": "Gasoline comes from crude oil heated and split apart in giant refineries The Romans have nothing close"
+  },
+  {
+   "shot": "S4",
+   "a": 542,
+   "b": 712,
+   "t0": 0,
+   "t1": 170,
+   "line": "Even strong alcohol which some cars can burn has to be distilled and"
+  },
+  {
+   "shot": "S5",
+   "a": 712,
+   "b": 907,
+   "t0": 0,
+   "t1": 195,
+   "line": "Europe won't learn to distill alcohol for about another thousand years That's real"
+  },
+  {
+   "shot": "S6",
+   "a": 907,
+   "b": 957,
+   "t0": 0,
+   "t1": 50,
+   "line": "Mo has an idea"
+  },
+  {
+   "shot": "S7",
+   "a": 957,
+   "b": 1150,
+   "t0": 0,
+   "t1": 193,
+   "line": "Olive oil Rome is drowning in olive oil And here's the funny part In"
+  },
+  {
+   "shot": "S8",
+   "a": 1150,
+   "b": 1396,
+   "t0": 0,
+   "t1": 246,
+   "line": "nineteen hundred at the World's Fair in Paris a diesel engine ran on peanut oil That's real too"
+  },
+  {
+   "shot": "S9",
+   "a": 1396,
+   "b": 1582,
+   "t0": 0,
+   "t1": 186,
+   "line": "So if your car were a diesel olive oil might actually work It isn't"
+  },
+  {
+   "shot": "S10",
+   "a": 1582,
+   "b": 1657,
+   "t0": 0,
+   "t1": 75,
+   "line": "One cup in the tank and the"
+  },
+  {
+   "shot": "S11",
+   "a": 1657,
+   "b": 1742,
+   "t0": 0,
+   "t1": 85,
+   "line": "engine coughs like it's dying You"
+  },
+  {
+   "shot": "S12",
+   "a": 1742,
+   "b": 1873,
+   "t0": 0,
+   "t1": 131,
+   "line": "drain it by hand It takes all night Then the"
+  },
+  {
+   "shot": "S13",
+   "a": 1873,
+   "b": 2101,
+   "t0": 0,
+   "t1": 228,
+   "line": "tires Roman soldiers wear sandals with iron nails in the soles and they lose them everywhere"
+  },
+  {
+   "shot": "S14",
+   "a": 2101,
+   "b": 2324,
+   "t0": 0,
+   "t1": 223,
+   "line": "Archaeologists still follow trails of those nails to find where Roman armies marched That's real"
+  },
+  {
+   "shot": "S15",
+   "a": 2324,
+   "b": 2470,
+   "t0": 0,
+   "t1": 146,
+   "line": "On day six you find one With your front tire You"
+  },
+  {
+   "shot": "S16",
+   "a": 2470,
+   "b": 2597,
+   "t0": 0,
+   "t1": 127,
+   "line": "put on the spare Now you have no spare And"
+  },
+  {
+   "shot": "S17",
+   "a": 2597,
+   "b": 2882,
+   "t0": 0,
+   "t1": 285,
+   "line": "rubber doesn't exist here The trees it comes from grow in South America and nobody in Rome knows South America exists"
+  },
+  {
+   "shot": "S18",
+   "a": 2882,
+   "b": 3102,
+   "t0": 0,
+   "t1": 220,
+   "line": "So the car is dying Slowly But even dying it's the fastest thing in the world"
+  },
+  {
+   "shot": "S19",
+   "a": 3102,
+   "b": 3280,
+   "t0": 0,
+   "t1": 178,
+   "line": "Rome's fastest messengers changing horses at stations along the road covered about"
+  },
+  {
+   "shot": "S20",
+   "a": 3280,
+   "b": 3379,
+   "t0": 0,
+   "t1": 99,
+   "line": "eighty kilometers a day That's real"
+  },
+  {
+   "shot": "S21",
+   "a": 3379,
+   "b": 3484,
+   "t0": 0,
+   "t1": 105,
+   "line": "Your car does that in under an hour A"
+  },
+  {
+   "shot": "S22",
+   "a": 3484,
+   "b": 3657,
+   "t0": 0,
+   "t1": 173,
+   "line": "message from the edge of the empire in one day instead of a week An"
+  },
+  {
+   "shot": "S23",
+   "a": 3657,
+   "b": 3738,
+   "t0": 0,
+   "t1": 81,
+   "line": "army that never gets tired And"
+  },
+  {
+   "shot": "S24",
+   "a": 3738,
+   "b": 3884,
+   "t0": 0,
+   "t1": 146,
+   "line": "somebody very important is thinking the exact same thing"
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 20,
+   "len": 52,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Here's the problem",
+   "note": "card: THE CATCH"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 20,
+   "len": 243,
+   "first": 52,
+   "line": "You've burned half your fuel in five days mostly showing off And there is no way to make more",
+   "note": "you by the car, worried; Mo on the bonnet with the chips"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 120,
+   "len": 247,
+   "first": 295,
+   "line": "Gasoline comes from crude oil heated and split apart in giant refineries The Romans have nothing close",
+   "note": "crude oil -> refinery -> gasoline; Rome has none"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 40,
+   "len": 170,
+   "first": 542,
+   "line": "Even strong alcohol which some cars can burn has to be distilled and",
+   "note": "distilled alcohol: crossed"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 60,
+   "len": 195,
+   "first": 712,
+   "line": "Europe won't learn to distill alcohol for about another thousand years That's real",
+   "note": "fact: about 1,000 years until Europe distils alcohol"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 50,
+   "first": 907,
+   "line": "Mo has an idea",
+   "note": "Mo has an idea"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 20,
+   "len": 193,
+   "first": 957,
+   "line": "Olive oil Rome is drowning in olive oil And here's the funny part In",
+   "note": "amphorae of olive oil piled everywhere, Mo hugging one"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 60,
+   "len": 246,
+   "first": 1150,
+   "line": "nineteen hundred at the World's Fair in Paris a diesel engine ran on peanut oil That's real too",
+   "note": "fact: 1900, Paris, a diesel ran on peanut oil"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 186,
+   "first": 1396,
+   "line": "So if your car were a diesel olive oil might actually work It isn't",
+   "note": "NOT A DIESEL"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 24,
+   "len": 75,
+   "first": 1582,
+   "line": "One cup in the tank and the",
+   "note": "Mo pours a cup of olive oil into the filler"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 20,
+   "len": 85,
+   "first": 1657,
+   "line": "engine coughs like it's dying You",
+   "note": "the car coughs black smoke, shuddering"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 20,
+   "len": 131,
+   "first": 1742,
+   "line": "drain it by hand It takes all night Then the",
+   "note": "night: you under the car with a bowl, Mo asleep"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 20,
+   "len": 228,
+   "first": 1873,
+   "line": "tires Roman soldiers wear sandals with iron nails in the soles and they lose them everywhere",
+   "note": "a Roman sandal sole studded with iron nails"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 60,
+   "len": 223,
+   "first": 2101,
+   "line": "Archaeologists still follow trails of those nails to find where Roman armies marched That's real",
+   "note": "a trail of nails marking an army's march"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 20,
+   "len": 146,
+   "first": 2324,
+   "line": "On day six you find one With your front tire You",
+   "note": "a nail in the front tyre, hissing"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "len": 127,
+   "first": 2470,
+   "line": "put on the spare Now you have no spare And",
+   "note": "you changing to the spare, the jack, sweat"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 50,
+   "len": 285,
+   "first": 2597,
+   "line": "rubber doesn't exist here The trees it comes from grow in South America and nobody in Rome knows South America exists",
+   "note": "rubber: grows in South America; crossed"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 20,
+   "len": 220,
+   "first": 2882,
+   "line": "So the car is dying Slowly But even dying it's the fastest thing in the world",
+   "note": "the dirty car at dusk, you leaning on it"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 20,
+   "len": 178,
+   "first": 3102,
+   "line": "Rome's fastest messengers changing horses at stations along the road covered about",
+   "note": "a messenger galloping past a road station"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 60,
+   "len": 99,
+   "first": 3280,
+   "line": "eighty kilometers a day That's real",
+   "note": "fact: 80 km a day"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 20,
+   "len": 105,
+   "first": 3379,
+   "line": "Your car does that in under an hour A",
+   "note": "the car blasting down the Roman road"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 60,
+   "len": 173,
+   "first": 3484,
+   "line": "message from the edge of the empire in one day instead of a week An",
+   "note": "the empire map: 1 DAY instead of 7"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 20,
+   "len": 81,
+   "first": 3657,
+   "line": "army that never gets tired And",
+   "note": "a legion marching behind the car, endless"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 20,
+   "len": 146,
+   "first": 3738,
+   "line": "somebody very important is thinking the exact same thing",
+   "note": "night: a figure in the palace, watching"
   }
  ],
  "fx": [],

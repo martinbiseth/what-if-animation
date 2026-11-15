@@ -1,27 +1,401 @@
 {
  "slug": "rome-car/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3571,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 117,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 117,
+   "line": "On the seventh morning you wake up surrounded"
+  },
+  {
+   "shot": "S2",
+   "a": 117,
+   "b": 293,
+   "t0": 0,
+   "t1": 176,
+   "line": "Not by fans By the Praetorian Guard the emperor's own soldiers They"
+  },
+  {
+   "shot": "S3",
+   "a": 293,
+   "b": 442,
+   "t0": 0,
+   "t1": 149,
+   "line": "march you and the car up the Palatine Hill to the palace"
+  },
+  {
+   "shot": "S4",
+   "a": 442,
+   "b": 614,
+   "t0": 0,
+   "t1": 172,
+   "line": "People line the streets Some throw flowers Some throw rocks And"
+  },
+  {
+   "shot": "S5",
+   "a": 614,
+   "b": 821,
+   "t0": 0,
+   "t1": 207,
+   "line": "there in a courtyard of marble and gold stands the emperor Trajan himself He doesn't"
+  },
+  {
+   "shot": "S6",
+   "a": 821,
+   "b": 903,
+   "t0": 0,
+   "t1": 82,
+   "line": "kneel He doesn't scream He"
+  },
+  {
+   "shot": "S7",
+   "a": 903,
+   "b": 1027,
+   "t0": 0,
+   "t1": 124,
+   "line": "walks around the car three times very slowly He"
+  },
+  {
+   "shot": "S8",
+   "a": 1027,
+   "b": 1088,
+   "t0": 0,
+   "t1": 61,
+   "line": "taps the windshield He"
+  },
+  {
+   "shot": "S9",
+   "a": 1088,
+   "b": 1242,
+   "t0": 0,
+   "t1": 154,
+   "line": "stares at himself in the side mirror for a long time Then he"
+  },
+  {
+   "shot": "S10",
+   "a": 1242,
+   "b": 1531,
+   "t0": 0,
+   "t1": 289,
+   "line": "climbs into the driver's seat and grips the wheel For a moment the most powerful man on Earth looks like a kid 'A"
+  },
+  {
+   "shot": "S11",
+   "a": 1531,
+   "b": 1662,
+   "t0": 0,
+   "t1": 131,
+   "line": "chariot that needs no horses,' he says 'Show me.' You"
+  },
+  {
+   "shot": "S12",
+   "a": 1662,
+   "b": 1767,
+   "t0": 0,
+   "t1": 105,
+   "line": "drive one lap of the courtyard He doesn't"
+  },
+  {
+   "shot": "S13",
+   "a": 1767,
+   "b": 1851,
+   "t0": 0,
+   "t1": 84,
+   "line": "smile He's thinking Then he"
+  },
+  {
+   "shot": "S14",
+   "a": 1851,
+   "b": 1998,
+   "t0": 0,
+   "t1": 147,
+   "line": "calls his engineer Apollodorus of Damascus the man who built a"
+  },
+  {
+   "shot": "S15",
+   "a": 1998,
+   "b": 2179,
+   "t0": 0,
+   "t1": 181,
+   "line": "bridge more than a kilometer long across the Danube That's real Apollodorus"
+  },
+  {
+   "shot": "S16",
+   "a": 2179,
+   "b": 2325,
+   "t0": 0,
+   "t1": 146,
+   "line": "opens the hood stares at the engine and starts sketching"
+  },
+  {
+   "shot": "S17",
+   "a": 2325,
+   "b": 2610,
+   "t0": 0,
+   "t1": 285,
+   "line": "After an hour he puts down his pen 'I can copy the shape,' he says 'I cannot copy what is inside.' The emperor"
+  },
+  {
+   "shot": "S18",
+   "a": 2610,
+   "b": 2741,
+   "t0": 0,
+   "t1": 131,
+   "line": "turns to you 'Then you will drive it for me.' He's"
+  },
+  {
+   "shot": "S19",
+   "a": 2741,
+   "b": 3008,
+   "t0": 0,
+   "t1": 267,
+   "line": "preparing a war in the east He wants the car at the front carrying his orders faster than any horse You"
+  },
+  {
+   "shot": "S20",
+   "a": 3008,
+   "b": 3147,
+   "t0": 0,
+   "t1": 139,
+   "line": "try to explain about the fuel He doesn't care 'Your"
+  },
+  {
+   "shot": "S21",
+   "a": 3147,
+   "b": 3306,
+   "t0": 0,
+   "t1": 159,
+   "line": "friend stays here as my guest,' he says 'Until you agree.' That"
+  },
+  {
+   "shot": "S22",
+   "a": 3306,
+   "b": 3482,
+   "t0": 0,
+   "t1": 176,
+   "line": "night you sit in a room full of gold that you can't leave And the"
+  },
+  {
+   "shot": "S23",
+   "a": 3482,
+   "b": 3571,
+   "t0": 0,
+   "t1": 89,
+   "line": "fuel gauge reads one quarter"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "close",
+   "key": 20,
+   "len": 117,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "On the seventh morning you wake up surrounded",
+   "note": "you wake up in the car seat at dawn"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 20,
+   "len": 176,
+   "first": 117,
+   "line": "Not by fans By the Praetorian Guard the emperor's own soldiers They",
+   "note": "Praetorian guards round the car, spears in"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 20,
+   "len": 149,
+   "first": 293,
+   "line": "march you and the car up the Palatine Hill to the palace",
+   "note": "the procession: guards marching the car through the streets"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 20,
+   "len": 172,
+   "first": 442,
+   "line": "People line the streets Some throw flowers Some throw rocks And",
+   "note": "the crowd throws flowers and rocks"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 20,
+   "len": 207,
+   "first": 614,
+   "line": "there in a courtyard of marble and gold stands the emperor Trajan himself He doesn't",
+   "note": "the courtyard: the emperor waiting"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 82,
+   "first": 821,
+   "line": "kneel He doesn't scream He",
+   "note": "the emperor, unreadable"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 20,
+   "len": 124,
+   "first": 903,
+   "line": "walks around the car three times very slowly He",
+   "note": "he walks slowly round the car"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 20,
+   "len": 61,
+   "first": 1027,
+   "line": "taps the windshield He",
+   "note": "his finger taps the windscreen"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 20,
+   "len": 154,
+   "first": 1088,
+   "line": "stares at himself in the side mirror for a long time Then he",
+   "note": "the emperor's face in the side mirror"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 20,
+   "len": 289,
+   "first": 1242,
+   "line": "climbs into the driver's seat and grips the wheel For a moment the most powerful man on Earth looks like a kid 'A",
+   "note": "the emperor at the wheel, delighted like a kid"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 20,
+   "len": 131,
+   "first": 1531,
+   "line": "chariot that needs no horses,' he says 'Show me.' You",
+   "note": "\"A chariot that needs no horses. Show me.\""
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 105,
+   "first": 1662,
+   "line": "drive one lap of the courtyard He doesn't",
+   "note": "you drive a lap of the courtyard, he watches"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 20,
+   "len": 84,
+   "first": 1767,
+   "line": "smile He's thinking Then he",
+   "note": "the emperor, thinking"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 20,
+   "len": 147,
+   "first": 1851,
+   "line": "calls his engineer Apollodorus of Damascus the man who built a",
+   "note": "Apollodorus the engineer strides in"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 60,
+   "len": 181,
+   "first": 1998,
+   "line": "bridge more than a kilometer long across the Danube That's real Apollodorus",
+   "note": "Trajan's Bridge over the Danube: 1,135 m"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "len": 146,
+   "first": 2179,
+   "line": "opens the hood stares at the engine and starts sketching",
+   "note": "the engineer at the open bonnet, sketching"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "key": 20,
+   "len": 285,
+   "first": 2325,
+   "line": "After an hour he puts down his pen 'I can copy the shape,' he says 'I cannot copy what is inside.' The emperor",
+   "note": "\"I can copy the shape. I cannot copy what is inside.\""
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 20,
+   "len": 131,
+   "first": 2610,
+   "line": "turns to you 'Then you will drive it for me.' He's",
+   "note": "the emperor to you: \"Then you will drive it for me.\""
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 50,
+   "len": 267,
+   "first": 2741,
+   "line": "preparing a war in the east He wants the car at the front carrying his orders faster than any horse You",
+   "note": "the empire map: arrows to the east"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 20,
+   "len": 139,
+   "first": 3008,
+   "line": "try to explain about the fuel He doesn't care 'Your",
+   "note": "you explain the fuel; he turns away"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 20,
+   "len": 159,
+   "first": 3147,
+   "line": "friend stays here as my guest,' he says 'Until you agree.' That",
+   "note": "guards take Mo by the arms"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 20,
+   "len": 176,
+   "first": 3306,
+   "line": "night you sit in a room full of gold that you can't leave And the",
+   "note": "you alone in the gold room"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 40,
+   "len": 89,
+   "first": 3482,
+   "line": "fuel gauge reads one quarter",
+   "note": "the gauge: one quarter"
   }
  ],
  "fx": [],

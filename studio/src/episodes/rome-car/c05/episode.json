@@ -51,18 +51,259 @@
  "shots": [
   {
    "id": "S1",
+   "size": "close",
+   "set": "country",
+   "key": 20,
+   "note": "you wake up in the car seat at dawn"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "country",
+   "key": 20,
+   "note": "Praetorian guards round the car, spears in"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "forum",
+   "key": 20,
+   "note": "the procession: guards marching the car through the streets"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "forum",
+   "key": 20,
+   "note": "the crowd throws flowers and rocks"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "palace",
+   "key": 20,
+   "note": "the courtyard: the emperor waiting"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "the emperor, unreadable"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "palace",
+   "key": 20,
+   "note": "he walks slowly round the car"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "his finger taps the windscreen"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "the emperor's face in the side mirror"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "palace",
+   "key": 20,
+   "note": "the emperor at the wheel, delighted like a kid"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "\"A chariot that needs no horses. Show me.\""
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "palace",
+   "key": 20,
+   "note": "you drive a lap of the courtyard, he watches"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "the emperor, thinking"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "palace",
+   "key": 20,
+   "note": "Apollodorus the engineer strides in"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "Trajan's Bridge over the Danube: 1,135 m"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "palace",
+   "key": 20,
+   "note": "the engineer at the open bonnet, sketching"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "set": "palace",
+   "key": 20,
+   "note": "\"I can copy the shape. I cannot copy what is inside.\""
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "palace",
+   "key": 20,
+   "note": "the emperor to you: \"Then you will drive it for me.\""
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "schematic",
+   "key": 50,
+   "note": "the empire map: arrows to the east"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "palace",
+   "key": 20,
+   "note": "you explain the fuel; he turns away"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "palace",
+   "key": 20,
+   "note": "guards take Mo by the arms"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "goldroom",
+   "key": 20,
+   "note": "you alone in the gold room"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "car",
+   "key": 40,
+   "note": "the gauge: one quarter"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Not"
+  },
+  {
+   "shot": "S3",
+   "at": "march"
+  },
+  {
+   "shot": "S4",
+   "at": "People"
+  },
+  {
+   "shot": "S5",
+   "at": "there"
+  },
+  {
+   "shot": "S6",
+   "at": "kneel"
+  },
+  {
+   "shot": "S7",
+   "at": "walks"
+  },
+  {
+   "shot": "S8",
+   "at": "taps"
+  },
+  {
+   "shot": "S9",
+   "at": "stares"
+  },
+  {
+   "shot": "S10",
+   "at": "climbs"
+  },
+  {
+   "shot": "S11",
+   "at": "chariot"
+  },
+  {
+   "shot": "S12",
+   "at": "drive"
+  },
+  {
+   "shot": "S13",
+   "at": "smile"
+  },
+  {
+   "shot": "S14",
+   "at": "calls"
+  },
+  {
+   "shot": "S15",
+   "at": "bridge"
+  },
+  {
+   "shot": "S16",
+   "at": "opens"
+  },
+  {
+   "shot": "S17",
+   "at": "After"
+  },
+  {
+   "shot": "S18",
+   "at": "turns"
+  },
+  {
+   "shot": "S19",
+   "at": "preparing"
+  },
+  {
+   "shot": "S20",
+   "at": "try"
+  },
+  {
+   "shot": "S21",
+   "at": "friend"
+  },
+  {
+   "shot": "S22",
+   "at": "night"
+  },
+  {
+   "shot": "S23",
+   "at": "fuel"
   }
  ],
- "end": "f:90",
  "fx": []
 }
