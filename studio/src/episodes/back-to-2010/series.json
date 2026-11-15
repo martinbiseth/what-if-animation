@@ -67,22 +67,39 @@
   }
  ],
  "youtube": {
-  "title": "What if you went back to 2010 with $100?",
+  "title": "What If You Went Back to 2010 With $100?",
   "tags": [
    "what if",
-   "animation",
-   "science"
+   "what if animation",
+   "back to 2010",
+   "what if you went back in time",
+   "time travel",
+   "bitcoin",
+   "bitcoin 2010",
+   "bitcoin pizza",
+   "bitcoin pizza day",
+   "mt gox",
+   "lost bitcoin",
+   "james howells",
+   "crypto",
+   "investing",
+   "get rich",
+   "what would happen if",
+   "animated story",
+   "alternate reality",
+   "cliffhanger",
+   "2010"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "You wake up in May 2010 with every memory of the next sixteen years and one crumpled $100 bill. You buy ten thousand bitcoins, the same pile someone just spent on two pizzas. Then come the hacks, the crashes, a man in a grey suit who knows far too much, and a choice that could cost your family their home.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "BackTo2010Thumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have taken the $50,000 from the man in the grey suit? 👇\n\nAnd who sent \"We kept a copy too\"? Best theory gets pinned before Part 2.\n\nThe real parts check out: 10,000 bitcoins for two pizzas (22 May 2010), the one-cent crash on Mt. Gox (June 2011), 850,000 coins missing when Mt. Gox collapsed (2014), and 8,000 bitcoins on a hard drive in a Welsh landfill. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2: who is at the door?"
  }
 }
