@@ -438,7 +438,7 @@ export const thingCard = (o: { day: number; thing: Thing; label: string; sub?: s
 // ---------------------------------------------------------------- shot helpers
 /** You (or anyone) lifting something overhead with one or two hands on a set, the thing drawn by `thing(hand, t)`. */
 export const liftShot = (o: {
-  Set: SetC; setT?: number; who?: Look; x: number; y: number; scale?: number; yaw?: number; faces?: [number, Expr][];
+  Set: SetC; setT?: number; who?: Look; x: number | ((t: number) => number); y: number; scale?: number; yaw?: number; faces?: [number, Expr][];
   lift: (t: number) => number; // 0 on the ground .. 1 overhead
   two?: boolean; thing: (hand: { x: number; y: number }, t: number) => React.ReactNode; behind?: boolean;
   cam: [number, number, number, number?, number?, number?]; others?: (t: number) => React.ReactNode; front?: (t: number) => React.ReactNode;
@@ -448,7 +448,7 @@ export const liftShot = (o: {
     const face = faceAt(t, o.faces ?? [[0, 'smug']]);
     const sc = o.scale ?? 1;
     const pose: Pose = {
-      ...basePose, x: o.x, y: o.y, scale: sc, yaw: o.yaw ?? 0, expr: face.expr, blink: Math.max(face.blink, idleBlink(t, 5)),
+      ...basePose, x: typeof o.x === 'function' ? o.x(t) : o.x, y: o.y, scale: sc, yaw: o.yaw ?? 0, expr: face.expr, blink: Math.max(face.blink, idleBlink(t, 5)),
       armR: { a: lerp(30, 172, p), b: lerp(-60, 0, p) }, armL: o.two ? { a: lerp(30, 172, p), b: lerp(-60, 0, p) } : { a: 18, b: -20 },
       squash: p > 0.05 && p < 0.4 ? 0.05 : 0, look: -0.2,
     };

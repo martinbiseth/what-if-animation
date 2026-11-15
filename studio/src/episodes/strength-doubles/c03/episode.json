@@ -45,18 +45,276 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 3 card, day 3"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
    "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "gym: you lift the bar"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 20,
+   "note": "the bar with the teacher on it"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "note": "the class stares"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 60,
+   "note": "lunch: Mo's bet"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "note": "five hands on yours"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 20,
+   "note": "you win, sandwich in hand"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 20,
+   "note": "Mo sells tickets"
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "key": 60,
+   "note": "day five: Mum asks about the sofa"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 14,
+   "note": "you lift the sofa"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 12,
+   "note": "and the piano"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 16,
+   "note": "and the fridge, Mum on the door"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "note": "day six: car boxed in by a van"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "note": "you carry the van across the road"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 20,
+   "note": "neatly"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 20,
+   "note": "Dad at the window"
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "key": 50,
+   "note": "Mo films: again, slower"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 20,
+   "note": "two million views"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 100,
+   "note": "comments: fake, CGI, wires"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 60,
+   "note": "day seven: storm, tree, bus"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "note": "you lift the trunk into the ditch"
+  },
+  {
+   "id": "S22",
+   "size": "two-shot",
+   "key": 40,
+   "note": "bus driver shakes your hand carefully"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 50,
+   "note": "day eight: Mo the manager"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 30,
+   "note": "sister and the trampoline"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "key": 40,
+   "note": "trampoline overhead with her on it"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 60,
+   "note": "dusk: the strongest person ever"
+  },
+  {
+   "id": "S27",
+   "size": "insert",
+   "key": 80,
+   "note": "your hand: cracks spreading"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Gym"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S4",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S5",
+   "at": "Day"
+  },
+  {
+   "shot": "S6",
+   "at": "Five"
+  },
+  {
+   "shot": "S7",
+   "at": "You"
+  },
+  {
+   "shot": "S8",
+   "at": "Mo"
+  },
+  {
+   "shot": "S9",
+   "at": "Day"
+  },
+  {
+   "shot": "S10",
+   "at": "move#2"
+  },
+  {
+   "shot": "S11",
+   "at": "And"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "Day"
+  },
+  {
+   "shot": "S14",
+   "at": "So"
+  },
+  {
+   "shot": "S15",
+   "at": "Neatly"
+  },
+  {
+   "shot": "S16",
+   "at": "Dad"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "By"
+  },
+  {
+   "shot": "S19",
+   "at": "comments"
+  },
+  {
+   "shot": "S20",
+   "at": "So"
+  },
+  {
+   "shot": "S21",
+   "at": "walk"
+  },
+  {
+   "shot": "S22",
+   "at": "driver"
+  },
+  {
+   "shot": "S23",
+   "at": "Day"
+  },
+  {
+   "shot": "S24",
+   "at": "little"
+  },
+  {
+   "shot": "S25",
+   "at": "So"
+  },
+  {
+   "shot": "S26",
+   "at": "Honestly"
+  },
+  {
+   "shot": "S27",
+   "at": "But"
   }
  ],
- "end": "f:90",
  "fx": []
 }

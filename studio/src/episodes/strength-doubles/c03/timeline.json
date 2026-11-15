@@ -1,29 +1,473 @@
 {
  "slug": "strength-doubles/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2989,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 69,
+   "t0": 0,
+   "t1": 69,
+   "line": "Day three. Four hundred kilos."
+  },
+  {
+   "shot": "S2",
+   "a": 69,
+   "b": 191,
+   "t0": 0,
+   "t1": 122,
+   "line": "Gym class. The teacher sets up the bench press, and you lift the bar."
+  },
+  {
+   "shot": "S3",
+   "a": 191,
+   "b": 267,
+   "t0": 0,
+   "t1": 76,
+   "line": "Then you lift the bar with the teacher sitting on it."
+  },
+  {
+   "shot": "S4",
+   "a": 267,
+   "b": 349,
+   "t0": 0,
+   "t1": 82,
+   "line": "Nobody claps. Everyone just stares."
+  },
+  {
+   "shot": "S5",
+   "a": 349,
+   "b": 536,
+   "t0": 0,
+   "t1": 187,
+   "line": "Day four. Lunch. Mo bets you can't arm wrestle the whole rugby team. At the same time."
+  },
+  {
+   "shot": "S6",
+   "a": 536,
+   "b": 581,
+   "t0": 0,
+   "t1": 45,
+   "line": "Five hands on yours."
+  },
+  {
+   "shot": "S7",
+   "a": 581,
+   "b": 648,
+   "t0": 0,
+   "t1": 67,
+   "line": "You win without putting down your sandwich."
+  },
+  {
+   "shot": "S8",
+   "a": 648,
+   "b": 714,
+   "t0": 0,
+   "t1": 66,
+   "line": "Mo starts selling tickets for tomorrow."
+  },
+  {
+   "shot": "S9",
+   "a": 714,
+   "b": 891,
+   "t0": 0,
+   "t1": 177,
+   "line": "Day five. One point six tonnes. Mum asks you to move the sofa so she can vacuum. You"
+  },
+  {
+   "shot": "S10",
+   "a": 891,
+   "b": 925,
+   "t0": 0,
+   "t1": 34,
+   "line": "move the sofa."
+  },
+  {
+   "shot": "S11",
+   "a": 925,
+   "b": 959,
+   "t0": 0,
+   "t1": 34,
+   "line": "And the piano."
+  },
+  {
+   "shot": "S12",
+   "a": 959,
+   "b": 1051,
+   "t0": 0,
+   "t1": 92,
+   "line": "And the fridge, while she's still holding the fridge door."
+  },
+  {
+   "shot": "S13",
+   "a": 1051,
+   "b": 1209,
+   "t0": 0,
+   "t1": 158,
+   "line": "Day six. Three point two tonnes. Dad's car is boxed in by a delivery van."
+  },
+  {
+   "shot": "S14",
+   "a": 1209,
+   "b": 1316,
+   "t0": 0,
+   "t1": 107,
+   "line": "So you pick up the van, carry it across the road, and put it down."
+  },
+  {
+   "shot": "S15",
+   "a": 1316,
+   "b": 1341,
+   "t0": 0,
+   "t1": 25,
+   "line": "Neatly."
+  },
+  {
+   "shot": "S16",
+   "a": 1341,
+   "b": 1438,
+   "t0": 0,
+   "t1": 97,
+   "line": "Dad watches from the window, mug halfway to his mouth."
+  },
+  {
+   "shot": "S17",
+   "a": 1438,
+   "b": 1578,
+   "t0": 0,
+   "t1": 140,
+   "line": "And Mo films everything. 'Again. Slower. For the video. '"
+  },
+  {
+   "shot": "S18",
+   "a": 1578,
+   "b": 1668,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "By the next morning, the video has two million views. The"
+  },
+  {
+   "shot": "S19",
+   "a": 1668,
+   "b": 1797,
+   "t0": 0,
+   "t1": 129,
+   "line": "comments say: Fake. CGI. Bro is on wires."
+  },
+  {
+   "shot": "S20",
+   "a": 1797,
+   "b": 2035,
+   "t0": 0,
+   "t1": 238,
+   "line": "So on day seven, you prove it. A storm knocks a huge tree across the road, right in front of a bus full of people. Nobody can move it. You"
+  },
+  {
+   "shot": "S21",
+   "a": 2035,
+   "b": 2134,
+   "t0": 0,
+   "t1": 99,
+   "line": "walk up, lift the trunk, and roll it into the ditch. The bus"
+  },
+  {
+   "shot": "S22",
+   "a": 2134,
+   "b": 2229,
+   "t0": 0,
+   "t1": 95,
+   "line": "driver gets out and shakes your hand. Very carefully."
+  },
+  {
+   "shot": "S23",
+   "a": 2229,
+   "b": 2399,
+   "t0": 0,
+   "t1": 170,
+   "line": "Day eight. Mo makes you a website. He's your manager now. Fifteen percent. Your"
+  },
+  {
+   "shot": "S24",
+   "a": 2399,
+   "b": 2469,
+   "t0": 0,
+   "t1": 70,
+   "line": "little sister wants a ride on the trampoline."
+  },
+  {
+   "shot": "S25",
+   "a": 2469,
+   "b": 2637,
+   "t0": 0,
+   "t1": 168,
+   "line": "So you lift the whole trampoline above your head, with her on it, and she laughs so hard she can't breathe."
+  },
+  {
+   "shot": "S26",
+   "a": 2637,
+   "b": 2819,
+   "t0": 0,
+   "t1": 182,
+   "line": "Honestly? Best week of your life. You're the strongest person who has ever lived. And you're still doubling."
+  },
+  {
+   "shot": "S27",
+   "a": 2819,
+   "b": 2989,
+   "t0": 0,
+   "t1": 170,
+   "line": "But that's not the weird part. The weird part is what starts happening to everything you touch."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 69,
+   "first": 0,
+   "line": "Day three. Four hundred kilos.",
+   "note": "chapter 3 card, day 3"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
+   "len": 122,
+   "first": 69,
+   "line": "Gym class. The teacher sets up the bench press, and you lift the bar.",
+   "note": "gym: you lift the bar"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 20,
+   "len": 76,
+   "first": 191,
+   "line": "Then you lift the bar with the teacher sitting on it.",
+   "note": "the bar with the teacher on it"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "len": 82,
+   "first": 267,
+   "line": "Nobody claps. Everyone just stares.",
+   "note": "the class stares"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 60,
+   "len": 187,
+   "first": 349,
+   "line": "Day four. Lunch. Mo bets you can't arm wrestle the whole rugby team. At the same time.",
+   "note": "lunch: Mo's bet"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 20,
+   "len": 45,
+   "first": 536,
+   "line": "Five hands on yours.",
+   "note": "five hands on yours"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 20,
+   "len": 67,
+   "first": 581,
+   "line": "You win without putting down your sandwich.",
+   "note": "you win, sandwich in hand"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 20,
+   "len": 66,
+   "first": 648,
+   "line": "Mo starts selling tickets for tomorrow.",
+   "note": "Mo sells tickets"
+  },
+  {
+   "id": "S9",
+   "size": "two-shot",
+   "key": 60,
+   "len": 177,
+   "first": 714,
+   "line": "Day five. One point six tonnes. Mum asks you to move the sofa so she can vacuum. You",
+   "note": "day five: Mum asks about the sofa"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 14,
+   "len": 34,
+   "first": 891,
+   "line": "move the sofa.",
+   "note": "you lift the sofa"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 12,
+   "len": 34,
+   "first": 925,
+   "line": "And the piano.",
+   "note": "and the piano"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 16,
+   "len": 92,
+   "first": 959,
+   "line": "And the fridge, while she's still holding the fridge door.",
+   "note": "and the fridge, Mum on the door"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 158,
+   "first": 1051,
+   "line": "Day six. Three point two tonnes. Dad's car is boxed in by a delivery van.",
+   "note": "day six: car boxed in by a van"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 107,
+   "first": 1209,
+   "line": "So you pick up the van, carry it across the road, and put it down.",
+   "note": "you carry the van across the road"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 20,
+   "len": 25,
+   "first": 1316,
+   "line": "Neatly.",
+   "note": "neatly"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 20,
+   "len": 97,
+   "first": 1341,
+   "line": "Dad watches from the window, mug halfway to his mouth.",
+   "note": "Dad at the window"
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "key": 50,
+   "len": 140,
+   "first": 1438,
+   "line": "And Mo films everything. 'Again. Slower. For the video. '",
+   "note": "Mo films: again, slower"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 20,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "first": 1578,
+   "line": "By the next morning, the video has two million views. The",
+   "note": "two million views"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 100,
+   "len": 129,
+   "first": 1668,
+   "line": "comments say: Fake. CGI. Bro is on wires.",
+   "note": "comments: fake, CGI, wires"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 60,
+   "len": 238,
+   "first": 1797,
+   "line": "So on day seven, you prove it. A storm knocks a huge tree across the road, right in front of a bus full of people. Nobody can move it. You",
+   "note": "day seven: storm, tree, bus"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 99,
+   "first": 2035,
+   "line": "walk up, lift the trunk, and roll it into the ditch. The bus",
+   "note": "you lift the trunk into the ditch"
+  },
+  {
+   "id": "S22",
+   "size": "two-shot",
+   "key": 40,
+   "len": 95,
+   "first": 2134,
+   "line": "driver gets out and shakes your hand. Very carefully.",
+   "note": "bus driver shakes your hand carefully"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 50,
+   "len": 170,
+   "first": 2229,
+   "line": "Day eight. Mo makes you a website. He's your manager now. Fifteen percent. Your",
+   "note": "day eight: Mo the manager"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 30,
+   "len": 70,
+   "first": 2399,
+   "line": "little sister wants a ride on the trampoline.",
+   "note": "sister and the trampoline"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "key": 40,
+   "len": 168,
+   "first": 2469,
+   "line": "So you lift the whole trampoline above your head, with her on it, and she laughs so hard she can't breathe.",
+   "note": "trampoline overhead with her on it"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 60,
+   "len": 182,
+   "first": 2637,
+   "line": "Honestly? Best week of your life. You're the strongest person who has ever lived. And you're still doubling.",
+   "note": "dusk: the strongest person ever"
+  },
+  {
+   "id": "S27",
+   "size": "insert",
+   "key": 80,
+   "len": 170,
+   "first": 2819,
+   "line": "But that's not the weird part. The weird part is what starts happening to everything you touch.",
+   "note": "your hand: cracks spreading"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c03/voice.wav"
+ }
 }
