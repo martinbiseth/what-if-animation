@@ -1,7 +1,7 @@
 {
  "id": "BankBalanceC07",
  "slug": "bank-balance/c07",
- "chapter": "Minus one million",
+ "chapter": "The window",
  "topic": "What if you could see everyone's bank balance?",
  "script": [
   {
@@ -29,18 +29,177 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter 7",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "Mum crying at her phone",
+   "key": 60
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "the red is gone: green",
+   "key": 110
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "some mistake",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "you promised",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "note": "Ellie runs laps",
+   "key": 80
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "the window at night",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "note": "she points: at you",
+   "key": 140
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "note": "why is yours red?",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "never seen your own",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "note": "she reads it out",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "note": "minus one million",
+   "key": 50
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "what did you sign?",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "part 2",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "note": "is any of this real?",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "the real parts",
+   "key": 150
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "note": "would you sign?",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "your"
+  },
+  {
+   "shot": "S3",
+   "at": "Above"
+  },
+  {
+   "shot": "S4",
+   "at": "There"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S7",
+   "at": "That"
+  },
+  {
+   "shot": "S8",
+   "at": "She"
+  },
+  {
+   "shot": "S9",
+   "at": "Why"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "But"
+  },
+  {
+   "shot": "S12",
+   "at": "Minus"
+  },
+  {
+   "shot": "S13",
+   "at": "So"
+  },
+  {
+   "shot": "S14",
+   "at": "That's"
+  },
+  {
+   "shot": "S15",
+   "at": "Is"
+  },
+  {
+   "shot": "S16",
+   "at": "But"
+  },
+  {
+   "shot": "S17",
+   "at": "So"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 2.0
 }

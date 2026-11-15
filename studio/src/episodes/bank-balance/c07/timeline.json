@@ -1,29 +1,303 @@
 {
  "slug": "bank-balance/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1895,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 25,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 25,
+   "line": "When you get home,"
+  },
+  {
+   "shot": "S2",
+   "a": 25,
+   "b": 128,
+   "t0": 0,
+   "t1": 103,
+   "line": "your mum is sitting at the kitchen table, staring at her phone and crying."
+  },
+  {
+   "shot": "S3",
+   "a": 128,
+   "b": 308,
+   "t0": 0,
+   "t1": 180,
+   "line": "Above her head, the red is gone. Nine hundred and ninety- three thousand, seven hundred and sixty dollars. Green."
+  },
+  {
+   "shot": "S4",
+   "a": 308,
+   "b": 382,
+   "t0": 0,
+   "t1": 74,
+   "line": "'There must be some mistake, ' she says."
+  },
+  {
+   "shot": "S5",
+   "a": 382,
+   "b": 448,
+   "t0": 0,
+   "t1": 66,
+   "line": "You don't say anything. You promised."
+  },
+  {
+   "shot": "S6",
+   "a": 448,
+   "b": 669,
+   "t0": 0,
+   "t1": 221,
+   "line": "Ellie runs laps around the kitchen. Mum says they can fix the boiler, and pay for the trip, and maybe even go somewhere warm this summer."
+  },
+  {
+   "shot": "S7",
+   "a": 669,
+   "b": 788,
+   "t0": 0,
+   "t1": 119,
+   "line": "That night, Ellie can't sleep, so you take her to the window to look at the street."
+  },
+  {
+   "shot": "S8",
+   "a": 788,
+   "b": 981,
+   "t0": 0,
+   "t1": 193,
+   "line": "She goes very quiet. Then she points. Not at the street. At you. At the space above your head."
+  },
+  {
+   "shot": "S9",
+   "a": 981,
+   "b": 1026,
+   "t0": 0,
+   "t1": 45,
+   "line": "'Why is yours red? '"
+  },
+  {
+   "shot": "S10",
+   "a": 1026,
+   "b": 1108,
+   "t0": 0,
+   "t1": 82,
+   "line": "You have never seen your own number. You never could."
+  },
+  {
+   "shot": "S11",
+   "a": 1108,
+   "b": 1223,
+   "t0": 0,
+   "t1": 115,
+   "line": "But Ellie is staring right at it, and she reads it out, slowly."
+  },
+  {
+   "shot": "S12",
+   "a": 1223,
+   "b": 1284,
+   "t0": 0,
+   "t1": 61,
+   "line": "'Minus one million dollars. '"
+  },
+  {
+   "shot": "S13",
+   "a": 1284,
+   "b": 1392,
+   "t0": 0,
+   "t1": 108,
+   "line": "So what did you really sign? And how can Ellie see it?"
+  },
+  {
+   "shot": "S14",
+   "a": 1392,
+   "b": 1429,
+   "t0": 0,
+   "t1": 37,
+   "line": "That's for part two."
+  },
+  {
+   "shot": "S15",
+   "a": 1429,
+   "b": 1509,
+   "t0": 0,
+   "t1": 80,
+   "line": "Is any of this real? The numbers, no."
+  },
+  {
+   "shot": "S16",
+   "a": 1509,
+   "b": 1741,
+   "t0": 0,
+   "t1": 232,
+   "line": "But four in ten Americans really can't cover a four hundred dollar surprise, and scammers really took more than ten billion dollars in a single year."
+  },
+  {
+   "shot": "S17",
+   "a": 1741,
+   "b": 1895,
+   "t0": 0,
+   "t1": 154,
+   "line": "So, would you have signed the paper? Tell me in the comments."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 25,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "When you get home,",
+   "note": "chapter 7"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 60,
+   "len": 103,
+   "first": 25,
+   "line": "your mum is sitting at the kitchen table, staring at her phone and crying.",
+   "note": "Mum crying at her phone"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 110,
+   "len": 180,
+   "first": 128,
+   "line": "Above her head, the red is gone. Nine hundred and ninety- three thousand, seven hundred and sixty dollars. Green.",
+   "note": "the red is gone: green"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 30,
+   "len": 74,
+   "first": 308,
+   "line": "'There must be some mistake, ' she says.",
+   "note": "some mistake"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 40,
+   "len": 66,
+   "first": 382,
+   "line": "You don't say anything. You promised.",
+   "note": "you promised"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 80,
+   "len": 221,
+   "first": 448,
+   "line": "Ellie runs laps around the kitchen. Mum says they can fix the boiler, and pay for the trip, and maybe even go somewhere warm this summer.",
+   "note": "Ellie runs laps"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 60,
+   "len": 119,
+   "first": 669,
+   "line": "That night, Ellie can't sleep, so you take her to the window to look at the street.",
+   "note": "the window at night"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "key": 140,
+   "len": 193,
+   "first": 788,
+   "line": "She goes very quiet. Then she points. Not at the street. At you. At the space above your head.",
+   "note": "she points: at you"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 20,
+   "len": 45,
+   "first": 981,
+   "line": "'Why is yours red? '",
+   "note": "why is yours red?"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 40,
+   "len": 82,
+   "first": 1026,
+   "line": "You have never seen your own number. You never could.",
+   "note": "never seen your own"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 60,
+   "len": 115,
+   "first": 1108,
+   "line": "But Ellie is staring right at it, and she reads it out, slowly.",
+   "note": "she reads it out"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 50,
+   "len": 61,
+   "first": 1223,
+   "line": "'Minus one million dollars. '",
+   "note": "minus one million"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 30,
+   "len": 108,
+   "first": 1284,
+   "line": "So what did you really sign? And how can Ellie see it?",
+   "note": "what did you sign?"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 20,
+   "len": 37,
+   "first": 1392,
+   "line": "That's for part two.",
+   "note": "part 2"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 30,
+   "len": 80,
+   "first": 1429,
+   "line": "Is any of this real? The numbers, no.",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 150,
+   "len": 232,
+   "first": 1509,
+   "line": "But four in ten Americans really can't cover a four hundred dollar surprise, and scammers really took more than ten billion dollars in a single year.",
+   "note": "the real parts"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 60,
+   "len": 154,
+   "first": 1741,
+   "line": "So, would you have signed the paper? Tell me in the comments.",
+   "note": "would you sign?"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c07/voice.wav"
+ }
 }
