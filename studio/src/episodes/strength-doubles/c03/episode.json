@@ -1,320 +1,510 @@
 {
- "id": "StrengthDoublesC03",
- "slug": "strength-doubles/c03",
- "chapter": "The best week ever",
- "topic": "What if your strength doubled every day?",
- "script": [
-  {
-   "beat": "PE",
-   "text": "Day three. Four hundred kilos. Gym class. The teacher sets up the bench press, and you lift the bar. Then you lift the bar with the teacher sitting on it. Nobody claps. Everyone just stares."
-  },
-  {
-   "beat": "arm wrestling",
-   "text": "Day four. Lunch. Mo bets you can't arm wrestle the whole rugby team. At the same time. Five hands on yours. You win without putting down your sandwich. Mo starts selling tickets for tomorrow."
-  },
-  {
-   "beat": "the sofa",
-   "text": "Day five. One point six tonnes. Mum asks you to move the sofa so she can vacuum. You move the sofa. And the piano. And the fridge, while she's still holding the fridge door."
-  },
-  {
-   "beat": "the van",
-   "text": "Day six. Three point two tonnes. Dad's car is boxed in by a delivery van. So you pick up the van, carry it across the road, and put it down. Neatly. Dad watches from the window, mug halfway to his mouth."
-  },
-  {
-   "beat": "the video",
-   "text": "And Mo films everything. 'Again. Slower. For the video.' By the next morning, the video has two million views. The comments say: Fake. CGI. Bro is on wires."
-  },
-  {
-   "beat": "the tree",
-   "text": "So on day seven, you prove it. A storm knocks a huge tree across the road, right in front of a bus full of people. Nobody can move it. You walk up, lift the trunk, and roll it into the ditch. The bus driver gets out and shakes your hand. Very carefully."
-  },
-  {
-   "beat": "the manager",
-   "text": "Day eight. Mo makes you a website. He's your manager now. Fifteen percent."
-  },
-  {
-   "beat": "the trampoline",
-   "text": "Your little sister wants a ride on the trampoline. So you lift the whole trampoline above your head, with her on it, and she laughs so hard she can't breathe."
-  },
-  {
-   "beat": "turn",
-   "text": "Honestly? Best week of your life. You're the strongest person who has ever lived. And you're still doubling. But that's not the weird part. The weird part is what starts happening to everything you touch."
+  "id": "StrengthDoublesC03",
+  "slug": "strength-doubles/c03",
+  "chapter": "The best week ever",
+  "topic": "What if your strength doubled every day?",
+  "script": [
+    {
+      "beat": "PE",
+      "text": "Day three. Four hundred kilos. Gym class. The teacher sets up the bench press, and you lift the bar. Then you lift the bar with the teacher sitting on it. Nobody claps. Everyone just stares."
+    },
+    {
+      "beat": "arm wrestling",
+      "text": "Day four. Lunch. Mo bets you can't arm wrestle the whole rugby team. At the same time. Five hands on yours. You win without putting down your sandwich. Mo starts selling tickets for tomorrow."
+    },
+    {
+      "beat": "the sofa",
+      "text": "Day five. One point six tonnes. Mum asks you to move the sofa so she can vacuum. You move the sofa. And the piano. And the fridge, while she's still holding the fridge door."
+    },
+    {
+      "beat": "the van",
+      "text": "Day six. Three point two tonnes. Dad's car is boxed in by a delivery van. So you pick up the van, carry it across the road, and put it down. Neatly. Dad watches from the window, mug halfway to his mouth."
+    },
+    {
+      "beat": "the video",
+      "text": "And Mo films everything. 'Again. Slower. For the video.' By the next morning, the video has two million views. The comments say: Fake. CGI. Bro is on wires."
+    },
+    {
+      "beat": "the tree",
+      "text": "So on day seven, you prove it. A storm knocks a huge tree across the road, right in front of a bus full of people. Nobody can move it. You walk up, lift the trunk, and roll it into the ditch. The bus driver gets out and shakes your hand. Very carefully."
+    },
+    {
+      "beat": "the manager",
+      "text": "Day eight. Mo makes you a website. He's your manager now. Fifteen percent."
+    },
+    {
+      "beat": "the trampoline",
+      "text": "Your little sister wants a ride on the trampoline. So you lift the whole trampoline above your head, with her on it, and she laughs so hard she can't breathe."
+    },
+    {
+      "beat": "turn",
+      "text": "Honestly? Best week of your life. You're the strongest person who has ever lived. And you're still doubling. But that's not the weird part. The weird part is what starts happening to everything you touch."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 3 card, day 3"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 30,
+      "note": "gym: you lift the bar"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "key": 20,
+      "note": "the bar with the teacher on it"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 20,
+      "note": "the class stares"
+    },
+    {
+      "id": "S5",
+      "size": "two-shot",
+      "key": 60,
+      "note": "lunch: Mo's bet"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 20,
+      "note": "five hands on yours"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 20,
+      "note": "you win, sandwich in hand"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 20,
+      "note": "Mo sells tickets"
+    },
+    {
+      "id": "S9",
+      "size": "two-shot",
+      "key": 60,
+      "note": "day five: Mum asks about the sofa"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 14,
+      "note": "you lift the sofa"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 12,
+      "note": "and the piano"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "key": 16,
+      "note": "and the fridge, Mum on the door"
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "key": 40,
+      "note": "day six: car boxed in by a van"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 50,
+      "note": "you carry the van across the road"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 20,
+      "note": "neatly"
+    },
+    {
+      "id": "S16",
+      "size": "close",
+      "key": 20,
+      "note": "Dad at the window"
+    },
+    {
+      "id": "S17",
+      "size": "two-shot",
+      "key": 50,
+      "note": "Mo films: again, slower"
+    },
+    {
+      "id": "S18",
+      "size": "card",
+      "key": 20,
+      "note": "two million views"
+    },
+    {
+      "id": "S19",
+      "size": "card",
+      "key": 100,
+      "note": "comments: fake, CGI, wires"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "key": 60,
+      "note": "day seven: storm, tree, bus"
+    },
+    {
+      "id": "S21",
+      "size": "wide",
+      "key": 40,
+      "note": "you lift the trunk into the ditch"
+    },
+    {
+      "id": "S22",
+      "size": "two-shot",
+      "key": 40,
+      "note": "bus driver shakes your hand carefully"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 50,
+      "note": "day eight: Mo the manager"
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "key": 30,
+      "note": "sister and the trampoline"
+    },
+    {
+      "id": "S25",
+      "size": "wide",
+      "key": 40,
+      "note": "trampoline overhead with her on it"
+    },
+    {
+      "id": "S26",
+      "size": "wide",
+      "key": 60,
+      "note": "dusk: the strongest person ever"
+    },
+    {
+      "id": "S27",
+      "size": "insert",
+      "key": 80,
+      "note": "your hand: cracks spreading"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Gym"
+    },
+    {
+      "shot": "S3",
+      "at": "Then"
+    },
+    {
+      "shot": "S4",
+      "at": "Nobody"
+    },
+    {
+      "shot": "S5",
+      "at": "Day"
+    },
+    {
+      "shot": "S6",
+      "at": "Five"
+    },
+    {
+      "shot": "S7",
+      "at": "You"
+    },
+    {
+      "shot": "S8",
+      "at": "Mo"
+    },
+    {
+      "shot": "S9",
+      "at": "Day"
+    },
+    {
+      "shot": "S10",
+      "at": "move#2"
+    },
+    {
+      "shot": "S11",
+      "at": "And"
+    },
+    {
+      "shot": "S12",
+      "at": "And"
+    },
+    {
+      "shot": "S13",
+      "at": "Day"
+    },
+    {
+      "shot": "S14",
+      "at": "So"
+    },
+    {
+      "shot": "S15",
+      "at": "Neatly"
+    },
+    {
+      "shot": "S16",
+      "at": "Dad"
+    },
+    {
+      "shot": "S17",
+      "at": "And"
+    },
+    {
+      "shot": "S18",
+      "at": "By"
+    },
+    {
+      "shot": "S19",
+      "at": "comments"
+    },
+    {
+      "shot": "S20",
+      "at": "So"
+    },
+    {
+      "shot": "S21",
+      "at": "walk"
+    },
+    {
+      "shot": "S22",
+      "at": "driver"
+    },
+    {
+      "shot": "S23",
+      "at": "Day"
+    },
+    {
+      "shot": "S24",
+      "at": "little"
+    },
+    {
+      "shot": "S25",
+      "at": "So"
+    },
+    {
+      "shot": "S26",
+      "at": "Honestly"
+    },
+    {
+      "shot": "S27",
+      "at": "But"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "car_idle": [
+        "a car engine idling outside a house, low steady rumble",
+        4.0
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "cheer": [
+        "a small crowd in a club cheering and clapping",
+        2.0
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "gasp": [
+        "a small crowd of people gasping in surprise",
+        1.5
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "lift_rumble": [
+        "a huge heavy weight lifted off the ground, a deep rumbling rising whoosh with creaks",
+        1.6
+      ],
+      "metal_groan": [
+        "a heavy car being lifted, metal body creaking and groaning, suspension springs squeak",
+        1.6
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "notify": [
+        "a soft modern smartphone message notification chime",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "shutter": [
+        "a smartphone camera shutter click",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "storm": [
+        "a strong wind and rain storm outside, gusts and heavy rain, no thunder",
+        6.0
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S2+0",
+        "lift_rumble",
+        0.5
+      ],
+      [
+        "S4+0",
+        "gasp",
+        0.5
+      ],
+      [
+        "S6+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S7+0",
+        "cheer",
+        0.4
+      ],
+      [
+        "S8+0",
+        "cash",
+        0.5
+      ],
+      [
+        "S10+0",
+        "lift_rumble",
+        0.5
+      ],
+      [
+        "S11+0",
+        "lift_rumble",
+        0.5
+      ],
+      [
+        "S12+0",
+        "lift_rumble",
+        0.6
+      ],
+      [
+        "S13+0",
+        "car_idle",
+        0.3,
+        "onset",
+        "S14"
+      ],
+      [
+        "S14+0",
+        "metal_groan",
+        0.6
+      ],
+      [
+        "S15+0",
+        "land",
+        0.5
+      ],
+      [
+        "S17+0",
+        "shutter",
+        0.5
+      ],
+      [
+        "S18+0",
+        "notify",
+        0.5
+      ],
+      [
+        "S19+0",
+        "notify",
+        0.4
+      ],
+      [
+        "S20+0",
+        "storm",
+        0.4,
+        "onset",
+        "S22"
+      ],
+      [
+        "S21+0",
+        "lift_rumble",
+        0.6
+      ],
+      [
+        "S23+0",
+        "pop",
+        0.3
+      ],
+      [
+        "S25+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S26+0",
+        "roof_wind",
+        0.3,
+        "onset",
+        "S27"
+      ],
+      [
+        "S27+0",
+        "crack",
+        0.6
+      ]
+    ],
+    "music": {
+      "clip": "music",
+      "loop": true,
+      "until": "S26"
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -12.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 3 card, day 3"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "key": 30,
-   "note": "gym: you lift the bar"
-  },
-  {
-   "id": "S3",
-   "size": "wide",
-   "key": 20,
-   "note": "the bar with the teacher on it"
-  },
-  {
-   "id": "S4",
-   "size": "wide",
-   "key": 20,
-   "note": "the class stares"
-  },
-  {
-   "id": "S5",
-   "size": "two-shot",
-   "key": 60,
-   "note": "lunch: Mo's bet"
-  },
-  {
-   "id": "S6",
-   "size": "insert",
-   "key": 20,
-   "note": "five hands on yours"
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "key": 20,
-   "note": "you win, sandwich in hand"
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "key": 20,
-   "note": "Mo sells tickets"
-  },
-  {
-   "id": "S9",
-   "size": "two-shot",
-   "key": 60,
-   "note": "day five: Mum asks about the sofa"
-  },
-  {
-   "id": "S10",
-   "size": "wide",
-   "key": 14,
-   "note": "you lift the sofa"
-  },
-  {
-   "id": "S11",
-   "size": "medium",
-   "key": 12,
-   "note": "and the piano"
-  },
-  {
-   "id": "S12",
-   "size": "wide",
-   "key": 16,
-   "note": "and the fridge, Mum on the door"
-  },
-  {
-   "id": "S13",
-   "size": "wide",
-   "key": 40,
-   "note": "day six: car boxed in by a van"
-  },
-  {
-   "id": "S14",
-   "size": "wide",
-   "key": 50,
-   "note": "you carry the van across the road"
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "key": 20,
-   "note": "neatly"
-  },
-  {
-   "id": "S16",
-   "size": "close",
-   "key": 20,
-   "note": "Dad at the window"
-  },
-  {
-   "id": "S17",
-   "size": "two-shot",
-   "key": 50,
-   "note": "Mo films: again, slower"
-  },
-  {
-   "id": "S18",
-   "size": "card",
-   "key": 20,
-   "note": "two million views"
-  },
-  {
-   "id": "S19",
-   "size": "card",
-   "key": 100,
-   "note": "comments: fake, CGI, wires"
-  },
-  {
-   "id": "S20",
-   "size": "wide",
-   "key": 60,
-   "note": "day seven: storm, tree, bus"
-  },
-  {
-   "id": "S21",
-   "size": "wide",
-   "key": 40,
-   "note": "you lift the trunk into the ditch"
-  },
-  {
-   "id": "S22",
-   "size": "two-shot",
-   "key": 40,
-   "note": "bus driver shakes your hand carefully"
-  },
-  {
-   "id": "S23",
-   "size": "medium",
-   "key": 50,
-   "note": "day eight: Mo the manager"
-  },
-  {
-   "id": "S24",
-   "size": "wide",
-   "key": 30,
-   "note": "sister and the trampoline"
-  },
-  {
-   "id": "S25",
-   "size": "wide",
-   "key": 40,
-   "note": "trampoline overhead with her on it"
-  },
-  {
-   "id": "S26",
-   "size": "wide",
-   "key": 60,
-   "note": "dusk: the strongest person ever"
-  },
-  {
-   "id": "S27",
-   "size": "insert",
-   "key": 80,
-   "note": "your hand: cracks spreading"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "Gym"
-  },
-  {
-   "shot": "S3",
-   "at": "Then"
-  },
-  {
-   "shot": "S4",
-   "at": "Nobody"
-  },
-  {
-   "shot": "S5",
-   "at": "Day"
-  },
-  {
-   "shot": "S6",
-   "at": "Five"
-  },
-  {
-   "shot": "S7",
-   "at": "You"
-  },
-  {
-   "shot": "S8",
-   "at": "Mo"
-  },
-  {
-   "shot": "S9",
-   "at": "Day"
-  },
-  {
-   "shot": "S10",
-   "at": "move#2"
-  },
-  {
-   "shot": "S11",
-   "at": "And"
-  },
-  {
-   "shot": "S12",
-   "at": "And"
-  },
-  {
-   "shot": "S13",
-   "at": "Day"
-  },
-  {
-   "shot": "S14",
-   "at": "So"
-  },
-  {
-   "shot": "S15",
-   "at": "Neatly"
-  },
-  {
-   "shot": "S16",
-   "at": "Dad"
-  },
-  {
-   "shot": "S17",
-   "at": "And"
-  },
-  {
-   "shot": "S18",
-   "at": "By"
-  },
-  {
-   "shot": "S19",
-   "at": "comments"
-  },
-  {
-   "shot": "S20",
-   "at": "So"
-  },
-  {
-   "shot": "S21",
-   "at": "walk"
-  },
-  {
-   "shot": "S22",
-   "at": "driver"
-  },
-  {
-   "shot": "S23",
-   "at": "Day"
-  },
-  {
-   "shot": "S24",
-   "at": "little"
-  },
-  {
-   "shot": "S25",
-   "at": "So"
-  },
-  {
-   "shot": "S26",
-   "at": "Honestly"
-  },
-  {
-   "shot": "S27",
-   "at": "But"
-  }
- ],
- "fx": []
 }

@@ -1,262 +1,427 @@
 {
- "id": "StrengthDoublesC05",
- "slug": "strength-doubles/c05",
- "chapter": "The man in the suit",
- "topic": "What if your strength doubled every day?",
- "script": [
-  {
-   "beat": "the news",
-   "text": "By day twelve, your face is on every news channel. Scientists argue about you on TV. One says you're a hoax. Another says you're the most important person alive."
-  },
-  {
-   "beat": "the car",
-   "text": "That afternoon, there's a black car parked outside your house, engine running. A man in a grey suit rings the doorbell. Mum opens the door. He smiles at you over her shoulder. 'We've been watching your friend's videos.'"
-  },
-  {
-   "beat": "the maths",
-   "text": "He sits down at the kitchen table and does the maths out loud. 'Today, two hundred tonnes. In ten more days, a cargo ship. And on day twenty-seven, the Great Pyramid of Giza.' That one's real too. The Great Pyramid weighs about six million tonnes. Fifty kilos, doubled twenty-seven times, is six point seven million."
-  },
-  {
-   "beat": "the offer",
-   "text": "'We can help you,' he says. 'Doctors. Control training. A safe place to live.' He slides a contract across the table. The table bends under your elbow."
-  },
-  {
-   "beat": "he knows",
-   "text": "He knows things he shouldn't. Your shoe size. Your school. Which hand cracked."
-  },
-  {
-   "beat": "the price",
-   "text": "'And in return?' He smiles again. 'In return, you help us. Ships. Rubble. Things no machine can move.' He pauses. 'And a few things we'd rather not talk about in front of your mother.'"
-  },
-  {
-   "beat": "Mo",
-   "text": "That night, Mo whispers through the phone. 'Bro. They don't want to help you. They want a weapon.'"
-  },
-  {
-   "beat": "the call",
-   "text": "You told the man you needed time to think. He left a card. But before his car pulled away, you heard him on the phone. 'No. Not yet. But by day twenty, nobody will be able to stop him.'"
+  "id": "StrengthDoublesC05",
+  "slug": "strength-doubles/c05",
+  "chapter": "The man in the suit",
+  "topic": "What if your strength doubled every day?",
+  "script": [
+    {
+      "beat": "the news",
+      "text": "By day twelve, your face is on every news channel. Scientists argue about you on TV. One says you're a hoax. Another says you're the most important person alive."
+    },
+    {
+      "beat": "the car",
+      "text": "That afternoon, there's a black car parked outside your house, engine running. A man in a grey suit rings the doorbell. Mum opens the door. He smiles at you over her shoulder. 'We've been watching your friend's videos.'"
+    },
+    {
+      "beat": "the maths",
+      "text": "He sits down at the kitchen table and does the maths out loud. 'Today, two hundred tonnes. In ten more days, a cargo ship. And on day twenty-seven, the Great Pyramid of Giza.' That one's real too. The Great Pyramid weighs about six million tonnes. Fifty kilos, doubled twenty-seven times, is six point seven million."
+    },
+    {
+      "beat": "the offer",
+      "text": "'We can help you,' he says. 'Doctors. Control training. A safe place to live.' He slides a contract across the table. The table bends under your elbow."
+    },
+    {
+      "beat": "he knows",
+      "text": "He knows things he shouldn't. Your shoe size. Your school. Which hand cracked."
+    },
+    {
+      "beat": "the price",
+      "text": "'And in return?' He smiles again. 'In return, you help us. Ships. Rubble. Things no machine can move.' He pauses. 'And a few things we'd rather not talk about in front of your mother.'"
+    },
+    {
+      "beat": "Mo",
+      "text": "That night, Mo whispers through the phone. 'Bro. They don't want to help you. They want a weapon.'"
+    },
+    {
+      "beat": "the call",
+      "text": "You told the man you needed time to think. He left a card. But before his car pulled away, you heard him on the phone. 'No. Not yet. But by day twenty, nobody will be able to stop him.'"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Fifty kilos doubled twenty-seven times is about 6.7 million tonnes, more than the Great Pyramid of Giza (about six million tonnes).",
+      "working": "50 kg x 2^27 = 6,710,886,400 kg = 6.7 million t. The Great Pyramid's mass is usually estimated at about 6 million tonnes.",
+      "source": "Arithmetic; Encyclopaedia Britannica, Pyramids of Giza"
+    },
+    {
+      "claim": "On day twelve you can lift about two hundred tonnes.",
+      "working": "50 kg x 2^12 = 204,800 kg = 205 t.",
+      "source": "Arithmetic"
+    },
+    {
+      "claim": "In ten more days (day 22) you could lift a loaded cargo ship.",
+      "working": "50 kg x 2^22 = 209,715,200 kg = about 210,000 t. The largest container ships displace roughly 200,000-260,000 t fully loaded.",
+      "source": "Arithmetic; typical displacement of ultra-large container ships"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 5 card, day 12"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "key": 40,
+      "note": "your face on every news channel"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 90,
+      "note": "scientists argue: hoax vs most important"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 40,
+      "note": "black car outside, engine running"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 40,
+      "note": "a man in a grey suit rings the bell"
+    },
+    {
+      "id": "S6",
+      "size": "three-shot",
+      "key": 60,
+      "note": "Mum opens; he smiles: we've been watching"
+    },
+    {
+      "id": "S7",
+      "size": "two-shot",
+      "key": 80,
+      "note": "kitchen table: the maths"
+    },
+    {
+      "id": "S20",
+      "size": "card",
+      "key": 50,
+      "note": "day 22: a cargo ship"
+    },
+    {
+      "id": "S8",
+      "size": "card",
+      "key": 60,
+      "note": "day 27: the Great Pyramid"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 190,
+      "note": "real: 6 vs 6.7 million tonnes"
+    },
+    {
+      "id": "S10",
+      "size": "close",
+      "key": 40,
+      "note": "we can help you"
+    },
+    {
+      "id": "S11",
+      "size": "insert",
+      "key": 20,
+      "note": "the contract slides across"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 16,
+      "note": "the table bends under your elbow"
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "key": 90,
+      "note": "the folder: he knows too much"
+    },
+    {
+      "id": "S14",
+      "size": "two-shot",
+      "key": 80,
+      "note": "and in return? ships, rubble"
+    },
+    {
+      "id": "S15",
+      "size": "close",
+      "key": 60,
+      "note": "things we'd rather not say in front of your mother"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 60,
+      "note": "that night: Mo on the phone, a weapon"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 30,
+      "note": "the card he left"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 40,
+      "note": "dusk: on the phone by his car"
+    },
+    {
+      "id": "S19",
+      "size": "close",
+      "key": 60,
+      "note": "nobody will be able to stop him"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "face"
+    },
+    {
+      "shot": "S3",
+      "at": "Scientists"
+    },
+    {
+      "shot": "S4",
+      "at": "That"
+    },
+    {
+      "shot": "S5",
+      "at": "man"
+    },
+    {
+      "shot": "S6",
+      "at": "Mum"
+    },
+    {
+      "shot": "S7",
+      "at": "He#2"
+    },
+    {
+      "shot": "S20",
+      "at": "In"
+    },
+    {
+      "shot": "S8",
+      "at": "twenty"
+    },
+    {
+      "shot": "S9",
+      "at": "That"
+    },
+    {
+      "shot": "S10",
+      "at": "We"
+    },
+    {
+      "shot": "S11",
+      "at": "He#2"
+    },
+    {
+      "shot": "S12",
+      "at": "The#2"
+    },
+    {
+      "shot": "S13",
+      "at": "He"
+    },
+    {
+      "shot": "S14",
+      "at": "And"
+    },
+    {
+      "shot": "S15",
+      "at": "He#2"
+    },
+    {
+      "shot": "S16",
+      "at": "That"
+    },
+    {
+      "shot": "S17",
+      "at": "You#2"
+    },
+    {
+      "shot": "S18",
+      "at": "But"
+    },
+    {
+      "shot": "S19",
+      "at": "No"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "car_idle": [
+        "a car engine idling outside a house, low steady rumble",
+        4.0
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "doorbell": [
+        "a house doorbell ding dong",
+        1.2
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "metal_groan": [
+        "a heavy car being lifted, metal body creaking and groaning, suspension springs squeak",
+        1.6
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S2+0",
+        "glitch",
+        0.4
+      ],
+      [
+        "S3+0",
+        "pop",
+        0.3
+      ],
+      [
+        "S4+0",
+        "car_idle",
+        0.4,
+        "onset",
+        "S5"
+      ],
+      [
+        "S5+0",
+        "doorbell",
+        0.6
+      ],
+      [
+        "S6+0",
+        "door_shut",
+        0.3
+      ],
+      [
+        "S20+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S8+0",
+        "title_boom",
+        0.5,
+        "peak"
+      ],
+      [
+        "S9+0",
+        "ding",
+        0.4
+      ],
+      [
+        "S11+0",
+        "slide",
+        0.5
+      ],
+      [
+        "S12+0",
+        "metal_groan",
+        0.4
+      ],
+      [
+        "S13+0",
+        "paper",
+        0.4
+      ],
+      [
+        "S15+0",
+        "drone",
+        0.4
+      ],
+      [
+        "S16+0",
+        "buzz",
+        0.4
+      ],
+      [
+        "S17+0",
+        "slide",
+        0.3
+      ],
+      [
+        "S18+0",
+        "car_idle",
+        0.3,
+        "onset",
+        "S19"
+      ],
+      [
+        "S19+0",
+        "drone_hit",
+        0.7
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "until": "S15"
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -12.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "Fifty kilos doubled twenty-seven times is about 6.7 million tonnes, more than the Great Pyramid of Giza (about six million tonnes).",
-   "working": "50 kg x 2^27 = 6,710,886,400 kg = 6.7 million t. The Great Pyramid's mass is usually estimated at about 6 million tonnes.",
-   "source": "Arithmetic; Encyclopaedia Britannica, Pyramids of Giza"
-  },
-  {
-   "claim": "On day twelve you can lift about two hundred tonnes.",
-   "working": "50 kg x 2^12 = 204,800 kg = 205 t.",
-   "source": "Arithmetic"
-  },
-  {
-   "claim": "In ten more days (day 22) you could lift a loaded cargo ship.",
-   "working": "50 kg x 2^22 = 209,715,200 kg = about 210,000 t. The largest container ships displace roughly 200,000-260,000 t fully loaded.",
-   "source": "Arithmetic; typical displacement of ultra-large container ships"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 5 card, day 12"
-  },
-  {
-   "id": "S2",
-   "size": "insert",
-   "key": 40,
-   "note": "your face on every news channel"
-  },
-  {
-   "id": "S3",
-   "size": "insert",
-   "key": 90,
-   "note": "scientists argue: hoax vs most important"
-  },
-  {
-   "id": "S4",
-   "size": "wide",
-   "key": 40,
-   "note": "black car outside, engine running"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "key": 40,
-   "note": "a man in a grey suit rings the bell"
-  },
-  {
-   "id": "S6",
-   "size": "three-shot",
-   "key": 60,
-   "note": "Mum opens; he smiles: we've been watching"
-  },
-  {
-   "id": "S7",
-   "size": "two-shot",
-   "key": 80,
-   "note": "kitchen table: the maths"
-  },
-  {
-   "id": "S20",
-   "size": "card",
-   "key": 50,
-   "note": "day 22: a cargo ship"
-  },
-  {
-   "id": "S8",
-   "size": "card",
-   "key": 60,
-   "note": "day 27: the Great Pyramid"
-  },
-  {
-   "id": "S9",
-   "size": "card",
-   "key": 190,
-   "note": "real: 6 vs 6.7 million tonnes"
-  },
-  {
-   "id": "S10",
-   "size": "close",
-   "key": 40,
-   "note": "we can help you"
-  },
-  {
-   "id": "S11",
-   "size": "insert",
-   "key": 20,
-   "note": "the contract slides across"
-  },
-  {
-   "id": "S12",
-   "size": "insert",
-   "key": 16,
-   "note": "the table bends under your elbow"
-  },
-  {
-   "id": "S13",
-   "size": "insert",
-   "key": 90,
-   "note": "the folder: he knows too much"
-  },
-  {
-   "id": "S14",
-   "size": "two-shot",
-   "key": 80,
-   "note": "and in return? ships, rubble"
-  },
-  {
-   "id": "S15",
-   "size": "close",
-   "key": 60,
-   "note": "things we'd rather not say in front of your mother"
-  },
-  {
-   "id": "S16",
-   "size": "medium",
-   "key": 60,
-   "note": "that night: Mo on the phone, a weapon"
-  },
-  {
-   "id": "S17",
-   "size": "insert",
-   "key": 30,
-   "note": "the card he left"
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "key": 40,
-   "note": "dusk: on the phone by his car"
-  },
-  {
-   "id": "S19",
-   "size": "close",
-   "key": 60,
-   "note": "nobody will be able to stop him"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "face"
-  },
-  {
-   "shot": "S3",
-   "at": "Scientists"
-  },
-  {
-   "shot": "S4",
-   "at": "That"
-  },
-  {
-   "shot": "S5",
-   "at": "man"
-  },
-  {
-   "shot": "S6",
-   "at": "Mum"
-  },
-  {
-   "shot": "S7",
-   "at": "He#2"
-  },
-  {
-   "shot": "S20",
-   "at": "In"
-  },
-  {
-   "shot": "S8",
-   "at": "twenty"
-  },
-  {
-   "shot": "S9",
-   "at": "That"
-  },
-  {
-   "shot": "S10",
-   "at": "We"
-  },
-  {
-   "shot": "S11",
-   "at": "He#2"
-  },
-  {
-   "shot": "S12",
-   "at": "The#2"
-  },
-  {
-   "shot": "S13",
-   "at": "He"
-  },
-  {
-   "shot": "S14",
-   "at": "And"
-  },
-  {
-   "shot": "S15",
-   "at": "He#2"
-  },
-  {
-   "shot": "S16",
-   "at": "That"
-  },
-  {
-   "shot": "S17",
-   "at": "You#2"
-  },
-  {
-   "shot": "S18",
-   "at": "But"
-  },
-  {
-   "shot": "S19",
-   "at": "No"
-  }
- ],
- "fx": []
 }

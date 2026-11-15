@@ -1,312 +1,501 @@
 {
- "id": "StrengthDoublesC04",
- "slug": "strength-doubles/c04",
- "chapter": "The catch",
- "topic": "What if your strength doubled every day?",
- "script": [
-  {
-   "beat": "the bathroom",
-   "text": "Day nine. Twenty-five tonnes. You reach for your toothbrush, and it snaps. You turn the tap, and the tap comes off. Water everywhere."
-  },
-  {
-   "beat": "breakfast",
-   "text": "Breakfast. Your spoon folds like paper. Your phone cracks in your pocket, just because you leaned on it. Every door in the house has your fingerprints pressed into it."
-  },
-  {
-   "beat": "control",
-   "text": "Here's what nobody tells you about strength. Strength is easy. Control is hard. Your brain spent fourteen years learning a body that could lift fifty kilos. Now every tiny push is five hundred times too big. So you start living in slow motion. Fingertips only. Every movement planned."
-  },
-  {
-   "beat": "sinking",
-   "text": "Day ten. You try to lift Dad's car again, to show him. Your feet sink into the lawn, right up to your ankles. Because all that weight still has to go somewhere, down through two small trainers. The school sends a letter. Please stay at home until further notice."
-  },
-  {
-   "beat": "the crack",
-   "text": "Then on day eleven, you sneeze, grab the kitchen counter, and something in your hand goes crack. The X-ray says fracture. From your own grip."
-  },
-  {
-   "beat": "fact: bones",
-   "text": "Remember the rule. Your muscles double. Your bones don't. And doctors already know what happens when muscles pull harder than bones can take. During a strong seizure or an electric shock, a person's own muscles can dislocate a shoulder, or even break a bone. That's real. And now your muscles pull two thousand times harder than they were built to."
-  },
-  {
-   "beat": "fact: food",
-   "text": "Then there's the food. Holding something is free. Lifting it is not. To lift the Titanic just one metre, you'd burn about the food you eat in two months. And that's if your body wasted nothing."
-  },
-  {
-   "beat": "the hug",
-   "text": "So you're the strongest person on Earth, and you can't hold a glass of water. Your little sister runs at you for a hug, and you have to step back."
+  "id": "StrengthDoublesC04",
+  "slug": "strength-doubles/c04",
+  "chapter": "The catch",
+  "topic": "What if your strength doubled every day?",
+  "script": [
+    {
+      "beat": "the bathroom",
+      "text": "Day nine. Twenty-five tonnes. You reach for your toothbrush, and it snaps. You turn the tap, and the tap comes off. Water everywhere."
+    },
+    {
+      "beat": "breakfast",
+      "text": "Breakfast. Your spoon folds like paper. Your phone cracks in your pocket, just because you leaned on it. Every door in the house has your fingerprints pressed into it."
+    },
+    {
+      "beat": "control",
+      "text": "Here's what nobody tells you about strength. Strength is easy. Control is hard. Your brain spent fourteen years learning a body that could lift fifty kilos. Now every tiny push is five hundred times too big. So you start living in slow motion. Fingertips only. Every movement planned."
+    },
+    {
+      "beat": "sinking",
+      "text": "Day ten. You try to lift Dad's car again, to show him. Your feet sink into the lawn, right up to your ankles. Because all that weight still has to go somewhere, down through two small trainers. The school sends a letter. Please stay at home until further notice."
+    },
+    {
+      "beat": "the crack",
+      "text": "Then on day eleven, you sneeze, grab the kitchen counter, and something in your hand goes crack. The X-ray says fracture. From your own grip."
+    },
+    {
+      "beat": "fact: bones",
+      "text": "Remember the rule. Your muscles double. Your bones don't. And doctors already know what happens when muscles pull harder than bones can take. During a strong seizure or an electric shock, a person's own muscles can dislocate a shoulder, or even break a bone. That's real. And now your muscles pull two thousand times harder than they were built to."
+    },
+    {
+      "beat": "fact: food",
+      "text": "Then there's the food. Holding something is free. Lifting it is not. To lift the Titanic just one metre, you'd burn about the food you eat in two months. And that's if your body wasted nothing."
+    },
+    {
+      "beat": "the hug",
+      "text": "So you're the strongest person on Earth, and you can't hold a glass of water. Your little sister runs at you for a hug, and you have to step back."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Muscles contracting during a seizure or an electric shock can dislocate a shoulder or break a bone.",
+      "working": "Posterior shoulder dislocations and fracture-dislocations are classically caused by seizures and electrocution: the strong internal-rotator muscles contract violently and force the humeral head out, sometimes fracturing it.",
+      "source": "StatPearls (NCBI Bookshelf), Posterior Shoulder Dislocation"
+    },
+    {
+      "claim": "On day eleven your muscles pull about two thousand times harder than at the start.",
+      "working": "2^11 = 2,048.",
+      "source": "Arithmetic"
+    },
+    {
+      "claim": "Lifting the Titanic's weight one metre takes about the food a person eats in two months.",
+      "working": "E = m g h = 52,428,800 kg x 9.81 m/s^2 x 1 m = 5.14e8 J = 122,900 kcal. At 2,000 kcal a day that is about 61 days. Muscles are only about 20-25% efficient, so the real cost would be about four times higher.",
+      "source": "Arithmetic; NHS reference intake 2,000 kcal a day"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 4 card, day 9"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "key": 36,
+      "note": "the toothbrush snaps"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 40,
+      "note": "the tap comes off"
+    },
+    {
+      "id": "S4",
+      "size": "close",
+      "key": 20,
+      "note": "water everywhere"
+    },
+    {
+      "id": "S5",
+      "size": "insert",
+      "key": 26,
+      "note": "the spoon folds"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 20,
+      "note": "the phone cracks"
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "key": 60,
+      "note": "fingerprints in every door"
+    },
+    {
+      "id": "S8",
+      "size": "card",
+      "key": 100,
+      "note": "strength easy, control hard"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 150,
+      "note": "trained for 50 kg; every push 500x"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 60,
+      "note": "slow motion, fingertips"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 50,
+      "note": "day ten: lift Dad's car again"
+    },
+    {
+      "id": "S12",
+      "size": "low",
+      "key": 40,
+      "note": "feet sink into the lawn"
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "key": 60,
+      "note": "the weight through two trainers"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "key": 40,
+      "note": "the school letter"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 46,
+      "note": "day eleven: sneeze, grab the counter"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 6,
+      "note": "crack"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 40,
+      "note": "X-ray: fracture"
+    },
+    {
+      "id": "S18",
+      "size": "card",
+      "key": 90,
+      "note": "muscles double, bones don't"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 40,
+      "note": "a doctor"
+    },
+    {
+      "id": "S20",
+      "size": "card",
+      "key": 210,
+      "note": "seizure, shock: dislocation, broken bone"
+    },
+    {
+      "id": "S21",
+      "size": "card",
+      "key": 60,
+      "note": "2,048 times harder"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 40,
+      "note": "the food: a mountain of plates"
+    },
+    {
+      "id": "S23",
+      "size": "card",
+      "key": 70,
+      "note": "61 days of food"
+    },
+    {
+      "id": "S24",
+      "size": "insert",
+      "key": 40,
+      "note": "the glass shatters"
+    },
+    {
+      "id": "S25",
+      "size": "two-shot",
+      "key": 50,
+      "note": "sister runs for a hug, you step back"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "reach"
+    },
+    {
+      "shot": "S3",
+      "at": "turn"
+    },
+    {
+      "shot": "S4",
+      "at": "Water"
+    },
+    {
+      "shot": "S5",
+      "at": "spoon"
+    },
+    {
+      "shot": "S6",
+      "at": "phone"
+    },
+    {
+      "shot": "S7",
+      "at": "Every"
+    },
+    {
+      "shot": "S8",
+      "at": "Here's"
+    },
+    {
+      "shot": "S9",
+      "at": "brain"
+    },
+    {
+      "shot": "S10",
+      "at": "So"
+    },
+    {
+      "shot": "S11",
+      "at": "Day"
+    },
+    {
+      "shot": "S12",
+      "at": "feet"
+    },
+    {
+      "shot": "S13",
+      "at": "Because"
+    },
+    {
+      "shot": "S14",
+      "at": "school"
+    },
+    {
+      "shot": "S15",
+      "at": "Then"
+    },
+    {
+      "shot": "S16",
+      "at": "something"
+    },
+    {
+      "shot": "S17",
+      "at": "X"
+    },
+    {
+      "shot": "S18",
+      "at": "Remember"
+    },
+    {
+      "shot": "S19",
+      "at": "doctors"
+    },
+    {
+      "shot": "S20",
+      "at": "During"
+    },
+    {
+      "shot": "S21",
+      "at": "now"
+    },
+    {
+      "shot": "S22",
+      "at": "food"
+    },
+    {
+      "shot": "S23",
+      "at": "To"
+    },
+    {
+      "shot": "S24",
+      "at": "So"
+    },
+    {
+      "shot": "S25",
+      "at": "little"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "cookie_crunch": [
+        "one crunchy bite into a chocolate chip cookie, close up",
+        0.6
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "knock": [
+        "three firm knocks on an old wooden door",
+        1.2
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "metal_groan": [
+        "a heavy car being lifted, metal body creaking and groaning, suspension springs squeak",
+        1.6
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "phone_crack": [
+        "a smartphone screen cracking under pressure, a crisp glass crunch, short",
+        0.5
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ],
+      "snap": [
+        "a plastic toothbrush snapping in half, sharp short crack",
+        0.5
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ],
+      "water_spray": [
+        "a metal tap breaking off a sink, water spraying hard and splashing",
+        2.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S2+0",
+        "snap",
+        0.7
+      ],
+      [
+        "S3+0",
+        "snap",
+        0.5
+      ],
+      [
+        "S4+0",
+        "water_spray",
+        0.5,
+        "onset",
+        "S5"
+      ],
+      [
+        "S5+0",
+        "clink",
+        0.4
+      ],
+      [
+        "S6+0",
+        "phone_crack",
+        0.6
+      ],
+      [
+        "S7+0",
+        "knock",
+        0.3
+      ],
+      [
+        "S8+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S9+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S11+0",
+        "metal_groan",
+        0.6
+      ],
+      [
+        "S12+0",
+        "thud",
+        0.5
+      ],
+      [
+        "S14+0",
+        "paper",
+        0.4
+      ],
+      [
+        "S15+0",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S16+0",
+        "bone_crack",
+        0.8
+      ],
+      [
+        "S17+0",
+        "drone_hit",
+        0.6
+      ],
+      [
+        "S18+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S21+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S22+0",
+        "cookie_crunch",
+        0.4
+      ],
+      [
+        "S24+0",
+        "shatter",
+        0.6
+      ],
+      [
+        "S25+0",
+        "heartbeat",
+        0.4
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "until": "S25"
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -12.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "Muscles contracting during a seizure or an electric shock can dislocate a shoulder or break a bone.",
-   "working": "Posterior shoulder dislocations and fracture-dislocations are classically caused by seizures and electrocution: the strong internal-rotator muscles contract violently and force the humeral head out, sometimes fracturing it.",
-   "source": "StatPearls (NCBI Bookshelf), Posterior Shoulder Dislocation"
-  },
-  {
-   "claim": "On day eleven your muscles pull about two thousand times harder than at the start.",
-   "working": "2^11 = 2,048.",
-   "source": "Arithmetic"
-  },
-  {
-   "claim": "Lifting the Titanic's weight one metre takes about the food a person eats in two months.",
-   "working": "E = m g h = 52,428,800 kg x 9.81 m/s^2 x 1 m = 5.14e8 J = 122,900 kcal. At 2,000 kcal a day that is about 61 days. Muscles are only about 20-25% efficient, so the real cost would be about four times higher.",
-   "source": "Arithmetic; NHS reference intake 2,000 kcal a day"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 4 card, day 9"
-  },
-  {
-   "id": "S2",
-   "size": "insert",
-   "key": 36,
-   "note": "the toothbrush snaps"
-  },
-  {
-   "id": "S3",
-   "size": "insert",
-   "key": 40,
-   "note": "the tap comes off"
-  },
-  {
-   "id": "S4",
-   "size": "close",
-   "key": 20,
-   "note": "water everywhere"
-  },
-  {
-   "id": "S5",
-   "size": "insert",
-   "key": 26,
-   "note": "the spoon folds"
-  },
-  {
-   "id": "S6",
-   "size": "insert",
-   "key": 20,
-   "note": "the phone cracks"
-  },
-  {
-   "id": "S7",
-   "size": "insert",
-   "key": 60,
-   "note": "fingerprints in every door"
-  },
-  {
-   "id": "S8",
-   "size": "card",
-   "key": 100,
-   "note": "strength easy, control hard"
-  },
-  {
-   "id": "S9",
-   "size": "card",
-   "key": 150,
-   "note": "trained for 50 kg; every push 500x"
-  },
-  {
-   "id": "S10",
-   "size": "medium",
-   "key": 60,
-   "note": "slow motion, fingertips"
-  },
-  {
-   "id": "S11",
-   "size": "wide",
-   "key": 50,
-   "note": "day ten: lift Dad's car again"
-  },
-  {
-   "id": "S12",
-   "size": "low",
-   "key": 40,
-   "note": "feet sink into the lawn"
-  },
-  {
-   "id": "S13",
-   "size": "card",
-   "key": 60,
-   "note": "the weight through two trainers"
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "key": 40,
-   "note": "the school letter"
-  },
-  {
-   "id": "S15",
-   "size": "medium",
-   "key": 46,
-   "note": "day eleven: sneeze, grab the counter"
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "key": 6,
-   "note": "crack"
-  },
-  {
-   "id": "S17",
-   "size": "insert",
-   "key": 40,
-   "note": "X-ray: fracture"
-  },
-  {
-   "id": "S18",
-   "size": "card",
-   "key": 90,
-   "note": "muscles double, bones don't"
-  },
-  {
-   "id": "S19",
-   "size": "medium",
-   "key": 40,
-   "note": "a doctor"
-  },
-  {
-   "id": "S20",
-   "size": "card",
-   "key": 210,
-   "note": "seizure, shock: dislocation, broken bone"
-  },
-  {
-   "id": "S21",
-   "size": "card",
-   "key": 60,
-   "note": "2,048 times harder"
-  },
-  {
-   "id": "S22",
-   "size": "medium",
-   "key": 40,
-   "note": "the food: a mountain of plates"
-  },
-  {
-   "id": "S23",
-   "size": "card",
-   "key": 70,
-   "note": "61 days of food"
-  },
-  {
-   "id": "S24",
-   "size": "insert",
-   "key": 40,
-   "note": "the glass shatters"
-  },
-  {
-   "id": "S25",
-   "size": "two-shot",
-   "key": 50,
-   "note": "sister runs for a hug, you step back"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "reach"
-  },
-  {
-   "shot": "S3",
-   "at": "turn"
-  },
-  {
-   "shot": "S4",
-   "at": "Water"
-  },
-  {
-   "shot": "S5",
-   "at": "spoon"
-  },
-  {
-   "shot": "S6",
-   "at": "phone"
-  },
-  {
-   "shot": "S7",
-   "at": "Every"
-  },
-  {
-   "shot": "S8",
-   "at": "Here's"
-  },
-  {
-   "shot": "S9",
-   "at": "brain"
-  },
-  {
-   "shot": "S10",
-   "at": "So"
-  },
-  {
-   "shot": "S11",
-   "at": "Day"
-  },
-  {
-   "shot": "S12",
-   "at": "feet"
-  },
-  {
-   "shot": "S13",
-   "at": "Because"
-  },
-  {
-   "shot": "S14",
-   "at": "school"
-  },
-  {
-   "shot": "S15",
-   "at": "Then"
-  },
-  {
-   "shot": "S16",
-   "at": "something"
-  },
-  {
-   "shot": "S17",
-   "at": "X"
-  },
-  {
-   "shot": "S18",
-   "at": "Remember"
-  },
-  {
-   "shot": "S19",
-   "at": "doctors"
-  },
-  {
-   "shot": "S20",
-   "at": "During"
-  },
-  {
-   "shot": "S21",
-   "at": "now"
-  },
-  {
-   "shot": "S22",
-   "at": "food"
-  },
-  {
-   "shot": "S23",
-   "at": "To"
-  },
-  {
-   "shot": "S24",
-   "at": "So"
-  },
-  {
-   "shot": "S25",
-   "at": "little"
-  }
- ],
- "fx": []
 }

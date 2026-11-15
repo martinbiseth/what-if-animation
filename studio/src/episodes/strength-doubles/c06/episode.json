@@ -1,262 +1,434 @@
 {
- "id": "StrengthDoublesC06",
- "slug": "strength-doubles/c06",
- "chapter": "The bridge",
- "topic": "What if your strength doubled every day?",
- "script": [
-  {
-   "beat": "the bridge",
-   "text": "Day fourteen. Eight hundred tonnes. There's ice on the roads. Your sister's school bus is crossing the old bridge when it skids, smashes through the railing, and stops with its front wheels hanging over the river. Thirty kids inside. Your sister is in the front seat."
-  },
-  {
-   "beat": "the problem",
-   "text": "You get there before the fire engines. Lifting the bus is easy. A bus is about twelve tonnes. You could lift sixty of them. The problem is your arms. They still have fourteen-year-old bones. If you grab the bus and pull, your own muscles could snap them."
-  },
-  {
-   "beat": "the suit",
-   "text": "The man in the suit is already there. Of course he is. 'Don't,' he says. 'You'll wreck your arms, and we need them. Wait for the crane. Forty minutes.'"
-  },
-  {
-   "beat": "the slip",
-   "text": "The bus creaks. It slides another ten centimetres. Your sister's face is pressed against the window."
-  },
-  {
-   "beat": "one try",
-   "text": "'Forty minutes,' the man says again. Your sister doesn't have forty minutes. You look at your arm. You look at the bus. You get one try."
-  },
-  {
-   "beat": "the choice",
-   "text": "So you do it the way you practised. No grabbing. No pulling. You get your shoulder under the back of the bus and push with everything at once. Legs. Back. Shoulders. Slowly, like carrying an egg. Your arm cracks. You keep going. Inch by inch, the bus rolls back onto the road."
-  },
-  {
-   "beat": "the hug",
-   "text": "The doors open. Thirty kids run out. Your sister comes out last, and she runs at you for a hug. And this time, you let her. Very, very gently."
-  },
-  {
-   "beat": "filming",
-   "text": "Every phone on the bridge was filming."
+  "id": "StrengthDoublesC06",
+  "slug": "strength-doubles/c06",
+  "chapter": "The bridge",
+  "topic": "What if your strength doubled every day?",
+  "script": [
+    {
+      "beat": "the bridge",
+      "text": "Day fourteen. Eight hundred tonnes. There's ice on the roads. Your sister's school bus is crossing the old bridge when it skids, smashes through the railing, and stops with its front wheels hanging over the river. Thirty kids inside. Your sister is in the front seat."
+    },
+    {
+      "beat": "the problem",
+      "text": "You get there before the fire engines. Lifting the bus is easy. A bus is about twelve tonnes. You could lift sixty of them. The problem is your arms. They still have fourteen-year-old bones. If you grab the bus and pull, your own muscles could snap them."
+    },
+    {
+      "beat": "the suit",
+      "text": "The man in the suit is already there. Of course he is. 'Don't,' he says. 'You'll wreck your arms, and we need them. Wait for the crane. Forty minutes.'"
+    },
+    {
+      "beat": "the slip",
+      "text": "The bus creaks. It slides another ten centimetres. Your sister's face is pressed against the window."
+    },
+    {
+      "beat": "one try",
+      "text": "'Forty minutes,' the man says again. Your sister doesn't have forty minutes. You look at your arm. You look at the bus. You get one try."
+    },
+    {
+      "beat": "the choice",
+      "text": "So you do it the way you practised. No grabbing. No pulling. You get your shoulder under the back of the bus and push with everything at once. Legs. Back. Shoulders. Slowly, like carrying an egg. Your arm cracks. You keep going. Inch by inch, the bus rolls back onto the road."
+    },
+    {
+      "beat": "the hug",
+      "text": "The doors open. Thirty kids run out. Your sister comes out last, and she runs at you for a hug. And this time, you let her. Very, very gently."
+    },
+    {
+      "beat": "filming",
+      "text": "Every phone on the bridge was filming."
+    }
+  ],
+  "science": [
+    {
+      "claim": "On day fourteen you can lift about eight hundred tonnes; a bus is about twelve tonnes.",
+      "working": "50 kg x 2^14 = 819,200 kg = 819 t. A full-size single-deck city bus weighs roughly 11-13 t empty. 819 / 12.5 is about 65, so 'sixty of them' is safely under.",
+      "source": "Arithmetic; typical manufacturer kerb weights for 12 m city buses"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 6 card, day 14"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 100,
+      "note": "ice: the bus on the old bridge, skidding"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "key": 14,
+      "note": "through the railing, hanging over the river"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 60,
+      "note": "thirty kids, sister in the front seat"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 40,
+      "note": "you get there first"
+    },
+    {
+      "id": "S6",
+      "size": "card",
+      "key": 60,
+      "note": "a bus is 12 t; you could lift 60"
+    },
+    {
+      "id": "S7",
+      "size": "card",
+      "key": 170,
+      "note": "14-year-old bones: grab and pull = snap"
+    },
+    {
+      "id": "S8",
+      "size": "two-shot",
+      "key": 30,
+      "note": "the suit is already there"
+    },
+    {
+      "id": "S9",
+      "size": "close",
+      "key": 60,
+      "note": "don't: wait for the crane, forty minutes"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "the bus slides another ten centimetres"
+    },
+    {
+      "id": "S11",
+      "size": "close",
+      "key": 30,
+      "note": "sister's face against the window"
+    },
+    {
+      "id": "S12",
+      "size": "two-shot",
+      "key": 60,
+      "note": "forty minutes, he says again"
+    },
+    {
+      "id": "S13",
+      "size": "close",
+      "key": 80,
+      "note": "your arm, the bus, one try"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 40,
+      "note": "no grabbing, no pulling"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 80,
+      "note": "shoulder under the bus: push with everything"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 20,
+      "note": "like carrying an egg"
+    },
+    {
+      "id": "S17",
+      "size": "close",
+      "key": 14,
+      "note": "your arm cracks"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 40,
+      "note": "inch by inch, the bus rolls back"
+    },
+    {
+      "id": "S19",
+      "size": "wide",
+      "key": 40,
+      "note": "the doors open, kids run out"
+    },
+    {
+      "id": "S20",
+      "size": "two-shot",
+      "key": 130,
+      "note": "the hug: this time you let her"
+    },
+    {
+      "id": "S21",
+      "size": "wide",
+      "key": 40,
+      "note": "every phone was filming"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "There's"
+    },
+    {
+      "shot": "S3",
+      "at": "smashes"
+    },
+    {
+      "shot": "S4",
+      "at": "Thirty"
+    },
+    {
+      "shot": "S5",
+      "at": "You"
+    },
+    {
+      "shot": "S6",
+      "at": "Lifting"
+    },
+    {
+      "shot": "S7",
+      "at": "problem"
+    },
+    {
+      "shot": "S8",
+      "at": "The#2"
+    },
+    {
+      "shot": "S9",
+      "at": "Don't"
+    },
+    {
+      "shot": "S10",
+      "at": "creaks"
+    },
+    {
+      "shot": "S11",
+      "at": "Your"
+    },
+    {
+      "shot": "S12",
+      "at": "Forty"
+    },
+    {
+      "shot": "S13",
+      "at": "You"
+    },
+    {
+      "shot": "S14",
+      "at": "So"
+    },
+    {
+      "shot": "S15",
+      "at": "get"
+    },
+    {
+      "shot": "S16",
+      "at": "Slowly"
+    },
+    {
+      "shot": "S17",
+      "at": "Your"
+    },
+    {
+      "shot": "S18",
+      "at": "Inch"
+    },
+    {
+      "shot": "S19",
+      "at": "The#3"
+    },
+    {
+      "shot": "S20",
+      "at": "Your"
+    },
+    {
+      "shot": "S21",
+      "at": "Every"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "bus_creak": [
+        "a heavy school bus creaking and scraping against a bent metal bridge railing, deep metal groan",
+        2.5
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "gasp": [
+        "a small crowd of people gasping in surprise",
+        1.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "kids_cheer": [
+        "a group of children cheering and clapping outdoors",
+        2.0
+      ],
+      "lift_rumble": [
+        "a huge heavy weight lifted off the ground, a deep rumbling rising whoosh with creaks",
+        1.6
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "shutter": [
+        "a smartphone camera shutter click",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "storm": [
+        "a strong wind and rain storm outside, gusts and heavy rain, no thunder",
+        6.0
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S2+0",
+        "storm",
+        0.25,
+        "onset",
+        "S5"
+      ],
+      [
+        "S3+0",
+        "bus_creak",
+        0.8
+      ],
+      [
+        "S3+8",
+        "crack",
+        0.4
+      ],
+      [
+        "S4+0",
+        "gasp",
+        0.3
+      ],
+      [
+        "S5+0",
+        "step",
+        0.4
+      ],
+      [
+        "S6+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S7+0",
+        "bone_crack",
+        0.5
+      ],
+      [
+        "S8+0",
+        "drone",
+        0.3
+      ],
+      [
+        "S10+0",
+        "bus_creak",
+        0.8
+      ],
+      [
+        "S11+0",
+        "heartbeat",
+        0.5
+      ],
+      [
+        "S13+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S15+0",
+        "lift_rumble",
+        0.6
+      ],
+      [
+        "S15+12",
+        "bus_creak",
+        0.5
+      ],
+      [
+        "S17+0",
+        "bone_crack",
+        0.7
+      ],
+      [
+        "S18+0",
+        "lift_rumble",
+        0.6
+      ],
+      [
+        "S19+0",
+        "kids_cheer",
+        0.5
+      ],
+      [
+        "S20+0",
+        "sparkle",
+        0.3
+      ],
+      [
+        "S21+0",
+        "shutter",
+        0.5
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "until": "S19"
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -12.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "On day fourteen you can lift about eight hundred tonnes; a bus is about twelve tonnes.",
-   "working": "50 kg x 2^14 = 819,200 kg = 819 t. A full-size single-deck city bus weighs roughly 11-13 t empty. 819 / 12.5 is about 65, so 'sixty of them' is safely under.",
-   "source": "Arithmetic; typical manufacturer kerb weights for 12 m city buses"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 6 card, day 14"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "key": 100,
-   "note": "ice: the bus on the old bridge, skidding"
-  },
-  {
-   "id": "S3",
-   "size": "wide",
-   "key": 14,
-   "note": "through the railing, hanging over the river"
-  },
-  {
-   "id": "S4",
-   "size": "medium",
-   "key": 60,
-   "note": "thirty kids, sister in the front seat"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "key": 40,
-   "note": "you get there first"
-  },
-  {
-   "id": "S6",
-   "size": "card",
-   "key": 60,
-   "note": "a bus is 12 t; you could lift 60"
-  },
-  {
-   "id": "S7",
-   "size": "card",
-   "key": 170,
-   "note": "14-year-old bones: grab and pull = snap"
-  },
-  {
-   "id": "S8",
-   "size": "two-shot",
-   "key": 30,
-   "note": "the suit is already there"
-  },
-  {
-   "id": "S9",
-   "size": "close",
-   "key": 60,
-   "note": "don't: wait for the crane, forty minutes"
-  },
-  {
-   "id": "S10",
-   "size": "medium",
-   "key": 30,
-   "note": "the bus slides another ten centimetres"
-  },
-  {
-   "id": "S11",
-   "size": "close",
-   "key": 30,
-   "note": "sister's face against the window"
-  },
-  {
-   "id": "S12",
-   "size": "two-shot",
-   "key": 60,
-   "note": "forty minutes, he says again"
-  },
-  {
-   "id": "S13",
-   "size": "close",
-   "key": 80,
-   "note": "your arm, the bus, one try"
-  },
-  {
-   "id": "S14",
-   "size": "wide",
-   "key": 40,
-   "note": "no grabbing, no pulling"
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "key": 80,
-   "note": "shoulder under the bus: push with everything"
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "key": 20,
-   "note": "like carrying an egg"
-  },
-  {
-   "id": "S17",
-   "size": "close",
-   "key": 14,
-   "note": "your arm cracks"
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "key": 40,
-   "note": "inch by inch, the bus rolls back"
-  },
-  {
-   "id": "S19",
-   "size": "wide",
-   "key": 40,
-   "note": "the doors open, kids run out"
-  },
-  {
-   "id": "S20",
-   "size": "two-shot",
-   "key": 130,
-   "note": "the hug: this time you let her"
-  },
-  {
-   "id": "S21",
-   "size": "wide",
-   "key": 40,
-   "note": "every phone was filming"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "There's"
-  },
-  {
-   "shot": "S3",
-   "at": "smashes"
-  },
-  {
-   "shot": "S4",
-   "at": "Thirty"
-  },
-  {
-   "shot": "S5",
-   "at": "You"
-  },
-  {
-   "shot": "S6",
-   "at": "Lifting"
-  },
-  {
-   "shot": "S7",
-   "at": "problem"
-  },
-  {
-   "shot": "S8",
-   "at": "The#2"
-  },
-  {
-   "shot": "S9",
-   "at": "Don't"
-  },
-  {
-   "shot": "S10",
-   "at": "creaks"
-  },
-  {
-   "shot": "S11",
-   "at": "Your"
-  },
-  {
-   "shot": "S12",
-   "at": "Forty"
-  },
-  {
-   "shot": "S13",
-   "at": "You"
-  },
-  {
-   "shot": "S14",
-   "at": "So"
-  },
-  {
-   "shot": "S15",
-   "at": "get"
-  },
-  {
-   "shot": "S16",
-   "at": "Slowly"
-  },
-  {
-   "shot": "S17",
-   "at": "Your"
-  },
-  {
-   "shot": "S18",
-   "at": "Inch"
-  },
-  {
-   "shot": "S19",
-   "at": "The#3"
-  },
-  {
-   "shot": "S20",
-   "at": "Your"
-  },
-  {
-   "shot": "S21",
-   "at": "Every"
-  }
- ],
- "fx": []
 }

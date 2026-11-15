@@ -1,232 +1,402 @@
 {
- "id": "StrengthDoublesC01",
- "slug": "strength-doubles/c01",
- "chapter": "Cold open",
- "topic": "What if your strength doubled every day?",
- "script": [
-  {
-   "beat": "demo 1: the jar",
-   "text": "Monday. Your mum can't open the pickle jar. She hands it to you. Pop. Easy."
+  "id": "StrengthDoublesC01",
+  "slug": "strength-doubles/c01",
+  "chapter": "Cold open",
+  "topic": "What if your strength doubled every day?",
+  "script": [
+    {
+      "beat": "demo 1: the jar",
+      "text": "Monday. Your mum can't open the pickle jar. She hands it to you. Pop. Easy."
+    },
+    {
+      "beat": "demo 2: the handle",
+      "text": "Tuesday. You close your bedroom door, and the handle comes off in your hand."
+    },
+    {
+      "beat": "demo 3: the bag",
+      "text": "Thursday. Mo kicks the football onto the garage roof. You throw your schoolbag up to knock it down. The bag goes straight through the roof."
+    },
+    {
+      "beat": "demo 4: the car",
+      "text": "Saturday. The ball rolls under Dad's car. So you lift the car. With one hand. Dad drops his coffee."
+    },
+    {
+      "beat": "demo 5: the high five",
+      "text": "Day ten. Mo goes for a high five, and you stop. Your hand freezes an inch from his. Because you know exactly what would happen if you touched him."
+    },
+    {
+      "beat": "the premise question",
+      "text": "Every morning at six, when your alarm goes off, your strength doubles. It never stops. It never goes back. So what would actually happen to you if your strength doubled every single day?"
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "key": 20,
+      "note": "Monday: Mum straining at the pickle jar"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "key": 14,
+      "note": "the jar handed across"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 10,
+      "note": "pop: the lid flies off"
+    },
+    {
+      "id": "S4",
+      "size": "two-shot",
+      "key": 14,
+      "note": "easy: you smug, Mum stunned"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 10,
+      "note": "you swing the bedroom door shut"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 12,
+      "note": "the handle comes off in your hand"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 28,
+      "note": "Mo kicks the ball onto the garage roof"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 12,
+      "note": "you throw your schoolbag up"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 10,
+      "note": "the bag goes through the roof; Mo shocked"
+    },
+    {
+      "id": "S10",
+      "size": "low",
+      "key": 20,
+      "note": "the ball rolls under Dad's car"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 30,
+      "note": "you lift the car with one hand"
+    },
+    {
+      "id": "S12",
+      "size": "close",
+      "key": 10,
+      "note": "Dad drops his coffee"
+    },
+    {
+      "id": "S13",
+      "size": "two-shot",
+      "key": 12,
+      "note": "day ten: Mo goes for a high five"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "key": 10,
+      "note": "two hands an inch apart"
+    },
+    {
+      "id": "S15",
+      "size": "close",
+      "key": 30,
+      "note": "you know what would happen (thought bubble)"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 10,
+      "note": "alarm clock 06:00"
+    },
+    {
+      "id": "S17",
+      "size": "card",
+      "key": 14,
+      "note": "x2"
+    },
+    {
+      "id": "S18",
+      "size": "card",
+      "key": 40,
+      "note": "the ladder: it never stops"
+    },
+    {
+      "id": "S19",
+      "size": "wide",
+      "key": 40,
+      "note": "you looking at your hands: the question"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "She"
+    },
+    {
+      "shot": "S3",
+      "at": "Pop"
+    },
+    {
+      "shot": "S4",
+      "at": "Easy"
+    },
+    {
+      "shot": "S5",
+      "at": "Tuesday"
+    },
+    {
+      "shot": "S6",
+      "at": "handle"
+    },
+    {
+      "shot": "S7",
+      "at": "Thursday"
+    },
+    {
+      "shot": "S8",
+      "at": "throw"
+    },
+    {
+      "shot": "S9",
+      "at": "The"
+    },
+    {
+      "shot": "S10",
+      "at": "Saturday"
+    },
+    {
+      "shot": "S11",
+      "at": "So"
+    },
+    {
+      "shot": "S12",
+      "at": "Dad"
+    },
+    {
+      "shot": "S13",
+      "at": "Day"
+    },
+    {
+      "shot": "S14",
+      "at": "Your"
+    },
+    {
+      "shot": "S15",
+      "at": "Because"
+    },
+    {
+      "shot": "S16",
+      "at": "Every"
+    },
+    {
+      "shot": "S17",
+      "at": "strength"
+    },
+    {
+      "shot": "S18",
+      "at": "It"
+    },
+    {
+      "shot": "S19",
+      "at": "So"
+    }
+  ],
+  "fx": [],
+  "pace": {
+    "min_cuts": 24,
+    "max_hold": 4
   },
-  {
-   "beat": "demo 2: the handle",
-   "text": "Tuesday. You close your bedroom door, and the handle comes off in your hand."
-  },
-  {
-   "beat": "demo 3: the bag",
-   "text": "Thursday. Mo kicks the football onto the garage roof. You throw your schoolbag up to knock it down. The bag goes straight through the roof."
-  },
-  {
-   "beat": "demo 4: the car",
-   "text": "Saturday. The ball rolls under Dad's car. So you lift the car. With one hand. Dad drops his coffee."
-  },
-  {
-   "beat": "demo 5: the high five",
-   "text": "Day ten. Mo goes for a high five, and you stop. Your hand freezes an inch from his. Because you know exactly what would happen if you touched him."
-  },
-  {
-   "beat": "the premise question",
-   "text": "Every morning at six, when your alarm goes off, your strength doubles. It never stops. It never goes back. So what would actually happen to you if your strength doubled every single day?"
+  "sound": {
+    "clips": {
+      "alarm": [
+        "a digital bedside alarm clock beeping, fast repeated beeps",
+        1.5
+      ],
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gasp": [
+        "a small crowd of people gasping in surprise",
+        1.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "jar_pop": [
+        "a glass jar lid twisting and popping off with a loud suction pop, close",
+        0.6
+      ],
+      "metal_groan": [
+        "a heavy car being lifted, metal body creaking and groaning, suspension springs squeak",
+        1.6
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "title_boom",
+        0.5,
+        "peak"
+      ],
+      [
+        "S3+0",
+        "jar_pop",
+        0.8
+      ],
+      [
+        "S4+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S5+6",
+        "door_shut",
+        0.6
+      ],
+      [
+        "S6+0",
+        "bone_crack",
+        0.35
+      ],
+      [
+        "S7+0",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S8+4",
+        "whoosh",
+        0.5
+      ],
+      [
+        "S9+0",
+        "crack",
+        0.6
+      ],
+      [
+        "S9+4",
+        "gasp",
+        0.3
+      ],
+      [
+        "S11+0",
+        "metal_groan",
+        0.7
+      ],
+      [
+        "S12+6",
+        "shatter",
+        0.4
+      ],
+      [
+        "S13+0",
+        "whoosh",
+        0.3
+      ],
+      [
+        "S14+0",
+        "heartbeat",
+        0.5
+      ],
+      [
+        "S15+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S16+0",
+        "alarm",
+        0.5
+      ],
+      [
+        "S17+0",
+        "card_hit",
+        0.7
+      ],
+      [
+        "S18+0",
+        "counter_tick",
+        0.5
+      ],
+      [
+        "S19+0",
+        "drone_hit",
+        0.7
+      ]
+    ],
+    "music": {
+      "clip": "music",
+      "loop": true,
+      "until": "S14"
+    },
+    "levels": {
+      "sfx_lu": -3.0,
+      "music_lu": -12.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "medium",
-   "key": 20,
-   "note": "Monday: Mum straining at the pickle jar"
-  },
-  {
-   "id": "S2",
-   "size": "insert",
-   "key": 14,
-   "note": "the jar handed across"
-  },
-  {
-   "id": "S3",
-   "size": "insert",
-   "key": 10,
-   "note": "pop: the lid flies off"
-  },
-  {
-   "id": "S4",
-   "size": "two-shot",
-   "key": 14,
-   "note": "easy: you smug, Mum stunned"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "key": 10,
-   "note": "you swing the bedroom door shut"
-  },
-  {
-   "id": "S6",
-   "size": "insert",
-   "key": 12,
-   "note": "the handle comes off in your hand"
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "key": 28,
-   "note": "Mo kicks the ball onto the garage roof"
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "key": 12,
-   "note": "you throw your schoolbag up"
-  },
-  {
-   "id": "S9",
-   "size": "medium",
-   "key": 10,
-   "note": "the bag goes through the roof; Mo shocked"
-  },
-  {
-   "id": "S10",
-   "size": "low",
-   "key": 20,
-   "note": "the ball rolls under Dad's car"
-  },
-  {
-   "id": "S11",
-   "size": "wide",
-   "key": 30,
-   "note": "you lift the car with one hand"
-  },
-  {
-   "id": "S12",
-   "size": "close",
-   "key": 10,
-   "note": "Dad drops his coffee"
-  },
-  {
-   "id": "S13",
-   "size": "two-shot",
-   "key": 12,
-   "note": "day ten: Mo goes for a high five"
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "key": 10,
-   "note": "two hands an inch apart"
-  },
-  {
-   "id": "S15",
-   "size": "close",
-   "key": 30,
-   "note": "you know what would happen (thought bubble)"
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "key": 10,
-   "note": "alarm clock 06:00"
-  },
-  {
-   "id": "S17",
-   "size": "card",
-   "key": 14,
-   "note": "x2"
-  },
-  {
-   "id": "S18",
-   "size": "card",
-   "key": 40,
-   "note": "the ladder: it never stops"
-  },
-  {
-   "id": "S19",
-   "size": "wide",
-   "key": 40,
-   "note": "you looking at your hands: the question"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "She"
-  },
-  {
-   "shot": "S3",
-   "at": "Pop"
-  },
-  {
-   "shot": "S4",
-   "at": "Easy"
-  },
-  {
-   "shot": "S5",
-   "at": "Tuesday"
-  },
-  {
-   "shot": "S6",
-   "at": "handle"
-  },
-  {
-   "shot": "S7",
-   "at": "Thursday"
-  },
-  {
-   "shot": "S8",
-   "at": "throw"
-  },
-  {
-   "shot": "S9",
-   "at": "The"
-  },
-  {
-   "shot": "S10",
-   "at": "Saturday"
-  },
-  {
-   "shot": "S11",
-   "at": "So"
-  },
-  {
-   "shot": "S12",
-   "at": "Dad"
-  },
-  {
-   "shot": "S13",
-   "at": "Day"
-  },
-  {
-   "shot": "S14",
-   "at": "Your"
-  },
-  {
-   "shot": "S15",
-   "at": "Because"
-  },
-  {
-   "shot": "S16",
-   "at": "Every"
-  },
-  {
-   "shot": "S17",
-   "at": "strength"
-  },
-  {
-   "shot": "S18",
-   "at": "It"
-  },
-  {
-   "shot": "S19",
-   "at": "So"
-  }
- ],
- "fx": [],
- "pace": {
-  "min_cuts": 24,
-  "max_hold": 4
- }
 }
