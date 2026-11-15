@@ -3,9 +3,11 @@ import React from 'react';
 import { Iphone1926Thumb } from './iphone-1926/thumb';
 import { ElectricityThumb } from './electricity/thumb';
 import { ElecSets } from './electricity/sheet';
+import { AgingSets } from './aging-backwards/common';
 
 export const THUMBS: { id: string; component: React.FC }[] = [
   { id: 'Iphone1926Thumb', component: Iphone1926Thumb },
   { id: 'ElectricityThumb', component: ElectricityThumb },
   { id: 'ElecSets', component: ElecSets },
+  { id: 'AgingSets', component: AgingSets },
 ];

@@ -1,29 +1,371 @@
 {
  "slug": "aging-backwards/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1594,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 82,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 82,
+   "line": "Seven AM. Your alarm goes off. You"
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 118,
+   "t0": 0,
+   "t1": 36,
+   "line": "roll out of bed, and your"
+  },
+  {
+   "shot": "S3",
+   "a": 118,
+   "b": 193,
+   "t0": 0,
+   "t1": 75,
+   "line": "pajama pants slide straight down to your ankles."
+  },
+  {
+   "shot": "S4",
+   "a": 193,
+   "b": 280,
+   "t0": 0,
+   "t1": 87,
+   "line": "In the bathroom mirror, the zit on your chin is gone."
+  },
+  {
+   "shot": "S5",
+   "a": 280,
+   "b": 379,
+   "t0": 0,
+   "t1": 99,
+   "line": "So is the scar on your knee from the bike crash last summer. You"
+  },
+  {
+   "shot": "S6",
+   "a": 379,
+   "b": 508,
+   "t0": 0,
+   "t1": 129,
+   "line": "grab your phone. Face ID doesn't recognize you. Three tries."
+  },
+  {
+   "shot": "S7",
+   "a": 508,
+   "b": 551,
+   "t0": 0,
+   "t1": 43,
+   "line": "Enter passcode."
+  },
+  {
+   "shot": "S8",
+   "a": 551,
+   "b": 625,
+   "t0": 0,
+   "t1": 74,
+   "line": "At breakfast, you say good morning, and your voice"
+  },
+  {
+   "shot": "S9",
+   "a": 625,
+   "b": 676,
+   "t0": 0,
+   "t1": 51,
+   "line": "cracks. Upward."
+  },
+  {
+   "shot": "S10",
+   "a": 676,
+   "b": 756,
+   "t0": 0,
+   "t1": 80,
+   "line": "Your little sister Ellie spits out her cereal."
+  },
+  {
+   "shot": "S11",
+   "a": 756,
+   "b": 836,
+   "t0": 0,
+   "t1": 80,
+   "line": "Mo texts you. Bus in five. You"
+  },
+  {
+   "shot": "S12",
+   "a": 836,
+   "b": 867,
+   "t0": 0,
+   "t1": 31,
+   "line": "run outside, and your"
+  },
+  {
+   "shot": "S13",
+   "a": 867,
+   "b": 928,
+   "t0": 0,
+   "t1": 61,
+   "line": "sneakers are half a size too big."
+  },
+  {
+   "shot": "S14",
+   "a": 928,
+   "b": 1031,
+   "t0": 0,
+   "t1": 103,
+   "line": "Your mom checks your height against the pencil marks on the kitchen door frame."
+  },
+  {
+   "shot": "S15",
+   "a": 1031,
+   "b": 1155,
+   "t0": 0,
+   "t1": 124,
+   "line": "You're not at last night's mark. You're at the mark from exactly one year ago."
+  },
+  {
+   "shot": "S16",
+   "a": 1155,
+   "b": 1250,
+   "t0": 0,
+   "t1": 95,
+   "line": "Yesterday you were fifteen. Today you're fourteen."
+  },
+  {
+   "shot": "S17",
+   "a": 1250,
+   "b": 1321,
+   "t0": 0,
+   "t1": 71,
+   "line": "And tonight, at midnight, it happens again."
+  },
+  {
+   "shot": "S18",
+   "a": 1321,
+   "b": 1396,
+   "t0": 0,
+   "t1": 75,
+   "line": "What if you aged backwards, and couldn't stop?"
+  },
+  {
+   "shot": "S19",
+   "a": 1396,
+   "b": 1463,
+   "t0": 0,
+   "t1": 67,
+   "line": "At first, it sounds like a superpower."
+  },
+  {
+   "shot": "S20",
+   "a": 1463,
+   "b": 1524,
+   "t0": 0,
+   "t1": 61,
+   "line": "But every clock counts down to something."
+  },
+  {
+   "shot": "S21",
+   "a": 1524,
+   "b": 1594,
+   "t0": 0,
+   "t1": 70,
+   "line": "And yours just started."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "key": 12,
+   "len": 82,
+   "first": 0,
+   "line": "Seven AM. Your alarm goes off. You",
+   "note": "the alarm clock: 7:00 AM"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 20,
+   "len": 36,
+   "first": 82,
+   "line": "roll out of bed, and your",
+   "note": "you roll out of bed"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 55,
+   "len": 75,
+   "first": 118,
+   "line": "pajama pants slide straight down to your ankles.",
+   "note": "the pajama pants slide down to your ankles"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 24,
+   "len": 87,
+   "first": 193,
+   "line": "In the bathroom mirror, the zit on your chin is gone.",
+   "note": "the mirror: the zit is gone"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 24,
+   "len": 99,
+   "first": 280,
+   "line": "So is the scar on your knee from the bike crash last summer. You",
+   "note": "the scar on your knee fades away"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 60,
+   "len": 129,
+   "first": 379,
+   "line": "grab your phone. Face ID doesn't recognize you. Three tries.",
+   "note": "Face ID: not recognized, three tries"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 10,
+   "len": 43,
+   "first": 508,
+   "line": "Enter passcode.",
+   "note": "Enter passcode"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 20,
+   "len": 74,
+   "first": 551,
+   "line": "At breakfast, you say good morning, and your voice",
+   "note": "breakfast: good morning"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 14,
+   "len": 51,
+   "first": 625,
+   "line": "cracks. Upward.",
+   "note": "your voice cracks: upward"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 30,
+   "len": 80,
+   "first": 676,
+   "line": "Your little sister Ellie spits out her cereal.",
+   "note": "Ellie spits out her cereal"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 60,
+   "len": 80,
+   "first": 756,
+   "line": "Mo texts you. Bus in five. You",
+   "note": "Mo: Bus in five"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 31,
+   "first": 836,
+   "line": "run outside, and your",
+   "note": "you run outside"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 61,
+   "first": 867,
+   "line": "sneakers are half a size too big.",
+   "note": "sneakers half a size too big"
+  },
+  {
+   "id": "S14",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 103,
+   "first": 928,
+   "line": "Your mom checks your height against the pencil marks on the kitchen door frame.",
+   "note": "mum checks your height at the door frame"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 50,
+   "len": 124,
+   "first": 1031,
+   "line": "You're not at last night's mark. You're at the mark from exactly one year ago.",
+   "note": "not at last night's mark: a year lower"
+  },
+  {
+   "id": "S16",
+   "size": "big word",
+   "key": 40,
+   "len": 95,
+   "first": 1155,
+   "line": "Yesterday you were fifteen. Today you're fourteen.",
+   "note": "15 flips to 14"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "len": 71,
+   "first": 1250,
+   "line": "And tonight, at midnight, it happens again.",
+   "note": "the clock rolls to midnight"
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "key": 48,
+   "len": 75,
+   "first": 1321,
+   "line": "What if you aged backwards, and couldn't stop?",
+   "note": "WHAT IF YOU AGED BACKWARDS?"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 67,
+   "first": 1396,
+   "line": "At first, it sounds like a superpower.",
+   "note": "a superpower? you flex"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 30,
+   "len": 61,
+   "first": 1463,
+   "line": "But every clock counts down to something.",
+   "note": "a clock counting down backwards"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 70,
+   "first": 1524,
+   "line": "And yours just started.",
+   "note": "you: it just started"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c01/voice.wav"
+ }
 }

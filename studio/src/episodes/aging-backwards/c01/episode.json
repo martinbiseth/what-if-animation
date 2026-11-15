@@ -45,19 +45,238 @@
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "set": "bedroom",
+   "note": "the alarm clock: 7:00 AM",
+   "key": 12
+  },
+  {
+   "id": "S2",
    "size": "wide",
+   "set": "bedroom",
+   "note": "you roll out of bed",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "legs",
+   "note": "the pajama pants slide down to your ankles",
+   "key": 55
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "bathroom",
+   "note": "the mirror: the zit is gone",
+   "key": 24
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "knee",
+   "note": "the scar on your knee fades away",
+   "key": 24
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "phone",
+   "note": "Face ID: not recognized, three tries",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "phone",
+   "note": "Enter passcode",
+   "key": 10
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "breakfast: good morning",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "your voice cracks: upward",
+   "key": 14
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Ellie spits out her cereal",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "phone",
+   "note": "Mo: Bus in five",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "street day",
+   "note": "you run outside",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "feet",
+   "note": "sneakers half a size too big",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "door frame",
+   "note": "mum checks your height at the door frame",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "door frame",
+   "note": "not at last night's mark: a year lower",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "big word",
+   "set": "card",
+   "note": "15 flips to 14",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "night",
+   "note": "the clock rolls to midnight",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "title",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "WHAT IF YOU AGED BACKWARDS?",
+   "key": 48
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "street day",
+   "note": "a superpower? you flex",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "clock",
+   "note": "a clock counting down backwards",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "you: it just started",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "roll"
+  },
+  {
+   "shot": "S3",
+   "at": "pajama"
+  },
+  {
+   "shot": "S4",
+   "at": "In"
+  },
+  {
+   "shot": "S5",
+   "at": "So"
+  },
+  {
+   "shot": "S6",
+   "at": "grab"
+  },
+  {
+   "shot": "S7",
+   "at": "Enter"
+  },
+  {
+   "shot": "S8",
+   "at": "At"
+  },
+  {
+   "shot": "S9",
+   "at": "cracks"
+  },
+  {
+   "shot": "S10",
+   "at": "Your#1"
+  },
+  {
+   "shot": "S11",
+   "at": "Mo"
+  },
+  {
+   "shot": "S12",
+   "at": "run"
+  },
+  {
+   "shot": "S13",
+   "at": "sneakers"
+  },
+  {
+   "shot": "S14",
+   "at": "Your"
+  },
+  {
+   "shot": "S15",
+   "at": "You're"
+  },
+  {
+   "shot": "S16",
+   "at": "Yesterday"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "What"
+  },
+  {
+   "shot": "S19",
+   "at": "At"
+  },
+  {
+   "shot": "S20",
+   "at": "But"
+  },
+  {
+   "shot": "S21",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
