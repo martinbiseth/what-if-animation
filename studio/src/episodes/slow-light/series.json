@@ -1,88 +1,105 @@
 {
- "id": "SlowLight",
- "slug": "slow-light",
- "topic": "What if light kept getting slower every hour?",
- "title": [
-  "WHAT IF LIGHT",
-  "KEPT GETTING SLOWER?"
- ],
- "target_seconds": 540,
- "defaults": {
-  "voice": {
-   "id": "TX3LPaxmHKxFdv7VOQHJ",
-   "model": "eleven_multilingual_v2",
-   "settings": {
-    "stability": 0.45,
-    "similarity_boost": 0.8,
-    "style": 0.3,
-    "use_speaker_boost": true
-   }
-  },
-  "gaps": {
-   "word": 0.14,
-   "comma": 0.25,
-   "sentence": 0.42,
-   "question": 0.6
-  },
-  "pace": {
-   "min_cuts": 8,
-   "max_hold": 8
-  }
- },
- "chapters": [
-  {
-   "slug": "c01",
-   "name": "Cold open",
-   "words": 130
-  },
-  {
-   "slug": "c02",
-   "name": "The rules",
-   "words": 120
-  },
-  {
-   "slug": "c03",
-   "name": "The fun part",
-   "words": 260
-  },
-  {
-   "slug": "c04",
-   "name": "The catch",
-   "words": 260
-  },
-  {
-   "slug": "c05",
-   "name": "Someone notices",
-   "words": 200
-  },
-  {
-   "slug": "c06",
-   "name": "The choice",
-   "words": 200
-  },
-  {
-   "slug": "c07",
-   "name": "The mirror",
-   "words": 130
-  }
- ],
- "youtube": {
-  "title": "What if light kept getting slower every hour?",
-  "tags": [
-   "what if",
-   "animation",
-   "science"
+  "id": "SlowLight",
+  "slug": "slow-light",
+  "topic": "What if light kept getting slower every hour?",
+  "title": [
+    "WHAT IF LIGHT",
+    "KEPT GETTING SLOWER?"
   ],
-  "category": 27,
-  "language": "en",
-  "privacy": "private",
-  "made_for_kids": false,
-  "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
-  "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+  "target_seconds": 540,
+  "defaults": {
+    "voice": {
+      "id": "TX3LPaxmHKxFdv7VOQHJ",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.45,
+        "similarity_boost": 0.8,
+        "style": 0.3,
+        "use_speaker_boost": true
+      }
+    },
+    "gaps": {
+      "word": 0.14,
+      "comma": 0.25,
+      "sentence": 0.42,
+      "question": 0.6
+    },
+    "pace": {
+      "min_cuts": 8,
+      "max_hold": 8
+    }
   },
-  "midroll_gap": 120
- }
+  "chapters": [
+    {
+      "slug": "c01",
+      "name": "Cold open",
+      "words": 130
+    },
+    {
+      "slug": "c02",
+      "name": "The rules",
+      "words": 120
+    },
+    {
+      "slug": "c03",
+      "name": "The fun part",
+      "words": 260
+    },
+    {
+      "slug": "c04",
+      "name": "The catch",
+      "words": 260
+    },
+    {
+      "slug": "c05",
+      "name": "Someone notices",
+      "words": 200
+    },
+    {
+      "slug": "c06",
+      "name": "The choice",
+      "words": 200
+    },
+    {
+      "slug": "c07",
+      "name": "The mirror",
+      "words": 130
+    }
+  ],
+  "youtube": {
+    "title": "What If Light Kept Getting Slower Every Hour?",
+    "tags": [
+      "what if",
+      "what if animation",
+      "what if light slowed down",
+      "speed of light",
+      "slow light",
+      "light speed",
+      "physics",
+      "science animation",
+      "animated story",
+      "what would happen if",
+      "sunlight 8 minutes",
+      "gps",
+      "relativity",
+      "space",
+      "survival story",
+      "apocalypse",
+      "alternate reality",
+      "thought experiment",
+      "cliffhanger",
+      "mystery"
+    ],
+    "category": 27,
+    "language": "en",
+    "privacy": "private",
+    "made_for_kids": false,
+    "synthetic_media": false,
+    "intro": "Monday, 7:00 AM: light starts losing half its speed every hour. At first it's the best day ever. By evening the Sun is old news, phones stop working, and you can outrun your own bike light. Then you have to choose: get on the last bus, or go back for your mom.",
+    "thumbnail": {
+      "composition": "SlowLightThumb"
+    },
+    "midroll_gap": 120,
+    "pinned_comment": "Get on the last bus, or go back for your mom? 👇 What would you do, and why?\n\nAnd what is the reflection pointing at? Best theory gets pinned before Part 2.\n\nThe science checks out: sunlight takes about 8 minutes to reach us, light normally moves 299,792 km every second, and GPS only works because it times light signals to a billionth of a second. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2, and find out what's in that mirror."
+  }
 }
