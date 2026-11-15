@@ -255,5 +255,196 @@
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "fire",
+    0.22,
+    "onset",
+    "S4+0"
+   ],
+   [
+    "S4+0",
+    "fire",
+    0.22,
+    "onset",
+    "S7+0"
+   ],
+   [
+    "S7+0",
+    "fire",
+    0.22,
+    "onset",
+    "S11+0"
+   ],
+   [
+    "S11+0",
+    "wind",
+    0.17,
+    "onset",
+    "S15+0"
+   ],
+   [
+    "S15+0",
+    "fire",
+    0.22,
+    "onset",
+    "S22+0"
+   ],
+   [
+    "S22+0",
+    "fire",
+    0.22,
+    "onset",
+    "S21+0"
+   ],
+   [
+    "S21+0",
+    "wind",
+    0.17,
+    "onset"
+   ],
+   [
+    "S1+0",
+    "heartbeat",
+    0.35
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S5+66",
+    "power_down",
+    0.3
+   ],
+   [
+    "S7+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+4",
+    "laugh_low",
+    0.6
+   ],
+   [
+    "S10+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S11+0",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S12+0",
+    "card_hit",
+    0.36
+   ],
+   [
+    "S13+0",
+    "card_hit",
+    0.36
+   ],
+   [
+    "S14+0",
+    "title_boom",
+    0.48,
+    "peak"
+   ],
+   [
+    "S15+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S17+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S18+0",
+    "gulp",
+    0.6
+   ],
+   [
+    "S20+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S21+0",
+    "whoosh",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
  }
 }

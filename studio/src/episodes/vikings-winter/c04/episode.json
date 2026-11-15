@@ -426,5 +426,359 @@
    "at": "five"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "shatter": [
+    "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+    1.3
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "fire",
+    0.22,
+    "onset",
+    "S3+0"
+   ],
+   [
+    "S3+0",
+    "wind",
+    0.17,
+    "onset",
+    "S6+0"
+   ],
+   [
+    "S6+0",
+    "wind",
+    0.17,
+    "onset",
+    "S8+0"
+   ],
+   [
+    "S8+0",
+    "wind",
+    0.17,
+    "onset",
+    "S10+0"
+   ],
+   [
+    "S10+0",
+    "wind",
+    0.17,
+    "onset",
+    "S11+0"
+   ],
+   [
+    "S11+0",
+    "fire",
+    0.22,
+    "onset",
+    "S15+0"
+   ],
+   [
+    "S15+0",
+    "fire",
+    0.22,
+    "onset",
+    "S17+0"
+   ],
+   [
+    "S17+0",
+    "fire",
+    0.22,
+    "onset",
+    "S19+0"
+   ],
+   [
+    "S19+0",
+    "fire",
+    0.22,
+    "onset",
+    "S20+0"
+   ],
+   [
+    "S20+0",
+    "fire",
+    0.22,
+    "onset",
+    "S23+0"
+   ],
+   [
+    "S23+0",
+    "fire",
+    0.22,
+    "onset",
+    "S26+0"
+   ],
+   [
+    "S26+0",
+    "fire",
+    0.22,
+    "onset",
+    "S27+0"
+   ],
+   [
+    "S27+0",
+    "wind",
+    0.17,
+    "onset",
+    "S31+0"
+   ],
+   [
+    "S31+0",
+    "wind",
+    0.17,
+    "onset",
+    "S35+0"
+   ],
+   [
+    "S35+0",
+    "wind",
+    0.17,
+    "onset",
+    "S38+0"
+   ],
+   [
+    "S38+0",
+    "wind",
+    0.17,
+    "onset"
+   ],
+   [
+    "S2+0",
+    "clink",
+    0.4
+   ],
+   [
+    "S3+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S4+0",
+    "whoosh",
+    0.7
+   ],
+   [
+    "S5+20",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S6+0",
+    "card_hit",
+    0.36
+   ],
+   [
+    "S7+0",
+    "heartbeat",
+    0.4,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "ding",
+    0.24
+   ],
+   [
+    "S10+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S12+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S13+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S14+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S15+0",
+    "slide",
+    0.4
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S17+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S18+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S19+0",
+    "ding",
+    0.24
+   ],
+   [
+    "S20+14",
+    "scratch",
+    0.24
+   ],
+   [
+    "S21+16",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S22+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S24+0",
+    "laugh",
+    0.3
+   ],
+   [
+    "S27+0",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S29+30",
+    "ding",
+    0.24
+   ],
+   [
+    "S31+14",
+    "crack",
+    0.48
+   ],
+   [
+    "S31+16",
+    "shatter",
+    0.24
+   ],
+   [
+    "S32+0",
+    "slide",
+    0.3
+   ],
+   [
+    "S33+0",
+    "step",
+    0.4
+   ],
+   [
+    "S34+0",
+    "thud",
+    0.3
+   ],
+   [
+    "S36+12",
+    "crack",
+    0.24
+   ],
+   [
+    "S37+0",
+    "step",
+    0.4
+   ],
+   [
+    "S39+0",
+    "title_boom",
+    0.36,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
+ }
 }

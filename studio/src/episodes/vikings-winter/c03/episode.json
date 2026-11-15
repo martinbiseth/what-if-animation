@@ -265,5 +265,202 @@
    "at": "this"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "wind",
+    0.17,
+    "onset",
+    "S2+0"
+   ],
+   [
+    "S2+0",
+    "fire",
+    0.22,
+    "onset",
+    "S4+0"
+   ],
+   [
+    "S4+0",
+    "fire",
+    0.22,
+    "onset",
+    "S5+0"
+   ],
+   [
+    "S5+0",
+    "wind",
+    0.17,
+    "onset",
+    "S6+0"
+   ],
+   [
+    "S6+0",
+    "wind",
+    0.17,
+    "onset",
+    "S8+0"
+   ],
+   [
+    "S8+0",
+    "wind",
+    0.17,
+    "onset",
+    "S9+0"
+   ],
+   [
+    "S9+0",
+    "fire",
+    0.22,
+    "onset",
+    "S11+0"
+   ],
+   [
+    "S11+0",
+    "fire",
+    0.22,
+    "onset",
+    "S14+0"
+   ],
+   [
+    "S14+0",
+    "fire",
+    0.22,
+    "onset",
+    "S16+0"
+   ],
+   [
+    "S16+0",
+    "fire",
+    0.22,
+    "onset",
+    "S18+0"
+   ],
+   [
+    "S18+0",
+    "fire",
+    0.22,
+    "onset",
+    "S21+0"
+   ],
+   [
+    "S21+0",
+    "fire",
+    0.22,
+    "onset"
+   ],
+   [
+    "S2+30",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S6+0",
+    "step",
+    0.5
+   ],
+   [
+    "S7+0",
+    "ding",
+    0.24
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S12+0",
+    "cough",
+    0.25
+   ],
+   [
+    "S13+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S16+0",
+    "step",
+    0.4
+   ],
+   [
+    "S18+0",
+    "ding",
+    0.24
+   ],
+   [
+    "S19+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S20+0",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S22+8",
+    "pop",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
+ }
 }

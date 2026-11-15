@@ -383,6 +383,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "vikings-winter/c03/voice.wav"
+  "voice": "vikings-winter/c03/voice.wav",
+  "sfx": "vikings-winter/c03/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3452,
+  "music": "vikings-winter/c03/music.wav",
+  "musicVol": 0.0919
  }
 }

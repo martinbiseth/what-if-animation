@@ -342,5 +342,293 @@
    "at": "light"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "chew": [
+    "someone chewing food thoughtfully, close, cartoon",
+    1.0
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "fire",
+    0.22,
+    "onset",
+    "S5+0"
+   ],
+   [
+    "S5+0",
+    "fire",
+    0.22,
+    "onset",
+    "S9+0"
+   ],
+   [
+    "S9+0",
+    "fire",
+    0.22,
+    "onset",
+    "S11+0"
+   ],
+   [
+    "S11+0",
+    "fire",
+    0.22,
+    "onset",
+    "S14+0"
+   ],
+   [
+    "S14+0",
+    "fire",
+    0.22,
+    "onset",
+    "S16+0"
+   ],
+   [
+    "S16+0",
+    "fire",
+    0.22,
+    "onset",
+    "S18+0"
+   ],
+   [
+    "S18+0",
+    "fire",
+    0.22,
+    "onset",
+    "S20+0"
+   ],
+   [
+    "S20+0",
+    "wind",
+    0.12,
+    "onset",
+    "S25+0"
+   ],
+   [
+    "S25+0",
+    "wind",
+    0.12,
+    "onset",
+    "S28+0"
+   ],
+   [
+    "S28+0",
+    "wind",
+    0.12,
+    "onset",
+    "S30+0"
+   ],
+   [
+    "S30+0",
+    "wind",
+    0.17,
+    "onset"
+   ],
+   [
+    "S1+0",
+    "chew",
+    0.4
+   ],
+   [
+    "S2+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S3+0",
+    "ding",
+    0.18
+   ],
+   [
+    "S4+0",
+    "ding",
+    0.18
+   ],
+   [
+    "S7+10",
+    "knock",
+    0.6
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S10+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S11+0",
+    "thud",
+    0.4
+   ],
+   [
+    "S13+0",
+    "thud",
+    0.5
+   ],
+   [
+    "S13+8",
+    "thud",
+    0.5
+   ],
+   [
+    "S13+16",
+    "thud",
+    0.5
+   ],
+   [
+    "S14+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S16+14",
+    "ding",
+    0.18
+   ],
+   [
+    "S18+0",
+    "ding",
+    0.24
+   ],
+   [
+    "S19+0",
+    "slide",
+    0.3
+   ],
+   [
+    "S20+0",
+    "step",
+    0.4
+   ],
+   [
+    "S22+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S24+0",
+    "fall_whoosh",
+    0.5
+   ],
+   [
+    "S24+10",
+    "thud",
+    0.7
+   ],
+   [
+    "S24+12",
+    "dizzy",
+    0.5
+   ],
+   [
+    "S25+0",
+    "laugh_low",
+    0.7
+   ],
+   [
+    "S27+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S28+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S29+0",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S31+0",
+    "heartbeat",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
+ }
 }

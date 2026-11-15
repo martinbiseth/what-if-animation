@@ -67,22 +67,39 @@
   }
  ],
  "youtube": {
-  "title": "How did Vikings survive -30°C winters with no electricity?",
+  "title": "How Vikings Survived -30°C Winters With NO Electricity",
   "tags": [
-   "what if",
-   "animation",
-   "science"
+   "vikings",
+   "viking life",
+   "how vikings survived winter",
+   "viking winter",
+   "viking longhouse",
+   "life as a viking",
+   "a day as a viking",
+   "ancient history",
+   "history animation",
+   "animated history",
+   "history explained",
+   "norse history",
+   "scandinavian history",
+   "viking food",
+   "stockfish",
+   "hypothermia",
+   "winter survival",
+   "medieval life",
+   "ancient for a day",
+   "what if"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "You wake up in a Viking longhouse in January, the year 900. It's -30°C outside, there's no electricity, and you have one day to survive. Here's how the Vikings actually did it.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "VikingsWinterThumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have kept the fire going all night? 🔥 Be honest 👇\n\nNext time you wake up in ancient Egypt, at 43°C. Subscribe so you don't miss it, and tell us where we should send you after that.\n\nEverything in the \"is this real?\" part checks out: turf roofs, cows under the same roof, bone skates, stockfish, needle-bound socks and tinder fungus. Sources are in the description."
  }
 }

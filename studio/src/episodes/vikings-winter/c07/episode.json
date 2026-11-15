@@ -273,5 +273,229 @@
    "at": "Tell"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ],
+   "m_egypt_wonder": [
+    "warm wondrous ancient Egyptian style music, soaring strings, harp and oud, uplifting, instrumental loop",
+    20.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "wind",
+    0.17,
+    "onset",
+    "S5+0"
+   ],
+   [
+    "S5+0",
+    "fire",
+    0.22,
+    "onset",
+    "S9+0"
+   ],
+   [
+    "S9+0",
+    "fire",
+    0.22,
+    "onset",
+    "S12+0"
+   ],
+   [
+    "S12+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S16+0"
+   ],
+   [
+    "S16+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S19+0"
+   ],
+   [
+    "S19+0",
+    "fire",
+    0.22,
+    "onset",
+    "S20+0"
+   ],
+   [
+    "S20+0",
+    "fire",
+    0.22,
+    "onset",
+    "S22+0"
+   ],
+   [
+    "S22+0",
+    "fire",
+    0.22,
+    "onset"
+   ],
+   [
+    "S3+0",
+    "ding",
+    0.3
+   ],
+   [
+    "S4+0",
+    "sparkle",
+    0.24
+   ],
+   [
+    "S6+2",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S7+0",
+    "slide",
+    0.3
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S10+0",
+    "laugh_low",
+    0.4
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S12+0",
+    "title_boom",
+    0.42,
+    "peak"
+   ],
+   [
+    "S13+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.36
+   ],
+   [
+    "S17+6",
+    "pop",
+    0.4
+   ],
+   [
+    "S18+0",
+    "title_boom",
+    0.36,
+    "peak"
+   ],
+   [
+    "S19+0",
+    "scratch",
+    0.24
+   ],
+   [
+    "S20+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S21+0",
+    "card_hit",
+    0.36
+   ],
+   [
+    "S22+0",
+    "slide",
+    0.3
+   ],
+   [
+    "S25+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S12+0",
+    "m_egypt_wonder",
+    0.3,
+    "onset",
+    "S19+0"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S12+0"
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
+ }
 }

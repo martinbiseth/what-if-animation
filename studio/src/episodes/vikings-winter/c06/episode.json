@@ -425,5 +425,272 @@
    "at": "But"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "wind",
+    0.17,
+    "onset",
+    "S2+0"
+   ],
+   [
+    "S2+0",
+    "fire",
+    0.22,
+    "onset",
+    "S6+0"
+   ],
+   [
+    "S6+0",
+    "fire",
+    0.22,
+    "onset",
+    "S11+0"
+   ],
+   [
+    "S11+0",
+    "fire",
+    0.22,
+    "onset",
+    "S15+0"
+   ],
+   [
+    "S15+0",
+    "fire",
+    0.22,
+    "onset",
+    "S18+0"
+   ],
+   [
+    "S18+0",
+    "fire",
+    0.22,
+    "onset",
+    "S22+0"
+   ],
+   [
+    "S22+0",
+    "fire",
+    0.22,
+    "onset",
+    "S26+0"
+   ],
+   [
+    "S26+0",
+    "fire",
+    0.22,
+    "onset",
+    "S28+0"
+   ],
+   [
+    "S28+0",
+    "fire",
+    0.22,
+    "onset",
+    "S30+0"
+   ],
+   [
+    "S30+0",
+    "fire",
+    0.22,
+    "onset",
+    "S33+0"
+   ],
+   [
+    "S33+0",
+    "fire",
+    0.22,
+    "onset",
+    "S38+0"
+   ],
+   [
+    "S38+0",
+    "fire",
+    0.22,
+    "onset"
+   ],
+   [
+    "S1+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S3+0",
+    "sparkle",
+    0.18
+   ],
+   [
+    "S5+8",
+    "scratch",
+    0.24
+   ],
+   [
+    "S7+0",
+    "laugh_low",
+    0.5
+   ],
+   [
+    "S8+0",
+    "title_boom",
+    0.3,
+    "peak"
+   ],
+   [
+    "S9+0",
+    "laugh_low",
+    0.5
+   ],
+   [
+    "S11+20",
+    "pop",
+    0.3
+   ],
+   [
+    "S12+4",
+    "ding",
+    0.3
+   ],
+   [
+    "S16+4",
+    "pop",
+    0.3
+   ],
+   [
+    "S16+10",
+    "pop",
+    0.3
+   ],
+   [
+    "S16+16",
+    "pop",
+    0.3
+   ],
+   [
+    "S16+22",
+    "pop",
+    0.3
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.3
+   ],
+   [
+    "S22+0",
+    "heartbeat",
+    0.5,
+    "onset",
+    "S27"
+   ],
+   [
+    "S25+0",
+    "cough",
+    0.4
+   ],
+   [
+    "S26+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S30+10",
+    "clink",
+    0.5
+   ],
+   [
+    "S31+8",
+    "clink",
+    0.6
+   ],
+   [
+    "S31+10",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S33+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S35+0",
+    "title_boom",
+    0.24,
+    "peak"
+   ],
+   [
+    "S39+0",
+    "card_hit",
+    0.36
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -12.0,
+   "music_lu": -17.0
+  }
+ }
 }
