@@ -1,0 +1,582 @@
+{
+ "id": "BackTo2010C03",
+ "slug": "back-to-2010/c03",
+ "chapter": "Ten thousand coins",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c03 p1",
+   "text": "So, what do you buy? Not toys. Not trainers. You buy the strangest thing in 2010. Bitcoin."
+  },
+  {
+   "beat": "c03 p2",
+   "text": "Right now almost nobody has heard of it. It's a nerdy experiment on a forum. A coin is worth less than a penny. On the twenty-second of May, a man in Florida pays ten thousand bitcoins for two pizzas. That's real."
+  },
+  {
+   "beat": "c03 p3",
+   "text": "So you find someone on the forum, and you send them your hundred dollars. They send you ten thousand coins. The same pile that just bought two pizzas. They think you're an idiot. You let them."
+  },
+  {
+   "beat": "c03 p4",
+   "text": "Then you wait. You can't tell anyone. You can't touch it. You just check the price, every single night, under the covers. And while you wait, you have a little fun."
+  },
+  {
+   "beat": "c03 p5",
+   "text": "Your best friend Mo is obsessed with the World Cup. You tell him Spain will win the final. One–nil. A goal from Iniesta, in extra time, in the one hundred and sixteenth minute. Mo laughs at you. Then on the eleventh of July, the ball hits the net in the one hundred and sixteenth minute. Mo stares at you like you're a ghost. 'Do it again.'"
+  },
+  {
+   "beat": "c03 p6",
+   "text": "So you do. You tell him a photo app called Instagram is coming in October. It comes in October. You tell him about a block game called Minecraft that everyone will be playing. He thinks it looks terrible. Now he's building a castle every night."
+  },
+  {
+   "beat": "c03 p7",
+   "text": "Then, in February 2011, it happens. One bitcoin is worth one dollar. Your hundred dollars just became ten thousand."
+  },
+  {
+   "beat": "c03 p8",
+   "text": "In early June, it hits thirty-one dollars. Your hundred dollars is now worth three hundred and ten thousand. You're a kid, and you're secretly richer than everyone on your street."
+  },
+  {
+   "beat": "c03 p9",
+   "text": "Mo whispers, 'How?' You just say, 'Pizza.'"
+  },
+  {
+   "beat": "c03 p10",
+   "text": "But here's the thing about magic internet money. It can disappear just as fast."
+  }
+ ],
+ "science": [
+  {
+   "claim": "On 22 May 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas, the first known real-world bitcoin purchase.",
+   "working": "Laszlo Hanyecz of Jacksonville, Florida, offered 10,000 BTC on the BitcoinTalk forum for two pizzas; the trade happened on 22 May 2010 (about $41 at the time).",
+   "source": "Bitcoin Pizza Day; BitcoinTalk forum thread 'Pizza for bitcoins?' (2010)"
+  },
+  {
+   "claim": "Spain beat the Netherlands 1–0 in the 2010 World Cup final; Andrés Iniesta scored in the 116th minute.",
+   "working": "Spain beat the Netherlands 1-0 after extra time in Johannesburg on 11 July 2010; Iniesta scored in the 116th minute.",
+   "source": "FIFA, 2010 World Cup final match report (11 July 2010)"
+  },
+  {
+   "claim": "Instagram launched on the App Store on 6 October 2010.",
+   "working": "Instagram was released on the iOS App Store on 6 October 2010.",
+   "source": "Instagram, 'Instagram launches' (Oct 2010)"
+  },
+  {
+   "claim": "Bitcoin first reached $1 on 9 February 2011 and about $31 in June 2011 on Mt. Gox.",
+   "working": "Bitcoin reached parity with the US dollar on Mt. Gox on 9 February 2011 and peaked near $31.9 on 8 June 2011. 10,000 BTC x $31 = $310,000.",
+   "source": "Mt. Gox price history; CoinDesk, Bitcoin price history"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "toys trainers crossed",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "coin spinning",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "forum 2010",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "less than a penny",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "fact pizza day",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "forum selling",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "wallet 10000",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "face smug",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "under the covers",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "price checked",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "you and mo laughing",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "mo face",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "telling the final",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "mo laughs",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "tv goal 116",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "mo shock do it again",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "photo app october",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "block castle",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "note": "mo builds on laptop",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "note": "chart $1",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "note": "money 10000",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "note": "chart $31",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "note": "money 310000",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "note": "walk down street",
+   "key": 20
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "note": "how pizza",
+   "key": 20
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "note": "coins fade",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Not"
+  },
+  {
+   "shot": "S3",
+   "at": "Bitcoin"
+  },
+  {
+   "shot": "S4",
+   "at": "Right"
+  },
+  {
+   "shot": "S5",
+   "at": "A#3"
+  },
+  {
+   "shot": "S6",
+   "at": "On"
+  },
+  {
+   "shot": "S7",
+   "at": "So"
+  },
+  {
+   "shot": "S8",
+   "at": "They"
+  },
+  {
+   "shot": "S9",
+   "at": "They"
+  },
+  {
+   "shot": "S10",
+   "at": "Then"
+  },
+  {
+   "shot": "S11",
+   "at": "just"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "Your"
+  },
+  {
+   "shot": "S14",
+   "at": "You"
+  },
+  {
+   "shot": "S15",
+   "at": "laughs"
+  },
+  {
+   "shot": "S16",
+   "at": "Then"
+  },
+  {
+   "shot": "S17",
+   "at": "Mo"
+  },
+  {
+   "shot": "S18",
+   "at": "him"
+  },
+  {
+   "shot": "S19",
+   "at": "about"
+  },
+  {
+   "shot": "S20",
+   "at": "Now"
+  },
+  {
+   "shot": "S21",
+   "at": "Then"
+  },
+  {
+   "shot": "S22",
+   "at": "Your"
+  },
+  {
+   "shot": "S23",
+   "at": "In"
+  },
+  {
+   "shot": "S24",
+   "at": "Your"
+  },
+  {
+   "shot": "S25",
+   "at": "You're"
+  },
+  {
+   "shot": "S26",
+   "at": "Mo"
+  },
+  {
+   "shot": "S27",
+   "at": "But"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+2",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S2+22",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S3+0",
+    "sparkle",
+    0.8
+   ],
+   [
+    "S4+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S5+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S6+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S6+60",
+    "ding",
+    0.6
+   ],
+   [
+    "S7+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S8+0",
+    "cash",
+    0.6
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S10+0",
+    "tick",
+    0.4,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "street",
+    0.3,
+    "onset",
+    "S16"
+   ],
+   [
+    "S15+0",
+    "laugh",
+    0.3
+   ],
+   [
+    "S16+30",
+    "cheer",
+    0.8
+   ],
+   [
+    "S17+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S18+0",
+    "shutter",
+    0.6
+   ],
+   [
+    "S19+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S19+16",
+    "pop",
+    0.4
+   ],
+   [
+    "S19+32",
+    "pop",
+    0.4
+   ],
+   [
+    "S21+40",
+    "ding",
+    0.6
+   ],
+   [
+    "S22+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S22+30",
+    "cash",
+    0.7
+   ],
+   [
+    "S23+30",
+    "ding",
+    0.6
+   ],
+   [
+    "S24+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S24+30",
+    "cash",
+    0.8
+   ],
+   [
+    "S25+0",
+    "street",
+    0.3,
+    "onset",
+    "S27"
+   ],
+   [
+    "S26+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S27+0",
+    "glitch",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "id": "BackTo2010C07",
+ "slug": "back-to-2010/c07",
+ "chapter": "The message",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c07 p1",
+   "text": "That night, you fall asleep. And you wake up in 2026."
+  },
+  {
+   "beat": "c07 p2",
+   "text": "Your phone is back. Your room is back. Everything looks normal. You run to the attic, and there's Captain Buttons. Old now. One eye missing. The paper is still inside."
+  },
+  {
+   "beat": "c07 p3",
+   "text": "With shaking hands, you type in the password. Eight thousand bitcoins. At bitcoin's peak, that's about a billion dollars."
+  },
+  {
+   "beat": "c07 p4",
+   "text": "But there's one transaction you've never seen. Someone sent your wallet a tiny amount of bitcoin. Yesterday. With a message attached. It says: 'We kept a copy too.'"
+  },
+  {
+   "beat": "c07 p5",
+   "text": "And downstairs, the doorbell rings."
+  },
+  {
+   "beat": "c07 p6",
+   "text": "Is any of this real? The pizzas are. Ten thousand bitcoins, May 2010. The one-cent crash. The eight thousand coins in a Welsh landfill. One in five bitcoins lost forever. All real."
+  },
+  {
+   "beat": "c07 p7",
+   "text": "So, would you have taken the fifty thousand dollars? Tell me in the comments. Part two is coming."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "year forward 2026",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "phone back",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "you normal",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "attic teddy",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "old teddy",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "paper inside",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "typing key",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "8000 btc",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "a billion",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "history transaction",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "you worried",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "message typed",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "you shock",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "door silhouette",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "real?",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "facts tick",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "briefcase question",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "part 2",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "Everything"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "Old"
+  },
+  {
+   "shot": "S7",
+   "at": "The"
+  },
+  {
+   "shot": "S8",
+   "at": "With"
+  },
+  {
+   "shot": "S9",
+   "at": "Eight"
+  },
+  {
+   "shot": "S10",
+   "at": "At"
+  },
+  {
+   "shot": "S11",
+   "at": "But"
+  },
+  {
+   "shot": "S12",
+   "at": "Someone"
+  },
+  {
+   "shot": "S13",
+   "at": "With"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "doorbell"
+  },
+  {
+   "shot": "S16",
+   "at": "Is"
+  },
+  {
+   "shot": "S17",
+   "at": "The"
+  },
+  {
+   "shot": "S18",
+   "at": "So"
+  },
+  {
+   "shot": "S19",
+   "at": "Tell"
+  }
+ ],
+ "fx": [],
+ "tail": 2.0,
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+4",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S2+34",
+    "ding",
+    0.6
+   ],
+   [
+    "S3+0",
+    "notify",
+    0.5
+   ],
+   [
+    "S5+0",
+    "wind",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S6+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S7+8",
+    "paper",
+    0.6
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S8+20",
+    "pop",
+    0.3
+   ],
+   [
+    "S8+40",
+    "pop",
+    0.3
+   ],
+   [
+    "S9+0",
+    "ding",
+    0.7
+   ],
+   [
+    "S10+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S10+40",
+    "cash",
+    0.8
+   ],
+   [
+    "S11+0",
+    "notify",
+    0.6
+   ],
+   [
+    "S12+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S13+0",
+    "drone",
+    0.5,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "drone_hit",
+    0.8,
+    "peak"
+   ],
+   [
+    "S15+0",
+    "knock",
+    0.8
+   ],
+   [
+    "S16+0",
+    "title_boom",
+    0.7,
+    "peak"
+   ],
+   [
+    "S17+10",
+    "ding",
+    0.4
+   ],
+   [
+    "S18+0",
+    "cash",
+    0.5
+   ],
+   [
+    "S19+30",
+    "title_boom",
+    0.8,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S16"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

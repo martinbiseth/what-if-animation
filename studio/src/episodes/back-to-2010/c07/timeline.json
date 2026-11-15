@@ -1,0 +1,342 @@
+{
+ "slug": "back-to-2010/c07",
+ "title": "WHAT IF YOU WENT BACK TO 2010 WITH $100?",
+ "fps": 30,
+ "total": 1575,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 56,
+   "t0": 0,
+   "t1": 56,
+   "line": "That night, you fall asleep."
+  },
+  {
+   "shot": "S2",
+   "a": 56,
+   "b": 111,
+   "t0": 0,
+   "t1": 55,
+   "line": "And you wake up in 2026."
+  },
+  {
+   "shot": "S3",
+   "a": 111,
+   "b": 182,
+   "t0": 0,
+   "t1": 71,
+   "line": "Your phone is back. Your room is back."
+  },
+  {
+   "shot": "S4",
+   "a": 182,
+   "b": 224,
+   "t0": 0,
+   "t1": 42,
+   "line": "Everything looks normal."
+  },
+  {
+   "shot": "S5",
+   "a": 224,
+   "b": 303,
+   "t0": 0,
+   "t1": 79,
+   "line": "You run to the attic, and there's Captain Buttons."
+  },
+  {
+   "shot": "S6",
+   "a": 303,
+   "b": 364,
+   "t0": 0,
+   "t1": 61,
+   "line": "Old now. One eye missing."
+  },
+  {
+   "shot": "S7",
+   "a": 364,
+   "b": 417,
+   "t0": 0,
+   "t1": 53,
+   "line": "The paper is still inside."
+  },
+  {
+   "shot": "S8",
+   "a": 417,
+   "b": 492,
+   "t0": 0,
+   "t1": 75,
+   "line": "With shaking hands, you type in the password."
+  },
+  {
+   "shot": "S9",
+   "a": 492,
+   "b": 541,
+   "t0": 0,
+   "t1": 49,
+   "line": "Eight thousand bitcoins."
+  },
+  {
+   "shot": "S10",
+   "a": 541,
+   "b": 622,
+   "t0": 0,
+   "t1": 81,
+   "line": "At bitcoin's peak, that's about a billion dollars."
+  },
+  {
+   "shot": "S11",
+   "a": 622,
+   "b": 696,
+   "t0": 0,
+   "t1": 74,
+   "line": "But there's one transaction you've never seen."
+  },
+  {
+   "shot": "S12",
+   "a": 696,
+   "b": 806,
+   "t0": 0,
+   "t1": 110,
+   "line": "Someone sent your wallet a tiny amount of bitcoin. Yesterday."
+  },
+  {
+   "shot": "S13",
+   "a": 806,
+   "b": 921,
+   "t0": 0,
+   "t1": 115,
+   "line": "With a message attached. It says: 'We kept a copy too. '"
+  },
+  {
+   "shot": "S14",
+   "a": 921,
+   "b": 951,
+   "t0": 0,
+   "t1": 30,
+   "line": "And downstairs,"
+  },
+  {
+   "shot": "S15",
+   "a": 951,
+   "b": 984,
+   "t0": 0,
+   "t1": 33,
+   "line": "the doorbell rings."
+  },
+  {
+   "shot": "S16",
+   "a": 984,
+   "b": 1029,
+   "t0": 0,
+   "t1": 45,
+   "line": "Is any of this real?"
+  },
+  {
+   "shot": "S17",
+   "a": 1029,
+   "b": 1346,
+   "t0": 0,
+   "t1": 317,
+   "line": "The pizzas are. Ten thousand bitcoins, May 2010. The one- cent crash. The eight thousand coins in a Welsh landfill. One in five bitcoins lost forever. All real."
+  },
+  {
+   "shot": "S18",
+   "a": 1346,
+   "b": 1440,
+   "t0": 0,
+   "t1": 94,
+   "line": "So, would you have taken the fifty thousand dollars?"
+  },
+  {
+   "shot": "S19",
+   "a": 1440,
+   "b": 1575,
+   "t0": 0,
+   "t1": 135,
+   "line": "Tell me in the comments. Part two is coming."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "key": 20,
+   "len": 56,
+   "first": 0,
+   "line": "That night, you fall asleep.",
+   "note": "chapter card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 55,
+   "first": 56,
+   "line": "And you wake up in 2026.",
+   "note": "year forward 2026"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 71,
+   "first": 111,
+   "line": "Your phone is back. Your room is back.",
+   "note": "phone back"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 42,
+   "first": 182,
+   "line": "Everything looks normal.",
+   "note": "you normal"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 79,
+   "first": 224,
+   "line": "You run to the attic, and there's Captain Buttons.",
+   "note": "attic teddy"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 61,
+   "first": 303,
+   "line": "Old now. One eye missing.",
+   "note": "old teddy"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 53,
+   "first": 364,
+   "line": "The paper is still inside.",
+   "note": "paper inside"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 75,
+   "first": 417,
+   "line": "With shaking hands, you type in the password.",
+   "note": "typing key"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 49,
+   "first": 492,
+   "line": "Eight thousand bitcoins.",
+   "note": "8000 btc"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 81,
+   "first": 541,
+   "line": "At bitcoin's peak, that's about a billion dollars.",
+   "note": "a billion"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 74,
+   "first": 622,
+   "line": "But there's one transaction you've never seen.",
+   "note": "history transaction"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 110,
+   "first": 696,
+   "line": "Someone sent your wallet a tiny amount of bitcoin. Yesterday.",
+   "note": "you worried"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 115,
+   "first": 806,
+   "line": "With a message attached. It says: 'We kept a copy too. '",
+   "note": "message typed"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 30,
+   "first": 921,
+   "line": "And downstairs,",
+   "note": "you shock"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 33,
+   "first": 951,
+   "line": "the doorbell rings.",
+   "note": "door silhouette"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 45,
+   "first": 984,
+   "line": "Is any of this real?",
+   "note": "real?"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 317,
+   "first": 1029,
+   "line": "The pizzas are. Ten thousand bitcoins, May 2010. The one- cent crash. The eight thousand coins in a Welsh landfill. One in five bitcoins lost forever. All real.",
+   "note": "facts tick"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 94,
+   "first": 1346,
+   "line": "So, would you have taken the fifty thousand dollars?",
+   "note": "briefcase question"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 135,
+   "first": 1440,
+   "line": "Tell me in the comments. Part two is coming.",
+   "note": "part 2"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "back-to-2010/c07/voice.wav",
+  "sfx": "back-to-2010/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4346,
+  "music": "back-to-2010/c07/music.wav",
+  "musicVol": 0.073
+ }
+}

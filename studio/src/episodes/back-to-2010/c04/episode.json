@@ -1,0 +1,636 @@
+{
+ "id": "BackTo2010C04",
+ "slug": "back-to-2010/c04",
+ "chapter": "The catch",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c04 p1",
+   "text": "But you remember what comes next. On the nineteenth of June, the biggest bitcoin exchange in the world gets hacked. For a few minutes, the price drops to one cent. One cent. That's real."
+  },
+  {
+   "beat": "c04 p2",
+   "text": "Your three hundred thousand dollars will be worth one hundred. Back where you started."
+  },
+  {
+   "beat": "c04 p3",
+   "text": "You know it comes back. But you also know what happens after that. And that's the problem. To get rich from bitcoin, you don't just have to buy it. You have to keep it. For fourteen years."
+  },
+  {
+   "beat": "c04 p4",
+   "text": "In 2014, that same exchange, Mt. Gox, collapses. About eight hundred and fifty thousand bitcoins vanish. People who kept their coins there lose everything. That's real."
+  },
+  {
+   "beat": "c04 p5",
+   "text": "Then there are the crashes. In 2017 bitcoin hits almost twenty thousand dollars. A year later, it's lost more than eighty percent. It happens again in 2022. Every time, the news says bitcoin is dead. Every time, almost everyone sells."
+  },
+  {
+   "beat": "c04 p6",
+   "text": "But the worst danger isn't the crashes. It's you. A bitcoin is just a secret password. Lose the password, and the coins are gone. Forever."
+  },
+  {
+   "beat": "c04 p7",
+   "text": "In 2013, a man in Wales threw out an old hard drive with eight thousand bitcoins on it. It's still in a landfill. In 2021, another man said he had two guesses left before his locked drive wipes seven thousand bitcoins. One study guessed that about one in every five bitcoins is lost forever."
+  },
+  {
+   "beat": "c04 p8",
+   "text": "And your password? It's in a file on the family computer. The one Ellie plays games on. The one that crashes every Tuesday."
+  },
+  {
+   "beat": "c04 p9",
+   "text": "So now you have three problems. Hackers. Crashes. And a little sister with sticky fingers. And very soon, a fourth problem."
+  }
+ ],
+ "science": [
+  {
+   "claim": "After the Mt. Gox hack on 19 June 2011, bitcoin briefly traded at one cent on the exchange.",
+   "working": "On 19 June 2011 a compromised account dumped coins on Mt. Gox and the price briefly fell to $0.01 before trading was halted.",
+   "source": "Wired, 'Bitcoin's Price Plummets on Mt. Gox' (June 2011)"
+  },
+  {
+   "claim": "Mt. Gox collapsed in February 2014, saying about 850,000 bitcoins were missing",
+   "working": "Mt. Gox filed for bankruptcy protection in February 2014 reporting about 850,000 BTC missing; about 200,000 BTC were later found in an old wallet.",
+   "source": "about 200,000 were later found). (Reuters, Mt. Gox bankruptcy filing (Feb 2014)"
+  },
+  {
+   "claim": "Bitcoin peaked near $20,000 in December 2017 and fell to about $3,200 by December 2018, a drop of over 80%.",
+   "working": "Bitcoin peaked near $19,800 on 17 December 2017 and traded near $3,200 in December 2018, a fall of about 84%.",
+   "source": "CoinDesk, Bitcoin price history"
+  },
+  {
+   "claim": "James Howells threw out a hard drive holding about 8,000 BTC in 2013; it is in a landfill in Newport, Wales.",
+   "working": "James Howells says a hard drive holding about 8,000 BTC was thrown out in 2013 and lies in a landfill in Newport, Wales; the council has refused to let him dig.",
+   "source": "BBC News, 'Man who threw away bitcoin hard drive' (2021–2024)"
+  },
+  {
+   "claim": "Stefan Thomas has two password guesses left on an IronKey holding 7,002 BTC.",
+   "working": "Programmer Stefan Thomas told the New York Times in January 2021 that he had two of ten password guesses left on an IronKey holding 7,002 BTC.",
+   "source": "New York Times, 'Lost Passwords Lock Millionaires Out of Their Bitcoin Fortunes' (Jan 2021)"
+  },
+  {
+   "claim": "Chainalysis estimated about 3.7 million BTC, around 20% of the coins mined at the time, are lost.",
+   "working": "Chainalysis estimated in 2020 that about 3.7 million BTC, roughly 20% of the 18.5 million mined then, were likely lost.",
+   "source": "Chainalysis, 2020 analysis of lost bitcoin"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "tv exchange hacked",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "price cliff",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "fact one cent",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "money falls to 100",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "face shock",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "chart comes back",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "keep it",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "14 years",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "tv mt gox collapses",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "fact 850000",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "crowd worried",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "chart 2017 2018",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "chart 2022",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "tv bitcoin is dead",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "sells",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "face worried",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "password note",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "note burns coins gone",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "note": "hard drive in bin",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "note": "landfill",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "note": "two guesses left",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "note": "one in five lost",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "note": "wallet.dat",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "note": "ellie at computer",
+   "key": 20
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "note": "blue crash screen",
+   "key": 20
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "note": "three problems",
+   "key": 20
+  },
+  {
+   "id": "S28",
+   "size": "shot",
+   "note": "black car fourth",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "On"
+  },
+  {
+   "shot": "S3",
+   "at": "For"
+  },
+  {
+   "shot": "S4",
+   "at": "One#2"
+  },
+  {
+   "shot": "S5",
+   "at": "Your"
+  },
+  {
+   "shot": "S6",
+   "at": "Back"
+  },
+  {
+   "shot": "S7",
+   "at": "know"
+  },
+  {
+   "shot": "S8",
+   "at": "To"
+  },
+  {
+   "shot": "S9",
+   "at": "For"
+  },
+  {
+   "shot": "S10",
+   "at": "In"
+  },
+  {
+   "shot": "S11",
+   "at": "About"
+  },
+  {
+   "shot": "S12",
+   "at": "People"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "It"
+  },
+  {
+   "shot": "S15",
+   "at": "Every"
+  },
+  {
+   "shot": "S16",
+   "at": "Every"
+  },
+  {
+   "shot": "S17",
+   "at": "But"
+  },
+  {
+   "shot": "S18",
+   "at": "A"
+  },
+  {
+   "shot": "S19",
+   "at": "Lose"
+  },
+  {
+   "shot": "S20",
+   "at": "In"
+  },
+  {
+   "shot": "S21",
+   "at": "It's"
+  },
+  {
+   "shot": "S22",
+   "at": "2021"
+  },
+  {
+   "shot": "S23",
+   "at": "One"
+  },
+  {
+   "shot": "S24",
+   "at": "And"
+  },
+  {
+   "shot": "S25",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S26",
+   "at": "that"
+  },
+  {
+   "shot": "S27",
+   "at": "So"
+  },
+  {
+   "shot": "S28",
+   "at": "very"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+0",
+    "glitch",
+    0.6
+   ],
+   [
+    "S3+8",
+    "power_down",
+    0.7
+   ],
+   [
+    "S4+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S4+60",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S5+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S6+0",
+    "gulp",
+    0.6
+   ],
+   [
+    "S7+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S9+0",
+    "tick",
+    0.4,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S11+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S11+60",
+    "drone_hit",
+    0.5,
+    "peak"
+   ],
+   [
+    "S12+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S13+60",
+    "scratch",
+    0.5
+   ],
+   [
+    "S14+40",
+    "power_off",
+    0.6
+   ],
+   [
+    "S15+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S16+0",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S17+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S18+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S19+10",
+    "power_off",
+    0.5
+   ],
+   [
+    "S20+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S20+28",
+    "thud",
+    0.7
+   ],
+   [
+    "S21+0",
+    "wind",
+    0.4,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S22+30",
+    "beep",
+    0.5
+   ],
+   [
+    "S23+40",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S24+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S25+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S26+0",
+    "power_off",
+    0.6
+   ],
+   [
+    "S27+10",
+    "pop",
+    0.5
+   ],
+   [
+    "S27+30",
+    "pop",
+    0.5
+   ],
+   [
+    "S27+52",
+    "pop",
+    0.5
+   ],
+   [
+    "S28+0",
+    "drone_hit",
+    0.7,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

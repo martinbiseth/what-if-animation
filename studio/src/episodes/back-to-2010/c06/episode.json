@@ -1,0 +1,554 @@
+{
+ "id": "BackTo2010C06",
+ "slug": "back-to-2010/c06",
+ "chapter": "The choice",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c06 p1",
+   "text": "He leaves his card on the table. It just has a phone number. And a date. The twentieth of June."
+  },
+  {
+   "beat": "c06 p2",
+   "text": "That night, you hear Mum on the phone in the kitchen. She's crying. The bank is taking the house. You remember now. You were too little to understand it the first time, but this is the summer you had to move. In 2010 alone, banks in America took more than a million homes. That's real."
+  },
+  {
+   "beat": "c06 p3",
+   "text": "The man's offer would save the house. Tonight. But you'd lose everything those coins will become."
+  },
+  {
+   "beat": "c06 p4",
+   "text": "Mo says keep them. 'He wouldn't want them if they weren't worth it.'"
+  },
+  {
+   "beat": "c06 p5",
+   "text": "Ellie climbs onto your bed with her teddy, Captain Buttons. 'Are we moving?' she asks."
+  },
+  {
+   "beat": "c06 p6",
+   "text": "And then you remember. The crash comes on the nineteenth of June. That's why his date is the twentieth. He wants the coins after the crash, when you're scared, and they look worthless."
+  },
+  {
+   "beat": "c06 p7",
+   "text": "But you also remember the rule. Sell too much, and you change the future. Then nothing you remember is true anymore. So you sell just enough. On the eighth of June, at thirty dollars a coin, you sell two thousand bitcoins. Sixty thousand dollars. You give it to Mum in an envelope. She asks where it came from. You say, 'Pizza.' The house is saved."
+  },
+  {
+   "beat": "c06 p8",
+   "text": "You keep eight thousand coins. You write the password on a piece of paper, fold it small, and sew it inside Captain Buttons."
+  },
+  {
+   "beat": "c06 p9",
+   "text": "When the man calls on the twentieth, you don't pick up."
+  }
+ ],
+ "science": [
+  {
+   "claim": "About 1.05 million US homes were repossessed by banks in 2010.",
+   "working": "RealtyTrac reported 1,050,500 US properties repossessed by lenders (REO) in 2010.",
+   "source": "RealtyTrac, 2010 Year-End Foreclosure Report (Jan 2011)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "suit card",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "calendar 20 june",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "mum crying on phone",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "bank letter",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "you remember",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "fact million homes",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "briefcase offer",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "chart what coins become",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "mo keep them",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "ellie teddy",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "you remember",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "calendar 19 20",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "suit face",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "future line",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "you decide",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "sell 2000",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "$60000",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "envelope",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "note": "pizza",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "note": "house saved",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "note": "8000 kept",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "note": "password note",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "note": "teddy seam",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "note": "phone rings",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "It"
+  },
+  {
+   "shot": "S3",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "That"
+  },
+  {
+   "shot": "S5",
+   "at": "bank"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "In"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "But"
+  },
+  {
+   "shot": "S10",
+   "at": "Mo"
+  },
+  {
+   "shot": "S11",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "The"
+  },
+  {
+   "shot": "S14",
+   "at": "He"
+  },
+  {
+   "shot": "S15",
+   "at": "But"
+  },
+  {
+   "shot": "S16",
+   "at": "So"
+  },
+  {
+   "shot": "S17",
+   "at": "On"
+  },
+  {
+   "shot": "S18",
+   "at": "Sixty"
+  },
+  {
+   "shot": "S19",
+   "at": "You"
+  },
+  {
+   "shot": "S20",
+   "at": "She"
+  },
+  {
+   "shot": "S21",
+   "at": "The"
+  },
+  {
+   "shot": "S22",
+   "at": "You"
+  },
+  {
+   "shot": "S23",
+   "at": "You"
+  },
+  {
+   "shot": "S24",
+   "at": "sew"
+  },
+  {
+   "shot": "S25",
+   "at": "When"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+0",
+    "slide",
+    0.6
+   ],
+   [
+    "S3+0",
+    "paper",
+    0.5
+   ],
+   [
+    "S4+0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S7"
+   ],
+   [
+    "S5+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S7+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S7+60",
+    "drone_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S8+0",
+    "cash",
+    0.4
+   ],
+   [
+    "S9+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S10+0",
+    "street",
+    0.25,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "cough",
+    0.3
+   ],
+   [
+    "S12+14",
+    "sparkle",
+    0.6
+   ],
+   [
+    "S13+66",
+    "pop",
+    0.5
+   ],
+   [
+    "S14+0",
+    "laugh_low",
+    0.4
+   ],
+   [
+    "S15+70",
+    "glitch",
+    0.4
+   ],
+   [
+    "S16+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S17+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S18+0",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S18+30",
+    "cash",
+    0.8
+   ],
+   [
+    "S19+0",
+    "slide",
+    0.7
+   ],
+   [
+    "S20+40",
+    "pop",
+    0.4
+   ],
+   [
+    "S21+12",
+    "thud",
+    0.6
+   ],
+   [
+    "S21+14",
+    "cheer",
+    0.4
+   ],
+   [
+    "S22+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S23+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S24+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S25+0",
+    "buzz",
+    0.6
+   ],
+   [
+    "S25+20",
+    "buzz",
+    0.6
+   ],
+   [
+    "S25+40",
+    "buzz",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

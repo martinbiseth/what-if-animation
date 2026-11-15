@@ -1,0 +1,308 @@
+{
+ "slug": "back-to-2010/c02",
+ "title": "WHAT IF YOU WENT BACK TO 2010 WITH $100?",
+ "fps": 30,
+ "total": 1339,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 36,
+   "t0": 0,
+   "t1": 36,
+   "line": "Here's how it works."
+  },
+  {
+   "shot": "S2",
+   "a": 36,
+   "b": 170,
+   "t0": 0,
+   "t1": 134,
+   "line": "You go to sleep in 2026, and wake up on the first of May, 2010."
+  },
+  {
+   "shot": "S3",
+   "a": 170,
+   "b": 270,
+   "t0": 0,
+   "t1": 100,
+   "line": "Same age. Same house. Same family."
+  },
+  {
+   "shot": "S4",
+   "a": 270,
+   "b": 350,
+   "t0": 0,
+   "t1": 80,
+   "line": "But the whole world is sixteen years behind you."
+  },
+  {
+   "shot": "S5",
+   "a": 350,
+   "b": 394,
+   "t0": 0,
+   "t1": 44,
+   "line": "You keep every memory."
+  },
+  {
+   "shot": "S6",
+   "a": 394,
+   "b": 430,
+   "t0": 0,
+   "t1": 36,
+   "line": "Every price."
+  },
+  {
+   "shot": "S7",
+   "a": 430,
+   "b": 462,
+   "t0": 0,
+   "t1": 32,
+   "line": "Every headline."
+  },
+  {
+   "shot": "S8",
+   "a": 462,
+   "b": 497,
+   "t0": 0,
+   "t1": 35,
+   "line": "Every score."
+  },
+  {
+   "shot": "S9",
+   "a": 497,
+   "b": 542,
+   "t0": 0,
+   "t1": 45,
+   "line": "You get one hundred dollars."
+  },
+  {
+   "shot": "S10",
+   "a": 542,
+   "b": 577,
+   "t0": 0,
+   "t1": 35,
+   "line": "Not a cent more."
+  },
+  {
+   "shot": "S11",
+   "a": 577,
+   "b": 701,
+   "t0": 0,
+   "t1": 124,
+   "line": "The rules are simple. You can't bring anything back with you, except what's in your head."
+  },
+  {
+   "shot": "S12",
+   "a": 701,
+   "b": 801,
+   "t0": 0,
+   "t1": 100,
+   "line": "Nobody will believe you're from the future, so don't bother trying."
+  },
+  {
+   "shot": "S13",
+   "a": 801,
+   "b": 917,
+   "t0": 0,
+   "t1": 116,
+   "line": "And money you make here only counts if it survives until 2026."
+  },
+  {
+   "shot": "S14",
+   "a": 917,
+   "b": 954,
+   "t0": 0,
+   "t1": 37,
+   "line": "And one more rule."
+  },
+  {
+   "shot": "S15",
+   "a": 954,
+   "b": 1111,
+   "t0": 0,
+   "t1": 157,
+   "line": "Your memories are only right as long as the future stays the same. Change it too much, and what"
+  },
+  {
+   "shot": "S16",
+   "a": 1111,
+   "b": 1231,
+   "t0": 0,
+   "t1": 120,
+   "line": "you remember stops being true. Remember that. It matters later."
+  },
+  {
+   "shot": "S17",
+   "a": 1231,
+   "b": 1339,
+   "t0": 0,
+   "t1": 108,
+   "line": "This is what if you went back to 2010 with a hundred dollars."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "key": 20,
+   "len": 36,
+   "first": 0,
+   "line": "Here's how it works.",
+   "note": "chapter card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 134,
+   "first": 36,
+   "line": "You go to sleep in 2026, and wake up on the first of May, 2010.",
+   "note": "year rolls back"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 100,
+   "first": 170,
+   "line": "Same age. Same house. Same family.",
+   "note": "family kitchen"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 80,
+   "first": 270,
+   "line": "But the whole world is sixteen years behind you.",
+   "note": "street 2010"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 44,
+   "first": 350,
+   "line": "You keep every memory.",
+   "note": "face memory"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 36,
+   "first": 394,
+   "line": "Every price.",
+   "note": "chart prices"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 32,
+   "first": 430,
+   "line": "Every headline.",
+   "note": "tv headline"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 35,
+   "first": 462,
+   "line": "Every score.",
+   "note": "football score"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 45,
+   "first": 497,
+   "line": "You get one hundred dollars.",
+   "note": "bill on table"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 35,
+   "first": 542,
+   "line": "Not a cent more.",
+   "note": "$100 bigword"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 124,
+   "first": 577,
+   "line": "The rules are simple. You can't bring anything back with you, except what's in your head.",
+   "note": "rules list"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 100,
+   "first": 701,
+   "line": "Nobody will believe you're from the future, so don't bother trying.",
+   "note": "mo laughs"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 116,
+   "first": 801,
+   "line": "And money you make here only counts if it survives until 2026.",
+   "note": "survive 2026"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 37,
+   "first": 917,
+   "line": "And one more rule.",
+   "note": "one more rule"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 157,
+   "first": 954,
+   "line": "Your memories are only right as long as the future stays the same. Change it too much, and what",
+   "note": "future line bends"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 120,
+   "first": 1111,
+   "line": "you remember stops being true. Remember that. It matters later.",
+   "note": "face worried"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 108,
+   "first": 1231,
+   "line": "This is what if you went back to 2010 with a hundred dollars.",
+   "note": "title"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "back-to-2010/c02/voice.wav",
+  "sfx": "back-to-2010/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4346,
+  "music": "back-to-2010/c02/music.wav",
+  "musicVol": 0.1283
+ }
+}

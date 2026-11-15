@@ -1,0 +1,498 @@
+{
+ "id": "BackTo2010C01",
+ "slug": "back-to-2010/c01",
+ "chapter": "Cold open",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c01 p1",
+   "text": "You wake up and something is wrong. Your phone is gone. On the desk there's a chunky old laptop, and a phone with actual buttons."
+  },
+  {
+   "beat": "c01 p2",
+   "text": "The TV is talking about a brand new phone called the iPhone 4. Brand new."
+  },
+  {
+   "beat": "c01 p3",
+   "text": "The calendar on the wall says May 2010."
+  },
+  {
+   "beat": "c01 p4",
+   "text": "You run downstairs. Mum looks sixteen years younger. Your little sister Ellie is tiny again, watching cartoons in a onesie."
+  },
+  {
+   "beat": "c01 p5",
+   "text": "In your pocket, there's one thing. A single, crumpled one hundred dollar bill."
+  },
+  {
+   "beat": "c01 p6",
+   "text": "And then it hits you. You remember everything. Every winner. Every crash. Every app that's about to change the world. Somewhere on the internet right now, a guy is about to pay ten thousand bitcoins for two pizzas."
+  },
+  {
+   "beat": "c01 p7",
+   "text": "You know how this story ends. Nobody else does."
+  },
+  {
+   "beat": "c01 p8",
+   "text": "So what would you actually do, if you went back to 2010 with just one hundred dollars?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "wake from above",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "face worried",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "bedside no phone",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "desk laptop and button phone",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "button phone close",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "TV iphone 4 ad",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "face shock",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "calendar May 2010",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "bigword 2010",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "kitchen run in",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "young mum",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "tiny Ellie cartoons",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "hand pulls bill",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "bill glowing",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "face lightbulb",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "world cup goal",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "crash chart",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "apps pop",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "forum pizza",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "note": "pizza coins",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "note": "face smug",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "note": "city dusk",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "note": "question bill held up",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "something"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "On"
+  },
+  {
+   "shot": "S5",
+   "at": "actual"
+  },
+  {
+   "shot": "S6",
+   "at": "The"
+  },
+  {
+   "shot": "S7",
+   "at": "Brand#2"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "May"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "Mum"
+  },
+  {
+   "shot": "S12",
+   "at": "Your"
+  },
+  {
+   "shot": "S13",
+   "at": "In"
+  },
+  {
+   "shot": "S14",
+   "at": "A"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "Every"
+  },
+  {
+   "shot": "S17",
+   "at": "Every"
+  },
+  {
+   "shot": "S18",
+   "at": "Every"
+  },
+  {
+   "shot": "S19",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S20",
+   "at": "ten"
+  },
+  {
+   "shot": "S21",
+   "at": "You"
+  },
+  {
+   "shot": "S22",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S23",
+   "at": "So"
+  }
+ ],
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ },
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "room_tone",
+    0.35,
+    "onset",
+    "S10"
+   ],
+   [
+    "S2+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S3+14",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S5+0",
+    "buzz",
+    0.5
+   ],
+   [
+    "S6+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S7+0",
+    "gulp",
+    0.6
+   ],
+   [
+    "S8+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S9+0",
+    "title_boom",
+    0.8,
+    "peak"
+   ],
+   [
+    "S10+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S12+0",
+    "laugh",
+    0.25
+   ],
+   [
+    "S13+0",
+    "paper",
+    0.6
+   ],
+   [
+    "S14+0",
+    "sparkle",
+    0.7
+   ],
+   [
+    "S15+4",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S16+10",
+    "cheer",
+    0.6
+   ],
+   [
+    "S17+8",
+    "scratch",
+    0.6
+   ],
+   [
+    "S18+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S18+6",
+    "pop",
+    0.5
+   ],
+   [
+    "S18+12",
+    "pop",
+    0.5
+   ],
+   [
+    "S19+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S20+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S20+20",
+    "ding",
+    0.6
+   ],
+   [
+    "S21+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S22+0",
+    "roof_wind",
+    0.4,
+    "onset",
+    "S23"
+   ],
+   [
+    "S23+0",
+    "title_boom",
+    0.6,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

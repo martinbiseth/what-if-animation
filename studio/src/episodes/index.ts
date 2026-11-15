@@ -6,4 +6,6 @@ import { iphone1926Chapters } from './iphone-1926';
 
 import { internetGoneChapters } from './internet-gone';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters];
+import { backTo2010Chapters } from './back-to-2010';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...backTo2010Chapters];

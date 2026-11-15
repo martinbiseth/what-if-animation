@@ -1,0 +1,444 @@
+{
+ "slug": "back-to-2010/c06",
+ "title": "WHAT IF YOU WENT BACK TO 2010 WITH $100?",
+ "fps": 30,
+ "total": 2239,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 53,
+   "t0": 0,
+   "t1": 53,
+   "line": "He leaves his card on the table."
+  },
+  {
+   "shot": "S2",
+   "a": 53,
+   "b": 123,
+   "t0": 0,
+   "t1": 70,
+   "line": "It just has a phone number. And a date."
+  },
+  {
+   "shot": "S3",
+   "a": 123,
+   "b": 168,
+   "t0": 0,
+   "t1": 45,
+   "line": "The twentieth of June."
+  },
+  {
+   "shot": "S4",
+   "a": 168,
+   "b": 285,
+   "t0": 0,
+   "t1": 117,
+   "line": "That night, you hear Mum on the phone in the kitchen. She's crying. The"
+  },
+  {
+   "shot": "S5",
+   "a": 285,
+   "b": 332,
+   "t0": 0,
+   "t1": 47,
+   "line": "bank is taking the house."
+  },
+  {
+   "shot": "S6",
+   "a": 332,
+   "b": 485,
+   "t0": 0,
+   "t1": 153,
+   "line": "You remember now. You were too little to understand it the first time, but this is the summer you had to move."
+  },
+  {
+   "shot": "S7",
+   "a": 485,
+   "b": 627,
+   "t0": 0,
+   "t1": 142,
+   "line": "In 2010 alone, banks in America took more than a million homes. That's real."
+  },
+  {
+   "shot": "S8",
+   "a": 627,
+   "b": 706,
+   "t0": 0,
+   "t1": 79,
+   "line": "The man's offer would save the house. Tonight."
+  },
+  {
+   "shot": "S9",
+   "a": 706,
+   "b": 783,
+   "t0": 0,
+   "t1": 77,
+   "line": "But you'd lose everything those coins will become."
+  },
+  {
+   "shot": "S10",
+   "a": 783,
+   "b": 892,
+   "t0": 0,
+   "t1": 109,
+   "line": "Mo says keep them. 'He wouldn't want them if they weren't worth it. '"
+  },
+  {
+   "shot": "S11",
+   "a": 892,
+   "b": 1037,
+   "t0": 0,
+   "t1": 145,
+   "line": "Ellie climbs onto your bed with her teddy, Captain Buttons. 'Are we moving? ' she asks."
+  },
+  {
+   "shot": "S12",
+   "a": 1037,
+   "b": 1077,
+   "t0": 0,
+   "t1": 40,
+   "line": "And then you remember."
+  },
+  {
+   "shot": "S13",
+   "a": 1077,
+   "b": 1209,
+   "t0": 0,
+   "t1": 132,
+   "line": "The crash comes on the nineteenth of June. That's why his date is the twentieth."
+  },
+  {
+   "shot": "S14",
+   "a": 1209,
+   "b": 1325,
+   "t0": 0,
+   "t1": 116,
+   "line": "He wants the coins after the crash, when you're scared, and they look worthless."
+  },
+  {
+   "shot": "S15",
+   "a": 1325,
+   "b": 1528,
+   "t0": 0,
+   "t1": 203,
+   "line": "But you also remember the rule. Sell too much, and you change the future. Then nothing you remember is true anymore."
+  },
+  {
+   "shot": "S16",
+   "a": 1528,
+   "b": 1578,
+   "t0": 0,
+   "t1": 50,
+   "line": "So you sell just enough."
+  },
+  {
+   "shot": "S17",
+   "a": 1578,
+   "b": 1700,
+   "t0": 0,
+   "t1": 122,
+   "line": "On the eighth of June, at thirty dollars a coin, you sell two thousand bitcoins."
+  },
+  {
+   "shot": "S18",
+   "a": 1700,
+   "b": 1745,
+   "t0": 0,
+   "t1": 45,
+   "line": "Sixty thousand dollars."
+  },
+  {
+   "shot": "S19",
+   "a": 1745,
+   "b": 1797,
+   "t0": 0,
+   "t1": 52,
+   "line": "You give it to Mum in an envelope."
+  },
+  {
+   "shot": "S20",
+   "a": 1797,
+   "b": 1892,
+   "t0": 0,
+   "t1": 95,
+   "line": "She asks where it came from. You say, 'Pizza. '"
+  },
+  {
+   "shot": "S21",
+   "a": 1892,
+   "b": 1933,
+   "t0": 0,
+   "t1": 41,
+   "line": "The house is saved."
+  },
+  {
+   "shot": "S22",
+   "a": 1933,
+   "b": 1989,
+   "t0": 0,
+   "t1": 56,
+   "line": "You keep eight thousand coins."
+  },
+  {
+   "shot": "S23",
+   "a": 1989,
+   "b": 2086,
+   "t0": 0,
+   "t1": 97,
+   "line": "You write the password on a piece of paper, fold it small, and"
+  },
+  {
+   "shot": "S24",
+   "a": 2086,
+   "b": 2142,
+   "t0": 0,
+   "t1": 56,
+   "line": "sew it inside Captain Buttons."
+  },
+  {
+   "shot": "S25",
+   "a": 2142,
+   "b": 2239,
+   "t0": 0,
+   "t1": 97,
+   "line": "When the man calls on the twentieth, you don't pick up."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "key": 20,
+   "len": 53,
+   "first": 0,
+   "line": "He leaves his card on the table.",
+   "note": "chapter card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 70,
+   "first": 53,
+   "line": "It just has a phone number. And a date.",
+   "note": "suit card"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 45,
+   "first": 123,
+   "line": "The twentieth of June.",
+   "note": "calendar 20 june"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 117,
+   "first": 168,
+   "line": "That night, you hear Mum on the phone in the kitchen. She's crying. The",
+   "note": "mum crying on phone"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 47,
+   "first": 285,
+   "line": "bank is taking the house.",
+   "note": "bank letter"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 153,
+   "first": 332,
+   "line": "You remember now. You were too little to understand it the first time, but this is the summer you had to move.",
+   "note": "you remember"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 142,
+   "first": 485,
+   "line": "In 2010 alone, banks in America took more than a million homes. That's real.",
+   "note": "fact million homes"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 79,
+   "first": 627,
+   "line": "The man's offer would save the house. Tonight.",
+   "note": "briefcase offer"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 77,
+   "first": 706,
+   "line": "But you'd lose everything those coins will become.",
+   "note": "chart what coins become"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 109,
+   "first": 783,
+   "line": "Mo says keep them. 'He wouldn't want them if they weren't worth it. '",
+   "note": "mo keep them"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 145,
+   "first": 892,
+   "line": "Ellie climbs onto your bed with her teddy, Captain Buttons. 'Are we moving? ' she asks.",
+   "note": "ellie teddy"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 40,
+   "first": 1037,
+   "line": "And then you remember.",
+   "note": "you remember"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 132,
+   "first": 1077,
+   "line": "The crash comes on the nineteenth of June. That's why his date is the twentieth.",
+   "note": "calendar 19 20"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 116,
+   "first": 1209,
+   "line": "He wants the coins after the crash, when you're scared, and they look worthless.",
+   "note": "suit face"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 203,
+   "first": 1325,
+   "line": "But you also remember the rule. Sell too much, and you change the future. Then nothing you remember is true anymore.",
+   "note": "future line"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 50,
+   "first": 1528,
+   "line": "So you sell just enough.",
+   "note": "you decide"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 122,
+   "first": 1578,
+   "line": "On the eighth of June, at thirty dollars a coin, you sell two thousand bitcoins.",
+   "note": "sell 2000"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 45,
+   "first": 1700,
+   "line": "Sixty thousand dollars.",
+   "note": "$60000"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 52,
+   "first": 1745,
+   "line": "You give it to Mum in an envelope.",
+   "note": "envelope"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 95,
+   "first": 1797,
+   "line": "She asks where it came from. You say, 'Pizza. '",
+   "note": "pizza"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "key": 20,
+   "len": 41,
+   "first": 1892,
+   "line": "The house is saved.",
+   "note": "house saved"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "key": 20,
+   "len": 56,
+   "first": 1933,
+   "line": "You keep eight thousand coins.",
+   "note": "8000 kept"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "key": 20,
+   "len": 97,
+   "first": 1989,
+   "line": "You write the password on a piece of paper, fold it small, and",
+   "note": "password note"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "key": 20,
+   "len": 56,
+   "first": 2086,
+   "line": "sew it inside Captain Buttons.",
+   "note": "teddy seam"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "key": 20,
+   "len": 97,
+   "first": 2142,
+   "line": "When the man calls on the twentieth, you don't pick up.",
+   "note": "phone rings"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "back-to-2010/c06/voice.wav",
+  "sfx": "back-to-2010/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3077,
+  "music": "back-to-2010/c06/music.wav",
+  "musicVol": 0.0705
+ }
+}

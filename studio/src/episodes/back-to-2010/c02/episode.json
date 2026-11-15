@@ -1,0 +1,391 @@
+{
+ "id": "BackTo2010C02",
+ "slug": "back-to-2010/c02",
+ "chapter": "The rules",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c02 p1",
+   "text": "Here's how it works. You go to sleep in 2026, and wake up on the first of May, 2010. Same age. Same house. Same family. But the whole world is sixteen years behind you."
+  },
+  {
+   "beat": "c02 p2",
+   "text": "You keep every memory. Every price. Every headline. Every score."
+  },
+  {
+   "beat": "c02 p3",
+   "text": "You get one hundred dollars. Not a cent more."
+  },
+  {
+   "beat": "c02 p4",
+   "text": "The rules are simple. You can't bring anything back with you, except what's in your head. Nobody will believe you're from the future, so don't bother trying. And money you make here only counts if it survives until 2026."
+  },
+  {
+   "beat": "c02 p5",
+   "text": "And one more rule. Your memories are only right as long as the future stays the same. Change it too much, and what you remember stops being true. Remember that. It matters later."
+  },
+  {
+   "beat": "c02 p6",
+   "text": "This is what if you went back to 2010 with a hundred dollars."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The iPhone 4 was unveiled on 7 June 2010.",
+   "working": "Apple unveiled iPhone 4 at WWDC on 7 June 2010; it went on sale on 24 June 2010.",
+   "source": "Apple Newsroom, 'Apple Presents iPhone 4' (7 June 2010)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "year rolls back",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "family kitchen",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "street 2010",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "face memory",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "chart prices",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "tv headline",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "football score",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "bill on table",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "$100 bigword",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "rules list",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "mo laughs",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "survive 2026",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "one more rule",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "future line bends",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "face worried",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "title",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "Same"
+  },
+  {
+   "shot": "S4",
+   "at": "But"
+  },
+  {
+   "shot": "S5",
+   "at": "You#2"
+  },
+  {
+   "shot": "S6",
+   "at": "Every#2"
+  },
+  {
+   "shot": "S7",
+   "at": "Every"
+  },
+  {
+   "shot": "S8",
+   "at": "Every"
+  },
+  {
+   "shot": "S9",
+   "at": "You"
+  },
+  {
+   "shot": "S10",
+   "at": "Not"
+  },
+  {
+   "shot": "S11",
+   "at": "The"
+  },
+  {
+   "shot": "S12",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "Your"
+  },
+  {
+   "shot": "S16",
+   "at": "Remember"
+  },
+  {
+   "shot": "S17",
+   "at": "This"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+10",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S2+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S4+0",
+    "street",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S6+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S7+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S8+0",
+    "cheer",
+    0.5
+   ],
+   [
+    "S9+0",
+    "cash",
+    0.6
+   ],
+   [
+    "S10+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S11+4",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S12+20",
+    "laugh",
+    0.4
+   ],
+   [
+    "S13+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S14+0",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S15+70",
+    "glitch",
+    0.5
+   ],
+   [
+    "S16+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S17+0",
+    "title_boom",
+    0.9,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S17"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}

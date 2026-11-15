@@ -1,0 +1,88 @@
+{
+ "id": "BackTo2010",
+ "slug": "back-to-2010",
+ "topic": "What if you went back to 2010 with $100?",
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "Ten thousand coins",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "The man in the grey suit",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "The message",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What if you went back to 2010 with $100?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}

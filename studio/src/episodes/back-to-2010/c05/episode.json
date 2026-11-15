@@ -1,0 +1,533 @@
+{
+ "id": "BackTo2010C05",
+ "slug": "back-to-2010/c05",
+ "chapter": "The man in the grey suit",
+ "topic": "What if you went back to 2010 with $100?",
+ "script": [
+  {
+   "beat": "c05 p1",
+   "text": "It starts with Mo. He doesn't mean to tell anyone. He just tells his cousin. Who tells a friend. Who posts it on a forum. 'Kid predicted the World Cup. Says he's from the future.'"
+  },
+  {
+   "beat": "c05 p2",
+   "text": "Nobody believes it, of course. Except one person."
+  },
+  {
+   "beat": "c05 p3",
+   "text": "A week later, a black car is parked across the street. It's there in the morning. It's there after school. And then, one afternoon, a man in a grey suit is sitting in your kitchen, drinking tea with Mum."
+  },
+  {
+   "beat": "c05 p4",
+   "text": "He's polite. He has a briefcase. He knows your name. He knows Ellie's name. He even knows Mum takes two sugars, before she tells him."
+  },
+  {
+   "beat": "c05 p5",
+   "text": "His shoes are spotless. His phone is the thinnest phone you've seen in 2011. Thinner than an iPhone 4. You've seen a phone like that before, just not in 2011."
+  },
+  {
+   "beat": "c05 p6",
+   "text": "'You bought ten thousand bitcoins for a hundred dollars,' he says. 'In May 2010. Nobody did that. Nobody knew to.'"
+  },
+  {
+   "beat": "c05 p7",
+   "text": "He opens the briefcase. It's full of cash. Fifty thousand dollars. In 2011, for a kid, that's insane."
+  },
+  {
+   "beat": "c05 p8",
+   "text": "'For the coins,' he says. 'All of them. Tonight.'"
+  },
+  {
+   "beat": "c05 p9",
+   "text": "Mum's eyes go wide. She doesn't know what bitcoin is. But she knows what fifty thousand dollars is. Right now, your coins are worth more than that. But only on paper, and only until the crash."
+  },
+  {
+   "beat": "c05 p10",
+   "text": "And then the man says something that makes your blood go cold. He leans in, and he says it quietly, so only you can hear."
+  },
+  {
+   "beat": "c05 p11",
+   "text": "'I know what they're worth in 2024.'"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "shot",
+   "note": "chapter card",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "note": "mo tells cousin",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "note": "cousin tells friend",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "note": "forum post",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "note": "you smug",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "note": "car headlights night",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "note": "car parked day",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "note": "car morning",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "note": "car after school",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "note": "suit in kitchen with mum",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "note": "suit face",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "note": "you worried",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "note": "mum two sugars",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "note": "shoes",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "note": "thin phone",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "note": "you shock",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "note": "suit says what you did",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "note": "briefcase",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "note": "$50000",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "note": "suit for the coins",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "note": "mum shock",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "note": "wallet on paper",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "note": "you blood cold",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "note": "suit leans in",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "note": "I know 2024",
+   "key": 20
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "He"
+  },
+  {
+   "shot": "S3",
+   "at": "Who"
+  },
+  {
+   "shot": "S4",
+   "at": "Who"
+  },
+  {
+   "shot": "S5",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S6",
+   "at": "Except"
+  },
+  {
+   "shot": "S7",
+   "at": "A"
+  },
+  {
+   "shot": "S8",
+   "at": "It's"
+  },
+  {
+   "shot": "S9",
+   "at": "It's"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "He's"
+  },
+  {
+   "shot": "S12",
+   "at": "knows"
+  },
+  {
+   "shot": "S13",
+   "at": "even"
+  },
+  {
+   "shot": "S14",
+   "at": "His"
+  },
+  {
+   "shot": "S15",
+   "at": "phone"
+  },
+  {
+   "shot": "S16",
+   "at": "You've#2"
+  },
+  {
+   "shot": "S17",
+   "at": "You"
+  },
+  {
+   "shot": "S18",
+   "at": "opens"
+  },
+  {
+   "shot": "S19",
+   "at": "Fifty"
+  },
+  {
+   "shot": "S20",
+   "at": "For#2"
+  },
+  {
+   "shot": "S21",
+   "at": "Mum's"
+  },
+  {
+   "shot": "S22",
+   "at": "Right"
+  },
+  {
+   "shot": "S23",
+   "at": "then"
+  },
+  {
+   "shot": "S24",
+   "at": "leans"
+  },
+  {
+   "shot": "S25",
+   "at": "I"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU WENT BACK",
+  "TO 2010 WITH $100?"
+ ],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+0",
+    "street",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S5+0",
+    "laugh_low",
+    0.3
+   ],
+   [
+    "S6+0",
+    "drone",
+    0.5,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "street",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S8+0",
+    "tick",
+    0.3
+   ],
+   [
+    "S10+0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S10+20",
+    "clink",
+    0.5
+   ],
+   [
+    "S11+0",
+    "heartbeat",
+    0.35
+   ],
+   [
+    "S13+20",
+    "clink",
+    0.5
+   ],
+   [
+    "S14+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S15+0",
+    "buzz",
+    0.5
+   ],
+   [
+    "S16+0",
+    "gulp",
+    0.6
+   ],
+   [
+    "S17+0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+6",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S18+20",
+    "cash",
+    0.6
+   ],
+   [
+    "S19+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S20+0",
+    "drone",
+    0.4,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "S22+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S23+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S24+0",
+    "drone",
+    0.5,
+    "onset",
+    "S25"
+   ],
+   [
+    "S25+50",
+    "drone_hit",
+    0.8,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -14.0
+  }
+ }
+}
