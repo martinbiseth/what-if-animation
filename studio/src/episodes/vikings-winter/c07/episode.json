@@ -1,0 +1,64 @@
+{
+ "id": "VikingsWinterC07",
+ "slug": "vikings-winter/c07",
+ "chapter": "Sunrise",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "Ten in the morning. The sun finally drags itself over the mountains. The number in the corner reads thirty-six point eight."
+  },
+  {
+   "beat": "b2",
+   "text": "You made it."
+  },
+  {
+   "beat": "b3",
+   "text": "Gudrun looks at the fire, and then at you, and nods once. From Gudrun, that's a medal. She hands you a pair of needle bound mittens. Yours to keep."
+  },
+  {
+   "beat": "b4",
+   "text": "Asa waves. Ketil raises his bowl. You blink."
+  },
+  {
+   "beat": "b5",
+   "text": "And the cold is gone. Instead, heat. A wall of it. Sand under your sneakers. Forty-three degrees. And in the distance, something enormous, made of stone, and only half finished."
+  },
+  {
+   "beat": "b6",
+   "text": "Next time, you wake up in ancient Egypt."
+  },
+  {
+   "beat": "b7",
+   "text": "But first. Is any of this real? The turf roofs, the cows under the same roof, the skis, the stockfish, the frozen noses and the tinder fungus. All of it. The sources are in the description."
+  },
+  {
+   "beat": "b8",
+   "text": "So, would you have made it through the night? And where should you wake up next? Tell us in the comments."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sunrise near 10 AM in mid January in central Norway",
+   "working": "Trondheim sunrise in mid January is about 9:45; later behind mountains.",
+   "source": "timeanddate.com, Trondheim"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

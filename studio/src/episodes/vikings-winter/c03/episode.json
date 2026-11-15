@@ -1,0 +1,83 @@
+{
+ "id": "VikingsWinterC03",
+ "slug": "vikings-winter/c03",
+ "chapter": "The house that breathes",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "Let's look at where you just woke up."
+  },
+  {
+   "beat": "b2",
+   "text": "It's a longhouse. One single room, about thirty meters long. The walls are thick timber. The roof is a layer of birch bark, with grass and earth on top. Turf. A living roof, about twenty centimeters thick, keeping the heat in like a wool hat."
+  },
+  {
+   "beat": "b3",
+   "text": "Outside, the family has shoveled snow up against the walls. On purpose. Fresh snow can be more than ninety percent trapped air, and trapped air is exactly what keeps heat from leaking out. The snow is part of the house."
+  },
+  {
+   "beat": "b4",
+   "text": "Down the middle of the floor runs the long hearth. A fire pit as long as a car. It's the heater, the stove, and the only light all at once."
+  },
+  {
+   "beat": "b5",
+   "text": "And the chimney? There isn't one. The smoke drifts up and finds its way out through a hole in the roof. Your eyes sting. Your hoodie will smell like this for a week."
+  },
+  {
+   "beat": "b6",
+   "text": "Along both walls are wide wooden benches. In the day, you sit on them. At night, you sleep on them. That's the bedroom. All of it. Everyone."
+  },
+  {
+   "beat": "b7",
+   "text": "Then you walk to the far end of the house, and the cow from this morning looks up at you."
+  },
+  {
+   "beat": "b8",
+   "text": "The animals live under the same roof. A resting person gives off about a hundred watts of heat. A cow gives off several times more. Two cows at one end of the house, and you've got a heater that also makes milk."
+  },
+  {
+   "beat": "b9",
+   "text": "Asa pats the cow and says something to you. You're pretty sure it means: this is our oven."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Longhouses: one long room, often 20 to 50 m, central long hearth, benches along the walls, animals under the same roof",
+   "working": "Excavated Viking Age longhouses in Scandinavia commonly measure 20-50 m, with a central hearth and raised side platforms; many had a byre at one end.",
+   "source": "Store norske leksikon, 'Langhus'; National Museum of Denmark, Viking Age houses"
+  },
+  {
+   "claim": "Turf roofs on birch bark",
+   "working": "Traditional Norwegian torvtak: layers of birch bark as a waterproof membrane under one or two layers of turf, typically 15-25 cm.",
+   "source": "Store norske leksikon, 'Torvtak'"
+  },
+  {
+   "claim": "Fresh snow can be more than 90 % air",
+   "working": "Fresh snow density is about 50-150 kg/m3 versus ice at 917 kg/m3, so 84-95 % of its volume is air.",
+   "source": "US National Snow and Ice Data Center (NSIDC), Snow science"
+  },
+  {
+   "claim": "A resting person gives off about 100 W; a cow several times more",
+   "working": "Resting human metabolic rate is about 100 W. Cattle produce roughly 500-1,000+ W depending on size.",
+   "source": "ASHRAE Handbook, Fundamentals (occupant heat gain); CIGR heat production of livestock"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

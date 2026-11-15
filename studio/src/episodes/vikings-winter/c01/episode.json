@@ -1,0 +1,73 @@
+{
+ "id": "VikingsWinterC01",
+ "slug": "vikings-winter/c01",
+ "chapter": "Minus thirty",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "You wake up, and you can't feel your nose."
+  },
+  {
+   "beat": "b2",
+   "text": "It's dark. It smells like smoke, and wet wool, and something worse. Something warm and huge is breathing on your face. It's a cow."
+  },
+  {
+   "beat": "b3",
+   "text": "You pull out your phone. Fourteen percent. Then the screen goes black. In cold this deep, a phone battery just quits."
+  },
+  {
+   "beat": "b4",
+   "text": "A man with a red beard the size of a cat leans over you. He hands you a wooden bowl and says something you don't understand. It sounds friendly. Probably."
+  },
+  {
+   "beat": "b5",
+   "text": "This is inland Norway. January. The year nine hundred. And outside that door, it's minus thirty degrees."
+  },
+  {
+   "beat": "b6",
+   "text": "No heater. No electricity. No hot shower. No idea what you're doing."
+  },
+  {
+   "beat": "b7",
+   "text": "So how did the Vikings survive winters like this, with nothing but wood, wool and fire?"
+  },
+  {
+   "beat": "b8",
+   "text": "You have one day to find out. And if you get it wrong, the cold won't wait until sunset."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Phones shut down in deep cold",
+   "working": "Lithium-ion batteries deliver less current in the cold; Apple rates iPhones for 0 to 35 °C ambient and they can shut down below that.",
+   "source": "Apple, iPhone operating temperature (support.apple.com/en-us/102489)"
+  },
+  {
+   "claim": "Viking Age Norway, inland winters to -30 °C and below",
+   "working": "The Viking Age is c. 793-1066. Inland Norway regularly reaches -30 °C in January; the Norwegian record is -51.4 °C (Karasjok, 1886).",
+   "source": "Norwegian Meteorological Institute (met.no), national temperature records"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

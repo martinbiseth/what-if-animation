@@ -1,0 +1,79 @@
+{
+ "id": "VikingsWinterC05",
+ "slug": "vikings-winter/c05",
+ "chapter": "Fuel for the body",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "Back inside, it's time to eat. The Vikings ate two big meals a day. The day meal in the morning, and the night meal in the evening."
+  },
+  {
+   "beat": "b2",
+   "text": "Gudrun hands you a fish. It's flat, grey and hard as a plank of wood. You knock it on the table. It knocks back."
+  },
+  {
+   "beat": "b3",
+   "text": "This is stockfish. Cod, hung outside on racks and dried in the cold wind until almost all the water is gone. Dried like this, it keeps for years. To eat it, you beat it with a hammer, then soak it. Asa shows you how. She is way too good at the hammer part."
+  },
+  {
+   "beat": "b4",
+   "text": "There's barley porridge. Butter. Hard cheese. A thick, sour milk called skyr. Salted meat. All of it heavy with fat."
+  },
+  {
+   "beat": "b5",
+   "text": "That's not an accident. Your body is a furnace too, and in this cold it burns through fuel fast. Today, modern armies give soldiers working in arctic cold around four and a half thousand calories a day. Fat is the most packed fuel there is."
+  },
+  {
+   "beat": "b6",
+   "text": "After eating, Asa drags you out to the frozen lake. She straps on skates made from animal bone, and glides away. You try. You fall. Ketil laughs so hard he has to sit down in the snow."
+  },
+  {
+   "beat": "b7",
+   "text": "Then he clips on a pair of long wooden skis, and is gone across the valley in seconds. People in Norway have been skiing for thousands of years. One rock carving of a skier up north is more than four thousand years old."
+  },
+  {
+   "beat": "b8",
+   "text": "And then, at three in the afternoon, the light starts to go."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Two main meals: dagmal and nattmal",
+   "working": "Old Norse sources name the day meal (dagmál) and the night meal (náttmál).",
+   "source": "Store norske leksikon, 'Måltid' / Old Norse dictionary (Cleasby-Vigfusson)"
+  },
+  {
+   "claim": "Stockfish: wind-dried cod that keeps for years, beaten before eating",
+   "working": "Air-dried cod loses about 80 % of its water; DNA from Viking Age Haithabu fish bones shows stockfish from northern Norway was traded by c. 800-1066.",
+   "source": "Star et al., PNAS 2017, 'Ancient DNA reveals the Arctic origin of Viking Age cod from Haithabu'"
+  },
+  {
+   "claim": "Arctic military rations about 4,500 kcal a day",
+   "working": "The US Meal, Cold Weather provides about 4,500 kcal per day for troops in extreme cold.",
+   "source": "US Army Natick Soldier Systems Center, Meal Cold Weather"
+  },
+  {
+   "claim": "Bone skates and skiing; a rock carving of a skier over 4,000 years old",
+   "working": "Bone ice skates are found in Viking Age towns (Birka, York). The Rødøy carving in Nordland shows a skier and is dated to about 4,000-5,000 years ago.",
+   "source": "Museum of London, bone skates; Store norske leksikon, 'Rødøy-mannen'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

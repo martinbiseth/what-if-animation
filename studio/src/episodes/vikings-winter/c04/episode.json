@@ -1,0 +1,91 @@
+{
+ "id": "VikingsWinterC04",
+ "slug": "vikings-winter/c04",
+ "chapter": "Going outside",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "Ketil hands you a bucket and nods at the door. Water."
+  },
+  {
+   "beat": "b2",
+   "text": "You step outside in your hoodie and your sneakers. The air hits you like a wall. You breathe in, and the inside of your nose freezes. That's real. At minus thirty, the moisture in your nose turns to ice in seconds."
+  },
+  {
+   "beat": "b3",
+   "text": "Watch the number."
+  },
+  {
+   "beat": "b4",
+   "text": "At minus thirty, skin that's left bare can freeze in ten to thirty minutes. Add a little wind, and it's under ten. You last about forty seconds before you run back in."
+  },
+  {
+   "beat": "b5",
+   "text": "Gudrun sighs, and dresses you like you're five."
+  },
+  {
+   "beat": "b6",
+   "text": "First, a long linen shirt against your skin. Then a wool tunic. Wool trousers. Wool wrapped tight around your legs, from ankle to knee. Wool socks made with one needle, a technique called needle binding that the Vikings used. Mittens, the same way."
+  },
+  {
+   "beat": "b7",
+   "text": "Wool is the secret. It can soak up about a third of its own weight in water before it even feels wet, and it keeps you warm while it does. Cotton, like your hoodie, does the opposite."
+  },
+  {
+   "beat": "b8",
+   "text": "Then a heavy wool cloak, pinned at the shoulder with a brooch. A fur hat. Leather shoes, which Asa stuffs with dry grass, giggling. The grass traps air and soaks up sweat. People in the North did this for hundreds of years."
+  },
+  {
+   "beat": "b9",
+   "text": "You step outside again. The cold is still there. But now it's outside the clothes, and you're inside them."
+  },
+  {
+   "beat": "b10",
+   "text": "The well is frozen. Ketil smashes the ice with an axe. You fill the bucket. Then you haul firewood. A lot of firewood. A farm like this burns through a mountain of it every winter, and every log was cut by hand."
+  },
+  {
+   "beat": "b11",
+   "text": "And you have to do all of it fast. Because in January, this far north, the sun is only up for about five hours."
+  }
+ ],
+ "science": [
+  {
+   "claim": "At -30 °C bare skin can freeze in 10 to 30 minutes, under 10 with wind",
+   "working": "Environment Canada wind chill chart: -28 to -39 means frostbite possible in 10-30 min; -40 to -47 in 5-10 min.",
+   "source": "Environment and Climate Change Canada, Wind chill index"
+  },
+  {
+   "claim": "Wool can absorb about a third of its weight in water before feeling wet",
+   "working": "Wool fibres absorb up to about 30 % of their weight in moisture and release heat while doing so.",
+   "source": "Australian Wool Innovation / The Woolmark Company, wool fibre science"
+  },
+  {
+   "claim": "Needle binding (naalbinding) used for Viking Age socks and mittens",
+   "working": "Needle-bound textiles are found in Viking Age contexts, e.g. the Coppergate sock from York.",
+   "source": "York Archaeological Trust, Coppergate sock"
+  },
+  {
+   "claim": "About five hours of daylight in January in central Norway",
+   "working": "Trondheim (63.4 N): about 4.5 h on 21 December, about 5-6 h in mid January.",
+   "source": "timeanddate.com, Trondheim sunrise and sunset"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

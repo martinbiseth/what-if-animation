@@ -1,0 +1,69 @@
+{
+ "id": "VikingsWinterC02",
+ "slug": "vikings-winter/c02",
+ "chapter": "One day, one rule",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "Here's how this works. You're here for one day. Sunrise to sunrise. Survive until tomorrow morning, and you go home."
+  },
+  {
+   "beat": "b2",
+   "text": "That number in the corner is you. Your body runs at thirty-seven degrees. Drop below thirty-five, and that's hypothermia. Your hands stop working, then your thinking does."
+  },
+  {
+   "beat": "b3",
+   "text": "The man with the beard is Ketil. This is his farm. The woman with the keys on her belt is Gudrun. The keys mean she runs this house, and everybody knows it. And the girl staring at your sneakers like they're from another planet is their daughter, Asa."
+  },
+  {
+   "beat": "b4",
+   "text": "Asa is nine. She has already decided you're the funniest thing that has ever happened to her."
+  },
+  {
+   "beat": "b5",
+   "text": "Gudrun points at the fire in the middle of the floor. She says one thing, slowly, so even you understand."
+  },
+  {
+   "beat": "b6",
+   "text": "The fire never goes out. Not in the day. Not at night. Not ever."
+  },
+  {
+   "beat": "b7",
+   "text": "Remember that. Because tonight, it's going to be your job."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Normal core temperature about 37 °C; hypothermia below 35 °C",
+   "working": "Clinical definition of hypothermia is a core body temperature below 35 °C.",
+   "source": "NHS, Hypothermia; Mayo Clinic, Hypothermia"
+  },
+  {
+   "claim": "Keys on the belt marked the woman who ran the household",
+   "working": "Keys are found in women's graves of the Viking Age and are read as a symbol of the housewife's authority over the stores.",
+   "source": "National Museum of Denmark, 'Women in the Viking Age'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

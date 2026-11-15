@@ -30,8 +30,13 @@ export type Look = {
   face: string;
   hair: string;
   extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
-  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche'; // period hats (the 1920s episodes), drawn over the hair
+  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche' | 'helmet' | 'palla' | 'wreath'; // period hats (1920s, ancient Rome), drawn over the hair
   hatColor?: string;
+  /** Ancient Rome: a belted tunic whose skirt hangs over the thighs ('tunic'), or a toga draped over it ('toga'). */
+  robe?: 'tunic' | 'toga' | 'dress';
+  belt?: string; // the tunic's belt colour
+  toga?: string; // the toga's cloth colour
+  stripe?: string; // a coloured band on the toga's edge (a senator's purple stripe)
   noPhones?: boolean; // curls without the headphones (a period version of Mo)
 };
 export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit' | 'you' | 'mo26' | 'ellie' | 'mom26' | 'suit26' | 'gent' | 'worker' | 'lady' | 'doctor' | 'cop';
@@ -67,7 +72,7 @@ export const LOOKS: Record<CastName, Look> = {
 
 // ---------- period hats ----------
 /** A hat on the rig's head (1920s episodes): flat cap, bowler, fedora with a band, or a cloche. Turns with yaw. */
-const Hat: React.FC<{ kind: 'cap' | 'bowler' | 'fedora' | 'cloche'; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
+const Hat: React.FC<{ kind: NonNullable<Look['hat']>; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
   const y = HEAD.y;
   const sx = yaw * 10;
   const dark = 'rgba(0,0,0,0.22)';
@@ -94,6 +99,35 @@ const Hat: React.FC<{ kind: 'cap' | 'bowler' | 'fedora' | 'cloche'; color: strin
         <path d={`M -74 ${y - 4} Q -82 ${y - 96} 0 ${y - 100} Q 82 ${y - 96} 74 ${y - 4} Q 70 ${y - 30} 0 ${y - 34} Q -70 ${y - 30} -74 ${y - 4} Z`} fill={color} stroke={line} strokeWidth={sw} />
         <path d={`M -66 ${y - 36} Q 0 ${y - 54} 66 ${y - 36}`} stroke={dark} strokeWidth={10} fill="none" />
         <circle cx={46} cy={y - 46} r={10} fill="#E9DCC0" stroke={line} strokeWidth={3} />
+      </g>
+    );
+  if (kind === 'helmet')
+    // a Roman soldier's helmet: a metal bowl, a neck guard, cheek pieces and a red crest
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <path d={`M -54 ${y - 70} Q -40 ${y - 104} 0 ${y - 106} Q 40 ${y - 104} 54 ${y - 70} Z`} fill="#D9334A" stroke={line} strokeWidth={sw} />
+        <path d={`M -70 ${y + 6} Q -78 ${y - 84} 0 ${y - 86} Q 78 ${y - 84} 70 ${y + 6} L 56 ${y + 4} Q 58 ${y - 34} 40 ${y - 44} Q 0 ${y - 54} -40 ${y - 44} Q -58 ${y - 34} -56 ${y + 4} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -70 ${y - 40} L 70 ${y - 40}`} stroke={line} strokeWidth={sw} />
+        <path d={`M -34 ${y - 74} Q 0 ${y - 82} 34 ${y - 74}`} stroke="#FFFFFF" strokeOpacity={0.3} strokeWidth={6} fill="none" strokeLinecap="round" />
+      </g>
+    );
+  if (kind === 'palla')
+    // a woman's mantle drawn up over the head, falling to the shoulders
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <path d={`M -80 ${y + 60} Q -88 ${y - 84} 0 ${y - 86} Q 88 ${y - 84} 80 ${y + 60} L 60 ${y + 58} Q 66 ${y - 26} 44 ${y - 46} Q 0 ${y - 62} -44 ${y - 46} Q -66 ${y - 26} -60 ${y + 58} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -60 ${y - 60} Q 0 ${y - 74} 60 ${y - 60}`} stroke={dark} strokeWidth={6} fill="none" />
+      </g>
+    );
+  if (kind === 'wreath')
+    // a laurel wreath: two rows of small leaves round the crown
+    return (
+      <g transform={`translate(${-sx * 0.6} 0)`}>
+        {Array.from({ length: 9 }).map((_, k) => {
+          const a = Math.PI * (1.08 + (k / 8) * 0.84);
+          const cx = Math.cos(a) * 64, cy = y - 10 + Math.sin(a) * 52;
+          return <ellipse key={k} cx={cx} cy={cy} rx={13} ry={7} transform={`rotate(${(a * 180) / Math.PI + 90} ${cx} ${cy})`} fill={color} stroke={line} strokeWidth={3} />;
+        })}
       </g>
     );
   // flat cap: a soft crown pulled forward, a short peak toward the way the face turns
@@ -416,8 +450,26 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
     <g transform={`rotate(${pose.tilt}) translate(${pose.yaw * 6} 0) scale(${kw} 1)`}>
       <path d="M -46 -112 Q 0 -124 46 -112 L 40 2 Q 0 12 -40 2 Z" fill={L.jacket} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
       <path d="M 10 -116 Q 30 -114 46 -112 L 40 2 Q 26 8 12 9 Z" fill={L.jacketShade} opacity={0.55} />
-      <path d="M 0 -112 L 0 4" stroke={L.jacketShade} strokeWidth={4} />
-      {L.extra === 'suit' ? (
+      {L.robe ? null : <path d="M 0 -112 L 0 4" stroke={L.jacketShade} strokeWidth={4} />}
+      {L.robe ? (
+        // the tunic's skirt over the thighs (a long one for a dress or a toga), a belt at the waist
+        <g>
+          <path d={L.robe === 'tunic' ? 'M -42 -14 L 42 -14 L 56 64 Q 0 76 -56 64 Z' : 'M -42 -14 L 42 -14 L 60 112 Q 0 126 -60 112 Z'} fill={L.robe === 'toga' ? (L.toga ?? '#EDE6D6') : L.jacket} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          <path d={L.robe === 'tunic' ? 'M 14 -12 L 42 -14 L 56 64 Q 36 70 18 72 Z' : 'M 14 -12 L 42 -14 L 60 112 Q 40 118 20 120 Z'} fill={L.robe === 'toga' ? '#000' : L.jacketShade} opacity={L.robe === 'toga' ? 0.12 : 0.55} />
+          {L.robe === 'toga' ? <path d="M -60 112 Q 0 126 60 112" stroke={L.stripe ?? 'none'} strokeWidth={9} fill="none" /> : null}
+          <path d="M -10 -4 L -14 60 M 22 -4 L 28 58" stroke={L.line} strokeWidth={3} opacity={0.25} />
+          {L.robe !== 'toga' ? <path d="M -44 -22 Q 0 -14 44 -22" stroke={L.belt ?? L.accent} strokeWidth={9} fill="none" strokeLinecap="round" /> : null}
+        </g>
+      ) : null}
+      {L.robe === 'toga' ? (
+        // the toga: a wide band of cloth from the left shoulder across the chest to the right hip, its edge striped
+        <g>
+          <path d="M -48 -118 Q -20 -124 -4 -116 L 48 -24 L 44 4 Q 20 2 10 -10 L -44 -96 Z" fill={L.toga ?? '#EDE6D6'} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          {L.stripe ? <path d="M -4 -116 L 48 -24" stroke={L.stripe} strokeWidth={10} strokeLinecap="round" /> : null}
+          <path d="M -30 -100 Q -2 -70 22 -30 M -20 -110 Q 10 -76 34 -40" stroke={L.line} strokeWidth={3} opacity={0.22} fill="none" />
+        </g>
+      ) : null}
+      {L.robe ? null : L.extra === 'suit' ? (
         // a white shirt in the V of the jacket and a tie in the accent colour
         <g>
           <path d="M -24 -116 L 0 -54 L 24 -116 Z" fill="#EDE8DE" />

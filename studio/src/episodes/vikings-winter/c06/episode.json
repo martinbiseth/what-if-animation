@@ -1,0 +1,90 @@
+{
+ "id": "VikingsWinterC06",
+ "slug": "vikings-winter/c06",
+ "chapter": "The longest night",
+ "topic": "How did Vikings survive -30°C winters with no electricity?",
+ "script": [
+  {
+   "beat": "b1",
+   "text": "By four o'clock, it's pitch black outside."
+  },
+  {
+   "beat": "b2",
+   "text": "Inside, the only light is the fire, and a little stone lamp burning fish oil. It smells exactly like you think it smells."
+  },
+  {
+   "beat": "b3",
+   "text": "Nobody has a screen. So they have each other. Ketil tells a story about a giant who stole a god's hammer, and does all the voices. Gudrun spins wool while she listens. Asa beats you at a board game called hnefatafl. Four times."
+  },
+  {
+   "beat": "b4",
+   "text": "Then it's time to sleep. Everyone climbs onto the benches. Furs, wool blankets, and bodies packed close together, because every person in the pile is another hundred watts."
+  },
+  {
+   "beat": "b5",
+   "text": "Gudrun rakes ash over the glowing embers. Covered like this, a fire can sleep through the night. Then she points at you. You're on fire watch."
+  },
+  {
+   "beat": "b6",
+   "text": "You mean to stay awake. You really do."
+  },
+  {
+   "beat": "b7",
+   "text": "When you open your eyes, the house is dark. The embers are almost black. You can see your breath. Asa is curled up tight, shivering in her sleep. The number in the corner is dropping. Thirty-six. Thirty-five point five."
+  },
+  {
+   "beat": "b8",
+   "text": "You remember what Ketil showed you. A piece of flint. A steel striker. A dried mushroom that grows on birch trees, called tinder fungus, that catches a spark and holds it."
+  },
+  {
+   "beat": "b9",
+   "text": "You strike. Nothing. You strike again. A spark lands, and the fungus starts to glow. You blow. Gently. Then harder."
+  },
+  {
+   "beat": "b10",
+   "text": "A flame."
+  },
+  {
+   "beat": "b11",
+   "text": "You feed it a twig. Then a stick. Then a log. The light climbs up the walls. Asa stops shivering."
+  },
+  {
+   "beat": "b12",
+   "text": "Nobody wakes up. Nobody ever knows. But the fire never went out."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Soapstone lamps burning fish oil",
+   "working": "Soapstone and iron oil lamps burning fish or seal oil are known from Viking Age sites.",
+   "source": "Norwegian Museum of Cultural History; National Museum of Denmark"
+  },
+  {
+   "claim": "The giant who stole Thor's hammer; the game hnefatafl",
+   "working": "Þrymskviða, Poetic Edda, tells how the giant Thrym stole Mjölnir. Hnefatafl boards and pieces are found across the Viking world.",
+   "source": "Poetic Edda, Þrymskviða; British Museum, hnefatafl pieces"
+  },
+  {
+   "claim": "Flint, steel and tinder fungus",
+   "working": "Fire steels and tinder fungus (Fomes fomentarius, grows on birch) were the standard way to make fire; both occur in Viking Age finds.",
+   "source": "Store norske leksikon, 'Knusk' and 'Ildstål'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

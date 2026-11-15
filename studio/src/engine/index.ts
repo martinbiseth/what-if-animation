@@ -20,3 +20,4 @@ export * from './templates';
 export * from './props26';
 export * from './sets/street26';
 export * from './sets/jazzclub';
+export * from './egypt';
