@@ -290,5 +290,156 @@
   }
  ],
  "fx": [],
- "tail": 4.0
+ "tail": 4.0,
+ "sound": {
+  "clips": {
+   "bubble": [
+    "a giant wobbling blob of water lifting into the air, deep gloopy underwater bubbling whoosh, rising",
+    3.0
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "jet": [
+    "a jet airliner flying low and slow far away, distant engine roar",
+    4.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pool_lap": [
+    "calm swimming pool water lapping gently against the edge, a soft pool filter hum, outdoors",
+    8.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "rumble": [
+    "a deep heavy low rumble pressing down, like enormous weight, building pressure",
+    2.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "rumble",
+    0.8
+   ],
+   [
+    "S2+0",
+    "pool_lap",
+    0.35,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "jet",
+    0.5
+   ],
+   [
+    "S5+0",
+    "pool_lap",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "tick",
+    0.5,
+    "onset",
+    "S9"
+   ],
+   [
+    "S8+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S9+10",
+    "rumble",
+    0.7
+   ],
+   [
+    "S11+0",
+    "rewind_start",
+    0.5
+   ],
+   [
+    "S12+0",
+    "bubble",
+    0.8
+   ],
+   [
+    "S13+0",
+    "wind",
+    0.4,
+    "onset",
+    "S20"
+   ],
+   [
+    "S15+0",
+    "rumble",
+    0.5
+   ],
+   [
+    "S20+0",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S19+0",
+    "title_boom",
+    0.7
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "from": "S12",
+   "until": "S19"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

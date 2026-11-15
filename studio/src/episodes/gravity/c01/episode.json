@@ -253,5 +253,127 @@
   "min_cuts": 20,
   "max_hold": 5
  },
- "tail": 2.2
+ "tail": 2.2,
+ "sound": {
+  "clips": {
+   "alarm": [
+    "an old digital alarm clock beeping, three fast beeps",
+    1.5
+   ],
+   "cereal": [
+    "dry cereal pouring very fast into a ceramic bowl, a sharp rattling hit",
+    0.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "rumble": [
+    "a deep heavy low rumble pressing down, like enormous weight, building pressure",
+    2.0
+   ],
+   "splash": [
+    "a person rolling into a swimming pool, a big heavy water splash",
+    1.2
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "alarm",
+    0.7
+   ],
+   [
+    "S2+8",
+    "land",
+    0.8,
+    "peak"
+   ],
+   [
+    "S4+20",
+    "thud",
+    0.6
+   ],
+   [
+    "S6+0",
+    "cereal",
+    0.6
+   ],
+   [
+    "S7+6",
+    "splash",
+    0.4
+   ],
+   [
+    "S10+0",
+    "pigeon",
+    0.5
+   ],
+   [
+    "S13+0",
+    "notify",
+    0.4
+   ],
+   [
+    "S14+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S15+7",
+    "rumble",
+    0.8,
+    "peak"
+   ],
+   [
+    "S16+0",
+    "tick",
+    0.4,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "title_boom",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S15"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

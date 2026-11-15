@@ -268,5 +268,108 @@
   }
  ],
  "fx": [],
- "tail": 1.6
+ "tail": 1.6,
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "pool_lap": [
+    "calm swimming pool water lapping gently against the edge, a soft pool filter hum, outdoors",
+    8.0
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "splash": [
+    "a person rolling into a swimming pool, a big heavy water splash",
+    1.2
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "slide",
+    0.4
+   ],
+   [
+    "S3+0",
+    "slide",
+    0.4
+   ],
+   [
+    "S7+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S8+0",
+    "buzz",
+    0.6
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.5,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "pool_lap",
+    0.4,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S18+0",
+    "splash",
+    0.9,
+    "peak"
+   ],
+   [
+    "S19+0",
+    "pool_lap",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "from": "S5",
+   "until": "S18"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

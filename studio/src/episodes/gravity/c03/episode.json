@@ -282,5 +282,141 @@
    "len": 6,
    "amp": 8
   }
- ]
+ ],
+ "sound": {
+  "clips": {
+   "bonk": [
+    "a balloon hitting a ceiling with a soft rubbery bonk",
+    0.5
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clang": [
+    "a metal spoon hitting a tiled kitchen floor, a loud clang",
+    0.7
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "street": [
+    "a 1920s city street ambience, murmuring pedestrians, distant horse hooves and an old car engine",
+    8.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S3+20",
+    "land",
+    0.6
+   ],
+   [
+    "S4+0",
+    "laugh",
+    0.3
+   ],
+   [
+    "S5+10",
+    "clang",
+    0.7
+   ],
+   [
+    "S6+0",
+    "fall_whoosh",
+    0.4
+   ],
+   [
+    "S8+10",
+    "bonk",
+    0.6
+   ],
+   [
+    "S9+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S11+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S12+0",
+    "buzz",
+    0.5
+   ],
+   [
+    "S13+0",
+    "street",
+    0.25,
+    "onset",
+    "S15"
+   ],
+   [
+    "S14+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S17+0",
+    "tick",
+    0.5,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "drone_hit",
+    0.7
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S17"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

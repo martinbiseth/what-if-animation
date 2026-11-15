@@ -164,5 +164,75 @@
   "WHAT IF YOU COULD",
   ""
  ],
- "tail": 1.4
+ "tail": 1.4,
+ "sound": {
+  "clips": {
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S3+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S4+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S6+10",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S7+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.7
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S10"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }
