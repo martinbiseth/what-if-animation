@@ -44,17 +44,236 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "clinic",
+   "note": "mum brings you to the doctor",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "x-ray",
+   "note": "your hand on the X-ray plate",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "x-ray",
+   "note": "growth plates: a bone age test",
+   "key": 80
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "lightbox",
+   "note": "bone age yesterday 8, today 7",
+   "key": 70
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "the doctor stares at the two X-rays",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "clinic",
+   "note": "she leaves the room; you alone",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "door",
+   "note": "the door opens: not her",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "clinic",
+   "note": "a man in a grey suit",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "clinic",
+   "note": "he sits down at your eye level",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "the suit: we've been watching cases like yours",
+   "key": 50
+  },
+  {
+   "id": "S11",
+   "size": "big word",
+   "set": "card",
+   "note": "3 OTHERS IN 40 YEARS",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "you: what happened to them?",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "he doesn't answer",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "desk",
+   "note": "the folder slides across the desk",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "lab",
+   "note": "the lab, two hours north",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "one year a month instead of one year a night",
+   "key": 120
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "you: and if I come with you?",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "clinic",
+   "note": "tonight; you stay; no visits, no calls; until midnight",
+   "key": 150
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "parking lot",
+   "note": "through the window: mum and Ellie by the car",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "car window",
+   "note": "Ellie draws you and her holding hands in the fog",
+   "key": 100
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "set": "card",
+   "note": "7 NIGHTS LEFT",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "rays"
+  },
+  {
+   "shot": "S3",
+   "at": "Doctors"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "doctor"
+  },
+  {
+   "shot": "S6",
+   "at": "Then"
+  },
+  {
+   "shot": "S7",
+   "at": "door"
+  },
+  {
+   "shot": "S8",
+   "at": "man"
+  },
+  {
+   "shot": "S9",
+   "at": "sits"
+  },
+  {
+   "shot": "S10",
+   "at": "watching"
+  },
+  {
+   "shot": "S11",
+   "at": "Three"
+  },
+  {
+   "shot": "S12",
+   "at": "What"
+  },
+  {
+   "shot": "S13",
+   "at": "He"
+  },
+  {
+   "shot": "S14",
+   "at": "Instead"
+  },
+  {
+   "shot": "S15",
+   "at": "lab"
+  },
+  {
+   "shot": "S16",
+   "at": "think"
+  },
+  {
+   "shot": "S17",
+   "at": "if"
+  },
+  {
+   "shot": "S18",
+   "at": "Then"
+  },
+  {
+   "shot": "S19",
+   "at": "Through"
+  },
+  {
+   "shot": "S20",
+   "at": "drawing"
+  },
+  {
+   "shot": "S21",
+   "at": "seven"
   }
  ],
- "end": "f:90",
  "fx": []
 }

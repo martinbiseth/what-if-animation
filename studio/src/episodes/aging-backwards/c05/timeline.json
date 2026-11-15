@@ -1,29 +1,371 @@
 {
  "slug": "aging-backwards/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2254,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 173,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 173,
+   "line": "Day eight is also the day your mom stops pretending this is fine. She takes you to the doctor and the doctor"
+  },
+  {
+   "shot": "S2",
+   "a": 173,
+   "b": 207,
+   "t0": 0,
+   "t1": 34,
+   "line": "x- rays your hand."
+  },
+  {
+   "shot": "S3",
+   "a": 207,
+   "b": 404,
+   "t0": 0,
+   "t1": 197,
+   "line": "Doctors can tell how old a child is from the growth plates in their hand bones. It's called a bone age test. That's real."
+  },
+  {
+   "shot": "S4",
+   "a": 404,
+   "b": 537,
+   "t0": 0,
+   "t1": 133,
+   "line": "Your bone age yesterday: eight. Your bone age today: seven. The"
+  },
+  {
+   "shot": "S5",
+   "a": 537,
+   "b": 636,
+   "t0": 0,
+   "t1": 99,
+   "line": "doctor stares at the two x- rays for a very long time."
+  },
+  {
+   "shot": "S6",
+   "a": 636,
+   "b": 692,
+   "t0": 0,
+   "t1": 56,
+   "line": "Then she leaves the room. And when"
+  },
+  {
+   "shot": "S7",
+   "a": 692,
+   "b": 765,
+   "t0": 0,
+   "t1": 73,
+   "line": "the door opens again, it isn't her. It's"
+  },
+  {
+   "shot": "S8",
+   "a": 765,
+   "b": 862,
+   "t0": 0,
+   "t1": 97,
+   "line": "a man in a gray suit. He doesn't say his name. He just"
+  },
+  {
+   "shot": "S9",
+   "a": 862,
+   "b": 968,
+   "t0": 0,
+   "t1": 106,
+   "line": "sits down at your eye level, which these days is pretty low. 'We've been"
+  },
+  {
+   "shot": "S10",
+   "a": 968,
+   "b": 1078,
+   "t0": 0,
+   "t1": 110,
+   "line": "watching cases like yours, ' he says. 'There have been others."
+  },
+  {
+   "shot": "S11",
+   "a": 1078,
+   "b": 1129,
+   "t0": 0,
+   "t1": 51,
+   "line": "Three, in forty years. '"
+  },
+  {
+   "shot": "S12",
+   "a": 1129,
+   "b": 1165,
+   "t0": 0,
+   "t1": 36,
+   "line": "'What happened to them? '"
+  },
+  {
+   "shot": "S13",
+   "a": 1165,
+   "b": 1206,
+   "t0": 0,
+   "t1": 41,
+   "line": "He doesn't answer that."
+  },
+  {
+   "shot": "S14",
+   "a": 1206,
+   "b": 1298,
+   "t0": 0,
+   "t1": 92,
+   "line": "Instead, he slides a folder across the desk. A"
+  },
+  {
+   "shot": "S15",
+   "a": 1298,
+   "b": 1490,
+   "t0": 0,
+   "t1": 192,
+   "line": "lab, two hours north. Doctors. Machines. A treatment that has never been tried on a person. 'We"
+  },
+  {
+   "shot": "S16",
+   "a": 1490,
+   "b": 1703,
+   "t0": 0,
+   "t1": 213,
+   "line": "think we can slow it down, ' he says. 'One year a month instead of one year a night. That buys you years to find a cure. ' 'And"
+  },
+  {
+   "shot": "S17",
+   "a": 1703,
+   "b": 1733,
+   "t0": 0,
+   "t1": 30,
+   "line": "if I come with you? '"
+  },
+  {
+   "shot": "S18",
+   "a": 1733,
+   "b": 1930,
+   "t0": 0,
+   "t1": 197,
+   "line": "'Then you come tonight. And you stay. No visits. No calls. You have until midnight to decide. '"
+  },
+  {
+   "shot": "S19",
+   "a": 1930,
+   "b": 2049,
+   "t0": 0,
+   "t1": 119,
+   "line": "Through the window, you can see your mom in the parking lot with Ellie. Ellie"
+  },
+  {
+   "shot": "S20",
+   "a": 2049,
+   "b": 2198,
+   "t0": 0,
+   "t1": 149,
+   "line": "is drawing on the foggy car window with her finger. It's you and her, holding hands. You have"
+  },
+  {
+   "shot": "S21",
+   "a": 2198,
+   "b": 2254,
+   "t0": 0,
+   "t1": 56,
+   "line": "seven nights left."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 40,
+   "len": 173,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Day eight is also the day your mom stops pretending this is fine. She takes you to the doctor and the doctor",
+   "note": "mum brings you to the doctor"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 34,
+   "first": 173,
+   "line": "x- rays your hand.",
+   "note": "your hand on the X-ray plate"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 80,
+   "len": 197,
+   "first": 207,
+   "line": "Doctors can tell how old a child is from the growth plates in their hand bones. It's called a bone age test. That's real.",
+   "note": "growth plates: a bone age test"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 70,
+   "len": 133,
+   "first": 404,
+   "line": "Your bone age yesterday: eight. Your bone age today: seven. The",
+   "note": "bone age yesterday 8, today 7"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 40,
+   "len": 99,
+   "first": 537,
+   "line": "doctor stares at the two x- rays for a very long time.",
+   "note": "the doctor stares at the two X-rays"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 56,
+   "first": 636,
+   "line": "Then she leaves the room. And when",
+   "note": "she leaves the room; you alone"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 73,
+   "first": 692,
+   "line": "the door opens again, it isn't her. It's",
+   "note": "the door opens: not her"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 40,
+   "len": 97,
+   "first": 765,
+   "line": "a man in a gray suit. He doesn't say his name. He just",
+   "note": "a man in a grey suit"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "len": 106,
+   "first": 862,
+   "line": "sits down at your eye level, which these days is pretty low. 'We've been",
+   "note": "he sits down at your eye level"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 50,
+   "len": 110,
+   "first": 968,
+   "line": "watching cases like yours, ' he says. 'There have been others.",
+   "note": "the suit: we've been watching cases like yours"
+  },
+  {
+   "id": "S11",
+   "size": "big word",
+   "key": 30,
+   "len": 51,
+   "first": 1078,
+   "line": "Three, in forty years. '",
+   "note": "3 OTHERS IN 40 YEARS"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 20,
+   "len": 36,
+   "first": 1129,
+   "line": "'What happened to them? '",
+   "note": "you: what happened to them?"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 41,
+   "first": 1165,
+   "line": "He doesn't answer that.",
+   "note": "he doesn't answer"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "len": 92,
+   "first": 1206,
+   "line": "Instead, he slides a folder across the desk. A",
+   "note": "the folder slides across the desk"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 60,
+   "len": 192,
+   "first": 1298,
+   "line": "lab, two hours north. Doctors. Machines. A treatment that has never been tried on a person. 'We",
+   "note": "the lab, two hours north"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 120,
+   "len": 213,
+   "first": 1490,
+   "line": "think we can slow it down, ' he says. 'One year a month instead of one year a night. That buys you years to find a cure. ' 'And",
+   "note": "one year a month instead of one year a night"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 20,
+   "len": 30,
+   "first": 1703,
+   "line": "if I come with you? '",
+   "note": "you: and if I come with you?"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 150,
+   "len": 197,
+   "first": 1733,
+   "line": "'Then you come tonight. And you stay. No visits. No calls. You have until midnight to decide. '",
+   "note": "tonight; you stay; no visits, no calls; until midnight"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 119,
+   "first": 1930,
+   "line": "Through the window, you can see your mom in the parking lot with Ellie. Ellie",
+   "note": "through the window: mum and Ellie by the car"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 100,
+   "len": 149,
+   "first": 2049,
+   "line": "is drawing on the foggy car window with her finger. It's you and her, holding hands. You have",
+   "note": "Ellie draws you and her holding hands in the fog"
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "key": 30,
+   "len": 56,
+   "first": 2198,
+   "line": "seven nights left.",
+   "note": "7 NIGHTS LEFT"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c05/voice.wav"
+ }
 }

@@ -1,29 +1,371 @@
 {
  "slug": "aging-backwards/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2320,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 110,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 110,
+   "line": "That night, you don't sleep. You don't want to waste a single hour."
+  },
+  {
+   "shot": "S2",
+   "a": 110,
+   "b": 216,
+   "t0": 0,
+   "t1": 106,
+   "line": "Ellie climbs into your bed, the way you used to climb into hers."
+  },
+  {
+   "shot": "S3",
+   "a": 216,
+   "b": 309,
+   "t0": 0,
+   "t1": 93,
+   "line": "Except that never happened. It just feels like it did now."
+  },
+  {
+   "shot": "S4",
+   "a": 309,
+   "b": 418,
+   "t0": 0,
+   "t1": 109,
+   "line": "'Are you going away? ' she asks. You tell her the truth."
+  },
+  {
+   "shot": "S5",
+   "a": 418,
+   "b": 628,
+   "t0": 0,
+   "t1": 210,
+   "line": "If you stay, you get one more week. Every day smaller. Every night forgetting a little more. And then nobody knows."
+  },
+  {
+   "shot": "S6",
+   "a": 628,
+   "b": 862,
+   "t0": 0,
+   "t1": 234,
+   "line": "If you go, you might get years. But you don't see her. Not her birthday. Not her first day at her new school. Maybe not ever."
+  },
+  {
+   "shot": "S7",
+   "a": 862,
+   "b": 1001,
+   "t0": 0,
+   "t1": 139,
+   "line": "Ellie thinks about it for a long time, which for an eight- year- old is about nine seconds."
+  },
+  {
+   "shot": "S8",
+   "a": 1001,
+   "b": 1156,
+   "t0": 0,
+   "t1": 155,
+   "line": "'Go, ' she says. 'If you go, then when I'm big, you'll still be my brother. ' She"
+  },
+  {
+   "shot": "S9",
+   "a": 1156,
+   "b": 1273,
+   "t0": 0,
+   "t1": 117,
+   "line": "gives you her stuffed rabbit, the one she's had since she was a baby. 'He"
+  },
+  {
+   "shot": "S10",
+   "a": 1273,
+   "b": 1393,
+   "t0": 0,
+   "t1": 120,
+   "line": "sleeps all day, ' she says. 'Like babies. ' She's right."
+  },
+  {
+   "shot": "S11",
+   "a": 1393,
+   "b": 1513,
+   "t0": 0,
+   "t1": 120,
+   "line": "Newborns sleep fourteen to seventeen hours a day. That's real."
+  },
+  {
+   "shot": "S12",
+   "a": 1513,
+   "b": 1584,
+   "t0": 0,
+   "t1": 71,
+   "line": "She just doesn't want you to sleep alone. At"
+  },
+  {
+   "shot": "S13",
+   "a": 1584,
+   "b": 1705,
+   "t0": 0,
+   "t1": 121,
+   "line": "five to midnight, a black car waits outside with its headlights off. You"
+  },
+  {
+   "shot": "S14",
+   "a": 1705,
+   "b": 1749,
+   "t0": 0,
+   "t1": 44,
+   "line": "hug your mom. You hug"
+  },
+  {
+   "shot": "S15",
+   "a": 1749,
+   "b": 1850,
+   "t0": 0,
+   "t1": 101,
+   "line": "Mo, who's pretending not to cry and is really bad at it. And"
+  },
+  {
+   "shot": "S16",
+   "a": 1850,
+   "b": 1968,
+   "t0": 0,
+   "t1": 118,
+   "line": "Ellie stands at the window, waving, until the car turns the corner. In"
+  },
+  {
+   "shot": "S17",
+   "a": 1968,
+   "b": 2065,
+   "t0": 0,
+   "t1": 97,
+   "line": "the back seat, you hold the rabbit and watch your street slide by. Your"
+  },
+  {
+   "shot": "S18",
+   "a": 2065,
+   "b": 2205,
+   "t0": 0,
+   "t1": 140,
+   "line": "house. The roof where you made the list. Mo's bike, lying on the lawn."
+  },
+  {
+   "shot": "S19",
+   "a": 2205,
+   "b": 2237,
+   "t0": 0,
+   "t1": 32,
+   "line": "Midnight. You"
+  },
+  {
+   "shot": "S20",
+   "a": 2237,
+   "b": 2267,
+   "t0": 0,
+   "t1": 30,
+   "line": "feel the shift."
+  },
+  {
+   "shot": "S21",
+   "a": 2267,
+   "b": 2320,
+   "t0": 0,
+   "t1": 53,
+   "line": "Six years old."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 40,
+   "len": 110,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "That night, you don't sleep. You don't want to waste a single hour.",
+   "note": "you sit awake: not wasting an hour"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 40,
+   "len": 106,
+   "first": 110,
+   "line": "Ellie climbs into your bed, the way you used to climb into hers.",
+   "note": "Ellie climbs into your bed"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 30,
+   "len": 93,
+   "first": 216,
+   "line": "Except that never happened. It just feels like it did now.",
+   "note": "that never happened; it just feels like it did"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 109,
+   "first": 309,
+   "line": "'Are you going away? ' she asks. You tell her the truth.",
+   "note": "Ellie: are you going away?"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 150,
+   "len": 210,
+   "first": 418,
+   "line": "If you stay, you get one more week. Every day smaller. Every night forgetting a little more. And then nobody knows.",
+   "note": "STAY: one more week, smaller, forgetting"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 150,
+   "len": 234,
+   "first": 628,
+   "line": "If you go, you might get years. But you don't see her. Not her birthday. Not her first day at her new school. Maybe not ever.",
+   "note": "GO: maybe years, but no Ellie"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 100,
+   "len": 139,
+   "first": 862,
+   "line": "Ellie thinks about it for a long time, which for an eight- year- old is about nine seconds.",
+   "note": "Ellie thinks: nine seconds"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 60,
+   "len": 155,
+   "first": 1001,
+   "line": "'Go, ' she says. 'If you go, then when I'm big, you'll still be my brother. ' She",
+   "note": "Ellie: go; you'll still be my brother"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 60,
+   "len": 117,
+   "first": 1156,
+   "line": "gives you her stuffed rabbit, the one she's had since she was a baby. 'He",
+   "note": "she gives you her stuffed rabbit"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 60,
+   "len": 120,
+   "first": 1273,
+   "line": "sleeps all day, ' she says. 'Like babies. ' She's right.",
+   "note": "Ellie: he sleeps all day, like babies"
+  },
+  {
+   "id": "S11",
+   "size": "fact",
+   "key": 80,
+   "len": 120,
+   "first": 1393,
+   "line": "Newborns sleep fourteen to seventeen hours a day. That's real.",
+   "note": "newborns sleep 14-17 hours a day"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 71,
+   "first": 1513,
+   "line": "She just doesn't want you to sleep alone. At",
+   "note": "you with the rabbit"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 121,
+   "first": 1584,
+   "line": "five to midnight, a black car waits outside with its headlights off. You",
+   "note": "a black car waits, headlights off"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 44,
+   "first": 1705,
+   "line": "hug your mom. You hug",
+   "note": "you hug mum"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 50,
+   "len": 101,
+   "first": 1749,
+   "line": "Mo, who's pretending not to cry and is really bad at it. And",
+   "note": "Mo pretending not to cry"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "len": 118,
+   "first": 1850,
+   "line": "Ellie stands at the window, waving, until the car turns the corner. In",
+   "note": "Ellie waves from the window"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 50,
+   "len": 97,
+   "first": 1968,
+   "line": "the back seat, you hold the rabbit and watch your street slide by. Your",
+   "note": "the back seat: you and the rabbit, the street slides by"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 80,
+   "len": 140,
+   "first": 2065,
+   "line": "house. The roof where you made the list. Mo's bike, lying on the lawn.",
+   "note": "your house, the roof, Mo's bike on the lawn"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 32,
+   "first": 2205,
+   "line": "Midnight. You",
+   "note": "the dashboard clock: 00:00"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 20,
+   "len": 30,
+   "first": 2237,
+   "line": "feel the shift.",
+   "note": "you feel the shift"
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "key": 30,
+   "len": 53,
+   "first": 2267,
+   "line": "Six years old.",
+   "note": "AGE 6"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "aging-backwards/c06/voice.wav"
+ }
 }

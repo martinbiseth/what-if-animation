@@ -48,17 +48,236 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "bedroom night",
+   "note": "you sit awake: not wasting an hour",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "bedroom night",
+   "note": "Ellie climbs into your bed",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "that never happened; it just feels like it did",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "Ellie: are you going away?",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "split",
+   "note": "STAY: one more week, smaller, forgetting",
+   "key": 150
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "split",
+   "note": "GO: maybe years, but no Ellie",
+   "key": 150
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "Ellie thinks: nine seconds",
+   "key": 100
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "Ellie: go; you'll still be my brother",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "rabbit",
+   "note": "she gives you her stuffed rabbit",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "Ellie: he sleeps all day, like babies",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "fact",
+   "set": "schematic",
+   "note": "newborns sleep 14-17 hours a day",
+   "key": 80
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "you with the rabbit",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "street night",
+   "note": "a black car waits, headlights off",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "street night",
+   "note": "you hug mum",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "street night",
+   "note": "Mo pretending not to cry",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "house window",
+   "note": "Ellie waves from the window",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "car",
+   "note": "the back seat: you and the rabbit, the street slides by",
+   "key": 50
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "street night",
+   "note": "your house, the roof, Mo's bike on the lawn",
+   "key": 80
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "car",
+   "note": "the dashboard clock: 00:00",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "set": "car",
+   "note": "you feel the shift",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "set": "card",
+   "note": "AGE 6",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S3",
+   "at": "Except"
+  },
+  {
+   "shot": "S4",
+   "at": "Are"
+  },
+  {
+   "shot": "S5",
+   "at": "If"
+  },
+  {
+   "shot": "S6",
+   "at": "If"
+  },
+  {
+   "shot": "S7",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S8",
+   "at": "Go"
+  },
+  {
+   "shot": "S9",
+   "at": "gives"
+  },
+  {
+   "shot": "S10",
+   "at": "sleeps"
+  },
+  {
+   "shot": "S11",
+   "at": "Newborns"
+  },
+  {
+   "shot": "S12",
+   "at": "She"
+  },
+  {
+   "shot": "S13",
+   "at": "five"
+  },
+  {
+   "shot": "S14",
+   "at": "hug"
+  },
+  {
+   "shot": "S15",
+   "at": "Mo"
+  },
+  {
+   "shot": "S16",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S17",
+   "at": "back"
+  },
+  {
+   "shot": "S18",
+   "at": "house"
+  },
+  {
+   "shot": "S19",
+   "at": "Midnight"
+  },
+  {
+   "shot": "S20",
+   "at": "feel"
+  },
+  {
+   "shot": "S21",
+   "at": "Six"
   }
  ],
- "end": "f:90",
  "fx": []
 }
