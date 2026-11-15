@@ -366,6 +366,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "strength-doubles/c06/voice.wav"
+  "voice": "strength-doubles/c06/voice.wav",
+  "sfx": "strength-doubles/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2905,
+  "music": "strength-doubles/c06/music.wav",
+  "musicVol": 0.0887
  }
 }
