@@ -1,29 +1,371 @@
 {
  "slug": "gravity/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2067,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 68,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 68,
+   "line": "Nine o'clock. Eight times normal."
+  },
+  {
+   "shot": "S2",
+   "a": 68,
+   "b": 146,
+   "t0": 0,
+   "t1": 78,
+   "line": "In the water, you can breathe. Barely."
+  },
+  {
+   "shot": "S21",
+   "a": 146,
+   "b": 330,
+   "t0": 0,
+   "t1": 184,
+   "line": "Your mom, Ellie, Mr. Patel, Biscuit, all floating with just your faces out, staring at the sky. The"
+  },
+  {
+   "shot": "S3",
+   "a": 330,
+   "b": 475,
+   "t0": 0,
+   "t1": 145,
+   "line": "whole street is in that pool. Nobody talks. Breathing takes all you've got."
+  },
+  {
+   "shot": "S4",
+   "a": 475,
+   "b": 673,
+   "t0": 0,
+   "t1": 198,
+   "line": "High above you, a plane you can barely see is still coming down, slow and careful, toward the highway. It makes it."
+  },
+  {
+   "shot": "S5",
+   "a": 673,
+   "b": 768,
+   "t0": 0,
+   "t1": 95,
+   "line": "Mr. Patel lets out a breath he's been holding for an hour."
+  },
+  {
+   "shot": "S6",
+   "a": 768,
+   "b": 812,
+   "t0": 0,
+   "t1": 44,
+   "line": "Nine fifty- nine."
+  },
+  {
+   "shot": "S7",
+   "a": 812,
+   "b": 860,
+   "t0": 0,
+   "t1": 48,
+   "line": "Ellie squeezes your hand."
+  },
+  {
+   "shot": "S8",
+   "a": 860,
+   "b": 910,
+   "t0": 0,
+   "t1": 50,
+   "line": "Sixteen g is coming."
+  },
+  {
+   "shot": "S9",
+   "a": 910,
+   "b": 940,
+   "t0": 0,
+   "t1": 30,
+   "line": "Ten o'clock."
+  },
+  {
+   "shot": "S10",
+   "a": 940,
+   "b": 988,
+   "t0": 0,
+   "t1": 48,
+   "line": "And gravity doesn't double."
+  },
+  {
+   "shot": "S11",
+   "a": 988,
+   "b": 1024,
+   "t0": 0,
+   "t1": 36,
+   "line": "It disappears."
+  },
+  {
+   "shot": "S12",
+   "a": 1024,
+   "b": 1121,
+   "t0": 0,
+   "t1": 97,
+   "line": "The water lifts out of the pool like a giant wobbling bubble."
+  },
+  {
+   "shot": "S13",
+   "a": 1121,
+   "b": 1203,
+   "t0": 0,
+   "t1": 82,
+   "line": "With all of you still inside it. Floating up."
+  },
+  {
+   "shot": "S14",
+   "a": 1203,
+   "b": 1274,
+   "t0": 0,
+   "t1": 71,
+   "line": "Past the roof. Past the trees."
+  },
+  {
+   "shot": "S15",
+   "a": 1274,
+   "b": 1377,
+   "t0": 0,
+   "t1": 103,
+   "line": "And down the street, the whole ocean is starting to rise."
+  },
+  {
+   "shot": "S20",
+   "a": 1377,
+   "b": 1459,
+   "t0": 0,
+   "t1": 82,
+   "line": "Is any of this real? The physics is."
+  },
+  {
+   "shot": "S16",
+   "a": 1459,
+   "b": 1784,
+   "t0": 0,
+   "t1": 325,
+   "line": "Your blood really does weigh more as gravity grows. Pilots really do black out at a few g. And water really does push back harder as gravity gets stronger. The sources are in the description."
+  },
+  {
+   "shot": "S17",
+   "a": 1784,
+   "b": 1852,
+   "t0": 0,
+   "t1": 68,
+   "line": "But who flipped the switch at ten o'clock?"
+  },
+  {
+   "shot": "S18",
+   "a": 1852,
+   "b": 1917,
+   "t0": 0,
+   "t1": 65,
+   "line": "Tell me your theory in the comments."
+  },
+  {
+   "shot": "S19",
+   "a": 1917,
+   "b": 2067,
+   "t0": 0,
+   "t1": 150,
+   "line": "Part two is coming."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 68,
+   "first": 0,
+   "line": "Nine o'clock. Eight times normal.",
+   "note": "9:00 8G"
+  },
+  {
+   "id": "S2",
+   "size": "pool",
+   "key": 30,
+   "len": 78,
+   "first": 68,
+   "line": "In the water, you can breathe. Barely.",
+   "note": "floating, faces out"
+  },
+  {
+   "id": "S21",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "len": 184,
+   "first": 146,
+   "line": "Your mom, Ellie, Mr. Patel, Biscuit, all floating with just your faces out, staring at the sky. The",
+   "note": "the family floating, faces out"
+  },
+  {
+   "id": "S3",
+   "size": "pool",
+   "key": 30,
+   "len": 145,
+   "first": 330,
+   "line": "whole street is in that pool. Nobody talks. Breathing takes all you've got.",
+   "note": "the whole street in the pool"
+  },
+  {
+   "id": "S4",
+   "size": "sky",
+   "key": 30,
+   "len": 198,
+   "first": 475,
+   "line": "High above you, a plane you can barely see is still coming down, slow and careful, toward the highway. It makes it.",
+   "note": "plane lands on the highway"
+  },
+  {
+   "id": "S5",
+   "size": "pool",
+   "key": 30,
+   "len": 95,
+   "first": 673,
+   "line": "Mr. Patel lets out a breath he's been holding for an hour.",
+   "note": "Patel lets out a breath"
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "key": 30,
+   "len": 44,
+   "first": 768,
+   "line": "Nine fifty- nine.",
+   "note": "9:59"
+  },
+  {
+   "id": "S7",
+   "size": "pool",
+   "key": 30,
+   "len": 48,
+   "first": 812,
+   "line": "Ellie squeezes your hand.",
+   "note": "Ellie squeezes your hand"
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "key": 30,
+   "len": 50,
+   "first": 860,
+   "line": "Sixteen g is coming.",
+   "note": "16G coming"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 30,
+   "len": 30,
+   "first": 910,
+   "line": "Ten o'clock.",
+   "note": "clock ticks to 10"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 30,
+   "len": 48,
+   "first": 940,
+   "line": "And gravity doesn't double.",
+   "note": "doesn't double"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 30,
+   "len": 36,
+   "first": 988,
+   "line": "It disappears.",
+   "note": "0G"
+  },
+  {
+   "id": "S12",
+   "size": "pool",
+   "key": 30,
+   "len": 97,
+   "first": 1024,
+   "line": "The water lifts out of the pool like a giant wobbling bubble.",
+   "note": "water lifts out as a bubble"
+  },
+  {
+   "id": "S13",
+   "size": "sky",
+   "key": 30,
+   "len": 82,
+   "first": 1121,
+   "line": "With all of you still inside it. Floating up.",
+   "note": "floating up inside it"
+  },
+  {
+   "id": "S14",
+   "size": "sky",
+   "key": 30,
+   "len": 71,
+   "first": 1203,
+   "line": "Past the roof. Past the trees.",
+   "note": "past the roof, past the trees"
+  },
+  {
+   "id": "S15",
+   "size": "sea",
+   "key": 30,
+   "len": 103,
+   "first": 1274,
+   "line": "And down the street, the whole ocean is starting to rise.",
+   "note": "the ocean starts to rise"
+  },
+  {
+   "id": "S20",
+   "size": "big word",
+   "key": 20,
+   "len": 82,
+   "first": 1377,
+   "line": "Is any of this real? The physics is.",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "key": 30,
+   "len": 325,
+   "first": 1459,
+   "line": "Your blood really does weigh more as gravity grows. Pilots really do black out at a few g. And water really does push back harder as gravity gets stronger. The sources are in the description.",
+   "note": "is any of this real"
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "key": 30,
+   "len": 68,
+   "first": 1784,
+   "line": "But who flipped the switch at ten o'clock?",
+   "note": "who flipped the switch"
+  },
+  {
+   "id": "S18",
+   "size": "big word",
+   "key": 30,
+   "len": 65,
+   "first": 1852,
+   "line": "Tell me your theory in the comments.",
+   "note": "in the comments"
+  },
+  {
+   "id": "S19",
+   "size": "end",
+   "key": 30,
+   "len": 150,
+   "first": 1917,
+   "line": "Part two is coming.",
+   "note": "PART 2, subscribe"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gravity/c07/voice.wav"
+ }
 }

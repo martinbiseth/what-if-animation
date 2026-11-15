@@ -57,18 +57,238 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "set": "card",
+   "note": "9:00 8G",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "pool",
+   "set": "pool",
+   "note": "floating, faces out",
+   "key": 30
+  },
+  {
+   "id": "S21",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "pool",
+   "note": "the family floating, faces out",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "pool",
+   "set": "pool",
+   "note": "the whole street in the pool",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "sky",
+   "set": "sky",
+   "note": "plane lands on the highway",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "pool",
+   "set": "pool",
+   "note": "Patel lets out a breath",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "set": "big word",
+   "note": "9:59",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "pool",
+   "set": "pool",
+   "note": "Ellie squeezes your hand",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "set": "schematic",
+   "note": "16G coming",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "insert",
+   "note": "clock ticks to 10",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "big word",
+   "note": "doesn't double",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "set": "card",
+   "note": "0G",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "pool",
+   "set": "pool",
+   "note": "water lifts out as a bubble",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "sky",
+   "set": "sky",
+   "note": "floating up inside it",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "sky",
+   "set": "sky",
+   "note": "past the roof, past the trees",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "sea",
+   "set": "sea",
+   "note": "the ocean starts to rise",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "big word",
+   "set": "card",
+   "note": "is any of this real?",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "set": "schematic",
+   "note": "is any of this real",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "set": "big word",
+   "note": "who flipped the switch",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "big word",
+   "set": "big word",
+   "note": "in the comments",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "end",
+   "set": "end",
+   "note": "PART 2, subscribe",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "In"
+  },
+  {
+   "shot": "S21",
+   "at": "Your"
+  },
+  {
+   "shot": "S3",
+   "at": "whole"
+  },
+  {
+   "shot": "S4",
+   "at": "High"
+  },
+  {
+   "shot": "S5",
+   "at": "Mr"
+  },
+  {
+   "shot": "S6",
+   "at": "Nine"
+  },
+  {
+   "shot": "S7",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S8",
+   "at": "Sixteen"
+  },
+  {
+   "shot": "S9",
+   "at": "Ten"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "It"
+  },
+  {
+   "shot": "S12",
+   "at": "The"
+  },
+  {
+   "shot": "S13",
+   "at": "With"
+  },
+  {
+   "shot": "S14",
+   "at": "Past"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S20",
+   "at": "Is#2"
+  },
+  {
+   "shot": "S16",
+   "at": "Your"
+  },
+  {
+   "shot": "S17",
+   "at": "But"
+  },
+  {
+   "shot": "S18",
+   "at": "Tell"
+  },
+  {
+   "shot": "S19",
+   "at": "Part"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 4.0
 }
