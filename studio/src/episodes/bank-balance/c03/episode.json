@@ -1,301 +1,533 @@
 {
- "id": "BankBalanceC03",
- "slug": "bank-balance/c03",
- "chapter": "The fun part",
- "topic": "What if you could see everyone's bank balance?",
- "script": [
-  {
-   "beat": "guess the number",
-   "text": "And at first, it's the best game in the world. In class, you play guess the number. The teacher who drives the tiny old car? Forty-one thousand dollars, saved. The kid with the expensive trainers? Red. His parents are still paying them off."
-  },
-  {
-   "beat": "the quiet girl",
-   "text": "The quiet girl at the back, who wears the same jumper every day, has two hundred and thirty thousand dollars. You have no idea why. You decide not to ask."
-  },
-  {
-   "beat": "the bike",
-   "text": "Then you find out what it's actually good for. You sell your old bike online, and a man comes to look at it. 'Best I can do is fifty,' he says, and looks sad. His number says nine thousand. You say a hundred and twenty. He pays it."
-  },
-  {
-   "beat": "mo finds out",
-   "text": "Mo figures out something is going on in about a day. 'How did you know that?' So you tell him. He doesn't believe you, so you prove it. You tell him exactly how much is on his bank card. He checks the app. Then he goes very quiet. 'Okay. Do my brother.'"
-  },
-  {
-   "beat": "the brother",
-   "text": "Mo's big brother swears he's broke and can't pay back the twenty dollars he owes you. You just point at the space above his head. He pays."
-  },
-  {
-   "beat": "payday",
-   "text": "Friday night, you can't sleep, so you look out of the window. A neighbour is walking home from a late shift. Midnight hits, and his number jumps by two thousand dollars, right there in the street. Payday. All along the road, in every dark window, numbers are going up."
-  },
-  {
-   "beat": "pizza",
-   "text": "Mo's mum takes you both out for pizza, and you watch the waiter's number go up by a few dollars every time someone leaves a tip. The table that left nothing at all? Six figures."
-  },
-  {
-   "beat": "the business",
-   "text": "By Saturday, you and Mo have a system. At the car boot sale, you never overpay. Mo wants to start a business. 'We could charge people to tell them who's lying about money.' You laugh."
-  },
-  {
-   "beat": "turn",
-   "text": "And then, on Sunday morning, you finally look properly at your mum. And you stop laughing."
+  "id": "BankBalanceC03",
+  "slug": "bank-balance/c03",
+  "chapter": "The fun part",
+  "topic": "What if you could see everyone's bank balance?",
+  "script": [
+    {
+      "beat": "guess the number",
+      "text": "And at first, it's the best game in the world. In class, you play guess the number. The teacher who drives the tiny old car? Forty-one thousand dollars, saved. The kid with the expensive trainers? Red. His parents are still paying them off."
+    },
+    {
+      "beat": "the quiet girl",
+      "text": "The quiet girl at the back, who wears the same jumper every day, has two hundred and thirty thousand dollars. You have no idea why. You decide not to ask."
+    },
+    {
+      "beat": "the bike",
+      "text": "Then you find out what it's actually good for. You sell your old bike online, and a man comes to look at it. 'Best I can do is fifty,' he says, and looks sad. His number says nine thousand. You say a hundred and twenty. He pays it."
+    },
+    {
+      "beat": "mo finds out",
+      "text": "Mo figures out something is going on in about a day. 'How did you know that?' So you tell him. He doesn't believe you, so you prove it. You tell him exactly how much is on his bank card. He checks the app. Then he goes very quiet. 'Okay. Do my brother.'"
+    },
+    {
+      "beat": "the brother",
+      "text": "Mo's big brother swears he's broke and can't pay back the twenty dollars he owes you. You just point at the space above his head. He pays."
+    },
+    {
+      "beat": "payday",
+      "text": "Friday night, you can't sleep, so you look out of the window. A neighbour is walking home from a late shift. Midnight hits, and his number jumps by two thousand dollars, right there in the street. Payday. All along the road, in every dark window, numbers are going up."
+    },
+    {
+      "beat": "pizza",
+      "text": "Mo's mum takes you both out for pizza, and you watch the waiter's number go up by a few dollars every time someone leaves a tip. The table that left nothing at all? Six figures."
+    },
+    {
+      "beat": "the business",
+      "text": "By Saturday, you and Mo have a system. At the car boot sale, you never overpay. Mo wants to start a business. 'We could charge people to tell them who's lying about money.' You laugh."
+    },
+    {
+      "beat": "turn",
+      "text": "And then, on Sunday morning, you finally look properly at your mum. And you stop laughing."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "note": "chapter 3",
+      "key": 30
+    },
+    {
+      "id": "S2",
+      "size": "two-shot",
+      "note": "class: guess the number",
+      "key": 30
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "note": "the teacher: $41,000",
+      "key": 80
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "note": "the trainers: red",
+      "key": 80
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "note": "the quiet girl: $230,000",
+      "key": 110
+    },
+    {
+      "id": "S6",
+      "size": "close",
+      "note": "no idea why",
+      "key": 30
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "note": "bike for sale",
+      "key": 20
+    },
+    {
+      "id": "S8",
+      "size": "two-shot",
+      "note": "best I can do is fifty",
+      "key": 60
+    },
+    {
+      "id": "S9",
+      "size": "close",
+      "note": "$9,000",
+      "key": 30
+    },
+    {
+      "id": "S10",
+      "size": "two-shot",
+      "note": "a hundred and twenty; he pays",
+      "key": 60
+    },
+    {
+      "id": "S11",
+      "size": "two-shot",
+      "note": "Mo: how did you know?",
+      "key": 60
+    },
+    {
+      "id": "S12",
+      "size": "two-shot",
+      "note": "prove it",
+      "key": 70
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "note": "the app: $47.30",
+      "key": 20
+    },
+    {
+      "id": "S14",
+      "size": "close",
+      "note": "do my brother",
+      "key": 40
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "note": "the brother pays",
+      "key": 170
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "note": "Friday night, the window",
+      "key": 30
+    },
+    {
+      "id": "S17",
+      "size": "wide",
+      "note": "midnight: +$2,000",
+      "key": 125
+    },
+    {
+      "id": "S18",
+      "size": "card",
+      "note": "payday",
+      "key": 20
+    },
+    {
+      "id": "S19",
+      "size": "wide",
+      "note": "every window going up",
+      "key": 50
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "note": "pizza: the waiter's tips",
+      "key": 60
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "note": "six figures, no tip",
+      "key": 70
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "note": "car boot sale",
+      "key": 40
+    },
+    {
+      "id": "S23",
+      "size": "two-shot",
+      "note": "Mo's business",
+      "key": 60
+    },
+    {
+      "id": "S24",
+      "size": "two-shot",
+      "note": "Sunday, Mum",
+      "key": 60
+    },
+    {
+      "id": "S25",
+      "size": "close",
+      "note": "you stop laughing",
+      "key": 20
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "In"
+    },
+    {
+      "shot": "S3",
+      "at": "teacher"
+    },
+    {
+      "shot": "S4",
+      "at": "kid"
+    },
+    {
+      "shot": "S5",
+      "at": "quiet"
+    },
+    {
+      "shot": "S6",
+      "at": "You"
+    },
+    {
+      "shot": "S7",
+      "at": "Then"
+    },
+    {
+      "shot": "S8",
+      "at": "man"
+    },
+    {
+      "shot": "S9",
+      "at": "His"
+    },
+    {
+      "shot": "S10",
+      "at": "You"
+    },
+    {
+      "shot": "S11",
+      "at": "Mo"
+    },
+    {
+      "shot": "S12",
+      "at": "He"
+    },
+    {
+      "shot": "S13",
+      "at": "checks"
+    },
+    {
+      "shot": "S14",
+      "at": "Then"
+    },
+    {
+      "shot": "S15",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S16",
+      "at": "Friday"
+    },
+    {
+      "shot": "S17",
+      "at": "neighbour"
+    },
+    {
+      "shot": "S18",
+      "at": "Payday"
+    },
+    {
+      "shot": "S19",
+      "at": "All"
+    },
+    {
+      "shot": "S20",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S21",
+      "at": "table"
+    },
+    {
+      "shot": "S22",
+      "at": "By"
+    },
+    {
+      "shot": "S23",
+      "at": "wants"
+    },
+    {
+      "shot": "S24",
+      "at": "And"
+    },
+    {
+      "shot": "S25",
+      "at": "stop"
+    }
+  ],
+  "fx": [],
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gasp": [
+        "a small crowd of people gasping in surprise",
+        1.5
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "m_fun": [
+        "upbeat playful 1920s ragtime piano with clarinet, light and curious, instrumental background loop",
+        20.0
+      ],
+      "notify": [
+        "a soft modern smartphone message notification chime",
+        0.8
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "pop": [
+        "a short bright cartoon pop",
+        0.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "scratch": [
+        "a vinyl record scratch, music stops abruptly",
+        0.8
+      ],
+      "shutter": [
+        "a smartphone camera shutter click",
+        0.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "tick": [
+        "a slow old clock ticking in a quiet room",
+        4.0
+      ]
+    },
+    "events": [
+      [
+        "S2+0",
+        "class_murmur",
+        0.35,
+        "onset",
+        "S6"
+      ],
+      [
+        "S3+10",
+        "pop",
+        0.4
+      ],
+      [
+        "S4+10",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S5+10",
+        "ding",
+        0.4
+      ],
+      [
+        "S7+0",
+        "shutter",
+        0.4
+      ],
+      [
+        "S8+0",
+        "step",
+        0.4
+      ],
+      [
+        "S9+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S10+20",
+        "cash",
+        0.5
+      ],
+      [
+        "S11+0",
+        "gasp",
+        0.25
+      ],
+      [
+        "S13+0",
+        "notify",
+        0.45
+      ],
+      [
+        "S14+0",
+        "gulp",
+        0.4
+      ],
+      [
+        "S15+40",
+        "cash",
+        0.4
+      ],
+      [
+        "S16+0",
+        "tick",
+        0.35,
+        "onset",
+        "S18"
+      ],
+      [
+        "S17+60",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S18+0",
+        "card_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S19+0",
+        "sparkle",
+        0.35
+      ],
+      [
+        "S20+0",
+        "clink",
+        0.4
+      ],
+      [
+        "S20+80",
+        "ding",
+        0.3
+      ],
+      [
+        "S21+0",
+        "pop",
+        0.4
+      ],
+      [
+        "S22+0",
+        "roof_wind",
+        0.3,
+        "onset",
+        "S23"
+      ],
+      [
+        "S22+60",
+        "cash",
+        0.35
+      ],
+      [
+        "S23+0",
+        "paper",
+        0.4
+      ],
+      [
+        "S24+0",
+        "room_tone",
+        0.45
+      ],
+      [
+        "S25+0",
+        "scratch",
+        0.55
+      ],
+      [
+        "S25+8",
+        "drone_hit",
+        0.6,
+        "peak"
+      ]
+    ],
+    "music": {
+      "clip": "m_fun",
+      "loop": true,
+      "until": "S24"
+    },
+    "levels": {
+      "sfx_lu": -1.0,
+      "music_lu": -14.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "note": "chapter 3",
-   "key": 30
-  },
-  {
-   "id": "S2",
-   "size": "two-shot",
-   "note": "class: guess the number",
-   "key": 30
-  },
-  {
-   "id": "S3",
-   "size": "medium",
-   "note": "the teacher: $41,000",
-   "key": 80
-  },
-  {
-   "id": "S4",
-   "size": "medium",
-   "note": "the trainers: red",
-   "key": 80
-  },
-  {
-   "id": "S5",
-   "size": "medium",
-   "note": "the quiet girl: $230,000",
-   "key": 110
-  },
-  {
-   "id": "S6",
-   "size": "close",
-   "note": "no idea why",
-   "key": 30
-  },
-  {
-   "id": "S7",
-   "size": "insert",
-   "note": "bike for sale",
-   "key": 20
-  },
-  {
-   "id": "S8",
-   "size": "two-shot",
-   "note": "best I can do is fifty",
-   "key": 60
-  },
-  {
-   "id": "S9",
-   "size": "close",
-   "note": "$9,000",
-   "key": 30
-  },
-  {
-   "id": "S10",
-   "size": "two-shot",
-   "note": "a hundred and twenty; he pays",
-   "key": 60
-  },
-  {
-   "id": "S11",
-   "size": "two-shot",
-   "note": "Mo: how did you know?",
-   "key": 60
-  },
-  {
-   "id": "S12",
-   "size": "two-shot",
-   "note": "prove it",
-   "key": 70
-  },
-  {
-   "id": "S13",
-   "size": "insert",
-   "note": "the app: $47.30",
-   "key": 20
-  },
-  {
-   "id": "S14",
-   "size": "close",
-   "note": "do my brother",
-   "key": 40
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "note": "the brother pays",
-   "key": 170
-  },
-  {
-   "id": "S16",
-   "size": "medium",
-   "note": "Friday night, the window",
-   "key": 30
-  },
-  {
-   "id": "S17",
-   "size": "wide",
-   "note": "midnight: +$2,000",
-   "key": 125
-  },
-  {
-   "id": "S18",
-   "size": "card",
-   "note": "payday",
-   "key": 20
-  },
-  {
-   "id": "S19",
-   "size": "wide",
-   "note": "every window going up",
-   "key": 50
-  },
-  {
-   "id": "S20",
-   "size": "wide",
-   "note": "pizza: the waiter's tips",
-   "key": 60
-  },
-  {
-   "id": "S21",
-   "size": "medium",
-   "note": "six figures, no tip",
-   "key": 70
-  },
-  {
-   "id": "S22",
-   "size": "wide",
-   "note": "car boot sale",
-   "key": 40
-  },
-  {
-   "id": "S23",
-   "size": "two-shot",
-   "note": "Mo's business",
-   "key": 60
-  },
-  {
-   "id": "S24",
-   "size": "two-shot",
-   "note": "Sunday, Mum",
-   "key": 60
-  },
-  {
-   "id": "S25",
-   "size": "close",
-   "note": "you stop laughing",
-   "key": 20
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "In"
-  },
-  {
-   "shot": "S3",
-   "at": "teacher"
-  },
-  {
-   "shot": "S4",
-   "at": "kid"
-  },
-  {
-   "shot": "S5",
-   "at": "quiet"
-  },
-  {
-   "shot": "S6",
-   "at": "You"
-  },
-  {
-   "shot": "S7",
-   "at": "Then"
-  },
-  {
-   "shot": "S8",
-   "at": "man"
-  },
-  {
-   "shot": "S9",
-   "at": "His"
-  },
-  {
-   "shot": "S10",
-   "at": "You"
-  },
-  {
-   "shot": "S11",
-   "at": "Mo"
-  },
-  {
-   "shot": "S12",
-   "at": "He"
-  },
-  {
-   "shot": "S13",
-   "at": "checks"
-  },
-  {
-   "shot": "S14",
-   "at": "Then"
-  },
-  {
-   "shot": "S15",
-   "at": "Mo's"
-  },
-  {
-   "shot": "S16",
-   "at": "Friday"
-  },
-  {
-   "shot": "S17",
-   "at": "neighbour"
-  },
-  {
-   "shot": "S18",
-   "at": "Payday"
-  },
-  {
-   "shot": "S19",
-   "at": "All"
-  },
-  {
-   "shot": "S20",
-   "at": "Mo's"
-  },
-  {
-   "shot": "S21",
-   "at": "table"
-  },
-  {
-   "shot": "S22",
-   "at": "By"
-  },
-  {
-   "shot": "S23",
-   "at": "wants"
-  },
-  {
-   "shot": "S24",
-   "at": "And"
-  },
-  {
-   "shot": "S25",
-   "at": "stop"
-  }
- ],
- "fx": [],
- "tail": 1.0
 }

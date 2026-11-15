@@ -1,185 +1,330 @@
 {
- "id": "BankBalanceC02",
- "slug": "bank-balance/c02",
- "chapter": "The numbers",
- "topic": "What if you could see everyone's bank balance?",
- "script": [
-  {
-   "beat": "what it is",
-   "text": "Here's how it works. One Monday morning, every person you look at has a number above their head. It's everything they have. Every bank account, every savings account, minus every debt they owe. It doesn't count cash under the mattress, or a house, or a car. Just money in the bank, and money owed."
-  },
-  {
-   "beat": "green and red",
-   "text": "Green if they have money. Red if they owe more than they own. And it updates live, to the cent. Somebody taps a card, and you watch the number drop."
-  },
-  {
-   "beat": "the rules",
-   "text": "The rules are simple. You only see it in real life. Not on TV, not in photos, not on video calls. Only you can see it. And no matter how hard you try, you can never see your own. Not in a mirror. Not in a shop window. Remember that. It matters later."
-  },
-  {
-   "beat": "title",
-   "text": "This is what if you could see everyone's bank balance."
+  "id": "BankBalanceC02",
+  "slug": "bank-balance/c02",
+  "chapter": "The numbers",
+  "topic": "What if you could see everyone's bank balance?",
+  "script": [
+    {
+      "beat": "what it is",
+      "text": "Here's how it works. One Monday morning, every person you look at has a number above their head. It's everything they have. Every bank account, every savings account, minus every debt they owe. It doesn't count cash under the mattress, or a house, or a car. Just money in the bank, and money owed."
+    },
+    {
+      "beat": "green and red",
+      "text": "Green if they have money. Red if they owe more than they own. And it updates live, to the cent. Somebody taps a card, and you watch the number drop."
+    },
+    {
+      "beat": "the rules",
+      "text": "The rules are simple. You only see it in real life. Not on TV, not in photos, not on video calls. Only you can see it. And no matter how hard you try, you can never see your own. Not in a mirror. Not in a shop window. Remember that. It matters later."
+    },
+    {
+      "beat": "title",
+      "text": "This is what if you could see everyone's bank balance."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "note": "chapter 2",
+      "key": 20
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "note": "Monday: numbers pop over every head",
+      "key": 60
+    },
+    {
+      "id": "S3",
+      "size": "card",
+      "note": "what it counts: the sum",
+      "key": 140
+    },
+    {
+      "id": "S4",
+      "size": "card",
+      "note": "what it doesn't count",
+      "key": 120
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "note": "green",
+      "key": 20
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "note": "red",
+      "key": 20
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "note": "live, to the cent",
+      "key": 50
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "note": "a card tap, the number drops",
+      "key": 50
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "note": "real life only",
+      "key": 30
+    },
+    {
+      "id": "S10",
+      "size": "card",
+      "note": "not on TV, photos, video calls",
+      "key": 70
+    },
+    {
+      "id": "S11",
+      "size": "close",
+      "note": "only you",
+      "key": 20
+    },
+    {
+      "id": "S12",
+      "size": "close",
+      "note": "the mirror: no number",
+      "key": 60
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "note": "the shop window: everyone but you",
+      "key": 40
+    },
+    {
+      "id": "S14",
+      "size": "card",
+      "note": "remember that",
+      "key": 20
+    },
+    {
+      "id": "S15",
+      "size": "card",
+      "note": "title",
+      "key": 60
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "One"
+    },
+    {
+      "shot": "S3",
+      "at": "It's"
+    },
+    {
+      "shot": "S4",
+      "at": "It"
+    },
+    {
+      "shot": "S5",
+      "at": "Green"
+    },
+    {
+      "shot": "S6",
+      "at": "Red"
+    },
+    {
+      "shot": "S7",
+      "at": "And"
+    },
+    {
+      "shot": "S8",
+      "at": "Somebody"
+    },
+    {
+      "shot": "S9",
+      "at": "The"
+    },
+    {
+      "shot": "S10",
+      "at": "Not"
+    },
+    {
+      "shot": "S11",
+      "at": "Only"
+    },
+    {
+      "shot": "S12",
+      "at": "And"
+    },
+    {
+      "shot": "S13",
+      "at": "shop"
+    },
+    {
+      "shot": "S14",
+      "at": "Remember"
+    },
+    {
+      "shot": "S15",
+      "at": "This"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU COULD SEE",
+    "EVERYONE'S BANK BALANCE?"
+  ],
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a short bright cartoon pop",
+        0.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S2+6",
+        "pop",
+        0.35
+      ],
+      [
+        "S2+30",
+        "pop",
+        0.3
+      ],
+      [
+        "S2+60",
+        "pop",
+        0.3
+      ],
+      [
+        "S3+0",
+        "select_draw",
+        0.4
+      ],
+      [
+        "S4+0",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S5+0",
+        "ding",
+        0.45
+      ],
+      [
+        "S6+0",
+        "buzzer",
+        0.35
+      ],
+      [
+        "S7+0",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S8+10",
+        "beep",
+        0.4
+      ],
+      [
+        "S9+0",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S10+0",
+        "glitch",
+        0.35
+      ],
+      [
+        "S11+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S12+0",
+        "drone_hit",
+        0.45,
+        "peak"
+      ],
+      [
+        "S14+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S15+0",
+        "title_boom",
+        0.9,
+        "peak"
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "loop": true,
+      "until": "S15"
+    },
+    "levels": {
+      "sfx_lu": -1.0,
+      "music_lu": -14.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "note": "chapter 2",
-   "key": 20
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "note": "Monday: numbers pop over every head",
-   "key": 60
-  },
-  {
-   "id": "S3",
-   "size": "card",
-   "note": "what it counts: the sum",
-   "key": 140
-  },
-  {
-   "id": "S4",
-   "size": "card",
-   "note": "what it doesn't count",
-   "key": 120
-  },
-  {
-   "id": "S5",
-   "size": "medium",
-   "note": "green",
-   "key": 20
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "note": "red",
-   "key": 20
-  },
-  {
-   "id": "S7",
-   "size": "insert",
-   "note": "live, to the cent",
-   "key": 50
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "note": "a card tap, the number drops",
-   "key": 50
-  },
-  {
-   "id": "S9",
-   "size": "card",
-   "note": "real life only",
-   "key": 30
-  },
-  {
-   "id": "S10",
-   "size": "card",
-   "note": "not on TV, photos, video calls",
-   "key": 70
-  },
-  {
-   "id": "S11",
-   "size": "close",
-   "note": "only you",
-   "key": 20
-  },
-  {
-   "id": "S12",
-   "size": "close",
-   "note": "the mirror: no number",
-   "key": 60
-  },
-  {
-   "id": "S13",
-   "size": "wide",
-   "note": "the shop window: everyone but you",
-   "key": 40
-  },
-  {
-   "id": "S14",
-   "size": "card",
-   "note": "remember that",
-   "key": 20
-  },
-  {
-   "id": "S15",
-   "size": "card",
-   "note": "title",
-   "key": 60
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "One"
-  },
-  {
-   "shot": "S3",
-   "at": "It's"
-  },
-  {
-   "shot": "S4",
-   "at": "It"
-  },
-  {
-   "shot": "S5",
-   "at": "Green"
-  },
-  {
-   "shot": "S6",
-   "at": "Red"
-  },
-  {
-   "shot": "S7",
-   "at": "And"
-  },
-  {
-   "shot": "S8",
-   "at": "Somebody"
-  },
-  {
-   "shot": "S9",
-   "at": "The"
-  },
-  {
-   "shot": "S10",
-   "at": "Not"
-  },
-  {
-   "shot": "S11",
-   "at": "Only"
-  },
-  {
-   "shot": "S12",
-   "at": "And"
-  },
-  {
-   "shot": "S13",
-   "at": "shop"
-  },
-  {
-   "shot": "S14",
-   "at": "Remember"
-  },
-  {
-   "shot": "S15",
-   "at": "This"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU COULD SEE",
-  "EVERYONE'S BANK BALANCE?"
- ],
- "tail": 1.0
 }

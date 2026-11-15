@@ -1,259 +1,411 @@
 {
- "id": "BankBalanceC06",
- "slug": "bank-balance/c06",
- "chapter": "The choice",
- "topic": "What if you could see everyone's bank balance?",
- "script": [
-  {
-   "beat": "we need you",
-   "text": "He knows what you can do. He doesn't say how. He just says, 'We need someone like you.' 'Who are you?' you ask. 'People who follow money,' he says. 'All of it. Except we can't see it. You can.'"
-  },
-  {
-   "beat": "the window",
-   "text": "He takes you to an office high above a train station. Thousands of people walk past underneath. 'Point,' he says. 'Tell me which ones are stealing.' And you can. A woman whose number jumps by five thousand every time she walks past a cash machine. A man whose number is so long it doesn't fit above his head. You point. He writes it all down."
-  },
-  {
-   "beat": "the paper",
-   "text": "Then he slides a piece of paper across the table. 'One year. You work for us. You tell nobody, not even your mum. And this happens.' On the paper is your mum's name. And a number. One million dollars."
-  },
-  {
-   "beat": "thinking",
-   "text": "You think about the red number above her head. About Ellie's school trip. About Mo pretending he isn't hungry. About how your mum smiled and said 'don't worry about it', every single time. You ask what the work is. 'Just pointing,' he says. 'Nothing else.' It sounds easy. That's what worries you."
-  },
-  {
-   "beat": "if I say no",
-   "text": "'And if I say no?' He smiles. 'Then you go home, and nothing changes. For anyone.'"
-  },
-  {
-   "beat": "sign",
-   "text": "You look up at his number again. Still zero. You look at the paper. You look at the pen. And you sign it."
+  "id": "BankBalanceC06",
+  "slug": "bank-balance/c06",
+  "chapter": "The choice",
+  "topic": "What if you could see everyone's bank balance?",
+  "script": [
+    {
+      "beat": "we need you",
+      "text": "He knows what you can do. He doesn't say how. He just says, 'We need someone like you.' 'Who are you?' you ask. 'People who follow money,' he says. 'All of it. Except we can't see it. You can.'"
+    },
+    {
+      "beat": "the window",
+      "text": "He takes you to an office high above a train station. Thousands of people walk past underneath. 'Point,' he says. 'Tell me which ones are stealing.' And you can. A woman whose number jumps by five thousand every time she walks past a cash machine. A man whose number is so long it doesn't fit above his head. You point. He writes it all down."
+    },
+    {
+      "beat": "the paper",
+      "text": "Then he slides a piece of paper across the table. 'One year. You work for us. You tell nobody, not even your mum. And this happens.' On the paper is your mum's name. And a number. One million dollars."
+    },
+    {
+      "beat": "thinking",
+      "text": "You think about the red number above her head. About Ellie's school trip. About Mo pretending he isn't hungry. About how your mum smiled and said 'don't worry about it', every single time. You ask what the work is. 'Just pointing,' he says. 'Nothing else.' It sounds easy. That's what worries you."
+    },
+    {
+      "beat": "if I say no",
+      "text": "'And if I say no?' He smiles. 'Then you go home, and nothing changes. For anyone.'"
+    },
+    {
+      "beat": "sign",
+      "text": "You look up at his number again. Still zero. You look at the paper. You look at the pen. And you sign it."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "note": "chapter 6",
+      "key": 20
+    },
+    {
+      "id": "S2",
+      "size": "two-shot",
+      "note": "we need someone like you",
+      "key": 100
+    },
+    {
+      "id": "S3",
+      "size": "close",
+      "note": "all of it; you can",
+      "key": 60
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "note": "the office over the station",
+      "key": 50
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "note": "thousands below, every one a number",
+      "key": 40
+    },
+    {
+      "id": "S6",
+      "size": "two-shot",
+      "note": "point: which ones are stealing",
+      "key": 60
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "note": "the cash machine woman",
+      "key": 90
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "note": "the number too long",
+      "key": 40
+    },
+    {
+      "id": "S9",
+      "size": "two-shot",
+      "note": "you point; he writes",
+      "key": 30
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "note": "the paper slides",
+      "key": 40
+    },
+    {
+      "id": "S11",
+      "size": "close",
+      "note": "one year; tell nobody",
+      "key": 90
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "note": "Mum's name, one million",
+      "key": 100
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "note": "her red number",
+      "key": 20
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "note": "Ellie's trip",
+      "key": 20
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "note": "Mo, not hungry",
+      "key": 20
+    },
+    {
+      "id": "S16",
+      "size": "close",
+      "note": "don't worry about it",
+      "key": 60
+    },
+    {
+      "id": "S17",
+      "size": "two-shot",
+      "note": "just pointing",
+      "key": 90
+    },
+    {
+      "id": "S18",
+      "size": "close",
+      "note": "that's what worries you",
+      "key": 40
+    },
+    {
+      "id": "S19",
+      "size": "two-shot",
+      "note": "and if I say no?",
+      "key": 100
+    },
+    {
+      "id": "S20",
+      "size": "close",
+      "note": "still zero",
+      "key": 40
+    },
+    {
+      "id": "S21",
+      "size": "insert",
+      "note": "the paper, the pen",
+      "key": 20
+    },
+    {
+      "id": "S22",
+      "size": "insert",
+      "note": "you sign",
+      "key": 40
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "doesn't"
+    },
+    {
+      "shot": "S3",
+      "at": "All"
+    },
+    {
+      "shot": "S4",
+      "at": "takes"
+    },
+    {
+      "shot": "S5",
+      "at": "Thousands"
+    },
+    {
+      "shot": "S6",
+      "at": "Point"
+    },
+    {
+      "shot": "S7",
+      "at": "woman"
+    },
+    {
+      "shot": "S8",
+      "at": "man"
+    },
+    {
+      "shot": "S9",
+      "at": "point"
+    },
+    {
+      "shot": "S10",
+      "at": "Then"
+    },
+    {
+      "shot": "S11",
+      "at": "One"
+    },
+    {
+      "shot": "S12",
+      "at": "On"
+    },
+    {
+      "shot": "S13",
+      "at": "You"
+    },
+    {
+      "shot": "S14",
+      "at": "Ellie's"
+    },
+    {
+      "shot": "S15",
+      "at": "Mo"
+    },
+    {
+      "shot": "S16",
+      "at": "how"
+    },
+    {
+      "shot": "S17",
+      "at": "ask"
+    },
+    {
+      "shot": "S18",
+      "at": "It"
+    },
+    {
+      "shot": "S19",
+      "at": "And"
+    },
+    {
+      "shot": "S20",
+      "at": "look"
+    },
+    {
+      "shot": "S21",
+      "at": "paper"
+    },
+    {
+      "shot": "S22",
+      "at": "And"
+    }
+  ],
+  "fx": [],
+  "tail": 1.5,
+  "sound": {
+    "clips": {
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "laugh_low": [
+        "a man in a dark room laughing very softly, a quiet amused chuckle",
+        1.6
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "pencils": [
+        "many pencils scribbling quickly on paper in a quiet office",
+        3.0
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "roof_wind",
+        0.35,
+        "onset",
+        "S4"
+      ],
+      [
+        "S3+0",
+        "drone",
+        0.35,
+        "onset",
+        "S4"
+      ],
+      [
+        "S4+0",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S7+0",
+        "cash",
+        0.4
+      ],
+      [
+        "S8+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S9+0",
+        "pencils",
+        0.35
+      ],
+      [
+        "S10+0",
+        "slide",
+        0.5
+      ],
+      [
+        "S12+0",
+        "drone_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S13+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S17+0",
+        "room_tone",
+        0.35
+      ],
+      [
+        "S19+40",
+        "laugh_low",
+        0.35
+      ],
+      [
+        "S20+0",
+        "drone",
+        0.4,
+        "onset",
+        "S22"
+      ],
+      [
+        "S21+0",
+        "heartbeat",
+        0.5
+      ],
+      [
+        "S22+0",
+        "paper",
+        0.4
+      ],
+      [
+        "S22+20",
+        "drone_hit",
+        0.75,
+        "peak"
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "until": "S22",
+      "from": "S4"
+    },
+    "levels": {
+      "sfx_lu": -1.0,
+      "music_lu": -14.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "note": "chapter 6",
-   "key": 20
-  },
-  {
-   "id": "S2",
-   "size": "two-shot",
-   "note": "we need someone like you",
-   "key": 100
-  },
-  {
-   "id": "S3",
-   "size": "close",
-   "note": "all of it; you can",
-   "key": 60
-  },
-  {
-   "id": "S4",
-   "size": "wide",
-   "note": "the office over the station",
-   "key": 50
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "note": "thousands below, every one a number",
-   "key": 40
-  },
-  {
-   "id": "S6",
-   "size": "two-shot",
-   "note": "point: which ones are stealing",
-   "key": 60
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "note": "the cash machine woman",
-   "key": 90
-  },
-  {
-   "id": "S8",
-   "size": "wide",
-   "note": "the number too long",
-   "key": 40
-  },
-  {
-   "id": "S9",
-   "size": "two-shot",
-   "note": "you point; he writes",
-   "key": 30
-  },
-  {
-   "id": "S10",
-   "size": "wide",
-   "note": "the paper slides",
-   "key": 40
-  },
-  {
-   "id": "S11",
-   "size": "close",
-   "note": "one year; tell nobody",
-   "key": 90
-  },
-  {
-   "id": "S12",
-   "size": "insert",
-   "note": "Mum's name, one million",
-   "key": 100
-  },
-  {
-   "id": "S13",
-   "size": "insert",
-   "note": "her red number",
-   "key": 20
-  },
-  {
-   "id": "S14",
-   "size": "medium",
-   "note": "Ellie's trip",
-   "key": 20
-  },
-  {
-   "id": "S15",
-   "size": "medium",
-   "note": "Mo, not hungry",
-   "key": 20
-  },
-  {
-   "id": "S16",
-   "size": "close",
-   "note": "don't worry about it",
-   "key": 60
-  },
-  {
-   "id": "S17",
-   "size": "two-shot",
-   "note": "just pointing",
-   "key": 90
-  },
-  {
-   "id": "S18",
-   "size": "close",
-   "note": "that's what worries you",
-   "key": 40
-  },
-  {
-   "id": "S19",
-   "size": "two-shot",
-   "note": "and if I say no?",
-   "key": 100
-  },
-  {
-   "id": "S20",
-   "size": "close",
-   "note": "still zero",
-   "key": 40
-  },
-  {
-   "id": "S21",
-   "size": "insert",
-   "note": "the paper, the pen",
-   "key": 20
-  },
-  {
-   "id": "S22",
-   "size": "insert",
-   "note": "you sign",
-   "key": 40
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "doesn't"
-  },
-  {
-   "shot": "S3",
-   "at": "All"
-  },
-  {
-   "shot": "S4",
-   "at": "takes"
-  },
-  {
-   "shot": "S5",
-   "at": "Thousands"
-  },
-  {
-   "shot": "S6",
-   "at": "Point"
-  },
-  {
-   "shot": "S7",
-   "at": "woman"
-  },
-  {
-   "shot": "S8",
-   "at": "man"
-  },
-  {
-   "shot": "S9",
-   "at": "point"
-  },
-  {
-   "shot": "S10",
-   "at": "Then"
-  },
-  {
-   "shot": "S11",
-   "at": "One"
-  },
-  {
-   "shot": "S12",
-   "at": "On"
-  },
-  {
-   "shot": "S13",
-   "at": "You"
-  },
-  {
-   "shot": "S14",
-   "at": "Ellie's"
-  },
-  {
-   "shot": "S15",
-   "at": "Mo"
-  },
-  {
-   "shot": "S16",
-   "at": "how"
-  },
-  {
-   "shot": "S17",
-   "at": "ask"
-  },
-  {
-   "shot": "S18",
-   "at": "It"
-  },
-  {
-   "shot": "S19",
-   "at": "And"
-  },
-  {
-   "shot": "S20",
-   "at": "look"
-  },
-  {
-   "shot": "S21",
-   "at": "paper"
-  },
-  {
-   "shot": "S22",
-   "at": "And"
-  }
- ],
- "fx": [],
- "tail": 1.5
 }

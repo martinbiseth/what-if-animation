@@ -1,279 +1,487 @@
 {
- "id": "BankBalanceC01",
- "slug": "bank-balance/c01",
- "chapter": "Cold open",
- "topic": "What if you could see everyone's bank balance?",
- "script": [
-  {
-   "beat": "the postman",
-   "text": "You wake up and look out of the window. The postman is walking up the path, and there's a number floating above his head. Eight hundred and forty dollars and twelve cents. Green. He turns around. The number turns with him."
+  "id": "BankBalanceC01",
+  "slug": "bank-balance/c01",
+  "chapter": "Cold open",
+  "topic": "What if you could see everyone's bank balance?",
+  "script": [
+    {
+      "beat": "the postman",
+      "text": "You wake up and look out of the window. The postman is walking up the path, and there's a number floating above his head. Eight hundred and forty dollars and twelve cents. Green. He turns around. The number turns with him."
+    },
+    {
+      "beat": "the bus",
+      "text": "On the bus, everyone has one. The driver: three hundred and eight dollars. A woman with a gold watch and a designer bag: minus sixty-one thousand. Red. A kid your age with big headphones: nine thousand. Birthday money he has never touched."
+    },
+    {
+      "beat": "the hoodie",
+      "text": "A guy in a hoodie, eating crisps out of the bag: four point two million."
+    },
+    {
+      "beat": "jake and mo",
+      "text": "At school, Jake, who never stops talking about his dad's boat, is at eleven dollars. Mo, your best friend, is at three dollars and twelve cents. He buys a chocolate bar. Now it's one sixty-two."
+    },
+    {
+      "beat": "premise question",
+      "text": "Every person. Every account. To the cent. Live. And nobody else can see them. Just you. So what would actually happen if you could see everyone's bank balance?"
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "bed",
+      "note": "you wake up",
+      "key": 20
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "note": "through the window: the postman",
+      "key": 20
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "note": "a number pops over his head",
+      "key": 40
+    },
+    {
+      "id": "S4",
+      "size": "insert",
+      "note": "$840.12",
+      "key": 15
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "note": "green: wonder",
+      "key": 15
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "note": "he turns, the number turns",
+      "key": 20
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "note": "the bus: everyone has one",
+      "key": 30
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "note": "the driver: $308",
+      "key": 40
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "note": "gold watch, designer bag: -$61,000",
+      "key": 20
+    },
+    {
+      "id": "S10",
+      "size": "close",
+      "note": "red: shock",
+      "key": 10
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "note": "kid with headphones: $9,000",
+      "key": 20
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "note": "hoodie, crisps: $4.2M",
+      "key": 95
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "note": "Jake and his dad's boat",
+      "key": 30
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "note": "$11",
+      "key": 15
+    },
+    {
+      "id": "S15",
+      "size": "two-shot",
+      "note": "Mo: $3.12",
+      "key": 20
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "note": "tap for a chocolate bar",
+      "key": 16
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "note": "$1.62",
+      "key": 20
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "note": "every person",
+      "key": 20
+    },
+    {
+      "id": "S19",
+      "size": "card",
+      "note": "every account",
+      "key": 15
+    },
+    {
+      "id": "S20",
+      "size": "insert",
+      "note": "to the cent",
+      "key": 20
+    },
+    {
+      "id": "S21",
+      "size": "card",
+      "note": "LIVE",
+      "key": 10
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "note": "nobody else sees them",
+      "key": 20
+    },
+    {
+      "id": "S23",
+      "size": "close",
+      "note": "just you",
+      "key": 15
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "note": "the question",
+      "key": 40
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "The"
+    },
+    {
+      "shot": "S3",
+      "at": "there's"
+    },
+    {
+      "shot": "S4",
+      "at": "Eight"
+    },
+    {
+      "shot": "S5",
+      "at": "Green"
+    },
+    {
+      "shot": "S6",
+      "at": "He"
+    },
+    {
+      "shot": "S7",
+      "at": "On"
+    },
+    {
+      "shot": "S8",
+      "at": "driver"
+    },
+    {
+      "shot": "S9",
+      "at": "woman"
+    },
+    {
+      "shot": "S10",
+      "at": "Red"
+    },
+    {
+      "shot": "S11",
+      "at": "kid"
+    },
+    {
+      "shot": "S12",
+      "at": "guy"
+    },
+    {
+      "shot": "S13",
+      "at": "school"
+    },
+    {
+      "shot": "S14",
+      "at": "eleven"
+    },
+    {
+      "shot": "S15",
+      "at": "Mo"
+    },
+    {
+      "shot": "S16",
+      "at": "buys"
+    },
+    {
+      "shot": "S17",
+      "at": "Now"
+    },
+    {
+      "shot": "S18",
+      "at": "Every"
+    },
+    {
+      "shot": "S19",
+      "at": "account"
+    },
+    {
+      "shot": "S20",
+      "at": "To"
+    },
+    {
+      "shot": "S21",
+      "at": "Live"
+    },
+    {
+      "shot": "S22",
+      "at": "nobody"
+    },
+    {
+      "shot": "S23",
+      "at": "Just"
+    },
+    {
+      "shot": "S24",
+      "at": "So"
+    }
+  ],
+  "fx": [],
+  "pace": {
+    "min_cuts": 24,
+    "max_hold": 4
   },
-  {
-   "beat": "the bus",
-   "text": "On the bus, everyone has one. The driver: three hundred and eight dollars. A woman with a gold watch and a designer bag: minus sixty-one thousand. Red. A kid your age with big headphones: nine thousand. Birthday money he has never touched."
-  },
-  {
-   "beat": "the hoodie",
-   "text": "A guy in a hoodie, eating crisps out of the bag: four point two million."
-  },
-  {
-   "beat": "jake and mo",
-   "text": "At school, Jake, who never stops talking about his dad's boat, is at eleven dollars. Mo, your best friend, is at three dollars and twelve cents. He buys a chocolate bar. Now it's one sixty-two."
-  },
-  {
-   "beat": "premise question",
-   "text": "Every person. Every account. To the cent. Live. And nobody else can see them. Just you. So what would actually happen if you could see everyone's bank balance?"
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a short bright cartoon pop",
+        0.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "room_tone",
+        0.5,
+        "onset",
+        "S2"
+      ],
+      [
+        "S3+12",
+        "pop",
+        0.5
+      ],
+      [
+        "S3+20",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S4+0",
+        "card_hit",
+        0.55,
+        "peak"
+      ],
+      [
+        "S5+4",
+        "sparkle",
+        0.5
+      ],
+      [
+        "S7+0",
+        "whoosh",
+        0.4,
+        "peak"
+      ],
+      [
+        "S7+8",
+        "pop",
+        0.35
+      ],
+      [
+        "S8+6",
+        "pop",
+        0.4
+      ],
+      [
+        "S9+8",
+        "pop",
+        0.4
+      ],
+      [
+        "S9+40",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S10+0",
+        "gulp",
+        0.5
+      ],
+      [
+        "S11+10",
+        "pop",
+        0.4
+      ],
+      [
+        "S12+10",
+        "pop",
+        0.4
+      ],
+      [
+        "S12+30",
+        "cash",
+        0.45
+      ],
+      [
+        "S13+0",
+        "class_murmur",
+        0.35,
+        "onset",
+        "S15"
+      ],
+      [
+        "S15+6",
+        "pop",
+        0.4
+      ],
+      [
+        "S16+8",
+        "beep",
+        0.4
+      ],
+      [
+        "S17+4",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S18+0",
+        "whoosh",
+        0.4,
+        "peak"
+      ],
+      [
+        "S19+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S20+0",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S21+0",
+        "card_hit",
+        0.55,
+        "peak"
+      ],
+      [
+        "S23+0",
+        "heartbeat",
+        0.45
+      ],
+      [
+        "S24+0",
+        "roof_wind",
+        0.45
+      ],
+      [
+        "S24+20",
+        "drone",
+        0.4
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "loop": true,
+      "until": "S23"
+    },
+    "levels": {
+      "sfx_lu": -1.0,
+      "music_lu": -14.0
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "bed",
-   "note": "you wake up",
-   "key": 20
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "note": "through the window: the postman",
-   "key": 20
-  },
-  {
-   "id": "S3",
-   "size": "medium",
-   "note": "a number pops over his head",
-   "key": 40
-  },
-  {
-   "id": "S4",
-   "size": "insert",
-   "note": "$840.12",
-   "key": 15
-  },
-  {
-   "id": "S5",
-   "size": "close",
-   "note": "green: wonder",
-   "key": 15
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "note": "he turns, the number turns",
-   "key": 20
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "note": "the bus: everyone has one",
-   "key": 30
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "note": "the driver: $308",
-   "key": 40
-  },
-  {
-   "id": "S9",
-   "size": "medium",
-   "note": "gold watch, designer bag: -$61,000",
-   "key": 20
-  },
-  {
-   "id": "S10",
-   "size": "close",
-   "note": "red: shock",
-   "key": 10
-  },
-  {
-   "id": "S11",
-   "size": "medium",
-   "note": "kid with headphones: $9,000",
-   "key": 20
-  },
-  {
-   "id": "S12",
-   "size": "medium",
-   "note": "hoodie, crisps: $4.2M",
-   "key": 95
-  },
-  {
-   "id": "S13",
-   "size": "medium",
-   "note": "Jake and his dad's boat",
-   "key": 30
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "note": "$11",
-   "key": 15
-  },
-  {
-   "id": "S15",
-   "size": "two-shot",
-   "note": "Mo: $3.12",
-   "key": 20
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "note": "tap for a chocolate bar",
-   "key": 16
-  },
-  {
-   "id": "S17",
-   "size": "medium",
-   "note": "$1.62",
-   "key": 20
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "note": "every person",
-   "key": 20
-  },
-  {
-   "id": "S19",
-   "size": "card",
-   "note": "every account",
-   "key": 15
-  },
-  {
-   "id": "S20",
-   "size": "insert",
-   "note": "to the cent",
-   "key": 20
-  },
-  {
-   "id": "S21",
-   "size": "card",
-   "note": "LIVE",
-   "key": 10
-  },
-  {
-   "id": "S22",
-   "size": "wide",
-   "note": "nobody else sees them",
-   "key": 20
-  },
-  {
-   "id": "S23",
-   "size": "close",
-   "note": "just you",
-   "key": 15
-  },
-  {
-   "id": "S24",
-   "size": "wide",
-   "note": "the question",
-   "key": 40
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "The"
-  },
-  {
-   "shot": "S3",
-   "at": "there's"
-  },
-  {
-   "shot": "S4",
-   "at": "Eight"
-  },
-  {
-   "shot": "S5",
-   "at": "Green"
-  },
-  {
-   "shot": "S6",
-   "at": "He"
-  },
-  {
-   "shot": "S7",
-   "at": "On"
-  },
-  {
-   "shot": "S8",
-   "at": "driver"
-  },
-  {
-   "shot": "S9",
-   "at": "woman"
-  },
-  {
-   "shot": "S10",
-   "at": "Red"
-  },
-  {
-   "shot": "S11",
-   "at": "kid"
-  },
-  {
-   "shot": "S12",
-   "at": "guy"
-  },
-  {
-   "shot": "S13",
-   "at": "school"
-  },
-  {
-   "shot": "S14",
-   "at": "eleven"
-  },
-  {
-   "shot": "S15",
-   "at": "Mo"
-  },
-  {
-   "shot": "S16",
-   "at": "buys"
-  },
-  {
-   "shot": "S17",
-   "at": "Now"
-  },
-  {
-   "shot": "S18",
-   "at": "Every"
-  },
-  {
-   "shot": "S19",
-   "at": "account"
-  },
-  {
-   "shot": "S20",
-   "at": "To"
-  },
-  {
-   "shot": "S21",
-   "at": "Live"
-  },
-  {
-   "shot": "S22",
-   "at": "nobody"
-  },
-  {
-   "shot": "S23",
-   "at": "Just"
-  },
-  {
-   "shot": "S24",
-   "at": "So"
-  }
- ],
- "fx": [],
- "pace": {
-  "min_cuts": 24,
-  "max_hold": 4
- },
- "tail": 1.0
 }

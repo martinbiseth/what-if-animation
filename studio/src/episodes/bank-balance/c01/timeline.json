@@ -417,6 +417,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "bank-balance/c01/voice.wav"
+  "voice": "bank-balance/c01/voice.wav",
+  "sfx": "bank-balance/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4657,
+  "music": "bank-balance/c01/music.wav",
+  "musicVol": 0.1343
  }
 }

@@ -1,283 +1,442 @@
 {
- "id": "BankBalanceC04",
- "slug": "bank-balance/c04",
- "chapter": "The catch",
- "topic": "What if you could see everyone's bank balance?",
- "script": [
-  {
-   "beat": "mum is red",
-   "text": "Your mum's number is red. Minus six thousand, two hundred and forty dollars."
-  },
-  {
-   "beat": "she never said",
-   "text": "She's been buying you the good cereal. She paid for Ellie's school trip last week. She never said a word. And now you can't stop seeing it."
-  },
-  {
-   "beat": "the catch",
-   "text": "That's the catch. Once you can see it, you can't stop seeing it. And it isn't just her. The bus driver who always says good morning: forty-one dollars. It's the twenty-sixth of the month."
-  },
-  {
-   "beat": "fact: 400 dollars",
-   "text": "In America, almost four out of every ten adults couldn't pay a surprise four hundred dollar bill with the cash they have. That's real. And you see it everywhere. A small number, a normal face, a smile."
-  },
-  {
-   "beat": "fact: credit cards",
-   "text": "Americans owe more than one trillion dollars on credit cards. A trillion. That's why so many of the nice cars, the nice watches and the nice clothes float under a red number."
-  },
-  {
-   "beat": "fact: millionaires",
-   "text": "And the other end is just as strange. Only about one in every hundred adults on Earth has a million dollars or more. On a busy street, you have to walk past about a hundred grown-ups to find one. The man in the huge house at the end of your road? Red. Very red. The lady who sweeps the school yard? Quietly, more than the head teacher."
-  },
-  {
-   "beat": "it changes you",
-   "text": "And it changes you. You catch yourself being extra nice to a man because his number is big. You stop listening to a girl in class because hers is small. You hate it. You can't switch it off."
-  },
-  {
-   "beat": "mo",
-   "text": "Mo's number goes down every day that week. At lunch, Mo pretends he isn't hungry. You give him half your sandwich, and neither of you says anything. Seeing it doesn't fix anything. It just means you can't pretend anymore."
+  "id": "BankBalanceC04",
+  "slug": "bank-balance/c04",
+  "chapter": "The catch",
+  "topic": "What if you could see everyone's bank balance?",
+  "script": [
+    {
+      "beat": "mum is red",
+      "text": "Your mum's number is red. Minus six thousand, two hundred and forty dollars."
+    },
+    {
+      "beat": "she never said",
+      "text": "She's been buying you the good cereal. She paid for Ellie's school trip last week. She never said a word. And now you can't stop seeing it."
+    },
+    {
+      "beat": "the catch",
+      "text": "That's the catch. Once you can see it, you can't stop seeing it. And it isn't just her. The bus driver who always says good morning: forty-one dollars. It's the twenty-sixth of the month."
+    },
+    {
+      "beat": "fact: 400 dollars",
+      "text": "In America, almost four out of every ten adults couldn't pay a surprise four hundred dollar bill with the cash they have. That's real. And you see it everywhere. A small number, a normal face, a smile."
+    },
+    {
+      "beat": "fact: credit cards",
+      "text": "Americans owe more than one trillion dollars on credit cards. A trillion. That's why so many of the nice cars, the nice watches and the nice clothes float under a red number."
+    },
+    {
+      "beat": "fact: millionaires",
+      "text": "And the other end is just as strange. Only about one in every hundred adults on Earth has a million dollars or more. On a busy street, you have to walk past about a hundred grown-ups to find one. The man in the huge house at the end of your road? Red. Very red. The lady who sweeps the school yard? Quietly, more than the head teacher."
+    },
+    {
+      "beat": "it changes you",
+      "text": "And it changes you. You catch yourself being extra nice to a man because his number is big. You stop listening to a girl in class because hers is small. You hate it. You can't switch it off."
+    },
+    {
+      "beat": "mo",
+      "text": "Mo's number goes down every day that week. At lunch, Mo pretends he isn't hungry. You give him half your sandwich, and neither of you says anything. Seeing it doesn't fix anything. It just means you can't pretend anymore."
+    }
+  ],
+  "science": [
+    {
+      "claim": "About 4 in 10 US adults could not cover a $400 emergency expense with cash or its equivalent.",
+      "working": "In 2023, 63% of adults said they would cover a hypothetical $400 emergency expense exclusively using cash or its equivalent, so 37% would not.",
+      "source": "Federal Reserve, Economic Well-Being of U.S. Households in 2023 (May 2024)"
+    },
+    {
+      "claim": "Americans owe more than $1 trillion on credit cards.",
+      "working": "US credit card balances passed $1 trillion for the first time in Q2 2023 ($1.03 trillion) and have stayed above it since.",
+      "source": "Federal Reserve Bank of New York, Household Debt and Credit Report (Q2 2023)"
+    },
+    {
+      "claim": "About 1 in 100 adults on Earth has $1 million or more.",
+      "working": "About 59 million millionaires among roughly 5.4 billion adults is about 1.1%.",
+      "source": "UBS, Global Wealth Report 2023"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "note": "Mum: red",
+      "key": 30
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "note": "-$6,240",
+      "key": 15
+    },
+    {
+      "id": "S3",
+      "size": "two-shot",
+      "note": "the good cereal",
+      "key": 30
+    },
+    {
+      "id": "S4",
+      "size": "two-shot",
+      "note": "Ellie's school trip",
+      "key": 30
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "note": "never said a word",
+      "key": 20
+    },
+    {
+      "id": "S6",
+      "size": "close",
+      "note": "can't stop seeing it",
+      "key": 20
+    },
+    {
+      "id": "S7",
+      "size": "card",
+      "note": "that's the catch",
+      "key": 30
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "note": "the bus driver, the 26th",
+      "key": 110
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "note": "fact: $400",
+      "key": 90
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "note": "small numbers, smiles",
+      "key": 40
+    },
+    {
+      "id": "S11",
+      "size": "card",
+      "note": "fact: $1 trillion",
+      "key": 90
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "note": "nice car, red number",
+      "key": 40
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "note": "fact: 1 in 100",
+      "key": 90
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "note": "busy street: one millionaire",
+      "key": 50
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "note": "the huge house: very red",
+      "key": 90
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "note": "the sweeper: more than the head",
+      "key": 90
+    },
+    {
+      "id": "S17",
+      "size": "two-shot",
+      "note": "extra nice to a big number",
+      "key": 40
+    },
+    {
+      "id": "S18",
+      "size": "two-shot",
+      "note": "not listening to a small number",
+      "key": 60
+    },
+    {
+      "id": "S19",
+      "size": "close",
+      "note": "you hate it",
+      "key": 20
+    },
+    {
+      "id": "S20",
+      "size": "insert",
+      "note": "Mo's week",
+      "key": 60
+    },
+    {
+      "id": "S21",
+      "size": "two-shot",
+      "note": "half a sandwich",
+      "key": 90
+    },
+    {
+      "id": "S22",
+      "size": "two-shot",
+      "note": "seeing it doesn't fix anything",
+      "key": 60
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Minus"
+    },
+    {
+      "shot": "S3",
+      "at": "She's"
+    },
+    {
+      "shot": "S4",
+      "at": "She"
+    },
+    {
+      "shot": "S5",
+      "at": "She"
+    },
+    {
+      "shot": "S6",
+      "at": "And"
+    },
+    {
+      "shot": "S7",
+      "at": "That's"
+    },
+    {
+      "shot": "S8",
+      "at": "bus"
+    },
+    {
+      "shot": "S9",
+      "at": "In"
+    },
+    {
+      "shot": "S10",
+      "at": "And"
+    },
+    {
+      "shot": "S11",
+      "at": "Americans"
+    },
+    {
+      "shot": "S12",
+      "at": "That's"
+    },
+    {
+      "shot": "S13",
+      "at": "other"
+    },
+    {
+      "shot": "S14",
+      "at": "busy"
+    },
+    {
+      "shot": "S15",
+      "at": "man"
+    },
+    {
+      "shot": "S16",
+      "at": "lady"
+    },
+    {
+      "shot": "S17",
+      "at": "And"
+    },
+    {
+      "shot": "S18",
+      "at": "stop"
+    },
+    {
+      "shot": "S19",
+      "at": "hate"
+    },
+    {
+      "shot": "S20",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S21",
+      "at": "lunch"
+    },
+    {
+      "shot": "S22",
+      "at": "Seeing"
+    }
+  ],
+  "fx": [],
+  "tail": 1.2,
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_sad": [
+        "soft sad solo piano, slow and gentle, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a short bright cartoon pop",
+        0.5
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "room_tone",
+        0.45,
+        "onset",
+        "S7"
+      ],
+      [
+        "S1+0",
+        "heartbeat",
+        0.45
+      ],
+      [
+        "S2+0",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S7+0",
+        "card_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S8+20",
+        "buzzer",
+        0.25
+      ],
+      [
+        "S9+0",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S11+0",
+        "card_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S12+0",
+        "pop",
+        0.35
+      ],
+      [
+        "S13+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S14+0",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S15+0",
+        "drone_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S16+0",
+        "ding",
+        0.35
+      ],
+      [
+        "S18+0",
+        "class_murmur",
+        0.25
+      ],
+      [
+        "S19+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S20+0",
+        "counter_tick",
+        0.3
+      ],
+      [
+        "S21+0",
+        "class_murmur",
+        0.25
+      ],
+      [
+        "S22+0",
+        "room_tone",
+        0.35
+      ]
+    ],
+    "music": {
+      "clip": "m_sad",
+      "loop": true,
+      "until": "S22",
+      "from": "S3"
+    },
+    "levels": {
+      "sfx_lu": -1.0,
+      "music_lu": -14.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "About 4 in 10 US adults could not cover a $400 emergency expense with cash or its equivalent.",
-   "working": "In 2023, 63% of adults said they would cover a hypothetical $400 emergency expense exclusively using cash or its equivalent, so 37% would not.",
-   "source": "Federal Reserve, Economic Well-Being of U.S. Households in 2023 (May 2024)"
-  },
-  {
-   "claim": "Americans owe more than $1 trillion on credit cards.",
-   "working": "US credit card balances passed $1 trillion for the first time in Q2 2023 ($1.03 trillion) and have stayed above it since.",
-   "source": "Federal Reserve Bank of New York, Household Debt and Credit Report (Q2 2023)"
-  },
-  {
-   "claim": "About 1 in 100 adults on Earth has $1 million or more.",
-   "working": "About 59 million millionaires among roughly 5.4 billion adults is about 1.1%.",
-   "source": "UBS, Global Wealth Report 2023"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "medium",
-   "note": "Mum: red",
-   "key": 30
-  },
-  {
-   "id": "S2",
-   "size": "insert",
-   "note": "-$6,240",
-   "key": 15
-  },
-  {
-   "id": "S3",
-   "size": "two-shot",
-   "note": "the good cereal",
-   "key": 30
-  },
-  {
-   "id": "S4",
-   "size": "two-shot",
-   "note": "Ellie's school trip",
-   "key": 30
-  },
-  {
-   "id": "S5",
-   "size": "close",
-   "note": "never said a word",
-   "key": 20
-  },
-  {
-   "id": "S6",
-   "size": "close",
-   "note": "can't stop seeing it",
-   "key": 20
-  },
-  {
-   "id": "S7",
-   "size": "card",
-   "note": "that's the catch",
-   "key": 30
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "note": "the bus driver, the 26th",
-   "key": 110
-  },
-  {
-   "id": "S9",
-   "size": "card",
-   "note": "fact: $400",
-   "key": 90
-  },
-  {
-   "id": "S10",
-   "size": "wide",
-   "note": "small numbers, smiles",
-   "key": 40
-  },
-  {
-   "id": "S11",
-   "size": "card",
-   "note": "fact: $1 trillion",
-   "key": 90
-  },
-  {
-   "id": "S12",
-   "size": "wide",
-   "note": "nice car, red number",
-   "key": 40
-  },
-  {
-   "id": "S13",
-   "size": "card",
-   "note": "fact: 1 in 100",
-   "key": 90
-  },
-  {
-   "id": "S14",
-   "size": "wide",
-   "note": "busy street: one millionaire",
-   "key": 50
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "note": "the huge house: very red",
-   "key": 90
-  },
-  {
-   "id": "S16",
-   "size": "medium",
-   "note": "the sweeper: more than the head",
-   "key": 90
-  },
-  {
-   "id": "S17",
-   "size": "two-shot",
-   "note": "extra nice to a big number",
-   "key": 40
-  },
-  {
-   "id": "S18",
-   "size": "two-shot",
-   "note": "not listening to a small number",
-   "key": 60
-  },
-  {
-   "id": "S19",
-   "size": "close",
-   "note": "you hate it",
-   "key": 20
-  },
-  {
-   "id": "S20",
-   "size": "insert",
-   "note": "Mo's week",
-   "key": 60
-  },
-  {
-   "id": "S21",
-   "size": "two-shot",
-   "note": "half a sandwich",
-   "key": 90
-  },
-  {
-   "id": "S22",
-   "size": "two-shot",
-   "note": "seeing it doesn't fix anything",
-   "key": 60
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "Minus"
-  },
-  {
-   "shot": "S3",
-   "at": "She's"
-  },
-  {
-   "shot": "S4",
-   "at": "She"
-  },
-  {
-   "shot": "S5",
-   "at": "She"
-  },
-  {
-   "shot": "S6",
-   "at": "And"
-  },
-  {
-   "shot": "S7",
-   "at": "That's"
-  },
-  {
-   "shot": "S8",
-   "at": "bus"
-  },
-  {
-   "shot": "S9",
-   "at": "In"
-  },
-  {
-   "shot": "S10",
-   "at": "And"
-  },
-  {
-   "shot": "S11",
-   "at": "Americans"
-  },
-  {
-   "shot": "S12",
-   "at": "That's"
-  },
-  {
-   "shot": "S13",
-   "at": "other"
-  },
-  {
-   "shot": "S14",
-   "at": "busy"
-  },
-  {
-   "shot": "S15",
-   "at": "man"
-  },
-  {
-   "shot": "S16",
-   "at": "lady"
-  },
-  {
-   "shot": "S17",
-   "at": "And"
-  },
-  {
-   "shot": "S18",
-   "at": "stop"
-  },
-  {
-   "shot": "S19",
-   "at": "hate"
-  },
-  {
-   "shot": "S20",
-   "at": "Mo's"
-  },
-  {
-   "shot": "S21",
-   "at": "lunch"
-  },
-  {
-   "shot": "S22",
-   "at": "Seeing"
-  }
- ],
- "fx": [],
- "tail": 1.2
 }
