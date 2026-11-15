@@ -46,19 +46,413 @@
  ],
  "shots": [
   {
-   "id": "S1",
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "sunrise: the king, Djedi, you with the controller",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "48%",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "note": "straight up",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "pov",
+   "note": "the camera climbs to the edge of the world",
+   "key": 100
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "the king smiles",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "note": "Djedi doesn't",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "the king looks at you",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "note": "he opens his mouth",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "note": "MANNED AIRCRAFT NEARBY",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "how the warning works",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "note": "2560 BC",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "note": "you look up",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "a blinking light that isn't yours",
+   "key": 50
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "note": "is any of this real",
+   "key": 120
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "who else is up there",
+   "key": 90
   }
  ],
  "edit": [
   {
-   "shot": "S1",
+   "shot": "S2",
    "at": "f:0"
+  },
+  {
+   "shot": "S3",
+   "at": "Forty"
+  },
+  {
+   "shot": "S4",
+   "at": "send"
+  },
+  {
+   "shot": "S5",
+   "at": "Higher"
+  },
+  {
+   "shot": "S6",
+   "at": "smiling"
+  },
+  {
+   "shot": "S7",
+   "at": "Djedi"
+  },
+  {
+   "shot": "S8",
+   "at": "first"
+  },
+  {
+   "shot": "S9",
+   "at": "opens"
+  },
+  {
+   "shot": "S10",
+   "at": "beeps"
+  },
+  {
+   "shot": "S11",
+   "at": "Your"
+  },
+  {
+   "shot": "S12",
+   "at": "In"
+  },
+  {
+   "shot": "S13",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S14",
+   "at": "flying"
+  },
+  {
+   "shot": "S15",
+   "at": "Is"
+  },
+  {
+   "shot": "S16",
+   "at": "So"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "drone_up": [
+    "a camera drone taking off from the ground and flying away fast, propeller whine rising then receding",
+    2.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_egypt_wonder": [
+    "warm wondrous ancient Egyptian style music, soaring strings, harp and oud, uplifting, instrumental loop",
+    20.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S2+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "desert_wind",
+    0.28,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "desert_wind",
+    0.28,
+    "onset"
+   ],
+   [
+    "S3+4",
+    "beep",
+    0.4
+   ],
+   [
+    "S4+0",
+    "drone_up",
+    0.7
+   ],
+   [
+    "S5+0",
+    "drone_buzz",
+    0.15,
+    "onset",
+    "S6"
+   ],
+   [
+    "S10+4",
+    "beep",
+    0.7
+   ],
+   [
+    "S10+14",
+    "beep",
+    0.7
+   ],
+   [
+    "S10+24",
+    "beep",
+    0.7
+   ],
+   [
+    "S10+30",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S11+14",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S12+3",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.4,
+    "onset",
+    "S15"
+   ],
+   [
+    "S14+0",
+    "drone",
+    0.4,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+30",
+    "ding",
+    0.3
+   ],
+   [
+    "S15+48",
+    "ding",
+    0.3
+   ],
+   [
+    "S15+66",
+    "ding",
+    0.3
+   ],
+   [
+    "S15+84",
+    "ding",
+    0.3
+   ],
+   [
+    "S15+102",
+    "ding",
+    0.3
+   ],
+   [
+    "S16+3",
+    "title_boom",
+    0.6,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt_wonder",
+   "loop": true,
+   "until": "S10"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

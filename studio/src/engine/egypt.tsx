@@ -235,19 +235,26 @@ export const Torch: React.FC<{ x: number; y: number; s?: number; t: number; rot?
 );
 
 /** A cargo boat of the Old Kingdom: a long hull with raised ends, a mast and a square sail, a stone block aboard. */
-export const NileBoat: React.FC<{ x: number; y: number; s?: number; t?: number; sail?: boolean; cargo?: boolean; tilt?: number; flip?: boolean }> = ({ x, y, s = 1, t = 0, sail = true, cargo = true, tilt = 0, flip = false }) => {
+export const NileBoat: React.FC<{ x: number; y: number; s?: number; t?: number; sail?: boolean; cargo?: boolean; tilt?: number; flip?: boolean; gold?: boolean }> = ({ x, y, s = 1, t = 0, sail = true, cargo = true, tilt = 0, flip = false, gold = false }) => {
   const bob = Math.sin(t / 14) * 3;
   return (
     <g transform={`translate(${x} ${y + bob}) rotate(${tilt + Math.sin(t / 18) * 0.8}) scale(${flip ? -s : s} ${s})`}>
       {sail ? (
         <g>
           <path d="M 0 -30 L 0 -330" stroke="#5A3A20" strokeWidth={10} />
-          <path d="M -110 -310 L 110 -310 Q 120 -200 110 -110 L -110 -110 Q -120 -200 -110 -310 Z" fill="#EDE2C8" stroke="#3A2A1A" strokeWidth={4} />
+          <path d="M -110 -310 L 110 -310 Q 120 -200 110 -110 L -110 -110 Q -120 -200 -110 -310 Z" fill={gold ? "#C8302A" : "#EDE2C8"} stroke="#3A2A1A" strokeWidth={4} />
           <path d="M -116 -312 L 116 -312 M -114 -108 L 114 -108" stroke="#5A3A20" strokeWidth={8} />
         </g>
       ) : null}
       {cargo ? <Block x={-20} y={-30} s={0.7} /> : null}
-      <path d="M -260 -70 Q -230 -20 -150 0 L 160 0 Q 230 -20 270 -80 Q 200 -40 140 -40 L -140 -40 Q -200 -40 -260 -70 Z" fill="#9A6A3A" stroke="#2A1A10" strokeWidth={4} strokeLinejoin="round" />
+      {gold ? (
+        <g>
+          <rect x={-90} y={-110} width={180} height={70} fill="#2A5AA8" stroke="#2A1A10" strokeWidth={4} />
+          {[0, 1, 2, 3].map((k) => <rect key={k} x={-80 + k * 44} y={-100} width={24} height={50} fill="#E8B83A" />)}
+          <Glow x={0} y={-60} r={260} o={0.4} />
+        </g>
+      ) : null}
+      <path d="M -260 -70 Q -230 -20 -150 0 L 160 0 Q 230 -20 270 -80 Q 200 -40 140 -40 L -140 -40 Q -200 -40 -260 -70 Z" fill={gold ? "#E8B83A" : "#9A6A3A"} stroke="#2A1A10" strokeWidth={4} strokeLinejoin="round" />
       <path d="M -200 -30 L 200 -30" stroke="#2A1A10" strokeWidth={3} opacity={0.4} />
       <path d="M 200 -50 L 240 30" stroke="#5A3A20" strokeWidth={8} />
       <path d="M 232 20 l 20 30 l 10 -8 Z" fill="#5A3A20" />
@@ -518,7 +525,7 @@ export const Giza: React.FC<{ t: number; id?: string; tod?: EgTod; build?: numbe
 };
 
 /** The bank of the Nile: far bank with palms and fields, the water with ripples, a stone boat sailing, papyrus reeds. */
-export const NileBank: React.FC<{ t: number; id?: string; tod?: EgTod; boat?: boolean; boatX?: number; stuck?: boolean }> = ({ t, id = 'nile', tod = 'day', boat = true, boatX, stuck = false }) => {
+export const NileBank: React.FC<{ t: number; id?: string; tod?: EgTod; boat?: boolean; boatX?: number; stuck?: boolean; gold?: boolean }> = ({ t, id = 'nile', tod = 'day', boat = true, boatX, stuck = false, gold = false }) => {
   const [s0, , s2] = SAND[tod];
   const night = tod === 'night';
   const water = night ? '#1A2A4A' : tod === 'dusk' ? '#5A4A7A' : '#3A7AA8';
@@ -536,7 +543,7 @@ export const NileBank: React.FC<{ t: number; id?: string; tod?: EgTod; boat?: bo
         return <path key={k} d={`M ${xx} ${yy} h ${40 + rnd(8, k) * 80}`} stroke="#FFFFFF" strokeOpacity={0.25} strokeWidth={4} strokeLinecap="round" />;
       })}
       {stuck ? <ellipse cx={(boatX ?? 980) + 30} cy={700} rx={340} ry={30} fill={s0} opacity={0.85} /> : null}
-      {boat ? <NileBoat x={boatX ?? (stuck ? 980 : ((t * 1.2) % 2800) - 400)} y={stuck ? 694 : 700} s={0.9} t={stuck ? 0 : t} tilt={stuck ? -4 : 0} /> : null}
+      {boat ? <NileBoat x={boatX ?? (stuck ? 980 : ((t * 1.2) % 2800) - 400)} y={stuck ? 694 : 700} s={0.9} t={stuck ? 0 : t} tilt={stuck ? -4 : 0} gold={gold} cargo={!gold} /> : null}
       <path d={`M -1200 ${EG.feet - 10} Q 600 ${EG.feet - 40} 3100 ${EG.feet - 6} L 3100 2000 L -1200 2000 Z`} fill={s2} />
       {Array.from({ length: 9 }).map((_, c) => {
         const cx = -500 + c * 340 + rnd(9, c) * 120;
@@ -742,8 +749,9 @@ export const AerialGiza: React.FC<{ t: number; id?: string; night?: boolean; sca
       {/* the long way round, and the shortcut */}
       {shortcut > 0 ? (
         <g>
-          <path d={`M 300 1100 Q 300 1500 ${cx - R - 300} ${cy + R + 400} Q ${cx - R - 500} ${cy + R + 300} ${cx - R - 300} ${cy + R + 160}`} stroke="#FF4A3A" strokeWidth={10} strokeDasharray="20 16" fill="none" opacity={0.8} />
-          <path d={`M 300 1100 L ${cx - R - 300} ${cy + R + 160}`} stroke="#5BE08A" strokeWidth={14} fill="none" strokeDasharray={`${shortcut * 900} 2000`} strokeLinecap="round" />
+          <Block x={150} y={1680} s={0.5} />
+          <path d={`M 150 1650 Q 1200 1950 1050 1350 Q 800 1120 ${cx - R - 300} ${cy + R + 160}`} stroke="#FF4A3A" strokeWidth={10} strokeDasharray="20 16" fill="none" opacity={0.8} />
+          <path d={`M 150 1650 L ${cx - R - 300} ${cy + R + 160}`} stroke="#5BE08A" strokeWidth={14} fill="none" strokeDasharray={`${shortcut * 900} 2000`} strokeLinecap="round" />
         </g>
       ) : null}
       {/* haulers: dots streaming up the ramp and around the base; scatter flings them outward */}

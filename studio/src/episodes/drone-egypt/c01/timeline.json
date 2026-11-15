@@ -1,29 +1,371 @@
 {
  "slug": "drone-egypt/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1347,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 44,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 44,
+   "line": "You open the case. You"
+  },
+  {
+   "shot": "S2",
+   "a": 44,
+   "b": 97,
+   "t0": 0,
+   "t1": 53,
+   "line": "unfold four little arms. You"
+  },
+  {
+   "shot": "S3",
+   "a": 97,
+   "b": 139,
+   "t0": 0,
+   "t1": 42,
+   "line": "press one button, and"
+  },
+  {
+   "shot": "S4",
+   "a": 139,
+   "b": 188,
+   "t0": 0,
+   "t1": 49,
+   "line": "it screams up into the sky."
+  },
+  {
+   "shot": "S5",
+   "a": 188,
+   "b": 304,
+   "t0": 0,
+   "t1": 116,
+   "line": "Below you, two thousand workers drop their ropes at the same time. A"
+  },
+  {
+   "shot": "S6",
+   "a": 304,
+   "b": 344,
+   "t0": 0,
+   "t1": 40,
+   "line": "camel bolts. An"
+  },
+  {
+   "shot": "S7",
+   "a": 344,
+   "b": 397,
+   "t0": 0,
+   "t1": 53,
+   "line": "old man falls to his knees."
+  },
+  {
+   "shot": "S8",
+   "a": 397,
+   "b": 474,
+   "t0": 0,
+   "t1": 77,
+   "line": "On your screen you can see all of it from above. A"
+  },
+  {
+   "shot": "S9",
+   "a": 474,
+   "b": 549,
+   "t0": 0,
+   "t1": 75,
+   "line": "giant pyramid, only half finished, and"
+  },
+  {
+   "shot": "S10",
+   "a": 549,
+   "b": 640,
+   "t0": 0,
+   "t1": 91,
+   "line": "thousands of tiny people staring straight up at you."
+  },
+  {
+   "shot": "S11",
+   "a": 640,
+   "b": 691,
+   "t0": 0,
+   "t1": 51,
+   "line": "A soldier throws a spear at it."
+  },
+  {
+   "shot": "S12",
+   "a": 691,
+   "b": 716,
+   "t0": 0,
+   "t1": 25,
+   "line": "Miss."
+  },
+  {
+   "shot": "S13",
+   "a": 716,
+   "b": 772,
+   "t0": 0,
+   "t1": 56,
+   "line": "Another one. Miss."
+  },
+  {
+   "shot": "S14",
+   "a": 772,
+   "b": 846,
+   "t0": 0,
+   "t1": 74,
+   "line": "Somebody shouts a word you don't understand."
+  },
+  {
+   "shot": "S15",
+   "a": 846,
+   "b": 900,
+   "t0": 0,
+   "t1": 54,
+   "line": "Then everyone is shouting it."
+  },
+  {
+   "shot": "S16",
+   "a": 900,
+   "b": 995,
+   "t0": 0,
+   "t1": 95,
+   "line": "This is Egypt, about four and a half thousand years ago."
+  },
+  {
+   "shot": "S17",
+   "a": 995,
+   "b": 1103,
+   "t0": 0,
+   "t1": 108,
+   "line": "Nobody here has ever seen anything fly that isn't a bird or a bug."
+  },
+  {
+   "shot": "S18",
+   "a": 1103,
+   "b": 1160,
+   "t0": 0,
+   "t1": 57,
+   "line": "And you just brought a camera drone."
+  },
+  {
+   "shot": "S19",
+   "a": 1160,
+   "b": 1219,
+   "t0": 0,
+   "t1": 59,
+   "line": "Battery: ninety- one percent."
+  },
+  {
+   "shot": "S20",
+   "a": 1219,
+   "b": 1287,
+   "t0": 0,
+   "t1": 68,
+   "line": "So what would actually happen if you brought a drone to"
+  },
+  {
+   "shot": "S21",
+   "a": 1287,
+   "b": 1347,
+   "t0": 0,
+   "t1": 60,
+   "line": "ancient Egypt?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "key": 14,
+   "len": 44,
+   "first": 0,
+   "line": "You open the case. You",
+   "note": "the case opens on the sand"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 53,
+   "first": 44,
+   "line": "unfold four little arms. You",
+   "note": "you unfold the four arms"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 14,
+   "len": 42,
+   "first": 97,
+   "line": "press one button, and",
+   "note": "thumb on the button, the screen lights"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "len": 49,
+   "first": 139,
+   "line": "it screams up into the sky.",
+   "note": "the drone screams up in a cloud of dust"
+  },
+  {
+   "id": "S5",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 116,
+   "first": 188,
+   "line": "Below you, two thousand workers drop their ropes at the same time. A",
+   "note": "workers drop their ropes and scatter"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 20,
+   "len": 40,
+   "first": 304,
+   "line": "camel bolts. An",
+   "note": "a camel bolts"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 14,
+   "len": 53,
+   "first": 344,
+   "line": "old man falls to his knees.",
+   "note": "an old man falls to his knees"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 77,
+   "first": 397,
+   "line": "On your screen you can see all of it from above. A",
+   "note": "the screen: all of it from above"
+  },
+  {
+   "id": "S9",
+   "size": "pov",
+   "key": 40,
+   "len": 75,
+   "first": 474,
+   "line": "giant pyramid, only half finished, and",
+   "note": "the pyramid half finished"
+  },
+  {
+   "id": "S10",
+   "size": "pov",
+   "key": 40,
+   "len": 91,
+   "first": 549,
+   "line": "thousands of tiny people staring straight up at you.",
+   "note": "thousands of tiny people"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 14,
+   "len": 51,
+   "first": 640,
+   "line": "A soldier throws a spear at it.",
+   "note": "a soldier throws a spear"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 12,
+   "len": 25,
+   "first": 691,
+   "line": "Miss.",
+   "note": "the drone dodges: miss"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 12,
+   "len": 56,
+   "first": 716,
+   "line": "Another one. Miss.",
+   "note": "second spear: miss"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 20,
+   "len": 74,
+   "first": 772,
+   "line": "Somebody shouts a word you don't understand.",
+   "note": "a worker shouts"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 54,
+   "first": 846,
+   "line": "Then everyone is shouting it.",
+   "note": "everyone shouting, arms up"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 20,
+   "len": 95,
+   "first": 900,
+   "line": "This is Egypt, about four and a half thousand years ago.",
+   "note": "EGYPT 2560 BC"
+  },
+  {
+   "id": "S17",
+   "size": "low",
+   "key": 30,
+   "len": 108,
+   "first": 995,
+   "line": "Nobody here has ever seen anything fly that isn't a bird or a bug.",
+   "note": "faces up at the thing in the sky"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 24,
+   "len": 57,
+   "first": 1103,
+   "line": "And you just brought a camera drone.",
+   "note": "you, smug"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 59,
+   "first": 1160,
+   "line": "Battery: ninety- one percent.",
+   "note": "91 percent"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 40,
+   "len": 68,
+   "first": 1219,
+   "line": "So what would actually happen if you brought a drone to",
+   "note": "you, the drone, the pyramid: the question"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 20,
+   "len": 60,
+   "first": 1287,
+   "line": "ancient Egypt?",
+   "note": "ANCIENT EGYPT?"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c01/voice.wav"
+ }
 }

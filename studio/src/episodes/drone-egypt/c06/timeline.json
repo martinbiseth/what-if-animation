@@ -1,29 +1,507 @@
 {
  "slug": "drone-egypt/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2387,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 38,
+   "t0": 0,
+   "t1": 38,
+   "line": "That night, Nefer comes"
+  },
+  {
+   "shot": "S2",
+   "a": 38,
+   "b": 66,
+   "t0": 0,
+   "t1": 28,
+   "line": "running. Her"
+  },
+  {
+   "shot": "S3",
+   "a": 66,
+   "b": 172,
+   "t0": 0,
+   "t1": 106,
+   "line": "father went out with a team to bring copper tools back from the desert. A"
+  },
+  {
+   "shot": "S4",
+   "a": 172,
+   "b": 231,
+   "t0": 0,
+   "t1": 59,
+   "line": "sandstorm hit this afternoon. They"
+  },
+  {
+   "shot": "S5",
+   "a": 231,
+   "b": 265,
+   "t0": 0,
+   "t1": 34,
+   "line": "haven't come back."
+  },
+  {
+   "shot": "S6",
+   "a": 265,
+   "b": 399,
+   "t0": 0,
+   "t1": 134,
+   "line": "Out there, at night, with no water, people don't last long. And the king's"
+  },
+  {
+   "shot": "S7",
+   "a": 399,
+   "b": 499,
+   "t0": 0,
+   "t1": 100,
+   "line": "soldiers won't search the desert in the dark for a few workers. You"
+  },
+  {
+   "shot": "S8",
+   "a": 499,
+   "b": 613,
+   "t0": 0,
+   "t1": 114,
+   "line": "look at the batteries. If you fly now, you use the full one. At"
+  },
+  {
+   "shot": "S9",
+   "a": 613,
+   "b": 717,
+   "t0": 0,
+   "t1": 104,
+   "line": "sunrise you'll have half a battery to show the king all of Egypt."
+  },
+  {
+   "shot": "S10",
+   "a": 717,
+   "b": 774,
+   "t0": 0,
+   "t1": 57,
+   "line": "Djedi will make sure that isn't enough."
+  },
+  {
+   "shot": "S11",
+   "a": 774,
+   "b": 837,
+   "t0": 0,
+   "t1": 63,
+   "line": "Nefer doesn't ask. She just looks"
+  },
+  {
+   "shot": "S12",
+   "a": 837,
+   "b": 890,
+   "t0": 0,
+   "t1": 53,
+   "line": "at you. You fly. You"
+  },
+  {
+   "shot": "S13",
+   "a": 890,
+   "b": 1041,
+   "t0": 0,
+   "t1": 151,
+   "line": "keep the drone low and slow, under the wind, following the old track toward the copper mines. The"
+  },
+  {
+   "shot": "S28",
+   "a": 1041,
+   "b": 1098,
+   "t0": 0,
+   "t1": 57,
+   "line": "air still carries sand. The"
+  },
+  {
+   "shot": "S29",
+   "a": 1098,
+   "b": 1198,
+   "t0": 0,
+   "t1": 100,
+   "line": "screen goes brown, then clear, then brown again. The"
+  },
+  {
+   "shot": "S14",
+   "a": 1198,
+   "b": 1330,
+   "t0": 0,
+   "t1": 132,
+   "line": "desert at night is grey on black. Dunes. Rocks. Nothing."
+  },
+  {
+   "shot": "S15",
+   "a": 1330,
+   "b": 1401,
+   "t0": 0,
+   "t1": 71,
+   "line": "Nefer is holding your sleeve so tight it hurts."
+  },
+  {
+   "shot": "S16",
+   "a": 1401,
+   "b": 1491,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Forty percent. Thirty. Twenty. Then,"
+  },
+  {
+   "shot": "S17",
+   "a": 1491,
+   "b": 1596,
+   "t0": 0,
+   "t1": 105,
+   "line": "far out, a tiny orange dot. A fire. You"
+  },
+  {
+   "shot": "S18",
+   "a": 1596,
+   "b": 1707,
+   "t0": 0,
+   "t1": 111,
+   "line": "drop lower. Six people around it, waving at the sky. You"
+  },
+  {
+   "shot": "S19",
+   "a": 1707,
+   "b": 1795,
+   "t0": 0,
+   "t1": 88,
+   "line": "mark the spot, and the soldiers ride out. Then the screen"
+  },
+  {
+   "shot": "S20",
+   "a": 1795,
+   "b": 1863,
+   "t0": 0,
+   "t1": 68,
+   "line": "freezes. Signal lost. The"
+  },
+  {
+   "shot": "S21",
+   "a": 1863,
+   "b": 1981,
+   "t0": 0,
+   "t1": 118,
+   "line": "drone is behind a dune, kilometres away, in the dark. And then you"
+  },
+  {
+   "shot": "S22",
+   "a": 1981,
+   "b": 2019,
+   "t0": 0,
+   "t1": 38,
+   "line": "remember the rule."
+  },
+  {
+   "shot": "S23",
+   "a": 2019,
+   "b": 2144,
+   "t0": 0,
+   "t1": 125,
+   "line": "Two minutes later you hear it. A buzz in the dark sky, getting louder."
+  },
+  {
+   "shot": "S24",
+   "a": 2144,
+   "b": 2193,
+   "t0": 0,
+   "t1": 49,
+   "line": "Return to Home. It"
+  },
+  {
+   "shot": "S25",
+   "a": 2193,
+   "b": 2259,
+   "t0": 0,
+   "t1": 66,
+   "line": "lands in the sand, right at your feet."
+  },
+  {
+   "shot": "S26",
+   "a": 2259,
+   "b": 2325,
+   "t0": 0,
+   "t1": 66,
+   "line": "Battery: nine percent. And"
+  },
+  {
+   "shot": "S27",
+   "a": 2325,
+   "b": 2387,
+   "t0": 0,
+   "t1": 62,
+   "line": "the sun is coming up."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 38,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "That night, Nefer comes",
+   "note": "chapter card: THE CHOICE"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "len": 28,
+   "first": 38,
+   "line": "running. Her",
+   "note": "Nefer runs to you at the fire"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 106,
+   "first": 66,
+   "line": "father went out with a team to bring copper tools back from the desert. A",
+   "note": "her father's team walks into the desert"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 20,
+   "len": 59,
+   "first": 172,
+   "line": "sandstorm hit this afternoon. They",
+   "note": "the sandstorm"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 20,
+   "len": 34,
+   "first": 231,
+   "line": "haven't come back.",
+   "note": "Nefer: they haven't come back"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 134,
+   "first": 265,
+   "line": "Out there, at night, with no water, people don't last long. And the king's",
+   "note": "the empty desert at night"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 40,
+   "len": 100,
+   "first": 399,
+   "line": "soldiers won't search the desert in the dark for a few workers. You",
+   "note": "the soldiers turn away"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 114,
+   "first": 499,
+   "line": "look at the batteries. If you fly now, you use the full one. At",
+   "note": "one full, one half"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 30,
+   "len": 104,
+   "first": 613,
+   "line": "sunrise you'll have half a battery to show the king all of Egypt.",
+   "note": "50% for the king"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "len": 57,
+   "first": 717,
+   "line": "Djedi will make sure that isn't enough.",
+   "note": "Djedi smiles"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 30,
+   "len": 63,
+   "first": 774,
+   "line": "Nefer doesn't ask. She just looks",
+   "note": "Nefer looks at you"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 20,
+   "len": 53,
+   "first": 837,
+   "line": "at you. You fly. You",
+   "note": "you fly"
+  },
+  {
+   "id": "S13",
+   "size": "pov",
+   "key": 60,
+   "len": 151,
+   "first": 890,
+   "line": "keep the drone low and slow, under the wind, following the old track toward the copper mines. The",
+   "note": "brown, clear, brown"
+  },
+  {
+   "id": "S28",
+   "size": "medium",
+   "key": 40,
+   "len": 57,
+   "first": 1041,
+   "line": "air still carries sand. The",
+   "note": "the drone low over the dunes in blowing sand"
+  },
+  {
+   "id": "S29",
+   "size": "pov",
+   "key": 40,
+   "len": 100,
+   "first": 1098,
+   "line": "screen goes brown, then clear, then brown again. The",
+   "note": "brown, clear, brown"
+  },
+  {
+   "id": "S14",
+   "size": "pov",
+   "key": 60,
+   "len": 132,
+   "first": 1198,
+   "line": "desert at night is grey on black. Dunes. Rocks. Nothing.",
+   "note": "grey on black"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 40,
+   "len": 71,
+   "first": 1330,
+   "line": "Nefer is holding your sleeve so tight it hurts.",
+   "note": "Nefer grips your sleeve"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 40,
+   "len": 90,
+   "first": 1401,
+   "line": "Forty percent. Thirty. Twenty. Then,",
+   "note": "40, 30, 20"
+  },
+  {
+   "id": "S17",
+   "size": "pov",
+   "key": 40,
+   "len": 105,
+   "first": 1491,
+   "line": "far out, a tiny orange dot. A fire. You",
+   "note": "a tiny orange dot"
+  },
+  {
+   "id": "S18",
+   "size": "pov",
+   "key": 40,
+   "len": 111,
+   "first": 1596,
+   "line": "drop lower. Six people around it, waving at the sky. You",
+   "note": "six people waving"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 50,
+   "len": 88,
+   "first": 1707,
+   "line": "mark the spot, and the soldiers ride out. Then the screen",
+   "note": "the soldiers ride out"
+  },
+  {
+   "id": "S20",
+   "size": "pov",
+   "key": 20,
+   "len": 68,
+   "first": 1795,
+   "line": "freezes. Signal lost. The",
+   "note": "signal lost"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 118,
+   "first": 1863,
+   "line": "drone is behind a dune, kilometres away, in the dark. And then you",
+   "note": "a tiny light behind a dune"
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "key": 20,
+   "len": 38,
+   "first": 1981,
+   "line": "remember the rule.",
+   "note": "THE RULE: RETURN TO HOME"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 60,
+   "len": 125,
+   "first": 2019,
+   "line": "Two minutes later you hear it. A buzz in the dark sky, getting louder.",
+   "note": "you both look up at a buzz"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 40,
+   "len": 49,
+   "first": 2144,
+   "line": "Return to Home. It",
+   "note": "the drone comes home"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "key": 30,
+   "len": 66,
+   "first": 2193,
+   "line": "lands in the sand, right at your feet.",
+   "note": "it lands at your feet"
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "key": 20,
+   "len": 66,
+   "first": 2259,
+   "line": "Battery: nine percent. And",
+   "note": "9%"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "key": 40,
+   "len": 62,
+   "first": 2325,
+   "line": "the sun is coming up.",
+   "note": "the sun comes up"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c06/voice.wav"
+ }
 }

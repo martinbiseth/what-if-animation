@@ -1,29 +1,490 @@
 {
  "slug": "drone-egypt/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2439,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 82,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 82,
+   "line": "The man on the golden boat is the king's magician."
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 135,
+   "t0": 0,
+   "t1": 53,
+   "line": "His name is Djedi. In"
+  },
+  {
+   "shot": "S3",
+   "a": 135,
+   "b": 246,
+   "t0": 0,
+   "t1": 111,
+   "line": "the old stories, he could put a goose's head back on after it was cut off. He"
+  },
+  {
+   "shot": "S4",
+   "a": 246,
+   "b": 303,
+   "t0": 0,
+   "t1": 57,
+   "line": "takes you up the river to the king."
+  },
+  {
+   "shot": "S5",
+   "a": 303,
+   "b": 374,
+   "t0": 0,
+   "t1": 71,
+   "line": "Khufu himself sits on the throne. You"
+  },
+  {
+   "shot": "S6",
+   "a": 374,
+   "b": 448,
+   "t0": 0,
+   "t1": 74,
+   "line": "fly the drone between the columns of his hall. The"
+  },
+  {
+   "shot": "S7",
+   "a": 448,
+   "b": 504,
+   "t0": 0,
+   "t1": 56,
+   "line": "guards drop their spears. The"
+  },
+  {
+   "shot": "S8",
+   "a": 504,
+   "b": 565,
+   "t0": 0,
+   "t1": 61,
+   "line": "king doesn't flinch. He laughs."
+  },
+  {
+   "shot": "S9",
+   "a": 565,
+   "b": 623,
+   "t0": 0,
+   "t1": 58,
+   "line": "Then he wants to fly it himself. He"
+  },
+  {
+   "shot": "S10",
+   "a": 623,
+   "b": 692,
+   "t0": 0,
+   "t1": 69,
+   "line": "pushes both sticks at once. The drone"
+  },
+  {
+   "shot": "S11",
+   "a": 692,
+   "b": 748,
+   "t0": 0,
+   "t1": 56,
+   "line": "shoots straight at a column. Your"
+  },
+  {
+   "shot": "S12",
+   "a": 748,
+   "b": 786,
+   "t0": 0,
+   "t1": 38,
+   "line": "heart stops. Its"
+  },
+  {
+   "shot": "S13",
+   "a": 786,
+   "b": 895,
+   "t0": 0,
+   "t1": 109,
+   "line": "sensors catch it half a metre away, and it just hangs there, humming.\""
+  },
+  {
+   "shot": "S14",
+   "a": 895,
+   "b": 970,
+   "t0": 0,
+   "t1": 75,
+   "line": "An eye that flies. With this I could see"
+  },
+  {
+   "shot": "S15",
+   "a": 970,
+   "b": 1096,
+   "t0": 0,
+   "t1": 126,
+   "line": "every corner of Egypt. Every mine. Every enemy.\" Then he says"
+  },
+  {
+   "shot": "S16",
+   "a": 1096,
+   "b": 1197,
+   "t0": 0,
+   "t1": 101,
+   "line": "the sentence you were afraid of.\" It belongs to the king.\""
+  },
+  {
+   "shot": "S17",
+   "a": 1197,
+   "b": 1307,
+   "t0": 0,
+   "t1": 110,
+   "line": "Djedi leans in and whispers something. You don't speak the language, but"
+  },
+  {
+   "shot": "S18",
+   "a": 1307,
+   "b": 1441,
+   "t0": 0,
+   "t1": 134,
+   "line": "Nefer does. Later, very quietly, she tells you what he said.\" A"
+  },
+  {
+   "shot": "S19",
+   "a": 1441,
+   "b": 1581,
+   "t0": 0,
+   "t1": 140,
+   "line": "man who commands a sky spirit is more dangerous than an army.\" The king gives you"
+  },
+  {
+   "shot": "S20",
+   "a": 1581,
+   "b": 1607,
+   "t0": 0,
+   "t1": 26,
+   "line": "an order. At"
+  },
+  {
+   "shot": "S21",
+   "a": 1607,
+   "b": 1703,
+   "t0": 0,
+   "t1": 96,
+   "line": "sunrise tomorrow, you will show him all of Egypt from the sky."
+  },
+  {
+   "shot": "S28",
+   "a": 1703,
+   "b": 1852,
+   "t0": 0,
+   "t1": 149,
+   "line": "If the eye sees everything, you live. If it doesn't, the magician was right about you. Nefer"
+  },
+  {
+   "shot": "S22",
+   "a": 1852,
+   "b": 2011,
+   "t0": 0,
+   "t1": 159,
+   "line": "squeezes your hand. Nobody says no to a king of Egypt. Not if they want to keep breathing. Back at"
+  },
+  {
+   "shot": "S23",
+   "a": 2011,
+   "b": 2121,
+   "t0": 0,
+   "t1": 110,
+   "line": "the camp, you unfold the solar panel to charge for tomorrow. One of Djedi's men"
+  },
+  {
+   "shot": "S24",
+   "a": 2121,
+   "b": 2165,
+   "t0": 0,
+   "t1": 44,
+   "line": "walks straight across it."
+  },
+  {
+   "shot": "S25",
+   "a": 2165,
+   "b": 2193,
+   "t0": 0,
+   "t1": 28,
+   "line": "Crack. The"
+  },
+  {
+   "shot": "S26",
+   "a": 2193,
+   "b": 2304,
+   "t0": 0,
+   "t1": 111,
+   "line": "panel still works. Barely. About a tenth of the power."
+  },
+  {
+   "shot": "S27",
+   "a": 2304,
+   "b": 2439,
+   "t0": 0,
+   "t1": 135,
+   "line": "Now you have one full battery, one at half, and no more sun."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 82,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "The man on the golden boat is the king's magician.",
+   "note": "chapter card: THE KING'S MAGICIAN"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 53,
+   "first": 82,
+   "line": "His name is Djedi. In",
+   "note": "Djedi on the bank"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 111,
+   "first": 135,
+   "line": "the old stories, he could put a goose's head back on after it was cut off. He",
+   "note": "the goose's head goes back on"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 40,
+   "len": 57,
+   "first": 246,
+   "line": "takes you up the river to the king.",
+   "note": "the golden boat up the river"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 71,
+   "first": 303,
+   "line": "Khufu himself sits on the throne. You",
+   "note": "the hall: Khufu on the throne"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 74,
+   "first": 374,
+   "line": "fly the drone between the columns of his hall. The",
+   "note": "the drone between the columns"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 20,
+   "len": 56,
+   "first": 448,
+   "line": "guards drop their spears. The",
+   "note": "the guards drop their spears"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 40,
+   "len": 61,
+   "first": 504,
+   "line": "king doesn't flinch. He laughs.",
+   "note": "the king laughs"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 565,
+   "line": "Then he wants to fly it himself. He",
+   "note": "he takes the controller"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 24,
+   "len": 69,
+   "first": 623,
+   "line": "pushes both sticks at once. The drone",
+   "note": "the column fills the screen"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 14,
+   "len": 56,
+   "first": 692,
+   "line": "shoots straight at a column. Your",
+   "note": "the drone shoots at the column"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 14,
+   "len": 38,
+   "first": 748,
+   "line": "heart stops. Its",
+   "note": "your heart stops"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 40,
+   "len": 109,
+   "first": 786,
+   "line": "sensors catch it half a metre away, and it just hangs there, humming.\"",
+   "note": "it stops half a metre away"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 75,
+   "first": 895,
+   "line": "An eye that flies. With this I could see",
+   "note": "the king: an eye that flies"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 40,
+   "len": 126,
+   "first": 970,
+   "line": "every corner of Egypt. Every mine. Every enemy.\" Then he says",
+   "note": "every mine, every enemy"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 50,
+   "len": 101,
+   "first": 1096,
+   "line": "the sentence you were afraid of.\" It belongs to the king.\"",
+   "note": "it belongs to the king"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 40,
+   "len": 110,
+   "first": 1197,
+   "line": "Djedi leans in and whispers something. You don't speak the language, but",
+   "note": "Djedi whispers"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 30,
+   "len": 134,
+   "first": 1307,
+   "line": "Nefer does. Later, very quietly, she tells you what he said.\" A",
+   "note": "Nefer listening"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 30,
+   "len": 140,
+   "first": 1441,
+   "line": "man who commands a sky spirit is more dangerous than an army.\" The king gives you",
+   "note": "more dangerous than an army"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 40,
+   "len": 26,
+   "first": 1581,
+   "line": "an order. At",
+   "note": "the king points at you"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 30,
+   "len": 96,
+   "first": 1607,
+   "line": "sunrise tomorrow, you will show him all of Egypt from the sky.",
+   "note": "sunrise: all of Egypt, or else"
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "key": 40,
+   "len": 149,
+   "first": 1703,
+   "line": "If the eye sees everything, you live. If it doesn't, the magician was right about you. Nefer",
+   "note": "Djedi smiles: if it does not..."
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "key": 40,
+   "len": 159,
+   "first": 1852,
+   "line": "squeezes your hand. Nobody says no to a king of Egypt. Not if they want to keep breathing. Back at",
+   "note": "Nefer squeezes your hand"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 40,
+   "len": 110,
+   "first": 2011,
+   "line": "the camp, you unfold the solar panel to charge for tomorrow. One of Djedi's men",
+   "note": "camp: you unfold the panel"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 40,
+   "len": 44,
+   "first": 2121,
+   "line": "walks straight across it.",
+   "note": "a guard walks across it"
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "key": 10,
+   "len": 28,
+   "first": 2165,
+   "line": "Crack. The",
+   "note": "crack"
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "key": 30,
+   "len": 111,
+   "first": 2193,
+   "line": "panel still works. Barely. About a tenth of the power.",
+   "note": "10% power"
+  },
+  {
+   "id": "S27",
+   "size": "insert",
+   "key": 30,
+   "len": 135,
+   "first": 2304,
+   "line": "Now you have one full battery, one at half, and no more sun.",
+   "note": "full, half, empty"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c05/voice.wav"
+ }
 }

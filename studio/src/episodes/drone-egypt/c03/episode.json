@@ -70,18 +70,684 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter card: THE SKY EYE",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "workers point up: the buzzing scarab",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "two guards walk you across the site",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "note": "Hemiunu, the architect",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "Hemiunu looks up at his pyramid",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "note": "you hand him the controller",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "note": "his face lit by the screen",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "he starts pointing",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "pov",
+   "note": "the long way round",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "pov",
+   "note": "the shortcut",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "note": "a stone boat stuck on a sandbank",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "pov",
+   "note": "down the river: the deep channel",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "the crew's logbook",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "the Diary of Merer, found 2013",
+   "key": 70
+  },
+  {
+   "id": "S30",
+   "size": "wide",
+   "note": "a stone boat sails: the oldest written papyrus",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "pov",
+   "note": "the four corners",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "each side 230 m",
+   "key": 70
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "note": "ropes, sticks and the stars",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "Nefer: lost goat",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "pov",
+   "note": "a white dot behind the rubble",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "note": "the goat eating somebody's lunch",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "note": "Nefer follows you everywhere",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "note": "Nefer shows you the town",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "card",
+   "note": "NOT SLAVES",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "note": "paid in bread and beer",
+   "key": 30
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "note": "bakeries, breweries, doctors",
+   "key": 40
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "note": "named tombs beside the pyramid",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "note": "lunch break watching you fly",
+   "key": 50
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "note": "the one with the sky eye",
+   "key": 40
+  },
+  {
+   "id": "S29",
+   "size": "wide",
+   "note": "the golden boat arrives",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "buzzing"
+  },
+  {
+   "shot": "S3",
+   "at": "afternoon"
+  },
+  {
+   "shot": "S4",
+   "at": "Hemiunu"
+  },
+  {
+   "shot": "S5",
+   "at": "never"
+  },
+  {
+   "shot": "S6",
+   "at": "hand"
+  },
+  {
+   "shot": "S7",
+   "at": "holds"
+  },
+  {
+   "shot": "S8",
+   "at": "Then"
+  },
+  {
+   "shot": "S9",
+   "at": "From"
+  },
+  {
+   "shot": "S10",
+   "at": "show"
+  },
+  {
+   "shot": "S11",
+   "at": "boat"
+  },
+  {
+   "shot": "S12",
+   "at": "fly"
+  },
+  {
+   "shot": "S13",
+   "at": "crew"
+  },
+  {
+   "shot": "S14",
+   "at": "Merer"
+  },
+  {
+   "shot": "S30",
+   "at": "oldest"
+  },
+  {
+   "shot": "S15",
+   "at": "corners"
+  },
+  {
+   "shot": "S16",
+   "at": "Each"
+  },
+  {
+   "shot": "S17",
+   "at": "ropes"
+  },
+  {
+   "shot": "S18",
+   "at": "worker's"
+  },
+  {
+   "shot": "S19",
+   "at": "find"
+  },
+  {
+   "shot": "S20",
+   "at": "behind"
+  },
+  {
+   "shot": "S21",
+   "at": "After"
+  },
+  {
+   "shot": "S22",
+   "at": "She"
+  },
+  {
+   "shot": "S23",
+   "at": "aren't"
+  },
+  {
+   "shot": "S24",
+   "at": "paid"
+  },
+  {
+   "shot": "S25",
+   "at": "live"
+  },
+  {
+   "shot": "S26",
+   "at": "Some"
+  },
+  {
+   "shot": "S27",
+   "at": "end"
+  },
+  {
+   "shot": "S28",
+   "at": "nickname"
+  },
+  {
+   "shot": "S29",
+   "at": "golden"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "crowd_cheer": [
+    "a large outdoor crowd cheering and laughing happily, many voices, no clear words",
+    2.5
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "goat": [
+    "a goat bleating twice, short",
+    1.0
+   ],
+   "m_egypt": [
+    "light curious ancient Egyptian style background music, oud, frame drum and soft strings, playful, instrumental loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "river",
+    0.3,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "river",
+    0.3,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "river",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S30"
+   ],
+   [
+    "S30+0",
+    "river",
+    0.3,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S23"
+   ],
+   [
+    "S23+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S25"
+   ],
+   [
+    "S25+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S27"
+   ],
+   [
+    "S27+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S28"
+   ],
+   [
+    "S28+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S29"
+   ],
+   [
+    "S29+0",
+    "river",
+    0.3,
+    "onset"
+   ],
+   [
+    "S1+1",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S2+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S3"
+   ],
+   [
+    "S2+10",
+    "crowd_cheer",
+    0.4
+   ],
+   [
+    "S6+10",
+    "catch",
+    0.3
+   ],
+   [
+    "S10+4",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S10+34",
+    "ding",
+    0.4
+   ],
+   [
+    "S12+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S13"
+   ],
+   [
+    "S14+44",
+    "ding",
+    0.35
+   ],
+   [
+    "S15+6",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S15+22",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S16+44",
+    "ding",
+    0.35
+   ],
+   [
+    "S19+6",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S20+0",
+    "goat",
+    0.6
+   ],
+   [
+    "S21+30",
+    "goat",
+    0.3
+   ],
+   [
+    "S23+3",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S24+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S27+0",
+    "crowd_cheer",
+    0.35
+   ],
+   [
+    "S27+0",
+    "drone_buzz",
+    0.15,
+    "onset",
+    "S28"
+   ],
+   [
+    "S28+20",
+    "shades",
+    0.4
+   ],
+   [
+    "S29+2",
+    "card_hit",
+    0.35
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

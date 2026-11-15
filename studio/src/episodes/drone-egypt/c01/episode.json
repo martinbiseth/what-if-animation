@@ -37,22 +37,536 @@
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "note": "the case opens on the sand",
+   "key": 14
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "note": "you unfold the four arms",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "thumb on the button, the screen lights",
+   "key": 14
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "the drone screams up in a cloud of dust",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "workers drop their ropes and scatter",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "note": "a camel bolts",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "an old man falls to his knees",
+   "key": 14
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "the screen: all of it from above",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "pov",
+   "note": "the pyramid half finished",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "pov",
+   "note": "thousands of tiny people",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "note": "a soldier throws a spear",
+   "key": 14
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "note": "the drone dodges: miss",
+   "key": 12
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "note": "second spear: miss",
+   "key": 12
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "note": "a worker shouts",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "everyone shouting, arms up",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "note": "EGYPT 2560 BC",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "low",
+   "note": "faces up at the thing in the sky",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "you, smug",
+   "key": 24
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "note": "91 percent",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "note": "you, the drone, the pyramid: the question",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "note": "ANCIENT EGYPT?",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "unfold"
+  },
+  {
+   "shot": "S3",
+   "at": "press"
+  },
+  {
+   "shot": "S4",
+   "at": "screams"
+  },
+  {
+   "shot": "S5",
+   "at": "Below"
+  },
+  {
+   "shot": "S6",
+   "at": "camel"
+  },
+  {
+   "shot": "S7",
+   "at": "old"
+  },
+  {
+   "shot": "S8",
+   "at": "On"
+  },
+  {
+   "shot": "S9",
+   "at": "giant"
+  },
+  {
+   "shot": "S10",
+   "at": "thousands"
+  },
+  {
+   "shot": "S11",
+   "at": "soldier"
+  },
+  {
+   "shot": "S12",
+   "at": "Miss"
+  },
+  {
+   "shot": "S13",
+   "at": "Another"
+  },
+  {
+   "shot": "S14",
+   "at": "Somebody"
+  },
+  {
+   "shot": "S15",
+   "at": "Then"
+  },
+  {
+   "shot": "S16",
+   "at": "This"
+  },
+  {
+   "shot": "S17",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "Battery"
+  },
+  {
+   "shot": "S20",
+   "at": "So"
+  },
+  {
+   "shot": "S21",
+   "at": "ancient"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "camel": [
+    "a camel groaning and bellowing loudly, short",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "copy_click": [
+    "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+    0.5
+   ],
+   "crowd_shout": [
+    "a large crowd of workers outdoors shouting in alarm and surprise, many voices, no clear words",
+    2.5
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "drone_by": [
+    "a camera drone zipping past the listener very fast, propeller whine doppler pass-by",
+    1.5
+   ],
+   "drone_up": [
+    "a camera drone taking off from the ground and flying away fast, propeller whine rising then receding",
+    2.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "m_egypt": [
+    "light curious ancient Egyptian style background music, oud, frame drum and soft strings, playful, instrumental loop",
+    20.0
+   ],
+   "spear_whoosh": [
+    "a wooden spear thrown hard, flying past with a sharp whoosh",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "desert_wind",
+    0.3,
+    "onset"
+   ],
+   [
+    "S1+4",
+    "catch",
+    0.4
+   ],
+   [
+    "S2+14",
+    "copy_click",
+    0.5
+   ],
+   [
+    "S3+6",
+    "beep",
+    0.4
+   ],
+   [
+    "S4+0",
+    "drone_up",
+    0.8,
+    "onset",
+    "S6"
+   ],
+   [
+    "S5+6",
+    "crowd_shout",
+    0.6
+   ],
+   [
+    "S6+0",
+    "camel",
+    0.6
+   ],
+   [
+    "S7+6",
+    "land",
+    0.4
+   ],
+   [
+    "S8+0",
+    "drone_buzz",
+    0.25,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+10",
+    "spear_whoosh",
+    0.6
+   ],
+   [
+    "S12+0",
+    "drone_by",
+    0.5
+   ],
+   [
+    "S13+20",
+    "spear_whoosh",
+    0.6
+   ],
+   [
+    "S14+0",
+    "crowd_shout",
+    0.4
+   ],
+   [
+    "S15+0",
+    "crowd_shout",
+    0.7
+   ],
+   [
+    "S16+3",
+    "card_hit",
+    0.5
+   ],
+   [
+    "S17+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S18"
+   ],
+   [
+    "S19+4",
+    "beep",
+    0.4
+   ],
+   [
+    "S20+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+3",
+    "title_boom",
+    0.7,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
  }
 }

@@ -1,29 +1,269 @@
 {
  "slug": "drone-egypt/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1511,
  "segments": [
   {
-   "shot": "S1",
+   "shot": "S2",
    "a": 0,
-   "b": 90,
+   "b": 94,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 94,
+   "line": "At sunrise you stand in front of the king with your last battery."
+  },
+  {
+   "shot": "S3",
+   "a": 94,
+   "b": 137,
+   "t0": 0,
+   "t1": 43,
+   "line": "Forty- eight percent. You"
+  },
+  {
+   "shot": "S4",
+   "a": 137,
+   "b": 183,
+   "t0": 0,
+   "t1": 46,
+   "line": "send the drone straight up."
+  },
+  {
+   "shot": "S5",
+   "a": 183,
+   "b": 391,
+   "t0": 0,
+   "t1": 208,
+   "line": "Higher than any bird. The king sees his pyramid from the sky, the river, the desert, all the way to the edge of the world. He's"
+  },
+  {
+   "shot": "S6",
+   "a": 391,
+   "b": 417,
+   "t0": 0,
+   "t1": 26,
+   "line": "smiling."
+  },
+  {
+   "shot": "S7",
+   "a": 417,
+   "b": 458,
+   "t0": 0,
+   "t1": 41,
+   "line": "Djedi isn't. For"
+  },
+  {
+   "shot": "S8",
+   "a": 458,
+   "b": 556,
+   "t0": 0,
+   "t1": 98,
+   "line": "the first time, the king of Egypt looks at you like you're not a servant. He"
+  },
+  {
+   "shot": "S9",
+   "a": 556,
+   "b": 640,
+   "t0": 0,
+   "t1": 84,
+   "line": "opens his mouth to say something. Then the controller"
+  },
+  {
+   "shot": "S10",
+   "a": 640,
+   "b": 782,
+   "t0": 0,
+   "t1": 142,
+   "line": "beeps. A warning you have never seen before. Manned aircraft nearby."
+  },
+  {
+   "shot": "S11",
+   "a": 782,
+   "b": 993,
+   "t0": 0,
+   "t1": 211,
+   "line": "Your drone listens for signals from real planes, so it can get out of the way. It only goes off when there's an aircraft with a transponder close by."
+  },
+  {
+   "shot": "S12",
+   "a": 993,
+   "b": 1046,
+   "t0": 0,
+   "t1": 53,
+   "line": "In 2560 BC."
+  },
+  {
+   "shot": "S13",
+   "a": 1046,
+   "b": 1091,
+   "t0": 0,
+   "t1": 45,
+   "line": "Somewhere above you, something"
+  },
+  {
+   "shot": "S14",
+   "a": 1091,
+   "b": 1153,
+   "t0": 0,
+   "t1": 62,
+   "line": "is flying. And it isn't yours."
+  },
+  {
+   "shot": "S15",
+   "a": 1153,
+   "b": 1358,
+   "t0": 0,
+   "t1": 205,
+   "line": "Is any of this real? The pyramid, the bread and beer, Hemiunu, the battery limits and that warning are all real."
+  },
+  {
+   "shot": "S16",
+   "a": 1358,
+   "b": 1511,
+   "t0": 0,
+   "t1": 153,
+   "line": "So who else is up there? Tell me in the comments. Part two is coming."
   }
  ],
  "shots": [
   {
-   "id": "S1",
+   "id": "S2",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 50,
+   "len": 94,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "At sunrise you stand in front of the king with your last battery.",
+   "note": "sunrise: the king, Djedi, you with the controller"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 43,
+   "first": 94,
+   "line": "Forty- eight percent. You",
+   "note": "48%"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 40,
+   "len": 46,
+   "first": 137,
+   "line": "send the drone straight up.",
+   "note": "straight up"
+  },
+  {
+   "id": "S5",
+   "size": "pov",
+   "key": 100,
+   "len": 208,
+   "first": 183,
+   "line": "Higher than any bird. The king sees his pyramid from the sky, the river, the desert, all the way to the edge of the world. He's",
+   "note": "the camera climbs to the edge of the world"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 40,
+   "len": 26,
+   "first": 391,
+   "line": "smiling.",
+   "note": "the king smiles"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 20,
+   "len": 41,
+   "first": 417,
+   "line": "Djedi isn't. For",
+   "note": "Djedi doesn't"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 40,
+   "len": 98,
+   "first": 458,
+   "line": "the first time, the king of Egypt looks at you like you're not a servant. He",
+   "note": "the king looks at you"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 30,
+   "len": 84,
+   "first": 556,
+   "line": "opens his mouth to say something. Then the controller",
+   "note": "he opens his mouth"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 40,
+   "len": 142,
+   "first": 640,
+   "line": "beeps. A warning you have never seen before. Manned aircraft nearby.",
+   "note": "MANNED AIRCRAFT NEARBY"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 60,
+   "len": 211,
+   "first": 782,
+   "line": "Your drone listens for signals from real planes, so it can get out of the way. It only goes off when there's an aircraft with a transponder close by.",
+   "note": "how the warning works"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 20,
+   "len": 53,
+   "first": 993,
+   "line": "In 2560 BC.",
+   "note": "2560 BC"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 30,
+   "len": 45,
+   "first": 1046,
+   "line": "Somewhere above you, something",
+   "note": "you look up"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 62,
+   "first": 1091,
+   "line": "is flying. And it isn't yours.",
+   "note": "a blinking light that isn't yours"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 120,
+   "len": 205,
+   "first": 1153,
+   "line": "Is any of this real? The pyramid, the bread and beer, Hemiunu, the battery limits and that warning are all real.",
+   "note": "is any of this real"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 90,
+   "len": 153,
+   "first": 1358,
+   "line": "So who else is up there? Tell me in the comments. Part two is coming.",
+   "note": "who else is up there"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c07/voice.wav"
+ }
 }

@@ -1,29 +1,303 @@
 {
  "slug": "drone-egypt/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1392,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 110,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 110,
+   "line": "Here's the deal. The year is around 2560 BC."
+  },
+  {
+   "shot": "S2",
+   "a": 110,
+   "b": 151,
+   "t0": 0,
+   "t1": 41,
+   "line": "You're at Giza, where"
+  },
+  {
+   "shot": "S3",
+   "a": 151,
+   "b": 237,
+   "t0": 0,
+   "t1": 86,
+   "line": "the Great Pyramid of King Khufu is being built right now."
+  },
+  {
+   "shot": "S4",
+   "a": 237,
+   "b": 328,
+   "t0": 0,
+   "t1": 91,
+   "line": "In your backpack: one normal camera drone. It"
+  },
+  {
+   "shot": "S5",
+   "a": 328,
+   "b": 425,
+   "t0": 0,
+   "t1": 97,
+   "line": "weighs less than a kilo, about as much as a bag of sugar. One"
+  },
+  {
+   "shot": "S6",
+   "a": 425,
+   "b": 467,
+   "t0": 0,
+   "t1": 42,
+   "line": "controller with a screen."
+  },
+  {
+   "shot": "S7",
+   "a": 467,
+   "b": 573,
+   "t0": 0,
+   "t1": 106,
+   "line": "Three batteries, each good for about half an hour in the air. And one"
+  },
+  {
+   "shot": "S8",
+   "a": 573,
+   "b": 621,
+   "t0": 0,
+   "t1": 48,
+   "line": "folding solar panel, because"
+  },
+  {
+   "shot": "S9",
+   "a": 621,
+   "b": 719,
+   "t0": 0,
+   "t1": 98,
+   "line": "the nearest wall socket is four and a half thousand years away."
+  },
+  {
+   "shot": "S10",
+   "a": 719,
+   "b": 852,
+   "t0": 0,
+   "t1": 133,
+   "line": "Egypt has plenty of sun, so the panel can fill one battery in an afternoon."
+  },
+  {
+   "shot": "S11",
+   "a": 852,
+   "b": 925,
+   "t0": 0,
+   "t1": 73,
+   "line": "Half an hour of magic, then you wait."
+  },
+  {
+   "shot": "S12",
+   "a": 925,
+   "b": 963,
+   "t0": 0,
+   "t1": 38,
+   "line": "And one more thing."
+  },
+  {
+   "shot": "S13",
+   "a": 963,
+   "b": 1066,
+   "t0": 0,
+   "t1": 103,
+   "line": "If the drone ever loses its signal, it doesn't crash. It"
+  },
+  {
+   "shot": "S14",
+   "a": 1066,
+   "b": 1214,
+   "t0": 0,
+   "t1": 148,
+   "line": "turns around and flies straight back to the spot it took off from, all by itself. It's"
+  },
+  {
+   "shot": "S15",
+   "a": 1214,
+   "b": 1249,
+   "t0": 0,
+   "t1": 35,
+   "line": "called Return to Home."
+  },
+  {
+   "shot": "S16",
+   "a": 1249,
+   "b": 1280,
+   "t0": 0,
+   "t1": 31,
+   "line": "Remember that."
+  },
+  {
+   "shot": "S17",
+   "a": 1280,
+   "b": 1392,
+   "t0": 0,
+   "t1": 112,
+   "line": "This is what if you brought a drone to ancient Egypt."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 110,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's the deal. The year is around 2560 BC.",
+   "note": "chapter card: GIZA 2560 BC"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 40,
+   "len": 41,
+   "first": 110,
+   "line": "You're at Giza, where",
+   "note": "you walk in toward the site"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 86,
+   "first": 151,
+   "line": "the Great Pyramid of King Khufu is being built right now.",
+   "note": "King Khufu's pyramid, under construction"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 14,
+   "len": 91,
+   "first": 237,
+   "line": "In your backpack: one normal camera drone. It",
+   "note": "one normal camera drone"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 97,
+   "first": 328,
+   "line": "weighs less than a kilo, about as much as a bag of sugar. One",
+   "note": "on a scale against a bag of sugar"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 42,
+   "first": 425,
+   "line": "controller with a screen.",
+   "note": "the controller with its screen"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "len": 106,
+   "first": 467,
+   "line": "Three batteries, each good for about half an hour in the air. And one",
+   "note": "three batteries, 30 min each"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 48,
+   "first": 573,
+   "line": "folding solar panel, because",
+   "note": "the solar panel opens"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 98,
+   "first": 621,
+   "line": "the nearest wall socket is four and a half thousand years away.",
+   "note": "a wall socket: 4,500 years away"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 60,
+   "len": 133,
+   "first": 719,
+   "line": "Egypt has plenty of sun, so the panel can fill one battery in an afternoon.",
+   "note": "the panel charging in the sun"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 50,
+   "len": 73,
+   "first": 852,
+   "line": "Half an hour of magic, then you wait.",
+   "note": "30 MIN, then you wait"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 20,
+   "len": 38,
+   "first": 925,
+   "line": "And one more thing.",
+   "note": "you: one more thing"
+  },
+  {
+   "id": "S13",
+   "size": "pov",
+   "key": 20,
+   "len": 103,
+   "first": 963,
+   "line": "If the drone ever loses its signal, it doesn't crash. It",
+   "note": "SIGNAL LOST"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 148,
+   "first": 1066,
+   "line": "turns around and flies straight back to the spot it took off from, all by itself. It's",
+   "note": "the drone turns and flies home"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 30,
+   "len": 35,
+   "first": 1214,
+   "line": "called Return to Home.",
+   "note": "RETURN TO HOME on the screen"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 20,
+   "len": 31,
+   "first": 1249,
+   "line": "Remember that.",
+   "note": "REMEMBER THIS: RETURN TO HOME"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 30,
+   "len": 112,
+   "first": 1280,
+   "line": "This is what if you brought a drone to ancient Egypt.",
+   "note": "title over Giza at dusk"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c02/voice.wav"
+ }
 }

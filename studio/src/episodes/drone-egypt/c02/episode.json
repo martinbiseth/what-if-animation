@@ -45,22 +45,452 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter card: GIZA 2560 BC",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "you walk in toward the site",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "King Khufu's pyramid, under construction",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "one normal camera drone",
+   "key": 14
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "note": "on a scale against a bag of sugar",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "the controller with its screen",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "note": "three batteries, 30 min each",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "the solar panel opens",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "note": "a wall socket: 4,500 years away",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "note": "the panel charging in the sun",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "30 MIN, then you wait",
+   "key": 50
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "note": "you: one more thing",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "pov",
+   "note": "SIGNAL LOST",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "the drone turns and flies home",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "note": "RETURN TO HOME on the screen",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "REMEMBER THIS: RETURN TO HOME",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "note": "title over Giza at dusk",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "Great"
+  },
+  {
+   "shot": "S4",
+   "at": "In"
+  },
+  {
+   "shot": "S5",
+   "at": "weighs"
+  },
+  {
+   "shot": "S6",
+   "at": "controller"
+  },
+  {
+   "shot": "S7",
+   "at": "Three"
+  },
+  {
+   "shot": "S8",
+   "at": "folding"
+  },
+  {
+   "shot": "S9",
+   "at": "nearest"
+  },
+  {
+   "shot": "S10",
+   "at": "Egypt"
+  },
+  {
+   "shot": "S11",
+   "at": "Half"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "If"
+  },
+  {
+   "shot": "S14",
+   "at": "turns"
+  },
+  {
+   "shot": "S15",
+   "at": "called"
+  },
+  {
+   "shot": "S16",
+   "at": "Remember"
+  },
+  {
+   "shot": "S17",
+   "at": "This"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_by": [
+    "a camera drone zipping past the listener very fast, propeller whine doppler pass-by",
+    1.5
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "m_egypt": [
+    "light curious ancient Egyptian style background music, oud, frame drum and soft strings, playful, instrumental loop",
+    20.0
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "plug": [
+    "an electrical plug pushed into an old wall socket, a click and nothing",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "desert_wind",
+    0.3,
+    "onset"
+   ],
+   [
+    "S1+1",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S5+4",
+    "paper_land",
+    0.3
+   ],
+   [
+    "S6+4",
+    "beep",
+    0.4
+   ],
+   [
+    "S7+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S7+6",
+    "pop",
+    0.4
+   ],
+   [
+    "S7+12",
+    "pop",
+    0.4
+   ],
+   [
+    "S8+0",
+    "slide",
+    0.4
+   ],
+   [
+    "S9+3",
+    "plug",
+    0.5
+   ],
+   [
+    "S10+10",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S11+0",
+    "tick",
+    0.35,
+    "onset",
+    "S12"
+   ],
+   [
+    "S13+12",
+    "glitch",
+    0.5
+   ],
+   [
+    "S14+20",
+    "drone_by",
+    0.4
+   ],
+   [
+    "S15+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S16+3",
+    "ding",
+    0.5
+   ],
+   [
+    "S17+2",
+    "title_boom",
+    0.7,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

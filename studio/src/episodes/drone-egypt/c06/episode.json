@@ -57,18 +57,668 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter card: THE CHOICE",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "Nefer runs to you at the fire",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "her father's team walks into the desert",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "note": "the sandstorm",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "Nefer: they haven't come back",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "note": "the empty desert at night",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "the soldiers turn away",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "one full, one half",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "note": "50% for the king",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "Djedi smiles",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "note": "Nefer looks at you",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "note": "you fly",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "pov",
+   "note": "brown, clear, brown",
+   "key": 60
+  },
+  {
+   "id": "S28",
+   "size": "medium",
+   "note": "the drone low over the dunes in blowing sand",
+   "key": 40
+  },
+  {
+   "id": "S29",
+   "size": "pov",
+   "note": "brown, clear, brown",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "pov",
+   "note": "grey on black",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "note": "Nefer grips your sleeve",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "40, 30, 20",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "pov",
+   "note": "a tiny orange dot",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "pov",
+   "note": "six people waving",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "note": "the soldiers ride out",
+   "key": 50
+  },
+  {
+   "id": "S20",
+   "size": "pov",
+   "note": "signal lost",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "note": "a tiny light behind a dune",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "card",
+   "note": "THE RULE: RETURN TO HOME",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "note": "you both look up at a buzz",
+   "key": 60
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "note": "the drone comes home",
+   "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "note": "it lands at your feet",
+   "key": 30
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "note": "9%",
+   "key": 20
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "note": "the sun comes up",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "running"
+  },
+  {
+   "shot": "S3",
+   "at": "father"
+  },
+  {
+   "shot": "S4",
+   "at": "sandstorm"
+  },
+  {
+   "shot": "S5",
+   "at": "haven't"
+  },
+  {
+   "shot": "S6",
+   "at": "Out"
+  },
+  {
+   "shot": "S7",
+   "at": "soldiers"
+  },
+  {
+   "shot": "S8",
+   "at": "look"
+  },
+  {
+   "shot": "S9",
+   "at": "sunrise"
+  },
+  {
+   "shot": "S10",
+   "at": "Djedi"
+  },
+  {
+   "shot": "S11",
+   "at": "Nefer"
+  },
+  {
+   "shot": "S12",
+   "at": "You"
+  },
+  {
+   "shot": "S13",
+   "at": "keep"
+  },
+  {
+   "shot": "S28",
+   "at": "air"
+  },
+  {
+   "shot": "S29",
+   "at": "screen"
+  },
+  {
+   "shot": "S14",
+   "at": "desert"
+  },
+  {
+   "shot": "S15",
+   "at": "Nefer"
+  },
+  {
+   "shot": "S16",
+   "at": "Forty"
+  },
+  {
+   "shot": "S17",
+   "at": "far"
+  },
+  {
+   "shot": "S18",
+   "at": "drop"
+  },
+  {
+   "shot": "S19",
+   "at": "mark"
+  },
+  {
+   "shot": "S20",
+   "at": "freezes"
+  },
+  {
+   "shot": "S21",
+   "at": "drone"
+  },
+  {
+   "shot": "S22",
+   "at": "remember"
+  },
+  {
+   "shot": "S23",
+   "at": "Two"
+  },
+  {
+   "shot": "S24",
+   "at": "Return"
+  },
+  {
+   "shot": "S25",
+   "at": "lands"
+  },
+  {
+   "shot": "S26",
+   "at": "Battery"
+  },
+  {
+   "shot": "S27",
+   "at": "sun"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "camel": [
+    "a camel groaning and bellowing loudly, short",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crowd_shout": [
+    "a large crowd of workers outdoors shouting in alarm and surprise, many voices, no clear words",
+    2.5
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "drone_up": [
+    "a camera drone taking off from the ground and flying away fast, propeller whine rising then receding",
+    2.5
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "m_egypt_tense": [
+    "tense dark ancient Egyptian style underscore, low frame drums, oud and dark strings, suspenseful, instrumental loop",
+    20.0
+   ],
+   "night_desert": [
+    "a quiet desert at night, soft breeze, distant crickets, no voices",
+    10.0
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "sandstorm": [
+    "a violent sandstorm, howling wind and hissing blowing sand",
+    6.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "fire",
+    0.35,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "fire",
+    0.35,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "sandstorm",
+    0.5,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "sandstorm",
+    0.5,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "fire",
+    0.35,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "night_desert",
+    0.4,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "fire",
+    0.35,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "fire",
+    0.35,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "fire",
+    0.35,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "fire",
+    0.35,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "fire",
+    0.35,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S28"
+   ],
+   [
+    "S28+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S29"
+   ],
+   [
+    "S29+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S23"
+   ],
+   [
+    "S23+0",
+    "night_desert",
+    0.35,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+0",
+    "fire",
+    0.3,
+    "onset",
+    "S25"
+   ],
+   [
+    "S25+0",
+    "fire",
+    0.3,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "fire",
+    0.3,
+    "onset",
+    "S27"
+   ],
+   [
+    "S27+0",
+    "fire",
+    0.3,
+    "onset"
+   ],
+   [
+    "S1+1",
+    "card_hit",
+    0.35
+   ],
+   [
+    "S9+3",
+    "drone_hit",
+    0.35
+   ],
+   [
+    "S12+0",
+    "drone_up",
+    0.6
+   ],
+   [
+    "S13+0",
+    "drone_buzz",
+    0.15,
+    "onset",
+    "S15"
+   ],
+   [
+    "S16+0",
+    "beep",
+    0.4
+   ],
+   [
+    "S16+30",
+    "beep",
+    0.4
+   ],
+   [
+    "S17+6",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S18+0",
+    "crowd_shout",
+    0.25
+   ],
+   [
+    "S19+0",
+    "camel",
+    0.5
+   ],
+   [
+    "S20+4",
+    "glitch",
+    0.6
+   ],
+   [
+    "S20+6",
+    "drone_hit",
+    0.4
+   ],
+   [
+    "S22+3",
+    "ding",
+    0.4
+   ],
+   [
+    "S23+30",
+    "drone_buzz",
+    0.15,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+0",
+    "drone_buzz",
+    0.35,
+    "onset",
+    "S26"
+   ],
+   [
+    "S25+30",
+    "power_off",
+    0.4
+   ],
+   [
+    "S26+4",
+    "beep",
+    0.5
+   ],
+   [
+    "S27+4",
+    "sparkle",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

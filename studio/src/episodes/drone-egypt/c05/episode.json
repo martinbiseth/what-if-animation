@@ -60,18 +60,664 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter card: THE KING'S MAGICIAN",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "note": "Djedi on the bank",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "the goose's head goes back on",
+   "key": 30
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "the golden boat up the river",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "the hall: Khufu on the throne",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "note": "the drone between the columns",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "the guards drop their spears",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "note": "the king laughs",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "note": "he takes the controller",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "note": "the column fills the screen",
+   "key": 24
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "note": "the drone shoots at the column",
+   "key": 14
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "note": "your heart stops",
+   "key": 14
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "note": "it stops half a metre away",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "note": "the king: an eye that flies",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "every mine, every enemy",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "note": "it belongs to the king",
+   "key": 50
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "note": "Djedi whispers",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "Nefer listening",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "note": "more dangerous than an army",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "note": "the king points at you",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "note": "sunrise: all of Egypt, or else",
+   "key": 30
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "note": "Djedi smiles: if it does not...",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "note": "Nefer squeezes your hand",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "note": "camp: you unfold the panel",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "note": "a guard walks across it",
+   "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "note": "crack",
+   "key": 10
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "note": "10% power",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "insert",
+   "note": "full, half, empty",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "His"
+  },
+  {
+   "shot": "S3",
+   "at": "old"
+  },
+  {
+   "shot": "S4",
+   "at": "takes"
+  },
+  {
+   "shot": "S5",
+   "at": "Khufu"
+  },
+  {
+   "shot": "S6",
+   "at": "fly"
+  },
+  {
+   "shot": "S7",
+   "at": "guards"
+  },
+  {
+   "shot": "S8",
+   "at": "king"
+  },
+  {
+   "shot": "S9",
+   "at": "Then"
+  },
+  {
+   "shot": "S10",
+   "at": "pushes"
+  },
+  {
+   "shot": "S11",
+   "at": "shoots"
+  },
+  {
+   "shot": "S12",
+   "at": "heart"
+  },
+  {
+   "shot": "S13",
+   "at": "sensors"
+  },
+  {
+   "shot": "S14",
+   "at": "An"
+  },
+  {
+   "shot": "S15",
+   "at": "every"
+  },
+  {
+   "shot": "S16",
+   "at": "sentence"
+  },
+  {
+   "shot": "S17",
+   "at": "Djedi"
+  },
+  {
+   "shot": "S18",
+   "at": "Nefer"
+  },
+  {
+   "shot": "S19",
+   "at": "man"
+  },
+  {
+   "shot": "S20",
+   "at": "order"
+  },
+  {
+   "shot": "S21",
+   "at": "sunrise"
+  },
+  {
+   "shot": "S28",
+   "at": "If"
+  },
+  {
+   "shot": "S22",
+   "at": "squeezes"
+  },
+  {
+   "shot": "S23",
+   "at": "camp"
+  },
+  {
+   "shot": "S24",
+   "at": "walks"
+  },
+  {
+   "shot": "S25",
+   "at": "Crack"
+  },
+  {
+   "shot": "S26",
+   "at": "panel"
+  },
+  {
+   "shot": "S27",
+   "at": "Now"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "drone_by": [
+    "a camera drone zipping past the listener very fast, propeller whine doppler pass-by",
+    1.5
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "hall_tone": [
+    "a large stone palace hall ambience, faint echo, braziers crackling softly, no voices",
+    10.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_egypt_tense": [
+    "tense dark ancient Egyptian style underscore, low frame drums, oud and dark strings, suspenseful, instrumental loop",
+    20.0
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "river",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "river",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "river",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "river",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S28"
+   ],
+   [
+    "S28+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "hall_tone",
+    0.35,
+    "onset",
+    "S23"
+   ],
+   [
+    "S23+0",
+    "fire",
+    0.35,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+0",
+    "fire",
+    0.35,
+    "onset",
+    "S25"
+   ],
+   [
+    "S25+0",
+    "fire",
+    0.35,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "fire",
+    0.35,
+    "onset",
+    "S27"
+   ],
+   [
+    "S27+0",
+    "fire",
+    0.35,
+    "onset"
+   ],
+   [
+    "S1+1",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S3+16",
+    "paste_pop",
+    0.4
+   ],
+   [
+    "S3+26",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S6+0",
+    "drone_buzz",
+    0.25,
+    "onset",
+    "S8"
+   ],
+   [
+    "S7+0",
+    "gasp",
+    0.5
+   ],
+   [
+    "S7+12",
+    "land",
+    0.4
+   ],
+   [
+    "S8+36",
+    "laugh_low",
+    0.5
+   ],
+   [
+    "S10+4",
+    "drone_by",
+    0.4
+   ],
+   [
+    "S10+18",
+    "beep",
+    0.5
+   ],
+   [
+    "S11+0",
+    "drone_by",
+    0.6
+   ],
+   [
+    "S12+0",
+    "heartbeat",
+    0.5,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "drone_buzz",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S16+30",
+    "drone_hit",
+    0.35
+   ],
+   [
+    "S19+3",
+    "drone_hit",
+    0.4
+   ],
+   [
+    "S21+3",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S24+0",
+    "step",
+    0.4
+   ],
+   [
+    "S25+0",
+    "crack",
+    0.8
+   ],
+   [
+    "S26+0",
+    "power_off",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

@@ -70,18 +70,689 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "note": "chapter card: THE PROBLEM",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "workers rope a block and look at the drone",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "Hemiunu asks how many it can carry",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "note": "0 blocks",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "note": "one block 2.5 t",
+   "key": 70
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "see-saw: block down, drone up",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "note": "2,800 times heavier",
+   "key": 70
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "note": "2.3 million blocks",
+   "key": 70
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "note": "one block every 2-3 minutes for 20 years",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "you: oops",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "PROBLEM TWO: HEAT",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "note": "rated to 40 C",
+   "key": 70
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "note": "noon, no shade",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "note": "BATTERY TEMPERATURE TOO HIGH",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "fly at dawn and dusk",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "note": "a gust of sand",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "note": "the motors grind",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "note": "a tiny brush",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "note": "charges wear the battery out",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "note": "just a plastic bug",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "note": "dusk, you on a block with the drone",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "note": "Nefer tries words on you",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "note": "written without vowels",
+   "key": 30
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "note": "Nefer teaching you",
+   "key": 30
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "note": "WATER",
+   "key": 14
+  },
+  {
+   "id": "S26",
+   "size": "card",
+   "note": "BREAD",
+   "key": 14
+  },
+  {
+   "id": "S27",
+   "size": "card",
+   "note": "NO",
+   "key": 14
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "note": "the magician steps off the golden boat",
+   "key": 40
+  },
+  {
+   "id": "S29",
+   "size": "close",
+   "note": "Djedi: a god's eye in a box",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S3",
+   "at": "Hemiunu"
+  },
+  {
+   "shot": "S4",
+   "at": "honest"
+  },
+  {
+   "shot": "S5",
+   "at": "One"
+  },
+  {
+   "shot": "S6",
+   "at": "Your"
+  },
+  {
+   "shot": "S7",
+   "at": "almost"
+  },
+  {
+   "shot": "S8",
+   "at": "two"
+  },
+  {
+   "shot": "S9",
+   "at": "To"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S11",
+   "at": "Problem"
+  },
+  {
+   "shot": "S12",
+   "at": "batteries"
+  },
+  {
+   "shot": "S13",
+   "at": "Summer"
+  },
+  {
+   "shot": "S14",
+   "at": "noon"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "sand"
+  },
+  {
+   "shot": "S17",
+   "at": "After"
+  },
+  {
+   "shot": "S18",
+   "at": "clean"
+  },
+  {
+   "shot": "S19",
+   "at": "Problem"
+  },
+  {
+   "shot": "S20",
+   "at": "year"
+  },
+  {
+   "shot": "S21",
+   "at": "Every"
+  },
+  {
+   "shot": "S22",
+   "at": "language"
+  },
+  {
+   "shot": "S23",
+   "at": "alive"
+  },
+  {
+   "shot": "S24",
+   "at": "Nefer"
+  },
+  {
+   "shot": "S25",
+   "at": "Water"
+  },
+  {
+   "shot": "S26",
+   "at": "Bread"
+  },
+  {
+   "shot": "S27",
+   "at": "no"
+  },
+  {
+   "shot": "S28",
+   "at": "people"
+  },
+  {
+   "shot": "S29",
+   "at": "stranger"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "desert_wind": [
+    "hot dry desert wind blowing over sand, soft and steady, faint distant work noises, no voices",
+    10.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "m_egypt_tense": [
+    "tense dark ancient Egyptian style underscore, low frame drums, oud and dark strings, suspenseful, instrumental loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "sandstorm": [
+    "a violent sandstorm, howling wind and hissing blowing sand",
+    6.0
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S6+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S9"
+   ],
+   [
+    "S9+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S12"
+   ],
+   [
+    "S12+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "desert_wind",
+    0.3,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+0",
+    "sandstorm",
+    0.5,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "sandstorm",
+    0.5,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S23"
+   ],
+   [
+    "S23+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S25"
+   ],
+   [
+    "S25+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S27"
+   ],
+   [
+    "S27+0",
+    "desert_wind",
+    0.25,
+    "onset",
+    "S28"
+   ],
+   [
+    "S28+0",
+    "river",
+    0.3,
+    "onset",
+    "S29"
+   ],
+   [
+    "S29+0",
+    "river",
+    0.3,
+    "onset"
+   ],
+   [
+    "S1+1",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S2+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S3"
+   ],
+   [
+    "S4+3",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S5+44",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S6+8",
+    "land",
+    0.6
+   ],
+   [
+    "S7+44",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S8+44",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S10+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S11+3",
+    "card_hit",
+    0.4
+   ],
+   [
+    "S12+44",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S14+6",
+    "beep",
+    0.5
+   ],
+   [
+    "S14+18",
+    "beep",
+    0.5
+   ],
+   [
+    "S15+0",
+    "drone_buzz",
+    0.15,
+    "onset",
+    "S16"
+   ],
+   [
+    "S17+0",
+    "drone_buzz",
+    0.3,
+    "onset",
+    "S18"
+   ],
+   [
+    "S17+4",
+    "scratch",
+    0.4
+   ],
+   [
+    "S19+0",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "S20+0",
+    "power_off",
+    0.5
+   ],
+   [
+    "S22+20",
+    "pop",
+    0.3
+   ],
+   [
+    "S25+3",
+    "pop",
+    0.4
+   ],
+   [
+    "S26+3",
+    "pop",
+    0.4
+   ],
+   [
+    "S27+3",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S29+30",
+    "drone",
+    0.35
+   ]
+  ],
+  "music": {
+   "clip": "m_egypt_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -10.5
+  }
+ }
 }

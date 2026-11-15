@@ -1,29 +1,507 @@
 {
  "slug": "drone-egypt/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2863,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 42,
+   "t0": 0,
+   "t1": 42,
+   "line": "But here's the problem."
+  },
+  {
+   "shot": "S2",
+   "a": 42,
+   "b": 132,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Everybody now thinks the sky eye can lift stones."
+  },
+  {
+   "shot": "S3",
+   "a": 132,
+   "b": 229,
+   "t0": 0,
+   "t1": 97,
+   "line": "Hemiunu asks you how many blocks it can carry in a day. The"
+  },
+  {
+   "shot": "S4",
+   "a": 229,
+   "b": 277,
+   "t0": 0,
+   "t1": 48,
+   "line": "honest answer is zero."
+  },
+  {
+   "shot": "S5",
+   "a": 277,
+   "b": 368,
+   "t0": 0,
+   "t1": 91,
+   "line": "One block in this pyramid weighs about two and a half tonnes."
+  },
+  {
+   "shot": "S6",
+   "a": 368,
+   "b": 461,
+   "t0": 0,
+   "t1": 93,
+   "line": "Your drone weighs less than one kilo. The stone"
+  },
+  {
+   "shot": "S7",
+   "a": 461,
+   "b": 596,
+   "t0": 0,
+   "t1": 135,
+   "line": "is almost three thousand times heavier than the thing that's supposed to lift it. And there are about"
+  },
+  {
+   "shot": "S8",
+   "a": 596,
+   "b": 655,
+   "t0": 0,
+   "t1": 59,
+   "line": "two point three million blocks."
+  },
+  {
+   "shot": "S9",
+   "a": 655,
+   "b": 842,
+   "t0": 0,
+   "t1": 187,
+   "line": "To finish in twenty years, they have to set one every two or three minutes, ten hours a day, for twenty years."
+  },
+  {
+   "shot": "S10",
+   "a": 842,
+   "b": 900,
+   "t0": 0,
+   "t1": 58,
+   "line": "Your drone is not going to help with that."
+  },
+  {
+   "shot": "S11",
+   "a": 900,
+   "b": 960,
+   "t0": 0,
+   "t1": 60,
+   "line": "Problem two: heat. Your"
+  },
+  {
+   "shot": "S12",
+   "a": 960,
+   "b": 1034,
+   "t0": 0,
+   "t1": 74,
+   "line": "batteries are made to work up to forty degrees."
+  },
+  {
+   "shot": "S13",
+   "a": 1034,
+   "b": 1187,
+   "t0": 0,
+   "t1": 153,
+   "line": "Summer afternoons here are around thirty- five in the shade, and there is no shade in the sky. At"
+  },
+  {
+   "shot": "S14",
+   "a": 1187,
+   "b": 1302,
+   "t0": 0,
+   "t1": 115,
+   "line": "noon the controller flashes a warning. Battery temperature too high."
+  },
+  {
+   "shot": "S15",
+   "a": 1302,
+   "b": 1414,
+   "t0": 0,
+   "t1": 112,
+   "line": "So you can only fly early in the morning and in the evening. And then there's"
+  },
+  {
+   "shot": "S16",
+   "a": 1414,
+   "b": 1511,
+   "t0": 0,
+   "t1": 97,
+   "line": "the sand. It gets into everything, including the motors."
+  },
+  {
+   "shot": "S17",
+   "a": 1511,
+   "b": 1624,
+   "t0": 0,
+   "t1": 113,
+   "line": "After one bad gust, your drone sounds like a coffee grinder. You"
+  },
+  {
+   "shot": "S18",
+   "a": 1624,
+   "b": 1698,
+   "t0": 0,
+   "t1": 74,
+   "line": "clean it with a tiny brush and a lot of hope."
+  },
+  {
+   "shot": "S19",
+   "a": 1698,
+   "b": 1919,
+   "t0": 0,
+   "t1": 221,
+   "line": "Problem three. Every time you charge a battery, it wears out a little. After a few hundred charges, it holds a lot less. A"
+  },
+  {
+   "shot": "S20",
+   "a": 1919,
+   "b": 2018,
+   "t0": 0,
+   "t1": 99,
+   "line": "year, maybe two, and your magic is just a plastic bug."
+  },
+  {
+   "shot": "S21",
+   "a": 2018,
+   "b": 2130,
+   "t0": 0,
+   "t1": 112,
+   "line": "Every flight is one flight closer to the last one. And then there's"
+  },
+  {
+   "shot": "S22",
+   "a": 2130,
+   "b": 2323,
+   "t0": 0,
+   "t1": 193,
+   "line": "the language. Nobody here speaks a word of English, and you don't speak a word of ancient Egyptian. Nobody does anymore. Nobody"
+  },
+  {
+   "shot": "S23",
+   "a": 2323,
+   "b": 2460,
+   "t0": 0,
+   "t1": 137,
+   "line": "alive in your time knows exactly how it sounded, because they wrote it down without the vowels."
+  },
+  {
+   "shot": "S24",
+   "a": 2460,
+   "b": 2554,
+   "t0": 0,
+   "t1": 94,
+   "line": "Nefer is teaching you. So far you know three words."
+  },
+  {
+   "shot": "S25",
+   "a": 2554,
+   "b": 2577,
+   "t0": 0,
+   "t1": 23,
+   "line": "Water."
+  },
+  {
+   "shot": "S26",
+   "a": 2577,
+   "b": 2608,
+   "t0": 0,
+   "t1": 31,
+   "line": "Bread. And"
+  },
+  {
+   "shot": "S27",
+   "a": 2608,
+   "b": 2635,
+   "t0": 0,
+   "t1": 27,
+   "line": "no. And"
+  },
+  {
+   "shot": "S28",
+   "a": 2635,
+   "b": 2747,
+   "t0": 0,
+   "t1": 112,
+   "line": "the people stepping off the golden boat don't know any of that. All they know is that"
+  },
+  {
+   "shot": "S29",
+   "a": 2747,
+   "b": 2863,
+   "t0": 0,
+   "t1": 116,
+   "line": "a stranger has a god's eye in a box, and the king doesn't."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 42,
+   "first": 0,
+   "line": "But here's the problem.",
+   "note": "chapter card: THE PROBLEM"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The catch"
+   "first": 42,
+   "line": "Everybody now thinks the sky eye can lift stones.",
+   "note": "workers rope a block and look at the drone"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 40,
+   "len": 97,
+   "first": 132,
+   "line": "Hemiunu asks you how many blocks it can carry in a day. The",
+   "note": "Hemiunu asks how many it can carry"
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "key": 20,
+   "len": 48,
+   "first": 229,
+   "line": "honest answer is zero.",
+   "note": "0 blocks"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 70,
+   "len": 91,
+   "first": 277,
+   "line": "One block in this pyramid weighs about two and a half tonnes.",
+   "note": "one block 2.5 t"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 93,
+   "first": 368,
+   "line": "Your drone weighs less than one kilo. The stone",
+   "note": "see-saw: block down, drone up"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 70,
+   "len": 135,
+   "first": 461,
+   "line": "is almost three thousand times heavier than the thing that's supposed to lift it. And there are about",
+   "note": "2,800 times heavier"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 70,
+   "len": 59,
+   "first": 596,
+   "line": "two point three million blocks.",
+   "note": "2.3 million blocks"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 60,
+   "len": 187,
+   "first": 655,
+   "line": "To finish in twenty years, they have to set one every two or three minutes, ten hours a day, for twenty years.",
+   "note": "one block every 2-3 minutes for 20 years"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 20,
+   "len": 58,
+   "first": 842,
+   "line": "Your drone is not going to help with that.",
+   "note": "you: oops"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 20,
+   "len": 60,
+   "first": 900,
+   "line": "Problem two: heat. Your",
+   "note": "PROBLEM TWO: HEAT"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 70,
+   "len": 74,
+   "first": 960,
+   "line": "batteries are made to work up to forty degrees.",
+   "note": "rated to 40 C"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 153,
+   "first": 1034,
+   "line": "Summer afternoons here are around thirty- five in the shade, and there is no shade in the sky. At",
+   "note": "noon, no shade"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 30,
+   "len": 115,
+   "first": 1187,
+   "line": "noon the controller flashes a warning. Battery temperature too high.",
+   "note": "BATTERY TEMPERATURE TOO HIGH"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 112,
+   "first": 1302,
+   "line": "So you can only fly early in the morning and in the evening. And then there's",
+   "note": "fly at dawn and dusk"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 97,
+   "first": 1414,
+   "line": "the sand. It gets into everything, including the motors.",
+   "note": "a gust of sand"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "len": 113,
+   "first": 1511,
+   "line": "After one bad gust, your drone sounds like a coffee grinder. You",
+   "note": "the motors grind"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 30,
+   "len": 74,
+   "first": 1624,
+   "line": "clean it with a tiny brush and a lot of hope.",
+   "note": "a tiny brush"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 60,
+   "len": 221,
+   "first": 1698,
+   "line": "Problem three. Every time you charge a battery, it wears out a little. After a few hundred charges, it holds a lot less. A",
+   "note": "charges wear the battery out"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 40,
+   "len": 99,
+   "first": 1919,
+   "line": "year, maybe two, and your magic is just a plastic bug.",
+   "note": "just a plastic bug"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 112,
+   "first": 2018,
+   "line": "Every flight is one flight closer to the last one. And then there's",
+   "note": "dusk, you on a block with the drone"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 193,
+   "first": 2130,
+   "line": "the language. Nobody here speaks a word of English, and you don't speak a word of ancient Egyptian. Nobody does anymore. Nobody",
+   "note": "Nefer tries words on you"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 30,
+   "len": 137,
+   "first": 2323,
+   "line": "alive in your time knows exactly how it sounded, because they wrote it down without the vowels.",
+   "note": "written without vowels"
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "key": 30,
+   "len": 94,
+   "first": 2460,
+   "line": "Nefer is teaching you. So far you know three words.",
+   "note": "Nefer teaching you"
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "key": 14,
+   "len": 23,
+   "first": 2554,
+   "line": "Water.",
+   "note": "WATER"
+  },
+  {
+   "id": "S26",
+   "size": "card",
+   "key": 14,
+   "len": 31,
+   "first": 2577,
+   "line": "Bread. And",
+   "note": "BREAD"
+  },
+  {
+   "id": "S27",
+   "size": "card",
+   "key": 14,
+   "len": 27,
+   "first": 2608,
+   "line": "no. And",
+   "note": "NO"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "key": 40,
+   "len": 112,
+   "first": 2635,
+   "line": "the people stepping off the golden boat don't know any of that. All they know is that",
+   "note": "the magician steps off the golden boat"
+  },
+  {
+   "id": "S29",
+   "size": "close",
+   "key": 40,
+   "len": 116,
+   "first": 2747,
+   "line": "a stranger has a god's eye in a box, and the king doesn't.",
+   "note": "Djedi: a god's eye in a box"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "drone-egypt/c04/voice.wav"
+ }
 }
