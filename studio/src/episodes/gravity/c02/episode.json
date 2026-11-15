@@ -41,22 +41,128 @@
  "shots": [
   {
    "id": "S1",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Earth pulls twice as hard at seven",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "wide pan",
+   "set": "street day",
+   "note": "everywhere at once: people bent over in the street",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "same size, just pulling harder",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the ladder: 2, 4, 8, 16",
+   "key": 290
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "you, your backpack, the dog, the air: x2",
+   "key": 190
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "bathroom",
+   "note": "Mom on the scale: the number doubles",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Mom steps off, never mentions it",
+   "key": 30
+  },
+  {
+   "id": "S8",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "set": "living",
+   "note": "you on the floor, the TV still on",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "one way: up, x2 x2 x2",
+   "key": 160
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "street day",
+   "note": "10:00 ?",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Everywhere"
+  },
+  {
+   "shot": "S3",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S4",
+   "at": "And"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "mom"
+  },
+  {
+   "shot": "S7",
+   "at": "She#2"
+  },
+  {
+   "shot": "S8",
+   "at": "Some"
+  },
+  {
+   "shot": "S9",
+   "at": "remember"
+  },
+  {
+   "shot": "S10",
+   "at": "That's"
   }
  ],
- "end": "f:90",
- "fx": [],
+ "fx": [
+  {
+   "at": "S10+3",
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.25
+  }
+ ],
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "tail": 1.4
 }

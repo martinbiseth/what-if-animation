@@ -1,29 +1,191 @@
 {
  "slug": "gravity/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1698,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 136,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 136,
+   "line": "Here's how it works. At exactly seven, gravity got twice as strong."
+  },
+  {
+   "shot": "S2",
+   "a": 136,
+   "b": 288,
+   "t0": 0,
+   "t1": 152,
+   "line": "Everywhere on Earth. Every city, every ocean, every mountain, at the same second."
+  },
+  {
+   "shot": "S3",
+   "a": 288,
+   "b": 471,
+   "t0": 0,
+   "t1": 183,
+   "line": "Nobody knows why. There was no flash, no sound. The Earth didn't get bigger. It's just pulling harder."
+  },
+  {
+   "shot": "S4",
+   "a": 471,
+   "b": 773,
+   "t0": 0,
+   "t1": 302,
+   "line": "And it's not done. On the hour, every hour, it doubles. Two times normal at seven. Four times at eight. Eight times at nine. Sixteen times at ten."
+  },
+  {
+   "shot": "S5",
+   "a": 773,
+   "b": 976,
+   "t0": 0,
+   "t1": 203,
+   "line": "You weigh what you weigh times that number. Your backpack too. Your dog too. The air above your head too. Your"
+  },
+  {
+   "shot": "S6",
+   "a": 976,
+   "b": 1081,
+   "t0": 0,
+   "t1": 105,
+   "line": "mom steps on the bathroom scale. She looks at the number."
+  },
+  {
+   "shot": "S7",
+   "a": 1081,
+   "b": 1162,
+   "t0": 0,
+   "t1": 81,
+   "line": "She steps off, and never mentions it again."
+  },
+  {
+   "shot": "S8",
+   "a": 1162,
+   "b": 1411,
+   "t0": 0,
+   "t1": 249,
+   "line": "Some things don't change. Light still works. Your phone still works. The TV still works, so at least you can watch everyone else panic. So"
+  },
+  {
+   "shot": "S9",
+   "a": 1411,
+   "b": 1584,
+   "t0": 0,
+   "t1": 173,
+   "line": "remember the rule. It only goes one way. Up. Double, double, double, every sixty minutes."
+  },
+  {
+   "shot": "S10",
+   "a": 1584,
+   "b": 1698,
+   "t0": 0,
+   "t1": 114,
+   "line": "That's what everyone believes. Until ten o'clock."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "graphic",
+   "key": 40,
+   "len": 136,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's how it works. At exactly seven, gravity got twice as strong.",
+   "note": "the Earth pulls twice as hard at seven"
+  },
+  {
+   "id": "S2",
+   "size": "wide pan",
+   "key": 40,
+   "len": 152,
+   "first": 136,
+   "line": "Everywhere on Earth. Every city, every ocean, every mountain, at the same second.",
+   "note": "everywhere at once: people bent over in the street"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 40,
+   "len": 183,
+   "first": 288,
+   "line": "Nobody knows why. There was no flash, no sound. The Earth didn't get bigger. It's just pulling harder.",
+   "note": "same size, just pulling harder"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 290,
+   "len": 302,
+   "first": 471,
+   "line": "And it's not done. On the hour, every hour, it doubles. Two times normal at seven. Four times at eight. Eight times at nine. Sixteen times at ten.",
+   "note": "the ladder: 2, 4, 8, 16"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 190,
+   "len": 203,
+   "first": 773,
+   "line": "You weigh what you weigh times that number. Your backpack too. Your dog too. The air above your head too. Your",
+   "note": "you, your backpack, the dog, the air: x2"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "len": 105,
+   "first": 976,
+   "line": "mom steps on the bathroom scale. She looks at the number.",
+   "note": "Mom on the scale: the number doubles"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 30,
+   "len": 81,
+   "first": 1081,
+   "line": "She steps off, and never mentions it again.",
+   "note": "Mom steps off, never mentions it"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 60,
+   "len": 249,
+   "first": 1162,
+   "line": "Some things don't change. Light still works. Your phone still works. The TV still works, so at least you can watch everyone else panic. So",
+   "note": "you on the floor, the TV still on"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 160,
+   "len": 173,
+   "first": 1411,
+   "line": "remember the rule. It only goes one way. Up. Double, double, double, every sixty minutes.",
+   "note": "one way: up, x2 x2 x2"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 30,
+   "len": 114,
+   "first": 1584,
+   "line": "That's what everyone believes. Until ten o'clock.",
+   "note": "10:00 ?"
   }
  ],
- "fx": [],
- "audio": {}
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.25,
+   "f": 1587
+  }
+ ],
+ "audio": {
+  "voice": "gravity/c02/voice.wav"
+ }
 }

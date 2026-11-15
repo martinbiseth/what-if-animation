@@ -65,18 +65,222 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "size": "big word",
+   "set": "living",
+   "note": "7:15 AM, THE FIRST HOUR",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "living",
+   "note": "you jump: half as high",
+   "key": 24
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "living",
+   "note": "Ellie jumps and lands on her butt",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "living",
+   "note": "Ellie on her back laughing",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mom drops a spoon: CLANG",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "drop test: 1G vs 2G, 30% sooner",
+   "key": 70
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "living",
+   "note": "Ellie with her balloon",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "living ceiling",
+   "note": "the balloon rockets up: BONK",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "heavier air pushes up harder, THAT'S REAL",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "the kettle that takes forever",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "120 °C",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "split",
+   "set": "phone call",
+   "note": "Mo calls: BRO. LOOK OUTSIDE.",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "set": "street day",
+   "note": "everyone waddles, Mr. Patel vs the trash can",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "wide pan",
+   "set": "street day",
+   "note": "skateboard at double speed",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "street day",
+   "note": "Mo stuck halfway up his ladder",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "street day",
+   "note": "Mo: my hair is heavy",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the clock clicks to 7:59",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "living",
+   "note": "everybody stops laughing",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "air pressure x2 presses on the pot",
+   "key": 50
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "little"
+  },
+  {
+   "shot": "S4",
+   "at": "Mostly"
+  },
+  {
+   "shot": "S5",
+   "at": "Your"
+  },
+  {
+   "shot": "S6",
+   "at": "Everything"
+  },
+  {
+   "shot": "S7",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S8",
+   "at": "It"
+  },
+  {
+   "shot": "S9",
+   "at": "That's"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S19",
+   "at": "The"
+  },
+  {
+   "shot": "S11",
+   "at": "Like"
+  },
+  {
+   "shot": "S12",
+   "at": "Your"
+  },
+  {
+   "shot": "S13",
+   "at": "Outside"
+  },
+  {
+   "shot": "S14",
+   "at": "A"
+  },
+  {
+   "shot": "S15",
+   "at": "Mo"
+  },
+  {
+   "shot": "S16",
+   "at": "This"
+  },
+  {
+   "shot": "S17",
+   "at": "Then"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S8+20",
+   "kind": "shake",
+   "len": 6,
+   "amp": 8
+  }
+ ]
 }

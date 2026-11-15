@@ -385,3 +385,9 @@ export const setShot = (Set: SetFC, cam: [number, number, number], cam1?: [numbe
 };
 
 export { Schematic, SCH, SchLabel, DrawOn, Bokeh, Foreground, LEG_LEN };
+
+/** A camera shake as an SVG transform string (the engine's shake() gives {x, y}). */
+export const shk = (t: number, from: number, len = 8, amp = 10) => {
+  const k = t >= from && t < from + len ? 1 - (t - from) / len : 0;
+  return `translate(${Math.sin(t * 2.9) * amp * k} ${Math.cos(t * 3.7) * amp * 0.7 * k})`;
+};

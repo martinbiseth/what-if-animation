@@ -3,7 +3,7 @@ import {
   Hero, Pose, basePose, poseAt, faceAt, kf, camT, clamp, easeOut, easeIn, backOut, shake, ShotProps, idleBlink, Glow, FONT,
   Kitchen, KITCHEN, KitchenIsland, stand, Bedroom, BEDROOM, BedDuvet, bedSit, AlarmClock, TitleCard, Smartphone, rnd, LEG_LEN,
 } from '../../../engine';
-import { YOU, MOM, Soft, wordF, faceCU, Dog, Pigeon, PoolYard, YARD, WallDial, gCard, phoneG, Body, lie, heavy } from '../common';
+import { YOU, MOM, Soft, wordF, faceCU, Dog, Pigeon, PoolYard, YARD, WallDial, gCard, phoneG, Body, lie, heavy, shk } from '../common';
 import { LivingRoom, LIVING } from '../../electricity/sets';
 import words from './words.json';
 
@@ -56,7 +56,7 @@ export const S2: React.FC<ShotProps> = ({ t, len, f }) => {
   const p = t < hit - 6 ? sitPose : t < hit ? { ...sitPose, x: sitPose.x + (fl.x - sitPose.x) * k, y: sitPose.y + (lying.y - sitPose.y) * k, spin: -90 * k, expr: 'shock' as const } : lying;
   const bounce = t >= hit ? Math.max(0, 1 - (t - hit) / 6) : 0;
   return (
-    <g transform={`${shake(t, hit, 8, 14)} ${camT(kf(t, [[0, 900], [len, 920]]), 560, kf(t, [[0, 1.55], [len, 1.65]]))}`}>
+    <g transform={`${shk(t, hit, 8, 14)} ${camT(kf(t, [[0, 900], [len, 920]]), 560, kf(t, [[0, 1.55], [len, 1.65]]))}`}>
       <BED t={t + 160} />
       <Hero look={YOU} pose={{ ...p, squash: bounce * 0.2, blink: idleBlink(t, 2) }} shadow={0} />
       {t < hit - 6 ? <BedDuvet from={0.05} knees={0} /> : <BedDuvet from={0.05} knees={0} />}
@@ -111,7 +111,7 @@ export const S4: React.FC<ShotProps> = ({ t, len, f }) => {
   const rot = 40 * fall;
   const land = t >= smack;
   return (
-    <g transform={shake(t, smack, 8, 18)}>
+    <g transform={shk(t, smack, 8, 18)}>
       <Soft blur={16} dim={0.35}>
         <g transform={camT(940, 600, 1.8)}>
           <BED t={t + 260} />
