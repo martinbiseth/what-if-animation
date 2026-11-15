@@ -470,3 +470,37 @@ export const liftShot = (o: {
 };
 
 export { Hero, basePose, camT, clamp, kf, lerp, rnd, backOut, easeOut, idleBlink, faceAt, FONT, Glow };
+
+/** A big mitten hand, for inserts (the ink cast's hand: dark, with a thumb). `side` 1 = right hand reaching from the left. */
+export const BigHand: React.FC<{ x: number; y: number; s?: number; rot?: number; color?: string; sleeve?: string; flip?: boolean }> = ({ x, y, s = 1, rot = 0, color = '#26232F', sleeve = '#F07A2A', flip = false }) => (
+  <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${flip ? -s : s} ${s})`}>
+    <rect x={-900} y={-70} width={820} height={140} rx={60} fill={sleeve} stroke="#100E16" strokeWidth={8} />
+    <rect x={-160} y={-58} width={90} height={116} fill={color} />
+    <ellipse cx={0} cy={0} rx={110} ry={92} fill={color} stroke="#100E16" strokeWidth={8} />
+    <ellipse cx={-10} cy={-86} rx={34} ry={50} transform="rotate(-30 -10 -86)" fill={color} stroke="#100E16" strokeWidth={8} />
+  </g>
+);
+
+/** A day caption popping in at the top left (cold open: MONDAY, TUESDAY...). */
+export const DayTag: React.FC<{ t: number; text: string; sub?: string }> = ({ t, text, sub }) => {
+  const p = backOut(clamp((t - 1) / 7));
+  return (
+    <g transform={`translate(80 80) scale(${p})`} opacity={clamp(t / 4)}>
+      <rect x={0} y={0} width={70 + text.length * 34 + (sub ? 40 + sub.length * 24 : 0)} height={92} rx={46} fill="#0B0816" opacity={0.7} />
+      <text x={36} y={64} fontFamily={FONT.title} fontWeight={800} fontSize={54} fill="#F6EFE3">{text}</text>
+      {sub ? <text x={60 + text.length * 34} y={62} fontFamily={FONT.ui} fontSize={36} fill={POWER}>{sub}</text> : null}
+    </g>
+  );
+};
+
+/** The HUD driven by a list of [second, day] steps (the day changes mid-chapter). Hidden until `hideUntil` frames. */
+export const daySteps = (steps: [number, number][], hideUntil = 20, fps = 30): React.FC<{ f: number; total: number }> => {
+  const Hud: React.FC<{ f: number; total: number }> = ({ f, total }) => {
+    const s = f / fps;
+    const cur = [...steps].reverse().find(([a]) => s >= a);
+    if (!cur) return null;
+    const H = dayHud(cur[1], hideUntil);
+    return <H f={f} total={total} />;
+  };
+  return Hud;
+};

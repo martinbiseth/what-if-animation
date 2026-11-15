@@ -1,29 +1,337 @@
 {
  "slug": "strength-doubles/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1282,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 82,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 82,
+   "line": "Monday. Your mum can't open the pickle jar."
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 119,
+   "t0": 0,
+   "t1": 37,
+   "line": "She hands it to you."
+  },
+  {
+   "shot": "S3",
+   "a": 119,
+   "b": 140,
+   "t0": 0,
+   "t1": 21,
+   "line": "Pop."
+  },
+  {
+   "shot": "S4",
+   "a": 140,
+   "b": 163,
+   "t0": 0,
+   "t1": 23,
+   "line": "Easy."
+  },
+  {
+   "shot": "S5",
+   "a": 163,
+   "b": 242,
+   "t0": 0,
+   "t1": 79,
+   "line": "Tuesday. You close your bedroom door, and"
+  },
+  {
+   "shot": "S6",
+   "a": 242,
+   "b": 291,
+   "t0": 0,
+   "t1": 49,
+   "line": "the handle comes off in your hand."
+  },
+  {
+   "shot": "S7",
+   "a": 291,
+   "b": 400,
+   "t0": 0,
+   "t1": 109,
+   "line": "Thursday. Mo kicks the football onto the garage roof. You"
+  },
+  {
+   "shot": "S8",
+   "a": 400,
+   "b": 462,
+   "t0": 0,
+   "t1": 62,
+   "line": "throw your schoolbag up to knock it down."
+  },
+  {
+   "shot": "S9",
+   "a": 462,
+   "b": 518,
+   "t0": 0,
+   "t1": 56,
+   "line": "The bag goes straight through the roof."
+  },
+  {
+   "shot": "S10",
+   "a": 518,
+   "b": 600,
+   "t0": 0,
+   "t1": 82,
+   "line": "Saturday. The ball rolls under Dad's car."
+  },
+  {
+   "shot": "S11",
+   "a": 600,
+   "b": 667,
+   "t0": 0,
+   "t1": 67,
+   "line": "So you lift the car. With one hand."
+  },
+  {
+   "shot": "S12",
+   "a": 667,
+   "b": 713,
+   "t0": 0,
+   "t1": 46,
+   "line": "Dad drops his coffee."
+  },
+  {
+   "shot": "S13",
+   "a": 713,
+   "b": 821,
+   "t0": 0,
+   "t1": 108,
+   "line": "Day ten. Mo goes for a high five, and you stop."
+  },
+  {
+   "shot": "S14",
+   "a": 821,
+   "b": 884,
+   "t0": 0,
+   "t1": 63,
+   "line": "Your hand freezes an inch from his."
+  },
+  {
+   "shot": "S15",
+   "a": 884,
+   "b": 971,
+   "t0": 0,
+   "t1": 87,
+   "line": "Because you know exactly what would happen if you touched him."
+  },
+  {
+   "shot": "S16",
+   "a": 971,
+   "b": 1045,
+   "t0": 0,
+   "t1": 74,
+   "line": "Every morning at six, when your alarm goes off, your"
+  },
+  {
+   "shot": "S17",
+   "a": 1045,
+   "b": 1079,
+   "t0": 0,
+   "t1": 34,
+   "line": "strength doubles."
+  },
+  {
+   "shot": "S18",
+   "a": 1079,
+   "b": 1153,
+   "t0": 0,
+   "t1": 74,
+   "line": "It never stops. It never goes back."
+  },
+  {
+   "shot": "S19",
+   "a": 1153,
+   "b": 1282,
+   "t0": 0,
+   "t1": 129,
+   "line": "So what would actually happen to you if your strength doubled every single day?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "key": 20,
+   "len": 82,
+   "first": 0,
+   "line": "Monday. Your mum can't open the pickle jar.",
+   "note": "Monday: Mum straining at the pickle jar"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 14,
+   "len": 37,
+   "first": 82,
+   "line": "She hands it to you.",
+   "note": "the jar handed across"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 10,
+   "len": 21,
+   "first": 119,
+   "line": "Pop.",
+   "note": "pop: the lid flies off"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 14,
+   "len": 23,
+   "first": 140,
+   "line": "Easy.",
+   "note": "easy: you smug, Mum stunned"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 10,
+   "len": 79,
+   "first": 163,
+   "line": "Tuesday. You close your bedroom door, and",
+   "note": "you swing the bedroom door shut"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 12,
+   "len": 49,
+   "first": 242,
+   "line": "the handle comes off in your hand.",
+   "note": "the handle comes off in your hand"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 28,
+   "len": 109,
+   "first": 291,
+   "line": "Thursday. Mo kicks the football onto the garage roof. You",
+   "note": "Mo kicks the ball onto the garage roof"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 12,
+   "len": 62,
+   "first": 400,
+   "line": "throw your schoolbag up to knock it down.",
+   "note": "you throw your schoolbag up"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 10,
+   "len": 56,
+   "first": 462,
+   "line": "The bag goes straight through the roof.",
+   "note": "the bag goes through the roof; Mo shocked"
+  },
+  {
+   "id": "S10",
+   "size": "low",
+   "key": 20,
+   "len": 82,
+   "first": 518,
+   "line": "Saturday. The ball rolls under Dad's car.",
+   "note": "the ball rolls under Dad's car"
+  },
+  {
+   "id": "S11",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 67,
+   "first": 600,
+   "line": "So you lift the car. With one hand.",
+   "note": "you lift the car with one hand"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 10,
+   "len": 46,
+   "first": 667,
+   "line": "Dad drops his coffee.",
+   "note": "Dad drops his coffee"
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "key": 12,
+   "len": 108,
+   "first": 713,
+   "line": "Day ten. Mo goes for a high five, and you stop.",
+   "note": "day ten: Mo goes for a high five"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 10,
+   "len": 63,
+   "first": 821,
+   "line": "Your hand freezes an inch from his.",
+   "note": "two hands an inch apart"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 30,
+   "len": 87,
+   "first": 884,
+   "line": "Because you know exactly what would happen if you touched him.",
+   "note": "you know what would happen (thought bubble)"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 10,
+   "len": 74,
+   "first": 971,
+   "line": "Every morning at six, when your alarm goes off, your",
+   "note": "alarm clock 06:00"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 14,
+   "len": 34,
+   "first": 1045,
+   "line": "strength doubles.",
+   "note": "x2"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 40,
+   "len": 74,
+   "first": 1079,
+   "line": "It never stops. It never goes back.",
+   "note": "the ladder: it never stops"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 129,
+   "first": 1153,
+   "line": "So what would actually happen to you if your strength doubled every single day?",
+   "note": "you looking at your hands: the question"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c01/voice.wav"
+ }
 }

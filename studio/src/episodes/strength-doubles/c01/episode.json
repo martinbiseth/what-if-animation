@@ -33,19 +33,197 @@
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "key": 20,
+   "note": "Monday: Mum straining at the pickle jar"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 14,
+   "note": "the jar handed across"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 10,
+   "note": "pop: the lid flies off"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 14,
+   "note": "easy: you smug, Mum stunned"
+  },
+  {
+   "id": "S5",
    "size": "wide",
-   "set": "rooftop",
+   "key": 10,
+   "note": "you swing the bedroom door shut"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 12,
+   "note": "the handle comes off in your hand"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 28,
+   "note": "Mo kicks the ball onto the garage roof"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 12,
+   "note": "you throw your schoolbag up"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 10,
+   "note": "the bag goes through the roof; Mo shocked"
+  },
+  {
+   "id": "S10",
+   "size": "low",
+   "key": 20,
+   "note": "the ball rolls under Dad's car"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
    "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "you lift the car with one hand"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 10,
+   "note": "Dad drops his coffee"
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "key": 12,
+   "note": "day ten: Mo goes for a high five"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 10,
+   "note": "two hands an inch apart"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 30,
+   "note": "you know what would happen (thought bubble)"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 10,
+   "note": "alarm clock 06:00"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 14,
+   "note": "x2"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 40,
+   "note": "the ladder: it never stops"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "note": "you looking at your hands: the question"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "She"
+  },
+  {
+   "shot": "S3",
+   "at": "Pop"
+  },
+  {
+   "shot": "S4",
+   "at": "Easy"
+  },
+  {
+   "shot": "S5",
+   "at": "Tuesday"
+  },
+  {
+   "shot": "S6",
+   "at": "handle"
+  },
+  {
+   "shot": "S7",
+   "at": "Thursday"
+  },
+  {
+   "shot": "S8",
+   "at": "throw"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "Saturday"
+  },
+  {
+   "shot": "S11",
+   "at": "So"
+  },
+  {
+   "shot": "S12",
+   "at": "Dad"
+  },
+  {
+   "shot": "S13",
+   "at": "Day"
+  },
+  {
+   "shot": "S14",
+   "at": "Your"
+  },
+  {
+   "shot": "S15",
+   "at": "Because"
+  },
+  {
+   "shot": "S16",
+   "at": "Every"
+  },
+  {
+   "shot": "S17",
+   "at": "strength"
+  },
+  {
+   "shot": "S18",
+   "at": "It"
+  },
+  {
+   "shot": "S19",
+   "at": "So"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
