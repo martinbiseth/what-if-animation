@@ -502,6 +502,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "drone-egypt/c04/voice.wav"
+  "voice": "drone-egypt/c04/voice.wav",
+  "sfx": "drone-egypt/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3492,
+  "music": "drone-egypt/c04/music.wav",
+  "musicVol": 0.1987
  }
 }

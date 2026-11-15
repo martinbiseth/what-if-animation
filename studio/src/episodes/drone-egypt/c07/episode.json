@@ -251,105 +251,105 @@
    [
     "S2+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S3"
    ],
    [
     "S3+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S4"
    ],
    [
     "S4+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S5"
    ],
    [
     "S5+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S6"
    ],
    [
     "S6+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S7"
    ],
    [
     "S7+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S8"
    ],
    [
     "S8+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S9"
    ],
    [
     "S9+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S10"
    ],
    [
     "S10+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S11"
    ],
    [
     "S11+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S12"
    ],
    [
     "S12+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S13"
    ],
    [
     "S13+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S14"
    ],
    [
     "S14+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S15"
    ],
    [
     "S15+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset",
     "S16"
    ],
    [
     "S16+0",
     "desert_wind",
-    0.28,
+    0.154,
     "onset"
    ],
    [
@@ -451,7 +451,7 @@
    "until": "S10"
   },
   "levels": {
-   "sfx_lu": -1.0,
+   "sfx_lu": -5.0,
    "music_lu": -10.5
   }
  }

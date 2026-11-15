@@ -421,203 +421,203 @@
    [
     "S1+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S2"
    ],
    [
     "S2+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S3"
    ],
    [
     "S3+0",
     "sandstorm",
-    0.5,
+    0.275,
     "onset",
     "S4"
    ],
    [
     "S4+0",
     "sandstorm",
-    0.5,
+    0.275,
     "onset",
     "S5"
    ],
    [
     "S5+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S6"
    ],
    [
     "S6+0",
     "night_desert",
-    0.4,
+    0.22,
     "onset",
     "S7"
    ],
    [
     "S7+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S8"
    ],
    [
     "S8+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S9"
    ],
    [
     "S9+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S10"
    ],
    [
     "S10+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S11"
    ],
    [
     "S11+0",
     "fire",
-    0.35,
+    0.193,
     "onset",
     "S12"
    ],
    [
     "S12+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S13"
    ],
    [
     "S13+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S28"
    ],
    [
     "S28+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S29"
    ],
    [
     "S29+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S14"
    ],
    [
     "S14+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S15"
    ],
    [
     "S15+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S16"
    ],
    [
     "S16+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S17"
    ],
    [
     "S17+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S18"
    ],
    [
     "S18+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S19"
    ],
    [
     "S19+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S20"
    ],
    [
     "S20+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S21"
    ],
    [
     "S21+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S22"
    ],
    [
     "S22+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S23"
    ],
    [
     "S23+0",
     "night_desert",
-    0.35,
+    0.193,
     "onset",
     "S24"
    ],
    [
     "S24+0",
     "fire",
-    0.3,
+    0.165,
     "onset",
     "S25"
    ],
    [
     "S25+0",
     "fire",
-    0.3,
+    0.165,
     "onset",
     "S26"
    ],
    [
     "S26+0",
     "fire",
-    0.3,
+    0.165,
     "onset",
     "S27"
    ],
    [
     "S27+0",
     "fire",
-    0.3,
+    0.165,
     "onset"
    ],
    [
@@ -692,7 +692,7 @@
    [
     "S24+0",
     "drone_buzz",
-    0.35,
+    0.193,
     "onset",
     "S26"
    ],
@@ -717,7 +717,7 @@
    "loop": true
   },
   "levels": {
-   "sfx_lu": -1.0,
+   "sfx_lu": -5.0,
    "music_lu": -10.5
   }
  }

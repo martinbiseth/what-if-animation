@@ -298,6 +298,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "drone-egypt/c02/voice.wav"
+  "voice": "drone-egypt/c02/voice.wav",
+  "sfx": "drone-egypt/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4499,
+  "music": "drone-egypt/c02/music.wav",
+  "musicVol": 0.1343
  }
 }
