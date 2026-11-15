@@ -52,19 +52,205 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "key": 20,
+   "note": "black, your eyes open, frost on your nose"
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": "the dark longhouse, smoke under the roof"
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": "a cow breathing on your face"
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": "reveal: it is a cow"
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": "phone 14% then black"
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": "phone battery just quits"
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": "Ketil leans in, red beard"
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": "he hands you a bowl"
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": "Ketil talks, you listen"
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": "probably"
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": "inland Norway, night, northern lights"
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": "JANUARY"
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": "AD 900"
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": "outside the door: -30°C"
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": "no heater"
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": "no electricity"
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": "no hot shower"
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": "no idea"
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": "the family by the fire"
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": "wood, wool and fire"
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": "one day to find out"
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": "snowstorm: the cold will not wait"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "It's"
+  },
+  {
+   "shot": "S3",
+   "at": "warm"
+  },
+  {
+   "shot": "S4",
+   "at": "It's"
+  },
+  {
+   "shot": "S5",
+   "at": "pull"
+  },
+  {
+   "shot": "S6",
+   "at": "In"
+  },
+  {
+   "shot": "S7",
+   "at": "man"
+  },
+  {
+   "shot": "S8",
+   "at": "hands"
+  },
+  {
+   "shot": "S9",
+   "at": "says"
+  },
+  {
+   "shot": "S10",
+   "at": "Probably"
+  },
+  {
+   "shot": "S11",
+   "at": "This"
+  },
+  {
+   "shot": "S12",
+   "at": "January"
+  },
+  {
+   "shot": "S13",
+   "at": "The"
+  },
+  {
+   "shot": "S14",
+   "at": "outside"
+  },
+  {
+   "shot": "S15",
+   "at": "No"
+  },
+  {
+   "shot": "S16",
+   "at": "No"
+  },
+  {
+   "shot": "S17",
+   "at": "No"
+  },
+  {
+   "shot": "S18",
+   "at": "No"
+  },
+  {
+   "shot": "S19",
+   "at": "So"
+  },
+  {
+   "shot": "S22",
+   "at": "nothing"
+  },
+  {
+   "shot": "S20",
+   "at": "You"
+  },
+  {
+   "shot": "S21",
+   "at": "if"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,

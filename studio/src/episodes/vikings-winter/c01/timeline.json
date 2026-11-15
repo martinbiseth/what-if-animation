@@ -1,29 +1,388 @@
 {
  "slug": "vikings-winter/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1394,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 60,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 60,
+   "line": "You wake up, and you can't feel your nose."
+  },
+  {
+   "shot": "S2",
+   "a": 60,
+   "b": 190,
+   "t0": 0,
+   "t1": 130,
+   "line": "It's dark. It smells like smoke, and wet wool, and something worse. Something"
+  },
+  {
+   "shot": "S3",
+   "a": 190,
+   "b": 255,
+   "t0": 0,
+   "t1": 65,
+   "line": "warm and huge is breathing on your face."
+  },
+  {
+   "shot": "S4",
+   "a": 255,
+   "b": 293,
+   "t0": 0,
+   "t1": 38,
+   "line": "It's a cow. You"
+  },
+  {
+   "shot": "S5",
+   "a": 293,
+   "b": 405,
+   "t0": 0,
+   "t1": 112,
+   "line": "pull out your phone. Fourteen percent. Then the screen goes black."
+  },
+  {
+   "shot": "S6",
+   "a": 405,
+   "b": 501,
+   "t0": 0,
+   "t1": 96,
+   "line": "In cold this deep, a phone battery just quits. A"
+  },
+  {
+   "shot": "S7",
+   "a": 501,
+   "b": 596,
+   "t0": 0,
+   "t1": 95,
+   "line": "man with a red beard the size of a cat leans over you. He"
+  },
+  {
+   "shot": "S8",
+   "a": 596,
+   "b": 632,
+   "t0": 0,
+   "t1": 36,
+   "line": "hands you a wooden bowl and"
+  },
+  {
+   "shot": "S9",
+   "a": 632,
+   "b": 725,
+   "t0": 0,
+   "t1": 93,
+   "line": "says something you don't understand. It sounds friendly."
+  },
+  {
+   "shot": "S10",
+   "a": 725,
+   "b": 755,
+   "t0": 0,
+   "t1": 30,
+   "line": "Probably."
+  },
+  {
+   "shot": "S11",
+   "a": 755,
+   "b": 802,
+   "t0": 0,
+   "t1": 47,
+   "line": "This is inland Norway."
+  },
+  {
+   "shot": "S12",
+   "a": 802,
+   "b": 829,
+   "t0": 0,
+   "t1": 27,
+   "line": "January."
+  },
+  {
+   "shot": "S13",
+   "a": 829,
+   "b": 876,
+   "t0": 0,
+   "t1": 47,
+   "line": "The year nine hundred. And"
+  },
+  {
+   "shot": "S14",
+   "a": 876,
+   "b": 950,
+   "t0": 0,
+   "t1": 74,
+   "line": "outside that door, it's minus thirty degrees."
+  },
+  {
+   "shot": "S15",
+   "a": 950,
+   "b": 978,
+   "t0": 0,
+   "t1": 28,
+   "line": "No heater."
+  },
+  {
+   "shot": "S16",
+   "a": 978,
+   "b": 1010,
+   "t0": 0,
+   "t1": 32,
+   "line": "No electricity."
+  },
+  {
+   "shot": "S17",
+   "a": 1010,
+   "b": 1042,
+   "t0": 0,
+   "t1": 32,
+   "line": "No hot shower."
+  },
+  {
+   "shot": "S18",
+   "a": 1042,
+   "b": 1085,
+   "t0": 0,
+   "t1": 43,
+   "line": "No idea what you're doing."
+  },
+  {
+   "shot": "S19",
+   "a": 1085,
+   "b": 1159,
+   "t0": 0,
+   "t1": 74,
+   "line": "So how did the Vikings survive winters like this, with"
+  },
+  {
+   "shot": "S22",
+   "a": 1159,
+   "b": 1236,
+   "t0": 0,
+   "t1": 77,
+   "line": "nothing but wood, wool and fire?"
+  },
+  {
+   "shot": "S20",
+   "a": 1236,
+   "b": 1291,
+   "t0": 0,
+   "t1": 55,
+   "line": "You have one day to find out. And"
+  },
+  {
+   "shot": "S21",
+   "a": 1291,
+   "b": 1394,
+   "t0": 0,
+   "t1": 103,
+   "line": "if you get it wrong, the cold won't wait until sunset."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 60,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "You wake up, and you can't feel your nose.",
+   "note": "black, your eyes open, frost on your nose"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 130,
+   "first": 60,
+   "line": "It's dark. It smells like smoke, and wet wool, and something worse. Something",
+   "note": "the dark longhouse, smoke under the roof"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 65,
+   "first": 190,
+   "line": "warm and huge is breathing on your face.",
+   "note": "a cow breathing on your face"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 38,
+   "first": 255,
+   "line": "It's a cow. You",
+   "note": "reveal: it is a cow"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 112,
+   "first": 293,
+   "line": "pull out your phone. Fourteen percent. Then the screen goes black.",
+   "note": "phone 14% then black"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 96,
+   "first": 405,
+   "line": "In cold this deep, a phone battery just quits. A",
+   "note": "phone battery just quits"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 95,
+   "first": 501,
+   "line": "man with a red beard the size of a cat leans over you. He",
+   "note": "Ketil leans in, red beard"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 36,
+   "first": 596,
+   "line": "hands you a wooden bowl and",
+   "note": "he hands you a bowl"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 93,
+   "first": 632,
+   "line": "says something you don't understand. It sounds friendly.",
+   "note": "Ketil talks, you listen"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 30,
+   "first": 725,
+   "line": "Probably.",
+   "note": "probably"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 47,
+   "first": 755,
+   "line": "This is inland Norway.",
+   "note": "inland Norway, night, northern lights"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 27,
+   "first": 802,
+   "line": "January.",
+   "note": "JANUARY"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 47,
+   "first": 829,
+   "line": "The year nine hundred. And",
+   "note": "AD 900"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 876,
+   "line": "outside that door, it's minus thirty degrees.",
+   "note": "outside the door: -30°C"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 28,
+   "first": 950,
+   "line": "No heater.",
+   "note": "no heater"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 32,
+   "first": 978,
+   "line": "No electricity.",
+   "note": "no electricity"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 32,
+   "first": 1010,
+   "line": "No hot shower.",
+   "note": "no hot shower"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 43,
+   "first": 1042,
+   "line": "No idea what you're doing.",
+   "note": "no idea"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 1085,
+   "line": "So how did the Vikings survive winters like this, with",
+   "note": "the family by the fire"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 77,
+   "first": 1159,
+   "line": "nothing but wood, wool and fire?",
+   "note": "wood, wool and fire"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 55,
+   "first": 1236,
+   "line": "You have one day to find out. And",
+   "note": "one day to find out"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 103,
+   "first": 1291,
+   "line": "if you get it wrong, the cold won't wait until sunset.",
+   "note": "snowstorm: the cold will not wait"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c01/voice.wav"
+ }
 }

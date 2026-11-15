@@ -66,18 +66,204 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": ""
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "It's"
+  },
+  {
+   "shot": "S3",
+   "at": "walls"
+  },
+  {
+   "shot": "S4",
+   "at": "roof"
+  },
+  {
+   "shot": "S5",
+   "at": "living"
+  },
+  {
+   "shot": "S6",
+   "at": "Outside"
+  },
+  {
+   "shot": "S7",
+   "at": "Fresh"
+  },
+  {
+   "shot": "S8",
+   "at": "exactly"
+  },
+  {
+   "shot": "S9",
+   "at": "Down"
+  },
+  {
+   "shot": "S10",
+   "at": "heater"
+  },
+  {
+   "shot": "S11",
+   "at": "chimney"
+  },
+  {
+   "shot": "S12",
+   "at": "Your"
+  },
+  {
+   "shot": "S13",
+   "at": "hoodie"
+  },
+  {
+   "shot": "S14",
+   "at": "Along"
+  },
+  {
+   "shot": "S15",
+   "at": "night"
+  },
+  {
+   "shot": "S16",
+   "at": "walk"
+  },
+  {
+   "shot": "S17",
+   "at": "animals"
+  },
+  {
+   "shot": "S18",
+   "at": "resting"
+  },
+  {
+   "shot": "S19",
+   "at": "cow"
+  },
+  {
+   "shot": "S20",
+   "at": "Two"
+  },
+  {
+   "shot": "S21",
+   "at": "Asa"
+  },
+  {
+   "shot": "S22",
+   "at": "this"
   }
  ],
- "end": "f:90",
  "fx": []
 }

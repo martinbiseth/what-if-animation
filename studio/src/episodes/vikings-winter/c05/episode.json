@@ -62,18 +62,285 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "key": 20,
+   "note": ""
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Vikings"
+  },
+  {
+   "shot": "S3",
+   "at": "day#2"
+  },
+  {
+   "shot": "S4",
+   "at": "night"
+  },
+  {
+   "shot": "S5",
+   "at": "Gudrun"
+  },
+  {
+   "shot": "S6",
+   "at": "flat"
+  },
+  {
+   "shot": "S7",
+   "at": "knock"
+  },
+  {
+   "shot": "S8",
+   "at": "This"
+  },
+  {
+   "shot": "S9",
+   "at": "Cod"
+  },
+  {
+   "shot": "S10",
+   "at": "Dried#2"
+  },
+  {
+   "shot": "S11",
+   "at": "To"
+  },
+  {
+   "shot": "S12",
+   "at": "Asa"
+  },
+  {
+   "shot": "S13",
+   "at": "She"
+  },
+  {
+   "shot": "S14",
+   "at": "There's"
+  },
+  {
+   "shot": "S15",
+   "at": "All"
+  },
+  {
+   "shot": "S16",
+   "at": "That's"
+  },
+  {
+   "shot": "S17",
+   "at": "Your"
+  },
+  {
+   "shot": "S18",
+   "at": "Today"
+  },
+  {
+   "shot": "S19",
+   "at": "Fat"
+  },
+  {
+   "shot": "S20",
+   "at": "After"
+  },
+  {
+   "shot": "S21",
+   "at": "straps"
+  },
+  {
+   "shot": "S22",
+   "at": "glides"
+  },
+  {
+   "shot": "S23",
+   "at": "try"
+  },
+  {
+   "shot": "S24",
+   "at": "fall"
+  },
+  {
+   "shot": "S25",
+   "at": "Ketil"
+  },
+  {
+   "shot": "S26",
+   "at": "Then"
+  },
+  {
+   "shot": "S27",
+   "at": "gone"
+  },
+  {
+   "shot": "S28",
+   "at": "People"
+  },
+  {
+   "shot": "S29",
+   "at": "One"
+  },
+  {
+   "shot": "S30",
+   "at": "And"
+  },
+  {
+   "shot": "S31",
+   "at": "light"
   }
  ],
- "end": "f:90",
  "fx": []
 }

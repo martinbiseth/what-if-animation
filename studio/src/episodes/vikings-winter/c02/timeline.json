@@ -1,29 +1,337 @@
 {
  "slug": "vikings-winter/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1465,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 82,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 82,
+   "line": "Here's how this works. You're here for one day."
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 131,
+   "t0": 0,
+   "t1": 49,
+   "line": "Sunrise to sunrise."
+  },
+  {
+   "shot": "S3",
+   "a": 131,
+   "b": 213,
+   "t0": 0,
+   "t1": 82,
+   "line": "Survive until tomorrow morning, and you go home."
+  },
+  {
+   "shot": "S4",
+   "a": 213,
+   "b": 330,
+   "t0": 0,
+   "t1": 117,
+   "line": "That number in the corner is you. Your body runs at thirty- seven degrees."
+  },
+  {
+   "shot": "S5",
+   "a": 330,
+   "b": 415,
+   "t0": 0,
+   "t1": 85,
+   "line": "Drop below thirty- five, and that's hypothermia."
+  },
+  {
+   "shot": "S6",
+   "a": 415,
+   "b": 500,
+   "t0": 0,
+   "t1": 85,
+   "line": "Your hands stop working, then your thinking does. The"
+  },
+  {
+   "shot": "S7",
+   "a": 500,
+   "b": 548,
+   "t0": 0,
+   "t1": 48,
+   "line": "man with the beard is Ketil."
+  },
+  {
+   "shot": "S8",
+   "a": 548,
+   "b": 590,
+   "t0": 0,
+   "t1": 42,
+   "line": "This is his farm. The"
+  },
+  {
+   "shot": "S9",
+   "a": 590,
+   "b": 666,
+   "t0": 0,
+   "t1": 76,
+   "line": "woman with the keys on her belt is Gudrun. The keys"
+  },
+  {
+   "shot": "S10",
+   "a": 666,
+   "b": 752,
+   "t0": 0,
+   "t1": 86,
+   "line": "mean she runs this house, and everybody knows it. And"
+  },
+  {
+   "shot": "S11",
+   "a": 752,
+   "b": 834,
+   "t0": 0,
+   "t1": 82,
+   "line": "the girl staring at your sneakers like they're from another planet is their"
+  },
+  {
+   "shot": "S12",
+   "a": 834,
+   "b": 912,
+   "t0": 0,
+   "t1": 78,
+   "line": "daughter, Asa. Asa is nine."
+  },
+  {
+   "shot": "S13",
+   "a": 912,
+   "b": 1029,
+   "t0": 0,
+   "t1": 117,
+   "line": "She has already decided you're the funniest thing that has ever happened to her. Gudrun"
+  },
+  {
+   "shot": "S14",
+   "a": 1029,
+   "b": 1096,
+   "t0": 0,
+   "t1": 67,
+   "line": "points at the fire in the middle of the floor."
+  },
+  {
+   "shot": "S15",
+   "a": 1096,
+   "b": 1199,
+   "t0": 0,
+   "t1": 103,
+   "line": "She says one thing, slowly, so even you understand."
+  },
+  {
+   "shot": "S16",
+   "a": 1199,
+   "b": 1245,
+   "t0": 0,
+   "t1": 46,
+   "line": "The fire never goes out."
+  },
+  {
+   "shot": "S17",
+   "a": 1245,
+   "b": 1338,
+   "t0": 0,
+   "t1": 93,
+   "line": "Not in the day. Not at night. Not ever."
+  },
+  {
+   "shot": "S18",
+   "a": 1338,
+   "b": 1383,
+   "t0": 0,
+   "t1": 45,
+   "line": "Remember that. Because"
+  },
+  {
+   "shot": "S19",
+   "a": 1383,
+   "b": 1465,
+   "t0": 0,
+   "t1": 82,
+   "line": "tonight, it's going to be your job."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 82,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's how this works. You're here for one day.",
+   "note": "ONE DAY"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 49,
+   "first": 82,
+   "line": "Sunrise to sunrise.",
+   "note": "sunrise over the farm"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 82,
+   "first": 131,
+   "line": "Survive until tomorrow morning, and you go home.",
+   "note": "survive till morning"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 117,
+   "first": 213,
+   "line": "That number in the corner is you. Your body runs at thirty- seven degrees.",
+   "note": "37.0 the number is you"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 85,
+   "first": 330,
+   "line": "Drop below thirty- five, and that's hypothermia.",
+   "note": "35.0 hypothermia"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 85,
+   "first": 415,
+   "line": "Your hands stop working, then your thinking does. The",
+   "note": "hands, then thinking"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 48,
+   "first": 500,
+   "line": "man with the beard is Ketil.",
+   "note": "Ketil name tag"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 42,
+   "first": 548,
+   "line": "This is his farm. The",
+   "note": "his farm"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 76,
+   "first": 590,
+   "line": "woman with the keys on her belt is Gudrun. The keys",
+   "note": "Gudrun name tag"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 86,
+   "first": 666,
+   "line": "mean she runs this house, and everybody knows it. And",
+   "note": "the keys"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 82,
+   "first": 752,
+   "line": "the girl staring at your sneakers like they're from another planet is their",
+   "note": "Asa staring at sneakers"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 78,
+   "first": 834,
+   "line": "daughter, Asa. Asa is nine.",
+   "note": "Asa name tag"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 117,
+   "first": 912,
+   "line": "She has already decided you're the funniest thing that has ever happened to her. Gudrun",
+   "note": "Asa laughs at you"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 67,
+   "first": 1029,
+   "line": "points at the fire in the middle of the floor.",
+   "note": "Gudrun points at fire"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 103,
+   "first": 1096,
+   "line": "She says one thing, slowly, so even you understand.",
+   "note": "she says one thing"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 46,
+   "first": 1199,
+   "line": "The fire never goes out.",
+   "note": "the fire"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 93,
+   "first": 1245,
+   "line": "Not in the day. Not at night. Not ever.",
+   "note": "never goes out, not ever"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 45,
+   "first": 1338,
+   "line": "Remember that. Because",
+   "note": "you, worried"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 82,
+   "first": 1383,
+   "line": "tonight, it's going to be your job.",
+   "note": "tonight: your job"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c02/voice.wav"
+ }
 }

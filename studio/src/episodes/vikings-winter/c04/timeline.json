@@ -1,29 +1,677 @@
 {
  "slug": "vikings-winter/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2884,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 68,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 68,
+   "line": "Ketil hands you a bucket and nods at the door."
+  },
+  {
+   "shot": "S2",
+   "a": 68,
+   "b": 92,
+   "t0": 0,
+   "t1": 24,
+   "line": "Water."
+  },
+  {
+   "shot": "S3",
+   "a": 92,
+   "b": 174,
+   "t0": 0,
+   "t1": 82,
+   "line": "You step outside in your hoodie and your sneakers. The"
+  },
+  {
+   "shot": "S4",
+   "a": 174,
+   "b": 226,
+   "t0": 0,
+   "t1": 52,
+   "line": "air hits you like a wall. You"
+  },
+  {
+   "shot": "S5",
+   "a": 226,
+   "b": 312,
+   "t0": 0,
+   "t1": 86,
+   "line": "breathe in, and the inside of your nose freezes."
+  },
+  {
+   "shot": "S6",
+   "a": 312,
+   "b": 460,
+   "t0": 0,
+   "t1": 148,
+   "line": "That's real. At minus thirty, the moisture in your nose turns to ice in seconds."
+  },
+  {
+   "shot": "S7",
+   "a": 460,
+   "b": 495,
+   "t0": 0,
+   "t1": 35,
+   "line": "Watch the number."
+  },
+  {
+   "shot": "S8",
+   "a": 495,
+   "b": 634,
+   "t0": 0,
+   "t1": 139,
+   "line": "At minus thirty, skin that's left bare can freeze in ten to thirty minutes."
+  },
+  {
+   "shot": "S9",
+   "a": 634,
+   "b": 712,
+   "t0": 0,
+   "t1": 78,
+   "line": "Add a little wind, and it's under ten. You"
+  },
+  {
+   "shot": "S10",
+   "a": 712,
+   "b": 791,
+   "t0": 0,
+   "t1": 79,
+   "line": "last about forty seconds before you run back in."
+  },
+  {
+   "shot": "S11",
+   "a": 791,
+   "b": 887,
+   "t0": 0,
+   "t1": 96,
+   "line": "Gudrun sighs, and dresses you like you're five."
+  },
+  {
+   "shot": "S12",
+   "a": 887,
+   "b": 974,
+   "t0": 0,
+   "t1": 87,
+   "line": "First, a long linen shirt against your skin."
+  },
+  {
+   "shot": "S13",
+   "a": 974,
+   "b": 1014,
+   "t0": 0,
+   "t1": 40,
+   "line": "Then a wool tunic."
+  },
+  {
+   "shot": "S14",
+   "a": 1014,
+   "b": 1062,
+   "t0": 0,
+   "t1": 48,
+   "line": "Wool trousers. Wool"
+  },
+  {
+   "shot": "S15",
+   "a": 1062,
+   "b": 1170,
+   "t0": 0,
+   "t1": 108,
+   "line": "wrapped tight around your legs, from ankle to knee. Wool"
+  },
+  {
+   "shot": "S16",
+   "a": 1170,
+   "b": 1325,
+   "t0": 0,
+   "t1": 155,
+   "line": "socks made with one needle, a technique called needle binding that the Vikings used."
+  },
+  {
+   "shot": "S17",
+   "a": 1325,
+   "b": 1379,
+   "t0": 0,
+   "t1": 54,
+   "line": "Mittens, the same way."
+  },
+  {
+   "shot": "S18",
+   "a": 1379,
+   "b": 1422,
+   "t0": 0,
+   "t1": 43,
+   "line": "Wool is the secret."
+  },
+  {
+   "shot": "S19",
+   "a": 1422,
+   "b": 1611,
+   "t0": 0,
+   "t1": 189,
+   "line": "It can soak up about a third of its own weight in water before it even feels wet, and it keeps you warm while it does."
+  },
+  {
+   "shot": "S20",
+   "a": 1611,
+   "b": 1714,
+   "t0": 0,
+   "t1": 103,
+   "line": "Cotton, like your hoodie, does the opposite. Then a"
+  },
+  {
+   "shot": "S21",
+   "a": 1714,
+   "b": 1808,
+   "t0": 0,
+   "t1": 94,
+   "line": "heavy wool cloak, pinned at the shoulder with a brooch."
+  },
+  {
+   "shot": "S22",
+   "a": 1808,
+   "b": 1838,
+   "t0": 0,
+   "t1": 30,
+   "line": "A fur hat."
+  },
+  {
+   "shot": "S23",
+   "a": 1838,
+   "b": 1927,
+   "t0": 0,
+   "t1": 89,
+   "line": "Leather shoes, which Asa stuffs with dry grass,"
+  },
+  {
+   "shot": "S24",
+   "a": 1927,
+   "b": 1952,
+   "t0": 0,
+   "t1": 25,
+   "line": "giggling."
+  },
+  {
+   "shot": "S25",
+   "a": 1952,
+   "b": 2040,
+   "t0": 0,
+   "t1": 88,
+   "line": "The grass traps air and soaks up sweat."
+  },
+  {
+   "shot": "S26",
+   "a": 2040,
+   "b": 2127,
+   "t0": 0,
+   "t1": 87,
+   "line": "People in the North did this for hundreds of years."
+  },
+  {
+   "shot": "S27",
+   "a": 2127,
+   "b": 2181,
+   "t0": 0,
+   "t1": 54,
+   "line": "You step outside again. The"
+  },
+  {
+   "shot": "S28",
+   "a": 2181,
+   "b": 2221,
+   "t0": 0,
+   "t1": 40,
+   "line": "cold is still there."
+  },
+  {
+   "shot": "S29",
+   "a": 2221,
+   "b": 2319,
+   "t0": 0,
+   "t1": 98,
+   "line": "But now it's outside the clothes, and you're inside them. The"
+  },
+  {
+   "shot": "S30",
+   "a": 2319,
+   "b": 2355,
+   "t0": 0,
+   "t1": 36,
+   "line": "well is frozen."
+  },
+  {
+   "shot": "S31",
+   "a": 2355,
+   "b": 2430,
+   "t0": 0,
+   "t1": 75,
+   "line": "Ketil smashes the ice with an axe. You"
+  },
+  {
+   "shot": "S32",
+   "a": 2430,
+   "b": 2472,
+   "t0": 0,
+   "t1": 42,
+   "line": "fill the bucket. Then"
+  },
+  {
+   "shot": "S33",
+   "a": 2472,
+   "b": 2512,
+   "t0": 0,
+   "t1": 40,
+   "line": "you haul firewood. A"
+  },
+  {
+   "shot": "S34",
+   "a": 2512,
+   "b": 2552,
+   "t0": 0,
+   "t1": 40,
+   "line": "lot of firewood."
+  },
+  {
+   "shot": "S35",
+   "a": 2552,
+   "b": 2636,
+   "t0": 0,
+   "t1": 84,
+   "line": "A farm like this burns through a mountain of it every winter, and every"
+  },
+  {
+   "shot": "S36",
+   "a": 2636,
+   "b": 2685,
+   "t0": 0,
+   "t1": 49,
+   "line": "log was cut by hand."
+  },
+  {
+   "shot": "S37",
+   "a": 2685,
+   "b": 2744,
+   "t0": 0,
+   "t1": 59,
+   "line": "And you have to do all of it fast."
+  },
+  {
+   "shot": "S38",
+   "a": 2744,
+   "b": 2836,
+   "t0": 0,
+   "t1": 92,
+   "line": "Because in January, this far north, the sun is only up for about"
+  },
+  {
+   "shot": "S39",
+   "a": 2836,
+   "b": 2884,
+   "t0": 0,
+   "t1": 48,
+   "line": "five hours."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 68,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Ketil hands you a bucket and nods at the door.",
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 24,
+   "first": 68,
+   "line": "Water.",
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 82,
+   "first": 92,
+   "line": "You step outside in your hoodie and your sneakers. The",
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 52,
+   "first": 174,
+   "line": "air hits you like a wall. You",
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 86,
+   "first": 226,
+   "line": "breathe in, and the inside of your nose freezes.",
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 148,
+   "first": 312,
+   "line": "That's real. At minus thirty, the moisture in your nose turns to ice in seconds.",
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 35,
+   "first": 460,
+   "line": "Watch the number.",
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 139,
+   "first": 495,
+   "line": "At minus thirty, skin that's left bare can freeze in ten to thirty minutes.",
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 78,
+   "first": 634,
+   "line": "Add a little wind, and it's under ten. You",
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 79,
+   "first": 712,
+   "line": "last about forty seconds before you run back in.",
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 96,
+   "first": 791,
+   "line": "Gudrun sighs, and dresses you like you're five.",
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 87,
+   "first": 887,
+   "line": "First, a long linen shirt against your skin.",
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 974,
+   "line": "Then a wool tunic.",
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 48,
+   "first": 1014,
+   "line": "Wool trousers. Wool",
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 108,
+   "first": 1062,
+   "line": "wrapped tight around your legs, from ankle to knee. Wool",
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 155,
+   "first": 1170,
+   "line": "socks made with one needle, a technique called needle binding that the Vikings used.",
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 54,
+   "first": 1325,
+   "line": "Mittens, the same way.",
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 43,
+   "first": 1379,
+   "line": "Wool is the secret.",
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 189,
+   "first": 1422,
+   "line": "It can soak up about a third of its own weight in water before it even feels wet, and it keeps you warm while it does.",
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 103,
+   "first": 1611,
+   "line": "Cotton, like your hoodie, does the opposite. Then a",
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 94,
+   "first": 1714,
+   "line": "heavy wool cloak, pinned at the shoulder with a brooch.",
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 30,
+   "first": 1808,
+   "line": "A fur hat.",
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 20,
+   "len": 89,
+   "first": 1838,
+   "line": "Leather shoes, which Asa stuffs with dry grass,",
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 20,
+   "len": 25,
+   "first": 1927,
+   "line": "giggling.",
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 20,
+   "len": 88,
+   "first": 1952,
+   "line": "The grass traps air and soaks up sweat.",
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "size": "",
+   "key": 20,
+   "len": 87,
+   "first": 2040,
+   "line": "People in the North did this for hundreds of years.",
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "size": "",
+   "key": 20,
+   "len": 54,
+   "first": 2127,
+   "line": "You step outside again. The",
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 2181,
+   "line": "cold is still there.",
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "size": "",
+   "key": 20,
+   "len": 98,
+   "first": 2221,
+   "line": "But now it's outside the clothes, and you're inside them. The",
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "size": "",
+   "key": 20,
+   "len": 36,
+   "first": 2319,
+   "line": "well is frozen.",
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "size": "",
+   "key": 20,
+   "len": 75,
+   "first": 2355,
+   "line": "Ketil smashes the ice with an axe. You",
+   "note": ""
+  },
+  {
+   "id": "S32",
+   "size": "",
+   "key": 20,
+   "len": 42,
+   "first": 2430,
+   "line": "fill the bucket. Then",
+   "note": ""
+  },
+  {
+   "id": "S33",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 2472,
+   "line": "you haul firewood. A",
+   "note": ""
+  },
+  {
+   "id": "S34",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 2512,
+   "line": "lot of firewood.",
+   "note": ""
+  },
+  {
+   "id": "S35",
+   "size": "",
+   "key": 20,
+   "len": 84,
+   "first": 2552,
+   "line": "A farm like this burns through a mountain of it every winter, and every",
+   "note": ""
+  },
+  {
+   "id": "S36",
+   "size": "",
+   "key": 20,
+   "len": 49,
+   "first": 2636,
+   "line": "log was cut by hand.",
+   "note": ""
+  },
+  {
+   "id": "S37",
+   "size": "",
+   "key": 20,
+   "len": 59,
+   "first": 2685,
+   "line": "And you have to do all of it fast.",
+   "note": ""
+  },
+  {
+   "id": "S38",
+   "size": "",
+   "key": 20,
+   "len": 92,
+   "first": 2744,
+   "line": "Because in January, this far north, the sun is only up for about",
+   "note": ""
+  },
+  {
+   "id": "S39",
+   "size": "",
+   "key": 20,
+   "len": 48,
+   "first": 2836,
+   "line": "five hours.",
+   "note": ""
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c04/voice.wav"
+ }
 }

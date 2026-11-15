@@ -48,19 +48,178 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "key": 20,
+   "note": "ONE DAY"
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": "sunrise over the farm"
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": "survive till morning"
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": "37.0 the number is you"
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": "35.0 hypothermia"
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": "hands, then thinking"
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": "Ketil name tag"
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": "his farm"
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": "Gudrun name tag"
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": "the keys"
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": "Asa staring at sneakers"
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": "Asa name tag"
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": "Asa laughs at you"
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": "Gudrun points at fire"
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": "she says one thing"
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": "the fire"
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": "never goes out, not ever"
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": "you, worried"
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": "tonight: your job"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Sunrise"
+  },
+  {
+   "shot": "S3",
+   "at": "Survive"
+  },
+  {
+   "shot": "S4",
+   "at": "That"
+  },
+  {
+   "shot": "S5",
+   "at": "Drop"
+  },
+  {
+   "shot": "S6",
+   "at": "Your"
+  },
+  {
+   "shot": "S7",
+   "at": "man"
+  },
+  {
+   "shot": "S8",
+   "at": "This"
+  },
+  {
+   "shot": "S9",
+   "at": "woman"
+  },
+  {
+   "shot": "S10",
+   "at": "mean"
+  },
+  {
+   "shot": "S11",
+   "at": "girl"
+  },
+  {
+   "shot": "S12",
+   "at": "daughter"
+  },
+  {
+   "shot": "S13",
+   "at": "She"
+  },
+  {
+   "shot": "S14",
+   "at": "points"
+  },
+  {
+   "shot": "S15",
+   "at": "She"
+  },
+  {
+   "shot": "S16",
+   "at": "The"
+  },
+  {
+   "shot": "S17",
+   "at": "Not"
+  },
+  {
+   "shot": "S18",
+   "at": "Remember"
+  },
+  {
+   "shot": "S19",
+   "at": "tonight"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

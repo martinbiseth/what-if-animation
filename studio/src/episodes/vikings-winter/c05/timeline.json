@@ -1,29 +1,541 @@
 {
  "slug": "vikings-winter/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2465,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 73,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 73,
+   "line": "Back inside, it's time to eat. The"
+  },
+  {
+   "shot": "S2",
+   "a": 73,
+   "b": 150,
+   "t0": 0,
+   "t1": 77,
+   "line": "Vikings ate two big meals a day. The"
+  },
+  {
+   "shot": "S3",
+   "a": 150,
+   "b": 196,
+   "t0": 0,
+   "t1": 46,
+   "line": "day meal in the morning, and"
+  },
+  {
+   "shot": "S4",
+   "a": 196,
+   "b": 239,
+   "t0": 0,
+   "t1": 43,
+   "line": "the night meal in the evening."
+  },
+  {
+   "shot": "S5",
+   "a": 239,
+   "b": 297,
+   "t0": 0,
+   "t1": 58,
+   "line": "Gudrun hands you a fish. It's"
+  },
+  {
+   "shot": "S6",
+   "a": 297,
+   "b": 401,
+   "t0": 0,
+   "t1": 104,
+   "line": "flat, grey and hard as a plank of wood. You"
+  },
+  {
+   "shot": "S7",
+   "a": 401,
+   "b": 475,
+   "t0": 0,
+   "t1": 74,
+   "line": "knock it on the table. It knocks back."
+  },
+  {
+   "shot": "S8",
+   "a": 475,
+   "b": 516,
+   "t0": 0,
+   "t1": 41,
+   "line": "This is stockfish."
+  },
+  {
+   "shot": "S9",
+   "a": 516,
+   "b": 679,
+   "t0": 0,
+   "t1": 163,
+   "line": "Cod, hung outside on racks and dried in the cold wind until almost all the water is gone."
+  },
+  {
+   "shot": "S10",
+   "a": 679,
+   "b": 743,
+   "t0": 0,
+   "t1": 64,
+   "line": "Dried like this, it keeps for years."
+  },
+  {
+   "shot": "S11",
+   "a": 743,
+   "b": 827,
+   "t0": 0,
+   "t1": 84,
+   "line": "To eat it, you beat it with a hammer, then soak it."
+  },
+  {
+   "shot": "S12",
+   "a": 827,
+   "b": 869,
+   "t0": 0,
+   "t1": 42,
+   "line": "Asa shows you how."
+  },
+  {
+   "shot": "S13",
+   "a": 869,
+   "b": 930,
+   "t0": 0,
+   "t1": 61,
+   "line": "She is way too good at the hammer part."
+  },
+  {
+   "shot": "S14",
+   "a": 930,
+   "b": 1141,
+   "t0": 0,
+   "t1": 211,
+   "line": "There's barley porridge. Butter. Hard cheese. A thick, sour milk called skyr. Salted meat."
+  },
+  {
+   "shot": "S15",
+   "a": 1141,
+   "b": 1191,
+   "t0": 0,
+   "t1": 50,
+   "line": "All of it heavy with fat."
+  },
+  {
+   "shot": "S16",
+   "a": 1191,
+   "b": 1239,
+   "t0": 0,
+   "t1": 48,
+   "line": "That's not an accident."
+  },
+  {
+   "shot": "S17",
+   "a": 1239,
+   "b": 1366,
+   "t0": 0,
+   "t1": 127,
+   "line": "Your body is a furnace too, and in this cold it burns through fuel fast."
+  },
+  {
+   "shot": "S18",
+   "a": 1366,
+   "b": 1544,
+   "t0": 0,
+   "t1": 178,
+   "line": "Today, modern armies give soldiers working in arctic cold around four and a half thousand calories a day."
+  },
+  {
+   "shot": "S19",
+   "a": 1544,
+   "b": 1626,
+   "t0": 0,
+   "t1": 82,
+   "line": "Fat is the most packed fuel there is."
+  },
+  {
+   "shot": "S20",
+   "a": 1626,
+   "b": 1730,
+   "t0": 0,
+   "t1": 104,
+   "line": "After eating, Asa drags you out to the frozen lake. She"
+  },
+  {
+   "shot": "S21",
+   "a": 1730,
+   "b": 1799,
+   "t0": 0,
+   "t1": 69,
+   "line": "straps on skates made from animal bone, and"
+  },
+  {
+   "shot": "S22",
+   "a": 1799,
+   "b": 1839,
+   "t0": 0,
+   "t1": 40,
+   "line": "glides away. You"
+  },
+  {
+   "shot": "S23",
+   "a": 1839,
+   "b": 1870,
+   "t0": 0,
+   "t1": 31,
+   "line": "try. You"
+  },
+  {
+   "shot": "S24",
+   "a": 1870,
+   "b": 1892,
+   "t0": 0,
+   "t1": 22,
+   "line": "fall."
+  },
+  {
+   "shot": "S25",
+   "a": 1892,
+   "b": 1976,
+   "t0": 0,
+   "t1": 84,
+   "line": "Ketil laughs so hard he has to sit down in the snow."
+  },
+  {
+   "shot": "S26",
+   "a": 1976,
+   "b": 2060,
+   "t0": 0,
+   "t1": 84,
+   "line": "Then he clips on a pair of long wooden skis, and"
+  },
+  {
+   "shot": "S27",
+   "a": 2060,
+   "b": 2122,
+   "t0": 0,
+   "t1": 62,
+   "line": "is gone across the valley in seconds."
+  },
+  {
+   "shot": "S28",
+   "a": 2122,
+   "b": 2218,
+   "t0": 0,
+   "t1": 96,
+   "line": "People in Norway have been skiing for thousands of years."
+  },
+  {
+   "shot": "S29",
+   "a": 2218,
+   "b": 2336,
+   "t0": 0,
+   "t1": 118,
+   "line": "One rock carving of a skier up north is more than four thousand years old."
+  },
+  {
+   "shot": "S30",
+   "a": 2336,
+   "b": 2410,
+   "t0": 0,
+   "t1": 74,
+   "line": "And then, at three in the afternoon, the"
+  },
+  {
+   "shot": "S31",
+   "a": 2410,
+   "b": 2465,
+   "t0": 0,
+   "t1": 55,
+   "line": "light starts to go."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 73,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Back inside, it's time to eat. The",
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 77,
+   "first": 73,
+   "line": "Vikings ate two big meals a day. The",
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 46,
+   "first": 150,
+   "line": "day meal in the morning, and",
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 43,
+   "first": 196,
+   "line": "the night meal in the evening.",
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 58,
+   "first": 239,
+   "line": "Gudrun hands you a fish. It's",
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 104,
+   "first": 297,
+   "line": "flat, grey and hard as a plank of wood. You",
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 401,
+   "line": "knock it on the table. It knocks back.",
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 41,
+   "first": 475,
+   "line": "This is stockfish.",
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 163,
+   "first": 516,
+   "line": "Cod, hung outside on racks and dried in the cold wind until almost all the water is gone.",
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 64,
+   "first": 679,
+   "line": "Dried like this, it keeps for years.",
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 84,
+   "first": 743,
+   "line": "To eat it, you beat it with a hammer, then soak it.",
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 42,
+   "first": 827,
+   "line": "Asa shows you how.",
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 61,
+   "first": 869,
+   "line": "She is way too good at the hammer part.",
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 211,
+   "first": 930,
+   "line": "There's barley porridge. Butter. Hard cheese. A thick, sour milk called skyr. Salted meat.",
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 50,
+   "first": 1141,
+   "line": "All of it heavy with fat.",
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 48,
+   "first": 1191,
+   "line": "That's not an accident.",
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 127,
+   "first": 1239,
+   "line": "Your body is a furnace too, and in this cold it burns through fuel fast.",
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 178,
+   "first": 1366,
+   "line": "Today, modern armies give soldiers working in arctic cold around four and a half thousand calories a day.",
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 82,
+   "first": 1544,
+   "line": "Fat is the most packed fuel there is.",
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 104,
+   "first": 1626,
+   "line": "After eating, Asa drags you out to the frozen lake. She",
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 69,
+   "first": 1730,
+   "line": "straps on skates made from animal bone, and",
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 1799,
+   "line": "glides away. You",
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 20,
+   "len": 31,
+   "first": 1839,
+   "line": "try. You",
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 20,
+   "len": 22,
+   "first": 1870,
+   "line": "fall.",
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 20,
+   "len": 84,
+   "first": 1892,
+   "line": "Ketil laughs so hard he has to sit down in the snow.",
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "size": "",
+   "key": 20,
+   "len": 84,
+   "first": 1976,
+   "line": "Then he clips on a pair of long wooden skis, and",
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "size": "",
+   "key": 20,
+   "len": 62,
+   "first": 2060,
+   "line": "is gone across the valley in seconds.",
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "size": "",
+   "key": 20,
+   "len": 96,
+   "first": 2122,
+   "line": "People in Norway have been skiing for thousands of years.",
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "size": "",
+   "key": 20,
+   "len": 118,
+   "first": 2218,
+   "line": "One rock carving of a skier up north is more than four thousand years old.",
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 2336,
+   "line": "And then, at three in the afternoon, the",
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "size": "",
+   "key": 20,
+   "len": 55,
+   "first": 2410,
+   "line": "light starts to go.",
+   "note": ""
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c05/voice.wav"
+ }
 }

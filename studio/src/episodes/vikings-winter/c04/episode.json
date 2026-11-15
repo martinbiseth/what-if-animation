@@ -74,18 +74,357 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S32",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S33",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S34",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S35",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S36",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S37",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S38",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S39",
+   "key": 20,
+   "note": ""
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Water"
+  },
+  {
+   "shot": "S3",
+   "at": "You"
+  },
+  {
+   "shot": "S4",
+   "at": "air"
+  },
+  {
+   "shot": "S5",
+   "at": "breathe"
+  },
+  {
+   "shot": "S6",
+   "at": "That's"
+  },
+  {
+   "shot": "S7",
+   "at": "Watch"
+  },
+  {
+   "shot": "S8",
+   "at": "At"
+  },
+  {
+   "shot": "S9",
+   "at": "Add"
+  },
+  {
+   "shot": "S10",
+   "at": "last"
+  },
+  {
+   "shot": "S11",
+   "at": "Gudrun"
+  },
+  {
+   "shot": "S12",
+   "at": "First"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Wool#2"
+  },
+  {
+   "shot": "S15",
+   "at": "wrapped"
+  },
+  {
+   "shot": "S16",
+   "at": "socks"
+  },
+  {
+   "shot": "S17",
+   "at": "Mittens"
+  },
+  {
+   "shot": "S18",
+   "at": "Wool"
+  },
+  {
+   "shot": "S19",
+   "at": "It"
+  },
+  {
+   "shot": "S20",
+   "at": "Cotton"
+  },
+  {
+   "shot": "S21",
+   "at": "heavy"
+  },
+  {
+   "shot": "S22",
+   "at": "fur"
+  },
+  {
+   "shot": "S23",
+   "at": "Leather"
+  },
+  {
+   "shot": "S24",
+   "at": "giggling"
+  },
+  {
+   "shot": "S25",
+   "at": "The"
+  },
+  {
+   "shot": "S26",
+   "at": "People"
+  },
+  {
+   "shot": "S27",
+   "at": "You"
+  },
+  {
+   "shot": "S28",
+   "at": "cold"
+  },
+  {
+   "shot": "S29",
+   "at": "But"
+  },
+  {
+   "shot": "S30",
+   "at": "well"
+  },
+  {
+   "shot": "S31",
+   "at": "Ketil"
+  },
+  {
+   "shot": "S32",
+   "at": "fill"
+  },
+  {
+   "shot": "S33",
+   "at": "haul"
+  },
+  {
+   "shot": "S34",
+   "at": "lot"
+  },
+  {
+   "shot": "S35",
+   "at": "farm"
+  },
+  {
+   "shot": "S36",
+   "at": "log"
+  },
+  {
+   "shot": "S37",
+   "at": "And"
+  },
+  {
+   "shot": "S38",
+   "at": "Because"
+  },
+  {
+   "shot": "S39",
+   "at": "five"
   }
  ],
- "end": "f:90",
  "fx": []
 }

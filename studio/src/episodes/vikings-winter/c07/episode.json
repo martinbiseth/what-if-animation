@@ -47,18 +47,231 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "key": 20,
+   "note": ""
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "sun"
+  },
+  {
+   "shot": "S3",
+   "at": "number"
+  },
+  {
+   "shot": "S4",
+   "at": "made"
+  },
+  {
+   "shot": "S5",
+   "at": "Gudrun"
+  },
+  {
+   "shot": "S6",
+   "at": "From"
+  },
+  {
+   "shot": "S7",
+   "at": "She"
+  },
+  {
+   "shot": "S8",
+   "at": "Yours"
+  },
+  {
+   "shot": "S9",
+   "at": "Asa"
+  },
+  {
+   "shot": "S10",
+   "at": "Ketil"
+  },
+  {
+   "shot": "S11",
+   "at": "blink"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "Instead"
+  },
+  {
+   "shot": "S14",
+   "at": "Sand"
+  },
+  {
+   "shot": "S15",
+   "at": "Forty"
+  },
+  {
+   "shot": "S16",
+   "at": "distance"
+  },
+  {
+   "shot": "S17",
+   "at": "half"
+  },
+  {
+   "shot": "S18",
+   "at": "Next"
+  },
+  {
+   "shot": "S19",
+   "at": "But"
+  },
+  {
+   "shot": "S20",
+   "at": "turf"
+  },
+  {
+   "shot": "S21",
+   "at": "All"
+  },
+  {
+   "shot": "S22",
+   "at": "sources"
+  },
+  {
+   "shot": "S23",
+   "at": "So"
+  },
+  {
+   "shot": "S24",
+   "at": "where"
+  },
+  {
+   "shot": "S25",
+   "at": "Tell"
   }
  ],
- "end": "f:90",
  "fx": []
 }

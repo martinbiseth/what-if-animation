@@ -30,7 +30,11 @@ export type Look = {
   face: string;
   hair: string;
   extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
-  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche' | 'helmet' | 'palla' | 'wreath'; // period hats (1920s, ancient Rome), drawn over the hair
+  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche' | 'helmet' | 'palla' | 'wreath' | 'fur' | 'kerchief'; // period hats (1920s, ancient Rome, Viking Norway), drawn over the hair
+  /** Viking Norway: a full beard in this colour, a wool cloak over the shoulders pinned with a round brooch, keys on the belt. */
+  beard?: string;
+  cloak?: string;
+  keys?: boolean;
   hatColor?: string;
   /** Ancient Rome: a belted tunic whose skirt hangs over the thighs ('tunic'), or a toga draped over it ('toga'). */
   robe?: 'tunic' | 'toga' | 'dress';
@@ -99,6 +103,23 @@ const Hat: React.FC<{ kind: NonNullable<Look['hat']>; color: string; line: strin
         <path d={`M -74 ${y - 4} Q -82 ${y - 96} 0 ${y - 100} Q 82 ${y - 96} 74 ${y - 4} Q 70 ${y - 30} 0 ${y - 34} Q -70 ${y - 30} -74 ${y - 4} Z`} fill={color} stroke={line} strokeWidth={sw} />
         <path d={`M -66 ${y - 36} Q 0 ${y - 54} 66 ${y - 36}`} stroke={dark} strokeWidth={10} fill="none" />
         <circle cx={46} cy={y - 46} r={10} fill="#E9DCC0" stroke={line} strokeWidth={3} />
+      </g>
+    );
+  if (kind === 'fur')
+    // a round fur hat pulled down to the brows, a lighter fur band, tufts on top
+    return (
+      <g transform={`translate(${-sx * 0.6} 0)`}>
+        <path d={`M -70 ${y - 22} Q -74 ${y - 104} 0 ${y - 108} Q 74 ${y - 104} 70 ${y - 22} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -76 ${y - 20} Q 0 ${y - 48} 76 ${y - 20} L 74 ${y - 2} Q 0 ${y - 30} -74 ${y - 2} Z`} fill="#D8C2A0" stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -50 ${y - 70} q 10 -8 20 0 M -10 ${y - 88} q 10 -8 20 0 M 28 ${y - 72} q 10 -8 20 0`} stroke={dark} strokeWidth={4} fill="none" strokeLinecap="round" />
+      </g>
+    );
+  if (kind === 'kerchief')
+    // a linen headscarf over the hair, knotted at the nape, a short tail
+    return (
+      <g transform={`translate(${-sx * 0.6} 0)`}>
+        <path d={`M -68 ${y - 4} Q -76 ${y - 92} 0 ${y - 94} Q 76 ${y - 92} 68 ${y - 4} Q 56 ${y - 46} 0 ${y - 50} Q -56 ${y - 46} -68 ${y - 4} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -56 ${y - 44} Q 0 ${y - 66} 56 ${y - 44}`} stroke={dark} strokeWidth={6} fill="none" />
       </g>
     );
   if (kind === 'helmet')
@@ -479,6 +500,19 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
       ) : (
         <path d="M -22 -118 Q 0 -100 22 -118" stroke={L.accent} strokeWidth={6} fill="none" strokeLinecap="round" />
       )}
+      {L.keys ? (
+        <g>
+          <circle cx={-26} cy={-6} r={9} fill="none" stroke="#C8A040" strokeWidth={4} />
+          <path d="M -30 2 L -34 34 M -24 2 L -20 30 M -34 34 l -6 0 M -20 30 l 6 0" stroke="#C8A040" strokeWidth={4} strokeLinecap="round" />
+        </g>
+      ) : null}
+      {L.cloak ? (
+        // a wool cloak over both shoulders, open at the front, pinned on the right shoulder with a round brooch
+        <g>
+          <path d="M -52 -118 Q 0 -132 52 -118 L 60 -40 L 40 -46 L 36 -104 Q 0 -112 -36 -104 L -40 -46 L -60 -40 Z" fill={L.cloak} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          <circle cx={30} cy={-106} r={11} fill="#D8B040" stroke={L.line} strokeWidth={3} />
+        </g>
+      ) : null}
     </g>
   );
   const head = (
@@ -516,6 +550,14 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
         <path transform={`translate(${-pose.yaw * 14} 0)`} d={`M -60 ${HEAD.y - 18} Q -64 ${HEAD.y - 70} 4 ${HEAD.y - 68} Q 64 ${HEAD.y - 64} 60 ${HEAD.y - 18} Q 52 ${HEAD.y - 44} 18 ${HEAD.y - 46} L 12 ${HEAD.y - 54} L 6 ${HEAD.y - 46} Q -44 ${HEAD.y - 46} -60 ${HEAD.y - 18} Z`} fill={L.hair} />
       ) : null}
       <Face expr={pose.expr} blink={pose.blink} look={pose.look} glasses={pose.glasses} yaw={pose.yaw} ink={L.face} glint={pose.glint} glintColor={pose.glintColor} talk={pose.talk} />
+      {L.beard ? (
+        // a full beard from cheek to cheek, the mouth left clear above it, a lighter streak down the middle
+        <g transform={`translate(${pose.yaw * 14} 0)`}>
+          <path d={`M -60 ${HEAD.y + 4} Q -66 ${HEAD.y + 96} -4 ${HEAD.y + 118} Q 4 ${HEAD.y + 122} 12 ${HEAD.y + 116} Q 70 ${HEAD.y + 92} 62 ${HEAD.y + 4} Q 50 ${HEAD.y + 34} 34 ${HEAD.y + 42} Q 4 ${HEAD.y + 52} -28 ${HEAD.y + 42} Q -48 ${HEAD.y + 34} -60 ${HEAD.y + 4} Z`} fill={L.beard} stroke={L.line} strokeWidth={4} strokeLinejoin="round" />
+          <path d={`M -16 ${HEAD.y + 24} Q 4 ${HEAD.y + 16} 24 ${HEAD.y + 24}`} stroke={L.beard} strokeWidth={10} strokeLinecap="round" fill="none" />
+          <path d={`M 2 ${HEAD.y + 62} L 4 ${HEAD.y + 104}`} stroke="#FFFFFF" strokeOpacity={0.22} strokeWidth={6} strokeLinecap="round" />
+        </g>
+      ) : null}
       {L.extra === 'curls'
         ? [-150, -125, -100, -78, -55, -30].map((deg, k) => {
             const a = (deg * Math.PI) / 180;

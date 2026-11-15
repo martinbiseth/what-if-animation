@@ -73,18 +73,357 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S32",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S33",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S34",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S35",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S36",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S37",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S38",
+   "key": 20,
+   "note": ""
+  },
+  {
+   "id": "S39",
+   "key": 20,
+   "note": ""
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Inside"
+  },
+  {
+   "shot": "S3",
+   "at": "lamp"
+  },
+  {
+   "shot": "S4",
+   "at": "smells"
+  },
+  {
+   "shot": "S5",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S6",
+   "at": "So"
+  },
+  {
+   "shot": "S7",
+   "at": "Ketil"
+  },
+  {
+   "shot": "S8",
+   "at": "giant"
+  },
+  {
+   "shot": "S9",
+   "at": "does"
+  },
+  {
+   "shot": "S10",
+   "at": "Gudrun"
+  },
+  {
+   "shot": "S11",
+   "at": "Asa"
+  },
+  {
+   "shot": "S12",
+   "at": "Four"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Everyone"
+  },
+  {
+   "shot": "S15",
+   "at": "Furs"
+  },
+  {
+   "shot": "S16",
+   "at": "every"
+  },
+  {
+   "shot": "S17",
+   "at": "Gudrun"
+  },
+  {
+   "shot": "S18",
+   "at": "Covered"
+  },
+  {
+   "shot": "S19",
+   "at": "Then"
+  },
+  {
+   "shot": "S20",
+   "at": "fire"
+  },
+  {
+   "shot": "S21",
+   "at": "mean"
+  },
+  {
+   "shot": "S22",
+   "at": "When"
+  },
+  {
+   "shot": "S23",
+   "at": "embers"
+  },
+  {
+   "shot": "S24",
+   "at": "breath"
+  },
+  {
+   "shot": "S25",
+   "at": "Asa"
+  },
+  {
+   "shot": "S26",
+   "at": "number"
+  },
+  {
+   "shot": "S27",
+   "at": "remember"
+  },
+  {
+   "shot": "S28",
+   "at": "flint"
+  },
+  {
+   "shot": "S29",
+   "at": "tinder"
+  },
+  {
+   "shot": "S30",
+   "at": "strike"
+  },
+  {
+   "shot": "S31",
+   "at": "again"
+  },
+  {
+   "shot": "S32",
+   "at": "blow"
+  },
+  {
+   "shot": "S33",
+   "at": "flame"
+  },
+  {
+   "shot": "S34",
+   "at": "feed"
+  },
+  {
+   "shot": "S35",
+   "at": "light"
+  },
+  {
+   "shot": "S36",
+   "at": "stops"
+  },
+  {
+   "shot": "S37",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S38",
+   "at": "ever"
+  },
+  {
+   "shot": "S39",
+   "at": "But"
   }
  ],
- "end": "f:90",
  "fx": []
 }

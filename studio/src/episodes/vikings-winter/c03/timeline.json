@@ -1,29 +1,388 @@
 {
  "slug": "vikings-winter/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2313,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 53,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 53,
+   "line": "Let's look at where you just woke up."
+  },
+  {
+   "shot": "S2",
+   "a": 53,
+   "b": 179,
+   "t0": 0,
+   "t1": 126,
+   "line": "It's a longhouse. One single room, about thirty meters long. The"
+  },
+  {
+   "shot": "S3",
+   "a": 179,
+   "b": 233,
+   "t0": 0,
+   "t1": 54,
+   "line": "walls are thick timber. The"
+  },
+  {
+   "shot": "S4",
+   "a": 233,
+   "b": 358,
+   "t0": 0,
+   "t1": 125,
+   "line": "roof is a layer of birch bark, with grass and earth on top. Turf. A"
+  },
+  {
+   "shot": "S5",
+   "a": 358,
+   "b": 498,
+   "t0": 0,
+   "t1": 140,
+   "line": "living roof, about twenty centimeters thick, keeping the heat in like a wool hat."
+  },
+  {
+   "shot": "S6",
+   "a": 498,
+   "b": 641,
+   "t0": 0,
+   "t1": 143,
+   "line": "Outside, the family has shoveled snow up against the walls. On purpose."
+  },
+  {
+   "shot": "S7",
+   "a": 641,
+   "b": 759,
+   "t0": 0,
+   "t1": 118,
+   "line": "Fresh snow can be more than ninety percent trapped air, and trapped air"
+  },
+  {
+   "shot": "S8",
+   "a": 759,
+   "b": 883,
+   "t0": 0,
+   "t1": 124,
+   "line": "is exactly what keeps heat from leaking out. The snow is part of the house."
+  },
+  {
+   "shot": "S9",
+   "a": 883,
+   "b": 1025,
+   "t0": 0,
+   "t1": 142,
+   "line": "Down the middle of the floor runs the long hearth. A fire pit as long as a car. It's"
+  },
+  {
+   "shot": "S10",
+   "a": 1025,
+   "b": 1139,
+   "t0": 0,
+   "t1": 114,
+   "line": "the heater, the stove, and the only light all at once. And"
+  },
+  {
+   "shot": "S11",
+   "a": 1139,
+   "b": 1303,
+   "t0": 0,
+   "t1": 164,
+   "line": "the chimney? There isn't one. The smoke drifts up and finds its way out through a hole in the roof."
+  },
+  {
+   "shot": "S12",
+   "a": 1303,
+   "b": 1344,
+   "t0": 0,
+   "t1": 41,
+   "line": "Your eyes sting. Your"
+  },
+  {
+   "shot": "S13",
+   "a": 1344,
+   "b": 1401,
+   "t0": 0,
+   "t1": 57,
+   "line": "hoodie will smell like this for a week."
+  },
+  {
+   "shot": "S14",
+   "a": 1401,
+   "b": 1538,
+   "t0": 0,
+   "t1": 137,
+   "line": "Along both walls are wide wooden benches. In the day, you sit on them. At"
+  },
+  {
+   "shot": "S15",
+   "a": 1538,
+   "b": 1679,
+   "t0": 0,
+   "t1": 141,
+   "line": "night, you sleep on them. That's the bedroom. All of it. Everyone. Then"
+  },
+  {
+   "shot": "S16",
+   "a": 1679,
+   "b": 1809,
+   "t0": 0,
+   "t1": 130,
+   "line": "you walk to the far end of the house, and the cow from this morning looks up at you. The"
+  },
+  {
+   "shot": "S17",
+   "a": 1809,
+   "b": 1869,
+   "t0": 0,
+   "t1": 60,
+   "line": "animals live under the same roof. A"
+  },
+  {
+   "shot": "S18",
+   "a": 1869,
+   "b": 1958,
+   "t0": 0,
+   "t1": 89,
+   "line": "resting person gives off about a hundred watts of heat. A"
+  },
+  {
+   "shot": "S19",
+   "a": 1958,
+   "b": 2018,
+   "t0": 0,
+   "t1": 60,
+   "line": "cow gives off several times more."
+  },
+  {
+   "shot": "S20",
+   "a": 2018,
+   "b": 2135,
+   "t0": 0,
+   "t1": 117,
+   "line": "Two cows at one end of the house, and you've got a heater that also makes milk."
+  },
+  {
+   "shot": "S21",
+   "a": 2135,
+   "b": 2261,
+   "t0": 0,
+   "t1": 126,
+   "line": "Asa pats the cow and says something to you. You're pretty sure it means:"
+  },
+  {
+   "shot": "S22",
+   "a": 2261,
+   "b": 2313,
+   "t0": 0,
+   "t1": 52,
+   "line": "this is our oven."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 53,
    "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "line": "Let's look at where you just woke up.",
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 126,
+   "first": 53,
+   "line": "It's a longhouse. One single room, about thirty meters long. The",
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 54,
+   "first": 179,
+   "line": "walls are thick timber. The",
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 125,
+   "first": 233,
+   "line": "roof is a layer of birch bark, with grass and earth on top. Turf. A",
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 140,
+   "first": 358,
+   "line": "living roof, about twenty centimeters thick, keeping the heat in like a wool hat.",
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 143,
+   "first": 498,
+   "line": "Outside, the family has shoveled snow up against the walls. On purpose.",
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 118,
+   "first": 641,
+   "line": "Fresh snow can be more than ninety percent trapped air, and trapped air",
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 124,
+   "first": 759,
+   "line": "is exactly what keeps heat from leaking out. The snow is part of the house.",
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 142,
+   "first": 883,
+   "line": "Down the middle of the floor runs the long hearth. A fire pit as long as a car. It's",
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 114,
+   "first": 1025,
+   "line": "the heater, the stove, and the only light all at once. And",
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 164,
+   "first": 1139,
+   "line": "the chimney? There isn't one. The smoke drifts up and finds its way out through a hole in the roof.",
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 41,
+   "first": 1303,
+   "line": "Your eyes sting. Your",
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 57,
+   "first": 1344,
+   "line": "hoodie will smell like this for a week.",
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 137,
+   "first": 1401,
+   "line": "Along both walls are wide wooden benches. In the day, you sit on them. At",
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 141,
+   "first": 1538,
+   "line": "night, you sleep on them. That's the bedroom. All of it. Everyone. Then",
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 130,
+   "first": 1679,
+   "line": "you walk to the far end of the house, and the cow from this morning looks up at you. The",
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 60,
+   "first": 1809,
+   "line": "animals live under the same roof. A",
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 89,
+   "first": 1869,
+   "line": "resting person gives off about a hundred watts of heat. A",
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 60,
+   "first": 1958,
+   "line": "cow gives off several times more.",
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 117,
+   "first": 2018,
+   "line": "Two cows at one end of the house, and you've got a heater that also makes milk.",
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 126,
+   "first": 2135,
+   "line": "Asa pats the cow and says something to you. You're pretty sure it means:",
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 52,
+   "first": 2261,
+   "line": "this is our oven.",
+   "note": ""
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c03/voice.wav"
+ }
 }

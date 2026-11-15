@@ -1,29 +1,677 @@
 {
  "slug": "vikings-winter/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2637,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 72,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 72,
+   "line": "By four o'clock, it's pitch black outside."
+  },
+  {
+   "shot": "S2",
+   "a": 72,
+   "b": 160,
+   "t0": 0,
+   "t1": 88,
+   "line": "Inside, the only light is the fire, and a little stone"
+  },
+  {
+   "shot": "S3",
+   "a": 160,
+   "b": 211,
+   "t0": 0,
+   "t1": 51,
+   "line": "lamp burning fish oil. It"
+  },
+  {
+   "shot": "S4",
+   "a": 211,
+   "b": 279,
+   "t0": 0,
+   "t1": 68,
+   "line": "smells exactly like you think it smells."
+  },
+  {
+   "shot": "S5",
+   "a": 279,
+   "b": 320,
+   "t0": 0,
+   "t1": 41,
+   "line": "Nobody has a screen."
+  },
+  {
+   "shot": "S6",
+   "a": 320,
+   "b": 362,
+   "t0": 0,
+   "t1": 42,
+   "line": "So they have each other."
+  },
+  {
+   "shot": "S7",
+   "a": 362,
+   "b": 399,
+   "t0": 0,
+   "t1": 37,
+   "line": "Ketil tells a story about"
+  },
+  {
+   "shot": "S8",
+   "a": 399,
+   "b": 452,
+   "t0": 0,
+   "t1": 53,
+   "line": "a giant who stole a god's hammer, and"
+  },
+  {
+   "shot": "S9",
+   "a": 452,
+   "b": 499,
+   "t0": 0,
+   "t1": 47,
+   "line": "does all the voices."
+  },
+  {
+   "shot": "S10",
+   "a": 499,
+   "b": 569,
+   "t0": 0,
+   "t1": 70,
+   "line": "Gudrun spins wool while she listens."
+  },
+  {
+   "shot": "S11",
+   "a": 569,
+   "b": 665,
+   "t0": 0,
+   "t1": 96,
+   "line": "Asa beats you at a board game called hnefatafl."
+  },
+  {
+   "shot": "S12",
+   "a": 665,
+   "b": 699,
+   "t0": 0,
+   "t1": 34,
+   "line": "Four times."
+  },
+  {
+   "shot": "S13",
+   "a": 699,
+   "b": 743,
+   "t0": 0,
+   "t1": 44,
+   "line": "Then it's time to sleep."
+  },
+  {
+   "shot": "S14",
+   "a": 743,
+   "b": 802,
+   "t0": 0,
+   "t1": 59,
+   "line": "Everyone climbs onto the benches."
+  },
+  {
+   "shot": "S15",
+   "a": 802,
+   "b": 915,
+   "t0": 0,
+   "t1": 113,
+   "line": "Furs, wool blankets, and bodies packed close together, because"
+  },
+  {
+   "shot": "S16",
+   "a": 915,
+   "b": 998,
+   "t0": 0,
+   "t1": 83,
+   "line": "every person in the pile is another hundred watts."
+  },
+  {
+   "shot": "S17",
+   "a": 998,
+   "b": 1076,
+   "t0": 0,
+   "t1": 78,
+   "line": "Gudrun rakes ash over the glowing embers."
+  },
+  {
+   "shot": "S18",
+   "a": 1076,
+   "b": 1168,
+   "t0": 0,
+   "t1": 92,
+   "line": "Covered like this, a fire can sleep through the night."
+  },
+  {
+   "shot": "S19",
+   "a": 1168,
+   "b": 1225,
+   "t0": 0,
+   "t1": 57,
+   "line": "Then she points at you. You're"
+  },
+  {
+   "shot": "S20",
+   "a": 1225,
+   "b": 1261,
+   "t0": 0,
+   "t1": 36,
+   "line": "on fire watch."
+  },
+  {
+   "shot": "S21",
+   "a": 1261,
+   "b": 1321,
+   "t0": 0,
+   "t1": 60,
+   "line": "You mean to stay awake. You really do."
+  },
+  {
+   "shot": "S22",
+   "a": 1321,
+   "b": 1395,
+   "t0": 0,
+   "t1": 74,
+   "line": "When you open your eyes, the house is dark. The"
+  },
+  {
+   "shot": "S23",
+   "a": 1395,
+   "b": 1464,
+   "t0": 0,
+   "t1": 69,
+   "line": "embers are almost black. You can see your"
+  },
+  {
+   "shot": "S24",
+   "a": 1464,
+   "b": 1486,
+   "t0": 0,
+   "t1": 22,
+   "line": "breath."
+  },
+  {
+   "shot": "S25",
+   "a": 1486,
+   "b": 1582,
+   "t0": 0,
+   "t1": 96,
+   "line": "Asa is curled up tight, shivering in her sleep. The"
+  },
+  {
+   "shot": "S26",
+   "a": 1582,
+   "b": 1727,
+   "t0": 0,
+   "t1": 145,
+   "line": "number in the corner is dropping. Thirty- six. Thirty- five point five. You"
+  },
+  {
+   "shot": "S27",
+   "a": 1727,
+   "b": 1791,
+   "t0": 0,
+   "t1": 64,
+   "line": "remember what Ketil showed you. A piece"
+  },
+  {
+   "shot": "S28",
+   "a": 1791,
+   "b": 1934,
+   "t0": 0,
+   "t1": 143,
+   "line": "of flint. A steel striker. A dried mushroom that grows on birch trees, called"
+  },
+  {
+   "shot": "S29",
+   "a": 1934,
+   "b": 2031,
+   "t0": 0,
+   "t1": 97,
+   "line": "tinder fungus, that catches a spark and holds it. You"
+  },
+  {
+   "shot": "S30",
+   "a": 2031,
+   "b": 2096,
+   "t0": 0,
+   "t1": 65,
+   "line": "strike. Nothing. You strike"
+  },
+  {
+   "shot": "S31",
+   "a": 2096,
+   "b": 2205,
+   "t0": 0,
+   "t1": 109,
+   "line": "again. A spark lands, and the fungus starts to glow. You"
+  },
+  {
+   "shot": "S32",
+   "a": 2205,
+   "b": 2279,
+   "t0": 0,
+   "t1": 74,
+   "line": "blow. Gently. Then harder. A"
+  },
+  {
+   "shot": "S33",
+   "a": 2279,
+   "b": 2311,
+   "t0": 0,
+   "t1": 32,
+   "line": "flame. You"
+  },
+  {
+   "shot": "S34",
+   "a": 2311,
+   "b": 2412,
+   "t0": 0,
+   "t1": 101,
+   "line": "feed it a twig. Then a stick. Then a log. The"
+  },
+  {
+   "shot": "S35",
+   "a": 2412,
+   "b": 2464,
+   "t0": 0,
+   "t1": 52,
+   "line": "light climbs up the walls. Asa"
+  },
+  {
+   "shot": "S36",
+   "a": 2464,
+   "b": 2499,
+   "t0": 0,
+   "t1": 35,
+   "line": "stops shivering."
+  },
+  {
+   "shot": "S37",
+   "a": 2499,
+   "b": 2545,
+   "t0": 0,
+   "t1": 46,
+   "line": "Nobody wakes up. Nobody"
+  },
+  {
+   "shot": "S38",
+   "a": 2545,
+   "b": 2570,
+   "t0": 0,
+   "t1": 25,
+   "line": "ever knows."
+  },
+  {
+   "shot": "S39",
+   "a": 2570,
+   "b": 2637,
+   "t0": 0,
+   "t1": 67,
+   "line": "But the fire never went out."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "",
+   "key": 20,
+   "len": 72,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "By four o'clock, it's pitch black outside.",
+   "note": ""
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 20,
+   "len": 88,
+   "first": 72,
+   "line": "Inside, the only light is the fire, and a little stone",
+   "note": ""
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 20,
+   "len": 51,
+   "first": 160,
+   "line": "lamp burning fish oil. It",
+   "note": ""
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 20,
+   "len": 68,
+   "first": 211,
+   "line": "smells exactly like you think it smells.",
+   "note": ""
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 41,
+   "first": 279,
+   "line": "Nobody has a screen.",
+   "note": ""
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 20,
+   "len": 42,
+   "first": 320,
+   "line": "So they have each other.",
+   "note": ""
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 20,
+   "len": 37,
+   "first": 362,
+   "line": "Ketil tells a story about",
+   "note": ""
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 20,
+   "len": 53,
+   "first": 399,
+   "line": "a giant who stole a god's hammer, and",
+   "note": ""
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 20,
+   "len": 47,
+   "first": 452,
+   "line": "does all the voices.",
+   "note": ""
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 20,
+   "len": 70,
+   "first": 499,
+   "line": "Gudrun spins wool while she listens.",
+   "note": ""
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 20,
+   "len": 96,
+   "first": 569,
+   "line": "Asa beats you at a board game called hnefatafl.",
+   "note": ""
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 20,
+   "len": 34,
+   "first": 665,
+   "line": "Four times.",
+   "note": ""
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 20,
+   "len": 44,
+   "first": 699,
+   "line": "Then it's time to sleep.",
+   "note": ""
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 20,
+   "len": 59,
+   "first": 743,
+   "line": "Everyone climbs onto the benches.",
+   "note": ""
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 20,
+   "len": 113,
+   "first": 802,
+   "line": "Furs, wool blankets, and bodies packed close together, because",
+   "note": ""
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 20,
+   "len": 83,
+   "first": 915,
+   "line": "every person in the pile is another hundred watts.",
+   "note": ""
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 20,
+   "len": 78,
+   "first": 998,
+   "line": "Gudrun rakes ash over the glowing embers.",
+   "note": ""
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 20,
+   "len": 92,
+   "first": 1076,
+   "line": "Covered like this, a fire can sleep through the night.",
+   "note": ""
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 20,
+   "len": 57,
+   "first": 1168,
+   "line": "Then she points at you. You're",
+   "note": ""
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 20,
+   "len": 36,
+   "first": 1225,
+   "line": "on fire watch.",
+   "note": ""
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 20,
+   "len": 60,
+   "first": 1261,
+   "line": "You mean to stay awake. You really do.",
+   "note": ""
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 1321,
+   "line": "When you open your eyes, the house is dark. The",
+   "note": ""
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 20,
+   "len": 69,
+   "first": 1395,
+   "line": "embers are almost black. You can see your",
+   "note": ""
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 20,
+   "len": 22,
+   "first": 1464,
+   "line": "breath.",
+   "note": ""
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 20,
+   "len": 96,
+   "first": 1486,
+   "line": "Asa is curled up tight, shivering in her sleep. The",
+   "note": ""
+  },
+  {
+   "id": "S26",
+   "size": "",
+   "key": 20,
+   "len": 145,
+   "first": 1582,
+   "line": "number in the corner is dropping. Thirty- six. Thirty- five point five. You",
+   "note": ""
+  },
+  {
+   "id": "S27",
+   "size": "",
+   "key": 20,
+   "len": 64,
+   "first": 1727,
+   "line": "remember what Ketil showed you. A piece",
+   "note": ""
+  },
+  {
+   "id": "S28",
+   "size": "",
+   "key": 20,
+   "len": 143,
+   "first": 1791,
+   "line": "of flint. A steel striker. A dried mushroom that grows on birch trees, called",
+   "note": ""
+  },
+  {
+   "id": "S29",
+   "size": "",
+   "key": 20,
+   "len": 97,
+   "first": 1934,
+   "line": "tinder fungus, that catches a spark and holds it. You",
+   "note": ""
+  },
+  {
+   "id": "S30",
+   "size": "",
+   "key": 20,
+   "len": 65,
+   "first": 2031,
+   "line": "strike. Nothing. You strike",
+   "note": ""
+  },
+  {
+   "id": "S31",
+   "size": "",
+   "key": 20,
+   "len": 109,
+   "first": 2096,
+   "line": "again. A spark lands, and the fungus starts to glow. You",
+   "note": ""
+  },
+  {
+   "id": "S32",
+   "size": "",
+   "key": 20,
+   "len": 74,
+   "first": 2205,
+   "line": "blow. Gently. Then harder. A",
+   "note": ""
+  },
+  {
+   "id": "S33",
+   "size": "",
+   "key": 20,
+   "len": 32,
+   "first": 2279,
+   "line": "flame. You",
+   "note": ""
+  },
+  {
+   "id": "S34",
+   "size": "",
+   "key": 20,
+   "len": 101,
+   "first": 2311,
+   "line": "feed it a twig. Then a stick. Then a log. The",
+   "note": ""
+  },
+  {
+   "id": "S35",
+   "size": "",
+   "key": 20,
+   "len": 52,
+   "first": 2412,
+   "line": "light climbs up the walls. Asa",
+   "note": ""
+  },
+  {
+   "id": "S36",
+   "size": "",
+   "key": 20,
+   "len": 35,
+   "first": 2464,
+   "line": "stops shivering.",
+   "note": ""
+  },
+  {
+   "id": "S37",
+   "size": "",
+   "key": 20,
+   "len": 46,
+   "first": 2499,
+   "line": "Nobody wakes up. Nobody",
+   "note": ""
+  },
+  {
+   "id": "S38",
+   "size": "",
+   "key": 20,
+   "len": 25,
+   "first": 2545,
+   "line": "ever knows.",
+   "note": ""
+  },
+  {
+   "id": "S39",
+   "size": "",
+   "key": 20,
+   "len": 67,
+   "first": 2570,
+   "line": "But the fire never went out.",
+   "note": ""
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "vikings-winter/c06/voice.wav"
+ }
 }
