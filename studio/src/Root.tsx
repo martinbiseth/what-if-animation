@@ -6,6 +6,7 @@ import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
 import { Kit26Sheet } from './Kit26Sheet';
 import { THUMBS } from './episodes/thumbs';
+import { AncientLogo, AncientBanner } from './episodes/channel-ancient/art';
 
 // Every episode gets two compositions: <Id> (the film) and <Id>Board (one frame per shot, at its key frame, for the
 // storyboard). Cast renders the cast sheet.
@@ -24,6 +25,8 @@ export const Root: React.FC = () => {
       {THUMBS.map((t) => (
         <Composition key={t.id} id={t.id} component={t.component} durationInFrames={1} {...common} />
       ))}
+      <Composition id="AncientLogo" component={AncientLogo} durationInFrames={1} width={800} height={800} fps={common.fps} />
+      <Composition id="AncientBanner" component={AncientBanner} durationInFrames={1} width={2560} height={1440} fps={common.fps} />
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
       <Composition id="Kit26" component={Kit26Sheet} durationInFrames={4} {...common} />
       <Composition id="CastInk" component={() => <CastSheet group="ink" />} durationInFrames={1} {...common} />
