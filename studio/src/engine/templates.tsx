@@ -1,3 +1,4 @@
+import { Bal, BalanceOver, balAt, balFlash } from './money';
 import React from 'react';
 import { backOut, camT, clamp, easeOut, kf, rnd } from './anim';
 import { basePose, Expr, faceAt, Hero, Look, Pose, poseAt } from './rig';
@@ -107,6 +108,9 @@ export type CastSpec = {
   rim?: string;
   seed?: number;
   pose?: Partial<Pose>; // anything else, held for the shot
+  bal?: Bal; // a bank balance over the head (money.tsx): a number or keys on the shot clock
+  balPop?: number; // frame the balance pops on (default 0)
+  balS?: number; // its size (default 0.6)
 };
 
 /**
@@ -153,6 +157,11 @@ export const talkShot = (o: {
           const pose = poseAt(0, [{ f: 0, p: base, ease: easeOut }], basePose);
           return <Hero key={i} look={c.look} pose={{ ...pose, ...face, blink: Math.max(face.blink, idleBlink(t, seed)), talk: open }} rimId={c.rim ?? 'rimR'} shadow={1} />;
         })}
+        {o.cast.map((c, i) =>
+          c.bal === undefined ? null : (
+            <BalanceOver key={`b${i}`} pose={{ ...basePose, x: c.x, y: c.y, scale: c.scale ?? 1, yaw: c.yaw ?? 0, ...c.pose }} v={balAt(t, c.bal)} flash={balFlash(t, c.bal)} t={t} s={c.balS} pop={(t - (c.balPop ?? 0)) / 8} />
+          ),
+        )}
         {o.front?.(t)}
       </g>
     );

@@ -29,22 +29,251 @@
  "shots": [
   {
    "id": "S1",
+   "size": "bed",
+   "note": "you wake up",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "through the window: the postman",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "a number pops over his head",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "$840.12",
+   "key": 15
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "green: wonder",
+   "key": 15
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "note": "he turns, the number turns",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "the bus: everyone has one",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "the driver: $308",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "note": "gold watch, designer bag: -$61,000",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "note": "red: shock",
+   "key": 10
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "note": "kid with headphones: $9,000",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "note": "hoodie, crisps: $4.2M",
+   "key": 95
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "note": "Jake and his dad's boat",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "note": "$11",
+   "key": 15
+  },
+  {
+   "id": "S15",
+   "size": "two-shot",
+   "note": "Mo: $3.12",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "tap for a chocolate bar",
+   "key": 16
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "note": "$1.62",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "note": "every person",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "note": "every account",
+   "key": 15
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "note": "to the cent",
+   "key": 20
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "note": "LIVE",
+   "key": 10
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "note": "nobody else sees them",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "note": "just you",
+   "key": 15
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "note": "the question",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "The"
+  },
+  {
+   "shot": "S3",
+   "at": "there's"
+  },
+  {
+   "shot": "S4",
+   "at": "Eight"
+  },
+  {
+   "shot": "S5",
+   "at": "Green"
+  },
+  {
+   "shot": "S6",
+   "at": "He"
+  },
+  {
+   "shot": "S7",
+   "at": "On"
+  },
+  {
+   "shot": "S8",
+   "at": "driver"
+  },
+  {
+   "shot": "S9",
+   "at": "woman"
+  },
+  {
+   "shot": "S10",
+   "at": "Red"
+  },
+  {
+   "shot": "S11",
+   "at": "kid"
+  },
+  {
+   "shot": "S12",
+   "at": "guy"
+  },
+  {
+   "shot": "S13",
+   "at": "school"
+  },
+  {
+   "shot": "S14",
+   "at": "eleven"
+  },
+  {
+   "shot": "S15",
+   "at": "Mo"
+  },
+  {
+   "shot": "S16",
+   "at": "buys"
+  },
+  {
+   "shot": "S17",
+   "at": "Now"
+  },
+  {
+   "shot": "S18",
+   "at": "Every"
+  },
+  {
+   "shot": "S19",
+   "at": "account"
+  },
+  {
+   "shot": "S20",
+   "at": "To"
+  },
+  {
+   "shot": "S21",
+   "at": "Live"
+  },
+  {
+   "shot": "S22",
+   "at": "nobody"
+  },
+  {
+   "shot": "S23",
+   "at": "Just"
+  },
+  {
+   "shot": "S24",
+   "at": "So"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
- }
+ },
+ "tail": 1.0
 }

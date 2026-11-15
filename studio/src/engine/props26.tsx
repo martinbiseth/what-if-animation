@@ -10,7 +10,9 @@ export type ScreenMode =
   | 'off' | 'home' | 'camera' | 'photo' | 'city' | 'music' | 'nosignal' | 'map' | 'battery' | 'calc' | 'video'
   | 'flash' | 'message' | 'photos' | 'record' | 'chip' | 'pharmacy' | 'signal'
   // the internet episode
-  | 'offline' | 'mapblank' | 'wiki' | 'lock' | 'download' | 'wikihome' | 'clock';
+  | 'offline' | 'mapblank' | 'wiki' | 'lock' | 'download' | 'wikihome' | 'clock'
+  // the bank balance episode: a banking app ('$1.62|Current account', red when it starts with '-') and a for-sale listing
+  | 'bank' | 'listing';
 
 export const PHONE = { w: 300, h: 620, r: 46 };
 const SCR = { x: -136, y: -296, w: 272, h: 592, r: 34 };
@@ -138,6 +140,44 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
                 <rect key={i} x={SCR.x + 20} y={SCR.y + 196 + i * 30} width={(SCR.w - 40) * (i % 4 === 3 ? 0.6 : 0.95)} height={10} rx={5} fill="#B8B8C0" />
               ))}
           {mode === 'wiki' && battery < 0 ? null : null}
+        </g>
+      );
+    }
+    case 'bank': {
+      const [a, b] = (text ?? '$1.62|Current account').split('|');
+      const neg = a.trim().startsWith('-');
+      return (
+        <g>
+          {bg('#F4F6FA')}
+          <rect x={SCR.x} y={SCR.y} width={SCR.w} height={200} rx={SCR.r} fill="#1E3A5A" />
+          <rect x={SCR.x} y={SCR.y + 150} width={SCR.w} height={50} fill="#1E3A5A" />
+          <text x={cx} y={SCR.y + 110} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={30} fill="#F2D08A" letterSpacing={6}>MY BANK</text>
+          <text x={cx} y={SCR.y + 262} textAnchor="middle" fontFamily={FONT.ui} fontSize={19} fill="#6A6E7A">{b ?? 'Current account'}</text>
+          <text x={cx} y={SCR.y + 330} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={a.length > 9 ? 40 : 54} fill={neg ? '#D83A3A' : '#1E8A4A'}>{a}</text>
+          {[0, 1, 2, 3].map((i) => (
+            <g key={i}>
+              <rect x={SCR.x + 24} y={SCR.y + 380 + i * 50} width={SCR.w - 48} height={38} rx={8} fill="#E4E8F0" />
+              <rect x={SCR.x + 36} y={SCR.y + 393 + i * 50} width={90 + (i * 37) % 60} height={12} rx={6} fill="#B8BECA" />
+            </g>
+          ))}
+        </g>
+      );
+    }
+    case 'listing': {
+      const [a, b] = (text ?? 'Bike for sale|$150').split('|');
+      return (
+        <g>
+          {bg('#FFFFFF')}
+          <rect x={SCR.x + 16} y={SCR.y + 80} width={SCR.w - 32} height={220} rx={14} fill="#CFE6F5" />
+          <g transform={`translate(${cx} ${SCR.y + 200})`} fill="none" stroke="#26232F" strokeWidth={8} strokeLinecap="round">
+            <circle cx={-62} cy={30} r={42} />
+            <circle cx={62} cy={30} r={42} />
+            <path d="M -62 30 L -20 -30 L 40 -30 L 62 30 M -20 -30 L 0 30 L 40 -30 M -30 -46 H -6 M 40 -30 L 30 -52 H 52" stroke="#E8504A" />
+          </g>
+          <text x={SCR.x + 24} y={SCR.y + 350} fontFamily={FONT.title} fontWeight={700} fontSize={28} fill="#101014">{a}</text>
+          <text x={SCR.x + 24} y={SCR.y + 400} fontFamily={FONT.title} fontWeight={800} fontSize={40} fill="#1E8A4A">{b}</text>
+          <rect x={SCR.x + 24} y={SCR.y + 450} width={SCR.w - 48} height={56} rx={28} fill="#2F7BE0" />
+          <text x={cx} y={SCR.y + 486} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={24} fill="#FFFFFF">1 new message</text>
         </g>
       );
     }

@@ -1,29 +1,422 @@
 {
  "slug": "bank-balance/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1645,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 30,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 30,
+   "line": "You wake up and look out"
+  },
+  {
+   "shot": "S2",
+   "a": 30,
+   "b": 117,
+   "t0": 0,
+   "t1": 87,
+   "line": "of the window. The postman is walking up the path, and"
+  },
+  {
+   "shot": "S3",
+   "a": 117,
+   "b": 180,
+   "t0": 0,
+   "t1": 63,
+   "line": "there's a number floating above his head."
+  },
+  {
+   "shot": "S4",
+   "a": 180,
+   "b": 255,
+   "t0": 0,
+   "t1": 75,
+   "line": "Eight hundred and forty dollars and twelve cents."
+  },
+  {
+   "shot": "S5",
+   "a": 255,
+   "b": 278,
+   "t0": 0,
+   "t1": 23,
+   "line": "Green."
+  },
+  {
+   "shot": "S6",
+   "a": 278,
+   "b": 359,
+   "t0": 0,
+   "t1": 81,
+   "line": "He turns around. The number turns with him."
+  },
+  {
+   "shot": "S7",
+   "a": 359,
+   "b": 430,
+   "t0": 0,
+   "t1": 71,
+   "line": "On the bus, everyone has one. The"
+  },
+  {
+   "shot": "S8",
+   "a": 430,
+   "b": 511,
+   "t0": 0,
+   "t1": 81,
+   "line": "driver: three hundred and eight dollars. A"
+  },
+  {
+   "shot": "S9",
+   "a": 511,
+   "b": 632,
+   "t0": 0,
+   "t1": 121,
+   "line": "woman with a gold watch and a designer bag: minus sixty- one thousand."
+  },
+  {
+   "shot": "S10",
+   "a": 632,
+   "b": 658,
+   "t0": 0,
+   "t1": 26,
+   "line": "Red. A"
+  },
+  {
+   "shot": "S11",
+   "a": 658,
+   "b": 820,
+   "t0": 0,
+   "t1": 162,
+   "line": "kid your age with big headphones: nine thousand. Birthday money he has never touched. A"
+  },
+  {
+   "shot": "S12",
+   "a": 820,
+   "b": 969,
+   "t0": 0,
+   "t1": 149,
+   "line": "guy in a hoodie, eating crisps out of the bag: four point two million. At"
+  },
+  {
+   "shot": "S13",
+   "a": 969,
+   "b": 1083,
+   "t0": 0,
+   "t1": 114,
+   "line": "school, Jake, who never stops talking about his dad's boat, is"
+  },
+  {
+   "shot": "S14",
+   "a": 1083,
+   "b": 1117,
+   "t0": 0,
+   "t1": 34,
+   "line": "at eleven dollars."
+  },
+  {
+   "shot": "S15",
+   "a": 1117,
+   "b": 1237,
+   "t0": 0,
+   "t1": 120,
+   "line": "Mo, your best friend, is at three dollars and twelve cents. He"
+  },
+  {
+   "shot": "S16",
+   "a": 1237,
+   "b": 1278,
+   "t0": 0,
+   "t1": 41,
+   "line": "buys a chocolate bar."
+  },
+  {
+   "shot": "S17",
+   "a": 1278,
+   "b": 1322,
+   "t0": 0,
+   "t1": 44,
+   "line": "Now it's one sixty- two."
+  },
+  {
+   "shot": "S18",
+   "a": 1322,
+   "b": 1361,
+   "t0": 0,
+   "t1": 39,
+   "line": "Every person. Every"
+  },
+  {
+   "shot": "S19",
+   "a": 1361,
+   "b": 1385,
+   "t0": 0,
+   "t1": 24,
+   "line": "account."
+  },
+  {
+   "shot": "S20",
+   "a": 1385,
+   "b": 1415,
+   "t0": 0,
+   "t1": 30,
+   "line": "To the cent."
+  },
+  {
+   "shot": "S21",
+   "a": 1415,
+   "b": 1446,
+   "t0": 0,
+   "t1": 31,
+   "line": "Live. And"
+  },
+  {
+   "shot": "S22",
+   "a": 1446,
+   "b": 1487,
+   "t0": 0,
+   "t1": 41,
+   "line": "nobody else can see them."
+  },
+  {
+   "shot": "S23",
+   "a": 1487,
+   "b": 1513,
+   "t0": 0,
+   "t1": 26,
+   "line": "Just you."
+  },
+  {
+   "shot": "S24",
+   "a": 1513,
+   "b": 1645,
+   "t0": 0,
+   "t1": 132,
+   "line": "So what would actually happen if you could see everyone's bank balance?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "bed",
+   "key": 20,
+   "len": 30,
+   "first": 0,
+   "line": "You wake up and look out",
+   "note": "you wake up"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 20,
+   "len": 87,
+   "first": 30,
+   "line": "of the window. The postman is walking up the path, and",
+   "note": "through the window: the postman"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 40,
+   "len": 63,
+   "first": 117,
+   "line": "there's a number floating above his head.",
+   "note": "a number pops over his head"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 15,
+   "len": 75,
+   "first": 180,
+   "line": "Eight hundred and forty dollars and twelve cents.",
+   "note": "$840.12"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 15,
+   "len": 23,
+   "first": 255,
+   "line": "Green.",
+   "note": "green: wonder"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 81,
+   "first": 278,
+   "line": "He turns around. The number turns with him.",
+   "note": "he turns, the number turns"
+  },
+  {
+   "id": "S7",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 71,
+   "first": 359,
+   "line": "On the bus, everyone has one. The",
+   "note": "the bus: everyone has one"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 40,
+   "len": 81,
+   "first": 430,
+   "line": "driver: three hundred and eight dollars. A",
+   "note": "the driver: $308"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 20,
+   "len": 121,
+   "first": 511,
+   "line": "woman with a gold watch and a designer bag: minus sixty- one thousand.",
+   "note": "gold watch, designer bag: -$61,000"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 10,
+   "len": 26,
+   "first": 632,
+   "line": "Red. A",
+   "note": "red: shock"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 20,
+   "len": 162,
+   "first": 658,
+   "line": "kid your age with big headphones: nine thousand. Birthday money he has never touched. A",
+   "note": "kid with headphones: $9,000"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 95,
+   "len": 149,
+   "first": 820,
+   "line": "guy in a hoodie, eating crisps out of the bag: four point two million. At",
+   "note": "hoodie, crisps: $4.2M"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 969,
+   "line": "school, Jake, who never stops talking about his dad's boat, is",
+   "note": "Jake and his dad's boat"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 15,
+   "len": 34,
+   "first": 1083,
+   "line": "at eleven dollars.",
+   "note": "$11"
+  },
+  {
+   "id": "S15",
+   "size": "two-shot",
+   "key": 20,
+   "len": 120,
+   "first": 1117,
+   "line": "Mo, your best friend, is at three dollars and twelve cents. He",
+   "note": "Mo: $3.12"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 16,
+   "len": 41,
+   "first": 1237,
+   "line": "buys a chocolate bar.",
+   "note": "tap for a chocolate bar"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 20,
+   "len": 44,
+   "first": 1278,
+   "line": "Now it's one sixty- two.",
+   "note": "$1.62"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 20,
+   "len": 39,
+   "first": 1322,
+   "line": "Every person. Every",
+   "note": "every person"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 15,
+   "len": 24,
+   "first": 1361,
+   "line": "account.",
+   "note": "every account"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 20,
+   "len": 30,
+   "first": 1385,
+   "line": "To the cent.",
+   "note": "to the cent"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 10,
+   "len": 31,
+   "first": 1415,
+   "line": "Live. And",
+   "note": "LIVE"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 20,
+   "len": 41,
+   "first": 1446,
+   "line": "nobody else can see them.",
+   "note": "nobody else sees them"
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "key": 15,
+   "len": 26,
+   "first": 1487,
+   "line": "Just you.",
+   "note": "just you"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 40,
+   "len": 132,
+   "first": 1513,
+   "line": "So what would actually happen if you could see everyone's bank balance?",
+   "note": "the question"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c01/voice.wav"
+ }
 }

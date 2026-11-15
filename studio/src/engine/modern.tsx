@@ -173,7 +173,7 @@ export const SHOP = { feet: 820, counterTop: 600 };
 export const shopHip = (scale = 1) => SHOP.feet - LEG_LEN * scale;
 
 /** Shelves full (empty = 0) or stripped bare (empty = 1), a counter with a card terminal on the right. */
-export const Shop: React.FC<{ t: number; id?: string; empty?: number; counter?: boolean }> = ({ t, id = 'shop', empty = 0, counter = true }) => {
+export const Shop: React.FC<{ t: number; id?: string; empty?: number; counter?: boolean; terminal?: 'idle' | 'ok' | 'error' }> = ({ t, id = 'shop', empty = 0, counter = true, terminal = 'error' }) => {
   const COLS = ['#E8504A', '#F2C14E', '#4AA8E0', '#5BC08A', '#F28C3A', '#B07AD0', '#E8E4D8'];
   return (
     <g>
@@ -214,7 +214,7 @@ export const Shop: React.FC<{ t: number; id?: string; empty?: number; counter?: 
         <g>
           <rect x={1420} y={SHOP.counterTop} width={700} height={SHOP.feet - SHOP.counterTop + 40} fill="#7A4A3A" />
           <rect x={1400} y={SHOP.counterTop - 20} width={740} height={26} fill="#A8705A" />
-          <CardTerminal x={1560} y={SHOP.counterTop - 20} s={0.7} state="error" t={t} />
+          <CardTerminal x={1560} y={SHOP.counterTop - 20} s={0.7} state={terminal} t={t} />
           <rect x={1720} y={SHOP.counterTop - 120} width={200} height={100} fill="#2A2C34" />
           <rect x={1730} y={SHOP.counterTop - 110} width={180} height={70} fill="#8AA8C8" />
         </g>
