@@ -1,29 +1,405 @@
 {
  "slug": "iq-doubles/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2961,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 65,
+   "t0": 0,
+   "t1": 65,
+   "line": "Day four. Sixteen hundred."
+  },
+  {
+   "shot": "S2",
+   "a": 65,
+   "b": 115,
+   "t0": 0,
+   "t1": 50,
+   "line": "And you are starving. You"
+  },
+  {
+   "shot": "S3",
+   "a": 115,
+   "b": 239,
+   "t0": 0,
+   "t1": 124,
+   "line": "eat breakfast. Then a second breakfast. Then Ellie's breakfast."
+  },
+  {
+   "shot": "S4",
+   "a": 239,
+   "b": 361,
+   "t0": 0,
+   "t1": 122,
+   "line": "By lunch, you've eaten more than your whole family. And you're still hungry."
+  },
+  {
+   "shot": "S5",
+   "a": 361,
+   "b": 481,
+   "t0": 0,
+   "t1": 120,
+   "line": "Here's why. Your brain is only about two percent of your body's weight."
+  },
+  {
+   "shot": "S6",
+   "a": 481,
+   "b": 555,
+   "t0": 0,
+   "t1": 74,
+   "line": "But it burns about twenty percent of your energy."
+  },
+  {
+   "shot": "S7",
+   "a": 555,
+   "b": 645,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Even when you're asleep, it's the hungriest thing you own."
+  },
+  {
+   "shot": "S8",
+   "a": 645,
+   "b": 797,
+   "t0": 0,
+   "t1": 152,
+   "line": "Your whole body, sitting still, runs on about eighty watts. Twenty of those go to your brain."
+  },
+  {
+   "shot": "S9",
+   "a": 797,
+   "b": 927,
+   "t0": 0,
+   "t1": 130,
+   "line": "That's like a light bulb burning inside your head. All day. Every day."
+  },
+  {
+   "shot": "S10",
+   "a": 927,
+   "b": 1074,
+   "t0": 0,
+   "t1": 147,
+   "line": "Now that brain is doing sixteen times the work. Every morning, it needs more fuel."
+  },
+  {
+   "shot": "S11",
+   "a": 1074,
+   "b": 1151,
+   "t0": 0,
+   "t1": 77,
+   "line": "And everything that burns fuel makes heat."
+  },
+  {
+   "shot": "S12",
+   "a": 1151,
+   "b": 1392,
+   "t0": 0,
+   "t1": 241,
+   "line": "There's a second catch, too. Talking to people starts to feel like watching a video at quarter speed. You know how every sentence ends before it's halfway out."
+  },
+  {
+   "shot": "S13",
+   "a": 1392,
+   "b": 1562,
+   "t0": 0,
+   "t1": 170,
+   "line": "Mo tells you a joke, and you see the punchline in his face before he says it. You laugh anyway."
+  },
+  {
+   "shot": "S14",
+   "a": 1562,
+   "b": 1717,
+   "t0": 0,
+   "t1": 155,
+   "line": "A second too late. And for the first time in your life, you feel lonely in a room full of people."
+  },
+  {
+   "shot": "S15",
+   "a": 1717,
+   "b": 1801,
+   "t0": 0,
+   "t1": 84,
+   "line": "Day five. Three thousand two hundred."
+  },
+  {
+   "shot": "S16",
+   "a": 1801,
+   "b": 1959,
+   "t0": 0,
+   "t1": 158,
+   "line": "You wake up with your pillow soaked. Mom puts a hand on your forehead and pulls it back fast. The"
+  },
+  {
+   "shot": "S17",
+   "a": 1959,
+   "b": 2027,
+   "t0": 0,
+   "t1": 68,
+   "line": "thermometer says thirty- nine point four."
+  },
+  {
+   "shot": "S18",
+   "a": 2027,
+   "b": 2254,
+   "t0": 0,
+   "t1": 227,
+   "line": "Doctors say that at forty degrees, your body starts to break down. That's heatstroke. Proteins in your brain begin to stop working."
+  },
+  {
+   "shot": "S19",
+   "a": 2254,
+   "b": 2344,
+   "t0": 0,
+   "t1": 90,
+   "line": "And your temperature is rising a little more every morning."
+  },
+  {
+   "shot": "S20",
+   "a": 2344,
+   "b": 2624,
+   "t0": 0,
+   "t1": 280,
+   "line": "That's the other problem with doubling. It feels slow, then it isn't. If you keep going like this, by day ten your IQ would be over a hundred thousand. By day"
+  },
+  {
+   "shot": "S21",
+   "a": 2624,
+   "b": 2685,
+   "t0": 0,
+   "t1": 61,
+   "line": "thirty, a hundred billion."
+  },
+  {
+   "shot": "S22",
+   "a": 2685,
+   "b": 2760,
+   "t0": 0,
+   "t1": 75,
+   "line": "But you won't make it to day thirty. You do"
+  },
+  {
+   "shot": "S23",
+   "a": 2760,
+   "b": 2961,
+   "t0": 0,
+   "t1": 201,
+   "line": "the math lying on the bathroom floor, with a bag of frozen peas on your head. At this rate, your brain cooks in three days."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "big number",
    "key": 30,
-   "len": 90,
+   "len": 65,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Day four. Sixteen hundred.",
+   "note": "DAY FOUR 1600"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 20,
+   "len": 50,
+   "first": 65,
+   "line": "And you are starving. You",
+   "note": "starving, stomach growl"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 100,
+   "len": 124,
+   "first": 115,
+   "line": "eat breakfast. Then a second breakfast. Then Ellie's breakfast.",
+   "note": "three breakfasts, Ellie's too"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 60,
+   "len": 122,
+   "first": 239,
+   "line": "By lunch, you've eaten more than your whole family. And you're still hungry.",
+   "note": "tower of plates"
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "key": 80,
+   "len": 120,
+   "first": 361,
+   "line": "Here's why. Your brain is only about two percent of your body's weight.",
+   "note": "brain: 2% of your weight"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "key": 50,
+   "len": 74,
+   "first": 481,
+   "line": "But it burns about twenty percent of your energy.",
+   "note": "20% of your energy"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 90,
+   "first": 555,
+   "line": "Even when you're asleep, it's the hungriest thing you own.",
+   "note": "asleep, brain glowing"
+  },
+  {
+   "id": "S8",
+   "size": "fact",
+   "key": 80,
+   "len": 152,
+   "first": 645,
+   "line": "Your whole body, sitting still, runs on about eighty watts. Twenty of those go to your brain.",
+   "note": "80 watts"
+  },
+  {
+   "id": "S9",
+   "size": "diagram",
+   "key": 40,
+   "len": 130,
+   "first": 797,
+   "line": "That's like a light bulb burning inside your head. All day. Every day.",
+   "note": "a light bulb in your head"
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "key": 100,
+   "len": 147,
+   "first": 927,
+   "line": "Now that brain is doing sixteen times the work. Every morning, it needs more fuel.",
+   "note": "x16 bulbs, hot"
+  },
+  {
+   "id": "S11",
+   "size": "diagram",
+   "key": 50,
+   "len": 77,
+   "first": 1074,
+   "line": "And everything that burns fuel makes heat.",
+   "note": "fuel makes heat"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 80,
+   "len": 241,
+   "first": 1151,
+   "line": "There's a second catch, too. Talking to people starts to feel like watching a video at quarter speed. You know how every sentence ends before it's halfway out.",
+   "note": "Mo at quarter speed"
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "key": 90,
+   "len": 170,
+   "first": 1392,
+   "line": "Mo tells you a joke, and you see the punchline in his face before he says it. You laugh anyway.",
+   "note": "Mo's joke, you laugh late"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 60,
+   "len": 155,
+   "first": 1562,
+   "line": "A second too late. And for the first time in your life, you feel lonely in a room full of people.",
+   "note": "lonely in a full room"
+  },
+  {
+   "id": "S15",
+   "size": "big number",
+   "key": 30,
+   "len": 84,
+   "first": 1717,
+   "line": "Day five. Three thousand two hundred.",
+   "note": "DAY FIVE 3200"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 100,
+   "len": 158,
+   "first": 1801,
+   "line": "You wake up with your pillow soaked. Mom puts a hand on your forehead and pulls it back fast. The",
+   "note": "soaked, Mom's hand pulls back"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 50,
+   "len": 68,
+   "first": 1959,
+   "line": "thermometer says thirty- nine point four.",
+   "note": "39.4"
+  },
+  {
+   "id": "S18",
+   "size": "fact",
+   "key": 80,
+   "len": 227,
+   "first": 2027,
+   "line": "Doctors say that at forty degrees, your body starts to break down. That's heatstroke. Proteins in your brain begin to stop working.",
+   "note": "40 C heatstroke"
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "key": 60,
+   "len": 90,
+   "first": 2254,
+   "line": "And your temperature is rising a little more every morning.",
+   "note": "temperature curve to the red line"
+  },
+  {
+   "id": "S20",
+   "size": "diagram",
+   "key": 200,
+   "len": 280,
+   "first": 2344,
+   "line": "That's the other problem with doubling. It feels slow, then it isn't. If you keep going like this, by day ten your IQ would be over a hundred thousand. By day",
+   "note": "ten bars, day 10: 102,400"
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "key": 20,
+   "len": 61,
+   "first": 2624,
+   "line": "thirty, a hundred billion.",
+   "note": "day 30"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "key": 30,
+   "len": 75,
+   "first": 2685,
+   "line": "But you won't make it to day thirty. You do",
+   "note": "you won't make it"
+  },
+  {
+   "id": "S23",
+   "size": "top view",
+   "key": 150,
+   "len": 201,
+   "first": 2760,
+   "line": "the math lying on the bathroom floor, with a bag of frozen peas on your head. At this rate, your brain cooks in three days.",
+   "note": "peas on your head: 3 days"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "iq-doubles/c04/voice.wav"
+ }
 }

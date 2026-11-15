@@ -74,18 +74,259 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big number",
+   "set": "kitchen",
+   "note": "DAY FOUR 1600",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "starving, stomach growl",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "three breakfasts, Ellie's too",
+   "key": 100
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "tower of plates",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "brain: 2% of your weight",
+   "key": 80
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "20% of your energy",
+   "key": 50
+  },
+  {
+   "id": "S7",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "bedroom night",
+   "note": "asleep, brain glowing",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "fact",
+   "set": "schematic",
+   "note": "80 watts",
+   "key": 80
+  },
+  {
+   "id": "S9",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "a light bulb in your head",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "x16 bulbs, hot",
+   "key": 100
+  },
+  {
+   "id": "S11",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "fuel makes heat",
+   "key": 50
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "set": "street",
+   "note": "Mo at quarter speed",
+   "key": 80
+  },
+  {
+   "id": "S13",
+   "size": "two-shot",
+   "set": "classroom",
+   "note": "Mo's joke, you laugh late",
+   "key": 90
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "classroom",
+   "note": "lonely in a full room",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "big number",
+   "set": "bedroom",
+   "note": "DAY FIVE 3200",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "bedroom",
+   "note": "soaked, Mom's hand pulls back",
+   "key": 100
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "bedroom",
+   "note": "39.4",
+   "key": 50
+  },
+  {
+   "id": "S18",
+   "size": "fact",
+   "set": "schematic",
+   "note": "40 C heatstroke",
+   "key": 80
+  },
+  {
+   "id": "S19",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "temperature curve to the red line",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "ten bars, day 10: 102,400",
+   "key": 200
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "set": "schematic",
+   "note": "day 30",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "you won't make it",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "top view",
+   "set": "bathroom",
+   "note": "peas on your head: 3 days",
+   "key": 150
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S3",
+   "at": "eat"
+  },
+  {
+   "shot": "S4",
+   "at": "By"
+  },
+  {
+   "shot": "S5",
+   "at": "Here's"
+  },
+  {
+   "shot": "S6",
+   "at": "But"
+  },
+  {
+   "shot": "S7",
+   "at": "Even"
+  },
+  {
+   "shot": "S8",
+   "at": "Your"
+  },
+  {
+   "shot": "S9",
+   "at": "That's"
+  },
+  {
+   "shot": "S10",
+   "at": "Now"
+  },
+  {
+   "shot": "S11",
+   "at": "And"
+  },
+  {
+   "shot": "S12",
+   "at": "There's"
+  },
+  {
+   "shot": "S13",
+   "at": "Mo"
+  },
+  {
+   "shot": "S14",
+   "at": "second"
+  },
+  {
+   "shot": "S15",
+   "at": "Day"
+  },
+  {
+   "shot": "S16",
+   "at": "You"
+  },
+  {
+   "shot": "S17",
+   "at": "thermometer"
+  },
+  {
+   "shot": "S18",
+   "at": "Doctors"
+  },
+  {
+   "shot": "S19",
+   "at": "And"
+  },
+  {
+   "shot": "S20",
+   "at": "That's"
+  },
+  {
+   "shot": "S21",
+   "at": "thirty"
+  },
+  {
+   "shot": "S22",
+   "at": "But"
+  },
+  {
+   "shot": "S23",
+   "at": "math"
   }
  ],
- "end": "f:90",
  "fx": []
 }

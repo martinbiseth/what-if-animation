@@ -225,7 +225,7 @@ export const DoublingBars: React.FC<{ t: number; days: number; at?: number; step
     <g>
       {Array.from({ length: days }).map((_, i) => {
         const k = easeOut(clamp((t - at - i * step) / 10));
-        const h = Math.min(640, 70 * Math.pow(2, i)) * k;
+        const h = Math.min(1000, 70 * Math.pow(2, i)) * k;
         const x = 960 + (i - (days - 1) / 2) * (w + 20);
         const red = i + 1 >= hot;
         return (
