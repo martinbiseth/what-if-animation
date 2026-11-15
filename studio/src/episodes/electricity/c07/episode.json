@@ -1,0 +1,342 @@
+{
+ "id": "ElectricityC07",
+ "slug": "electricity/c07",
+ "chapter": "The light",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "the hill",
+   "text": "On the third night, you camp on a hill. Ellie's fever is going down. Your mom is finally asleep. And you look out over the dark valley."
+  },
+  {
+   "beat": "the light",
+   "text": "That's when you see it. A light. Not a fire. A steady, white, electric light, on the far side of the valley."
+  },
+  {
+   "beat": "mom",
+   "text": "You wake your mom. She sees it too. She doesn't say a word. She just grabs your hand."
+  },
+  {
+   "beat": "impossible",
+   "text": "It's impossible. Every wire on Earth is dead. Unless someone, somewhere, found a way around the rule."
+  },
+  {
+   "beat": "the signal",
+   "text": "Then the light blinks. Three times. Like a signal. Like it knows you're watching."
+  },
+  {
+   "beat": "question",
+   "text": "So what would you do? Stay in the city, or walk away from everything? Tell me in the comments."
+  },
+  {
+   "beat": "is any of this real",
+   "text": "And is any of this real? The science is. Pumps push your water. A fridge keeps food safe for four hours. Fertilizer feeds half the world. And whoever is behind that light? You'll find out in part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "note": "the third night: the hill, the tent, the dark valley, the Milky Way overhead"
+  },
+  {
+   "id": "S2",
+   "note": "close on the ground: Ellie asleep in her blanket, mum asleep sitting up beside her"
+  },
+  {
+   "id": "S3",
+   "note": "you, awake, sitting on the edge of the hill, looking out over the dark valley"
+  },
+  {
+   "id": "S4",
+   "note": "close, you: then you see it (eyes go wide, a cold glint)"
+  },
+  {
+   "id": "S5",
+   "note": "the valley: a light, far away, steady"
+  },
+  {
+   "id": "S6",
+   "note": "closer on the light: steady, white, ELECTRIC"
+  },
+  {
+   "id": "S7",
+   "note": "you wake mum: a hand on her shoulder, her eyes open"
+  },
+  {
+   "id": "S8",
+   "note": "the two of you on the hill, looking at the light; she doesn't say a word"
+  },
+  {
+   "id": "S9",
+   "note": "insert: mum's hand grabs yours"
+  },
+  {
+   "id": "S10",
+   "note": "IMPOSSIBLE."
+  },
+  {
+   "id": "S11",
+   "note": "every wire on Earth is dead"
+  },
+  {
+   "id": "S12",
+   "note": "unless someone found a way around the rule: one icon lights, a question mark"
+  },
+  {
+   "id": "S13",
+   "note": "the light blinks: once, twice, three times"
+  },
+  {
+   "id": "S14",
+   "note": "close, you, the cold light flickering on your face: like it knows you're watching"
+  },
+  {
+   "id": "S15",
+   "note": "the question: STAY OR GO?"
+  },
+  {
+   "id": "S16",
+   "note": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "id": "S17",
+   "note": "what's real: the science, ticking on with the voice"
+  },
+  {
+   "id": "S18",
+   "note": "and whoever is behind that light? Slow push back toward it"
+  },
+  {
+   "id": "S19",
+   "note": "end card: the valley, the light, PART 2"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Ellie's"
+  },
+  {
+   "shot": "S3",
+   "at": "And"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "light"
+  },
+  {
+   "shot": "S6",
+   "at": "steady"
+  },
+  {
+   "shot": "S7",
+   "at": "wake"
+  },
+  {
+   "shot": "S8",
+   "at": "She"
+  },
+  {
+   "shot": "S9",
+   "at": "grabs"
+  },
+  {
+   "shot": "S10",
+   "at": "It's"
+  },
+  {
+   "shot": "S11",
+   "at": "Every"
+  },
+  {
+   "shot": "S12",
+   "at": "Unless"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Like"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "Tell"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "You'll"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S13+0",
+   "kind": "flash",
+   "color": "#CFE8FF",
+   "o": 0.12
+  }
+ ],
+ "tail": 3.0,
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.6
+   ],
+   [
+    "S6+0",
+    "drone",
+    0.3,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.8
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S12+0",
+    "glitch",
+    0.4
+   ],
+   [
+    "S13+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S13+10",
+    "beep",
+    0.5
+   ],
+   [
+    "S13+20",
+    "beep",
+    0.5
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.6
+   ],
+   [
+    "S17+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S18+0",
+    "drone",
+    0.3,
+    "onset",
+    "S19"
+   ],
+   [
+    "S19+0",
+    "card_hit",
+    1.0
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "from": "S4"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
+ }
+}

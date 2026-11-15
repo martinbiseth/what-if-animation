@@ -1,0 +1,488 @@
+{
+ "id": "ElectricityC03",
+ "slug": "electricity/c03",
+ "chapter": "The fun part",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "day one: no school",
+   "text": "Day one. School is cancelled. Probably. Nobody can call anybody, so nobody knows. So nobody goes."
+  },
+  {
+   "beat": "candles and the game",
+   "text": "Your mom lights every candle in the house. Your little sister Ellie digs an old board game out of the closet. You play it by candlelight, and for the first time in years, nobody in your family looks at a phone. Ellie wins three times. She cheats every time."
+  },
+  {
+   "beat": "day two: the freezer",
+   "text": "Day two. The freezer is melting. And the whole street has the same idea. Eat everything. Now. Neighbors you've never met drag their barbecues into the road. There's steak for breakfast, ice cream for lunch, and fish fingers for absolutely nobody."
+  },
+  {
+   "beat": "Mo on a bike",
+   "text": "Your best friend Mo rides over on his bike. Bikes are suddenly the fastest thing in the city. Every car is stuck exactly where it stopped, so kids ride down the middle of the highway where the traffic used to be."
+  },
+  {
+   "beat": "the fire pit",
+   "text": "That evening, Mo's dad builds a fire pit in his backyard and shows everyone how to cook rice in a pot over the flames. It takes an hour. It's burnt. Everybody eats it anyway."
+  },
+  {
+   "beat": "free ice cream",
+   "text": "You and Mo ride to the supermarket. The doors are wide open, and the manager is giving away melting ice cream for free, because it's better than throwing it away. You take six tubs."
+  },
+  {
+   "beat": "the quiet",
+   "text": "And it's quiet. Really quiet. No traffic. No hum. No buzz from the wires. You can hear birds in the middle of the city."
+  },
+  {
+   "beat": "fact: the Milky Way",
+   "text": "At night, people climb onto their roofs just to stare at the sky. Light pollution hides the Milky Way from about eighty percent of North Americans. That's real. Tonight, everyone sees it."
+  },
+  {
+   "beat": "best week ever",
+   "text": "Mo lies next to you on the roof, eating the last ice cream in the neighborhood. 'Honestly,' he says, 'this is kind of the best week ever.'"
+  },
+  {
+   "beat": "button",
+   "text": "He's wrong. Because tomorrow, the water stops."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Light pollution hides the Milky Way from about 80% of North Americans.",
+   "working": "The New World Atlas of Artificial Night Sky Brightness found the Milky Way is hidden from more than a third of humanity, including nearly 80% of North Americans.",
+   "source": "Falchi et al., 'The new world atlas of artificial night sky brightness', Science Advances 2(6), June 2016"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "big word",
+   "set": "street day",
+   "note": "DAY ONE: NO SCHOOL?",
+   "key": 16
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "street day",
+   "note": "you shrug, grinning",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "living candles",
+   "note": "mum lights the candles",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "living candles",
+   "note": "Ellie and the board game",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "table",
+   "note": "the board by candlelight",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "living candles",
+   "note": "Ellie cheats",
+   "key": 24
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "street day",
+   "note": "the street barbecue",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "barbecue",
+   "note": "steak for breakfast",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "street day",
+   "note": "you and the ice cream",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "table",
+   "note": "fish fingers for nobody",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "street day",
+   "note": "Mo rides in",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "highway",
+   "note": "stalled cars, kids on bikes",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "yard dusk",
+   "note": "the fire pit",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "pot",
+   "note": "burnt rice",
+   "key": 20
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "yard dusk",
+   "note": "everyone eats anyway",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "supermarket",
+   "note": "free ice cream",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "basket",
+   "note": "six tubs",
+   "key": 24
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "street day",
+   "note": "the quiet, birds on the wires",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "roof night",
+   "note": "people on the roofs",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "fact",
+   "set": "schematic",
+   "note": "80%",
+   "key": 70
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "roof night",
+   "note": "everyone sees it",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "roof night",
+   "note": "you and Mo on the roof",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "roof night",
+   "note": "he's wrong",
+   "key": 16
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "set": "tap",
+   "note": "the tap runs dry",
+   "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "note": "close on the birds on the dead wire: you can hear them in the middle of the city",
+   "key": 40
+  },
+  {
+   "id": "S26",
+   "size": "big word",
+   "note": "DAY 2: the freezer is melting",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "note": "a neighbour you've never met drags a barbecue into the road behind him",
+   "key": 40
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "little"
+  },
+  {
+   "shot": "S5",
+   "at": "play"
+  },
+  {
+   "shot": "S6",
+   "at": "wins"
+  },
+  {
+   "shot": "S26",
+   "at": "Day"
+  },
+  {
+   "shot": "S7",
+   "at": "whole"
+  },
+  {
+   "shot": "S27",
+   "at": "Neighbors"
+  },
+  {
+   "shot": "S8",
+   "at": "steak"
+  },
+  {
+   "shot": "S9",
+   "at": "ice"
+  },
+  {
+   "shot": "S10",
+   "at": "fish"
+  },
+  {
+   "shot": "S11",
+   "at": "best"
+  },
+  {
+   "shot": "S12",
+   "at": "Every"
+  },
+  {
+   "shot": "S15",
+   "at": "evening"
+  },
+  {
+   "shot": "S16",
+   "at": "takes"
+  },
+  {
+   "shot": "S17",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S13",
+   "at": "supermarket"
+  },
+  {
+   "shot": "S14",
+   "at": "six"
+  },
+  {
+   "shot": "S18",
+   "at": "quiet"
+  },
+  {
+   "shot": "S25",
+   "at": "hear"
+  },
+  {
+   "shot": "S19",
+   "at": "night"
+  },
+  {
+   "shot": "S20",
+   "at": "Light"
+  },
+  {
+   "shot": "S21",
+   "at": "Tonight"
+  },
+  {
+   "shot": "S22",
+   "at": "lies"
+  },
+  {
+   "shot": "S23",
+   "at": "He's"
+  },
+  {
+   "shot": "S24",
+   "at": "tomorrow"
+  }
+ ],
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S3+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S26+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S13+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S14+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S18+0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S19"
+   ],
+   [
+    "S25+0",
+    "pigeon",
+    0.6
+   ],
+   [
+    "S19+0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S23"
+   ],
+   [
+    "S20+0",
+    "counter_tick",
+    0.5
+   ],
+   [
+    "S21+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S24+0",
+    "drone_hit",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S18"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
+}

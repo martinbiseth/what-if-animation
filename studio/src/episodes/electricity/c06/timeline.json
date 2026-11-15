@@ -1,0 +1,478 @@
+{
+ "slug": "electricity/c06",
+ "title": " ",
+ "fps": 30,
+ "total": 2450,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 69,
+   "t0": 0,
+   "t1": 69,
+   "line": "Two days later, Ellie gets a fever. The"
+  },
+  {
+   "shot": "S2",
+   "a": 69,
+   "b": 115,
+   "t0": 0,
+   "t1": 46,
+   "line": "hospital is dark. Its"
+  },
+  {
+   "shot": "S3",
+   "a": 115,
+   "b": 201,
+   "t0": 0,
+   "t1": 86,
+   "line": "backup generators are dead, like everything else. The"
+  },
+  {
+   "shot": "S4",
+   "a": 201,
+   "b": 272,
+   "t0": 0,
+   "t1": 71,
+   "line": "doctors are working by candlelight, the way they did"
+  },
+  {
+   "shot": "S5",
+   "a": 272,
+   "b": 312,
+   "t0": 0,
+   "t1": 40,
+   "line": "two hundred years ago."
+  },
+  {
+   "shot": "S6",
+   "a": 312,
+   "b": 390,
+   "t0": 0,
+   "t1": 78,
+   "line": "No medicine is coming. No ambulance."
+  },
+  {
+   "shot": "S7",
+   "a": 390,
+   "b": 524,
+   "t0": 0,
+   "t1": 134,
+   "line": "Just a tired doctor with a candle, telling your mom to keep Ellie cool and give her water."
+  },
+  {
+   "shot": "S8",
+   "a": 524,
+   "b": 571,
+   "t0": 0,
+   "t1": 47,
+   "line": "Your mom makes a decision."
+  },
+  {
+   "shot": "S9",
+   "a": 571,
+   "b": 656,
+   "t0": 0,
+   "t1": 85,
+   "line": "Grandpa's farm is ninety kilometers away. It has"
+  },
+  {
+   "shot": "S10",
+   "a": 656,
+   "b": 779,
+   "t0": 0,
+   "t1": 123,
+   "line": "a well with a hand pump, a wood stove, chickens, and a field."
+  },
+  {
+   "shot": "S11",
+   "a": 779,
+   "b": 849,
+   "t0": 0,
+   "t1": 70,
+   "line": "Stay in the city, and the water runs out."
+  },
+  {
+   "shot": "S12",
+   "a": 849,
+   "b": 956,
+   "t0": 0,
+   "t1": 107,
+   "line": "Go, and it's four days on foot, with a sick little sister."
+  },
+  {
+   "shot": "S13",
+   "a": 956,
+   "b": 1114,
+   "t0": 0,
+   "t1": 158,
+   "line": "Mo's family is staying. 'It'll come back, ' he says. 'The power has to come back. '"
+  },
+  {
+   "shot": "S14",
+   "a": 1114,
+   "b": 1158,
+   "t0": 0,
+   "t1": 44,
+   "line": "But you know the rule."
+  },
+  {
+   "shot": "S15",
+   "a": 1158,
+   "b": 1192,
+   "t0": 0,
+   "t1": 34,
+   "line": "It doesn't. You"
+  },
+  {
+   "shot": "S16",
+   "a": 1192,
+   "b": 1236,
+   "t0": 0,
+   "t1": 44,
+   "line": "hug him goodbye. He"
+  },
+  {
+   "shot": "S17",
+   "a": 1236,
+   "b": 1340,
+   "t0": 0,
+   "t1": 104,
+   "line": "gives you his bike lights, out of habit. They don't work. You"
+  },
+  {
+   "shot": "S18",
+   "a": 1340,
+   "b": 1379,
+   "t0": 0,
+   "t1": 39,
+   "line": "take them anyway. You"
+  },
+  {
+   "shot": "S19",
+   "a": 1379,
+   "b": 1481,
+   "t0": 0,
+   "t1": 102,
+   "line": "go back to the man with the bat. He hands over the food he promised, and"
+  },
+  {
+   "shot": "S20",
+   "a": 1481,
+   "b": 1562,
+   "t0": 0,
+   "t1": 81,
+   "line": "something else. A map. A paper map."
+  },
+  {
+   "shot": "S21",
+   "a": 1562,
+   "b": 1646,
+   "t0": 0,
+   "t1": 84,
+   "line": "Suddenly one of the most valuable things in the world. You"
+  },
+  {
+   "shot": "S22",
+   "a": 1646,
+   "b": 1824,
+   "t0": 0,
+   "t1": 178,
+   "line": "load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game."
+  },
+  {
+   "shot": "S23",
+   "a": 1824,
+   "b": 1964,
+   "t0": 0,
+   "t1": 140,
+   "line": "Ellie rides in the back, wrapped in a blanket. Mom pulls. You push. And"
+  },
+  {
+   "shot": "S24",
+   "a": 1964,
+   "b": 2067,
+   "t0": 0,
+   "t1": 103,
+   "line": "at sunrise, you walk out of the city, and you don't look back. On"
+  },
+  {
+   "shot": "S25",
+   "a": 2067,
+   "b": 2254,
+   "t0": 0,
+   "t1": 187,
+   "line": "the road, you pass hundreds of people walking the other way, into the city, looking for help that isn't there. That"
+  },
+  {
+   "shot": "S26",
+   "a": 2254,
+   "b": 2341,
+   "t0": 0,
+   "t1": 87,
+   "line": "night, you sleep on the floor of an empty school. The"
+  },
+  {
+   "shot": "S27",
+   "a": 2341,
+   "b": 2450,
+   "t0": 0,
+   "t1": 109,
+   "line": "same kind of building you were so happy to skip, one week ago."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 34,
+   "len": 69,
+   "first": 0,
+   "line": "Two days later, Ellie gets a fever. The",
+   "note": "close, Ellie with a fever: flushed, eyes half shut, candle light"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 23,
+   "len": 46,
+   "first": 69,
+   "line": "hospital is dark. Its",
+   "note": "the hospital corridor, dark: mum carries Ellie in, you beside her, candles on the floor"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 43,
+   "len": 86,
+   "first": 115,
+   "line": "backup generators are dead, like everything else. The",
+   "note": "the backup generator on the schematic: dead like everything else"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 35,
+   "len": 71,
+   "first": 201,
+   "line": "doctors are working by candlelight, the way they did",
+   "note": "doctors working by candlelight: one walks up the corridor holding a candle"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 20,
+   "len": 40,
+   "first": 272,
+   "line": "two hundred years ago.",
+   "note": "200 YEARS AGO"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 39,
+   "len": 78,
+   "first": 312,
+   "line": "No medicine is coming. No ambulance.",
+   "note": "nothing is coming: medicine, ambulance, crossed on the words"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 67,
+   "len": 134,
+   "first": 390,
+   "line": "Just a tired doctor with a candle, telling your mom to keep Ellie cool and give her water.",
+   "note": "the tired doctor with a candle talks to mum, you beside her"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 23,
+   "len": 47,
+   "first": 524,
+   "line": "Your mom makes a decision.",
+   "note": "close, mum: a decision"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 42,
+   "len": 85,
+   "first": 571,
+   "line": "Grandpa's farm is ninety kilometers away. It has",
+   "note": "the schematic map: the city, a dashed line out to grandpa's farm, 90 KM"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 61,
+   "len": 123,
+   "first": 656,
+   "line": "a well with a hand pump, a wood stove, chickens, and a field.",
+   "note": "what the farm has: a hand pump, a wood stove, chickens, a field"
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 35,
+   "len": 70,
+   "first": 779,
+   "line": "Stay in the city, and the water runs out.",
+   "note": "STAY: the water runs out (a bottle draining on the left)"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 53,
+   "len": 107,
+   "first": 849,
+   "line": "Go, and it's four days on foot, with a sick little sister.",
+   "note": "GO: 4 DAYS ON FOOT"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 79,
+   "len": 158,
+   "first": 956,
+   "line": "Mo's family is staying. 'It'll come back, ' he says. 'The power has to come back. '",
+   "note": "on the street: Mo says they're staying, the power has to come back"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 22,
+   "len": 44,
+   "first": 1114,
+   "line": "But you know the rule.",
+   "note": "close, you: you know the rule"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 17,
+   "len": 34,
+   "first": 1158,
+   "line": "It doesn't. You",
+   "note": "IT DOESN'T."
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 22,
+   "len": 44,
+   "first": 1192,
+   "line": "hug him goodbye. He",
+   "note": "you and Mo hug goodbye on the street, dusk"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 52,
+   "len": 104,
+   "first": 1236,
+   "line": "gives you his bike lights, out of habit. They don't work. You",
+   "note": "insert, the bike lights in your palm: click, click, nothing"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 19,
+   "len": 39,
+   "first": 1340,
+   "line": "take them anyway. You",
+   "note": "close, you: you take them anyway"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 51,
+   "len": 102,
+   "first": 1379,
+   "line": "go back to the man with the bat. He hands over the food he promised, and",
+   "note": "back across the street: the man with the bat hands over a box of cans"
+  },
+  {
+   "id": "S20",
+   "size": "",
+   "key": 40,
+   "len": 81,
+   "first": 1481,
+   "line": "something else. A map. A paper map.",
+   "note": "insert: a paper map unfolds, a route drawn on it"
+  },
+  {
+   "id": "S21",
+   "size": "",
+   "key": 42,
+   "len": 84,
+   "first": 1562,
+   "line": "Suddenly one of the most valuable things in the world. You",
+   "note": "A MAP: suddenly the most valuable thing you own"
+  },
+  {
+   "id": "S22",
+   "size": "",
+   "key": 89,
+   "len": 178,
+   "first": 1646,
+   "line": "load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game.",
+   "note": "dawn on the street: the old bike trailer, loaded one thing at a time"
+  },
+  {
+   "id": "S23",
+   "size": "",
+   "key": 70,
+   "len": 140,
+   "first": 1824,
+   "line": "Ellie rides in the back, wrapped in a blanket. Mom pulls. You push. And",
+   "note": "on the move: Ellie wrapped up in the trailer, mum pulling, you pushing"
+  },
+  {
+   "id": "S24",
+   "size": "",
+   "key": 51,
+   "len": 103,
+   "first": 1964,
+   "line": "at sunrise, you walk out of the city, and you don't look back. On",
+   "note": "sunrise: three small figures and a trailer walk out of the city along the country road"
+  },
+  {
+   "id": "S25",
+   "size": "",
+   "key": 93,
+   "len": 187,
+   "first": 2067,
+   "line": "the road, you pass hundreds of people walking the other way, into the city, looking for help that isn't there. That",
+   "note": "on the road: crowds walking the other way, into the city"
+  },
+  {
+   "id": "S26",
+   "size": "",
+   "key": 43,
+   "len": 87,
+   "first": 2254,
+   "line": "night, you sleep on the floor of an empty school. The",
+   "note": "the empty school at night: mum and you asleep against the wall, Ellie in her blanket"
+  },
+  {
+   "id": "S27",
+   "size": "",
+   "key": 54,
+   "len": 109,
+   "first": 2341,
+   "line": "same kind of building you were so happy to skip, one week ago.",
+   "note": "close, you, awake in the moonlight: the building you were so happy to skip"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "electricity/c06/voice.wav",
+  "sfx": "electricity/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3413,
+  "music": "electricity/c06/music.wav",
+  "musicVol": 0.0828
+ }
+}

@@ -1,0 +1,474 @@
+{
+ "id": "ElectricityC01",
+ "slug": "electricity/c01",
+ "chapter": "The night everything stopped",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "cold open: the game",
+   "text": "Eight fourteen PM. You're one level away from beating the game. And the screen goes black."
+  },
+  {
+   "beat": "demo 1: the house",
+   "text": "So does the TV. The fridge stops humming. Every light in the house, gone. At the same moment."
+  },
+  {
+   "beat": "demo 2: the phone",
+   "text": "You grab your phone. Dead. Not low battery. Dead. You try the flashlight in the kitchen drawer. Dead too."
+  },
+  {
+   "beat": "demo 3: the street",
+   "text": "Outside, the whole street is dark. A car rolls to a stop, without a sound. The streetlights. The traffic lights. The whole city, all the way to the horizon. Black. Somewhere, a car alarm should be going off. It isn't. Nothing is."
+  },
+  {
+   "beat": "demo 4: the sky",
+   "text": "Then you look up. And for the first time in your life, you see the Milky Way."
+  },
+  {
+   "beat": "title card",
+   "text": "What if electricity disappeared, forever?"
+  },
+  {
+   "beat": "the turn",
+   "text": "The first night feels like camping. But a city runs on electricity the way your body runs on blood. And the clock started the second the lights went out."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert",
+   "set": "game",
+   "note": "the console: LEVEL 99, 8:14 PM",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "living",
+   "note": "you on the sofa, leaning in",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "game",
+   "note": "the screen dies",
+   "key": 14
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "living",
+   "note": "the TV dies too",
+   "key": 10
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the fridge's display goes out",
+   "key": 3
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "living",
+   "note": "every light goes out",
+   "key": 10
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "living dark",
+   "note": "your face in the dark",
+   "key": 14
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "phone",
+   "note": "press and hold: nothing",
+   "key": 14
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "living dark",
+   "note": "worried",
+   "key": 10
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "drawer",
+   "note": "the flashlight: click, nothing",
+   "key": 18
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "living dark",
+   "note": "dead too",
+   "key": 10
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "street night",
+   "note": "you come out into the dark street",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "street night",
+   "note": "a car rolls to a stop",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "street",
+   "note": "the dead street lamp",
+   "key": 10
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "street",
+   "note": "the dead traffic light",
+   "key": 10
+  },
+  {
+   "id": "S16",
+   "size": "wide pan",
+   "set": "roof night",
+   "note": "the whole city dark",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "street night",
+   "note": "you alone, a car alarm that doesn't go off",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "low angle",
+   "set": "street night",
+   "note": "you look up",
+   "key": 24
+  },
+  {
+   "id": "S19",
+   "size": "tilt up",
+   "set": "street night",
+   "note": "into the stars",
+   "key": 55
+  },
+  {
+   "id": "S20",
+   "size": "sky",
+   "set": "sky",
+   "note": "the Milky Way",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "title",
+   "set": "roof night",
+   "note": "WHAT IF ELECTRICITY DISAPPEARED FOREVER?",
+   "key": 48
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "living candle",
+   "note": "the first night: the family round a candle",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the city's veins pulse, then fade",
+   "key": 30
+  },
+  {
+   "id": "S24",
+   "size": "big word",
+   "set": "card",
+   "note": "DAY 1",
+   "key": 16
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "And"
+  },
+  {
+   "shot": "S4",
+   "at": "So"
+  },
+  {
+   "shot": "S5",
+   "at": "fridge"
+  },
+  {
+   "shot": "S6",
+   "at": "Every"
+  },
+  {
+   "shot": "S7",
+   "at": "same"
+  },
+  {
+   "shot": "S8",
+   "at": "grab"
+  },
+  {
+   "shot": "S9",
+   "at": "Not"
+  },
+  {
+   "shot": "S10",
+   "at": "try"
+  },
+  {
+   "shot": "S11",
+   "at": "too"
+  },
+  {
+   "shot": "S12",
+   "at": "Outside"
+  },
+  {
+   "shot": "S13",
+   "at": "car"
+  },
+  {
+   "shot": "S14",
+   "at": "streetlights"
+  },
+  {
+   "shot": "S15",
+   "at": "traffic"
+  },
+  {
+   "shot": "S16",
+   "at": "whole"
+  },
+  {
+   "shot": "S17",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S18",
+   "at": "Then"
+  },
+  {
+   "shot": "S19",
+   "at": "first"
+  },
+  {
+   "shot": "S20",
+   "at": "Milky"
+  },
+  {
+   "shot": "S21",
+   "at": "What"
+  },
+  {
+   "shot": "S22",
+   "at": "first"
+  },
+  {
+   "shot": "S23",
+   "at": "But"
+  },
+  {
+   "shot": "S24",
+   "at": "clock"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S3+0",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4
+  },
+  {
+   "at": "S21+3",
+   "kind": "flash",
+   "color": "#CFE0FF",
+   "o": 0.4
+  }
+ ],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S1+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S3+0",
+    "power_off",
+    1.0
+   ],
+   [
+    "S4+0",
+    "power_off",
+    0.8
+   ],
+   [
+    "S5+0",
+    "switch_off",
+    0.9
+   ],
+   [
+    "S6+0",
+    "power_down",
+    1.0,
+    "peak"
+   ],
+   [
+    "S7+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S8+6",
+    "beep",
+    0.6
+   ],
+   [
+    "S10+4",
+    "switch_off",
+    0.8
+   ],
+   [
+    "S12+0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S18"
+   ],
+   [
+    "S16+0",
+    "drone",
+    0.3,
+    "onset",
+    "S21"
+   ],
+   [
+    "S20+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S21+3",
+    "title_boom",
+    1.0,
+    "peak"
+   ],
+   [
+    "S23+0",
+    "power_down",
+    0.5,
+    "peak"
+   ],
+   [
+    "S24+0",
+    "card_hit",
+    0.9
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "from": "S22",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -13.0
+  }
+ }
+}

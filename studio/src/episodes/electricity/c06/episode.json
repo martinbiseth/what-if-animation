@@ -1,0 +1,411 @@
+{
+ "id": "ElectricityC06",
+ "slug": "electricity/c06",
+ "chapter": "The road",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "Ellie gets sick",
+   "text": "Two days later, Ellie gets a fever. The hospital is dark. Its backup generators are dead, like everything else. The doctors are working by candlelight, the way they did two hundred years ago. No medicine is coming. No ambulance. Just a tired doctor with a candle, telling your mom to keep Ellie cool and give her water."
+  },
+  {
+   "beat": "the farm",
+   "text": "Your mom makes a decision. Grandpa's farm is ninety kilometers away. It has a well with a hand pump, a wood stove, chickens, and a field. Stay in the city, and the water runs out. Go, and it's four days on foot, with a sick little sister."
+  },
+  {
+   "beat": "Mo stays",
+   "text": "Mo's family is staying. 'It'll come back,' he says. 'The power has to come back.' But you know the rule. It doesn't."
+  },
+  {
+   "beat": "goodbye",
+   "text": "You hug him goodbye. He gives you his bike lights, out of habit. They don't work. You take them anyway."
+  },
+  {
+   "beat": "the trade",
+   "text": "You go back to the man with the bat. He hands over the food he promised, and something else. A map. A paper map. Suddenly one of the most valuable things in the world."
+  },
+  {
+   "beat": "the choice",
+   "text": "You load the old bike trailer with everything that matters. Water. Rice. Blankets. The board game. Ellie rides in the back, wrapped in a blanket. Mom pulls. You push. And at sunrise, you walk out of the city, and you don't look back."
+  },
+  {
+   "beat": "the road",
+   "text": "On the road, you pass hundreds of people walking the other way, into the city, looking for help that isn't there."
+  },
+  {
+   "beat": "the school",
+   "text": "That night, you sleep on the floor of an empty school. The same kind of building you were so happy to skip, one week ago."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "note": "close, Ellie with a fever: flushed, eyes half shut, candle light"
+  },
+  {
+   "id": "S2",
+   "note": "the hospital corridor, dark: mum carries Ellie in, you beside her, candles on the floor"
+  },
+  {
+   "id": "S3",
+   "note": "the backup generator on the schematic: dead like everything else"
+  },
+  {
+   "id": "S4",
+   "note": "doctors working by candlelight: one walks up the corridor holding a candle"
+  },
+  {
+   "id": "S5",
+   "note": "200 YEARS AGO"
+  },
+  {
+   "id": "S6",
+   "note": "nothing is coming: medicine, ambulance, crossed on the words"
+  },
+  {
+   "id": "S7",
+   "note": "the tired doctor with a candle talks to mum, you beside her"
+  },
+  {
+   "id": "S8",
+   "note": "close, mum: a decision"
+  },
+  {
+   "id": "S9",
+   "note": "the schematic map: the city, a dashed line out to grandpa's farm, 90 KM"
+  },
+  {
+   "id": "S10",
+   "note": "what the farm has: a hand pump, a wood stove, chickens, a field"
+  },
+  {
+   "id": "S11",
+   "note": "STAY: the water runs out (a bottle draining on the left)"
+  },
+  {
+   "id": "S12",
+   "note": "GO: 4 DAYS ON FOOT"
+  },
+  {
+   "id": "S13",
+   "note": "on the street: Mo says they're staying, the power has to come back"
+  },
+  {
+   "id": "S14",
+   "note": "close, you: you know the rule"
+  },
+  {
+   "id": "S15",
+   "note": "IT DOESN'T."
+  },
+  {
+   "id": "S16",
+   "note": "you and Mo hug goodbye on the street, dusk"
+  },
+  {
+   "id": "S17",
+   "note": "insert, the bike lights in your palm: click, click, nothing"
+  },
+  {
+   "id": "S18",
+   "note": "close, you: you take them anyway"
+  },
+  {
+   "id": "S19",
+   "note": "back across the street: the man with the bat hands over a box of cans"
+  },
+  {
+   "id": "S20",
+   "note": "insert: a paper map unfolds, a route drawn on it"
+  },
+  {
+   "id": "S21",
+   "note": "A MAP: suddenly the most valuable thing you own"
+  },
+  {
+   "id": "S22",
+   "note": "dawn on the street: the old bike trailer, loaded one thing at a time"
+  },
+  {
+   "id": "S23",
+   "note": "on the move: Ellie wrapped up in the trailer, mum pulling, you pushing"
+  },
+  {
+   "id": "S24",
+   "note": "sunrise: three small figures and a trailer walk out of the city along the country road"
+  },
+  {
+   "id": "S25",
+   "note": "on the road: crowds walking the other way, into the city"
+  },
+  {
+   "id": "S26",
+   "note": "the empty school at night: mum and you asleep against the wall, Ellie in her blanket"
+  },
+  {
+   "id": "S27",
+   "note": "close, you, awake in the moonlight: the building you were so happy to skip"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "hospital"
+  },
+  {
+   "shot": "S3",
+   "at": "backup"
+  },
+  {
+   "shot": "S4",
+   "at": "doctors"
+  },
+  {
+   "shot": "S5",
+   "at": "two"
+  },
+  {
+   "shot": "S6",
+   "at": "No"
+  },
+  {
+   "shot": "S7",
+   "at": "Just"
+  },
+  {
+   "shot": "S8",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S9",
+   "at": "Grandpa's"
+  },
+  {
+   "shot": "S10",
+   "at": "well"
+  },
+  {
+   "shot": "S11",
+   "at": "Stay"
+  },
+  {
+   "shot": "S12",
+   "at": "Go"
+  },
+  {
+   "shot": "S13",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S14",
+   "at": "But"
+  },
+  {
+   "shot": "S15",
+   "at": "It"
+  },
+  {
+   "shot": "S16",
+   "at": "hug"
+  },
+  {
+   "shot": "S17",
+   "at": "gives"
+  },
+  {
+   "shot": "S18",
+   "at": "take"
+  },
+  {
+   "shot": "S19",
+   "at": "go"
+  },
+  {
+   "shot": "S20",
+   "at": "something"
+  },
+  {
+   "shot": "S21",
+   "at": "Suddenly"
+  },
+  {
+   "shot": "S22",
+   "at": "load"
+  },
+  {
+   "shot": "S23",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S24",
+   "at": "sunrise"
+  },
+  {
+   "shot": "S25",
+   "at": "road"
+  },
+  {
+   "shot": "S26",
+   "at": "night"
+  },
+  {
+   "shot": "S27",
+   "at": "same"
+  }
+ ],
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "cough",
+    0.6
+   ],
+   [
+    "S3+0",
+    "power_off",
+    0.5
+   ],
+   [
+    "S5+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S10+0",
+    "ding",
+    0.4
+   ],
+   [
+    "S11+0",
+    "gulp",
+    0.4
+   ],
+   [
+    "S12+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S15+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S17+0",
+    "switch_off",
+    0.5
+   ],
+   [
+    "S20+0",
+    "paper",
+    0.7
+   ],
+   [
+    "S21+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S22+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S24+0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S26"
+   ],
+   [
+    "S26+0",
+    "tick",
+    0.3,
+    "onset",
+    "S27"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -13.0
+  }
+ }
+}

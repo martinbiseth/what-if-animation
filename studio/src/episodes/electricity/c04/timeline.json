@@ -1,0 +1,410 @@
+{
+ "slug": "electricity/c04",
+ "title": " ",
+ "fps": 30,
+ "total": 2958,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 64,
+   "t0": 0,
+   "t1": 64,
+   "line": "Here's the problem nobody thinks about."
+  },
+  {
+   "shot": "S2",
+   "a": 64,
+   "b": 280,
+   "t0": 0,
+   "t1": 216,
+   "line": "Water doesn't climb up to your tap by itself. Electric pumps push it there. When the pumps stop, the pipes lose pressure, and"
+  },
+  {
+   "shot": "S3",
+   "a": 280,
+   "b": 324,
+   "t0": 0,
+   "t1": 44,
+   "line": "the taps go dry. In"
+  },
+  {
+   "shot": "S4",
+   "a": 324,
+   "b": 435,
+   "t0": 0,
+   "t1": 111,
+   "line": "2003, a blackout cut the water pressure around Detroit."
+  },
+  {
+   "shot": "S5",
+   "a": 435,
+   "b": 579,
+   "t0": 0,
+   "t1": 144,
+   "line": "A hundred and twenty- six communities were told to boil their water. That's real. And that blackout"
+  },
+  {
+   "shot": "S6",
+   "a": 579,
+   "b": 670,
+   "t0": 0,
+   "t1": 91,
+   "line": "lasted two days. Yours lasts forever. And"
+  },
+  {
+   "shot": "S7",
+   "a": 670,
+   "b": 846,
+   "t0": 0,
+   "t1": 176,
+   "line": "the toilets? They need water pressure too. By day four, your whole building smells like it. Then"
+  },
+  {
+   "shot": "S8",
+   "a": 846,
+   "b": 873,
+   "t0": 0,
+   "t1": 27,
+   "line": "the food. A"
+  },
+  {
+   "shot": "S9",
+   "a": 873,
+   "b": 1069,
+   "t0": 0,
+   "t1": 196,
+   "line": "fridge keeps food safe for about four hours without power. A full freezer, about two days. That's real too."
+  },
+  {
+   "shot": "S10",
+   "a": 1069,
+   "b": 1180,
+   "t0": 0,
+   "t1": 111,
+   "line": "After that, everything you didn't eat at the barbecue starts to rot. And"
+  },
+  {
+   "shot": "S11",
+   "a": 1180,
+   "b": 1345,
+   "t0": 0,
+   "t1": 165,
+   "line": "the shops can't refill. Trucks need fuel, and the pump at every gas station is electric."
+  },
+  {
+   "shot": "S12",
+   "a": 1345,
+   "b": 1440,
+   "t0": 0,
+   "t1": 95,
+   "line": "The shelves empty in a day. Nothing comes back. Your"
+  },
+  {
+   "shot": "S13",
+   "a": 1440,
+   "b": 1581,
+   "t0": 0,
+   "t1": 141,
+   "line": "mom fills every pot, every bottle and the bathtub with the last water from the tap."
+  },
+  {
+   "shot": "S14",
+   "a": 1581,
+   "b": 1730,
+   "t0": 0,
+   "t1": 149,
+   "line": "Smart. Because that bathtub is now the most important thing your family owns. And when it gets"
+  },
+  {
+   "shot": "S15",
+   "a": 1730,
+   "b": 1890,
+   "t0": 0,
+   "t1": 160,
+   "line": "dark, it gets really dark. The candles burn down. By day four, your family goes"
+  },
+  {
+   "shot": "S16",
+   "a": 1890,
+   "b": 2010,
+   "t0": 0,
+   "t1": 120,
+   "line": "to bed at sunset, like people did for most of human history. Then there's"
+  },
+  {
+   "shot": "S17",
+   "a": 2010,
+   "b": 2060,
+   "t0": 0,
+   "t1": 50,
+   "line": "the biggest problem of all. In"
+  },
+  {
+   "shot": "S18",
+   "a": 2060,
+   "b": 2363,
+   "t0": 0,
+   "t1": 303,
+   "line": "nineteen hundred, before most homes had electricity, about one point six billion people lived on Earth. Today, more than eight billion do. How do you feed eight billion people?"
+  },
+  {
+   "shot": "S19",
+   "a": 2363,
+   "b": 2493,
+   "t0": 0,
+   "t1": 130,
+   "line": "Machines, cold trucks, water pumps, and fertilizer made in giant factories."
+  },
+  {
+   "shot": "S20",
+   "a": 2493,
+   "b": 2663,
+   "t0": 0,
+   "t1": 170,
+   "line": "Scientists estimate that factory- made fertilizer feeds about half the people alive today. That's real."
+  },
+  {
+   "shot": "S21",
+   "a": 2663,
+   "b": 2853,
+   "t0": 0,
+   "t1": 190,
+   "line": "Without power, the factories stop. The tractors with computers stop. The pumps that water the fields stop."
+  },
+  {
+   "shot": "S22",
+   "a": 2853,
+   "b": 2921,
+   "t0": 0,
+   "t1": 68,
+   "line": "So the real danger isn't the dark. It's"
+  },
+  {
+   "shot": "S23",
+   "a": 2921,
+   "b": 2958,
+   "t0": 0,
+   "t1": 37,
+   "line": "dinner."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 64,
+   "first": 0,
+   "line": "Here's the problem nobody thinks about.",
+   "note": "THE CATCH: WATER NEEDS POWER"
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "key": 80,
+   "len": 216,
+   "first": 64,
+   "line": "Water doesn't climb up to your tap by itself. Electric pumps push it there. When the pumps stop, the pipes lose pressure, and",
+   "note": "the water system, the pump stops"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 280,
+   "line": "the taps go dry. In",
+   "note": "the tap: nothing"
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "key": 16,
+   "len": 111,
+   "first": 324,
+   "line": "2003, a blackout cut the water pressure around Detroit.",
+   "note": "DETROIT 2003"
+  },
+  {
+   "id": "S5",
+   "size": "fact",
+   "key": 70,
+   "len": 144,
+   "first": 435,
+   "line": "A hundred and twenty- six communities were told to boil their water. That's real. And that blackout",
+   "note": "126 communities"
+  },
+  {
+   "id": "S6",
+   "size": "diagram",
+   "key": 50,
+   "len": 91,
+   "first": 579,
+   "line": "lasted two days. Yours lasts forever. And",
+   "note": "2 days vs forever"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 20,
+   "len": 176,
+   "first": 670,
+   "line": "the toilets? They need water pressure too. By day four, your whole building smells like it. Then",
+   "note": "Ellie holds her nose"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 27,
+   "first": 846,
+   "line": "the food. A",
+   "note": "mum opens the dead fridge"
+  },
+  {
+   "id": "S9",
+   "size": "fact",
+   "key": 70,
+   "len": 196,
+   "first": 873,
+   "line": "fridge keeps food safe for about four hours without power. A full freezer, about two days. That's real too.",
+   "note": "4 hours / 2 days"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 40,
+   "len": 111,
+   "first": 1069,
+   "line": "After that, everything you didn't eat at the barbecue starts to rot. And",
+   "note": "leftovers rot"
+  },
+  {
+   "id": "S11",
+   "size": "icons",
+   "key": 50,
+   "len": 165,
+   "first": 1180,
+   "line": "the shops can't refill. Trucks need fuel, and the pump at every gas station is electric.",
+   "note": "trucks need fuel, pumps are electric"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 30,
+   "len": 95,
+   "first": 1345,
+   "line": "The shelves empty in a day. Nothing comes back. Your",
+   "note": "empty shelves"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 141,
+   "first": 1440,
+   "line": "mom fills every pot, every bottle and the bathtub with the last water from the tap.",
+   "note": "mum fills the bathtub"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 30,
+   "len": 149,
+   "first": 1581,
+   "line": "Smart. Because that bathtub is now the most important thing your family owns. And when it gets",
+   "note": "the tub, treasure"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 160,
+   "first": 1730,
+   "line": "dark, it gets really dark. The candles burn down. By day four, your family goes",
+   "note": "the candle burns down"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 120,
+   "first": 1890,
+   "line": "to bed at sunset, like people did for most of human history. Then there's",
+   "note": "in bed at sunset"
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "key": 16,
+   "len": 50,
+   "first": 2010,
+   "line": "the biggest problem of all. In",
+   "note": "THE BIGGEST PROBLEM"
+  },
+  {
+   "id": "S18",
+   "size": "diagram",
+   "key": 80,
+   "len": 303,
+   "first": 2060,
+   "line": "nineteen hundred, before most homes had electricity, about one point six billion people lived on Earth. Today, more than eight billion do. How do you feed eight billion people?",
+   "note": "1.6 billion to 8 billion"
+  },
+  {
+   "id": "S19",
+   "size": "icons",
+   "key": 60,
+   "len": 130,
+   "first": 2363,
+   "line": "Machines, cold trucks, water pumps, and fertilizer made in giant factories.",
+   "note": "machines, trucks, pumps, fertilizer"
+  },
+  {
+   "id": "S20",
+   "size": "fact",
+   "key": 70,
+   "len": 170,
+   "first": 2493,
+   "line": "Scientists estimate that factory- made fertilizer feeds about half the people alive today. That's real.",
+   "note": "48%"
+  },
+  {
+   "id": "S21",
+   "size": "icons",
+   "key": 60,
+   "len": 190,
+   "first": 2663,
+   "line": "Without power, the factories stop. The tractors with computers stop. The pumps that water the fields stop.",
+   "note": "without power: crossed"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 68,
+   "first": 2853,
+   "line": "So the real danger isn't the dark. It's",
+   "note": "dinner: one can"
+  },
+  {
+   "id": "S23",
+   "size": "big word",
+   "key": 16,
+   "len": 37,
+   "first": 2921,
+   "line": "dinner.",
+   "note": "DINNER."
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "electricity/c04/voice.wav",
+  "sfx": "electricity/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3112,
+  "music": "electricity/c04/music.wav",
+  "musicVol": 0.0782
+ }
+}

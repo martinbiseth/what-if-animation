@@ -1,0 +1,329 @@
+{
+ "id": "ElectricityC02",
+ "slug": "electricity/c02",
+ "chapter": "The rule",
+ "topic": "What if electricity disappeared forever?",
+ "script": [
+  {
+   "beat": "rules: not a blackout",
+   "text": "Here are the rules. This isn't a blackout. Electricity itself has stopped working. No current flows through any wire, anywhere on Earth."
+  },
+  {
+   "beat": "how you know",
+   "text": "How do you even know it's forever? The first morning, everyone waits. Power workers walk the lines on foot. Nothing is broken. The wires are fine. The power plants are fine. Electricity just isn't there anymore."
+  },
+  {
+   "beat": "rules: nothing stored",
+   "text": "No batteries. No generators. No solar panels. Not even the tiny battery in your watch."
+  },
+  {
+   "beat": "what's lost",
+   "text": "Every photo you ever took. Every message. Every saved game. All of it is locked inside machines that will never turn on again."
+  },
+  {
+   "beat": "rules: what still works",
+   "text": "But some things still work. Fire works. Anything with no electric parts works. Bikes. Sailboats. Old steam trains. Your grandpa's wind-up clock."
+  },
+  {
+   "beat": "the weird part",
+   "text": "And here's the weird part. Your brain and your heart run on tiny electrical signals. Those still work. Otherwise this would be a very short video."
+  },
+  {
+   "beat": "the rule",
+   "text": "So the rule is simple. Anything people built to carry electricity is dead. Every wire, every chip, every screen. Silent. Forever."
+  },
+  {
+   "beat": "plant",
+   "text": "Remember that rule. Because one night, far from home, you're going to see it broken."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "set": "schematic",
+   "note": "NOT A BLACKOUT",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "current stops in the wire",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "street day",
+   "note": "the first morning: everyone waits",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "country road",
+   "note": "a power worker walks the line, shrugs",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "power plants intact and dark",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "icons",
+   "set": "schematic",
+   "note": "nothing stored works",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "dark",
+   "note": "photos, messages, saves locked away",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "dark",
+   "note": "a match, a candle: fire works",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "icons",
+   "set": "schematic",
+   "note": "bikes, sails, steam, springs",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "brain and heart sparking",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "living dark",
+   "note": "smug: a very short video",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "icons",
+   "set": "schematic",
+   "note": "wire, chip, screen: dead",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "set": "card",
+   "note": "FOREVER.",
+   "key": 16
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "living dark",
+   "note": "you at the window from behind",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "wide push",
+   "set": "valley",
+   "note": "far away, a flicker",
+   "key": 60
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Electricity"
+  },
+  {
+   "shot": "S3",
+   "at": "How"
+  },
+  {
+   "shot": "S4",
+   "at": "Power"
+  },
+  {
+   "shot": "S5",
+   "at": "wires"
+  },
+  {
+   "shot": "S6",
+   "at": "No"
+  },
+  {
+   "shot": "S7",
+   "at": "Every"
+  },
+  {
+   "shot": "S8",
+   "at": "But"
+  },
+  {
+   "shot": "S9",
+   "at": "Bikes"
+  },
+  {
+   "shot": "S10",
+   "at": "weird"
+  },
+  {
+   "shot": "S11",
+   "at": "Otherwise"
+  },
+  {
+   "shot": "S12",
+   "at": "So"
+  },
+  {
+   "shot": "S13",
+   "at": "Silent"
+  },
+  {
+   "shot": "S14",
+   "at": "Remember"
+  },
+  {
+   "shot": "S15",
+   "at": "far"
+  }
+ ],
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+0",
+    "power_down",
+    0.4,
+    "peak"
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S7+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S10+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S12+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S13+0",
+    "drone_hit",
+    0.8
+   ],
+   [
+    "S14+0",
+    "roof_wind",
+    0.3,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "glitch",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S13"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -13.0
+  }
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "slug": "electricity/c07",
+ "title": " ",
+ "fps": 30,
+ "total": 1583,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 70,
+   "t0": 0,
+   "t1": 70,
+   "line": "On the third night, you camp on a hill."
+  },
+  {
+   "shot": "S2",
+   "a": 70,
+   "b": 169,
+   "t0": 0,
+   "t1": 99,
+   "line": "Ellie's fever is going down. Your mom is finally asleep."
+  },
+  {
+   "shot": "S3",
+   "a": 169,
+   "b": 233,
+   "t0": 0,
+   "t1": 64,
+   "line": "And you look out over the dark valley."
+  },
+  {
+   "shot": "S4",
+   "a": 233,
+   "b": 276,
+   "t0": 0,
+   "t1": 43,
+   "line": "That's when you see it. A"
+  },
+  {
+   "shot": "S5",
+   "a": 276,
+   "b": 340,
+   "t0": 0,
+   "t1": 64,
+   "line": "light. Not a fire. A"
+  },
+  {
+   "shot": "S6",
+   "a": 340,
+   "b": 458,
+   "t0": 0,
+   "t1": 118,
+   "line": "steady, white, electric light, on the far side of the valley. You"
+  },
+  {
+   "shot": "S7",
+   "a": 458,
+   "b": 486,
+   "t0": 0,
+   "t1": 28,
+   "line": "wake your mom."
+  },
+  {
+   "shot": "S8",
+   "a": 486,
+   "b": 568,
+   "t0": 0,
+   "t1": 82,
+   "line": "She sees it too. She doesn't say a word. She just"
+  },
+  {
+   "shot": "S9",
+   "a": 568,
+   "b": 600,
+   "t0": 0,
+   "t1": 32,
+   "line": "grabs your hand."
+  },
+  {
+   "shot": "S10",
+   "a": 600,
+   "b": 638,
+   "t0": 0,
+   "t1": 38,
+   "line": "It's impossible."
+  },
+  {
+   "shot": "S11",
+   "a": 638,
+   "b": 692,
+   "t0": 0,
+   "t1": 54,
+   "line": "Every wire on Earth is dead."
+  },
+  {
+   "shot": "S12",
+   "a": 692,
+   "b": 793,
+   "t0": 0,
+   "t1": 101,
+   "line": "Unless someone, somewhere, found a way around the rule."
+  },
+  {
+   "shot": "S13",
+   "a": 793,
+   "b": 865,
+   "t0": 0,
+   "t1": 72,
+   "line": "Then the light blinks. Three times."
+  },
+  {
+   "shot": "S14",
+   "a": 865,
+   "b": 942,
+   "t0": 0,
+   "t1": 77,
+   "line": "Like a signal. Like it knows you're watching."
+  },
+  {
+   "shot": "S15",
+   "a": 942,
+   "b": 1071,
+   "t0": 0,
+   "t1": 129,
+   "line": "So what would you do? Stay in the city, or walk away from everything?"
+  },
+  {
+   "shot": "S16",
+   "a": 1071,
+   "b": 1114,
+   "t0": 0,
+   "t1": 43,
+   "line": "Tell me in the comments."
+  },
+  {
+   "shot": "S17",
+   "a": 1114,
+   "b": 1386,
+   "t0": 0,
+   "t1": 272,
+   "line": "And is any of this real? The science is. Pumps push your water. A fridge keeps food safe for four hours. Fertilizer feeds half the world."
+  },
+  {
+   "shot": "S18",
+   "a": 1386,
+   "b": 1449,
+   "t0": 0,
+   "t1": 63,
+   "line": "And whoever is behind that light?"
+  },
+  {
+   "shot": "S19",
+   "a": 1449,
+   "b": 1583,
+   "t0": 0,
+   "t1": 134,
+   "line": "You'll find out in part two."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "",
+   "key": 35,
+   "len": 70,
+   "first": 0,
+   "line": "On the third night, you camp on a hill.",
+   "note": "the third night: the hill, the tent, the dark valley, the Milky Way overhead"
+  },
+  {
+   "id": "S2",
+   "size": "",
+   "key": 49,
+   "len": 99,
+   "first": 70,
+   "line": "Ellie's fever is going down. Your mom is finally asleep.",
+   "note": "close on the ground: Ellie asleep in her blanket, mum asleep sitting up beside her"
+  },
+  {
+   "id": "S3",
+   "size": "",
+   "key": 32,
+   "len": 64,
+   "first": 169,
+   "line": "And you look out over the dark valley.",
+   "note": "you, awake, sitting on the edge of the hill, looking out over the dark valley"
+  },
+  {
+   "id": "S4",
+   "size": "",
+   "key": 21,
+   "len": 43,
+   "first": 233,
+   "line": "That's when you see it. A",
+   "note": "close, you: then you see it (eyes go wide, a cold glint)"
+  },
+  {
+   "id": "S5",
+   "size": "",
+   "key": 32,
+   "len": 64,
+   "first": 276,
+   "line": "light. Not a fire. A",
+   "note": "the valley: a light, far away, steady"
+  },
+  {
+   "id": "S6",
+   "size": "",
+   "key": 59,
+   "len": 118,
+   "first": 340,
+   "line": "steady, white, electric light, on the far side of the valley. You",
+   "note": "closer on the light: steady, white, ELECTRIC"
+  },
+  {
+   "id": "S7",
+   "size": "",
+   "key": 14,
+   "len": 28,
+   "first": 458,
+   "line": "wake your mom.",
+   "note": "you wake mum: a hand on her shoulder, her eyes open"
+  },
+  {
+   "id": "S8",
+   "size": "",
+   "key": 41,
+   "len": 82,
+   "first": 486,
+   "line": "She sees it too. She doesn't say a word. She just",
+   "note": "the two of you on the hill, looking at the light; she doesn't say a word"
+  },
+  {
+   "id": "S9",
+   "size": "",
+   "key": 16,
+   "len": 32,
+   "first": 568,
+   "line": "grabs your hand.",
+   "note": "insert: mum's hand grabs yours"
+  },
+  {
+   "id": "S10",
+   "size": "",
+   "key": 19,
+   "len": 38,
+   "first": 600,
+   "line": "It's impossible.",
+   "note": "IMPOSSIBLE."
+  },
+  {
+   "id": "S11",
+   "size": "",
+   "key": 27,
+   "len": 54,
+   "first": 638,
+   "line": "Every wire on Earth is dead.",
+   "note": "every wire on Earth is dead"
+  },
+  {
+   "id": "S12",
+   "size": "",
+   "key": 50,
+   "len": 101,
+   "first": 692,
+   "line": "Unless someone, somewhere, found a way around the rule.",
+   "note": "unless someone found a way around the rule: one icon lights, a question mark"
+  },
+  {
+   "id": "S13",
+   "size": "",
+   "key": 36,
+   "len": 72,
+   "first": 793,
+   "line": "Then the light blinks. Three times.",
+   "note": "the light blinks: once, twice, three times"
+  },
+  {
+   "id": "S14",
+   "size": "",
+   "key": 38,
+   "len": 77,
+   "first": 865,
+   "line": "Like a signal. Like it knows you're watching.",
+   "note": "close, you, the cold light flickering on your face: like it knows you're watching"
+  },
+  {
+   "id": "S15",
+   "size": "",
+   "key": 64,
+   "len": 129,
+   "first": 942,
+   "line": "So what would you do? Stay in the city, or walk away from everything?",
+   "note": "the question: STAY OR GO?"
+  },
+  {
+   "id": "S16",
+   "size": "",
+   "key": 21,
+   "len": 43,
+   "first": 1071,
+   "line": "Tell me in the comments.",
+   "note": "TELL ME IN THE COMMENTS"
+  },
+  {
+   "id": "S17",
+   "size": "",
+   "key": 136,
+   "len": 272,
+   "first": 1114,
+   "line": "And is any of this real? The science is. Pumps push your water. A fridge keeps food safe for four hours. Fertilizer feeds half the world.",
+   "note": "what's real: the science, ticking on with the voice"
+  },
+  {
+   "id": "S18",
+   "size": "",
+   "key": 31,
+   "len": 63,
+   "first": 1386,
+   "line": "And whoever is behind that light?",
+   "note": "and whoever is behind that light? Slow push back toward it"
+  },
+  {
+   "id": "S19",
+   "size": "",
+   "key": 67,
+   "len": 134,
+   "first": 1449,
+   "line": "You'll find out in part two.",
+   "note": "end card: the valley, the light, PART 2"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#CFE8FF",
+   "o": 0.12,
+   "f": 793
+  }
+ ],
+ "audio": {
+  "voice": "electricity/c07/voice.wav",
+  "sfx": "electricity/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4247,
+  "music": "electricity/c07/music.wav",
+  "musicVol": 0.0747
+ }
+}
