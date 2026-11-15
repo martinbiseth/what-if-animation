@@ -1,29 +1,371 @@
 {
  "slug": "strength-doubles/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2373,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 78,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 78,
+   "line": "Day fourteen. Eight hundred tonnes."
+  },
+  {
+   "shot": "S2",
+   "a": 78,
+   "b": 215,
+   "t0": 0,
+   "t1": 137,
+   "line": "There's ice on the roads. Your sister's school bus is crossing the old bridge when it skids,"
+  },
+  {
+   "shot": "S3",
+   "a": 215,
+   "b": 332,
+   "t0": 0,
+   "t1": 117,
+   "line": "smashes through the railing, and stops with its front wheels hanging over the river."
+  },
+  {
+   "shot": "S4",
+   "a": 332,
+   "b": 426,
+   "t0": 0,
+   "t1": 94,
+   "line": "Thirty kids inside. Your sister is in the front seat."
+  },
+  {
+   "shot": "S5",
+   "a": 426,
+   "b": 485,
+   "t0": 0,
+   "t1": 59,
+   "line": "You get there before the fire engines."
+  },
+  {
+   "shot": "S6",
+   "a": 485,
+   "b": 629,
+   "t0": 0,
+   "t1": 144,
+   "line": "Lifting the bus is easy. A bus is about twelve tonnes. You could lift sixty of them."
+  },
+  {
+   "shot": "S7",
+   "a": 629,
+   "b": 833,
+   "t0": 0,
+   "t1": 204,
+   "line": "The problem is your arms. They still have fourteen- year- old bones. If you grab the bus and pull, your own muscles could snap them."
+  },
+  {
+   "shot": "S8",
+   "a": 833,
+   "b": 925,
+   "t0": 0,
+   "t1": 92,
+   "line": "The man in the suit is already there. Of course he is."
+  },
+  {
+   "shot": "S9",
+   "a": 925,
+   "b": 1097,
+   "t0": 0,
+   "t1": 172,
+   "line": "'Don't, ' he says. 'You'll wreck your arms, and we need them. Wait for the crane. Forty minutes. ' The bus"
+  },
+  {
+   "shot": "S10",
+   "a": 1097,
+   "b": 1186,
+   "t0": 0,
+   "t1": 89,
+   "line": "creaks. It slides another ten centimetres."
+  },
+  {
+   "shot": "S11",
+   "a": 1186,
+   "b": 1262,
+   "t0": 0,
+   "t1": 76,
+   "line": "Your sister's face is pressed against the window."
+  },
+  {
+   "shot": "S12",
+   "a": 1262,
+   "b": 1402,
+   "t0": 0,
+   "t1": 140,
+   "line": "'Forty minutes, ' the man says again. Your sister doesn't have forty minutes."
+  },
+  {
+   "shot": "S13",
+   "a": 1402,
+   "b": 1513,
+   "t0": 0,
+   "t1": 111,
+   "line": "You look at your arm. You look at the bus. You get one try."
+  },
+  {
+   "shot": "S14",
+   "a": 1513,
+   "b": 1626,
+   "t0": 0,
+   "t1": 113,
+   "line": "So you do it the way you practised. No grabbing. No pulling. You"
+  },
+  {
+   "shot": "S15",
+   "a": 1626,
+   "b": 1803,
+   "t0": 0,
+   "t1": 177,
+   "line": "get your shoulder under the back of the bus and push with everything at once. Legs. Back. Shoulders."
+  },
+  {
+   "shot": "S16",
+   "a": 1803,
+   "b": 1862,
+   "t0": 0,
+   "t1": 59,
+   "line": "Slowly, like carrying an egg."
+  },
+  {
+   "shot": "S17",
+   "a": 1862,
+   "b": 1934,
+   "t0": 0,
+   "t1": 72,
+   "line": "Your arm cracks. You keep going."
+  },
+  {
+   "shot": "S18",
+   "a": 1934,
+   "b": 2015,
+   "t0": 0,
+   "t1": 81,
+   "line": "Inch by inch, the bus rolls back onto the road."
+  },
+  {
+   "shot": "S19",
+   "a": 2015,
+   "b": 2095,
+   "t0": 0,
+   "t1": 80,
+   "line": "The doors open. Thirty kids run out."
+  },
+  {
+   "shot": "S20",
+   "a": 2095,
+   "b": 2298,
+   "t0": 0,
+   "t1": 203,
+   "line": "Your sister comes out last, and she runs at you for a hug. And this time, you let her. Very, very gently."
+  },
+  {
+   "shot": "S21",
+   "a": 2298,
+   "b": 2373,
+   "t0": 0,
+   "t1": 75,
+   "line": "Every phone on the bridge was filming."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 78,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "Day fourteen. Eight hundred tonnes.",
+   "note": "chapter 6 card, day 14"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 100,
+   "len": 137,
+   "first": 78,
+   "line": "There's ice on the roads. Your sister's school bus is crossing the old bridge when it skids,",
+   "note": "ice: the bus on the old bridge, skidding"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 14,
+   "len": 117,
+   "first": 215,
+   "line": "smashes through the railing, and stops with its front wheels hanging over the river.",
+   "note": "through the railing, hanging over the river"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 60,
+   "len": 94,
+   "first": 332,
+   "line": "Thirty kids inside. Your sister is in the front seat.",
+   "note": "thirty kids, sister in the front seat"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 59,
+   "first": 426,
+   "line": "You get there before the fire engines.",
+   "note": "you get there first"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 60,
+   "len": 144,
+   "first": 485,
+   "line": "Lifting the bus is easy. A bus is about twelve tonnes. You could lift sixty of them.",
+   "note": "a bus is 12 t; you could lift 60"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 170,
+   "len": 204,
+   "first": 629,
+   "line": "The problem is your arms. They still have fourteen- year- old bones. If you grab the bus and pull, your own muscles could snap them.",
+   "note": "14-year-old bones: grab and pull = snap"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "key": 30,
+   "len": 92,
+   "first": 833,
+   "line": "The man in the suit is already there. Of course he is.",
+   "note": "the suit is already there"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 60,
+   "len": 172,
+   "first": 925,
+   "line": "'Don't, ' he says. 'You'll wreck your arms, and we need them. Wait for the crane. Forty minutes. ' The bus",
+   "note": "don't: wait for the crane, forty minutes"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 89,
+   "first": 1097,
+   "line": "creaks. It slides another ten centimetres.",
+   "note": "the bus slides another ten centimetres"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 30,
+   "len": 76,
+   "first": 1186,
+   "line": "Your sister's face is pressed against the window.",
+   "note": "sister's face against the window"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 60,
+   "len": 140,
+   "first": 1262,
+   "line": "'Forty minutes, ' the man says again. Your sister doesn't have forty minutes.",
+   "note": "forty minutes, he says again"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 80,
+   "len": 111,
+   "first": 1402,
+   "line": "You look at your arm. You look at the bus. You get one try.",
+   "note": "your arm, the bus, one try"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 113,
+   "first": 1513,
+   "line": "So you do it the way you practised. No grabbing. No pulling. You",
+   "note": "no grabbing, no pulling"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 80,
+   "len": 177,
+   "first": 1626,
+   "line": "get your shoulder under the back of the bus and push with everything at once. Legs. Back. Shoulders.",
+   "note": "shoulder under the bus: push with everything"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 20,
+   "len": 59,
+   "first": 1803,
+   "line": "Slowly, like carrying an egg.",
+   "note": "like carrying an egg"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "key": 14,
+   "len": 72,
+   "first": 1862,
+   "line": "Your arm cracks. You keep going.",
+   "note": "your arm cracks"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 81,
+   "first": 1934,
+   "line": "Inch by inch, the bus rolls back onto the road.",
+   "note": "inch by inch, the bus rolls back"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 80,
+   "first": 2015,
+   "line": "The doors open. Thirty kids run out.",
+   "note": "the doors open, kids run out"
+  },
+  {
+   "id": "S20",
+   "size": "two-shot",
+   "key": 130,
+   "len": 203,
+   "first": 2095,
+   "line": "Your sister comes out last, and she runs at you for a hug. And this time, you let her. Very, very gently.",
+   "note": "the hug: this time you let her"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 75,
+   "first": 2298,
+   "line": "Every phone on the bridge was filming.",
+   "note": "every phone was filming"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c06/voice.wav"
+ }
 }

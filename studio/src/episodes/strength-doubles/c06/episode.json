@@ -47,18 +47,216 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 6 card, day 14"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
+   "key": 100,
+   "note": "ice: the bus on the old bridge, skidding"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 14,
+   "note": "through the railing, hanging over the river"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 60,
+   "note": "thirty kids, sister in the front seat"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "note": "you get there first"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 60,
+   "note": "a bus is 12 t; you could lift 60"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 170,
+   "note": "14-year-old bones: grab and pull = snap"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
    "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "the suit is already there"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 60,
+   "note": "don't: wait for the crane, forty minutes"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "note": "the bus slides another ten centimetres"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 30,
+   "note": "sister's face against the window"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 60,
+   "note": "forty minutes, he says again"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 80,
+   "note": "your arm, the bus, one try"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "note": "no grabbing, no pulling"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 80,
+   "note": "shoulder under the bus: push with everything"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 20,
+   "note": "like carrying an egg"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "key": 14,
+   "note": "your arm cracks"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "note": "inch by inch, the bus rolls back"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "note": "the doors open, kids run out"
+  },
+  {
+   "id": "S20",
+   "size": "two-shot",
+   "key": 130,
+   "note": "the hug: this time you let her"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "note": "every phone was filming"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "There's"
+  },
+  {
+   "shot": "S3",
+   "at": "smashes"
+  },
+  {
+   "shot": "S4",
+   "at": "Thirty"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "Lifting"
+  },
+  {
+   "shot": "S7",
+   "at": "problem"
+  },
+  {
+   "shot": "S8",
+   "at": "The#2"
+  },
+  {
+   "shot": "S9",
+   "at": "Don't"
+  },
+  {
+   "shot": "S10",
+   "at": "creaks"
+  },
+  {
+   "shot": "S11",
+   "at": "Your"
+  },
+  {
+   "shot": "S12",
+   "at": "Forty"
+  },
+  {
+   "shot": "S13",
+   "at": "You"
+  },
+  {
+   "shot": "S14",
+   "at": "So"
+  },
+  {
+   "shot": "S15",
+   "at": "get"
+  },
+  {
+   "shot": "S16",
+   "at": "Slowly"
+  },
+  {
+   "shot": "S17",
+   "at": "Your"
+  },
+  {
+   "shot": "S18",
+   "at": "Inch"
+  },
+  {
+   "shot": "S19",
+   "at": "The#3"
+  },
+  {
+   "shot": "S20",
+   "at": "Your"
+  },
+  {
+   "shot": "S21",
+   "at": "Every"
   }
  ],
- "end": "f:90",
  "fx": []
 }

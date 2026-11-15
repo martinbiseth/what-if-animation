@@ -102,32 +102,32 @@ export const BridgeSet = (o: { gap?: boolean; dusk?: boolean } = {}): SetC => {
         <stop offset="0" stopColor={o.dusk ? '#3A3A6A' : '#8AA8C8'} />
         <stop offset="1" stopColor={o.dusk ? '#C88A7A' : '#D8E4EC'} />
       </linearGradient>
-      <rect width={1920} height={1080} fill={`url(#${id}sky)`} />
+      <rect x={-800} y={-400} width={3600} height={1900} fill={`url(#${id}sky)`} />
       {/* far bank with snowy trees */}
-      <path d="M 0 640 Q 300 600 700 630 T 1400 620 T 1920 630 V 1080 H 0 Z" fill="#9AA8B4" />
+      <path d="M -800 640 L 0 640 Q 300 600 700 630 T 1400 620 T 1920 630 L 2800 630 V 1500 H -800 Z" fill="#9AA8B4" />
       {Array.from({ length: 16 }, (_, i) => {
         const x = 40 + i * 125 + rnd(3, i) * 40;
         const h = 60 + rnd(4, i) * 50;
         return <path key={i} d={`M ${x} ${630} l 26 ${-h} l 26 ${h} Z`} fill="#6A7A88" />;
       })}
       {/* river */}
-      <rect y={860} width={1920} height={220} fill="#3A5A72" />
+      <rect x={-800} y={860} width={3600} height={640} fill="#3A5A72" />
       {Array.from({ length: 10 }, (_, i) => (
         <path key={i} d={`M ${((i * 230 + t * 1.5) % 2100) - 100} ${900 + (i % 3) * 50} h 90`} stroke="#8AB0C8" strokeWidth={5} strokeLinecap="round" opacity={0.6} />
       ))}
       {/* deck */}
-      <rect x={-20} y={BRIDGE.deck} width={BRIDGE.edge + 20} height={46} fill="#5A5A64" />
-      <rect x={-20} y={BRIDGE.deck} width={BRIDGE.edge + 20} height={8} fill="#E8EEF2" />
-      <rect x={-20} y={BRIDGE.deck + 46} width={BRIDGE.edge + 20} height={18} fill="#3A3A44" />
+      <rect x={-800} y={BRIDGE.deck} width={BRIDGE.edge + 800} height={46} fill="#5A5A64" />
+      <rect x={-800} y={BRIDGE.deck} width={BRIDGE.edge + 800} height={8} fill="#E8EEF2" />
+      <rect x={-800} y={BRIDGE.deck + 46} width={BRIDGE.edge + 800} height={18} fill="#3A3A44" />
       {/* the stone pier */}
       <path d={`M ${BRIDGE.edge - 260} ${BRIDGE.deck + 64} h 160 l 20 260 h -200 Z`} fill="#6A6460" />
       {/* railing */}
-      {Array.from({ length: 24 }, (_, i) => {
-        const x = 20 + i * 50;
+      {Array.from({ length: 40 }, (_, i) => {
+        const x = -780 + i * 50;
         if (o.gap && x > 880 && x < 1060) return null;
         return <rect key={i} x={x} y={BRIDGE.deck - 90} width={10} height={90} fill="#2A2A34" />;
       })}
-      <path d={o.gap ? `M -20 ${BRIDGE.deck - 92} H 880 M 1060 ${BRIDGE.deck - 92} H ${BRIDGE.edge}` : `M -20 ${BRIDGE.deck - 92} H ${BRIDGE.edge}`} stroke="#2A2A34" strokeWidth={12} />
+      <path d={o.gap ? `M -800 ${BRIDGE.deck - 92} H 880 M 1060 ${BRIDGE.deck - 92} H ${BRIDGE.edge}` : `M -800 ${BRIDGE.deck - 92} H ${BRIDGE.edge}`} stroke="#2A2A34" strokeWidth={12} />
       {o.gap ? <path d={`M 880 ${BRIDGE.deck - 92} l 40 60 M 1060 ${BRIDGE.deck - 92} l -30 70`} stroke="#2A2A34" strokeWidth={10} /> : null}
       {/* snow falling */}
       {Array.from({ length: 50 }, (_, i) => {

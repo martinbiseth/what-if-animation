@@ -43,18 +43,176 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 7 card"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
    "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "hospital bed, arm in a cast"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 60,
+   "note": "the doctor holds the X-ray to the light"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 80,
+   "note": "thicker than yesterday"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 60,
+   "note": "the rule just broke"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 60,
+   "note": "what else is changing?"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "note": "two black cars outside"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "note": "05:59"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 20,
+   "note": "day fifteen"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 70,
+   "note": "is any of this real: the Titanic"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 50,
+   "note": "muscles can break their own bones"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 70,
+   "note": "the food"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 130,
+   "note": "myostatin"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 130,
+   "note": "NEJM 2004: a baby boy born with huge muscles"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 14,
+   "note": "yet."
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 80,
+   "note": "go with him or run? comments"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 30,
+   "note": "Part 2, subscribe"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Your"
+  },
+  {
+   "shot": "S3",
+   "at": "doctor"
+  },
+  {
+   "shot": "S4",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S5",
+   "at": "rule"
+  },
+  {
+   "shot": "S6",
+   "at": "Then"
+  },
+  {
+   "shot": "S7",
+   "at": "Outside"
+  },
+  {
+   "shot": "S8",
+   "at": "It's"
+  },
+  {
+   "shot": "S9",
+   "at": "Day"
+  },
+  {
+   "shot": "S10",
+   "at": "So"
+  },
+  {
+   "shot": "S11",
+   "at": "Muscles"
+  },
+  {
+   "shot": "S12",
+   "at": "lifting"
+  },
+  {
+   "shot": "S13",
+   "at": "super"
+  },
+  {
+   "shot": "S14",
+   "at": "Doctors"
+  },
+  {
+   "shot": "S15",
+   "at": "Yet"
+  },
+  {
+   "shot": "S16",
+   "at": "Would"
+  },
+  {
+   "shot": "S17",
+   "at": "Part"
   }
  ],
- "end": "f:90",
  "fx": []
 }

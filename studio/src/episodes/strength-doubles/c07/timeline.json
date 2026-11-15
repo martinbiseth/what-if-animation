@@ -1,29 +1,303 @@
 {
  "slug": "strength-doubles/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1788,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 28,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 28,
+   "line": "Hospital."
+  },
+  {
+   "shot": "S2",
+   "a": 28,
+   "b": 80,
+   "t0": 0,
+   "t1": 52,
+   "line": "Your arm is in a cast. The"
+  },
+  {
+   "shot": "S3",
+   "a": 80,
+   "b": 204,
+   "t0": 0,
+   "t1": 124,
+   "line": "doctor holds your X- ray up to the light, and she goes very quiet."
+  },
+  {
+   "shot": "S4",
+   "a": 204,
+   "b": 354,
+   "t0": 0,
+   "t1": 150,
+   "line": "'Your bones, ' she says. 'They're thicker than yesterday. A lot thicker. ' The"
+  },
+  {
+   "shot": "S5",
+   "a": 354,
+   "b": 449,
+   "t0": 0,
+   "t1": 95,
+   "line": "rule just broke. Your body is starting to catch up."
+  },
+  {
+   "shot": "S6",
+   "a": 449,
+   "b": 625,
+   "t0": 0,
+   "t1": 176,
+   "line": "Then she asks the question nobody has asked yet. 'If your bones can change... what else is changing? '"
+  },
+  {
+   "shot": "S7",
+   "a": 625,
+   "b": 725,
+   "t0": 0,
+   "t1": 100,
+   "line": "Outside the window, the black car is back. Two of them now."
+  },
+  {
+   "shot": "S8",
+   "a": 725,
+   "b": 816,
+   "t0": 0,
+   "t1": 91,
+   "line": "It's five fifty- nine. One minute until your alarm."
+  },
+  {
+   "shot": "S9",
+   "a": 816,
+   "b": 851,
+   "t0": 0,
+   "t1": 35,
+   "line": "Day fifteen."
+  },
+  {
+   "shot": "S10",
+   "a": 851,
+   "b": 1049,
+   "t0": 0,
+   "t1": 198,
+   "line": "So, is any of this real? The doubling is. Fifty kilos, doubled twenty times, really is the Titanic."
+  },
+  {
+   "shot": "S11",
+   "a": 1049,
+   "b": 1131,
+   "t0": 0,
+   "t1": 82,
+   "line": "Muscles really can break their own bones. And"
+  },
+  {
+   "shot": "S12",
+   "a": 1131,
+   "b": 1233,
+   "t0": 0,
+   "t1": 102,
+   "line": "lifting all that weight really would cost a mountain of food. And"
+  },
+  {
+   "shot": "S13",
+   "a": 1233,
+   "b": 1419,
+   "t0": 0,
+   "t1": 186,
+   "line": "super- strong kids exist. A rare change in a gene called myostatin lets muscles keep growing."
+  },
+  {
+   "shot": "S14",
+   "a": 1419,
+   "b": 1591,
+   "t0": 0,
+   "t1": 172,
+   "line": "Doctors have described a baby boy born with unusually huge muscles. Just not doubling every day."
+  },
+  {
+   "shot": "S15",
+   "a": 1591,
+   "b": 1613,
+   "t0": 0,
+   "t1": 22,
+   "line": "Yet."
+  },
+  {
+   "shot": "S16",
+   "a": 1613,
+   "b": 1731,
+   "t0": 0,
+   "t1": 118,
+   "line": "Would you go with the man in the suit, or run? Tell me in the comments."
+  },
+  {
+   "shot": "S17",
+   "a": 1731,
+   "b": 1788,
+   "t0": 0,
+   "t1": 57,
+   "line": "Part two is coming."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 28,
+   "first": 0,
+   "line": "Hospital.",
+   "note": "chapter 7 card"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "len": 52,
+   "first": 28,
+   "line": "Your arm is in a cast. The",
+   "note": "hospital bed, arm in a cast"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 60,
+   "len": 124,
+   "first": 80,
+   "line": "doctor holds your X- ray up to the light, and she goes very quiet.",
+   "note": "the doctor holds the X-ray to the light"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 80,
+   "len": 150,
+   "first": 204,
+   "line": "'Your bones, ' she says. 'They're thicker than yesterday. A lot thicker. ' The",
+   "note": "thicker than yesterday"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 60,
+   "len": 95,
+   "first": 354,
+   "line": "rule just broke. Your body is starting to catch up.",
+   "note": "the rule just broke"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 60,
+   "len": 176,
+   "first": 449,
+   "line": "Then she asks the question nobody has asked yet. 'If your bones can change... what else is changing? '",
+   "note": "what else is changing?"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "len": 100,
+   "first": 625,
+   "line": "Outside the window, the black car is back. Two of them now.",
+   "note": "two black cars outside"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 91,
+   "first": 725,
+   "line": "It's five fifty- nine. One minute until your alarm.",
+   "note": "05:59"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 20,
+   "len": 35,
+   "first": 816,
+   "line": "Day fifteen.",
+   "note": "day fifteen"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 70,
+   "len": 198,
+   "first": 851,
+   "line": "So, is any of this real? The doubling is. Fifty kilos, doubled twenty times, really is the Titanic.",
+   "note": "is any of this real: the Titanic"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 50,
+   "len": 82,
+   "first": 1049,
+   "line": "Muscles really can break their own bones. And",
+   "note": "muscles can break their own bones"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 70,
+   "len": 102,
+   "first": 1131,
+   "line": "lifting all that weight really would cost a mountain of food. And",
+   "note": "the food"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 130,
+   "len": 186,
+   "first": 1233,
+   "line": "super- strong kids exist. A rare change in a gene called myostatin lets muscles keep growing.",
+   "note": "myostatin"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 130,
+   "len": 172,
+   "first": 1419,
+   "line": "Doctors have described a baby boy born with unusually huge muscles. Just not doubling every day.",
+   "note": "NEJM 2004: a baby boy born with huge muscles"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 14,
+   "len": 22,
+   "first": 1591,
+   "line": "Yet.",
+   "note": "yet."
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 80,
+   "len": 118,
+   "first": 1613,
+   "line": "Would you go with the man in the suit, or run? Tell me in the comments.",
+   "note": "go with him or run? comments"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 30,
+   "len": 57,
+   "first": 1731,
+   "line": "Part two is coming.",
+   "note": "Part 2, subscribe"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c07/voice.wav"
+ }
 }
