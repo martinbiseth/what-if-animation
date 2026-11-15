@@ -29,8 +29,8 @@ export type Look = {
   shoe: string;
   face: string;
   hair: string;
-  extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit';
-  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche'; // period hats (the 1920s episodes), drawn over the hair
+  extra?: 'hood' | 'curls' | 'bunches' | 'bob' | 'suit' | 'toga' | 'armor';
+  hat?: 'cap' | 'bowler' | 'fedora' | 'cloche' | 'galea' | 'laurel' | 'beard'; // period hats (the 1920s episodes), drawn over the hair
   hatColor?: string;
   noPhones?: boolean; // curls without the headphones (a period version of Mo)
 };
@@ -67,11 +67,51 @@ export const LOOKS: Record<CastName, Look> = {
 
 // ---------- period hats ----------
 /** A hat on the rig's head (1920s episodes): flat cap, bowler, fedora with a band, or a cloche. Turns with yaw. */
-const Hat: React.FC<{ kind: 'cap' | 'bowler' | 'fedora' | 'cloche'; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
+const Hat: React.FC<{ kind: NonNullable<Look['hat']>; color: string; line: string; yaw: number }> = ({ kind, color, line, yaw }) => {
   const y = HEAD.y;
   const sx = yaw * 10;
   const dark = 'rgba(0,0,0,0.22)';
   const sw = 4;
+  if (kind === 'galea') {
+    // a Roman legionary helmet: a bronze bowl, cheek guards, a neck guard behind, a red crest across the top
+    const f = yaw >= 0 ? 1 : -1;
+    return (
+      <g transform={`translate(${-sx} 0)`}>
+        <path d={`M ${-f * 70} ${y - 6} Q ${-f * 86} ${y + 10} ${-f * 92} ${y + 20} L ${-f * 66} ${y + 18} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -70 ${y - 4} Q -76 ${y - 84} 0 ${y - 86} Q 76 ${y - 84} 70 ${y - 4} Q 0 ${y - 24} -70 ${y - 4} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        <path d={`M -66 ${y - 18} Q 0 ${y - 36} 66 ${y - 18}`} stroke={dark} strokeWidth={8} fill="none" />
+        {[-1, 1].map((sd) => (
+          <path key={sd} d={`M ${sd * 62} ${y - 10} L ${sd * 66} ${y + 40} Q ${sd * 58} ${y + 52} ${sd * 46} ${y + 40} L ${sd * 48} ${y - 6} Z`} fill={color} stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        ))}
+        <path d={`M -54 ${y - 80} Q 0 ${y - 150} 54 ${y - 80} Q 0 ${y - 100} -54 ${y - 80} Z`} fill="#C8302E" stroke={line} strokeWidth={sw} strokeLinejoin="round" />
+        {[-36, -18, 0, 18, 36].map((k) => (
+          <path key={k} d={`M ${k} ${y - 92} L ${k * 1.15} ${y - 118 + Math.abs(k) * 0.4}`} stroke="#8E1E20" strokeWidth={3} />
+        ))}
+        <path d={`M 22 ${y - 74} Q 50 ${y - 66} 58 ${y - 30}`} stroke="#FFFFFF" strokeOpacity={0.3} strokeWidth={6} fill="none" strokeLinecap="round" />
+      </g>
+    );
+  }
+  if (kind === 'laurel') {
+    // a gold laurel wreath round the head, leaves pointing back
+    const leaves: React.ReactNode[] = [];
+    for (let k = 0; k < 9; k++) {
+      for (const sd of [-1, 1]) {
+        const a = ((-170 + k * 16) * Math.PI) / 180;
+        const cx = sd * Math.abs(Math.cos(a)) * 66, cy = y - 34 + Math.sin(a) * 20 - k * 2;
+        leaves.push(<ellipse key={`${k}${sd}`} cx={cx} cy={cy} rx={13} ry={6} transform={`rotate(${sd * (30 + k * 6)} ${cx} ${cy})`} fill={color} stroke={line} strokeWidth={2.5} />);
+      }
+    }
+    return <g transform={`translate(${-sx} 0)`}>{leaves}</g>;
+  }
+  if (kind === 'beard') {
+    // short grey hair and a full beard round the jaw (the engineer)
+    return (
+      <g transform={`translate(${-sx * 1.4} 0)`}>
+        <path d={`M -62 ${y - 10} Q -66 ${y - 72} 0 ${y - 72} Q 66 ${y - 72} 62 ${y - 10} Q 50 ${y - 46} 0 ${y - 48} Q -50 ${y - 46} -62 ${y - 10} Z`} fill={color} />
+        <path d={`M -60 ${y + 6} Q -56 ${y + 74} 0 ${y + 80} Q 56 ${y + 74} 60 ${y + 6} Q 46 ${y + 30} 30 ${y + 34} Q 0 ${y + 46} -30 ${y + 34} Q -46 ${y + 30} -60 ${y + 6} Z`} fill={color} stroke={line} strokeWidth={3} />
+      </g>
+    );
+  }
   if (kind === 'bowler')
     return (
       <g transform={`translate(${-sx} 0)`}>
@@ -423,6 +463,25 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
           <path d="M -24 -116 L 0 -54 L 24 -116 Z" fill="#EDE8DE" />
           <path d="M -7 -112 L 7 -112 L 9 -100 L 5 -64 L 0 -56 L -5 -64 L -9 -100 Z" fill={L.accent} />
           <path d="M -26 -116 L 0 -54 M 26 -116 L 0 -54" stroke={L.line} strokeWidth={4} />
+        </g>
+      ) : L.extra === 'toga' ? (
+        // a toga: the cloth over the left shoulder and across the chest, a coloured border (the accent)
+        <g>
+          <path d="M -46 -112 Q -10 -122 20 -118 L 44 -20 Q 10 4 -40 2 Z" fill="#00000010" />
+          <path d="M -40 -116 Q -20 -60 30 -4 L 42 -14 Q 0 -60 -18 -118 Z" fill={L.accent} stroke={L.line} strokeWidth={3} strokeLinejoin="round" />
+          <path d="M -30 -80 Q -4 -60 20 -30 M -38 -50 Q -14 -36 4 -14" stroke={L.jacketShade} strokeWidth={4} fill="none" strokeLinecap="round" />
+        </g>
+      ) : L.extra === 'armor' ? (
+        // segmented bronze-and-iron plates over the tunic, a belt
+        <g>
+          {[-104, -84, -64, -44].map((yy) => (
+            <path key={yy} d={`M -44 ${yy} Q 0 ${yy + 8} 44 ${yy}`} stroke={L.line} strokeWidth={4} fill="none" opacity={0.7} />
+          ))}
+          <path d="M -24 -118 L -24 -40 M 24 -118 L 24 -40" stroke={L.line} strokeWidth={3} opacity={0.5} />
+          <rect x={-42} y={-26} width={84} height={12} fill={L.accent} stroke={L.line} strokeWidth={3} />
+          {[-24, -8, 8, 24].map((xx) => (
+            <rect key={xx} x={xx - 3} y={-14} width={6} height={18} fill={L.accent} stroke={L.line} strokeWidth={2} />
+          ))}
         </g>
       ) : (
         <path d="M -22 -118 Q 0 -100 22 -118" stroke={L.accent} strokeWidth={6} fill="none" strokeLinecap="round" />
