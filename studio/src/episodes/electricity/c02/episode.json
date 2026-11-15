@@ -1,7 +1,7 @@
 {
  "id": "ElectricityC02",
  "slug": "electricity/c02",
- "chapter": "The premise and its rules",
+ "chapter": "The rule",
  "topic": "What if electricity disappeared forever?",
  "script": [
   {
@@ -306,7 +306,7 @@
    [
     "S14+0",
     "roof_wind",
-    0.4,
+    0.3,
     "onset",
     "S15"
    ],
@@ -322,7 +322,7 @@
    "until": "S13"
   },
   "levels": {
-   "sfx_lu": 0.0,
+   "sfx_lu": -3.0,
    "music_lu": -13.0
   }
  }

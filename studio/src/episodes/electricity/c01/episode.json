@@ -1,7 +1,7 @@
 {
  "id": "ElectricityC01",
  "slug": "electricity/c01",
- "chapter": "Cold open",
+ "chapter": "The night everything stopped",
  "topic": "What if electricity disappeared forever?",
  "script": [
   {
@@ -379,7 +379,7 @@
    [
     "f:0",
     "room_tone",
-    0.5,
+    0.3,
     "onset",
     "S6"
    ],
@@ -427,14 +427,14 @@
    [
     "S12+0",
     "roof_wind",
-    0.5,
+    0.3,
     "onset",
     "S18"
    ],
    [
     "S16+0",
     "drone",
-    0.5,
+    0.3,
     "onset",
     "S21"
    ],
@@ -467,7 +467,7 @@
    "loop": true
   },
   "levels": {
-   "sfx_lu": 0.0,
+   "sfx_lu": -3.0,
    "music_lu": -13.0
   }
  }

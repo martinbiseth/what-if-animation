@@ -1,7 +1,7 @@
 {
  "id": "ElectricityC07",
  "slug": "electricity/c07",
- "chapter": "Cliffhanger",
+ "chapter": "The light",
  "topic": "What if electricity disappeared forever?",
  "script": [
   {
@@ -250,7 +250,7 @@
    [
     "f:0",
     "roof_wind",
-    0.5,
+    0.3,
     "onset",
     "S4"
    ],
@@ -267,7 +267,7 @@
    [
     "S6+0",
     "drone",
-    0.5,
+    0.3,
     "onset",
     "S10"
    ],
@@ -319,7 +319,7 @@
    [
     "S18+0",
     "drone",
-    0.5,
+    0.3,
     "onset",
     "S19"
    ],
@@ -335,7 +335,7 @@
    "from": "S4"
   },
   "levels": {
-   "sfx_lu": 0.0,
+   "sfx_lu": -3.0,
    "music_lu": -14.0
   }
  }

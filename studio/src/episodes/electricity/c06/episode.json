@@ -1,7 +1,7 @@
 {
  "id": "ElectricityC06",
  "slug": "electricity/c06",
- "chapter": "The choice",
+ "chapter": "The road",
  "topic": "What if electricity disappeared forever?",
  "script": [
   {
@@ -387,7 +387,7 @@
    [
     "S24+0",
     "roof_wind",
-    0.5,
+    0.3,
     "onset",
     "S26"
    ],
@@ -404,7 +404,7 @@
    "loop": true
   },
   "levels": {
-   "sfx_lu": 0.0,
+   "sfx_lu": -3.0,
    "music_lu": -13.0
   }
  }

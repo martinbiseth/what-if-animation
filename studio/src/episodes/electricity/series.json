@@ -3,8 +3,8 @@
  "slug": "electricity",
  "topic": "What if electricity disappeared forever?",
  "title": [
-  "WHAT IF YOU COULD",
-  ""
+  "WHAT IF ELECTRICITY",
+  "DISAPPEARED FOREVER?"
  ],
  "target_seconds": 540,
  "defaults": {
@@ -32,12 +32,12 @@
  "chapters": [
   {
    "slug": "c01",
-   "name": "Cold open",
+   "name": "The night everything stopped",
    "words": 130
   },
   {
    "slug": "c02",
-   "name": "The premise and its rules",
+   "name": "The rule",
    "words": 120
   },
   {
@@ -57,32 +57,49 @@
   },
   {
    "slug": "c06",
-   "name": "The choice",
+   "name": "The road",
    "words": 200
   },
   {
    "slug": "c07",
-   "name": "Cliffhanger",
+   "name": "The light",
    "words": 130
   }
  ],
  "youtube": {
-  "title": "What if electricity disappeared forever?",
+  "title": "What If Electricity Disappeared Forever?",
   "tags": [
    "what if",
-   "animation",
-   "science"
+   "what if animation",
+   "what if electricity disappeared",
+   "no electricity",
+   "world without electricity",
+   "power outage",
+   "blackout",
+   "grid down",
+   "survival",
+   "survival story",
+   "apocalypse",
+   "science animation",
+   "animated story",
+   "what would happen if",
+   "milky way",
+   "fukushima",
+   "nuclear reactor",
+   "fertilizer",
+   "cliffhanger",
+   "alternate reality"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "One night at 8:14 PM, every light, screen and battery on Earth dies, and it never comes back. No phones, no fridges, no water pumps. The first days feel like a holiday. Then the catch arrives.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "ElectricityThumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "Stay in the city or walk away from everything? 👇 What would you do, and why?\n\nAnd who do you think is behind that light? Best theory gets pinned before Part 2.\n\nThe science checks out: water pumps need power, a fridge keeps food safe about 4 hours, and factory-made fertilizer feeds about half the world. Sources are in the description."
  }
 }
