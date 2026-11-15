@@ -69,7 +69,7 @@ export const heavy = (g: number, o: Partial<Pose> = {}): Partial<Pose> => {
 export const lie = (x: number, floorY: number, scale: number, dir: 1 | -1 = 1, o: Partial<Pose> = {}): Pose => ({
   ...basePose,
   x, y: floorY + 40 * scale, scale, spin: 90 * dir, yaw: 0, facing: 1,
-  armL: { a: 24, b: -6 }, armR: { a: 34, b: -6 }, legL: { a: 4, b: 0 }, legR: { a: -4, b: 0 },
+  armL: { a: 8, b: -4 }, armR: { a: 10, b: -4 }, legL: { a: 4, b: 0 }, legR: { a: -4, b: 0 },
   ...o,
 });
 

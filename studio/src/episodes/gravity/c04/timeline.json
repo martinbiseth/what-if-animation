@@ -1,29 +1,335 @@
 {
  "slug": "gravity/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2666,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 69,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 69,
+   "line": "Eight o'clock. Four times normal."
+  },
+  {
+   "shot": "S2",
+   "a": 69,
+   "b": 155,
+   "t0": 0,
+   "t1": 86,
+   "line": "The app on your phone says thirty- nine point two."
+  },
+  {
+   "shot": "S3",
+   "a": 155,
+   "b": 303,
+   "t0": 0,
+   "t1": 148,
+   "line": "You were standing at the counter. Now you're on your knees, and you didn't decide to kneel."
+  },
+  {
+   "shot": "S4",
+   "a": 303,
+   "b": 477,
+   "t0": 0,
+   "t1": 174,
+   "line": "Here's what's happening inside you. Your heart pumps blood up to your brain, about thirty centimeters uphill."
+  },
+  {
+   "shot": "S18",
+   "a": 477,
+   "b": 509,
+   "t0": 0,
+   "t1": 32,
+   "line": "Every beat."
+  },
+  {
+   "shot": "S4",
+   "a": 509,
+   "b": 641,
+   "t0": 0,
+   "t1": 132,
+   "line": "Now that blood weighs four times as much, and your heart was never built for that."
+  },
+  {
+   "shot": "S5",
+   "a": 641,
+   "b": 888,
+   "t0": 0,
+   "t1": 247,
+   "line": "Fighter pilots know this feeling. When they turn hard, they feel the same pull. Without help, their vision goes gray at about three to four g."
+  },
+  {
+   "shot": "S6",
+   "a": 888,
+   "b": 999,
+   "t0": 0,
+   "t1": 111,
+   "line": "Then it goes dark. Then they pass out. That's real."
+  },
+  {
+   "shot": "S7",
+   "a": 999,
+   "b": 1080,
+   "t0": 0,
+   "t1": 81,
+   "line": "And you're at four g, standing in your kitchen."
+  },
+  {
+   "shot": "S8",
+   "a": 1080,
+   "b": 1204,
+   "t0": 0,
+   "t1": 124,
+   "line": "So you do the only thing that helps. You lie down. Flat on your back."
+  },
+  {
+   "shot": "S9",
+   "a": 1204,
+   "b": 1344,
+   "t0": 0,
+   "t1": 140,
+   "line": "Now your blood doesn't have to climb. Your brain gets it back. The gray clears."
+  },
+  {
+   "shot": "S10",
+   "a": 1344,
+   "b": 1630,
+   "t0": 0,
+   "t1": 286,
+   "line": "Across the whole planet, eight billion people do the same thing. They lie down wherever they are. On sidewalks, in offices, in the middle of the road. The"
+  },
+  {
+   "shot": "S11",
+   "a": 1630,
+   "b": 1882,
+   "t0": 0,
+   "t1": 252,
+   "line": "trained pilots in G- suits? They can handle eight or nine g. But only for seconds, in a jet, with a special suit squeezing their legs."
+  },
+  {
+   "shot": "S12",
+   "a": 1882,
+   "b": 1946,
+   "t0": 0,
+   "t1": 64,
+   "line": "Nobody has ever done it for an hour."
+  },
+  {
+   "shot": "S13",
+   "a": 1946,
+   "b": 2132,
+   "t0": 0,
+   "t1": 186,
+   "line": "And outside, things start to break. A tree in the yard groans, and a branch rips off. Gutters fold."
+  },
+  {
+   "shot": "S14",
+   "a": 2132,
+   "b": 2237,
+   "t0": 0,
+   "t1": 105,
+   "line": "Shelves in the kitchen snap and the plates come down like bullets."
+  },
+  {
+   "shot": "S15",
+   "a": 2237,
+   "b": 2403,
+   "t0": 0,
+   "t1": 166,
+   "line": "Biscuit crawls across the floor on his belly and lies down next to you. He's shaking. You do"
+  },
+  {
+   "shot": "S16",
+   "a": 2403,
+   "b": 2540,
+   "t0": 0,
+   "t1": 137,
+   "line": "the math. In one hour, it's eight g. In two hours, sixteen."
+  },
+  {
+   "shot": "S17",
+   "a": 2540,
+   "b": 2666,
+   "t0": 0,
+   "t1": 126,
+   "line": "And nobody, anywhere, knows how to survive sixteen."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "big word",
+   "key": 14,
+   "len": 69,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Eight o'clock. Four times normal.",
+   "note": "4G, 8:00 AM"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 40,
+   "len": 86,
+   "first": 69,
+   "line": "The app on your phone says thirty- nine point two.",
+   "note": "the app: 39.2"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "len": 148,
+   "first": 155,
+   "line": "You were standing at the counter. Now you're on your knees, and you didn't decide to kneel.",
+   "note": "you drop to your knees"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 120,
+   "len": 174,
+   "first": 303,
+   "line": "Here's what's happening inside you. Your heart pumps blood up to your brain, about thirty centimeters uphill.",
+   "note": "heart to brain, 30 cm uphill, x4"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 20,
+   "len": 32,
+   "first": 477,
+   "line": "Every beat.",
+   "note": "hand on your chest, every beat"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 120,
+   "len": 247,
+   "first": 641,
+   "line": "Fighter pilots know this feeling. When they turn hard, they feel the same pull. Without help, their vision goes gray at about three to four g.",
+   "note": "the pilot g-meter: gray at 3-4, then dark"
+  },
+  {
+   "id": "S6",
+   "size": "pov",
+   "key": 60,
+   "len": 111,
+   "first": 888,
+   "line": "Then it goes dark. Then they pass out. That's real.",
+   "note": "your vision grays and goes dark"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 20,
+   "len": 81,
+   "first": 999,
+   "line": "And you're at four g, standing in your kitchen.",
+   "note": "dizzy at four g"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 40,
+   "len": 124,
+   "first": 1080,
+   "line": "So you do the only thing that helps. You lie down. Flat on your back.",
+   "note": "you lie down flat, the gray lifts"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 40,
+   "len": 140,
+   "first": 1204,
+   "line": "Now your blood doesn't have to climb. Your brain gets it back. The gray clears.",
+   "note": "lie flat: no climb"
+  },
+  {
+   "id": "S10",
+   "size": "wide pan",
+   "key": 60,
+   "len": 286,
+   "first": 1344,
+   "line": "Across the whole planet, eight billion people do the same thing. They lie down wherever they are. On sidewalks, in offices, in the middle of the road. The",
+   "note": "everyone lying down in the street"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 70,
+   "len": 252,
+   "first": 1630,
+   "line": "trained pilots in G- suits? They can handle eight or nine g. But only for seconds, in a jet, with a special suit squeezing their legs.",
+   "note": "9 G, trained pilots, seconds"
+  },
+  {
+   "id": "S12",
+   "size": "big word",
+   "key": 20,
+   "len": 64,
+   "first": 1882,
+   "line": "Nobody has ever done it for an hour.",
+   "note": "AN HOUR"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 90,
+   "len": 186,
+   "first": 1946,
+   "line": "And outside, things start to break. A tree in the yard groans, and a branch rips off. Gutters fold.",
+   "note": "the branch rips off, the fence leans"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 50,
+   "len": 105,
+   "first": 2132,
+   "line": "Shelves in the kitchen snap and the plates come down like bullets.",
+   "note": "shelves snap, plates like bullets"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 60,
+   "len": 166,
+   "first": 2237,
+   "line": "Biscuit crawls across the floor on his belly and lies down next to you. He's shaking. You do",
+   "note": "Biscuit crawls over, shaking"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 60,
+   "len": 137,
+   "first": 2403,
+   "line": "the math. In one hour, it's eight g. In two hours, sixteen.",
+   "note": "8G in one hour, 16G in two"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 126,
+   "first": 2540,
+   "line": "And nobody, anywhere, knows how to survive sixteen.",
+   "note": "nobody knows how to survive sixteen"
   }
  ],
- "fx": [],
- "audio": {}
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.3,
+   "f": 7
+  }
+ ],
+ "audio": {
+  "voice": "gravity/c04/voice.wav"
+ }
 }

@@ -69,18 +69,215 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "card",
+   "note": "4G, 8:00 AM",
+   "key": 14
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "phone",
+   "note": "the app: 39.2",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "you drop to your knees",
+   "key": 50
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "heart to brain, 30 cm uphill, x4",
+   "key": 120
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the pilot g-meter: gray at 3-4, then dark",
+   "key": 120
+  },
+  {
+   "id": "S6",
+   "size": "pov",
+   "set": "kitchen",
+   "note": "your vision grays and goes dark",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "dizzy at four g",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "you lie down flat, the gray lifts",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "lie flat: no climb",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "wide pan",
+   "set": "street day",
+   "note": "everyone lying down in the street",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "9 G, trained pilots, seconds",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "big word",
+   "set": "kitchen",
+   "note": "AN HOUR",
+   "key": 20
+  },
+  {
+   "id": "S13",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "yard",
+   "note": "the branch rips off, the fence leans",
+   "key": 90
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "shelves snap, plates like bullets",
+   "key": 50
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "kitchen floor",
+   "note": "Biscuit crawls over, shaking",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "8G in one hour, 16G in two",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "kitchen floor",
+   "note": "nobody knows how to survive sixteen",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "hand on your chest, every beat",
+   "key": 20
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "The"
+  },
+  {
+   "shot": "S3",
+   "at": "You"
+  },
+  {
+   "shot": "S4",
+   "at": "Here's"
+  },
+  {
+   "shot": "S18",
+   "at": "Every"
+  },
+  {
+   "shot": "S4",
+   "at": "Now"
+  },
+  {
+   "shot": "S5",
+   "at": "Fighter"
+  },
+  {
+   "shot": "S6",
+   "at": "Then"
+  },
+  {
+   "shot": "S7",
+   "at": "And"
+  },
+  {
+   "shot": "S8",
+   "at": "So"
+  },
+  {
+   "shot": "S9",
+   "at": "Now"
+  },
+  {
+   "shot": "S10",
+   "at": "Across"
+  },
+  {
+   "shot": "S11",
+   "at": "trained"
+  },
+  {
+   "shot": "S12",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "Shelves"
+  },
+  {
+   "shot": "S15",
+   "at": "Biscuit"
+  },
+  {
+   "shot": "S16",
+   "at": "math"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S1+7",
+   "kind": "flash",
+   "color": "#FF4A3A",
+   "o": 0.3
+  }
+ ]
 }
