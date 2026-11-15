@@ -44,19 +44,167 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 2 card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 36,
+   "note": "in bed: you slap the alarm"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 10,
+   "note": "the clock in two pieces"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "note": "day one: you stare at your hand"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 50,
+   "note": "day 0: fifty kilos, one suitcase"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 150,
+   "note": "the first doublings"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
    "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "Mo shrugs: not so crazy"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 60,
+   "note": "the curve: slow, then explodes"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 60,
+   "note": "day 10: a truck"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 70,
+   "note": "day 20: the Titanic. That's real"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 40,
+   "note": "the whole ladder to day 20"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 130,
+   "note": "the rules: strength yes, speed no, size no"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 40,
+   "note": "last week = today"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 100,
+   "note": "bones, skin, tendons: normal"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 20,
+   "note": "remember that"
+  },
+  {
+   "id": "S15",
+   "size": "title",
+   "key": 30,
+   "note": "title: what if your strength doubled every day?"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "alarm"
+  },
+  {
+   "shot": "S3",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "Here's"
+  },
+  {
+   "shot": "S6",
+   "at": "Tomorrow"
+  },
+  {
+   "shot": "S7",
+   "at": "Doesn't"
+  },
+  {
+   "shot": "S8",
+   "at": "That's"
+  },
+  {
+   "shot": "S9",
+   "at": "On"
+  },
+  {
+   "shot": "S10",
+   "at": "On"
+  },
+  {
+   "shot": "S16",
+   "at": "Fifty"
+  },
+  {
+   "shot": "S11",
+   "at": "Now"
+  },
+  {
+   "shot": "S12",
+   "at": "You"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "Remember"
+  },
+  {
+   "shot": "S15",
+   "at": "This"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

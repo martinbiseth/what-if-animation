@@ -1,29 +1,286 @@
 {
  "slug": "strength-doubles/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1698,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 51,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 51,
+   "line": "Monday, six a. m., your"
+  },
+  {
+   "shot": "S2",
+   "a": 51,
+   "b": 114,
+   "t0": 0,
+   "t1": 63,
+   "line": "alarm goes off. You slap it."
+  },
+  {
+   "shot": "S3",
+   "a": 114,
+   "b": 184,
+   "t0": 0,
+   "t1": 70,
+   "line": "The alarm clock is now in two pieces."
+  },
+  {
+   "shot": "S4",
+   "a": 184,
+   "b": 220,
+   "t0": 0,
+   "t1": 36,
+   "line": "That's day one."
+  },
+  {
+   "shot": "S5",
+   "a": 220,
+   "b": 384,
+   "t0": 0,
+   "t1": 164,
+   "line": "Here's how it works. Say today you can lift fifty kilos. About one heavy suitcase."
+  },
+  {
+   "shot": "S6",
+   "a": 384,
+   "b": 574,
+   "t0": 0,
+   "t1": 190,
+   "line": "Tomorrow at six, a hundred. The day after, two hundred. Then four hundred. Eight hundred."
+  },
+  {
+   "shot": "S7",
+   "a": 574,
+   "b": 626,
+   "t0": 0,
+   "t1": 52,
+   "line": "Doesn't sound so crazy, right?"
+  },
+  {
+   "shot": "S8",
+   "a": 626,
+   "b": 745,
+   "t0": 0,
+   "t1": 119,
+   "line": "That's the trick with doubling. It starts slow, and then it explodes."
+  },
+  {
+   "shot": "S9",
+   "a": 745,
+   "b": 885,
+   "t0": 0,
+   "t1": 140,
+   "line": "On day ten, you can lift fifty- one tonnes. More than a fully loaded truck."
+  },
+  {
+   "shot": "S10",
+   "a": 885,
+   "b": 924,
+   "t0": 0,
+   "t1": 39,
+   "line": "On day twenty, over"
+  },
+  {
+   "shot": "S16",
+   "a": 924,
+   "b": 1133,
+   "t0": 0,
+   "t1": 209,
+   "line": "fifty- two thousand tonnes. That's about the weight of the Titanic. That's real. Fifty kilos, doubled twenty times."
+  },
+  {
+   "shot": "S11",
+   "a": 1133,
+   "b": 1286,
+   "t0": 0,
+   "t1": 153,
+   "line": "Now the rules. Only your strength doubles. Not your speed. Not your size."
+  },
+  {
+   "shot": "S12",
+   "a": 1286,
+   "b": 1358,
+   "t0": 0,
+   "t1": 72,
+   "line": "You look exactly the same as you did last week."
+  },
+  {
+   "shot": "S13",
+   "a": 1358,
+   "b": 1535,
+   "t0": 0,
+   "t1": 177,
+   "line": "And your bones, your skin, your tendons? Completely normal. Fourteen- year- old normal."
+  },
+  {
+   "shot": "S14",
+   "a": 1535,
+   "b": 1604,
+   "t0": 0,
+   "t1": 69,
+   "line": "Remember that. It matters later."
+  },
+  {
+   "shot": "S15",
+   "a": 1604,
+   "b": 1698,
+   "t0": 0,
+   "t1": 94,
+   "line": "This is what if your strength doubled every day."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 51,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Monday, six a. m., your",
+   "note": "chapter 2 card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 36,
+   "len": 63,
+   "first": 51,
+   "line": "alarm goes off. You slap it.",
+   "note": "in bed: you slap the alarm"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 10,
+   "len": 70,
+   "first": 114,
+   "line": "The alarm clock is now in two pieces.",
+   "note": "the clock in two pieces"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 20,
+   "len": 36,
+   "first": 184,
+   "line": "That's day one.",
+   "note": "day one: you stare at your hand"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 50,
+   "len": 164,
+   "first": 220,
+   "line": "Here's how it works. Say today you can lift fifty kilos. About one heavy suitcase.",
+   "note": "day 0: fifty kilos, one suitcase"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 150,
+   "len": 190,
+   "first": 384,
+   "line": "Tomorrow at six, a hundred. The day after, two hundred. Then four hundred. Eight hundred.",
+   "note": "the first doublings"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
+   "key": 30,
+   "len": 52,
+   "first": 574,
+   "line": "Doesn't sound so crazy, right?",
+   "note": "Mo shrugs: not so crazy"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 60,
+   "len": 119,
+   "first": 626,
+   "line": "That's the trick with doubling. It starts slow, and then it explodes.",
+   "note": "the curve: slow, then explodes"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 60,
+   "len": 140,
+   "first": 745,
+   "line": "On day ten, you can lift fifty- one tonnes. More than a fully loaded truck.",
+   "note": "day 10: a truck"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 70,
+   "len": 39,
+   "first": 885,
+   "line": "On day twenty, over",
+   "note": "day 20: the Titanic. That's real"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 40,
+   "len": 209,
+   "first": 924,
+   "line": "fifty- two thousand tonnes. That's about the weight of the Titanic. That's real. Fifty kilos, doubled twenty times.",
+   "note": "the whole ladder to day 20"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 130,
+   "len": 153,
+   "first": 1133,
+   "line": "Now the rules. Only your strength doubles. Not your speed. Not your size.",
+   "note": "the rules: strength yes, speed no, size no"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 40,
+   "len": 72,
+   "first": 1286,
+   "line": "You look exactly the same as you did last week.",
+   "note": "last week = today"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 100,
+   "len": 177,
+   "first": 1358,
+   "line": "And your bones, your skin, your tendons? Completely normal. Fourteen- year- old normal.",
+   "note": "bones, skin, tendons: normal"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 20,
+   "len": 69,
+   "first": 1535,
+   "line": "Remember that. It matters later.",
+   "note": "remember that"
+  },
+  {
+   "id": "S15",
+   "size": "title",
+   "key": 30,
+   "len": 94,
+   "first": 1604,
+   "line": "This is what if your strength doubled every day.",
+   "note": "title: what if your strength doubled every day?"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "strength-doubles/c02/voice.wav"
+ }
 }

@@ -280,7 +280,7 @@ export const Spoon: React.FC<{ x: number; y: number; s?: number; bend?: number }
 );
 
 /** A hand X-ray on a light box: bones white on blue-black; `crack` draws a fracture line, `thick` thickens the bones. */
-export const XRay: React.FC<{ x: number; y: number; s?: number; crack?: number; thick?: number; t?: number }> = ({ x, y, s = 1, crack = 0, thick = 0, t = 0 }) => {
+export const XRay: React.FC<{ x: number; y: number; s?: number; crack?: number; thick?: number; t?: number; label?: string }> = ({ x, y, s = 1, crack = 0, thick = 0, t = 0, label }) => {
   const w = 18 + thick * 12;
   const fingers = [[-110, -80, -330], [-45, -40, -400], [20, -30, -420], [85, -40, -380], [150, 40, -230]];
   return (
@@ -300,7 +300,7 @@ export const XRay: React.FC<{ x: number; y: number; s?: number; crack?: number; 
       {crack > 0 ? (
         <path d="M -60 -10 l 18 -14 l -10 -12 l 16 -16" stroke="#FF3A2A" strokeWidth={8} fill="none" strokeDasharray="120" strokeDashoffset={120 * (1 - crack)} />
       ) : null}
-      <text x={-290} y={-480} fontFamily={FONT.ui} fontSize={26} fill="#8AA0B8">R · HAND · {thick > 0 ? 'DAY 15' : 'DAY 11'}</text>
+      <text x={-290} y={-480} fontFamily={FONT.ui} fontSize={26} fill="#8AA0B8">R · HAND · {label ?? (thick > 0 ? 'DAY 15' : 'DAY 11')}</text>
     </g>
   );
 };
