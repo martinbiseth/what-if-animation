@@ -58,17 +58,215 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "yard",
+   "note": "the family slides out across the lawn",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "yard",
+   "note": "you slide like a soldier",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "yard",
+   "note": "Mom drags Biscuit",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "yard",
+   "note": "you next, Ellie behind",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "yard",
+   "note": "you turn your head: she isn't there",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "yard",
+   "note": "Ellie crying: I can't",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "big word",
+   "set": "yard",
+   "note": "8:52",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "pocket",
+   "note": "the phone buzzes: Mo",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "yard",
+   "note": "you can't answer",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "yard",
+   "note": "Mom at the fence, you halfway, Ellie stuck",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the choice: keep sliding or go back",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "yard",
+   "note": "you go back",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "yard",
+   "note": "every inch costs you",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "yard",
+   "note": "the pool filter humming far away",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "yard",
+   "note": "you grab Ellie's strap: hold on",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "pool",
+   "note": "Mr. Patel reaches out a hand",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "big word",
+   "set": "yard",
+   "note": "8:58",
+   "key": 20
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "pool",
+   "note": "you roll into the water: splash",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "pool",
+   "note": "floating: light",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You#3"
+  },
+  {
+   "shot": "S3",
+   "at": "Mom"
+  },
+  {
+   "shot": "S4",
+   "at": "You"
+  },
+  {
+   "shot": "S5",
+   "at": "Then"
+  },
+  {
+   "shot": "S6",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S7",
+   "at": "Eight"
+  },
+  {
+   "shot": "S8",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S9",
+   "at": "answer"
+  },
+  {
+   "shot": "S10",
+   "at": "Mom"
+  },
+  {
+   "shot": "S11",
+   "at": "So"
+  },
+  {
+   "shot": "S12",
+   "at": "You"
+  },
+  {
+   "shot": "S13",
+   "at": "Every"
+  },
+  {
+   "shot": "S14",
+   "at": "hear"
+  },
+  {
+   "shot": "S15",
+   "at": "reach"
+  },
+  {
+   "shot": "S16",
+   "at": "Mr"
+  },
+  {
+   "shot": "S17",
+   "at": "Eight"
+  },
+  {
+   "shot": "S18",
+   "at": "roll"
+  },
+  {
+   "shot": "S19",
+   "at": "And"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.6
 }

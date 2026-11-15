@@ -78,9 +78,9 @@ export const slide = (x: number, floorY: number, scale: number, dir: 1 | -1, pha
   const a = Math.sin(phase);
   return {
     ...basePose,
-    x, y: floorY + 46 * scale, scale, spin: -90 * dir, yaw: 0.5 * dir, facing: dir,
-    headTilt: 70 * dir,
-    armL: { a: 150 + 26 * a, b: -30 - 20 * a }, armR: { a: 150 - 26 * a, b: -30 + 20 * a },
+    x, y: floorY + 46 * scale, scale, spin: 90 * dir, yaw: 0.5 * dir, facing: dir,
+    headTilt: -40 * dir,
+    armL: { a: 172 + 8 * a, b: -10 - 20 * Math.max(0, a) }, armR: { a: 172 - 8 * a, b: -10 - 20 * Math.max(0, -a) },
     legL: { a: 10 + 14 * a, b: -30 - 30 * Math.max(0, a) }, legR: { a: -6 - 14 * a, b: -30 - 30 * Math.max(0, -a) },
     ...o,
   };
