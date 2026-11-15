@@ -69,18 +69,281 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "card",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "DAY ONE: THE FUN PART",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "classroom",
+   "note": "teacher writes a monster problem",
+   "key": 60
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "classroom",
+   "note": "your hand up before the pen is down",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "classroom",
+   "note": "she checks twice, sits down",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "library",
+   "note": "book towers grow, librarian stares",
+   "key": 90
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "set": "street day",
+   "note": "Mo: since when are you smart?",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "big number",
+   "set": "living room",
+   "note": "DAY TWO 400",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "tv",
+   "note": "Japanese cooking show",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "fact",
+   "set": "schematic",
+   "note": "2,200 hours",
+   "key": 70
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "tv",
+   "note": "you correct the subtitles",
+   "key": 130
+  },
+  {
+   "id": "S11",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "Ellie asks why the sky is blue",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "kitchen table",
+   "note": "glass and lamp make a sunset",
+   "key": 130
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Ellie amazed, then grins",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "set": "study",
+   "note": "Mo dares you: the chess computer",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "chess",
+   "note": "game 1 lost, game 2 won",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "chess",
+   "note": "you lose in 20",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "big number",
+   "set": "study",
+   "note": "DAY THREE 800",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "the seven problems, $1M each",
+   "key": 240
+  },
+  {
+   "id": "S24",
+   "size": "big word",
+   "set": "schematic",
+   "note": "$1,000,000 each",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "diagram",
+   "set": "schematic",
+   "note": "26 years, one solved",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "bus",
+   "note": "you solve one on the bus",
+   "key": 110
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "laptop",
+   "note": "anonymous post",
+   "key": 100
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "study",
+   "note": "Mo reads, closes the laptop",
+   "key": 160
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "set": "study",
+   "note": "you laugh",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "study",
+   "note": "heat creeping in, IQ readout red",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Math"
+  },
+  {
+   "shot": "S3",
+   "at": "You"
+  },
+  {
+   "shot": "S4",
+   "at": "checks"
+  },
+  {
+   "shot": "S5",
+   "at": "At"
+  },
+  {
+   "shot": "S6",
+   "at": "Your"
+  },
+  {
+   "shot": "S7",
+   "at": "Day"
+  },
+  {
+   "shot": "S8",
+   "at": "You"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "You"
+  },
+  {
+   "shot": "S11",
+   "at": "At"
+  },
+  {
+   "shot": "S12",
+   "at": "Tonight"
+  },
+  {
+   "shot": "S13",
+   "at": "Ellie's"
+  },
+  {
+   "shot": "S14",
+   "at": "That"
+  },
+  {
+   "shot": "S15",
+   "at": "lose"
+  },
+  {
+   "shot": "S16",
+   "at": "In"
+  },
+  {
+   "shot": "S17",
+   "at": "Day"
+  },
+  {
+   "shot": "S18",
+   "at": "In"
+  },
+  {
+   "shot": "S24",
+   "at": "One"
+  },
+  {
+   "shot": "S25",
+   "at": "In"
+  },
+  {
+   "shot": "S19",
+   "at": "read"
+  },
+  {
+   "shot": "S20",
+   "at": "type"
+  },
+  {
+   "shot": "S21",
+   "at": "Mo"
+  },
+  {
+   "shot": "S22",
+   "at": "laugh"
+  },
+  {
+   "shot": "S23",
+   "at": "But"
   }
  ],
- "end": "f:90",
  "fx": []
 }

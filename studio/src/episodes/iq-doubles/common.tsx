@@ -382,3 +382,17 @@ export const K = { BEDROOM, KITCHEN, CLS, STUDY, stand, LEG_LEN, Hero };
 export const asleep = (b: { x: number; y: number; scale: number }, t = 0): Partial<Pose> => ({
   ...b, y: b.y + 12, yaw: 0.25, tilt: -12, headTilt: 22 + Math.sin(t / 30) * 2, expr: 'tired', blink: 1, armL: { a: 20, b: 20 }, armR: { a: 20, b: 20 },
 });
+
+/** A TV seen front-on filling most of the frame, with whatever is on it (drawn in a 1200x680 box). */
+export const TvFront: React.FC<{ t: number; children: React.ReactNode; s?: number; Bg?: SetFC }> = ({ t, children, s = 1, Bg }) => (
+  <g>
+    {Bg ? <Soft blur={16} dim={0.4}><g transform={camT(700, 520, 2)}><Bg t={t + 700} /></g></Soft> : <rect width={1920} height={1080} fill="#14121C" />}
+    <g transform={`translate(960 520) scale(${s}) translate(-960 -520)`}>
+      <Glow x={960} y={520} r={900} kind="cool" o={0.35} />
+      <rect x={340} y={160} width={1240} height={720} rx={20} fill="#15131B" stroke="#100E16" strokeWidth={10} />
+      <svg x={360} y={180} width={1200} height={680} viewBox="0 0 1200 680" overflow="hidden">{children}</svg>
+      <rect x={880} y={880} width={160} height={40} fill="#24202C" />
+      <rect x={760} y={916} width={400} height={20} rx={8} fill="#24202C" />
+    </g>
+  </g>
+);
