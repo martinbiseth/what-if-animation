@@ -1,29 +1,388 @@
 {
  "slug": "bank-balance/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2594,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 45,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 45,
+   "line": "Your mum's number is red."
+  },
+  {
+   "shot": "S2",
+   "a": 45,
+   "b": 140,
+   "t0": 0,
+   "t1": 95,
+   "line": "Minus six thousand, two hundred and forty dollars."
+  },
+  {
+   "shot": "S3",
+   "a": 140,
+   "b": 198,
+   "t0": 0,
+   "t1": 58,
+   "line": "She's been buying you the good cereal."
+  },
+  {
+   "shot": "S4",
+   "a": 198,
+   "b": 265,
+   "t0": 0,
+   "t1": 67,
+   "line": "She paid for Ellie's school trip last week."
+  },
+  {
+   "shot": "S5",
+   "a": 265,
+   "b": 305,
+   "t0": 0,
+   "t1": 40,
+   "line": "She never said a word."
+  },
+  {
+   "shot": "S6",
+   "a": 305,
+   "b": 364,
+   "t0": 0,
+   "t1": 59,
+   "line": "And now you can't stop seeing it."
+  },
+  {
+   "shot": "S7",
+   "a": 364,
+   "b": 514,
+   "t0": 0,
+   "t1": 150,
+   "line": "That's the catch. Once you can see it, you can't stop seeing it. And it isn't just her. The"
+  },
+  {
+   "shot": "S8",
+   "a": 514,
+   "b": 672,
+   "t0": 0,
+   "t1": 158,
+   "line": "bus driver who always says good morning: forty- one dollars. It's the twenty- sixth of the month."
+  },
+  {
+   "shot": "S9",
+   "a": 672,
+   "b": 897,
+   "t0": 0,
+   "t1": 225,
+   "line": "In America, almost four out of every ten adults couldn't pay a surprise four hundred dollar bill with the cash they have. That's real."
+  },
+  {
+   "shot": "S10",
+   "a": 897,
+   "b": 1027,
+   "t0": 0,
+   "t1": 130,
+   "line": "And you see it everywhere. A small number, a normal face, a smile."
+  },
+  {
+   "shot": "S11",
+   "a": 1027,
+   "b": 1163,
+   "t0": 0,
+   "t1": 136,
+   "line": "Americans owe more than one trillion dollars on credit cards. A trillion."
+  },
+  {
+   "shot": "S12",
+   "a": 1163,
+   "b": 1329,
+   "t0": 0,
+   "t1": 166,
+   "line": "That's why so many of the nice cars, the nice watches and the nice clothes float under a red number. And"
+  },
+  {
+   "shot": "S13",
+   "a": 1329,
+   "b": 1521,
+   "t0": 0,
+   "t1": 192,
+   "line": "the other end is just as strange. Only about one in every hundred adults on Earth has a million dollars or more. On"
+  },
+  {
+   "shot": "S14",
+   "a": 1521,
+   "b": 1636,
+   "t0": 0,
+   "t1": 115,
+   "line": "a busy street, you have to walk past about a hundred grown- ups to find one. The"
+  },
+  {
+   "shot": "S15",
+   "a": 1636,
+   "b": 1760,
+   "t0": 0,
+   "t1": 124,
+   "line": "man in the huge house at the end of your road? Red. Very red. The"
+  },
+  {
+   "shot": "S16",
+   "a": 1760,
+   "b": 1886,
+   "t0": 0,
+   "t1": 126,
+   "line": "lady who sweeps the school yard? Quietly, more than the head teacher."
+  },
+  {
+   "shot": "S17",
+   "a": 1886,
+   "b": 2053,
+   "t0": 0,
+   "t1": 167,
+   "line": "And it changes you. You catch yourself being extra nice to a man because his number is big. You"
+  },
+  {
+   "shot": "S18",
+   "a": 2053,
+   "b": 2157,
+   "t0": 0,
+   "t1": 104,
+   "line": "stop listening to a girl in class because hers is small. You"
+  },
+  {
+   "shot": "S19",
+   "a": 2157,
+   "b": 2220,
+   "t0": 0,
+   "t1": 63,
+   "line": "hate it. You can't switch it off."
+  },
+  {
+   "shot": "S20",
+   "a": 2220,
+   "b": 2300,
+   "t0": 0,
+   "t1": 80,
+   "line": "Mo's number goes down every day that week. At"
+  },
+  {
+   "shot": "S21",
+   "a": 2300,
+   "b": 2453,
+   "t0": 0,
+   "t1": 153,
+   "line": "lunch, Mo pretends he isn't hungry. You give him half your sandwich, and neither of you says anything."
+  },
+  {
+   "shot": "S22",
+   "a": 2453,
+   "b": 2594,
+   "t0": 0,
+   "t1": 141,
+   "line": "Seeing it doesn't fix anything. It just means you can't pretend anymore."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
    "key": 30,
-   "len": 90,
+   "len": 45,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Your mum's number is red.",
+   "note": "Mum: red"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 15,
+   "len": 95,
+   "first": 45,
+   "line": "Minus six thousand, two hundred and forty dollars.",
+   "note": "-$6,240"
+  },
+  {
+   "id": "S3",
+   "size": "two-shot",
+   "key": 30,
+   "len": 58,
+   "first": 140,
+   "line": "She's been buying you the good cereal.",
+   "note": "the good cereal"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 30,
+   "len": 67,
+   "first": 198,
+   "line": "She paid for Ellie's school trip last week.",
+   "note": "Ellie's school trip"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 20,
+   "len": 40,
+   "first": 265,
+   "line": "She never said a word.",
+   "note": "never said a word"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 20,
+   "len": 59,
+   "first": 305,
+   "line": "And now you can't stop seeing it.",
+   "note": "can't stop seeing it"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 30,
+   "len": 150,
+   "first": 364,
+   "line": "That's the catch. Once you can see it, you can't stop seeing it. And it isn't just her. The",
+   "note": "that's the catch"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 110,
+   "len": 158,
+   "first": 514,
+   "line": "bus driver who always says good morning: forty- one dollars. It's the twenty- sixth of the month.",
+   "note": "the bus driver, the 26th"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 90,
+   "len": 225,
+   "first": 672,
+   "line": "In America, almost four out of every ten adults couldn't pay a surprise four hundred dollar bill with the cash they have. That's real.",
+   "note": "fact: $400"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "len": 130,
+   "first": 897,
+   "line": "And you see it everywhere. A small number, a normal face, a smile.",
+   "note": "small numbers, smiles"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 90,
+   "len": 136,
+   "first": 1027,
+   "line": "Americans owe more than one trillion dollars on credit cards. A trillion.",
+   "note": "fact: $1 trillion"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 40,
+   "len": 166,
+   "first": 1163,
+   "line": "That's why so many of the nice cars, the nice watches and the nice clothes float under a red number. And",
+   "note": "nice car, red number"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 90,
+   "len": 192,
+   "first": 1329,
+   "line": "the other end is just as strange. Only about one in every hundred adults on Earth has a million dollars or more. On",
+   "note": "fact: 1 in 100"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 115,
+   "first": 1521,
+   "line": "a busy street, you have to walk past about a hundred grown- ups to find one. The",
+   "note": "busy street: one millionaire"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 90,
+   "len": 124,
+   "first": 1636,
+   "line": "man in the huge house at the end of your road? Red. Very red. The",
+   "note": "the huge house: very red"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 90,
+   "len": 126,
+   "first": 1760,
+   "line": "lady who sweeps the school yard? Quietly, more than the head teacher.",
+   "note": "the sweeper: more than the head"
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "key": 40,
+   "len": 167,
+   "first": 1886,
+   "line": "And it changes you. You catch yourself being extra nice to a man because his number is big. You",
+   "note": "extra nice to a big number"
+  },
+  {
+   "id": "S18",
+   "size": "two-shot",
+   "key": 60,
+   "len": 104,
+   "first": 2053,
+   "line": "stop listening to a girl in class because hers is small. You",
+   "note": "not listening to a small number"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 20,
+   "len": 63,
+   "first": 2157,
+   "line": "hate it. You can't switch it off.",
+   "note": "you hate it"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 60,
+   "len": 80,
+   "first": 2220,
+   "line": "Mo's number goes down every day that week. At",
+   "note": "Mo's week"
+  },
+  {
+   "id": "S21",
+   "size": "two-shot",
+   "key": 90,
+   "len": 153,
+   "first": 2300,
+   "line": "lunch, Mo pretends he isn't hungry. You give him half your sandwich, and neither of you says anything.",
+   "note": "half a sandwich"
+  },
+  {
+   "id": "S22",
+   "size": "two-shot",
+   "key": 60,
+   "len": 141,
+   "first": 2453,
+   "line": "Seeing it doesn't fix anything. It just means you can't pretend anymore.",
+   "note": "seeing it doesn't fix anything"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "bank-balance/c04/voice.wav"
+ }
 }

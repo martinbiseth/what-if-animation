@@ -57,18 +57,227 @@
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "note": "Mum: red",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "note": "-$6,240",
+   "key": 15
+  },
+  {
+   "id": "S3",
+   "size": "two-shot",
+   "note": "the good cereal",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "note": "Ellie's school trip",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "never said a word",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "can't stop seeing it",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "note": "that's the catch",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "the bus driver, the 26th",
+   "key": 110
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "note": "fact: $400",
+   "key": 90
+  },
+  {
+   "id": "S10",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "small numbers, smiles",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "fact: $1 trillion",
+   "key": 90
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "note": "nice car, red number",
+   "key": 40
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "note": "fact: 1 in 100",
+   "key": 90
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "busy street: one millionaire",
+   "key": 50
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "the huge house: very red",
+   "key": 90
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "note": "the sweeper: more than the head",
+   "key": 90
+  },
+  {
+   "id": "S17",
+   "size": "two-shot",
+   "note": "extra nice to a big number",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "two-shot",
+   "note": "not listening to a small number",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "note": "you hate it",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "note": "Mo's week",
+   "key": 60
+  },
+  {
+   "id": "S21",
+   "size": "two-shot",
+   "note": "half a sandwich",
+   "key": 90
+  },
+  {
+   "id": "S22",
+   "size": "two-shot",
+   "note": "seeing it doesn't fix anything",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Minus"
+  },
+  {
+   "shot": "S3",
+   "at": "She's"
+  },
+  {
+   "shot": "S4",
+   "at": "She"
+  },
+  {
+   "shot": "S5",
+   "at": "She"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "That's"
+  },
+  {
+   "shot": "S8",
+   "at": "bus"
+  },
+  {
+   "shot": "S9",
+   "at": "In"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "Americans"
+  },
+  {
+   "shot": "S12",
+   "at": "That's"
+  },
+  {
+   "shot": "S13",
+   "at": "other"
+  },
+  {
+   "shot": "S14",
+   "at": "busy"
+  },
+  {
+   "shot": "S15",
+   "at": "man"
+  },
+  {
+   "shot": "S16",
+   "at": "lady"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "stop"
+  },
+  {
+   "shot": "S19",
+   "at": "hate"
+  },
+  {
+   "shot": "S20",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S21",
+   "at": "lunch"
+  },
+  {
+   "shot": "S22",
+   "at": "Seeing"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 1.2
 }
