@@ -14,6 +14,8 @@ const PAPER = '#F6EFE3';
 // ---------------------------------------------------------------- ages
 /** How tall someone is drawn at a given age: the rig's scale (you at 15 is about 1). */
 export const ageK = (age: number) => 0.42 + 0.038 * age;
+/** Where the top of the head of someone that age lands on the door frame (as a fraction of its height, drawn at 1.5x). */
+export const markH = (age: number) => 0.758 * ageK(age);
 
 // ---------------------------------------------------------------- the door frame
 export type Mark = { h: number; label: string; color?: string; on?: number; side?: 'L' | 'R' };
@@ -343,7 +345,7 @@ export const StepStool: React.FC<{ x: number; y: number; s?: number }> = ({ x, y
 
 /** A school portrait in a frame on a fridge door: the face of whoever `look` is, at `age`. */
 export const SchoolPhoto: React.FC<{ x: number; y: number; s?: number; look: Look; label?: string; rot?: number }> = ({ x, y, s = 1, look, label = 'GRADE 4', rot = 0 }) => {
-  const pose: Pose = { ...basePose, x: 0, y: 260, scale: 1, expr: 'happy', yaw: 0.15 };
+  const pose: Pose = { ...basePose, x: 0, y: 150, scale: 1, expr: 'happy', yaw: 0.15 };
   return (
     <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${s})`}>
       <rect x={-130} y={-160} width={260} height={320} fill="#FFFFFF" stroke={P0} strokeWidth={6} />

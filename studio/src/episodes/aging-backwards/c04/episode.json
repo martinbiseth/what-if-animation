@@ -58,18 +58,292 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "schematic",
+   "note": "THE CATCH: IT UN-BUILDS",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "dark",
+   "note": "you, shrinking a notch in a spotlight",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "fact",
+   "set": "schematic",
+   "note": "5-6 cm a year",
+   "key": 80
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "door frame",
+   "note": "every midnight: minus two inches",
+   "key": 60
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "street day",
+   "note": "the bike doesn't fit any more",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "bathroom",
+   "note": "a step stool to reach the sink",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "set": "schematic",
+   "note": "a newborn: about 300 bones",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "fact",
+   "set": "schematic",
+   "note": "an adult: 206",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the skull plates fuse, then come apart",
+   "key": 80
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "skeleton: skull, hips, spine light up",
+   "key": 70
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "set": "bedroom night",
+   "note": "asleep: a pulse at midnight",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "rack",
+   "note": "new clothes every two days, smaller each time",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Ellie in your old orange hoodie",
+   "key": 50
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "dark",
+   "note": "the one nobody wants to talk about",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "fact",
+   "set": "schematic",
+   "note": "90% by age 6",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "graph",
+   "set": "schematic",
+   "note": "the brain growth curve, run backwards",
+   "key": 150
+  },
+  {
+   "id": "S17",
+   "size": "fact",
+   "set": "schematic",
+   "note": "earliest memories: about age 3",
+   "key": 80
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "set": "dark",
+   "note": "memories as photos",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "dark",
+   "note": "photos: Mo, mom, Ellie",
+   "key": 80
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "dark",
+   "note": "a 3-year-old's brain: the photos fade",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "big word",
+   "set": "kitchen",
+   "note": "DAY 8 · AGE 7",
+   "key": 16
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "door frame",
+   "note": "Ellie is taller than you now",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Ellie cuts your food",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "set": "bedroom",
+   "note": "Ellie reads you a bedtime story",
+   "key": 80
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "set": "bedroom night",
+   "note": "you realize",
+   "key": 30
+  },
+  {
+   "id": "S26",
+   "size": "big word",
+   "set": "card",
+   "note": "YOUR LITTLE SISTER → BIG SISTER",
+   "key": 70
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "body"
+  },
+  {
+   "shot": "S3",
+   "at": "Between"
+  },
+  {
+   "shot": "S4",
+   "at": "So"
+  },
+  {
+   "shot": "S5",
+   "at": "clothes"
+  },
+  {
+   "shot": "S6",
+   "at": "By"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "An"
+  },
+  {
+   "shot": "S9",
+   "at": "As"
+  },
+  {
+   "shot": "S10",
+   "at": "skull"
+  },
+  {
+   "shot": "S11",
+   "at": "Every"
+  },
+  {
+   "shot": "S12",
+   "at": "mom"
+  },
+  {
+   "shot": "S13",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "brain"
+  },
+  {
+   "shot": "S16",
+   "at": "Before"
+  },
+  {
+   "shot": "S17",
+   "at": "There's"
+  },
+  {
+   "shot": "S18",
+   "at": "brain"
+  },
+  {
+   "shot": "S19",
+   "at": "Fifteen"
+  },
+  {
+   "shot": "S20",
+   "at": "But"
+  },
+  {
+   "shot": "S21",
+   "at": "Day"
+  },
+  {
+   "shot": "S22",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S23",
+   "at": "dinner"
+  },
+  {
+   "shot": "S24",
+   "at": "bedtime"
+  },
+  {
+   "shot": "S25",
+   "at": "realize"
+  },
+  {
+   "shot": "S26",
+   "at": "little"
   }
  ],
- "end": "f:90",
  "fx": []
 }

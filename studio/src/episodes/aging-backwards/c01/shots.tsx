@@ -4,7 +4,7 @@ import {
   Bedroom, BEDROOM, bedSit, Kitchen, KITCHEN, KitchenIsland, stand, AlarmClock, Rooftop, TitleCard, walkPose, Sparkle, LEG_LEN,
 } from '../../../engine';
 import { YOU, ELLIE, MOM, faceCU, bigWord, Soft, relW, dayK, ELLIE_K, MOM_K, span } from '../common';
-import { Bathroom, BATH, LockPhone, DoorFrame, ageK } from '../sets';
+import { Bathroom, BATH, LockPhone, DoorFrame, ageK, markH } from '../sets';
 import { StreetModern, STREETM, streetHip } from '../../electricity/sets';
 import words from './words.json';
 
@@ -257,13 +257,13 @@ export const S13: React.FC<ShotProps> = ({ t, len }) => {
 const FX = 720;
 const FY = 980;
 const FH = 820;
-const FRAME_K = 1.7; // the rig's scale against this frame (a 15-year-old's head reaches the 0.78 mark)
+const FRAME_K = 1.5; // the rig's scale against this frame (a 15-year-old's head reaches the 0.78 mark)
 export const S14: React.FC<ShotProps> = ({ t, len }) => {
   const me: Pose = { ...basePose, x: FX + 120, y: FY - LEG_LEN * FRAME_K * K14, scale: FRAME_K * K14, yaw: 0.05, expr: 'worried', blink: idleBlink(t, 2), armL: { a: 6, b: 0 }, armR: { a: 6, b: 0 } };
   const mom: Pose = { ...basePose, x: FX + 470, y: FY - LEG_LEN * FRAME_K * MOM_K, scale: FRAME_K * MOM_K, yaw: -0.7, facing: -1, expr: 'neutral', blink: idleBlink(t, 4), armL: { a: 125, b: -40 + Math.sin(t / 6) * 8 }, armR: { a: 20, b: -30 } };
   return (
     <g transform={camT(kf(t, [[0, 960], [len, 920]]), 560, kf(t, [[0, 1], [len, 1.06]]))}>
-      <DoorFrame x={FX} y={FY} h={FH} marks={[{ h: 0.42, label: '6' }, { h: 0.55, label: '10' }, { h: 0.7, label: '13' }, { h: 0.74, label: '14' }, { h: 0.78, label: '15' }]} />
+      <DoorFrame x={FX} y={FY} h={FH} marks={[{ h: markH(6), label: '6' }, { h: markH(10), label: '10' }, { h: markH(13), label: '13' }, { h: markH(14), label: '14' }, { h: markH(15), label: '15' }]} />
       <Hero look={YOU} pose={me} />
       <Hero look={MOM} pose={mom} />
     </g>
@@ -273,15 +273,15 @@ export const S14: React.FC<ShotProps> = ({ t, len }) => {
 // ---------- S15: close on the jamb: last night's mark (15) is well above your head; mum draws the new line at 14 ----------
 export const S15: React.FC<ShotProps> = ({ t, len }) => {
   const draw = clamp((t - (rel("You're", 'from') - 8)) / 12);
-  const hiY = FY - FH * 0.78;
+  const hiY = FY - FH * markH(15);
   return (
     <g transform={camT(FX + 40, kf(t, [[0, hiY + 40], [len, hiY + 20]]), kf(t, [[0, 3.2], [len, 3.4]]))}>
-      <DoorFrame x={FX} y={FY} h={FH} marks={[{ h: 0.7, label: '13' }, { h: 0.74, label: '14' }, { h: 0.78, label: '15', color: '#C8323A' }, { h: 0.74, label: '', color: '#3A6EB0', on: draw }]} />
+      <DoorFrame x={FX} y={FY} h={FH} marks={[{ h: markH(13), label: '13' }, { h: markH(14), label: '14' }, { h: markH(15), label: '15', color: '#C8323A' }, { h: markH(14), label: '', color: '#3A6EB0', on: draw }]} />
       {/* the top of your head, just under the 14 */}
-      <g transform={`translate(${FX + 120} ${FY - FH * 0.74 + 66})`}>
+      <g transform={`translate(${FX + 120} ${FY - FH * markH(14) + 66})`}>
         <circle r={62} fill="#26232F" stroke={P0} strokeWidth={4} />
       </g>
-      <g transform={`translate(${FX + 70 + draw * 20} ${FY - FH * 0.74 - 4})`} opacity={draw > 0 ? 1 : 0}>
+      <g transform={`translate(${FX + 70 + draw * 20} ${FY - FH * markH(14) - 4})`} opacity={draw > 0 ? 1 : 0}>
         <rect x={0} y={-6} width={110} height={12} rx={4} fill="#F2C43A" stroke={P0} strokeWidth={2} transform="rotate(-20)" />
       </g>
       <text x={FX - 60} y={hiY - 14} textAnchor="end" fontFamily={FONT.ui} fontSize={12} fill="#C8323A" opacity={clamp(t / 6)}>LAST NIGHT</text>
