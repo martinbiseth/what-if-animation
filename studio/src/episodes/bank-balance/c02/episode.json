@@ -1,0 +1,46 @@
+{
+ "id": "BankBalanceC02",
+ "slug": "bank-balance/c02",
+ "chapter": "The numbers",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "what it is",
+   "text": "Here's how it works. One Monday morning, every person you look at has a number above their head. It's everything they have. Every bank account, every savings account, minus every debt they owe. It doesn't count cash under the mattress, or a house, or a car. Just money in the bank, and money owed."
+  },
+  {
+   "beat": "green and red",
+   "text": "Green if they have money. Red if they owe more than they own. And it updates live, to the cent. Somebody taps a card, and you watch the number drop."
+  },
+  {
+   "beat": "the rules",
+   "text": "The rules are simple. You only see it in real life. Not on TV, not in photos, not on video calls. Only you can see it. And no matter how hard you try, you can never see your own. Not in a mirror. Not in a shop window. Remember that. It matters later."
+  },
+  {
+   "beat": "title",
+   "text": "This is what if you could see everyone's bank balance."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD SEE",
+  "EVERYONE'S BANK BALANCE?"
+ ]
+}

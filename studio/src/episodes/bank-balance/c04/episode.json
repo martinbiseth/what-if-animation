@@ -1,0 +1,74 @@
+{
+ "id": "BankBalanceC04",
+ "slug": "bank-balance/c04",
+ "chapter": "The catch",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "mum is red",
+   "text": "Your mum's number is red. Minus six thousand, two hundred and forty dollars."
+  },
+  {
+   "beat": "she never said",
+   "text": "She's been buying you the good cereal. She paid for Ellie's school trip last week. She never said a word. And now you can't stop seeing it."
+  },
+  {
+   "beat": "the catch",
+   "text": "That's the catch. Once you can see it, you can't stop seeing it. And it isn't just her. The bus driver who always says good morning: forty-one dollars. It's the twenty-sixth of the month."
+  },
+  {
+   "beat": "fact: 400 dollars",
+   "text": "In America, almost four out of every ten adults couldn't pay a surprise four hundred dollar bill with the cash they have. That's real. And you see it everywhere. A small number, a normal face, a smile."
+  },
+  {
+   "beat": "fact: credit cards",
+   "text": "Americans owe more than one trillion dollars on credit cards. A trillion. That's why so many of the nice cars, the nice watches and the nice clothes float under a red number."
+  },
+  {
+   "beat": "fact: millionaires",
+   "text": "And the other end is just as strange. Only about one in every hundred adults on Earth has a million dollars or more. On a busy street, you have to walk past about a hundred grown-ups to find one. The man in the huge house at the end of your road? Red. Very red. The lady who sweeps the school yard? Quietly, more than the head teacher."
+  },
+  {
+   "beat": "it changes you",
+   "text": "And it changes you. You catch yourself being extra nice to a man because his number is big. You stop listening to a girl in class because hers is small. You hate it. You can't switch it off."
+  },
+  {
+   "beat": "mo",
+   "text": "Mo's number goes down every day that week. At lunch, Mo pretends he isn't hungry. You give him half your sandwich, and neither of you says anything. Seeing it doesn't fix anything. It just means you can't pretend anymore."
+  }
+ ],
+ "science": [
+  {
+   "claim": "About 4 in 10 US adults could not cover a $400 emergency expense with cash or its equivalent.",
+   "working": "In 2023, 63% of adults said they would cover a hypothetical $400 emergency expense exclusively using cash or its equivalent, so 37% would not.",
+   "source": "Federal Reserve, Economic Well-Being of U.S. Households in 2023 (May 2024)"
+  },
+  {
+   "claim": "Americans owe more than $1 trillion on credit cards.",
+   "working": "US credit card balances passed $1 trillion for the first time in Q2 2023 ($1.03 trillion) and have stayed above it since.",
+   "source": "Federal Reserve Bank of New York, Household Debt and Credit Report (Q2 2023)"
+  },
+  {
+   "claim": "About 1 in 100 adults on Earth has $1 million or more.",
+   "working": "About 59 million millionaires among roughly 5.4 billion adults is about 1.1%.",
+   "source": "UBS, Global Wealth Report 2023"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

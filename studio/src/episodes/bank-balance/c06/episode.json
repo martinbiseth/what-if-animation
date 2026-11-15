@@ -1,0 +1,50 @@
+{
+ "id": "BankBalanceC06",
+ "slug": "bank-balance/c06",
+ "chapter": "The choice",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "we need you",
+   "text": "He knows what you can do. He doesn't say how. He just says, 'We need someone like you.' 'Who are you?' you ask. 'People who follow money,' he says. 'All of it. Except we can't see it. You can.'"
+  },
+  {
+   "beat": "the window",
+   "text": "He takes you to an office high above a train station. Thousands of people walk past underneath. 'Point,' he says. 'Tell me which ones are stealing.' And you can. A woman whose number jumps by five thousand every time she walks past a cash machine. A man whose number is so long it doesn't fit above his head. You point. He writes it all down."
+  },
+  {
+   "beat": "the paper",
+   "text": "Then he slides a piece of paper across the table. 'One year. You work for us. You tell nobody, not even your mum. And this happens.' On the paper is your mum's name. And a number. One million dollars."
+  },
+  {
+   "beat": "thinking",
+   "text": "You think about the red number above her head. About Ellie's school trip. About Mo pretending he isn't hungry. About how your mum smiled and said 'don't worry about it', every single time. You ask what the work is. 'Just pointing,' he says. 'Nothing else.' It sounds easy. That's what worries you."
+  },
+  {
+   "beat": "if I say no",
+   "text": "'And if I say no?' He smiles. 'Then you go home, and nothing changes. For anyone.'"
+  },
+  {
+   "beat": "sign",
+   "text": "You look up at his number again. Still zero. You look at the paper. You look at the pen. And you sign it."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,50 @@
+{
+ "id": "BankBalanceC01",
+ "slug": "bank-balance/c01",
+ "chapter": "Cold open",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "the postman",
+   "text": "You wake up and look out of the window. The postman is walking up the path, and there's a number floating above his head. Eight hundred and forty dollars and twelve cents. Green. He turns around. The number turns with him."
+  },
+  {
+   "beat": "the bus",
+   "text": "On the bus, everyone has one. The driver: three hundred and eight dollars. A woman with a gold watch and a designer bag: minus sixty-one thousand. Red. A kid your age with big headphones: nine thousand. Birthday money he has never touched."
+  },
+  {
+   "beat": "the hoodie",
+   "text": "A guy in a hoodie, eating crisps out of the bag: four point two million."
+  },
+  {
+   "beat": "jake and mo",
+   "text": "At school, Jake, who never stops talking about his dad's boat, is at eleven dollars. Mo, your best friend, is at three dollars and twelve cents. He buys a chocolate bar. Now it's one sixty-two."
+  },
+  {
+   "beat": "premise question",
+   "text": "Every person. Every account. To the cent. Live. And nobody else can see them. Just you. So what would actually happen if you could see everyone's bank balance?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

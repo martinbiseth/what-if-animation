@@ -1,0 +1,46 @@
+{
+ "id": "BankBalanceC07",
+ "slug": "bank-balance/c07",
+ "chapter": "Minus one million",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "mum crying",
+   "text": "When you get home, your mum is sitting at the kitchen table, staring at her phone and crying. Above her head, the red is gone. Nine hundred and ninety-three thousand, seven hundred and sixty dollars. Green. 'There must be some mistake,' she says. You don't say anything. You promised. Ellie runs laps around the kitchen. Mum says they can fix the boiler, and pay for the trip, and maybe even go somewhere warm this summer."
+  },
+  {
+   "beat": "ellie",
+   "text": "That night, Ellie can't sleep, so you take her to the window to look at the street. She goes very quiet. Then she points. Not at the street. At you. At the space above your head. 'Why is yours red?'"
+  },
+  {
+   "beat": "minus a million",
+   "text": "You have never seen your own number. You never could. But Ellie is staring right at it, and she reads it out, slowly. 'Minus one million dollars.'"
+  },
+  {
+   "beat": "part two",
+   "text": "So what did you really sign? And how can Ellie see it? That's for part two."
+  },
+  {
+   "beat": "is it real",
+   "text": "Is any of this real? The numbers, no. But four in ten Americans really can't cover a four hundred dollar surprise, and scammers really took more than ten billion dollars in a single year. So, would you have signed the paper? Tell me in the comments."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,60 @@
+{
+ "id": "BankBalanceC05",
+ "slug": "bank-balance/c05",
+ "chapter": "Someone notices",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "the bank",
+   "text": "Then, on Tuesday, you go to the bank with your mum. At the counter, there's an old lady from down your road, Mrs. Hale. Her number is eighteen thousand dollars. Her whole life's savings."
+  },
+  {
+   "beat": "the nice young man",
+   "text": "Next to her is a nice young man in a nice jacket, helping her with a form. 'Just sign here, and your money will be safe.' His number is minus ninety thousand."
+  },
+  {
+   "beat": "the transfer",
+   "text": "She signs. And you watch it happen. Her number drops. Eighteen thousand. Nine thousand. Zero. And his number jumps by the exact same amount, at the exact same second."
+  },
+  {
+   "beat": "stop him",
+   "text": "You shout before you can think. 'Stop him!' Security grabs him at the door. The bank freezes the transfer. Mrs. Hale gets every cent back. She hugs you and won't let go. The manager wants your name. A local reporter takes your picture. You tell everyone you just had a bad feeling about him."
+  },
+  {
+   "beat": "fact: fraud",
+   "text": "In America alone, people reported losing more than ten billion dollars to fraud in one year. That's real. And nobody else in that bank saw it happen. But somebody saw you."
+  },
+  {
+   "beat": "the suit",
+   "text": "The next morning, there's a man in a grey suit at the school gate. 'You knew,' he says. 'Before the bank did. Before anyone. How?'"
+  },
+  {
+   "beat": "zero",
+   "text": "You look at the space above his head. And for the first time, something is wrong with a number. It just says zero. Exactly zero. A man in a suit that perfect, with nothing at all. As if he doesn't exist."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Americans reported losing more than $10 billion to fraud in one year.",
+   "working": "Consumers reported losing more than $10 billion to fraud in 2023, the first time losses reached that mark.",
+   "source": "US Federal Trade Commission, press release (Feb 2024)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "BankBalanceC03",
+ "slug": "bank-balance/c03",
+ "chapter": "The fun part",
+ "topic": "What if you could see everyone's bank balance?",
+ "script": [
+  {
+   "beat": "guess the number",
+   "text": "And at first, it's the best game in the world. In class, you play guess the number. The teacher who drives the tiny old car? Forty-one thousand dollars, saved. The kid with the expensive trainers? Red. His parents are still paying them off."
+  },
+  {
+   "beat": "the quiet girl",
+   "text": "The quiet girl at the back, who wears the same jumper every day, has two hundred and thirty thousand dollars. You have no idea why. You decide not to ask."
+  },
+  {
+   "beat": "the bike",
+   "text": "Then you find out what it's actually good for. You sell your old bike online, and a man comes to look at it. 'Best I can do is fifty,' he says, and looks sad. His number says nine thousand. You say a hundred and twenty. He pays it."
+  },
+  {
+   "beat": "mo finds out",
+   "text": "Mo figures out something is going on in about a day. 'How did you know that?' So you tell him. He doesn't believe you, so you prove it. You tell him exactly how much is on his bank card. He checks the app. Then he goes very quiet. 'Okay. Do my brother.'"
+  },
+  {
+   "beat": "the brother",
+   "text": "Mo's big brother swears he's broke and can't pay back the twenty dollars he owes you. You just point at the space above his head. He pays."
+  },
+  {
+   "beat": "payday",
+   "text": "Friday night, you can't sleep, so you look out of the window. A neighbour is walking home from a late shift. Midnight hits, and his number jumps by two thousand dollars, right there in the street. Payday. All along the road, in every dark window, numbers are going up."
+  },
+  {
+   "beat": "pizza",
+   "text": "Mo's mum takes you both out for pizza, and you watch the waiter's number go up by a few dollars every time someone leaves a tip. The table that left nothing at all? Six figures."
+  },
+  {
+   "beat": "the business",
+   "text": "By Saturday, you and Mo have a system. At the car boot sale, you never overpay. Mo wants to start a business. 'We could charge people to tell them who's lying about money.' You laugh."
+  },
+  {
+   "beat": "turn",
+   "text": "And then, on Sunday morning, you finally look properly at your mum. And you stop laughing."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

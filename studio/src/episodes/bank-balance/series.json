@@ -1,0 +1,105 @@
+{
+ "id": "BankBalance",
+ "slug": "bank-balance",
+ "topic": "What if you could see everyone's bank balance?",
+ "title": [
+  "WHAT IF YOU COULD SEE",
+  "EVERYONE'S BANK BALANCE?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 161
+  },
+  {
+   "slug": "c02",
+   "name": "The numbers",
+   "words": 147
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 335
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 287
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 246
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 234
+  },
+  {
+   "slug": "c07",
+   "name": "Minus one million",
+   "words": 204
+  }
+ ],
+ "youtube": {
+  "title": "What If You Could See Everyone's Bank Balance?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "bank balance",
+   "what if you could see everyone's bank balance",
+   "see everyone's money",
+   "superpower",
+   "money",
+   "debt",
+   "credit card debt",
+   "millionaire",
+   "scam",
+   "fraud",
+   "personal finance",
+   "animated story",
+   "what would happen if",
+   "story animation",
+   "alternate reality",
+   "cliffhanger",
+   "rich vs poor",
+   "money story"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One Monday morning, a number appears above every head you see: that person's bank balance, live, to the cent. Green if they have money, red if they owe it. Nobody else can see them. At first it's the best game in the world. Then you look at your mum.",
+  "thumbnail": {
+   "composition": "BankBalanceThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have signed the paper for your mum? 👇\n\nAnd why can Ellie see the numbers, when nobody else can? Best theory gets pinned before Part 2.\n\nThe real parts check out: about 4 in 10 US adults can't cover a surprise $400 bill with cash, Americans owe over $1 trillion on credit cards, only about 1 in 100 adults on Earth is a millionaire, and over $10 billion was reported lost to fraud in a single year. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2: what did you really sign?"
+ }
+}
