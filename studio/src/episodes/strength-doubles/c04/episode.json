@@ -1,0 +1,74 @@
+{
+ "id": "StrengthDoublesC04",
+ "slug": "strength-doubles/c04",
+ "chapter": "The catch",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "the bathroom",
+   "text": "Day nine. Twenty-five tonnes. You reach for your toothbrush, and it snaps. You turn the tap, and the tap comes off. Water everywhere."
+  },
+  {
+   "beat": "breakfast",
+   "text": "Breakfast. Your spoon folds like paper. Your phone cracks in your pocket, just because you leaned on it. Every door in the house has your fingerprints pressed into it."
+  },
+  {
+   "beat": "control",
+   "text": "Here's what nobody tells you about strength. Strength is easy. Control is hard. Your brain spent fourteen years learning a body that could lift fifty kilos. Now every tiny push is five hundred times too big. So you start living in slow motion. Fingertips only. Every movement planned."
+  },
+  {
+   "beat": "sinking",
+   "text": "Day ten. You try to lift Dad's car again, to show him. Your feet sink into the lawn, right up to your ankles. Because all that weight still has to go somewhere, down through two small trainers. The school sends a letter. Please stay at home until further notice."
+  },
+  {
+   "beat": "the crack",
+   "text": "Then on day eleven, you sneeze, grab the kitchen counter, and something in your hand goes crack. The X-ray says fracture. From your own grip."
+  },
+  {
+   "beat": "fact: bones",
+   "text": "Remember the rule. Your muscles double. Your bones don't. And doctors already know what happens when muscles pull harder than bones can take. During a strong seizure or an electric shock, a person's own muscles can dislocate a shoulder, or even break a bone. That's real. And now your muscles pull two thousand times harder than they were built to."
+  },
+  {
+   "beat": "fact: food",
+   "text": "Then there's the food. Holding something is free. Lifting it is not. To lift the Titanic just one metre, you'd burn about the food you eat in two months. And that's if your body wasted nothing."
+  },
+  {
+   "beat": "the hug",
+   "text": "So you're the strongest person on Earth, and you can't hold a glass of water. Your little sister runs at you for a hug, and you have to step back."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Muscles contracting during a seizure or an electric shock can dislocate a shoulder or break a bone.",
+   "working": "Posterior shoulder dislocations and fracture-dislocations are classically caused by seizures and electrocution: the strong internal-rotator muscles contract violently and force the humeral head out, sometimes fracturing it.",
+   "source": "StatPearls (NCBI Bookshelf), Posterior Shoulder Dislocation"
+  },
+  {
+   "claim": "On day eleven your muscles pull about two thousand times harder than at the start.",
+   "working": "2^11 = 2,048.",
+   "source": "Arithmetic"
+  },
+  {
+   "claim": "Lifting the Titanic's weight one metre takes about the food a person eats in two months.",
+   "working": "E = m g h = 52,428,800 kg x 9.81 m/s^2 x 1 m = 5.14e8 J = 122,900 kcal. At 2,000 kcal a day that is about 61 days. Muscles are only about 20-25% efficient, so the real cost would be about four times higher.",
+   "source": "Arithmetic; NHS reference intake 2,000 kcal a day"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,54 @@
+{
+ "id": "StrengthDoublesC01",
+ "slug": "strength-doubles/c01",
+ "chapter": "Cold open",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "demo 1: the jar",
+   "text": "Monday. Your mum can't open the pickle jar. She hands it to you. Pop. Easy."
+  },
+  {
+   "beat": "demo 2: the handle",
+   "text": "Tuesday. You close your bedroom door, and the handle comes off in your hand."
+  },
+  {
+   "beat": "demo 3: the bag",
+   "text": "Thursday. Mo kicks the football onto the garage roof. You throw your schoolbag up to knock it down. The bag goes straight through the roof."
+  },
+  {
+   "beat": "demo 4: the car",
+   "text": "Saturday. The ball rolls under Dad's car. So you lift the car. With one hand. Dad drops his coffee."
+  },
+  {
+   "beat": "demo 5: the high five",
+   "text": "Day ten. Mo goes for a high five, and you stop. Your hand freezes an inch from his. Because you know exactly what would happen if you touched him."
+  },
+  {
+   "beat": "the premise question",
+   "text": "Every morning at six, when your alarm goes off, your strength doubles. It never stops. It never goes back. So what would actually happen to you if your strength doubled every single day?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "id": "StrengthDoublesC05",
+ "slug": "strength-doubles/c05",
+ "chapter": "The man in the suit",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "the news",
+   "text": "By day twelve, your face is on every news channel. Scientists argue about you on TV. One says you're a hoax. Another says you're the most important person alive."
+  },
+  {
+   "beat": "the car",
+   "text": "That afternoon, there's a black car parked outside your house, engine running. A man in a grey suit rings the doorbell. Mum opens the door. He smiles at you over her shoulder. 'We've been watching your friend's videos.'"
+  },
+  {
+   "beat": "the maths",
+   "text": "He sits down at the kitchen table and does the maths out loud. 'Today, two hundred tonnes. In ten more days, a cargo ship. And on day twenty-seven, the Great Pyramid of Giza.' That one's real too. The Great Pyramid weighs about six million tonnes. Fifty kilos, doubled twenty-seven times, is six point seven million."
+  },
+  {
+   "beat": "the offer",
+   "text": "'We can help you,' he says. 'Doctors. Control training. A safe place to live.' He slides a contract across the table. The table bends under your elbow."
+  },
+  {
+   "beat": "he knows",
+   "text": "He knows things he shouldn't. Your shoe size. Your school. Which hand cracked."
+  },
+  {
+   "beat": "the price",
+   "text": "'And in return?' He smiles again. 'In return, you help us. Ships. Rubble. Things no machine can move.' He pauses. 'And a few things we'd rather not talk about in front of your mother.'"
+  },
+  {
+   "beat": "Mo",
+   "text": "That night, Mo whispers through the phone. 'Bro. They don't want to help you. They want a weapon.'"
+  },
+  {
+   "beat": "the call",
+   "text": "You told the man you needed time to think. He left a card. But before his car pulled away, you heard him on the phone. 'No. Not yet. But by day twenty, nobody will be able to stop him.'"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Fifty kilos doubled twenty-seven times is about 6.7 million tonnes, more than the Great Pyramid of Giza (about six million tonnes).",
+   "working": "50 kg x 2^27 = 6,710,886,400 kg = 6.7 million t. The Great Pyramid's mass is usually estimated at about 6 million tonnes.",
+   "source": "Arithmetic; Encyclopaedia Britannica, Pyramids of Giza"
+  },
+  {
+   "claim": "On day twelve you can lift about two hundred tonnes.",
+   "working": "50 kg x 2^12 = 204,800 kg = 205 t.",
+   "source": "Arithmetic"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

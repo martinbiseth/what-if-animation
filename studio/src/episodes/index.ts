@@ -6,4 +6,6 @@ import { iphone1926Chapters } from './iphone-1926';
 import { internetGoneChapters } from './internet-gone';
 import { electricityChapters } from './electricity';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...electricityChapters];
+import { strengthDoublesChapters } from './strength-doubles';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...electricityChapters, ...strengthDoublesChapters];

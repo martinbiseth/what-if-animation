@@ -1,0 +1,64 @@
+{
+ "id": "StrengthDoublesC06",
+ "slug": "strength-doubles/c06",
+ "chapter": "The bridge",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "the bridge",
+   "text": "Day fourteen. Eight hundred tonnes. There's ice on the roads. Your sister's school bus is crossing the old bridge when it skids, smashes through the railing, and stops with its front wheels hanging over the river. Thirty kids inside. Your sister is in the front seat."
+  },
+  {
+   "beat": "the problem",
+   "text": "You get there before the fire engines. Lifting the bus is easy. A bus is about twelve tonnes. You could lift sixty of them. The problem is your arms. They still have fourteen-year-old bones. If you grab the bus and pull, your own muscles could snap them."
+  },
+  {
+   "beat": "the suit",
+   "text": "The man in the suit is already there. Of course he is. 'Don't,' he says. 'You'll wreck your arms, and we need them. Wait for the crane. Forty minutes.'"
+  },
+  {
+   "beat": "the slip",
+   "text": "The bus creaks. It slides another ten centimetres. Your sister's face is pressed against the window."
+  },
+  {
+   "beat": "one try",
+   "text": "'Forty minutes,' the man says again. Your sister doesn't have forty minutes. You look at your arm. You look at the bus. You get one try."
+  },
+  {
+   "beat": "the choice",
+   "text": "So you do it the way you practised. No grabbing. No pulling. You get your shoulder under the back of the bus and push with everything at once. Legs. Back. Shoulders. Slowly, like carrying an egg. Your arm cracks. You keep going. Inch by inch, the bus rolls back onto the road."
+  },
+  {
+   "beat": "the hug",
+   "text": "The doors open. Thirty kids run out. Your sister comes out last, and she runs at you for a hug. And this time, you let her. Very, very gently."
+  },
+  {
+   "beat": "filming",
+   "text": "Every phone on the bridge was filming."
+  }
+ ],
+ "science": [
+  {
+   "claim": "On day fourteen you can lift about eight hundred tonnes; a bus is about twelve tonnes.",
+   "working": "50 kg x 2^14 = 819,200 kg = 819 t. A full-size single-deck city bus weighs roughly 11-13 t empty. 819 / 12.5 is about 65, so 'sixty of them' is safely under.",
+   "source": "Arithmetic; typical manufacturer kerb weights for 12 m city buses"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

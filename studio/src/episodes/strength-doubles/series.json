@@ -1,0 +1,88 @@
+{
+ "id": "StrengthDoubles",
+ "slug": "strength-doubles",
+ "topic": "What if your strength doubled every day?",
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 135
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 151
+  },
+  {
+   "slug": "c03",
+   "name": "The best week ever",
+   "words": 302
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 300
+  },
+  {
+   "slug": "c05",
+   "name": "The man in the suit",
+   "words": 253
+  },
+  {
+   "slug": "c06",
+   "name": "The bridge",
+   "words": 252
+  },
+  {
+   "slug": "c07",
+   "name": "Day fifteen",
+   "words": 173
+  }
+ ],
+ "youtube": {
+  "title": "What if your strength doubled every day?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}

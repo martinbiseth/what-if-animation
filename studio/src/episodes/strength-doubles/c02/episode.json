@@ -1,0 +1,65 @@
+{
+ "id": "StrengthDoublesC02",
+ "slug": "strength-doubles/c02",
+ "chapter": "The rules",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "day one",
+   "text": "Monday, six a.m., your alarm goes off. You slap it. The alarm clock is now in two pieces. That's day one."
+  },
+  {
+   "beat": "how doubling works",
+   "text": "Here's how it works. Say today you can lift fifty kilos. About one heavy suitcase. Tomorrow at six, a hundred. The day after, two hundred. Then four hundred. Eight hundred. Doesn't sound so crazy, right?"
+  },
+  {
+   "beat": "the trick of doubling",
+   "text": "That's the trick with doubling. It starts slow, and then it explodes. On day ten, you can lift fifty-one tonnes. More than a fully loaded truck. On day twenty, over fifty-two thousand tonnes. That's about the weight of the Titanic. That's real. Fifty kilos, doubled twenty times."
+  },
+  {
+   "beat": "the rules",
+   "text": "Now the rules. Only your strength doubles. Not your speed. Not your size. You look exactly the same as you did last week."
+  },
+  {
+   "beat": "planted rule: bones",
+   "text": "And your bones, your skin, your tendons? Completely normal. Fourteen-year-old normal. Remember that. It matters later."
+  },
+  {
+   "beat": "title",
+   "text": "This is what if your strength doubled every day."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Fifty kilos doubled ten times is about fifty-one tonnes, more than a fully loaded truck.",
+   "working": "50 kg x 2^10 = 51,200 kg. The EU limit for an articulated lorry is 40 t (44 t for intermodal transport).",
+   "source": "Arithmetic; EU Council Directive 96/53/EC (weights and dimensions of road vehicles)"
+  },
+  {
+   "claim": "Fifty kilos doubled twenty times is about the weight of the Titanic.",
+   "working": "50 kg x 2^20 = 52,428,800 kg = 52,429 t. Titanic's displacement was 52,310 long tons (about 53,150 t).",
+   "source": "Arithmetic; Encyclopedia Titanica / Titanic's specifications (displacement 52,310 tons)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

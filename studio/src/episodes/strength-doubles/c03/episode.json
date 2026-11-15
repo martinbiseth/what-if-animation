@@ -1,0 +1,62 @@
+{
+ "id": "StrengthDoublesC03",
+ "slug": "strength-doubles/c03",
+ "chapter": "The best week ever",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "PE",
+   "text": "Day three. Four hundred kilos. Gym class. The teacher sets up the bench press, and you lift the bar. Then you lift the bar with the teacher sitting on it. Nobody claps. Everyone just stares."
+  },
+  {
+   "beat": "arm wrestling",
+   "text": "Day four. Lunch. Mo bets you can't arm wrestle the whole rugby team. At the same time. Five hands on yours. You win without putting down your sandwich. Mo starts selling tickets for tomorrow."
+  },
+  {
+   "beat": "the sofa",
+   "text": "Day five. One point six tonnes. Mum asks you to move the sofa so she can vacuum. You move the sofa. And the piano. And the fridge, while she's still holding the fridge door."
+  },
+  {
+   "beat": "the van",
+   "text": "Day six. Three point two tonnes. Dad's car is boxed in by a delivery van. So you pick up the van, carry it across the road, and put it down. Neatly. Dad watches from the window, mug halfway to his mouth."
+  },
+  {
+   "beat": "the video",
+   "text": "And Mo films everything. 'Again. Slower. For the video.' By the next morning, the video has two million views. The comments say: Fake. CGI. Bro is on wires."
+  },
+  {
+   "beat": "the tree",
+   "text": "So on day seven, you prove it. A storm knocks a huge tree across the road, right in front of a bus full of people. Nobody can move it. You walk up, lift the trunk, and roll it into the ditch. The bus driver gets out and shakes your hand. Very carefully."
+  },
+  {
+   "beat": "the manager",
+   "text": "Day eight. Mo makes you a website. He's your manager now. Fifteen percent."
+  },
+  {
+   "beat": "the trampoline",
+   "text": "Your little sister wants a ride on the trampoline. So you lift the whole trampoline above your head, with her on it, and she laughs so hard she can't breathe."
+  },
+  {
+   "beat": "turn",
+   "text": "Honestly? Best week of your life. You're the strongest person who has ever lived. And you're still doubling. But that's not the weird part. The weird part is what starts happening to everything you touch."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

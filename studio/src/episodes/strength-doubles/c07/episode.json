@@ -1,0 +1,60 @@
+{
+ "id": "StrengthDoublesC07",
+ "slug": "strength-doubles/c07",
+ "chapter": "Day fifteen",
+ "topic": "What if your strength doubled every day?",
+ "script": [
+  {
+   "beat": "the X-ray",
+   "text": "Hospital. Your arm is in a cast. The doctor holds your X-ray up to the light, and she goes very quiet."
+  },
+  {
+   "beat": "the rule breaks",
+   "text": "'Your bones,' she says. 'They're thicker than yesterday. A lot thicker.' The rule just broke. Your body is starting to catch up. Then she asks the question nobody has asked yet. 'If your bones can change... what else is changing?'"
+  },
+  {
+   "beat": "outside",
+   "text": "Outside the window, the black car is back. Two of them now."
+  },
+  {
+   "beat": "the clock",
+   "text": "It's five fifty-nine. One minute until your alarm. Day fifteen."
+  },
+  {
+   "beat": "is any of this real",
+   "text": "So, is any of this real? The doubling is. Fifty kilos, doubled twenty times, really is the Titanic. Muscles really can break their own bones. And lifting all that weight really would cost a mountain of food."
+  },
+  {
+   "beat": "myostatin",
+   "text": "And super-strong kids exist. A rare change in a gene called myostatin lets muscles keep growing. Doctors have described a baby boy born with unusually huge muscles. Just not doubling every day. Yet."
+  },
+  {
+   "beat": "comments",
+   "text": "Would you go with the man in the suit, or run? Tell me in the comments. Part two is coming."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A rare mutation in the myostatin gene causes extra muscle; doctors described a boy born with unusually large muscles.",
+   "working": "Schuelke et al. reported a German boy with a loss-of-function myostatin mutation; at birth his muscle cross-section was about twice normal (ultrasound), with unusual strength as a toddler.",
+   "source": "Schuelke M. et al., 'Myostatin mutation associated with gross muscle hypertrophy in a child', New England Journal of Medicine 350:2682 (2004)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
