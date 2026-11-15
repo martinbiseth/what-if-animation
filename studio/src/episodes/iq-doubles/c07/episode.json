@@ -53,18 +53,193 @@
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "set": "bedroom morning",
+   "note": "alarm 07:00",
+   "key": 30
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "bedroom morning",
+   "note": "you sit up, normal tired",
+   "key": 45
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom morning",
+   "note": "head cool, HUD 3,200 to 100",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "wide push",
+   "set": "study",
+   "note": "stack of notebooks on the desk",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "dark",
+   "note": "first notebook, unreadable, ?",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert push",
+   "set": "dark",
+   "note": "last page: Don't let them have this.",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "street day",
+   "note": "through the window: the car is gone",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "kitchen",
+   "note": "Ellie with cereal and the cube",
+   "key": 45
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the cube in Ellie's hands",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "dark",
+   "note": "click click click",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "dark",
+   "note": "solved",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Ellie: why does everything feel so easy today",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "schematic",
+   "note": "Earth: YOU, then ELLIE",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "split",
+   "set": "split",
+   "note": "KEEP THE BRAIN or KEEP YOUR FAMILY",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "set": "dark",
+   "note": "comment prompt",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "set": "schematic",
+   "note": "fact checklist, sources in the description",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Ellie glint, PART 2",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "On"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "On"
+  },
+  {
+   "shot": "S7",
+   "at": "You#2"
+  },
+  {
+   "shot": "S8",
+   "at": "You"
+  },
+  {
+   "shot": "S9",
+   "at": "With#2"
+  },
+  {
+   "shot": "S10",
+   "at": "Click"
+  },
+  {
+   "shot": "S11",
+   "at": "Solved"
+  },
+  {
+   "shot": "S12",
+   "at": "She"
+  },
+  {
+   "shot": "S13",
+   "at": "It"
+  },
+  {
+   "shot": "S14",
+   "at": "What"
+  },
+  {
+   "shot": "S15",
+   "at": "Tell"
+  },
+  {
+   "shot": "S16",
+   "at": "Is"
+  },
+  {
+   "shot": "S17",
+   "at": "And#2"
   }
  ],
- "end": "f:90",
  "fx": []
 }
