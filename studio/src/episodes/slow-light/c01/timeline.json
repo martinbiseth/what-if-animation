@@ -1,29 +1,359 @@
 {
  "slug": "slow-light/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1131,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 68,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 68,
+   "line": "You wave at your best friend across the street."
+  },
+  {
+   "shot": "S2",
+   "a": 68,
+   "b": 120,
+   "t0": 0,
+   "t1": 52,
+   "line": "He doesn't wave back. You wave"
+  },
+  {
+   "shot": "S3",
+   "a": 120,
+   "b": 142,
+   "t0": 0,
+   "t1": 22,
+   "line": "again."
+  },
+  {
+   "shot": "S4",
+   "a": 142,
+   "b": 186,
+   "t0": 0,
+   "t1": 44,
+   "line": "Fifteen seconds later, he"
+  },
+  {
+   "shot": "S5",
+   "a": 186,
+   "b": 228,
+   "t0": 0,
+   "t1": 42,
+   "line": "finally waves. Not"
+  },
+  {
+   "shot": "S6",
+   "a": 228,
+   "b": 371,
+   "t0": 0,
+   "t1": 143,
+   "line": "because he's slow. Because the light from your hand took fifteen seconds to reach him. You"
+  },
+  {
+   "shot": "S7",
+   "a": 371,
+   "b": 403,
+   "t0": 0,
+   "t1": 32,
+   "line": "switch on a flashlight"
+  },
+  {
+   "shot": "S8",
+   "a": 403,
+   "b": 443,
+   "t0": 0,
+   "t1": 40,
+   "line": "and start running. And you"
+  },
+  {
+   "shot": "S9",
+   "a": 443,
+   "b": 470,
+   "t0": 0,
+   "t1": 27,
+   "line": "win. You"
+  },
+  {
+   "shot": "S10",
+   "a": 470,
+   "b": 529,
+   "t0": 0,
+   "t1": 59,
+   "line": "beat the beam to the end of the street. You"
+  },
+  {
+   "shot": "S11",
+   "a": 529,
+   "b": 568,
+   "t0": 0,
+   "t1": 39,
+   "line": "look up at the sky. It's"
+  },
+  {
+   "shot": "S12",
+   "a": 568,
+   "b": 591,
+   "t0": 0,
+   "t1": 23,
+   "line": "noon."
+  },
+  {
+   "shot": "S13",
+   "a": 591,
+   "b": 644,
+   "t0": 0,
+   "t1": 53,
+   "line": "There are no clouds. And"
+  },
+  {
+   "shot": "S14",
+   "a": 644,
+   "b": 740,
+   "t0": 0,
+   "t1": 96,
+   "line": "the Sun is going out. Not exploding. Not moving."
+  },
+  {
+   "shot": "S15",
+   "a": 740,
+   "b": 805,
+   "t0": 0,
+   "t1": 65,
+   "line": "Its light just can't get here anymore."
+  },
+  {
+   "shot": "S16",
+   "a": 805,
+   "b": 896,
+   "t0": 0,
+   "t1": 91,
+   "line": "What if light kept getting slower, every hour?"
+  },
+  {
+   "shot": "S17",
+   "a": 896,
+   "b": 948,
+   "t0": 0,
+   "t1": 52,
+   "line": "At first, nobody even notices."
+  },
+  {
+   "shot": "S18",
+   "a": 948,
+   "b": 1023,
+   "t0": 0,
+   "t1": 75,
+   "line": "Then it's the best day off school ever. And"
+  },
+  {
+   "shot": "S19",
+   "a": 1023,
+   "b": 1083,
+   "t0": 0,
+   "t1": 60,
+   "line": "by tomorrow night, the only thing that matters is getting"
+  },
+  {
+   "shot": "S20",
+   "a": 1083,
+   "b": 1131,
+   "t0": 0,
+   "t1": 48,
+   "line": "underground."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 68,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "You wave at your best friend across the street.",
+   "note": "wave at Mo"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 52,
+   "first": 68,
+   "line": "He doesn't wave back. You wave",
+   "note": "Mo blank"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 22,
+   "first": 120,
+   "line": "again.",
+   "note": "wave again"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 44,
+   "first": 142,
+   "line": "Fifteen seconds later, he",
+   "note": "stopwatch"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 42,
+   "first": 186,
+   "line": "finally waves. Not",
+   "note": "Mo waves"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 143,
+   "first": 228,
+   "line": "because he's slow. Because the light from your hand took fifteen seconds to reach him. You",
+   "note": "light crawls"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 32,
+   "first": 371,
+   "line": "switch on a flashlight",
+   "note": "flashlight click"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 40,
+   "first": 403,
+   "line": "and start running. And you",
+   "note": "race"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 27,
+   "first": 443,
+   "line": "win. You",
+   "note": "finish"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 59,
+   "first": 470,
+   "line": "beat the beam to the end of the street. You",
+   "note": "grin"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 39,
+   "first": 529,
+   "line": "look up at the sky. It's",
+   "note": "sky up"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 23,
+   "first": 568,
+   "line": "noon.",
+   "note": "12:00"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 53,
+   "first": 591,
+   "line": "There are no clouds. And",
+   "note": "street dim"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 96,
+   "first": 644,
+   "line": "the Sun is going out. Not exploding. Not moving.",
+   "note": "face"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 65,
+   "first": 740,
+   "line": "Its light just can't get here anymore.",
+   "note": "diagram"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 91,
+   "first": 805,
+   "line": "What if light kept getting slower, every hour?",
+   "note": "title"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 52,
+   "first": 896,
+   "line": "At first, nobody even notices.",
+   "note": "normal morning"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 75,
+   "first": 948,
+   "line": "Then it's the best day off school ever. And",
+   "note": "no school"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 60,
+   "first": 1023,
+   "line": "by tomorrow night, the only thing that matters is getting",
+   "note": "tunnel"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 48,
+   "first": 1083,
+   "line": "underground.",
+   "note": "you in tunnel"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c01/voice.wav",
+  "sfx": "slow-light/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3335,
+  "music": "slow-light/c01/music.wav",
+  "musicVol": 0.0929
+ }
 }

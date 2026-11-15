@@ -1,5 +1,6 @@
 # What If Light Kept Getting Slower Every Hour? — manus
 
+
 ## c01: Cold open
 
 You wave at your best friend across the street. He doesn't wave back. You wave again. Fifteen seconds later, he finally waves. Not because he's slow. Because the light from your hand took fifteen seconds to reach him.
@@ -12,15 +13,22 @@ What if light kept getting slower, every hour?
 
 At first, nobody even notices. Then it's the best day off school ever. And by tomorrow night, the only thing that matters is getting underground.
 
+
 ## c02: The rules
 
 Here's how it works. Light is the fastest thing in the universe. Three hundred thousand kilometers every second. Seven and a half times around the Earth in one blink. That's real.
 
-Then, on a Monday morning at seven o'clock, it halves. And every hour after that, on the hour, it halves again.
+Then, on a Monday morning at seven o'clock, it halves. And every hour after that, on the hour, it halves again. Hour one, half as fast. Hour two, a quarter. Hour ten, a thousand times slower. By tomorrow, you could beat it in a race.
 
 The rules. Only light slows down, and everything that travels like light. Radio. Wi-Fi. Phone signals. GPS. Your body, electricity and everything made of atoms still work fine. Otherwise this would be a very short video.
 
 And one more rule, the oldest one in physics. Everything you see has already happened. Light only ever shows you the past. Today, it's a billionth of a second ago. You'd never notice. Remember that rule. Because it's about to get very, very noticeable.
+
+
+*Kilder:*
+
+- Light travels about 300,000 km every second, about 7.5 times around the Earth. — NIST, 'Speed of light in vacuum' (CODATA); NASA Earth Fact Sheet
+
 
 ## c03: The fun part
 
@@ -34,6 +42,8 @@ Then it starts to get dark. At eleven o'clock. In the morning. There isn't a sin
 
 The streetlights come on at lunchtime. Nobody knows what's happening, so the principal sends everyone home. Best. Day. Ever.
 
+Mo tries to post a video of the dark sky. The upload bar crawls. One percent. Two percent. 'This internet is slower than my grandma,' he says. He has no idea how right he's about to be. Down the street, somebody's dog sits in the road and howls at the Sun.
+
 The whole street comes outside. Somebody fires up a barbecue. Your little sister Ellie calls it a darkness party. People take pictures of the sky, even though nobody can say what they're taking pictures of.
 
 At five o'clock, you call Grandma on the other side of the world. You say hi. And then you wait. Almost a minute later, she says hi back. Talking to her is like sending letters.
@@ -41,6 +51,7 @@ At five o'clock, you call Grandma on the other side of the world. You say hi. An
 By evening, the Sun is gone. And when Mo looks up at the sky, he asks the question nobody wants to answer. 'Wait. Where's the Moon?'
 
 The Moon was only ever a mirror for the Sun. And the Sun's light isn't coming back.
+
 
 ## c04: The catch
 
@@ -50,7 +61,9 @@ And sunlight isn't only light. It's heat. Almost all the warmth on Earth's surfa
 
 No sunlight also means no plants growing. No crops. No food. Not this year, not ever.
 
-Then the signals go. GPS satellites fly about twenty thousand kilometers up. That's real. Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes every hour. Every map on Earth points to the wrong place. Ships, planes and delivery trucks stop where they are.
+Then the signals go. GPS satellites fly about twenty thousand kilometers up. That's real. Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes every hour. Every map on Earth points to the wrong place. Ships, planes and delivery trucks stop where they are. A taxi driver follows his map straight into a lake. He's fine. His taxi isn't.
+
+At home, your mom tapes blankets over the windows to keep the heat in. The whole family drags their mattresses into the living room, around the one electric heater. Ellie asks when the Sun is coming back. Nobody answers her.
 
 At midnight, a phone call to the other side of the world takes almost two hours to arrive. The internet is still there. It just takes all night to load a page.
 
@@ -59,6 +72,18 @@ And at three in the morning, light becomes slower than sound. That's three hundr
 Outside, it's already colder than any morning this time of year.
 
 And every hour, it gets worse.
+
+
+*Kilder:*
+
+- Sunlight takes about 8 minutes 20 seconds to reach Earth. — NASA Space Place, 'How long does it take sunlight to reach Earth?'
+
+- Without sunlight Earth's surface would drop below freezing within about a week and to about -73 C (200 K) within a year. — Caltech, 'Question of the Month: If the Sun ceased to exist right now...' (Dave Stevenson, 1 July 1999)
+
+- GPS satellites orbit about 20,200 km up, and GPS works by timing radio signals that travel at the speed of light. — GPS.gov, 'Space Segment'; GPS.gov, 'How GPS works'
+
+- Sound travels about 343 m/s in air. — NASA Glenn Research Center, 'Speed of Sound'
+
 
 ## c05: Someone notices
 
@@ -72,6 +97,8 @@ Then a man in a suit walks down the middle of your street with a megaphone. Shou
 
 Why underground? A few meters under the surface, the ground stays about the same temperature all year round. Summer or winter, sun or no sun. That's real. Down there, people can survive the cold.
 
+Across the city, the same speech is being shouted on every street corner, by soldiers, teachers, and bus drivers. Ellie tugs at the man's sleeve. 'Can my cat come?' He looks down at her for a long moment. 'Yes,' he says. 'The cat can come.'
+
 Mo's dad asks the question everybody is thinking. 'Is there room for everyone?'
 
 The man in the suit doesn't answer. He just lowers his megaphone. 'Be at the station by noon. The buses won't wait.'
@@ -79,6 +106,14 @@ The man in the suit doesn't answer. He just lowers his megaphone. 'Be at the sta
 Then you remember. Your mom works the night shift at the hospital, across town. She never came home this morning. Her phone doesn't answer, because every message now crawls.
 
 It's three kilometers to the hospital, and the buses leave at noon.
+
+
+*Kilder:*
+
+- Usain Bolt ran 100 meters in 9.58 seconds. — World Athletics, 100 metres world records
+
+- A few meters underground, the ground stays at a fairly constant temperature all year. — US Department of Energy, Energy Saver: 'Geothermal Heat Pumps'
+
 
 ## c06: The choice
 
@@ -90,23 +125,28 @@ You decide. You put Ellie on the back of your bike, and you ride the other way.
 
 Hour twenty-six. Light is slower than your bike. Your bike light can't keep up with you. You are riding faster than your own beam, into the dark.
 
+Halfway there, a car comes around the corner, way too fast. The driver can't see you in time, because the light from your bike reaches him too late. He swerves at the very last second. Ellie squeezes you so hard you can barely breathe. You keep riding.
+
 At the hospital, everything you see is old. You spot your mom at the end of a long hallway and run toward her. But when you get there, she's gone. You were looking at where she was a minute ago.
 
 So you do the only thing that still works fast. You shout. 'Mom!'
 
 And from right behind you, she shouts back.
 
-She hugs you both so hard it hurts. Then she looks at her watch. Eleven forty.
+She hugs you both so hard it hurts. Then she looks at her watch. Eleven forty. She grabs a bike from the rack outside.
 
 You ride like you've never ridden. At the station, you see the last bus still waiting at the stop. But that's old light. It already left.
 
-Ellie screams. The sound reaches the bus before any light could. Its brakes squeal. The door opens. Mo is inside, waving like crazy.
+Ellie screams. The sound reaches the bus before any light could. Its brakes squeal. The door opens. Mo is inside, waving like crazy. Mo's dad pulls you up the steps, and the cat goes in last.
 
 The bus rolls down a ramp, into a tunnel, under the ground. Behind you, the city goes dark.
 
-## c07: Cliffhanger
+
+## c07: The mirror
 
 Hour thirty-four. Deep underground. Light now crawls slower than an ant. The lamps are on, but when you lift your hand, you see it move two seconds later.
+
+Ellie is asleep on a camp bed next to Mom. Mo is snoring. Somewhere above you, the city is freezing in the dark. Down here, it's warm. For now.
 
 You find a bathroom with a mirror. You stand perfectly still. And you wait for your reflection to catch up.
 

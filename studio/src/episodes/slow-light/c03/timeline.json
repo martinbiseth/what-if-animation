@@ -1,29 +1,529 @@
 {
  "slug": "slow-light/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3053,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 140,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 140,
+   "line": "Hour one. Eight o'clock. Light is half as fast. Nobody notices."
+  },
+  {
+   "shot": "S2",
+   "a": 140,
+   "b": 210,
+   "t0": 0,
+   "t1": 70,
+   "line": "Your teacher's laser pointer still works. The"
+  },
+  {
+   "shot": "S3",
+   "a": 210,
+   "b": 250,
+   "t0": 0,
+   "t1": 40,
+   "line": "bus is still late."
+  },
+  {
+   "shot": "S4",
+   "a": 250,
+   "b": 367,
+   "t0": 0,
+   "t1": 117,
+   "line": "Only one group of people on Earth knows something is wrong. In a lab,"
+  },
+  {
+   "shot": "S5",
+   "a": 367,
+   "b": 473,
+   "t0": 0,
+   "t1": 106,
+   "line": "a scientist checks her machine three times, then calls her boss."
+  },
+  {
+   "shot": "S6",
+   "a": 473,
+   "b": 589,
+   "t0": 0,
+   "t1": 116,
+   "line": "'Either my equipment is broken, ' she says, 'or the universe is. '"
+  },
+  {
+   "shot": "S7",
+   "a": 589,
+   "b": 654,
+   "t0": 0,
+   "t1": 65,
+   "line": "Hour three. Ten o'clock."
+  },
+  {
+   "shot": "S8",
+   "a": 654,
+   "b": 751,
+   "t0": 0,
+   "t1": 97,
+   "line": "Every online game on Earth starts lagging at the same moment."
+  },
+  {
+   "shot": "S9",
+   "a": 751,
+   "b": 869,
+   "t0": 0,
+   "t1": 118,
+   "line": "Internet signals ride on light, in glass cables under the ocean."
+  },
+  {
+   "shot": "S10",
+   "a": 869,
+   "b": 982,
+   "t0": 0,
+   "t1": 113,
+   "line": "Your best friend Mo gets taken out in his game and throws his phone onto the bed."
+  },
+  {
+   "shot": "S11",
+   "a": 982,
+   "b": 1050,
+   "t0": 0,
+   "t1": 68,
+   "line": "'Lag! In the final round! '"
+  },
+  {
+   "shot": "S12",
+   "a": 1050,
+   "b": 1105,
+   "t0": 0,
+   "t1": 55,
+   "line": "Then it starts to get dark. At"
+  },
+  {
+   "shot": "S13",
+   "a": 1105,
+   "b": 1229,
+   "t0": 0,
+   "t1": 124,
+   "line": "eleven o'clock. In the morning. There isn't a single cloud. The"
+  },
+  {
+   "shot": "S14",
+   "a": 1229,
+   "b": 1367,
+   "t0": 0,
+   "t1": 138,
+   "line": "Sun is still up there, it's just fading, like someone is turning down a dimmer switch."
+  },
+  {
+   "shot": "S15",
+   "a": 1367,
+   "b": 1419,
+   "t0": 0,
+   "t1": 52,
+   "line": "The streetlights come on at lunchtime."
+  },
+  {
+   "shot": "S16",
+   "a": 1419,
+   "b": 1512,
+   "t0": 0,
+   "t1": 93,
+   "line": "Nobody knows what's happening, so the principal sends everyone home."
+  },
+  {
+   "shot": "S17",
+   "a": 1512,
+   "b": 1581,
+   "t0": 0,
+   "t1": 69,
+   "line": "Best. Day. Ever."
+  },
+  {
+   "shot": "S18",
+   "a": 1581,
+   "b": 1769,
+   "t0": 0,
+   "t1": 188,
+   "line": "Mo tries to post a video of the dark sky. The upload bar crawls. One percent. Two percent."
+  },
+  {
+   "shot": "S19",
+   "a": 1769,
+   "b": 1936,
+   "t0": 0,
+   "t1": 167,
+   "line": "'This internet is slower than my grandma, ' he says. He has no idea how right he's about to be."
+  },
+  {
+   "shot": "S20",
+   "a": 1936,
+   "b": 2056,
+   "t0": 0,
+   "t1": 120,
+   "line": "Down the street, somebody's dog sits in the road and howls at the Sun. The"
+  },
+  {
+   "shot": "S21",
+   "a": 2056,
+   "b": 2189,
+   "t0": 0,
+   "t1": 133,
+   "line": "whole street comes outside. Somebody fires up a barbecue. Your little sister"
+  },
+  {
+   "shot": "S22",
+   "a": 2189,
+   "b": 2250,
+   "t0": 0,
+   "t1": 61,
+   "line": "Ellie calls it a darkness party."
+  },
+  {
+   "shot": "S23",
+   "a": 2250,
+   "b": 2385,
+   "t0": 0,
+   "t1": 135,
+   "line": "People take pictures of the sky, even though nobody can say what they're taking pictures of. At"
+  },
+  {
+   "shot": "S24",
+   "a": 2385,
+   "b": 2542,
+   "t0": 0,
+   "t1": 157,
+   "line": "five o'clock, you call Grandma on the other side of the world. You say hi. And then you wait."
+  },
+  {
+   "shot": "S25",
+   "a": 2542,
+   "b": 2613,
+   "t0": 0,
+   "t1": 71,
+   "line": "Almost a minute later, she says hi back."
+  },
+  {
+   "shot": "S26",
+   "a": 2613,
+   "b": 2675,
+   "t0": 0,
+   "t1": 62,
+   "line": "Talking to her is like sending letters."
+  },
+  {
+   "shot": "S27",
+   "a": 2675,
+   "b": 2739,
+   "t0": 0,
+   "t1": 64,
+   "line": "By evening, the Sun is gone. And"
+  },
+  {
+   "shot": "S28",
+   "a": 2739,
+   "b": 2911,
+   "t0": 0,
+   "t1": 172,
+   "line": "when Mo looks up at the sky, he asks the question nobody wants to answer. 'Wait. Where's the Moon? ' The Moon"
+  },
+  {
+   "shot": "S29",
+   "a": 2911,
+   "b": 2984,
+   "t0": 0,
+   "t1": 73,
+   "line": "was only ever a mirror for the Sun. And"
+  },
+  {
+   "shot": "S30",
+   "a": 2984,
+   "b": 3053,
+   "t0": 0,
+   "t1": 69,
+   "line": "the Sun's light isn't coming back."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 140,
    "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "line": "Hour one. Eight o'clock. Light is half as fast. Nobody notices.",
+   "note": "hour1"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 70,
+   "first": 140,
+   "line": "Your teacher's laser pointer still works. The",
+   "note": "class laser"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 40,
+   "first": 210,
+   "line": "bus is still late.",
+   "note": "bus late"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 117,
+   "first": 250,
+   "line": "Only one group of people on Earth knows something is wrong. In a lab,",
+   "note": "lab"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 106,
+   "first": 367,
+   "line": "a scientist checks her machine three times, then calls her boss.",
+   "note": "sci checks"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 116,
+   "first": 473,
+   "line": "'Either my equipment is broken, ' she says, 'or the universe is. '",
+   "note": "sci phone"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 65,
+   "first": 589,
+   "line": "Hour three. Ten o'clock.",
+   "note": "hour3"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 97,
+   "first": 654,
+   "line": "Every online game on Earth starts lagging at the same moment.",
+   "note": "lag"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 118,
+   "first": 751,
+   "line": "Internet signals ride on light, in glass cables under the ocean.",
+   "note": "cable"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 113,
+   "first": 869,
+   "line": "Your best friend Mo gets taken out in his game and throws his phone onto the bed.",
+   "note": "mo throws"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 68,
+   "first": 982,
+   "line": "'Lag! In the final round! '",
+   "note": "mo yell"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 55,
+   "first": 1050,
+   "line": "Then it starts to get dark. At",
+   "note": "sky fade"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 124,
+   "first": 1105,
+   "line": "eleven o'clock. In the morning. There isn't a single cloud. The",
+   "note": "street 11"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 138,
+   "first": 1229,
+   "line": "Sun is still up there, it's just fading, like someone is turning down a dimmer switch.",
+   "note": "face up"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 52,
+   "first": 1367,
+   "line": "The streetlights come on at lunchtime.",
+   "note": "lamps"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 93,
+   "first": 1419,
+   "line": "Nobody knows what's happening, so the principal sends everyone home.",
+   "note": "class home"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 69,
+   "first": 1512,
+   "line": "Best. Day. Ever.",
+   "note": "best day"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 188,
+   "first": 1581,
+   "line": "Mo tries to post a video of the dark sky. The upload bar crawls. One percent. Two percent.",
+   "note": "upload"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 167,
+   "first": 1769,
+   "line": "'This internet is slower than my grandma, ' he says. He has no idea how right he's about to be.",
+   "note": "mo grumble"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 120,
+   "first": 1936,
+   "line": "Down the street, somebody's dog sits in the road and howls at the Sun. The",
+   "note": "dog"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "key": 20,
+   "len": 133,
+   "first": 2056,
+   "line": "whole street comes outside. Somebody fires up a barbecue. Your little sister",
+   "note": "party"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "key": 20,
+   "len": 61,
+   "first": 2189,
+   "line": "Ellie calls it a darkness party.",
+   "note": "ellie"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "key": 20,
+   "len": 135,
+   "first": 2250,
+   "line": "People take pictures of the sky, even though nobody can say what they're taking pictures of. At",
+   "note": "photos"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "key": 20,
+   "len": 157,
+   "first": 2385,
+   "line": "five o'clock, you call Grandma on the other side of the world. You say hi. And then you wait.",
+   "note": "call"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "key": 20,
+   "len": 71,
+   "first": 2542,
+   "line": "Almost a minute later, she says hi back.",
+   "note": "stopwatch"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "key": 20,
+   "len": 62,
+   "first": 2613,
+   "line": "Talking to her is like sending letters.",
+   "note": "you phone"
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "key": 20,
+   "len": 64,
+   "first": 2675,
+   "line": "By evening, the Sun is gone. And",
+   "note": "evening"
+  },
+  {
+   "id": "S28",
+   "size": "shot",
+   "key": 20,
+   "len": 172,
+   "first": 2739,
+   "line": "when Mo looks up at the sky, he asks the question nobody wants to answer. 'Wait. Where's the Moon? ' The Moon",
+   "note": "where moon"
+  },
+  {
+   "id": "S29",
+   "size": "shot",
+   "key": 20,
+   "len": 73,
+   "first": 2911,
+   "line": "was only ever a mirror for the Sun. And",
+   "note": "moon diagram"
+  },
+  {
+   "id": "S30",
+   "size": "shot",
+   "key": 20,
+   "len": 69,
+   "first": 2984,
+   "line": "the Sun's light isn't coming back.",
+   "note": "black sky"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c03/voice.wav",
+  "sfx": "slow-light/c03/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.208,
+  "music": "slow-light/c03/music.wav",
+  "musicVol": 0.0887
+ }
 }

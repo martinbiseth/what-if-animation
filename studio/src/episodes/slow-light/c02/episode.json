@@ -10,7 +10,7 @@
   },
   {
    "beat": "c02 p2",
-   "text": "Then, on a Monday morning at seven o'clock, it halves. And every hour after that, on the hour, it halves again."
+   "text": "Then, on a Monday morning at seven o'clock, it halves. And every hour after that, on the hour, it halves again. Hour one, half as fast. Hour two, a quarter. Hour ten, a thousand times slower. By tomorrow, you could beat it in a race."
   },
   {
    "beat": "c02 p3",
@@ -31,22 +31,290 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "orbit"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "fact"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "monday"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "half"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "bars"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "smug"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "slows"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "works"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "wink"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "oldest rule"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "kitchen dots"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "billionth"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "serious"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "street"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Light"
+  },
+  {
+   "shot": "S3",
+   "at": "Three"
+  },
+  {
+   "shot": "S4",
+   "at": "Then"
+  },
+  {
+   "shot": "S5",
+   "at": "halves"
+  },
+  {
+   "shot": "S6",
+   "at": "Hour"
+  },
+  {
+   "shot": "S7",
+   "at": "By"
+  },
+  {
+   "shot": "S8",
+   "at": "Only"
+  },
+  {
+   "shot": "S9",
+   "at": "Your"
+  },
+  {
+   "shot": "S10",
+   "at": "Otherwise"
+  },
+  {
+   "shot": "S11",
+   "at": "more"
+  },
+  {
+   "shot": "S12",
+   "at": "Everything"
+  },
+  {
+   "shot": "S13",
+   "at": "Today"
+  },
+  {
+   "shot": "S14",
+   "at": "Remember"
+  },
+  {
+   "shot": "S15",
+   "at": "Because"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF LIGHT",
   "KEPT GETTING SLOWER?"
- ]
+ ],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S2+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S3+8",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S3+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S4+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S5+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S6+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S10+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S11+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S13+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S15+0",
+    "drone_hit",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

@@ -9,6 +9,10 @@
    "text": "Hour thirty-four. Deep underground. Light now crawls slower than an ant. The lamps are on, but when you lift your hand, you see it move two seconds later."
   },
   {
+   "beat": "c07 add",
+   "text": "Ellie is asleep on a camp bed next to Mom. Mo is snoring. Somewhere above you, the city is freezing in the dark. Down here, it's warm. For now."
+  },
+  {
    "beat": "c07 p2",
    "text": "You find a bathroom with a mirror. You stand perfectly still. And you wait for your reflection to catch up."
   },
@@ -37,18 +41,337 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "tunnel"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ant"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hand"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "asleep"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "snore"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "city frozen"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "warm"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "bathroom"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "still"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "smile"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "you didnt"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "points"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "rule"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mirror push"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "comment"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "facts"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mirror glint"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "part 2"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Light"
+  },
+  {
+   "shot": "S3",
+   "at": "lamps"
+  },
+  {
+   "shot": "S4",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S5",
+   "at": "Mo"
+  },
+  {
+   "shot": "S6",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S7",
+   "at": "Down"
+  },
+  {
+   "shot": "S8",
+   "at": "find"
+  },
+  {
+   "shot": "S9",
+   "at": "stand"
+  },
+  {
+   "shot": "S10",
+   "at": "smiles"
+  },
+  {
+   "shot": "S11",
+   "at": "didn't"
+  },
+  {
+   "shot": "S12",
+   "at": "Then"
+  },
+  {
+   "shot": "S13",
+   "at": "Light"
+  },
+  {
+   "shot": "S14",
+   "at": "So"
+  },
+  {
+   "shot": "S15",
+   "at": "What"
+  },
+  {
+   "shot": "S16",
+   "at": "science"
+  },
+  {
+   "shot": "S17",
+   "at": "what's"
+  },
+  {
+   "shot": "S18",
+   "at": "part"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "room_tone",
+    0.4
+   ],
+   [
+    "S5+0",
+    "room_tone",
+    0.3
+   ],
+   [
+    "S6+0",
+    "wind",
+    0.4
+   ],
+   [
+    "S8+0",
+    "drone",
+    0.4
+   ],
+   [
+    "S9+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S10+14",
+    "drone_hit",
+    0.7
+   ],
+   [
+    "S11+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S12+0",
+    "heartbeat",
+    0.6
+   ],
+   [
+    "S13+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S14+0",
+    "glitch",
+    0.3
+   ],
+   [
+    "S15+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S16+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S17+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S18+0",
+    "title_boom",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S15"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

@@ -1,29 +1,274 @@
 {
  "slug": "slow-light/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF LIGHT KEPT GETTING SLOWER?",
  "fps": 30,
- "total": 90,
+ "total": 1714,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 37,
+   "t0": 0,
+   "t1": 37,
+   "line": "Here's how it works."
+  },
+  {
+   "shot": "S2",
+   "a": 37,
+   "b": 110,
+   "t0": 0,
+   "t1": 73,
+   "line": "Light is the fastest thing in the universe."
+  },
+  {
+   "shot": "S3",
+   "a": 110,
+   "b": 306,
+   "t0": 0,
+   "t1": 196,
+   "line": "Three hundred thousand kilometers every second. Seven and a half times around the Earth in one blink. That's real."
+  },
+  {
+   "shot": "S4",
+   "a": 306,
+   "b": 386,
+   "t0": 0,
+   "t1": 80,
+   "line": "Then, on a Monday morning at seven o'clock, it"
+  },
+  {
+   "shot": "S5",
+   "a": 386,
+   "b": 420,
+   "t0": 0,
+   "t1": 34,
+   "line": "halves. And every"
+  },
+  {
+   "shot": "S6",
+   "a": 420,
+   "b": 698,
+   "t0": 0,
+   "t1": 278,
+   "line": "hour after that, on the hour, it halves again. Hour one, half as fast. Hour two, a quarter. Hour ten, a thousand times slower."
+  },
+  {
+   "shot": "S7",
+   "a": 698,
+   "b": 801,
+   "t0": 0,
+   "t1": 103,
+   "line": "By tomorrow, you could beat it in a race. The rules."
+  },
+  {
+   "shot": "S8",
+   "a": 801,
+   "b": 1020,
+   "t0": 0,
+   "t1": 219,
+   "line": "Only light slows down, and everything that travels like light. Radio. Wi- Fi. Phone signals. GPS."
+  },
+  {
+   "shot": "S9",
+   "a": 1020,
+   "b": 1152,
+   "t0": 0,
+   "t1": 132,
+   "line": "Your body, electricity and everything made of atoms still work fine."
+  },
+  {
+   "shot": "S10",
+   "a": 1152,
+   "b": 1242,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Otherwise this would be a very short video. And one"
+  },
+  {
+   "shot": "S11",
+   "a": 1242,
+   "b": 1319,
+   "t0": 0,
+   "t1": 77,
+   "line": "more rule, the oldest one in physics."
+  },
+  {
+   "shot": "S12",
+   "a": 1319,
+   "b": 1449,
+   "t0": 0,
+   "t1": 130,
+   "line": "Everything you see has already happened. Light only ever shows you the past."
+  },
+  {
+   "shot": "S13",
+   "a": 1449,
+   "b": 1566,
+   "t0": 0,
+   "t1": 117,
+   "line": "Today, it's a billionth of a second ago. You'd never notice."
+  },
+  {
+   "shot": "S14",
+   "a": 1566,
+   "b": 1608,
+   "t0": 0,
+   "t1": 42,
+   "line": "Remember that rule."
+  },
+  {
+   "shot": "S15",
+   "a": 1608,
+   "b": 1714,
+   "t0": 0,
+   "t1": 106,
+   "line": "Because it's about to get very, very noticeable."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 37,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's how it works.",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 73,
+   "first": 37,
+   "line": "Light is the fastest thing in the universe.",
+   "note": "orbit"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 196,
+   "first": 110,
+   "line": "Three hundred thousand kilometers every second. Seven and a half times around the Earth in one blink. That's real.",
+   "note": "fact"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 80,
+   "first": 306,
+   "line": "Then, on a Monday morning at seven o'clock, it",
+   "note": "monday"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 34,
+   "first": 386,
+   "line": "halves. And every",
+   "note": "half"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 278,
+   "first": 420,
+   "line": "hour after that, on the hour, it halves again. Hour one, half as fast. Hour two, a quarter. Hour ten, a thousand times slower.",
+   "note": "bars"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 103,
+   "first": 698,
+   "line": "By tomorrow, you could beat it in a race. The rules.",
+   "note": "smug"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 219,
+   "first": 801,
+   "line": "Only light slows down, and everything that travels like light. Radio. Wi- Fi. Phone signals. GPS.",
+   "note": "slows"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 132,
+   "first": 1020,
+   "line": "Your body, electricity and everything made of atoms still work fine.",
+   "note": "works"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 90,
+   "first": 1152,
+   "line": "Otherwise this would be a very short video. And one",
+   "note": "wink"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 77,
+   "first": 1242,
+   "line": "more rule, the oldest one in physics.",
+   "note": "oldest rule"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 130,
+   "first": 1319,
+   "line": "Everything you see has already happened. Light only ever shows you the past.",
+   "note": "kitchen dots"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 117,
+   "first": 1449,
+   "line": "Today, it's a billionth of a second ago. You'd never notice.",
+   "note": "billionth"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 42,
+   "first": 1566,
+   "line": "Remember that rule.",
+   "note": "serious"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 106,
+   "first": 1608,
+   "line": "Because it's about to get very, very noticeable.",
+   "note": "street"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c02/voice.wav",
+  "sfx": "slow-light/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3492,
+  "music": "slow-light/c02/music.wav",
+  "musicVol": 0.173
+ }
 }

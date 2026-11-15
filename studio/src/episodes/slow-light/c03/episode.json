@@ -25,6 +25,10 @@
    "text": "The streetlights come on at lunchtime. Nobody knows what's happening, so the principal sends everyone home. Best. Day. Ever."
   },
   {
+   "beat": "c03 add",
+   "text": "Mo tries to post a video of the dark sky. The upload bar crawls. One percent. Two percent. 'This internet is slower than my grandma,' he says. He has no idea how right he's about to be. Down the street, somebody's dog sits in the road and howls at the Sun."
+  },
+  {
    "beat": "c03 p6",
    "text": "The whole street comes outside. Somebody fires up a barbecue. Your little sister Ellie calls it a darkness party. People take pictures of the sky, even though nobody can say what they're taking pictures of."
   },
@@ -45,18 +49,528 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hour1"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "class laser"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "bus late"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "lab"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sci checks"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sci phone"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hour3"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "lag"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "cable"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mo throws"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mo yell"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sky fade"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "street 11"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "face up"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "lamps"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "class home"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "best day"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "upload"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mo grumble"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "dog"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "party"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ellie"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "photos"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "call"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "stopwatch"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "you phone"
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "evening"
+  },
+  {
+   "id": "S28",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "where moon"
+  },
+  {
+   "id": "S29",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "moon diagram"
+  },
+  {
+   "id": "S30",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "black sky"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Your"
+  },
+  {
+   "shot": "S3",
+   "at": "bus"
+  },
+  {
+   "shot": "S4",
+   "at": "Only"
+  },
+  {
+   "shot": "S5",
+   "at": "scientist"
+  },
+  {
+   "shot": "S6",
+   "at": "'Either"
+  },
+  {
+   "shot": "S7",
+   "at": "Hour"
+  },
+  {
+   "shot": "S8",
+   "at": "Every"
+  },
+  {
+   "shot": "S9",
+   "at": "Internet"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S11",
+   "at": "'Lag"
+  },
+  {
+   "shot": "S12",
+   "at": "Then"
+  },
+  {
+   "shot": "S13",
+   "at": "eleven"
+  },
+  {
+   "shot": "S14",
+   "at": "Sun"
+  },
+  {
+   "shot": "S15",
+   "at": "streetlights"
+  },
+  {
+   "shot": "S16",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S17",
+   "at": "Best"
+  },
+  {
+   "shot": "S18",
+   "at": "Mo"
+  },
+  {
+   "shot": "S19",
+   "at": "'This"
+  },
+  {
+   "shot": "S20",
+   "at": "Down"
+  },
+  {
+   "shot": "S21",
+   "at": "whole"
+  },
+  {
+   "shot": "S22",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S23",
+   "at": "People"
+  },
+  {
+   "shot": "S24",
+   "at": "five"
+  },
+  {
+   "shot": "S25",
+   "at": "Almost"
+  },
+  {
+   "shot": "S26",
+   "at": "Talking"
+  },
+  {
+   "shot": "S27",
+   "at": "By"
+  },
+  {
+   "shot": "S28",
+   "at": "when"
+  },
+  {
+   "shot": "S29",
+   "at": "was"
+  },
+  {
+   "shot": "S30",
+   "at": "Sun's"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S2+0",
+    "class_murmur",
+    0.4
+   ],
+   [
+    "S4+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S6+0",
+    "buzz",
+    0.4
+   ],
+   [
+    "S7+0",
+    "glitch",
+    0.6
+   ],
+   [
+    "S8+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S10+30",
+    "thud",
+    0.5
+   ],
+   [
+    "S11+0",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S12+0",
+    "power_down",
+    0.3
+   ],
+   [
+    "S16+0",
+    "laugh",
+    0.5
+   ],
+   [
+    "S17+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S17+22",
+    "pop",
+    0.5
+   ],
+   [
+    "S17+44",
+    "ding",
+    0.5
+   ],
+   [
+    "S18+0",
+    "notify",
+    0.4
+   ],
+   [
+    "S20+0",
+    "wind",
+    0.3
+   ],
+   [
+    "S23+0",
+    "shutter",
+    0.5
+   ],
+   [
+    "S23+24",
+    "shutter",
+    0.5
+   ],
+   [
+    "S24+0",
+    "buzz",
+    0.4
+   ],
+   [
+    "S25+0",
+    "tick",
+    0.5
+   ],
+   [
+    "S27+0",
+    "drone",
+    0.4
+   ],
+   [
+    "S29+0",
+    "drone_hit",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S27"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

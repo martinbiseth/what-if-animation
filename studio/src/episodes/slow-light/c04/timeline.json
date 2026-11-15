@@ -1,29 +1,461 @@
 {
  "slug": "slow-light/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3029,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 36,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 36,
+   "line": "Here's what happened."
+  },
+  {
+   "shot": "S2",
+   "a": 36,
+   "b": 170,
+   "t0": 0,
+   "t1": 134,
+   "line": "Sunlight takes about eight minutes and twenty seconds to reach us. That's real."
+  },
+  {
+   "shot": "S3",
+   "a": 170,
+   "b": 274,
+   "t0": 0,
+   "t1": 104,
+   "line": "But today, light was halving faster than it could make the trip."
+  },
+  {
+   "shot": "S4",
+   "a": 274,
+   "b": 418,
+   "t0": 0,
+   "t1": 144,
+   "line": "Any sunlight that left the Sun after about ten twenty this morning will never arrive. The Sun"
+  },
+  {
+   "shot": "S5",
+   "a": 418,
+   "b": 505,
+   "t0": 0,
+   "t1": 87,
+   "line": "didn't go out. Earth just got cut off from it."
+  },
+  {
+   "shot": "S6",
+   "a": 505,
+   "b": 786,
+   "t0": 0,
+   "t1": 281,
+   "line": "And sunlight isn't only light. It's heat. Almost all the warmth on Earth's surface comes from it. Scientists at Caltech worked out what happens without it."
+  },
+  {
+   "shot": "S7",
+   "a": 786,
+   "b": 881,
+   "t0": 0,
+   "t1": 95,
+   "line": "Within about a week, the surface drops below freezing."
+  },
+  {
+   "shot": "S8",
+   "a": 881,
+   "b": 999,
+   "t0": 0,
+   "t1": 118,
+   "line": "Within a year, to about minus seventy degrees. That's real."
+  },
+  {
+   "shot": "S9",
+   "a": 999,
+   "b": 1193,
+   "t0": 0,
+   "t1": 194,
+   "line": "No sunlight also means no plants growing. No crops. No food. Not this year, not ever."
+  },
+  {
+   "shot": "S10",
+   "a": 1193,
+   "b": 1234,
+   "t0": 0,
+   "t1": 41,
+   "line": "Then the signals go."
+  },
+  {
+   "shot": "S11",
+   "a": 1234,
+   "b": 1369,
+   "t0": 0,
+   "t1": 135,
+   "line": "GPS satellites fly about twenty thousand kilometers up. That's real."
+  },
+  {
+   "shot": "S12",
+   "a": 1369,
+   "b": 1564,
+   "t0": 0,
+   "t1": 195,
+   "line": "Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes"
+  },
+  {
+   "shot": "S13",
+   "a": 1564,
+   "b": 1672,
+   "t0": 0,
+   "t1": 108,
+   "line": "every hour. Every map on Earth points to the wrong place."
+  },
+  {
+   "shot": "S14",
+   "a": 1672,
+   "b": 1775,
+   "t0": 0,
+   "t1": 103,
+   "line": "Ships, planes and delivery trucks stop where they are."
+  },
+  {
+   "shot": "S15",
+   "a": 1775,
+   "b": 1934,
+   "t0": 0,
+   "t1": 159,
+   "line": "A taxi driver follows his map straight into a lake. He's fine. His taxi isn't. At"
+  },
+  {
+   "shot": "S16",
+   "a": 1934,
+   "b": 2044,
+   "t0": 0,
+   "t1": 110,
+   "line": "home, your mom tapes blankets over the windows to keep the heat in. The"
+  },
+  {
+   "shot": "S17",
+   "a": 2044,
+   "b": 2180,
+   "t0": 0,
+   "t1": 136,
+   "line": "whole family drags their mattresses into the living room, around the one electric heater."
+  },
+  {
+   "shot": "S18",
+   "a": 2180,
+   "b": 2248,
+   "t0": 0,
+   "t1": 68,
+   "line": "Ellie asks when the Sun is coming back."
+  },
+  {
+   "shot": "S19",
+   "a": 2248,
+   "b": 2296,
+   "t0": 0,
+   "t1": 48,
+   "line": "Nobody answers her. At"
+  },
+  {
+   "shot": "S20",
+   "a": 2296,
+   "b": 2439,
+   "t0": 0,
+   "t1": 143,
+   "line": "midnight, a phone call to the other side of the world takes almost two hours to arrive. The"
+  },
+  {
+   "shot": "S21",
+   "a": 2439,
+   "b": 2566,
+   "t0": 0,
+   "t1": 127,
+   "line": "internet is still there. It just takes all night to load a page. And"
+  },
+  {
+   "shot": "S22",
+   "a": 2566,
+   "b": 2653,
+   "t0": 0,
+   "t1": 87,
+   "line": "at three in the morning, light becomes slower than sound."
+  },
+  {
+   "shot": "S23",
+   "a": 2653,
+   "b": 2755,
+   "t0": 0,
+   "t1": 102,
+   "line": "That's three hundred and forty meters a second. That's real."
+  },
+  {
+   "shot": "S24",
+   "a": 2755,
+   "b": 2864,
+   "t0": 0,
+   "t1": 109,
+   "line": "If you clapped your hands in the dark, you would hear the clap before you saw it."
+  },
+  {
+   "shot": "S25",
+   "a": 2864,
+   "b": 2964,
+   "t0": 0,
+   "t1": 100,
+   "line": "Outside, it's already colder than any morning this time of year. And"
+  },
+  {
+   "shot": "S26",
+   "a": 2964,
+   "b": 3029,
+   "t0": 0,
+   "t1": 65,
+   "line": "every hour, it gets worse."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 36,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Here's what happened.",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 134,
+   "first": 36,
+   "line": "Sunlight takes about eight minutes and twenty seconds to reach us. That's real.",
+   "note": "8m20"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 104,
+   "first": 170,
+   "line": "But today, light was halving faster than it could make the trip.",
+   "note": "slowing"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 144,
+   "first": 274,
+   "line": "Any sunlight that left the Sun after about ten twenty this morning will never arrive. The Sun",
+   "note": "never arrives"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 87,
+   "first": 418,
+   "line": "didn't go out. Earth just got cut off from it.",
+   "note": "cut off"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 281,
+   "first": 505,
+   "line": "And sunlight isn't only light. It's heat. Almost all the warmth on Earth's surface comes from it. Scientists at Caltech worked out what happens without it.",
+   "note": "heat"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 95,
+   "first": 786,
+   "line": "Within about a week, the surface drops below freezing.",
+   "note": "week"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 118,
+   "first": 881,
+   "line": "Within a year, to about minus seventy degrees. That's real.",
+   "note": "year"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 194,
+   "first": 999,
+   "line": "No sunlight also means no plants growing. No crops. No food. Not this year, not ever.",
+   "note": "plants"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 41,
+   "first": 1193,
+   "line": "Then the signals go.",
+   "note": "gps word"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 135,
+   "first": 1234,
+   "line": "GPS satellites fly about twenty thousand kilometers up. That's real.",
+   "note": "20200"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 195,
+   "first": 1369,
+   "line": "Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes",
+   "note": "sats"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 108,
+   "first": 1564,
+   "line": "every hour. Every map on Earth points to the wrong place.",
+   "note": "wrong map"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 103,
+   "first": 1672,
+   "line": "Ships, planes and delivery trucks stop where they are.",
+   "note": "stop"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 159,
+   "first": 1775,
+   "line": "A taxi driver follows his map straight into a lake. He's fine. His taxi isn't. At",
+   "note": "lake"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 110,
+   "first": 1934,
+   "line": "home, your mom tapes blankets over the windows to keep the heat in. The",
+   "note": "tape"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 136,
+   "first": 2044,
+   "line": "whole family drags their mattresses into the living room, around the one electric heater.",
+   "note": "heater"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 68,
+   "first": 2180,
+   "line": "Ellie asks when the Sun is coming back.",
+   "note": "ellie"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 48,
+   "first": 2248,
+   "line": "Nobody answers her. At",
+   "note": "mom"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 143,
+   "first": 2296,
+   "line": "midnight, a phone call to the other side of the world takes almost two hours to arrive. The",
+   "note": "call 2h"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "key": 20,
+   "len": 127,
+   "first": 2439,
+   "line": "internet is still there. It just takes all night to load a page. And",
+   "note": "loading"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "key": 20,
+   "len": 87,
+   "first": 2566,
+   "line": "at three in the morning, light becomes slower than sound.",
+   "note": "slower than sound"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "key": 20,
+   "len": 102,
+   "first": 2653,
+   "line": "That's three hundred and forty meters a second. That's real.",
+   "note": "343"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "key": 20,
+   "len": 109,
+   "first": 2755,
+   "line": "If you clapped your hands in the dark, you would hear the clap before you saw it.",
+   "note": "clap"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "key": 20,
+   "len": 100,
+   "first": 2864,
+   "line": "Outside, it's already colder than any morning this time of year. And",
+   "note": "frost"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "key": 20,
+   "len": 65,
+   "first": 2964,
+   "line": "every hour, it gets worse.",
+   "note": "worse"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c04/voice.wav",
+  "sfx": "slow-light/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4247,
+  "music": "slow-light/c04/music.wav",
+  "musicVol": 0.0962
+ }
 }

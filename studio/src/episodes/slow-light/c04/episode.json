@@ -18,7 +18,11 @@
   },
   {
    "beat": "c04 p4",
-   "text": "Then the signals go. GPS satellites fly about twenty thousand kilometers up. That's real. Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes every hour. Every map on Earth points to the wrong place. Ships, planes and delivery trucks stop where they are."
+   "text": "Then the signals go. GPS satellites fly about twenty thousand kilometers up. That's real. Your phone finds you by timing their signals to a billionth of a second, at the speed of light. Today, that speed changes every hour. Every map on Earth points to the wrong place. Ships, planes and delivery trucks stop where they are. A taxi driver follows his map straight into a lake. He's fine. His taxi isn't."
+  },
+  {
+   "beat": "c04 add",
+   "text": "At home, your mom tapes blankets over the windows to keep the heat in. The whole family drags their mattresses into the living room, around the one electric heater. Ellie asks when the Sun is coming back. Nobody answers her."
   },
   {
    "beat": "c04 p5",
@@ -62,18 +66,452 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "8m20"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "slowing"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "never arrives"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "cut off"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "heat"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "week"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "year"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "plants"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "gps word"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "20200"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sats"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "wrong map"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "stop"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "lake"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "tape"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "heater"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ellie"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mom"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "call 2h"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "loading"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "slower than sound"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "343"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "clap"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "frost"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "worse"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Sunlight"
+  },
+  {
+   "shot": "S3",
+   "at": "But"
+  },
+  {
+   "shot": "S4",
+   "at": "Any"
+  },
+  {
+   "shot": "S5",
+   "at": "didn't"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "Within"
+  },
+  {
+   "shot": "S8",
+   "at": "Within"
+  },
+  {
+   "shot": "S9",
+   "at": "No"
+  },
+  {
+   "shot": "S10",
+   "at": "Then"
+  },
+  {
+   "shot": "S11",
+   "at": "GPS"
+  },
+  {
+   "shot": "S12",
+   "at": "Your"
+  },
+  {
+   "shot": "S13",
+   "at": "Every"
+  },
+  {
+   "shot": "S14",
+   "at": "Ships"
+  },
+  {
+   "shot": "S15",
+   "at": "taxi"
+  },
+  {
+   "shot": "S16",
+   "at": "home"
+  },
+  {
+   "shot": "S17",
+   "at": "whole"
+  },
+  {
+   "shot": "S18",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S19",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S20",
+   "at": "midnight"
+  },
+  {
+   "shot": "S21",
+   "at": "internet"
+  },
+  {
+   "shot": "S22",
+   "at": "three"
+  },
+  {
+   "shot": "S23",
+   "at": "That's"
+  },
+  {
+   "shot": "S24",
+   "at": "If"
+  },
+  {
+   "shot": "S25",
+   "at": "Outside"
+  },
+  {
+   "shot": "S26",
+   "at": "every"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S2+8",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S2+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S5+0",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S7+0",
+    "wind",
+    0.4
+   ],
+   [
+    "S9+10",
+    "buzzer",
+    0.4
+   ],
+   [
+    "S10+0",
+    "glitch",
+    0.5
+   ],
+   [
+    "S11+8",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S11+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S13+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S15+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S17+0",
+    "room_tone",
+    0.4
+   ],
+   [
+    "S20+0",
+    "buzz",
+    0.4
+   ],
+   [
+    "S22+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S23+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S24+20",
+    "catch",
+    0.8
+   ],
+   [
+    "S25+0",
+    "wind",
+    0.5
+   ],
+   [
+    "S26+0",
+    "drone_hit",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

@@ -21,6 +21,10 @@
    "text": "Hour twenty-six. Light is slower than your bike. Your bike light can't keep up with you. You are riding faster than your own beam, into the dark."
   },
   {
+   "beat": "c06 add",
+   "text": "Halfway there, a car comes around the corner, way too fast. The driver can't see you in time, because the light from your bike reaches him too late. He swerves at the very last second. Ellie squeezes you so hard you can barely breathe. You keep riding."
+  },
+  {
    "beat": "c06 p5",
    "text": "At the hospital, everything you see is old. You spot your mom at the end of a long hallway and run toward her. But when you get there, she's gone. You were looking at where she was a minute ago."
   },
@@ -34,7 +38,7 @@
   },
   {
    "beat": "c06 p8",
-   "text": "She hugs you both so hard it hurts. Then she looks at her watch. Eleven forty."
+   "text": "She hugs you both so hard it hurts. Then she looks at her watch. Eleven forty. She grabs a bike from the rack outside."
   },
   {
    "beat": "c06 p9",
@@ -42,7 +46,7 @@
   },
   {
    "beat": "c06 p10",
-   "text": "Ellie screams. The sound reaches the bus before any light could. Its brakes squeal. The door opens. Mo is inside, waving like crazy."
+   "text": "Ellie screams. The sound reaches the bus before any light could. Its brakes squeal. The door opens. Mo is inside, waving like crazy. Mo's dad pulls you up the steps, and the cat goes in last."
   },
   {
    "beat": "c06 p11",
@@ -53,18 +57,472 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mo grabs"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "you worry"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "bus leaves"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ellie"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "decide"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ride off"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hour26"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "outride beam"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "car"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "driver"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "swerve"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ellie eyes"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hospital"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "run to mom"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "gone"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ghost"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "MOM"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "mom behind"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hug"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "11:40"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ride"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "bus waiting"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "old light"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "scream"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sound first"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "door"
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "pulls up"
+  },
+  {
+   "id": "S28",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ramp"
+  },
+  {
+   "id": "S29",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "city dark"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "But"
+  },
+  {
+   "shot": "S3",
+   "at": "What"
+  },
+  {
+   "shot": "S4",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S5",
+   "at": "decide#2"
+  },
+  {
+   "shot": "S6",
+   "at": "put"
+  },
+  {
+   "shot": "S7",
+   "at": "Hour"
+  },
+  {
+   "shot": "S8",
+   "at": "Your"
+  },
+  {
+   "shot": "S9",
+   "at": "Halfway"
+  },
+  {
+   "shot": "S10",
+   "at": "driver"
+  },
+  {
+   "shot": "S11",
+   "at": "swerves"
+  },
+  {
+   "shot": "S12",
+   "at": "squeezes"
+  },
+  {
+   "shot": "S13",
+   "at": "hospital"
+  },
+  {
+   "shot": "S14",
+   "at": "spot"
+  },
+  {
+   "shot": "S15",
+   "at": "But"
+  },
+  {
+   "shot": "S16",
+   "at": "were"
+  },
+  {
+   "shot": "S17",
+   "at": "shout"
+  },
+  {
+   "shot": "S18",
+   "at": "behind"
+  },
+  {
+   "shot": "S19",
+   "at": "hugs"
+  },
+  {
+   "shot": "S20",
+   "at": "Eleven"
+  },
+  {
+   "shot": "S21",
+   "at": "ride"
+  },
+  {
+   "shot": "S22",
+   "at": "station"
+  },
+  {
+   "shot": "S23",
+   "at": "But"
+  },
+  {
+   "shot": "S24",
+   "at": "screams"
+  },
+  {
+   "shot": "S25",
+   "at": "sound"
+  },
+  {
+   "shot": "S26",
+   "at": "brakes"
+  },
+  {
+   "shot": "S27",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S28",
+   "at": "rolls"
+  },
+  {
+   "shot": "S29",
+   "at": "Behind"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S3+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S6+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S7+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S9+0",
+    "gasp",
+    0.5
+   ],
+   [
+    "S11+0",
+    "fall_whoosh",
+    0.6
+   ],
+   [
+    "S13+0",
+    "room_tone",
+    0.3
+   ],
+   [
+    "S16+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S17+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "S19+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S20+0",
+    "tick",
+    0.5
+   ],
+   [
+    "S23+0",
+    "drone_hit",
+    0.5
+   ],
+   [
+    "S24+0",
+    "gasp",
+    0.5
+   ],
+   [
+    "S26+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S27+0",
+    "cat_chirp",
+    0.6
+   ],
+   [
+    "S28+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S29+0",
+    "power_down",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }

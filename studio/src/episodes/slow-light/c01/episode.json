@@ -29,22 +29,343 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "wave at Mo"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "Mo blank"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "wave again"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "stopwatch"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "Mo waves"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "light crawls"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "flashlight click"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "race"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "finish"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "grin"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sky up"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "12:00"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "street dim"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "face"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "diagram"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "title"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "normal morning"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "no school"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "tunnel"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "you in tunnel"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "He"
+  },
+  {
+   "shot": "S3",
+   "at": "again"
+  },
+  {
+   "shot": "S4",
+   "at": "Fifteen"
+  },
+  {
+   "shot": "S5",
+   "at": "finally"
+  },
+  {
+   "shot": "S6",
+   "at": "Because"
+  },
+  {
+   "shot": "S7",
+   "at": "switch"
+  },
+  {
+   "shot": "S8",
+   "at": "start"
+  },
+  {
+   "shot": "S9",
+   "at": "win"
+  },
+  {
+   "shot": "S10",
+   "at": "beat"
+  },
+  {
+   "shot": "S11",
+   "at": "look"
+  },
+  {
+   "shot": "S12",
+   "at": "noon"
+  },
+  {
+   "shot": "S13",
+   "at": "There"
+  },
+  {
+   "shot": "S14",
+   "at": "Sun"
+  },
+  {
+   "shot": "S15",
+   "at": "Its"
+  },
+  {
+   "shot": "S16",
+   "at": "What"
+  },
+  {
+   "shot": "S17",
+   "at": "At"
+  },
+  {
+   "shot": "S18",
+   "at": "Then"
+  },
+  {
+   "shot": "S19",
+   "at": "tomorrow"
+  },
+  {
+   "shot": "S20",
+   "at": "underground"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S4+0",
+    "tick",
+    0.5
+   ],
+   [
+    "S6+0",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S7+8",
+    "switch_off",
+    0.6
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S9+0",
+    "ding",
+    0.5
+   ],
+   [
+    "S11+0",
+    "power_down",
+    0.4
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S15+18",
+    "drone_hit",
+    0.6
+   ],
+   [
+    "S16+0",
+    "title_boom",
+    0.8
+   ],
+   [
+    "S18+0",
+    "laugh",
+    0.4
+   ],
+   [
+    "S19+0",
+    "drone",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
  }
 }

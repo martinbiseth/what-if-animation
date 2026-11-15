@@ -1,29 +1,325 @@
 {
  "slug": "slow-light/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1670,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 84,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 84,
+   "line": "Hour thirty- four. Deep underground."
+  },
+  {
+   "shot": "S2",
+   "a": 84,
+   "b": 152,
+   "t0": 0,
+   "t1": 68,
+   "line": "Light now crawls slower than an ant. The"
+  },
+  {
+   "shot": "S3",
+   "a": 152,
+   "b": 270,
+   "t0": 0,
+   "t1": 118,
+   "line": "lamps are on, but when you lift your hand, you see it move two seconds later."
+  },
+  {
+   "shot": "S4",
+   "a": 270,
+   "b": 351,
+   "t0": 0,
+   "t1": 81,
+   "line": "Ellie is asleep on a camp bed next to Mom."
+  },
+  {
+   "shot": "S5",
+   "a": 351,
+   "b": 387,
+   "t0": 0,
+   "t1": 36,
+   "line": "Mo is snoring."
+  },
+  {
+   "shot": "S6",
+   "a": 387,
+   "b": 468,
+   "t0": 0,
+   "t1": 81,
+   "line": "Somewhere above you, the city is freezing in the dark."
+  },
+  {
+   "shot": "S7",
+   "a": 468,
+   "b": 541,
+   "t0": 0,
+   "t1": 73,
+   "line": "Down here, it's warm. For now. You"
+  },
+  {
+   "shot": "S8",
+   "a": 541,
+   "b": 600,
+   "t0": 0,
+   "t1": 59,
+   "line": "find a bathroom with a mirror. You"
+  },
+  {
+   "shot": "S9",
+   "a": 600,
+   "b": 762,
+   "t0": 0,
+   "t1": 162,
+   "line": "stand perfectly still. And you wait for your reflection to catch up. It does. Then it"
+  },
+  {
+   "shot": "S10",
+   "a": 762,
+   "b": 797,
+   "t0": 0,
+   "t1": 35,
+   "line": "smiles. You"
+  },
+  {
+   "shot": "S11",
+   "a": 797,
+   "b": 833,
+   "t0": 0,
+   "t1": 36,
+   "line": "didn't smile."
+  },
+  {
+   "shot": "S12",
+   "a": 833,
+   "b": 945,
+   "t0": 0,
+   "t1": 112,
+   "line": "Then your reflection slowly lifts its hand, and points at something behind you."
+  },
+  {
+   "shot": "S13",
+   "a": 945,
+   "b": 1043,
+   "t0": 0,
+   "t1": 98,
+   "line": "Light only ever shows you the past. That's the rule."
+  },
+  {
+   "shot": "S14",
+   "a": 1043,
+   "b": 1050,
+   "t0": 0,
+   "t1": 7,
+   "line": "So"
+  },
+  {
+   "shot": "S15",
+   "a": 1050,
+   "b": 1310,
+   "t0": 0,
+   "t1": 260,
+   "line": "what is this mirror showing you? What would you do? Get on the bus, or go back for your mom? Tell me in the comments. And is any of this real? The"
+  },
+  {
+   "shot": "S16",
+   "a": 1310,
+   "b": 1563,
+   "t0": 0,
+   "t1": 253,
+   "line": "science is. Sunlight takes eight minutes to reach us. Without it, Earth freezes in a week. And GPS needs light to keep its speed. And"
+  },
+  {
+   "shot": "S17",
+   "a": 1563,
+   "b": 1627,
+   "t0": 0,
+   "t1": 64,
+   "line": "what's in that mirror? You'll find out"
+  },
+  {
+   "shot": "S18",
+   "a": 1627,
+   "b": 1670,
+   "t0": 0,
+   "t1": 43,
+   "line": "in part two."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 84,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "Hour thirty- four. Deep underground.",
+   "note": "tunnel"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 68,
+   "first": 84,
+   "line": "Light now crawls slower than an ant. The",
+   "note": "ant"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 118,
+   "first": 152,
+   "line": "lamps are on, but when you lift your hand, you see it move two seconds later.",
+   "note": "hand"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 81,
+   "first": 270,
+   "line": "Ellie is asleep on a camp bed next to Mom.",
+   "note": "asleep"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 36,
+   "first": 351,
+   "line": "Mo is snoring.",
+   "note": "snore"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 81,
+   "first": 387,
+   "line": "Somewhere above you, the city is freezing in the dark.",
+   "note": "city frozen"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 73,
+   "first": 468,
+   "line": "Down here, it's warm. For now. You",
+   "note": "warm"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 59,
+   "first": 541,
+   "line": "find a bathroom with a mirror. You",
+   "note": "bathroom"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 162,
+   "first": 600,
+   "line": "stand perfectly still. And you wait for your reflection to catch up. It does. Then it",
+   "note": "still"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 35,
+   "first": 762,
+   "line": "smiles. You",
+   "note": "smile"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 36,
+   "first": 797,
+   "line": "didn't smile.",
+   "note": "you didnt"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 112,
+   "first": 833,
+   "line": "Then your reflection slowly lifts its hand, and points at something behind you.",
+   "note": "points"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 98,
+   "first": 945,
+   "line": "Light only ever shows you the past. That's the rule.",
+   "note": "rule"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 7,
+   "first": 1043,
+   "line": "So",
+   "note": "mirror push"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 260,
+   "first": 1050,
+   "line": "what is this mirror showing you? What would you do? Get on the bus, or go back for your mom? Tell me in the comments. And is any of this real? The",
+   "note": "comment"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 253,
+   "first": 1310,
+   "line": "science is. Sunlight takes eight minutes to reach us. Without it, Earth freezes in a week. And GPS needs light to keep its speed. And",
+   "note": "facts"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 64,
+   "first": 1563,
+   "line": "what's in that mirror? You'll find out",
+   "note": "mirror glint"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 43,
+   "first": 1627,
+   "line": "in part two.",
+   "note": "part 2"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c07/voice.wav",
+  "sfx": "slow-light/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4551,
+  "music": "slow-light/c07/music.wav",
+  "musicVol": 0.0908
+ }
 }

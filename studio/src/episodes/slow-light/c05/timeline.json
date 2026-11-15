@@ -1,29 +1,410 @@
 {
  "slug": "slow-light/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2480,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 148,
+   "t0": 0,
+   "t1": 148,
+   "line": "Hour twenty- five. Eight in the morning. Light is now slower than Usain Bolt."
+  },
+  {
+   "shot": "S2",
+   "a": 148,
+   "b": 273,
+   "t0": 0,
+   "t1": 125,
+   "line": "He ran a hundred meters in nine point five eight seconds. That's real."
+  },
+  {
+   "shot": "S3",
+   "a": 273,
+   "b": 333,
+   "t0": 0,
+   "t1": 60,
+   "line": "Today, light would lose that race."
+  },
+  {
+   "shot": "S4",
+   "a": 333,
+   "b": 450,
+   "t0": 0,
+   "t1": 117,
+   "line": "There's no sunrise. Just a black sky and frost on every window."
+  },
+  {
+   "shot": "S5",
+   "a": 450,
+   "b": 552,
+   "t0": 0,
+   "t1": 102,
+   "line": "Then a man in a suit walks down the middle of your street with a megaphone."
+  },
+  {
+   "shot": "S6",
+   "a": 552,
+   "b": 642,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Shouting is suddenly the fastest way to tell people anything."
+  },
+  {
+   "shot": "S7",
+   "a": 642,
+   "b": 690,
+   "t0": 0,
+   "t1": 48,
+   "line": "Sound beats light now."
+  },
+  {
+   "shot": "S8",
+   "a": 690,
+   "b": 797,
+   "t0": 0,
+   "t1": 107,
+   "line": "'Listen to me. The government is opening shelters underground."
+  },
+  {
+   "shot": "S9",
+   "a": 797,
+   "b": 886,
+   "t0": 0,
+   "t1": 89,
+   "line": "Subway tunnels. Mines. Parking garages."
+  },
+  {
+   "shot": "S10",
+   "a": 886,
+   "b": 956,
+   "t0": 0,
+   "t1": 70,
+   "line": "Buses to the shelter leave the station at noon. '"
+  },
+  {
+   "shot": "S11",
+   "a": 956,
+   "b": 1138,
+   "t0": 0,
+   "t1": 182,
+   "line": "Why underground? A few meters under the surface, the ground stays about the same temperature all year round."
+  },
+  {
+   "shot": "S12",
+   "a": 1138,
+   "b": 1254,
+   "t0": 0,
+   "t1": 116,
+   "line": "Summer or winter, sun or no sun. That's real."
+  },
+  {
+   "shot": "S13",
+   "a": 1254,
+   "b": 1319,
+   "t0": 0,
+   "t1": 65,
+   "line": "Down there, people can survive the cold."
+  },
+  {
+   "shot": "S14",
+   "a": 1319,
+   "b": 1504,
+   "t0": 0,
+   "t1": 185,
+   "line": "Across the city, the same speech is being shouted on every street corner, by soldiers, teachers, and bus drivers."
+  },
+  {
+   "shot": "S15",
+   "a": 1504,
+   "b": 1595,
+   "t0": 0,
+   "t1": 91,
+   "line": "Ellie tugs at the man's sleeve. 'Can my cat come? '"
+  },
+  {
+   "shot": "S16",
+   "a": 1595,
+   "b": 1731,
+   "t0": 0,
+   "t1": 136,
+   "line": "He looks down at her for a long moment. 'Yes, ' he says. 'The cat can come. '"
+  },
+  {
+   "shot": "S17",
+   "a": 1731,
+   "b": 1760,
+   "t0": 0,
+   "t1": 29,
+   "line": "Mo's dad asks"
+  },
+  {
+   "shot": "S18",
+   "a": 1760,
+   "b": 1973,
+   "t0": 0,
+   "t1": 213,
+   "line": "the question everybody is thinking. 'Is there room for everyone? ' The man in the suit doesn't answer. He just lowers his megaphone."
+  },
+  {
+   "shot": "S19",
+   "a": 1973,
+   "b": 2069,
+   "t0": 0,
+   "t1": 96,
+   "line": "'Be at the station by noon. The buses won't wait. '"
+  },
+  {
+   "shot": "S20",
+   "a": 2069,
+   "b": 2107,
+   "t0": 0,
+   "t1": 38,
+   "line": "Then you remember."
+  },
+  {
+   "shot": "S21",
+   "a": 2107,
+   "b": 2255,
+   "t0": 0,
+   "t1": 148,
+   "line": "Your mom works the night shift at the hospital, across town. She never came home this morning."
+  },
+  {
+   "shot": "S22",
+   "a": 2255,
+   "b": 2356,
+   "t0": 0,
+   "t1": 101,
+   "line": "Her phone doesn't answer, because every message now crawls."
+  },
+  {
+   "shot": "S23",
+   "a": 2356,
+   "b": 2480,
+   "t0": 0,
+   "t1": 124,
+   "line": "It's three kilometers to the hospital, and the buses leave at noon."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 148,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Hour twenty- five. Eight in the morning. Light is now slower than Usain Bolt.",
+   "note": "hour25"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 125,
+   "first": 148,
+   "line": "He ran a hundred meters in nine point five eight seconds. That's real.",
+   "note": "9.58"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 60,
+   "first": 273,
+   "line": "Today, light would lose that race.",
+   "note": "race"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 117,
+   "first": 333,
+   "line": "There's no sunrise. Just a black sky and frost on every window.",
+   "note": "frost"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 102,
+   "first": 450,
+   "line": "Then a man in a suit walks down the middle of your street with a megaphone.",
+   "note": "suit walks"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 90,
+   "first": 552,
+   "line": "Shouting is suddenly the fastest way to tell people anything.",
+   "note": "shout"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 48,
+   "first": 642,
+   "line": "Sound beats light now.",
+   "note": "sound beats"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 107,
+   "first": 690,
+   "line": "'Listen to me. The government is opening shelters underground.",
+   "note": "speech"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 89,
+   "first": 797,
+   "line": "Subway tunnels. Mines. Parking garages.",
+   "note": "shelters"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 70,
+   "first": 886,
+   "line": "Buses to the shelter leave the station at noon. '",
+   "note": "buses"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 182,
+   "first": 956,
+   "line": "Why underground? A few meters under the surface, the ground stays about the same temperature all year round.",
+   "note": "ground cut"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 116,
+   "first": 1138,
+   "line": "Summer or winter, sun or no sun. That's real.",
+   "note": "same"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 65,
+   "first": 1254,
+   "line": "Down there, people can survive the cold.",
+   "note": "tunnel"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 185,
+   "first": 1319,
+   "line": "Across the city, the same speech is being shouted on every street corner, by soldiers, teachers, and bus drivers.",
+   "note": "others"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 91,
+   "first": 1504,
+   "line": "Ellie tugs at the man's sleeve. 'Can my cat come? '",
+   "note": "cat"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 136,
+   "first": 1595,
+   "line": "He looks down at her for a long moment. 'Yes, ' he says. 'The cat can come. '",
+   "note": "yes"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 29,
+   "first": 1731,
+   "line": "Mo's dad asks",
+   "note": "room?"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 213,
+   "first": 1760,
+   "line": "the question everybody is thinking. 'Is there room for everyone? ' The man in the suit doesn't answer. He just lowers his megaphone.",
+   "note": "no answer"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 96,
+   "first": 1973,
+   "line": "'Be at the station by noon. The buses won't wait. '",
+   "note": "wont wait"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 38,
+   "first": 2069,
+   "line": "Then you remember.",
+   "note": "remember"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "key": 20,
+   "len": 148,
+   "first": 2107,
+   "line": "Your mom works the night shift at the hospital, across town. She never came home this morning.",
+   "note": "hospital"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "key": 20,
+   "len": 101,
+   "first": 2255,
+   "line": "Her phone doesn't answer, because every message now crawls.",
+   "note": "sending"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "key": 20,
+   "len": 124,
+   "first": 2356,
+   "line": "It's three kilometers to the hospital, and the buses leave at noon.",
+   "note": "map"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c05/voice.wav",
+  "sfx": "slow-light/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3615,
+  "music": "slow-light/c05/music.wav",
+  "musicVol": 0.1633
+ }
 }

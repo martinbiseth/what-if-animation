@@ -1,29 +1,512 @@
 {
  "slug": "slow-light/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2649,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 116,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 116,
+   "line": "Mo grabs your arm. 'Come with us to the station. Your mom will find you there. '"
+  },
+  {
+   "shot": "S2",
+   "a": 116,
+   "b": 127,
+   "t0": 0,
+   "t1": 11,
+   "line": "But"
+  },
+  {
+   "shot": "S3",
+   "a": 127,
+   "b": 270,
+   "t0": 0,
+   "t1": 143,
+   "line": "what if she doesn't? What if she's waiting for you at home, and the buses leave without her?"
+  },
+  {
+   "shot": "S4",
+   "a": 270,
+   "b": 361,
+   "t0": 0,
+   "t1": 91,
+   "line": "Ellie looks at you. She's waiting for you to decide. You"
+  },
+  {
+   "shot": "S5",
+   "a": 361,
+   "b": 392,
+   "t0": 0,
+   "t1": 31,
+   "line": "decide. You"
+  },
+  {
+   "shot": "S6",
+   "a": 392,
+   "b": 492,
+   "t0": 0,
+   "t1": 100,
+   "line": "put Ellie on the back of your bike, and you ride the other way."
+  },
+  {
+   "shot": "S7",
+   "a": 492,
+   "b": 560,
+   "t0": 0,
+   "t1": 68,
+   "line": "Hour twenty- six. Light is slower"
+  },
+  {
+   "shot": "S8",
+   "a": 560,
+   "b": 742,
+   "t0": 0,
+   "t1": 182,
+   "line": "than your bike. Your bike light can't keep up with you. You are riding faster than your own beam, into the dark."
+  },
+  {
+   "shot": "S9",
+   "a": 742,
+   "b": 864,
+   "t0": 0,
+   "t1": 122,
+   "line": "Halfway there, a car comes around the corner, way too fast. The"
+  },
+  {
+   "shot": "S10",
+   "a": 864,
+   "b": 999,
+   "t0": 0,
+   "t1": 135,
+   "line": "driver can't see you in time, because the light from your bike reaches him too late. He"
+  },
+  {
+   "shot": "S11",
+   "a": 999,
+   "b": 1065,
+   "t0": 0,
+   "t1": 66,
+   "line": "swerves at the very last second. Ellie"
+  },
+  {
+   "shot": "S12",
+   "a": 1065,
+   "b": 1182,
+   "t0": 0,
+   "t1": 117,
+   "line": "squeezes you so hard you can barely breathe. You keep riding. At"
+  },
+  {
+   "shot": "S13",
+   "a": 1182,
+   "b": 1256,
+   "t0": 0,
+   "t1": 74,
+   "line": "the hospital, everything you see is old. You"
+  },
+  {
+   "shot": "S14",
+   "a": 1256,
+   "b": 1345,
+   "t0": 0,
+   "t1": 89,
+   "line": "spot your mom at the end of a long hallway and run toward her."
+  },
+  {
+   "shot": "S15",
+   "a": 1345,
+   "b": 1406,
+   "t0": 0,
+   "t1": 61,
+   "line": "But when you get there, she's gone. You"
+  },
+  {
+   "shot": "S16",
+   "a": 1406,
+   "b": 1529,
+   "t0": 0,
+   "t1": 123,
+   "line": "were looking at where she was a minute ago. So you do the only thing that still works fast."
+  },
+  {
+   "shot": "S17",
+   "a": 1529,
+   "b": 1595,
+   "t0": 0,
+   "t1": 66,
+   "line": "You shout. 'Mom! ' And from right"
+  },
+  {
+   "shot": "S18",
+   "a": 1595,
+   "b": 1655,
+   "t0": 0,
+   "t1": 60,
+   "line": "behind you, she shouts back. She"
+  },
+  {
+   "shot": "S19",
+   "a": 1655,
+   "b": 1760,
+   "t0": 0,
+   "t1": 105,
+   "line": "hugs you both so hard it hurts. Then she looks at her watch."
+  },
+  {
+   "shot": "S20",
+   "a": 1760,
+   "b": 1866,
+   "t0": 0,
+   "t1": 106,
+   "line": "Eleven forty. She grabs a bike from the rack outside. You"
+  },
+  {
+   "shot": "S21",
+   "a": 1866,
+   "b": 1916,
+   "t0": 0,
+   "t1": 50,
+   "line": "ride like you've never ridden. At"
+  },
+  {
+   "shot": "S22",
+   "a": 1916,
+   "b": 2003,
+   "t0": 0,
+   "t1": 87,
+   "line": "the station, you see the last bus still waiting at the stop."
+  },
+  {
+   "shot": "S23",
+   "a": 2003,
+   "b": 2088,
+   "t0": 0,
+   "t1": 85,
+   "line": "But that's old light. It already left. Ellie"
+  },
+  {
+   "shot": "S24",
+   "a": 2088,
+   "b": 2122,
+   "t0": 0,
+   "t1": 34,
+   "line": "screams. The"
+  },
+  {
+   "shot": "S25",
+   "a": 2122,
+   "b": 2208,
+   "t0": 0,
+   "t1": 86,
+   "line": "sound reaches the bus before any light could. Its"
+  },
+  {
+   "shot": "S26",
+   "a": 2208,
+   "b": 2354,
+   "t0": 0,
+   "t1": 146,
+   "line": "brakes squeal. The door opens. Mo is inside, waving like crazy."
+  },
+  {
+   "shot": "S27",
+   "a": 2354,
+   "b": 2477,
+   "t0": 0,
+   "t1": 123,
+   "line": "Mo's dad pulls you up the steps, and the cat goes in last. The bus"
+  },
+  {
+   "shot": "S28",
+   "a": 2477,
+   "b": 2570,
+   "t0": 0,
+   "t1": 93,
+   "line": "rolls down a ramp, into a tunnel, under the ground."
+  },
+  {
+   "shot": "S29",
+   "a": 2570,
+   "b": 2649,
+   "t0": 0,
+   "t1": 79,
+   "line": "Behind you, the city goes dark."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "shot",
+   "key": 20,
+   "len": 116,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "Mo grabs your arm. 'Come with us to the station. Your mom will find you there. '",
+   "note": "mo grabs"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "key": 20,
+   "len": 11,
+   "first": 116,
+   "line": "But",
+   "note": "you worry"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "key": 20,
+   "len": 143,
+   "first": 127,
+   "line": "what if she doesn't? What if she's waiting for you at home, and the buses leave without her?",
+   "note": "bus leaves"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "key": 20,
+   "len": 91,
+   "first": 270,
+   "line": "Ellie looks at you. She's waiting for you to decide. You",
+   "note": "ellie"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "key": 20,
+   "len": 31,
+   "first": 361,
+   "line": "decide. You",
+   "note": "decide"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "key": 20,
+   "len": 100,
+   "first": 392,
+   "line": "put Ellie on the back of your bike, and you ride the other way.",
+   "note": "ride off"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "key": 20,
+   "len": 68,
+   "first": 492,
+   "line": "Hour twenty- six. Light is slower",
+   "note": "hour26"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "key": 20,
+   "len": 182,
+   "first": 560,
+   "line": "than your bike. Your bike light can't keep up with you. You are riding faster than your own beam, into the dark.",
+   "note": "outride beam"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "key": 20,
+   "len": 122,
+   "first": 742,
+   "line": "Halfway there, a car comes around the corner, way too fast. The",
+   "note": "car"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "key": 20,
+   "len": 135,
+   "first": 864,
+   "line": "driver can't see you in time, because the light from your bike reaches him too late. He",
+   "note": "driver"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "key": 20,
+   "len": 66,
+   "first": 999,
+   "line": "swerves at the very last second. Ellie",
+   "note": "swerve"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "key": 20,
+   "len": 117,
+   "first": 1065,
+   "line": "squeezes you so hard you can barely breathe. You keep riding. At",
+   "note": "ellie eyes"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "key": 20,
+   "len": 74,
+   "first": 1182,
+   "line": "the hospital, everything you see is old. You",
+   "note": "hospital"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "key": 20,
+   "len": 89,
+   "first": 1256,
+   "line": "spot your mom at the end of a long hallway and run toward her.",
+   "note": "run to mom"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "key": 20,
+   "len": 61,
+   "first": 1345,
+   "line": "But when you get there, she's gone. You",
+   "note": "gone"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "key": 20,
+   "len": 123,
+   "first": 1406,
+   "line": "were looking at where she was a minute ago. So you do the only thing that still works fast.",
+   "note": "ghost"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "key": 20,
+   "len": 66,
+   "first": 1529,
+   "line": "You shout. 'Mom! ' And from right",
+   "note": "MOM"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "key": 20,
+   "len": 60,
+   "first": 1595,
+   "line": "behind you, she shouts back. She",
+   "note": "mom behind"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "key": 20,
+   "len": 105,
+   "first": 1655,
+   "line": "hugs you both so hard it hurts. Then she looks at her watch.",
+   "note": "hug"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "key": 20,
+   "len": 106,
+   "first": 1760,
+   "line": "Eleven forty. She grabs a bike from the rack outside. You",
+   "note": "11:40"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "key": 20,
+   "len": 50,
+   "first": 1866,
+   "line": "ride like you've never ridden. At",
+   "note": "ride"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "key": 20,
+   "len": 87,
+   "first": 1916,
+   "line": "the station, you see the last bus still waiting at the stop.",
+   "note": "bus waiting"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "key": 20,
+   "len": 85,
+   "first": 2003,
+   "line": "But that's old light. It already left. Ellie",
+   "note": "old light"
+  },
+  {
+   "id": "S24",
+   "size": "shot",
+   "key": 20,
+   "len": 34,
+   "first": 2088,
+   "line": "screams. The",
+   "note": "scream"
+  },
+  {
+   "id": "S25",
+   "size": "shot",
+   "key": 20,
+   "len": 86,
+   "first": 2122,
+   "line": "sound reaches the bus before any light could. Its",
+   "note": "sound first"
+  },
+  {
+   "id": "S26",
+   "size": "shot",
+   "key": 20,
+   "len": 146,
+   "first": 2208,
+   "line": "brakes squeal. The door opens. Mo is inside, waving like crazy.",
+   "note": "door"
+  },
+  {
+   "id": "S27",
+   "size": "shot",
+   "key": 20,
+   "len": 123,
+   "first": 2354,
+   "line": "Mo's dad pulls you up the steps, and the cat goes in last. The bus",
+   "note": "pulls up"
+  },
+  {
+   "id": "S28",
+   "size": "shot",
+   "key": 20,
+   "len": 93,
+   "first": 2477,
+   "line": "rolls down a ramp, into a tunnel, under the ground.",
+   "note": "ramp"
+  },
+  {
+   "id": "S29",
+   "size": "shot",
+   "key": 20,
+   "len": 79,
+   "first": 2570,
+   "line": "Behind you, the city goes dark.",
+   "note": "city dark"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "slow-light/c06/voice.wav",
+  "sfx": "slow-light/c06/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3297,
+  "music": "slow-light/c06/music.wav",
+  "musicVol": 0.0908
+ }
 }

@@ -25,6 +25,10 @@
    "text": "Why underground? A few meters under the surface, the ground stays about the same temperature all year round. Summer or winter, sun or no sun. That's real. Down there, people can survive the cold."
   },
   {
+   "beat": "c05 add",
+   "text": "Across the city, the same speech is being shouted on every street corner, by soldiers, teachers, and bus drivers. Ellie tugs at the man's sleeve. 'Can my cat come?' He looks down at her for a long moment. 'Yes,' he says. 'The cat can come.'"
+  },
+  {
    "beat": "c05 p6",
    "text": "Mo's dad asks the question everybody is thinking. 'Is there room for everyone?'"
   },
@@ -56,18 +60,395 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hour25"
+  },
+  {
+   "id": "S2",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "9.58"
+  },
+  {
+   "id": "S3",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "race"
+  },
+  {
+   "id": "S4",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "frost"
+  },
+  {
+   "id": "S5",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "suit walks"
+  },
+  {
+   "id": "S6",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "shout"
+  },
+  {
+   "id": "S7",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sound beats"
+  },
+  {
+   "id": "S8",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "speech"
+  },
+  {
+   "id": "S9",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "shelters"
+  },
+  {
+   "id": "S10",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "buses"
+  },
+  {
+   "id": "S11",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "ground cut"
+  },
+  {
+   "id": "S12",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "same"
+  },
+  {
+   "id": "S13",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "tunnel"
+  },
+  {
+   "id": "S14",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "others"
+  },
+  {
+   "id": "S15",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "cat"
+  },
+  {
+   "id": "S16",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "yes"
+  },
+  {
+   "id": "S17",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "room?"
+  },
+  {
+   "id": "S18",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "no answer"
+  },
+  {
+   "id": "S19",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "wont wait"
+  },
+  {
+   "id": "S20",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "remember"
+  },
+  {
+   "id": "S21",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "hospital"
+  },
+  {
+   "id": "S22",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "sending"
+  },
+  {
+   "id": "S23",
+   "size": "shot",
+   "set": "",
+   "key": 20,
+   "note": "map"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "He"
+  },
+  {
+   "shot": "S3",
+   "at": "Today"
+  },
+  {
+   "shot": "S4",
+   "at": "There's"
+  },
+  {
+   "shot": "S5",
+   "at": "Then"
+  },
+  {
+   "shot": "S6",
+   "at": "Shouting"
+  },
+  {
+   "shot": "S7",
+   "at": "Sound"
+  },
+  {
+   "shot": "S8",
+   "at": "'Listen"
+  },
+  {
+   "shot": "S9",
+   "at": "Subway"
+  },
+  {
+   "shot": "S10",
+   "at": "Buses"
+  },
+  {
+   "shot": "S11",
+   "at": "Why"
+  },
+  {
+   "shot": "S12",
+   "at": "Summer"
+  },
+  {
+   "shot": "S13",
+   "at": "Down"
+  },
+  {
+   "shot": "S14",
+   "at": "Across"
+  },
+  {
+   "shot": "S15",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S16",
+   "at": "He"
+  },
+  {
+   "shot": "S17",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S18",
+   "at": "The"
+  },
+  {
+   "shot": "S19",
+   "at": "'Be"
+  },
+  {
+   "shot": "S20",
+   "at": "Then"
+  },
+  {
+   "shot": "S21",
+   "at": "Your"
+  },
+  {
+   "shot": "S22",
+   "at": "Her"
+  },
+  {
+   "shot": "S23",
+   "at": "It's"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cat_chirp": [
+    "a cat making a short curious chirp meow",
+    0.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S2+8",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S2+60",
+    "ding",
+    0.5
+   ],
+   [
+    "S4+0",
+    "wind",
+    0.5
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S7+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S9+0",
+    "drone",
+    0.3
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S12+80",
+    "ding",
+    0.5
+   ],
+   [
+    "S15+0",
+    "cat_chirp",
+    0.6
+   ],
+   [
+    "S18+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S20+0",
+    "gasp",
+    0.4
+   ],
+   [
+    "S22+0",
+    "beep",
+    0.5
+   ],
+   [
+    "S23+0",
+    "tick",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -12.0
+  }
+ }
 }
