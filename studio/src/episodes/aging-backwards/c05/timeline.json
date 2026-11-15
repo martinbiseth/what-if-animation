@@ -366,6 +366,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "aging-backwards/c05/voice.wav"
+  "voice": "aging-backwards/c05/voice.wav",
+  "sfx": "aging-backwards/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4056,
+  "music": "aging-backwards/c05/music.wav",
+  "musicVol": 0.0755
  }
 }

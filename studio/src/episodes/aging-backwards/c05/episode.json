@@ -275,5 +275,156 @@
    "at": "seven"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S2+4",
+    "shutter",
+    0.6
+   ],
+   [
+    "S3+2",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S4+4",
+    "pop",
+    0.5
+   ],
+   [
+    "S6+0",
+    "tick",
+    0.4,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "door_shut",
+    0.7
+   ],
+   [
+    "S8+0",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S9+4",
+    "step",
+    0.4
+   ],
+   [
+    "S11+2",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S14+2",
+    "slide",
+    0.8
+   ],
+   [
+    "S15+4",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S16+4",
+    "clock_back",
+    0.5
+   ],
+   [
+    "S18+4",
+    "tick",
+    0.4,
+    "onset",
+    "S19"
+   ],
+   [
+    "S20+4",
+    "pencils",
+    0.3
+   ],
+   [
+    "S21+2",
+    "card_hit",
+    0.9
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
+ }
 }

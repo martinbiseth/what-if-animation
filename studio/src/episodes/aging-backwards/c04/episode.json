@@ -345,5 +345,173 @@
    "at": "little"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "rewind": [
+    "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+    1.6
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+2",
+    "card_hit",
+    0.9
+   ],
+   [
+    "S2+4",
+    "rewind_start",
+    0.6
+   ],
+   [
+    "S3+2",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S4+2",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S6+4",
+    "step",
+    0.6
+   ],
+   [
+    "S7+2",
+    "pop",
+    0.5
+   ],
+   [
+    "S8+2",
+    "pop",
+    0.5
+   ],
+   [
+    "S9+4",
+    "crack",
+    0.4
+   ],
+   [
+    "S10+4",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S11+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S12+4",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S14+0",
+    "drone",
+    0.3,
+    "onset",
+    "S17"
+   ],
+   [
+    "S15+2",
+    "card_hit",
+    0.7
+   ],
+   [
+    "S16+2",
+    "rewind",
+    0.5
+   ],
+   [
+    "S18+2",
+    "shutter",
+    0.6
+   ],
+   [
+    "S20+4",
+    "rewind_start",
+    0.6
+   ],
+   [
+    "S21+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S25+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S26+4",
+    "title_boom",
+    0.9,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
+ }
 }

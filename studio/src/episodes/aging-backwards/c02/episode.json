@@ -196,5 +196,122 @@
  "title": [
   "WHAT IF YOU AGED",
   "BACKWARDS?"
- ]
+ ],
+ "sound": {
+  "clips": {
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+2",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S2+4",
+    "rewind_start",
+    0.6
+   ],
+   [
+    "S3+0",
+    "tick",
+    0.5,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "drone_hit",
+    0.7,
+    "peak"
+   ],
+   [
+    "S5+4",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S7+2",
+    "pop",
+    0.4
+   ],
+   [
+    "S8+2",
+    "pop",
+    0.4
+   ],
+   [
+    "S9+2",
+    "pop",
+    0.4
+   ],
+   [
+    "S10+0",
+    "buzzer",
+    0.6
+   ],
+   [
+    "S12+4",
+    "pencils",
+    0.4
+   ],
+   [
+    "S13+2",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S14+6",
+    "crack",
+    0.8
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
+ }
 }

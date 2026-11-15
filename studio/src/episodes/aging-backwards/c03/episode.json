@@ -343,5 +343,227 @@
    "at": "That's"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "cookie_crunch": [
+    "one crunchy bite into a chocolate chip cookie, close up",
+    0.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S2+4",
+    "land",
+    0.5
+   ],
+   [
+    "S3+4",
+    "cookie_crunch",
+    0.7
+   ],
+   [
+    "S4+0",
+    "class_murmur",
+    0.4
+   ],
+   [
+    "S5+0",
+    "ding",
+    0.7
+   ],
+   [
+    "S6+4",
+    "gulp",
+    0.6
+   ],
+   [
+    "S7+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S9+4",
+    "cheer",
+    0.6
+   ],
+   [
+    "S10+2",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S11+2",
+    "paper",
+    0.6
+   ],
+   [
+    "S12+2",
+    "cash",
+    0.6
+   ],
+   [
+    "S13+2",
+    "pencils",
+    0.3
+   ],
+   [
+    "S14+4",
+    "cash",
+    0.5
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S16+2",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S17+0",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S18+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S19+2",
+    "gasp",
+    0.4
+   ],
+   [
+    "S21+4",
+    "pop",
+    0.5
+   ],
+   [
+    "S22+0",
+    "wind",
+    0.3,
+    "onset",
+    "S27"
+   ],
+   [
+    "S23+2",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S25+4",
+    "big_step",
+    0.5
+   ],
+   [
+    "S26+2",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S27+0",
+    "drone_hit",
+    0.6,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S27"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.5
+  }
+ }
 }

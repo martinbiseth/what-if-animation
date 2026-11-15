@@ -279,5 +279,138 @@
    "at": "Six"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "rewind_start": [
+    "a quick reverse swoosh, like a sound being sucked backwards",
+    0.7
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "wind": [
+    "wind blowing on a city rooftop at dusk, distant traffic far below",
+    6.0
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "tick",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+2",
+    "step",
+    0.3
+   ],
+   [
+    "S5+2",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S6+2",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S7+0",
+    "tick",
+    0.4,
+    "onset",
+    "S8"
+   ],
+   [
+    "S9+2",
+    "pop",
+    0.3
+   ],
+   [
+    "S11+2",
+    "pop",
+    0.5
+   ],
+   [
+    "S13+0",
+    "wind",
+    0.3,
+    "onset",
+    "S17"
+   ],
+   [
+    "S17+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S19+0",
+    "drone",
+    0.4,
+    "onset",
+    "S21"
+   ],
+   [
+    "S19+6",
+    "beep",
+    0.6
+   ],
+   [
+    "S20+0",
+    "rewind_start",
+    0.7
+   ],
+   [
+    "S21+2",
+    "drone_hit",
+    0.8,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "until": "S19"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -13.5
+  }
+ }
 }

@@ -210,5 +210,199 @@
    "at": "subscribe"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cheer": [
+    "a small crowd in a club cheering and clapping",
+    2.0
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S6"
+   ],
+   [
+    "S2+4",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S2+10",
+    "tick",
+    0.5,
+    "onset",
+    "S3"
+   ],
+   [
+    "S3+0",
+    "beep",
+    0.7
+   ],
+   [
+    "S4+0",
+    "heartbeat",
+    0.5
+   ],
+   [
+    "S5+2",
+    "ding",
+    0.7
+   ],
+   [
+    "S6+0",
+    "cheer",
+    0.6
+   ],
+   [
+    "S7+2",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S8+0",
+    "buzz",
+    0.8
+   ],
+   [
+    "S8+8",
+    "notify",
+    0.5
+   ],
+   [
+    "S9+2",
+    "shutter",
+    0.5
+   ],
+   [
+    "S10+4",
+    "crack",
+    0.6
+   ],
+   [
+    "S10+20",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S11+0",
+    "drone",
+    0.4,
+    "onset",
+    "S13"
+   ],
+   [
+    "S12+2",
+    "drone_hit",
+    0.7,
+    "peak"
+   ],
+   [
+    "S13+4",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S14+2",
+    "card_hit",
+    0.8
+   ],
+   [
+    "S15+2",
+    "pop",
+    0.5
+   ],
+   [
+    "S16+2",
+    "title_boom",
+    1.0,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S16"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
+ }
 }

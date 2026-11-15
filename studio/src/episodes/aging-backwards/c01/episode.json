@@ -281,5 +281,167 @@
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "clock_back": [
+    "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+    1.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "f:0",
+    "room_tone",
+    0.3,
+    "onset",
+    "S12"
+   ],
+   [
+    "S1+0",
+    "beep",
+    0.7
+   ],
+   [
+    "S3+4",
+    "whoosh",
+    0.5
+   ],
+   [
+    "S4+6",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S5+6",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S6+4",
+    "buzzer",
+    0.5
+   ],
+   [
+    "S7+2",
+    "pop",
+    0.3
+   ],
+   [
+    "S9+4",
+    "pop",
+    0.5
+   ],
+   [
+    "S10+6",
+    "gasp",
+    0.6
+   ],
+   [
+    "S12+0",
+    "whoosh",
+    0.6
+   ],
+   [
+    "S14+4",
+    "pencils",
+    0.3
+   ],
+   [
+    "S15+4",
+    "drone_hit",
+    0.6,
+    "peak"
+   ],
+   [
+    "S16+2",
+    "counter_tick",
+    0.6
+   ],
+   [
+    "S17+0",
+    "tick",
+    0.5,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+3",
+    "title_boom",
+    1.0,
+    "peak"
+   ],
+   [
+    "S19+2",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S20+0",
+    "clock_back",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "from": "S19"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -14.0
+  }
  }
 }
