@@ -1,0 +1,74 @@
+{
+ "id": "GravityC06",
+ "slug": "gravity/c06",
+ "chapter": "The crawl",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You can't stand. You can't even crawl on your hands and knees. You have to slide. On your stomach, like a soldier."
+  },
+  {
+   "beat": "p2",
+   "text": "Mom goes first, dragging Biscuit by his collar. You go next. And Ellie is right behind you."
+  },
+  {
+   "beat": "p3",
+   "text": "Then she isn't."
+  },
+  {
+   "beat": "p4",
+   "text": "You turn your head. It takes everything. Ellie has stopped in the middle of the yard. She's crying. 'I can't,' she says. 'It's too heavy. I can't.'"
+  },
+  {
+   "beat": "p5",
+   "text": "Eight fifty-two. Mo's voice crackles from the phone in your pocket. 'Are you in the water? Tell me you're in the water.' You can't answer. You don't have the breath."
+  },
+  {
+   "beat": "p6",
+   "text": "Mom is already at the pool fence. If you go back for Ellie, you might not make it before nine. And at eight g, nobody moves at all."
+  },
+  {
+   "beat": "p7",
+   "text": "So here's the choice. Keep sliding. Or go back."
+  },
+  {
+   "beat": "p8",
+   "text": "You go back."
+  },
+  {
+   "beat": "p9",
+   "text": "Every inch costs you. Your arms burn. Your chest feels like a car is parked on it. Halfway there, you stop, just for a second. You can hear the pool filter humming on the other side of the fence. It sounds a mile away. You reach Ellie and grab the strap of her backpack. 'Hold on to me. Don't let go.'"
+  },
+  {
+   "beat": "p10",
+   "text": "You pull. She pushes. Mr. Patel, lying at the edge of his pool, reaches out a hand."
+  },
+  {
+   "beat": "p11",
+   "text": "Eight fifty-eight. You roll over the edge and into the water."
+  },
+  {
+   "beat": "p12",
+   "text": "And for the first time in two hours, you feel light."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

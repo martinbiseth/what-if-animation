@@ -1,0 +1,257 @@
+{
+ "id": "GravityC01",
+ "slug": "gravity/c01",
+ "chapter": "The heavy morning",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Seven AM. Your alarm goes off. You roll out of bed, and you hit the floor like a sack of cement."
+  },
+  {
+   "beat": "p2",
+   "text": "Your arms feel like they're full of sand. Your phone slides off the nightstand and smacks into the carpet. Hard."
+  },
+  {
+   "beat": "p3",
+   "text": "In the kitchen, your mom pours cereal. It doesn't fall into the bowl. It shoots into it. The milk lands so hard it splashes the ceiling."
+  },
+  {
+   "beat": "p4",
+   "text": "Your dog Biscuit is lying flat on the floor, like a rug. He doesn't even try to get up."
+  },
+  {
+   "beat": "p5",
+   "text": "Outside, a pigeon on the fence flaps like crazy, gets one foot in the air, and gives up."
+  },
+  {
+   "beat": "p6",
+   "text": "You check the weather app on your phone. Then a different app. The one that measures how hard the Earth is pulling. It says nineteen point six. It's supposed to say nine point eight."
+  },
+  {
+   "beat": "p7",
+   "text": "Gravity just doubled. And at eight o'clock, it's going to double again."
+  },
+  {
+   "beat": "p8",
+   "text": "What if gravity doubled every hour?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert",
+   "set": "bedroom",
+   "note": "the alarm clock: 07:00",
+   "key": 10
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "bedroom",
+   "note": "you roll out of bed and slam into the floor",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom floor",
+   "note": "face in the carpet, arms like sand",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "nightstand",
+   "note": "the phone slides off and smacks the carpet: THUD",
+   "key": 50
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mom at the island with the cereal",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the cereal shoots into the bowl",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "insert tilt",
+   "set": "kitchen",
+   "note": "the milk splashes the ceiling",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "living",
+   "note": "Biscuit flat on the floor like a rug",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "living",
+   "note": "Biscuit doesn't even try",
+   "key": 20
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "yard",
+   "note": "a pigeon on the fence flaps like crazy",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "yard",
+   "note": "the pigeon gives up",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "bedroom floor",
+   "note": "you lift the phone above your face",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "phone",
+   "note": "the gravity app: 9.81 jumps to 19.6",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "your face: shock",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "card",
+   "note": "2G slams down, 7:00 AM",
+   "key": 14
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "kitchen",
+   "note": "the wall clock sweeping toward eight",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "title",
+   "set": "yard",
+   "note": "WHAT IF GRAVITY DOUBLED EVERY HOUR?",
+   "key": 48
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "In"
+  },
+  {
+   "shot": "S6",
+   "at": "It"
+  },
+  {
+   "shot": "S7",
+   "at": "The"
+  },
+  {
+   "shot": "S8",
+   "at": "Your"
+  },
+  {
+   "shot": "S9",
+   "at": "He"
+  },
+  {
+   "shot": "S10",
+   "at": "Outside"
+  },
+  {
+   "shot": "S11",
+   "at": "gives"
+  },
+  {
+   "shot": "S12",
+   "at": "You"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "It's"
+  },
+  {
+   "shot": "S15",
+   "at": "Gravity"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "What"
+  }
+ ],
+ "fx": [
+  {
+   "at": "S2+12",
+   "kind": "shake",
+   "len": 8,
+   "amp": 10
+  },
+  {
+   "at": "S15+7",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3
+  },
+  {
+   "at": "S17+3",
+   "kind": "flash",
+   "color": "#FFE7B3",
+   "o": 0.35
+  }
+ ],
+ "pace": {
+  "min_cuts": 20,
+  "max_hold": 5
+ },
+ "tail": 2.2
+}

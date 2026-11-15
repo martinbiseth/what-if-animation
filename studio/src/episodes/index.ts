@@ -6,4 +6,6 @@ import { iphone1926Chapters } from './iphone-1926';
 
 import { electricityChapters } from './electricity';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters];
+import { gravityChapters } from './gravity';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters];

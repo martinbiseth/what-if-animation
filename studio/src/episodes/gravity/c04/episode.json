@@ -1,0 +1,86 @@
+{
+ "id": "GravityC04",
+ "slug": "gravity/c04",
+ "chapter": "The catch",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Eight o'clock. Four times normal. The app on your phone says thirty-nine point two."
+  },
+  {
+   "beat": "p2",
+   "text": "You were standing at the counter. Now you're on your knees, and you didn't decide to kneel."
+  },
+  {
+   "beat": "p3",
+   "text": "Here's what's happening inside you. Your heart pumps blood up to your brain, about thirty centimeters uphill. Every beat. Now that blood weighs four times as much, and your heart was never built for that."
+  },
+  {
+   "beat": "p4",
+   "text": "Fighter pilots know this feeling. When they turn hard, they feel the same pull. Without help, their vision goes gray at about three to four g. Then it goes dark. Then they pass out. That's real. And you're at four g, standing in your kitchen."
+  },
+  {
+   "beat": "p5",
+   "text": "So you do the only thing that helps. You lie down. Flat on your back. Now your blood doesn't have to climb. Your brain gets it back. The gray clears."
+  },
+  {
+   "beat": "p6",
+   "text": "Across the whole planet, eight billion people do the same thing. They lie down wherever they are. On sidewalks, in offices, in the middle of the road."
+  },
+  {
+   "beat": "p7",
+   "text": "The trained pilots in G-suits? They can handle eight or nine g. But only for seconds, in a jet, with a special suit squeezing their legs. Nobody has ever done it for an hour."
+  },
+  {
+   "beat": "p8",
+   "text": "And outside, things start to break. A tree in the yard groans, and a branch rips off. Gutters fold. Shelves in the kitchen snap and the plates come down like bullets."
+  },
+  {
+   "beat": "p9",
+   "text": "Biscuit crawls across the floor on his belly and lies down next to you. He's shaking."
+  },
+  {
+   "beat": "p10",
+   "text": "You do the math. In one hour, it's eight g. In two hours, sixteen."
+  },
+  {
+   "beat": "p11",
+   "text": "And nobody, anywhere, knows how to survive sixteen."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Without help, vision goes gray at about 3 to 4 g, then a person can pass out.",
+   "working": "For an unprotected person under gradually rising g, vision dims at about 3-3.5 g and peripheral vision is lost at about 3.5-4.5 g; continued stress leads to unconsciousness (G-LOC).",
+   "source": "Air & Space Forces Magazine, 'G-Lock and the Fighter Jock' (October 1991)"
+  },
+  {
+   "claim": "Trained pilots with G-suits handle eight or nine g, briefly.",
+   "working": "A G-suit gives 1-2 g of protection and the straining maneuver about 4 g more; centrifuge-trained pilots are prepared for 8-9 g, and the F-16 limits maneuvers to a bit over 9 g.",
+   "source": "Air & Space Forces Magazine, 'G-Lock and the Fighter Jock' (October 1991)"
+  },
+  {
+   "claim": "The heart pumps blood about 30 cm uphill to the brain; lying flat removes that climb.",
+   "working": "The heart sits about 30 cm below the eyes in an upright adult. The pressure needed scales with g x height, so lying flat (height near zero) is the standard way to tolerate high g.",
+   "source": "Basic physiology (hydrostatic pressure)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

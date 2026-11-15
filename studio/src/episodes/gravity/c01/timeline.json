@@ -1,0 +1,322 @@
+{
+ "slug": "gravity/c01",
+ "title": " ",
+ "fps": 30,
+ "total": 1427,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 68,
+   "t0": 0,
+   "t1": 68,
+   "line": "Seven AM. Your alarm goes off."
+  },
+  {
+   "shot": "S2",
+   "a": 68,
+   "b": 175,
+   "t0": 0,
+   "t1": 107,
+   "line": "You roll out of bed, and you hit the floor like a sack of cement."
+  },
+  {
+   "shot": "S3",
+   "a": 175,
+   "b": 239,
+   "t0": 0,
+   "t1": 64,
+   "line": "Your arms feel like they're full of sand."
+  },
+  {
+   "shot": "S4",
+   "a": 239,
+   "b": 362,
+   "t0": 0,
+   "t1": 123,
+   "line": "Your phone slides off the nightstand and smacks into the carpet. Hard."
+  },
+  {
+   "shot": "S5",
+   "a": 362,
+   "b": 435,
+   "t0": 0,
+   "t1": 73,
+   "line": "In the kitchen, your mom pours cereal."
+  },
+  {
+   "shot": "S6",
+   "a": 435,
+   "b": 459,
+   "t0": 0,
+   "t1": 24,
+   "line": "It doesn't fall into"
+  },
+  {
+   "shot": "S7",
+   "a": 459,
+   "b": 612,
+   "t0": 0,
+   "t1": 153,
+   "line": "the bowl. It shoots into it. The milk lands so hard it splashes the ceiling."
+  },
+  {
+   "shot": "S8",
+   "a": 612,
+   "b": 703,
+   "t0": 0,
+   "t1": 91,
+   "line": "Your dog Biscuit is lying flat on the floor, like a rug."
+  },
+  {
+   "shot": "S9",
+   "a": 703,
+   "b": 751,
+   "t0": 0,
+   "t1": 48,
+   "line": "He doesn't even try to get up."
+  },
+  {
+   "shot": "S10",
+   "a": 751,
+   "b": 881,
+   "t0": 0,
+   "t1": 130,
+   "line": "Outside, a pigeon on the fence flaps like crazy, gets one foot in the air, and"
+  },
+  {
+   "shot": "S11",
+   "a": 881,
+   "b": 907,
+   "t0": 0,
+   "t1": 26,
+   "line": "gives up."
+  },
+  {
+   "shot": "S12",
+   "a": 907,
+   "b": 967,
+   "t0": 0,
+   "t1": 60,
+   "line": "You check the weather app on your phone."
+  },
+  {
+   "shot": "S13",
+   "a": 967,
+   "b": 1137,
+   "t0": 0,
+   "t1": 170,
+   "line": "Then a different app. The one that measures how hard the Earth is pulling. It says nineteen point six."
+  },
+  {
+   "shot": "S14",
+   "a": 1137,
+   "b": 1193,
+   "t0": 0,
+   "t1": 56,
+   "line": "It's supposed to say nine point eight."
+  },
+  {
+   "shot": "S15",
+   "a": 1193,
+   "b": 1237,
+   "t0": 0,
+   "t1": 44,
+   "line": "Gravity just doubled."
+  },
+  {
+   "shot": "S16",
+   "a": 1237,
+   "b": 1312,
+   "t0": 0,
+   "t1": 75,
+   "line": "And at eight o'clock, it's going to double again."
+  },
+  {
+   "shot": "S17",
+   "a": 1312,
+   "b": 1427,
+   "t0": 0,
+   "t1": 115,
+   "line": "What if gravity doubled every hour?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert",
+   "key": 10,
+   "len": 68,
+   "first": 0,
+   "line": "Seven AM. Your alarm goes off.",
+   "note": "the alarm clock: 07:00"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 30,
+   "len": 107,
+   "first": 68,
+   "line": "You roll out of bed, and you hit the floor like a sack of cement.",
+   "note": "you roll out of bed and slam into the floor"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 20,
+   "len": 64,
+   "first": 175,
+   "line": "Your arms feel like they're full of sand.",
+   "note": "face in the carpet, arms like sand"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 50,
+   "len": 123,
+   "first": 239,
+   "line": "Your phone slides off the nightstand and smacks into the carpet. Hard.",
+   "note": "the phone slides off and smacks the carpet: THUD"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 73,
+   "first": 362,
+   "line": "In the kitchen, your mom pours cereal.",
+   "note": "Mom at the island with the cereal"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "len": 24,
+   "first": 435,
+   "line": "It doesn't fall into",
+   "note": "the cereal shoots into the bowl"
+  },
+  {
+   "id": "S7",
+   "size": "insert tilt",
+   "key": 40,
+   "len": 153,
+   "first": 459,
+   "line": "the bowl. It shoots into it. The milk lands so hard it splashes the ceiling.",
+   "note": "the milk splashes the ceiling"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 20,
+   "len": 91,
+   "first": 612,
+   "line": "Your dog Biscuit is lying flat on the floor, like a rug.",
+   "note": "Biscuit flat on the floor like a rug"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 20,
+   "len": 48,
+   "first": 703,
+   "line": "He doesn't even try to get up.",
+   "note": "Biscuit doesn't even try"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 130,
+   "first": 751,
+   "line": "Outside, a pigeon on the fence flaps like crazy, gets one foot in the air, and",
+   "note": "a pigeon on the fence flaps like crazy"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 20,
+   "len": 26,
+   "first": 881,
+   "line": "gives up.",
+   "note": "the pigeon gives up"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 20,
+   "len": 60,
+   "first": 907,
+   "line": "You check the weather app on your phone.",
+   "note": "you lift the phone above your face"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 60,
+   "len": 170,
+   "first": 967,
+   "line": "Then a different app. The one that measures how hard the Earth is pulling. It says nineteen point six.",
+   "note": "the gravity app: 9.81 jumps to 19.6"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 20,
+   "len": 56,
+   "first": 1137,
+   "line": "It's supposed to say nine point eight.",
+   "note": "your face: shock"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 14,
+   "len": 44,
+   "first": 1193,
+   "line": "Gravity just doubled.",
+   "note": "2G slams down, 7:00 AM"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "len": 75,
+   "first": 1237,
+   "line": "And at eight o'clock, it's going to double again.",
+   "note": "the wall clock sweeping toward eight"
+  },
+  {
+   "id": "S17",
+   "size": "title",
+   "key": 48,
+   "len": 115,
+   "first": 1312,
+   "line": "What if gravity doubled every hour?",
+   "note": "WHAT IF GRAVITY DOUBLED EVERY HOUR?"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "shake",
+   "len": 8,
+   "amp": 10,
+   "f": 80
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 1200
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE7B3",
+   "o": 0.35,
+   "f": 1315
+  }
+ ],
+ "audio": {
+  "voice": "gravity/c01/voice.wav"
+ }
+}

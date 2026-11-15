@@ -1,0 +1,90 @@
+{
+ "id": "GravityC05",
+ "slug": "gravity/c05",
+ "chapter": "Someone notices",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "On the TV, lying sideways on the floor, a man in a suit is talking. He's lying down too. Every news anchor on Earth is lying down."
+  },
+  {
+   "beat": "p2",
+   "text": "He's a scientist. 'We can measure it to the millisecond,' he says. 'It doubles at exactly the top of the hour. Not near it. Exactly.'"
+  },
+  {
+   "beat": "p3",
+   "text": "Then he says the thing that makes your mom go quiet. 'Something is doing this on purpose. Nature doesn't keep a schedule.'"
+  },
+  {
+   "beat": "p4",
+   "text": "The planes come first. Every pilot in the sky is trying to land before nine. An airliner is only built to handle about two and a half g. They have a few minutes."
+  },
+  {
+   "beat": "p5",
+   "text": "Then the satellites. Every one of them is going around the Earth at a speed set for normal gravity. Now they're too slow. The lowest ones start to fall."
+  },
+  {
+   "beat": "p5b",
+   "text": "Down here, hospitals move every patient onto the floor. Firefighters can't climb their own ladders. And somewhere over the ocean, a pilot radios the tower. 'We're coming down early. We don't have a choice.'"
+  },
+  {
+   "beat": "p6",
+   "text": "Then the man in the suit says the one useful thing anyone says all day."
+  },
+  {
+   "beat": "p7",
+   "text": "'If you can, get into water. Water pushes up on you. And the stronger gravity gets, the harder it pushes back.'"
+  },
+  {
+   "beat": "p8",
+   "text": "That's real. A floating body is held up by the water around it. Double the gravity, and the push of the water doubles too."
+  },
+  {
+   "beat": "p9",
+   "text": "Your mom looks at you. You look at her. You both think the same thing."
+  },
+  {
+   "beat": "p10",
+   "text": "Mr. Patel next door has a swimming pool."
+  },
+  {
+   "beat": "p11",
+   "text": "It's eight forty-one. Nineteen minutes."
+  }
+ ],
+ "science": [
+  {
+   "claim": "An airliner is only built for about 2.5 g.",
+   "working": "US certification rules set the limit maneuvering load factor for transport airplanes at +2.5 g (it may be lower than that only above a certain weight).",
+   "source": "US FAA, 14 CFR 25.337 (Limit maneuvering load factors)"
+  },
+  {
+   "claim": "Satellites would be too slow for stronger gravity, and the lowest would fall.",
+   "working": "Circular orbit speed is sqrt(GM/r). With gravity doubled, a satellite at its old speed is at the top of an ellipse with a much lower low point; for low orbits that dips into the atmosphere.",
+   "source": "Orbital mechanics (vis-viva equation)"
+  },
+  {
+   "claim": "Water pushes up harder as gravity grows.",
+   "working": "Buoyancy is the weight of the displaced water: density x volume x g. Doubling g doubles it, the same as the body's weight, so a floating body stays floating and is held up all around.",
+   "source": "Archimedes' principle"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

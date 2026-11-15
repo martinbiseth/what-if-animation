@@ -8,7 +8,7 @@ import { FONT } from './fonts';
 
 export type ScreenMode =
   | 'off' | 'home' | 'camera' | 'photo' | 'city' | 'music' | 'nosignal' | 'map' | 'battery' | 'calc' | 'video'
-  | 'flash' | 'message' | 'photos' | 'record' | 'chip' | 'pharmacy' | 'signal';
+  | 'flash' | 'message' | 'photos' | 'record' | 'chip' | 'pharmacy' | 'signal' | 'gmeter';
 
 export const PHONE = { w: 300, h: 620, r: 46 };
 const SCR = { x: -136, y: -296, w: 272, h: 592, r: 34 };
@@ -83,6 +83,29 @@ const Screen: React.FC<{ mode: ScreenMode; t: number; battery: number; text?: st
     <text x={cx} y={y} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={30} fill="#F6EFE3">{s}</text>
   );
   switch (mode) {
+    case 'gmeter': {
+      // An accelerometer app: GRAVITY, the reading in m/s² (text, default 9.81), a trace that jumps when it changes.
+      const v = Number(text ?? '9.81');
+      const hot = v > 10;
+      const col = v === 0 ? '#7FD4FF' : hot ? '#FF5A4A' : '#5BE08A';
+      const base = SCR.y + 470;
+      const pts = Array.from({ length: 28 }).map((_, i) => {
+        const x = SCR.x + 20 + i * 8.6;
+        const lvl = i < 18 ? 9.81 : v;
+        return `${x},${base - Math.min(1, lvl / 80) * 120 - Math.sin(i * 1.7 + t / 3) * 4}`;
+      });
+      return (
+        <g>
+          {bg('#0E1420')}
+          <text x={cx} y={SCR.y + 92} textAnchor="middle" fontFamily={FONT.ui} fontSize={22} letterSpacing={5} fill="#8FA2C0">GRAVITY</text>
+          <text x={cx} y={SCR.y + 250} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={v >= 100 ? 84 : 104} fill={col}>{v.toFixed(v >= 100 ? 0 : 1)}</text>
+          <text x={cx} y={SCR.y + 300} textAnchor="middle" fontFamily={FONT.ui} fontSize={26} fill="#C9D4E6">m/s²</text>
+          <text x={cx} y={SCR.y + 350} textAnchor="middle" fontFamily={FONT.ui} fontSize={22} fill="#8FA2C0">NORMAL 9.8</text>
+          <rect x={SCR.x + 16} y={base - 130} width={SCR.w - 32} height={150} rx={10} fill="#16202E" />
+          <polyline points={pts.join(' ')} fill="none" stroke={col} strokeWidth={5} strokeLinejoin="round" />
+        </g>
+      );
+    }
     case 'off':
       return bg('#07060B');
     case 'home': {

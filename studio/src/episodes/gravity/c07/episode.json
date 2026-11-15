@@ -1,0 +1,74 @@
+{
+ "id": "GravityC07",
+ "slug": "gravity/c07",
+ "chapter": "The top of the hour",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Nine o'clock. Eight times normal."
+  },
+  {
+   "beat": "p2",
+   "text": "In the water, you can breathe. Barely. Your mom, Ellie, Mr. Patel, Biscuit, all floating with just your faces out, staring at the sky."
+  },
+  {
+   "beat": "p3",
+   "text": "The whole street is in that pool. Nobody talks. Breathing takes all you've got."
+  },
+  {
+   "beat": "p3b",
+   "text": "High above you, a plane you can barely see is still coming down, slow and careful, toward the highway. It makes it. Mr. Patel lets out a breath he's been holding for an hour."
+  },
+  {
+   "beat": "p4",
+   "text": "Nine fifty-nine. Ellie squeezes your hand. Sixteen g is coming."
+  },
+  {
+   "beat": "p5",
+   "text": "Ten o'clock."
+  },
+  {
+   "beat": "p6",
+   "text": "And gravity doesn't double."
+  },
+  {
+   "beat": "p7",
+   "text": "It disappears."
+  },
+  {
+   "beat": "p8",
+   "text": "The water lifts out of the pool like a giant wobbling bubble. With all of you still inside it. Floating up. Past the roof. Past the trees."
+  },
+  {
+   "beat": "p9",
+   "text": "And down the street, the whole ocean is starting to rise."
+  },
+  {
+   "beat": "p10",
+   "text": "Is any of this real? The physics is. Your blood really does weigh more as gravity grows. Pilots really do black out at a few g. And water really does push back harder as gravity gets stronger. The sources are in the description."
+  },
+  {
+   "beat": "p11",
+   "text": "But who flipped the switch at ten o'clock? Tell me your theory in the comments. Part two is coming."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

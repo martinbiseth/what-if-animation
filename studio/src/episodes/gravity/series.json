@@ -1,0 +1,105 @@
+{
+ "id": "Gravity",
+ "slug": "gravity",
+ "topic": "What if gravity doubled every hour?",
+ "title": [
+  "WHAT IF GRAVITY",
+  "DOUBLED EVERY HOUR?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "The heavy morning",
+   "words": 130
+  },
+  {
+   "slug": "c02",
+   "name": "The rule",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "The weird hour",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The crawl",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "The top of the hour",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If Gravity Doubled Every Hour?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "what if gravity doubled",
+   "gravity doubled every hour",
+   "double gravity",
+   "gravity",
+   "g force",
+   "what would happen if",
+   "science animation",
+   "animated story",
+   "physics",
+   "survival story",
+   "fighter pilot g force",
+   "blackout g force",
+   "buoyancy",
+   "alternate reality",
+   "cliffhanger",
+   "what if scenarios",
+   "gravity disappeared",
+   "zero gravity"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "At 7 AM, gravity doubles. At 8, it doubles again. Every hour, on the hour, the Earth pulls twice as hard, and nobody knows why. The first hour is hilarious. The second one isn't.",
+  "thumbnail": {
+   "composition": "GravityThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Go back for Ellie, or keep sliding to the pool? 👇 What would you have done?\n\nAnd who flipped the switch at ten o'clock? Best theory gets pinned before Part 2.\n\nThe science checks out: pilots really do grey out at 3 to 4 g, air pressure really would double, and water really does push back harder as gravity grows. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2, and find out what happens when gravity is gone."
+ }
+}

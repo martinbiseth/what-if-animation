@@ -1,0 +1,62 @@
+{
+ "id": "GravityC02",
+ "slug": "gravity/c02",
+ "chapter": "The rule",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's how it works. At exactly seven, gravity got twice as strong. Everywhere on Earth. Every city, every ocean, every mountain, at the same second."
+  },
+  {
+   "beat": "p2",
+   "text": "Nobody knows why. There was no flash, no sound. The Earth didn't get bigger. It's just pulling harder."
+  },
+  {
+   "beat": "p3",
+   "text": "And it's not done. On the hour, every hour, it doubles. Two times normal at seven. Four times at eight. Eight times at nine. Sixteen times at ten."
+  },
+  {
+   "beat": "p4",
+   "text": "You weigh what you weigh times that number. Your backpack too. Your dog too. The air above your head too."
+  },
+  {
+   "beat": "p5",
+   "text": "Your mom steps on the bathroom scale. She looks at the number. She steps off, and never mentions it again."
+  },
+  {
+   "beat": "p6",
+   "text": "Some things don't change. Light still works. Your phone still works. The TV still works, so at least you can watch everyone else panic."
+  },
+  {
+   "beat": "p7",
+   "text": "So remember the rule. It only goes one way. Up. Double, double, double, every sixty minutes."
+  },
+  {
+   "beat": "p8",
+   "text": "That's what everyone believes. Until ten o'clock."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

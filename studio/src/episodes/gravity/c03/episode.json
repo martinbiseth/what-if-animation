@@ -1,0 +1,82 @@
+{
+ "id": "GravityC03",
+ "slug": "gravity/c03",
+ "chapter": "The weird hour",
+ "topic": "What if gravity doubled every hour?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Seven-fifteen. Honestly? The first hour is kind of hilarious."
+  },
+  {
+   "beat": "p2",
+   "text": "You try to jump. Your feet leave the floor for about half as high as they should. Your little sister Ellie tries it too, and lands on her butt, laughing so hard she can't get up. Mostly because getting up is now really, really hard."
+  },
+  {
+   "beat": "p3",
+   "text": "Your mom drops a spoon. It doesn't fall. It slams. Everything falls faster now. Drop a ball from a table, and it hits the floor about thirty percent sooner than it did last night."
+  },
+  {
+   "beat": "p4",
+   "text": "Ellie gets the best idea of the morning. She lets go of a helium balloon from her birthday. It doesn't float up. It rockets up and bonks the ceiling. That's real. Heavier air pushes a balloon up harder."
+  },
+  {
+   "beat": "p5",
+   "text": "Your mom puts water on to boil for tea. It takes forever. The air is pressing down twice as hard now, and water under more pressure boils hotter. Like inside a pressure cooker. Near a hundred and twenty degrees instead of a hundred. That's real too."
+  },
+  {
+   "beat": "p6",
+   "text": "Your best friend Mo calls. 'Bro. Look out the window.'"
+  },
+  {
+   "beat": "p7",
+   "text": "Outside, nobody's walking. Everyone's waddling. Mr. Patel from next door is trying to carry his trash can, and the trash can is winning. A kid on a skateboard is going down the hill twice as fast and screaming the whole way."
+  },
+  {
+   "beat": "p8",
+   "text": "Mo climbs onto his own roof to wave at you, and has to sit down halfway up the ladder."
+  },
+  {
+   "beat": "p9",
+   "text": "'This is the weirdest day of my life,' he says. 'My hair is heavy. Did you know hair could be heavy?'"
+  },
+  {
+   "beat": "p10",
+   "text": "Then the clock in the kitchen clicks to seven fifty-nine. And everybody stops laughing."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Things fall faster: at twice the gravity a dropped ball reaches the floor in about 30% less time.",
+   "working": "Fall time t = sqrt(2h/g). Doubling g divides t by sqrt(2) = 1.41, so t is 71% of before: about 29% sooner.",
+   "source": "Basic mechanics (free fall)"
+  },
+  {
+   "claim": "A helium balloon rises harder in stronger gravity.",
+   "working": "The net lift is (air density - helium density) x volume x g. Doubling g doubles it (and the denser air at higher pressure adds more).",
+   "source": "Archimedes' principle"
+  },
+  {
+   "claim": "With twice the gravity, air pressure at the ground doubles and water boils near 120 °C.",
+   "working": "Air pressure at the ground is the weight of the air above it, so it doubles to about 2 atmospheres. Water boils at about 120 °C at 2 bar, as in a pressure cooker.",
+   "source": "Engineering ToolBox, 'Water - Boiling Points at Higher Pressure'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
