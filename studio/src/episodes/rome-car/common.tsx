@@ -167,7 +167,7 @@ export const DarkBg: SetFC = ({ t }) => (
 // ---------------------------------------------------------------- schematic icons
 // Line icons in the schematic's cream ink, about 200 units across, centred on (0, 0).
 const IC = { line: '#F6EFE3', live: '#FF8A3D', sw: 9 };
-export type IconName = 'battery' | 'generator' | 'solar' | 'watch' | 'bike' | 'boat' | 'train' | 'clock' | 'wire' | 'chip' | 'screen' | 'brain' | 'heart' | 'photo' | 'message' | 'game' | 'fire' | 'plug' | 'tower' | 'pump' | 'tap' | 'fridge' | 'truck' | 'fuel' | 'factory' | 'tractor' | 'reactor' | 'radio' | 'phone' | 'wheat';
+export type IconName = 'battery' | 'generator' | 'solar' | 'watch' | 'bike' | 'boat' | 'train' | 'clock' | 'wire' | 'chip' | 'screen' | 'brain' | 'heart' | 'photo' | 'message' | 'game' | 'fire' | 'plug' | 'tower' | 'pump' | 'tap' | 'fridge' | 'truck' | 'fuel' | 'factory' | 'tractor' | 'reactor' | 'radio' | 'phone' | 'wheat' | 'car' | 'chips' | 'music' | 'horse' | 'drop' | 'tire' | 'oil' | 'refinery' | 'still' | 'scroll' | 'globe' | 'nail';
 export const Icon: React.FC<{ name: IconName; x: number; y: number; s?: number; live?: number; t?: number }> = ({ name, x, y, s = 1, live = 0, t = 0 }) => {
   const c = live > 0 ? IC.live : IC.line;
   const p = { stroke: c, strokeWidth: IC.sw, fill: 'none', strokeLinecap: 'round' as const, strokeLinejoin: 'round' as const };
@@ -200,6 +200,18 @@ export const Icon: React.FC<{ name: IconName; x: number; y: number; s?: number; 
     tractor: <g><circle cx={-50} cy={30} r={50} {...p} /><circle cx={70} cy={50} r={30} {...p} /><path d="M -50 -20 L -50 -90 L 20 -90 L 30 -20 L 100 -20 L 100 30" {...p} /></g>,
     reactor: <g><path d="M -70 90 Q -40 0 -60 -90 L 60 -90 Q 40 0 70 90 Z" {...p} /><path d={`M -20 -110 Q -40 -130 -20 -150`} {...p} strokeWidth={5} /></g>,
     radio: <g><rect x={-100} y={-50} width={200} height={110} rx={12} {...p} /><circle cx={-40} cy={5} r={30} {...p} /><path d="M 30 -10 L 80 -10 M 30 20 L 80 20 M 60 -50 L 100 -100" {...p} /></g>,
+    car: <g><path d="M -120 30 L -120 -10 Q -116 -26 -96 -28 L -60 -70 L 50 -70 L 90 -28 Q 118 -24 120 0 L 120 30 Z" {...p} /><circle cx={-66} cy={34} r={24} {...p} /><circle cx={66} cy={34} r={24} {...p} /><path d="M -50 -30 L -36 -58 L 0 -58 L 0 -30 M 14 -30 L 14 -58 L 44 -58 L 70 -30" {...p} /></g>,
+    chips: <g><path d="M -60 -90 L 60 -90 L 50 90 L -50 90 Z M -60 -60 L 60 -60" {...p} /><path d="M -20 -10 Q 0 -30 20 -10 Q 0 10 -20 -10" {...p} /></g>,
+    music: <g><path d="M -40 60 L -40 -60 L 60 -80 L 60 40" {...p} /><circle cx={-62} cy={60} r={22} {...p} /><circle cx={38} cy={40} r={22} {...p} /></g>,
+    horse: <g><path d="M -90 60 L -80 -10 Q -60 -40 20 -40 L 50 -90 L 90 -70 L 70 -40 L 60 20 L 70 60 M -60 0 L -70 60 M 40 0 L 30 60" {...p} /></g>,
+    drop: <g><path d="M 0 -100 Q 60 -10 60 30 Q 60 90 0 90 Q -60 90 -60 30 Q -60 -10 0 -100 Z" {...p} /></g>,
+    tire: <g><circle r={90} {...p} /><circle r={45} {...p} /><path d="M 0 -90 L 0 -70 M 0 90 L 0 70 M -90 0 L -70 0 M 90 0 L 70 0" {...p} /></g>,
+    oil: <g><path d="M -20 0 Q -60 -60 -30 -110 L 30 -110 Q 60 -60 20 0 Z M -30 -110 L -36 -130 L 36 -130 L 30 -110" {...p} transform="translate(0 50)" /></g>,
+    refinery: <g><path d="M -110 80 L -110 -20 L -60 -20 L -60 80 M -40 80 L -40 -80 L 0 -80 L 0 80 M 20 80 L 20 0 L 110 0 L 110 80 M -120 80 L 120 80" {...p} /><path d="M -20 -100 q 20 -30 0 -50" {...p} /></g>,
+    still: <g><circle cx={-50} cy={30} r={50} {...p} /><path d="M -50 -20 L -50 -60 Q -50 -80 -20 -80 L 90 -20 L 90 60" {...p} /><path d="M 70 60 L 110 60" {...p} /></g>,
+    scroll: <g><rect x={-80} y={-70} width={160} height={140} {...p} /><path d="M -95 -80 L -95 80 M 95 -80 L 95 80 M -50 -30 L 50 -30 M -50 0 L 40 0 M -50 30 L 30 30" {...p} /></g>,
+    globe: <g><circle r={95} {...p} /><ellipse rx={40} ry={95} {...p} /><path d="M -95 0 L 95 0 M -80 -50 L 80 -50 M -80 50 L 80 50" {...p} /></g>,
+    nail: <g><path d="M -50 -60 Q -40 -100 0 -100 Q 40 -100 50 -60 Z M -10 -60 L -6 80 L 0 100 L 6 80 L 10 -60" {...p} /></g>,
     phone: <g><rect x={-50} y={-90} width={100} height={180} rx={16} {...p} /><path d="M -14 70 L 14 70" {...p} /></g>,
     wheat: <g><path d="M 0 100 L 0 -100" {...p} />{[-70, -40, -10, 20].map((k) => <path key={k} d={`M 0 ${k} Q -30 ${k - 20} -36 ${k - 46} M 0 ${k} Q 30 ${k - 20} 36 ${k - 46}`} {...p} />)}</g>,
   };
@@ -259,3 +271,173 @@ export const iconBoard = (o: { items: { name: IconName; label?: string; at: numb
   };
   return Shot;
 };
+
+// ---------------------------------------------------------------- rome-car builders
+import { Car, CarFront, Country, GROUND, romeHip, Windscreen, RoadView, Mode, P0 as INKLINE, FuelGauge, chariotStand } from './sets';
+
+/** You and Mo inside the car, seen through the side windows (car-local coordinates; the car's flip mirrors them). */
+export const CarHeads: React.FC<{ t: number; you?: Partial<Pose>; mo?: Partial<Pose> | null; f?: number; words?: Word[]; youTalk?: [number, number][]; moTalk?: [number, number][] }> = ({ t, you = {}, mo = {}, f = 0, words, youTalk, moTalk }) => (
+  <g>
+    {mo ? <Hero look={MO} pose={{ ...basePose, x: -150, y: -128, scale: 0.62, yaw: 0.5, look: 0.6, blink: idleBlink(t, 4), talk: words && moTalk ? talkAt(words, f, 30, moTalk) : 0, ...mo }} shadow={0} /> : null}
+    <Hero look={YOU} pose={{ ...basePose, x: 110, y: -132, scale: 0.62, yaw: 0.6, look: 0.6, blink: idleBlink(t, 2), talk: words && youTalk ? talkAt(words, f, 30, youTalk) : 0, ...you }} shadow={0} />
+  </g>
+);
+
+export type CarSpec = {
+  x: [number, number]; // world x from .. to over the shot
+  s?: number; flip?: boolean; lights?: number; high?: number; brake?: number; sunroof?: boolean; dust?: number; dirt?: number; flat?: number;
+  heads?: boolean; you?: Partial<Pose>; mo?: Partial<Pose> | null; moUp?: Partial<Pose>; // moUp: Mo standing through the sunroof
+  bounce?: number; color?: string; ease?: 'lin' | 'io'; cast?: (t: number) => React.ReactNode;
+};
+/** The car in a set, side-on, moving from x[0] to x[1] with turning wheels; the set scrolls by `scroll` px a frame. */
+export const DrivingCar: React.FC<{ c: CarSpec; t: number; len: number; f?: number; words?: Word[] }> = ({ c, t, len, f = 0, words }) => {
+  const L = Math.max(len, 1);
+  const p = c.ease === 'io' ? kf(t, [[0, 0], [L, 1]]) : clamp(t / L);
+  const x = c.x[0] + (c.x[1] - c.x[0]) * p;
+  const s = c.s ?? 1;
+  const v = Math.abs(c.x[1] - c.x[0]) / L;
+  const spin = (t * (v + 4)) * 1.2 * (c.flip ? -1 : 1);
+  const bounce = (c.bounce ?? 0) * Math.abs(Math.sin(t / 2.2));
+  const roofX = x + (c.flip ? 50 : -50) * s;
+  return (
+    <g>
+      {c.moUp ? <Hero look={MO} pose={{ ...basePose, x: roofX, y: GROUND - 300 * s - bounce * s, scale: 0.9 * s, yaw: c.flip ? -0.3 : 0.3, blink: idleBlink(t, 4), ...c.moUp }} shadow={0} /> : null}
+      <Car x={x} y={GROUND} s={s} flip={c.flip} lights={c.lights} high={c.high} brake={c.brake} sunroof={c.sunroof || !!c.moUp} dust={c.dust} dirt={c.dirt} flat={c.flat} spin={spin} bounce={bounce} color={c.color} t={t} id={`car${Math.round(c.x[0])}`}
+        inside={c.cast ? c.cast(t) : c.heads !== false ? <CarHeads t={t} f={f} words={words} you={c.you} mo={c.moUp ? null : c.mo} /> : null} />
+    </g>
+  );
+};
+
+/** A tracking shot: a set (given the scroll offset) with the car driving through it and a camera move. */
+export const carShot = (o: {
+  Bg: (t: number, scroll: number) => React.ReactNode; car: CarSpec; scroll?: number; cam?: { from: [number, number, number]; to?: [number, number, number] };
+  words?: Word[]; back?: (t: number) => React.ReactNode; front?: (t: number) => React.ReactNode; shakeAmp?: number;
+}): React.FC<ShotProps> => {
+  const Shot: React.FC<ShotProps> = ({ t, len, f }) => {
+    const [cx0, cy0, z0] = o.cam?.from ?? [960, 560, 1];
+    const [cx1, cy1, z1] = o.cam?.to ?? [cx0, cy0, z0];
+    const L = Math.max(len, 1);
+    const sh = o.shakeAmp ? Math.sin(t * 1.9) * o.shakeAmp : 0;
+    return (
+      <g transform={camT(kf(t, [[0, cx0], [L, cx1]]) + sh, kf(t, [[0, cy0], [L, cy1]]) + sh * 0.6, kf(t, [[0, z0], [L, z1]]))}>
+        {o.Bg(t, (o.scroll ?? 0) * t)}
+        {o.back?.(t)}
+        <DrivingCar c={o.car} t={t} len={len} f={f} words={o.words} />
+        {o.front?.(t)}
+      </g>
+    );
+  };
+  return Shot;
+};
+
+/** The backs of your head (orange hood) and Mo's (curls), for the windscreen view. */
+export const BackHeads: React.FC<{ t: number; mo?: number; moPoint?: number; youTurn?: number; moTurn?: number }> = ({ t, mo = 1, moPoint = 0, youTurn = 0, moTurn = 0 }) => (
+  <g>
+    <g transform={`translate(${520 + youTurn * 20} 700)`}>
+      <path d="M -170 400 Q -180 120 0 100 Q 180 120 170 400 Z" fill="#F07A2A" stroke={INKLINE} strokeWidth={6} />
+      <circle cx={0} cy={0} r={150} fill="#F07A2A" stroke={INKLINE} strokeWidth={6} />
+      <circle cx={youTurn * 50} cy={10} r={110} fill="#26232F" opacity={youTurn > 0.3 ? 1 : 0} />
+    </g>
+    {mo > 0 ? (
+      <g transform={`translate(${1420 - moTurn * 20} 720)`}>
+        <path d="M -160 400 Q -170 130 0 110 Q 170 130 160 400 Z" fill="#4E7A4A" stroke={INKLINE} strokeWidth={6} />
+        <circle cx={0} cy={0} r={140} fill="#26232F" stroke={INKLINE} strokeWidth={6} />
+        {[-150, -120, -90, -60, -30, 0, 30, 60, 90, 120, 150, 180].map((d, k) => {
+          const a = ((d - 90) * Math.PI) / 180;
+          return <circle key={k} cx={Math.cos(a) * 130} cy={Math.sin(a) * 120 - 10} r={44} fill="#17131C" />;
+        })}
+        <path d="M -150 30 Q 0 -60 150 30" stroke="#E06A5A" strokeWidth={16} fill="none" />
+        {moPoint > 0 ? (
+          <g>
+            <path d={`M 120 160 L ${120 + moPoint * 120} ${160 - moPoint * 420}`} stroke={INKLINE} strokeWidth={60} strokeLinecap="round" />
+            <path d={`M 120 160 L ${120 + moPoint * 120} ${160 - moPoint * 420}`} stroke="#4E7A4A" strokeWidth={48} strokeLinecap="round" />
+            <circle cx={120 + moPoint * 128} cy={160 - moPoint * 450} r={34} fill="#26232F" stroke={INKLINE} strokeWidth={5} />
+          </g>
+        ) : null}
+      </g>
+    ) : null}
+  </g>
+);
+
+/** The view through the windscreen: the road ahead, the dashboard, the backs of your heads. */
+export const povShot = (o: { kind?: 'modern' | 'dirt' | 'stone'; mode?: Mode; speed?: number; city?: [number, number]; beams?: number; gps?: string; shake?: number; mo?: number; moPoint?: (t: number) => number; scene?: (t: number) => React.ReactNode; zoom?: [number, number] }): React.FC<ShotProps> => {
+  const Shot: React.FC<ShotProps> = ({ t, len }) => {
+    const z = kf(t, [[0, o.zoom?.[0] ?? 1], [Math.max(len, 1), o.zoom?.[1] ?? 1.04]]);
+    return (
+      <g transform={camT(960, 540, z)}>
+        <Windscreen t={t} shake={o.shake ?? 2} gps={o.gps} you={<BackHeads t={t} mo={o.mo ?? 1} moPoint={o.moPoint?.(t) ?? 0} />}>
+          {o.scene ? o.scene(t) : <RoadView t={t} kind={o.kind} mode={o.mode} speed={o.speed} city={o.city ? kf(t, [[0, o.city[0]], [Math.max(len, 1), o.city[1]]]) : 0} beams={o.beams} />}
+        </Windscreen>
+      </g>
+    );
+  };
+  return Shot;
+};
+
+/** A prop insert: anything drawn in screen space over a soft set (or a dark ground), with a slow push. */
+export const insert = (o: { Bg?: SetFC; draw: (t: number, len: number) => React.ReactNode; zoom?: [number, number]; dim?: number }): React.FC<ShotProps> => {
+  const Shot: React.FC<ShotProps> = ({ t, len }) => (
+    <g>
+      {o.Bg ? (
+        <Soft blur={16} dim={o.dim ?? 0.35}>
+          <o.Bg t={t + 300} id="ins" />
+        </Soft>
+      ) : (
+        <DarkBg t={t} />
+      )}
+      <g transform={camT(960, 540, kf(t, [[0, o.zoom?.[0] ?? 1], [Math.max(len, 1), o.zoom?.[1] ?? 1.06]]))}>{o.draw(t, len)}</g>
+    </g>
+  );
+  return Shot;
+};
+
+/** The fuel gauge, big, the needle moving from p0 to p1 over the shot; `warn` blinks the lamp. */
+export const fuelShot = (p0: number, p1: number, warn = 0, Bg?: SetFC): React.FC<ShotProps> =>
+  insert({ Bg, zoom: [1, 1.08], draw: (t, len) => <FuelGauge x={960} y={560} s={1.7} p={kf(t, [[0, p0], [Math.min(len, 45), p1]])} warn={warn} t={t} /> });
+
+/** A chapter card over a Roman set: kicker and title popping on, a slow push. */
+export const romeCard = (o: { kicker?: string; title: string; Bg: SetFC }): React.FC<ShotProps> => {
+  const Shot: React.FC<ShotProps> = ({ t, len }) => {
+    const pop = (d: number) => backOut(clamp((t - d) / 9));
+    return (
+      <g>
+        <g transform={camT(960, 540, kf(t, [[0, 1], [Math.max(len, 1), 1.06]]))}>
+          <o.Bg t={t + 200} id="card" />
+        </g>
+        <rect width={1920} height={1080} fill="#0E0C1E" opacity={0.4} />
+        {o.kicker ? (
+          <g transform={`translate(960 420) scale(${pop(2)})`}>
+            <text textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={8} fill="#FF8A3D">{o.kicker}</text>
+          </g>
+        ) : null}
+        <g transform={`translate(960 560) scale(${pop(5)})`}>
+          <text textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={o.title.length > 18 ? 100 : 130} fill="#F6EFE3" stroke="#1A1230" strokeWidth={12} paintOrder="stroke">{o.title}</text>
+        </g>
+      </g>
+    );
+  };
+  return Shot;
+};
+
+/** Someone standing on the ground line of an exterior set. */
+export const onGround = (x: number, s = 1, o: Partial<Pose> = {}): Pose => ({ ...basePose, x, y: romeHip(s), scale: s, ...o });
+export { CarFront, Country, GROUND, romeHip, chariotStand };
+
+import { Horse, Chariot, Crowd as CrowdRow } from './sets';
+/** A four-horse racing chariot facing right: two pairs of galloping horses (the far pair darker, up and right), the chariot and the charioteer. x the chariot axle, y the ground. */
+export const ChariotTeam: React.FC<{ x: number; y: number; s?: number; t: number; run?: number; driver?: Partial<Pose> }> = ({ x, y, s = 1, t, run = 1, driver = {} }) => {
+  const ph = t * 0.55 * run;
+  const st = chariotStand(x, y, s);
+  return (
+    <g>
+      <Horse x={x + 420 * s} y={y - 18 * s} s={0.62 * s} run={run ? ph + 1.3 : 0} color="#5A3A26" />
+      <Horse x={x + 640 * s} y={y - 18 * s} s={0.62 * s} run={run ? ph + 2.1 : 0} color="#4A3022" />
+      <Hero look={CHARIOTEER} pose={{ ...basePose, ...st, yaw: 0.6, look: 0.6, tilt: 8, armR: { a: 70, b: -20 }, armL: { a: 60, b: -10 }, expr: 'smug', blink: idleBlink(t, 6), ...driver }} shadow={0} />
+      <Chariot x={x} y={y} s={0.9 * s} spin={ph * 40} />
+      <Horse x={x + 380 * s} y={y} s={0.62 * s} run={run ? ph : 0} color="#7A4A2E" />
+      <Horse x={x + 600 * s} y={y} s={0.62 * s} run={run ? ph + 0.7 : 0} color="#8A5A36" />
+      <path d={`M ${x + 30 * s} ${st.y - 30 * s} L ${x + 560 * s} ${y - 290 * s} M ${x + 30 * s} ${st.y - 20 * s} L ${x + 780 * s} ${y - 290 * s}`} stroke="#3A2614" strokeWidth={3 * s} />
+    </g>
+  );
+};
+export { CrowdRow };

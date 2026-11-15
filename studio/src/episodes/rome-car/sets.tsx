@@ -361,7 +361,7 @@ export const Car: React.FC<{
  * (two heads: driver on the left of frame for a right-hand-traffic car is on screen right, but keep it simple: you
  * on the left, Mo on the right). `lights` 0..1, `high` puts flares on.
  */
-export const CarFront: React.FC<{ x: number; y: number; s?: number; color?: string; lights?: number; high?: number; inside?: React.ReactNode; id?: string; bounce?: number }> = ({ x, y, s = 1, color = CAR_RED, lights = 0, high = 0, inside, id = 'cf', bounce = 0 }) => (
+export const CarFront: React.FC<{ x: number; y: number; s?: number; color?: string; lights?: number; high?: number; inside?: React.ReactNode; id?: string; bounce?: number; wipe?: number }> = ({ x, y, s = 1, color = CAR_RED, lights = 0, high = 0, inside, id = 'cf', bounce = 0, wipe }) => (
   <g transform={`translate(${x} ${y}) scale(${s})`}>
     <ellipse cx={0} cy={0} rx={250} ry={22} fill="#000" opacity={0.35} />
     {[-1, 1].map((sd) => (
@@ -380,6 +380,13 @@ export const CarFront: React.FC<{ x: number; y: number; s?: number; color?: stri
         <path d="M -60 -308 L -20 -308 L -90 -216 L -130 -216 Z" fill="#FFFFFF" opacity={0.13} />
       </g>
       <path d="M -150 -216 L -118 -296 Q -106 -308 -80 -308 L 80 -308 Q 106 -308 118 -296 L 150 -216 Z" fill="none" stroke={P0} strokeWidth={6} />
+      {wipe !== undefined
+        ? [-70, 60].map((px) => {
+            const ang = -80 + 70 * (0.5 - 0.5 * Math.cos(wipe * Math.PI * 2));
+            const r = (ang * Math.PI) / 180;
+            return <path key={px} d={`M ${px} -220 L ${px + Math.cos(r) * 120} ${-220 + Math.sin(r) * 120}`} stroke="#0A0A10" strokeWidth={8} strokeLinecap="round" />;
+          })
+        : null}
       {[-1, 1].map((sd) => (
         <path key={`m${sd}`} d={`M ${sd * 160} -222 L ${sd * 210} -240 L ${sd * 214} -214 L ${sd * 166} -206 Z`} fill={color} stroke={P0} strokeWidth={4} />
       ))}
@@ -455,11 +462,11 @@ export const Windscreen: React.FC<{ t: number; children: React.ReactNode; shake?
             <Glow x={960} y={780} r={160} kind="cool" o={0.4} />
           </g>
         ) : null}
+        {/* steering wheel, left, in front of the driver: from behind the seat we see the head over it */}
+        <circle cx={520} cy={760} r={170} fill="none" stroke="#141218" strokeWidth={30} />
+        <path d="M 360 780 L 680 780" stroke="#141218" strokeWidth={26} />
         {you}
         {mo}
-        {/* steering wheel, left */}
-        <circle cx={520} cy={900} r={170} fill="none" stroke="#141218" strokeWidth={30} />
-        <path d="M 360 920 L 680 920" stroke="#141218" strokeWidth={26} />
       </g>
     </g>
   );
@@ -977,5 +984,122 @@ export const Tracks: React.FC<{ x: number; y: number; t: number; reveal?: number
         })}
       </g>
     ))}
+  </g>
+);
+
+// ---------------------------------------------------------------- the road ahead (for the windscreen)
+/**
+ * The road ahead in one-point perspective, for the view through the windscreen: sky, hills, the road narrowing to the
+ * horizon with its markings rushing toward camera at `speed`. kind: a modern asphalt road with lane lines, a dirt
+ * track, or a Roman stone road. `city` puts the marble city and the aqueduct on the horizon.
+ */
+export const RoadView: React.FC<{ t: number; id?: string; kind?: 'modern' | 'dirt' | 'stone'; mode?: Mode; speed?: number; city?: number; beams?: number }> = ({
+  t, id = 'rv', kind = 'modern', mode = 'day', speed = 1, city = 0, beams = 0,
+}) => {
+  const H = HILL[mode];
+  const hz = 470;
+  const road = kind === 'modern' ? (mode === 'night' ? '#1A1A24' : '#4A4A52') : kind === 'stone' ? (mode === 'night' ? '#262838' : '#8E8678') : mode === 'night' ? '#2A2630' : '#C4A272';
+  const run = t * 0.025 * speed;
+  return (
+    <g>
+      <Sky id={id} mode={mode} t={t} sunX={1300} sunY={mode === 'dusk' ? 430 : 200} />
+      <Hills y={hz} amp={60} seed={2} color={H[0]} />
+      {city > 0 ? (
+        <g opacity={city}>
+          <Aqueduct x0={-200} x1={2200} y={hz} h={90} mode={mode} />
+          <FarCity x={1200} y={hz - 20} s={0.6} mode={mode} lit={mode === 'night' ? 1 : 0} />
+        </g>
+      ) : null}
+      <Hills y={hz + 30} amp={30} seed={5} color={H[1]} />
+      <rect x={-600} y={hz + 20} width={3100} height={1200} fill={kind === 'modern' ? H[2] : H[3]} />
+      <path d={`M 900 ${hz + 10} L 1020 ${hz + 10} L 2400 1400 L -480 1400 Z`} fill={road} />
+      {kind === 'modern'
+        ? Array.from({ length: 10 }).map((_, i) => {
+            const k = (i / 10 + run) % 1;
+            const z = Math.pow(k, 2.4);
+            const y = hz + 10 + z * 900;
+            const w = 4 + z * 40;
+            return <rect key={i} x={960 - w / 2} y={y} width={w} height={8 + z * 140} fill="#F2F0E2" opacity={0.85} />;
+          })
+        : Array.from({ length: 18 }).map((_, i) => {
+            const k = (i / 18 + run) % 1;
+            const z = Math.pow(k, 2.4);
+            const y = hz + 14 + z * 900;
+            const half = 60 + z * 1440;
+            return kind === 'stone' ? (
+              <path key={i} d={`M ${960 - half} ${y} L ${960 + half} ${y}`} stroke="#000" strokeOpacity={0.18} strokeWidth={2 + z * 8} />
+            ) : (
+              <ellipse key={i} cx={960 + Math.sin(i * 2.3) * half * 0.6} cy={y} rx={4 + z * 60} ry={1 + z * 12} fill="#000" opacity={0.12} />
+            );
+          })}
+      {/* roadside cypresses rushing past */}
+      {kind !== 'modern'
+        ? Array.from({ length: 6 }).map((_, i) => {
+            const k = (i / 6 + run * 0.8) % 1;
+            const z = Math.pow(k, 2.6);
+            return [-1, 1].map((sd) => (
+              <Cypress key={`${i}${sd}`} x={960 + sd * (160 + z * 2600)} y={hz + 20 + z * 700} h={40 + z * 1400} color={mode === 'night' ? '#0E1220' : '#2E3A26'} />
+            ));
+          })
+        : Array.from({ length: 6 }).map((_, i) => {
+            const k = (i / 6 + run * 0.8) % 1;
+            const z = Math.pow(k, 2.6);
+            return [-1, 1].map((sd) => (
+              <path key={`${i}${sd}`} d={`M ${960 + sd * (140 + z * 2400)} ${hz + 20 + z * 700} l 0 ${-(20 + z * 500)}`} stroke="#C8C8CC" strokeWidth={2 + z * 30} />
+            ));
+          })}
+      {beams > 0 ? (
+        <g opacity={beams}>
+          <path d={`M 300 1100 L 900 ${hz + 20} L 1020 ${hz + 20} L 1620 1100 Z`} fill="#FFF6D0" opacity={0.22} />
+          <Glow x={960} y={hz + 200} r={500} o={0.5} />
+        </g>
+      ) : null}
+      {mode === 'night' ? <rect x={-600} y={-500} width={3100} height={2100} fill="#03040E" opacity={0.25 * (1 - beams * 0.5)} /> : null}
+    </g>
+  );
+};
+
+/** The car's satnav screen, close: a map with a route line and a status line (`text`), or `lost` for a blank grid. */
+export const Gps: React.FC<{ x: number; y: number; s?: number; text: string; t: number; lost?: number }> = ({ x, y, s = 1, text, t, lost = 0 }) => (
+  <g transform={`translate(${x} ${y}) scale(${s})`}>
+    <rect x={-420} y={-260} width={840} height={520} rx={40} fill="#0C0C12" stroke="#2A2A34" strokeWidth={16} />
+    <rect x={-380} y={-220} width={760} height={440} rx={14} fill="#16263A" />
+    <g opacity={1 - lost}>
+      {[-300, -150, 0, 150, 300].map((gx) => <path key={gx} d={`M ${gx} -220 L ${gx + 60} 220`} stroke="#2A4462" strokeWidth={10} />)}
+      {[-120, 0, 120].map((gy) => <path key={gy} d={`M -380 ${gy} L 380 ${gy - 30}`} stroke="#2A4462" strokeWidth={10} />)}
+      <path d="M 0 200 L 10 40 Q 30 -60 160 -140" stroke="#3AA0FF" strokeWidth={18} fill="none" strokeLinecap="round" />
+    </g>
+    {lost > 0 ? <rect x={-380} y={-220} width={760} height={440} rx={14} fill="#10141C" opacity={lost} /> : null}
+    <path d="M 0 150 L -26 200 L 0 186 L 26 200 Z" fill="#F6EFE3" />
+    <rect x={-380} y={-220} width={760} height={80} fill="#0A1420" opacity={0.85} />
+    <text x={0} y={-166} textAnchor="middle" fontFamily={FONT.ui} fontSize={44} fill="#7FD0FF" opacity={0.6 + 0.4 * Math.abs(Math.sin(t / 8))}>{text}</text>
+    <Glow x={0} y={0} r={500} kind="cool" o={0.35} />
+  </g>
+);
+
+/** A brand-new driving licence card, held up. */
+export const Licence: React.FC<{ x: number; y: number; s?: number; rot?: number }> = ({ x, y, s = 1, rot = 0 }) => (
+  <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${s})`}>
+    <rect x={-120} y={-76} width={240} height={152} rx={14} fill="#E8EEF6" stroke={P0} strokeWidth={5} />
+    <rect x={-120} y={-76} width={240} height={36} rx={14} fill="#3A6ACF" />
+    <text x={0} y={-50} textAnchor="middle" fontFamily={FONT.ui} fontSize={20} fill="#FFFFFF">DRIVING LICENCE</text>
+    <rect x={-100} y={-26} width={70} height={86} rx={6} fill="#26232F" />
+    <circle cx={-65} cy={0} r={20} fill="#3A3646" />
+    {[-14, 6, 26, 46].map((ly) => <rect key={ly} x={-14} y={ly} width={100 - (ly % 3) * 10} height={8} rx={4} fill="#8A96AA" />)}
+  </g>
+);
+
+/** Music notes rising from a point (a phone playing). */
+export const Notes: React.FC<{ x: number; y: number; t: number; s?: number; n?: number }> = ({ x, y, t, s = 1, n = 4 }) => (
+  <g>
+    {Array.from({ length: n }).map((_, i) => {
+      const p = ((t / 40 + i / n) % 1);
+      return (
+        <g key={i} transform={`translate(${x + Math.sin(p * 6 + i) * 40 * s + i * 20 * s} ${y - p * 260 * s}) scale(${s})`} opacity={1 - p}>
+          <circle cx={0} cy={0} r={12} fill="#FFD23A" stroke={P0} strokeWidth={3} />
+          <path d="M 10 0 L 10 -44 L 30 -36" stroke={P0} strokeWidth={5} fill="none" />
+        </g>
+      );
+    })}
   </g>
 );

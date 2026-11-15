@@ -61,17 +61,302 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
+   "set": "gate",
+   "key": 20,
+   "note": "a dozen soldiers at the gate, spears levelled at the car"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "set": "gate",
+   "key": 20,
+   "note": "the car head-on: HONK, sound waves"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "gate",
    "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "the soldiers drop their spears and hit the ground"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "Mo laughing so hard he cries"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "gate",
+   "key": 20,
+   "note": "the soldiers kneel and bow to the car"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "schematic",
+   "key": 40,
+   "note": "CAESAR'S LAW: NO CARTS BY DAY"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "forum",
+   "key": 20,
+   "note": "an official runs after the car waving a wax tablet"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "set": "forum",
+   "key": 20,
+   "note": "the official, baffled: is it a cart?"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "forum",
+   "key": 20,
+   "note": "the car rolls through the Forum, crowds following"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "forum",
+   "key": 20,
+   "note": "music from the car, the crowd dancing badly"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "forum",
+   "key": 20,
+   "note": "a senator at the window holding up a bag of gold"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "forum",
+   "key": 20,
+   "note": "the senator riding in the car, delighted"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "street",
+   "key": 20,
+   "note": "kids running alongside the car"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "the windscreen wipers sweep"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "Mo, amazed by the wipers too"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "forum",
+   "key": 20,
+   "note": "Rome at night: torches and the moon"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "forum",
+   "key": 12,
+   "note": "headlights switch on: the street lit white"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "forum",
+   "key": 10,
+   "note": "a thousand people scream"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "circus",
+   "key": 20,
+   "note": "the Circus Maximus"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "fact: 150,000 seats"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "circus",
+   "key": 20,
+   "note": "the charioteer points at you: race"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "circus",
+   "key": 20,
+   "note": "four horses beside the car at the start"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "set": "circus",
+   "key": 20,
+   "note": "the chariot leads, the car cruising behind"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "set": "circus",
+   "key": 20,
+   "note": "the car roars past"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "set": "circus",
+   "key": 20,
+   "note": "lap counters, the car far ahead, the crowd up"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "set": "circus",
+   "key": 20,
+   "note": "Mo up through the sunroof: WE'RE LEGENDS"
+  },
+  {
+   "id": "S27",
+   "size": "insert",
+   "set": "car",
+   "key": 40,
+   "note": "the fuel gauge at half"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "honk"
+  },
+  {
+   "shot": "S3",
+   "at": "Every"
+  },
+  {
+   "shot": "S4",
+   "at": "Mo"
+  },
+  {
+   "shot": "S5",
+   "at": "They"
+  },
+  {
+   "shot": "S6",
+   "at": "Julius"
+  },
+  {
+   "shot": "S7",
+   "at": "official"
+  },
+  {
+   "shot": "S8",
+   "at": "Is"
+  },
+  {
+   "shot": "S9",
+   "at": "roll"
+  },
+  {
+   "shot": "S10",
+   "at": "plugs"
+  },
+  {
+   "shot": "S11",
+   "at": "senator"
+  },
+  {
+   "shot": "S12",
+   "at": "take"
+  },
+  {
+   "shot": "S13",
+   "at": "Kids"
+  },
+  {
+   "shot": "S14",
+   "at": "show"
+  },
+  {
+   "shot": "S15",
+   "at": "Honestly"
+  },
+  {
+   "shot": "S16",
+   "at": "night"
+  },
+  {
+   "shot": "S17",
+   "at": "switch"
+  },
+  {
+   "shot": "S18",
+   "at": "thousand"
+  },
+  {
+   "shot": "S19",
+   "at": "big"
+  },
+  {
+   "shot": "S20",
+   "at": "Up"
+  },
+  {
+   "shot": "S21",
+   "at": "best"
+  },
+  {
+   "shot": "S22",
+   "at": "Four"
+  },
+  {
+   "shot": "S23",
+   "at": "let"
+  },
+  {
+   "shot": "S24",
+   "at": "put"
+  },
+  {
+   "shot": "S25",
+   "at": "win"
+  },
+  {
+   "shot": "S26",
+   "at": "stands"
+  },
+  {
+   "shot": "S27",
+   "at": "look"
   }
  ],
- "end": "f:90",
  "fx": []
 }

@@ -1,27 +1,214 @@
 {
  "slug": "rome-car/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1848,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 146,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 146,
+   "line": "Here's where you are Rome the year one thirteen The"
+  },
+  {
+   "shot": "S2",
+   "a": 146,
+   "b": 296,
+   "t0": 0,
+   "t1": 150,
+   "line": "emperor Trajan rules everything from the Atlantic to the Red Sea"
+  },
+  {
+   "shot": "S3",
+   "a": 296,
+   "b": 499,
+   "t0": 0,
+   "t1": 203,
+   "line": "And Rome is the biggest city on Earth with maybe a million people That's real"
+  },
+  {
+   "shot": "S4",
+   "a": 499,
+   "b": 953,
+   "t0": 0,
+   "t1": 454,
+   "line": "Here's what you've got One ordinary car A full tank enough for about six hundred kilometers Two phones with no signal A charger Half a bag of chips And Mo's playlist"
+  },
+  {
+   "shot": "S5",
+   "a": 953,
+   "b": 1140,
+   "t0": 0,
+   "t1": 187,
+   "line": "The car works perfectly The engine the lights the horn the speakers"
+  },
+  {
+   "shot": "S6",
+   "a": 1140,
+   "b": 1229,
+   "t0": 0,
+   "t1": 89,
+   "line": "Nothing in this world can stop it"
+  },
+  {
+   "shot": "S7",
+   "a": 1229,
+   "b": 1296,
+   "t0": 0,
+   "t1": 67,
+   "line": "But here's the rule The"
+  },
+  {
+   "shot": "S8",
+   "a": 1296,
+   "b": 1427,
+   "t0": 0,
+   "t1": 131,
+   "line": "nearest gas station is about eighteen hundred years away"
+  },
+  {
+   "shot": "S9",
+   "a": 1427,
+   "b": 1539,
+   "t0": 0,
+   "t1": 112,
+   "line": "Every drop of fuel you burn is gone forever"
+  },
+  {
+   "shot": "S10",
+   "a": 1539,
+   "b": 1649,
+   "t0": 0,
+   "t1": 110,
+   "line": "And one more thing As far as you know"
+  },
+  {
+   "shot": "S11",
+   "a": 1649,
+   "b": 1793,
+   "t0": 0,
+   "t1": 144,
+   "line": "yours is the only engine on the planet The only one"
+  },
+  {
+   "shot": "S12",
+   "a": 1793,
+   "b": 1848,
+   "t0": 0,
+   "t1": 55,
+   "line": "Remember that"
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 20,
+   "len": 146,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's where you are Rome the year one thirteen The",
+   "note": "card: ROME, AD 113 over the Forum"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 150,
+   "first": 146,
+   "line": "emperor Trajan rules everything from the Atlantic to the Red Sea",
+   "note": "the empire draws on, Atlantic to the Red Sea"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 203,
+   "first": 296,
+   "line": "And Rome is the biggest city on Earth with maybe a million people That's real",
+   "note": "fact: about 1,000,000 people"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "len": 454,
+   "first": 499,
+   "line": "Here's what you've got One ordinary car A full tank enough for about six hundred kilometers Two phones with no signal A charger Half a bag of chips And Mo's playlist",
+   "note": "inventory: car, full tank, phones, charger, chips, playlist"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 187,
+   "first": 953,
+   "line": "The car works perfectly The engine the lights the horn the speakers",
+   "note": "the car: lights flash, horn, speakers thump"
+  },
+  {
+   "id": "S6",
+   "size": "low",
+   "key": 20,
+   "len": 89,
+   "first": 1140,
+   "line": "Nothing in this world can stop it",
+   "note": "the car head-on, low and heroic at dusk"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 20,
+   "len": 67,
+   "first": 1229,
+   "line": "But here's the rule The",
+   "note": "THE RULE"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 131,
+   "first": 1296,
+   "line": "nearest gas station is about eighteen hundred years away",
+   "note": "NEAREST GAS STATION: 1,800 YEARS AWAY"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 20,
+   "len": 112,
+   "first": 1427,
+   "line": "Every drop of fuel you burn is gone forever",
+   "note": "one drop of fuel falls and burns away"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 20,
+   "len": 110,
+   "first": 1539,
+   "line": "And one more thing As far as you know",
+   "note": "you, looking at the car, uneasy"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 20,
+   "len": 144,
+   "first": 1649,
+   "line": "yours is the only engine on the planet The only one",
+   "note": "the globe: one engine on the planet"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 20,
+   "len": 55,
+   "first": 1793,
+   "line": "Remember that",
+   "note": "slow push on the car alone at dusk"
   }
  ],
  "fx": [],

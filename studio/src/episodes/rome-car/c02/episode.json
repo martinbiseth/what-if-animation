@@ -36,18 +36,138 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
+   "set": "forum",
+   "key": 20,
+   "note": "card: ROME, AD 113 over the Forum"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "the empire draws on, Atlantic to the Red Sea"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "schematic",
+   "key": 60,
+   "note": "fact: about 1,000,000 people"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "schematic",
+   "key": 200,
+   "note": "inventory: car, full tank, phones, charger, chips, playlist"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "gate",
+   "key": 20,
+   "note": "the car: lights flash, horn, speakers thump"
+  },
+  {
+   "id": "S6",
+   "size": "low",
+   "set": "country",
+   "key": 20,
+   "note": "the car head-on, low and heroic at dusk"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "dark",
+   "key": 20,
+   "note": "THE RULE"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "dark",
+   "key": 50,
+   "note": "NEAREST GAS STATION: 1,800 YEARS AWAY"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "dark",
+   "key": 14,
+   "note": "one drop of fuel falls and burns away"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "set": "country",
+   "key": 20,
+   "note": "you, looking at the car, uneasy"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "schematic",
    "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "the globe: one engine on the planet"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "country",
+   "key": 20,
+   "note": "slow push on the car alone at dusk"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "emperor"
+  },
+  {
+   "shot": "S3",
+   "at": "And"
+  },
+  {
+   "shot": "S4",
+   "at": "Here's"
+  },
+  {
+   "shot": "S5",
+   "at": "The"
+  },
+  {
+   "shot": "S6",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S7",
+   "at": "But"
+  },
+  {
+   "shot": "S8",
+   "at": "nearest"
+  },
+  {
+   "shot": "S9",
+   "at": "Every"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "yours"
+  },
+  {
+   "shot": "S12",
+   "at": "Remember"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

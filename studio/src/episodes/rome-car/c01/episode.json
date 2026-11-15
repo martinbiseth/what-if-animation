@@ -37,19 +37,216 @@
  "shots": [
   {
    "id": "S1",
+   "size": "pov",
+   "set": "road",
+   "key": 20,
+   "note": "through the windscreen on a modern road, 8:40 on the satnav"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "you at the wheel, holding up your brand-new licence"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "Mo in the passenger seat, music notes from his phone"
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "set": "country",
+   "key": 20,
+   "note": "the car drives into a modern tunnel in a hillside"
+  },
+  {
+   "id": "S5",
+   "size": "pov",
+   "set": "tunnel",
+   "key": 20,
+   "note": "inside the tunnel, the radio crackles to static"
+  },
+  {
+   "id": "S6",
+   "size": "pov",
+   "set": "tunnel",
+   "key": 20,
+   "note": "the tunnel lights flicker"
+  },
+  {
+   "id": "S7",
+   "size": "pov",
+   "set": "tunnel",
+   "key": 8,
+   "note": "white flash"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "set": "car",
+   "key": 20,
+   "note": "you squeeze your eyes shut in the white light"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "set": "country",
+   "key": 20,
+   "note": "you open your eyes, blazing sun on your face"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "country",
+   "key": 20,
+   "note": "the car on a dirt track in the sun, no road, no tunnel"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "country",
+   "key": 20,
+   "note": "a man with a donkey stares"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "country",
+   "key": 20,
+   "note": "he drops his basket and runs; the donkey stays"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "car",
+   "key": 40,
+   "note": "satnav: RECALCULATING... then nothing"
+  },
+  {
+   "id": "S14",
+   "size": "pov",
+   "set": "road",
+   "key": 20,
+   "note": "Mo points through the windscreen"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "country",
+   "key": 20,
+   "note": "the aqueduct across the hills"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "country",
+   "key": 20,
+   "note": "push in on the marble city"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "country",
+   "key": 20,
+   "note": "title over the car on the hill, dusk"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "country",
+   "key": 20,
+   "note": "you stand on the car's sill, arms out over Rome"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "car",
+   "key": 20,
+   "note": "fuel gauge: the needle ticks down"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You've"
+  },
+  {
+   "shot": "S3",
+   "at": "Your"
+  },
+  {
+   "shot": "S4",
+   "at": "You"
+  },
+  {
+   "shot": "S5",
+   "at": "Halfway"
+  },
+  {
+   "shot": "S6",
+   "at": "lights"
+  },
+  {
+   "shot": "S7",
+   "at": "flash"
+  },
+  {
+   "shot": "S8",
+   "at": "so"
+  },
+  {
+   "shot": "S9",
+   "at": "When"
+  },
+  {
+   "shot": "S10",
+   "at": "road"
+  },
+  {
+   "shot": "S11",
+   "at": "man"
+  },
+  {
+   "shot": "S12",
+   "at": "Then"
+  },
+  {
+   "shot": "S13",
+   "at": "GPS"
+  },
+  {
+   "shot": "S14",
+   "at": "Mo"
+  },
+  {
+   "shot": "S15",
+   "at": "Across"
+  },
+  {
+   "shot": "S16",
+   "at": "behind"
+  },
+  {
+   "shot": "S17",
+   "at": "What"
+  },
+  {
+   "shot": "S18",
+   "at": "For"
+  },
+  {
+   "shot": "S19",
+   "at": "But"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
