@@ -1,0 +1,58 @@
+{
+ "id": "RomeCarC06",
+ "slug": "rome-car/c06",
+ "chapter": "The escape",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c06 p1",
+   "text": "You do the math. A quarter of a tank is about a hundred and fifty kilometers. The war in the east is more than two thousand kilometers away. The car will die in the desert. And so will you, the moment the emperor finds out it's useless."
+  },
+  {
+   "beat": "c06 p2",
+   "text": "But the tunnel, the place where you arrived, is only forty kilometers south. Maybe it still works. Maybe it doesn't. And if it doesn't, you've burned your last fuel for nothing."
+  },
+  {
+   "beat": "c06 p3",
+   "text": "Then someone knocks. It's Apollodorus. He shuts the door and whispers. 'An emperor with a horseless chariot would never stop making war. Go home.' He gives you a key. And a map of the palace."
+  },
+  {
+   "beat": "c06 p4",
+   "text": "You find Mo locked in a storeroom, eating grapes. 'Took you long enough,' he says."
+  },
+  {
+   "beat": "c06 p5",
+   "text": "You push the car out of the courtyard in silence, headlights off. At the bottom of the hill, you start the engine. Somewhere above you, a guard shouts."
+  },
+  {
+   "beat": "c06 p6",
+   "text": "You race through the dark streets, past sleeping bakeries and empty markets, with Mo reading the map by the light of his phone. At the city gate, the same soldiers from day one see you coming. This time, they don't even raise their spears. They just step aside."
+  },
+  {
+   "beat": "c06 p7",
+   "text": "Horses. A lot of horses. On a smooth highway you'd leave them behind in seconds. But this is a Roman road, made of big stone blocks, and every bump could break the car."
+  },
+  {
+   "beat": "c06 p8",
+   "text": "So you do the one thing they've never seen. You switch on the high beams. The horses rear. The riders go flying. And you race south on the Appian Way, in the dark, on the last of your fuel."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

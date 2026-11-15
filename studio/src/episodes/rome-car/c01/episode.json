@@ -1,0 +1,58 @@
+{
+ "id": "RomeCarC01",
+ "slug": "rome-car/c01",
+ "chapter": "Tunnel",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c01 p1",
+   "text": "Eight forty in the morning. You've had your driver's license for exactly three days. Your best friend Mo is in the passenger seat, picking the music. You drive into a tunnel."
+  },
+  {
+   "beat": "c01 p2",
+   "text": "Halfway through, the radio turns to static. The lights in the tunnel flicker. Then there's a flash, so bright you have to shut your eyes."
+  },
+  {
+   "beat": "c01 p3",
+   "text": "When you open them, the road is gone. You're on a dirt track, in blazing sun. A man with a donkey stares at you. Then he drops everything and runs."
+  },
+  {
+   "beat": "c01 p4",
+   "text": "Your GPS says, 'Recalculating.' Then it says nothing at all."
+  },
+  {
+   "beat": "c01 p5",
+   "text": "Mo points. Across the hills there's an aqueduct. A huge one. And behind it, a city of white marble."
+  },
+  {
+   "beat": "c01 p6",
+   "text": "What if you brought a modern car to ancient Rome?"
+  },
+  {
+   "beat": "c01 p7",
+   "text": "For a few days, you'll be the most powerful person in the world. But every kilometer you drive costs something you can never get back."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

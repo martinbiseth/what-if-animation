@@ -1,0 +1,68 @@
+{
+ "id": "RomeCarC05",
+ "slug": "rome-car/c05",
+ "chapter": "The emperor",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c05 p1",
+   "text": "On the seventh morning, you wake up surrounded. Not by fans. By the Praetorian Guard, the emperor's own soldiers."
+  },
+  {
+   "beat": "c05 p2",
+   "text": "They march you and the car up the Palatine Hill, to the palace. People line the streets. Some throw flowers. Some throw rocks. And there, in a courtyard of marble and gold, stands the emperor Trajan himself."
+  },
+  {
+   "beat": "c05 p3",
+   "text": "He doesn't kneel. He doesn't scream. He walks around the car three times, very slowly. He taps the windshield. He stares at himself in the side mirror for a long time. Then he climbs into the driver's seat and grips the wheel. For a moment, the most powerful man on Earth looks like a kid."
+  },
+  {
+   "beat": "c05 p4",
+   "text": "'A chariot that needs no horses,' he says. 'Show me.'"
+  },
+  {
+   "beat": "c05 p5",
+   "text": "You drive one lap of the courtyard. He doesn't smile. He's thinking."
+  },
+  {
+   "beat": "c05 p6",
+   "text": "Then he calls his engineer, Apollodorus of Damascus, the man who built a bridge more than a kilometer long across the Danube. That's real. Apollodorus opens the hood, stares at the engine, and starts sketching. After an hour, he puts down his pen. 'I can copy the shape,' he says. 'I cannot copy what is inside.'"
+  },
+  {
+   "beat": "c05 p7",
+   "text": "The emperor turns to you. 'Then you will drive it for me.' He's preparing a war in the east. He wants the car at the front, carrying his orders faster than any horse."
+  },
+  {
+   "beat": "c05 p8",
+   "text": "You try to explain about the fuel. He doesn't care. 'Your friend stays here, as my guest,' he says. 'Until you agree.'"
+  },
+  {
+   "beat": "c05 p9",
+   "text": "That night, you sit in a room full of gold that you can't leave. And the fuel gauge reads one quarter."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Apollodorus of Damascus built Trajan's Bridge over the Danube, more than a kilometre long.",
+   "working": "Built around AD 105, about 1,135 m long; it was the longest arch bridge for more than a thousand years.",
+   "source": "Wikipedia: Trajan's Bridge"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

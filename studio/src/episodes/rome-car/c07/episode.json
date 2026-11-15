@@ -1,0 +1,58 @@
+{
+ "id": "RomeCarC07",
+ "slug": "rome-car/c07",
+ "chapter": "The tracks",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c07 p1",
+   "text": "The fuel light comes on. Ten kilometers left. Five. Then the engine coughs, and dies, right at the foot of the hill where you arrived. You turn the key again. Nothing. Not even a click."
+  },
+  {
+   "beat": "c07 p2",
+   "text": "The tunnel is gone. It's just a hillside. Grass and rocks. Behind you, far away, a line of torches is coming down the road. You can already hear the horses."
+  },
+  {
+   "beat": "c07 p3",
+   "text": "Mo gets out first. Then he freezes. He points at the ground."
+  },
+  {
+   "beat": "c07 p4",
+   "text": "Tire tracks. In the dust. Fresh ones. And they're not yours. The pattern is different."
+  },
+  {
+   "beat": "c07 p5",
+   "text": "Then, from somewhere over the hill, you hear it. Faint, but impossible to miss. An engine."
+  },
+  {
+   "beat": "c07 p6",
+   "text": "You were never the only one."
+  },
+  {
+   "beat": "c07 p7",
+   "text": "So what would you do? Give the car to the emperor, or run for the tunnel? Tell me in the comments."
+  },
+  {
+   "beat": "c07 p8",
+   "text": "And is any of this real? The history is. Caesar really banned carts by day. The Circus Maximus really held a hundred and fifty thousand people. And nobody in Europe could distill alcohol for another thousand years. And whoever made those tracks? You'll find out in part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

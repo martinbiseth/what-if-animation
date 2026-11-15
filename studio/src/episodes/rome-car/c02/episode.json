@@ -1,0 +1,56 @@
+{
+ "id": "RomeCarC02",
+ "slug": "rome-car/c02",
+ "chapter": "The rule",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c02 p1",
+   "text": "Here's where you are. Rome, the year one thirteen. The emperor Trajan rules everything from the Atlantic to the Red Sea. And Rome is the biggest city on Earth, with maybe a million people. That's real."
+  },
+  {
+   "beat": "c02 p2",
+   "text": "Here's what you've got. One ordinary car. A full tank, enough for about six hundred kilometers. Two phones with no signal. A charger. Half a bag of chips. And Mo's playlist."
+  },
+  {
+   "beat": "c02 p3",
+   "text": "The car works perfectly. The engine, the lights, the horn, the speakers. Nothing in this world can stop it."
+  },
+  {
+   "beat": "c02 p4",
+   "text": "But here's the rule. The nearest gas station is about eighteen hundred years away. Every drop of fuel you burn is gone forever."
+  },
+  {
+   "beat": "c02 p5",
+   "text": "And one more thing. As far as you know, yours is the only engine on the planet. The only one. Remember that."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Rome around AD 100 was the largest city on Earth, with perhaps about a million people.",
+   "working": "Modern estimates for Rome's population in the early 2nd century AD range from about 450,000 to over 1 million; it was the largest city of its time.",
+   "source": "Wikipedia: Population of ancient Rome; G. Storey, 'The population of ancient Rome', Antiquity 71 (1997)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

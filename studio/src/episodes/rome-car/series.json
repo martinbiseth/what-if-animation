@@ -1,0 +1,88 @@
+{
+ "id": "RomeCar",
+ "slug": "rome-car",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "title": [
+  "WHAT IF YOU BROUGHT A",
+  "MODERN CAR TO ANCIENT ROME?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Tunnel",
+   "words": 151
+  },
+  {
+   "slug": "c02",
+   "name": "The rule",
+   "words": 131
+  },
+  {
+   "slug": "c03",
+   "name": "Gods on wheels",
+   "words": 314
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 284
+  },
+  {
+   "slug": "c05",
+   "name": "The emperor",
+   "words": 272
+  },
+  {
+   "slug": "c06",
+   "name": "The escape",
+   "words": 278
+  },
+  {
+   "slug": "c07",
+   "name": "The tracks",
+   "words": 183
+  }
+ ],
+ "youtube": {
+  "title": "What if you brought a modern car to ancient Rome?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}

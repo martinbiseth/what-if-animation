@@ -1,0 +1,80 @@
+{
+ "id": "RomeCarC04",
+ "slug": "rome-car/c04",
+ "chapter": "The catch",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c04 p1",
+   "text": "Here's the problem. You've burned half your fuel in five days, mostly showing off. And there is no way to make more."
+  },
+  {
+   "beat": "c04 p2",
+   "text": "Gasoline comes from crude oil, heated and split apart in giant refineries. The Romans have nothing close. Even strong alcohol, which some cars can burn, has to be distilled, and Europe won't learn to distill alcohol for about another thousand years. That's real."
+  },
+  {
+   "beat": "c04 p3",
+   "text": "Mo has an idea. Olive oil. Rome is drowning in olive oil. And here's the funny part. In nineteen hundred, at the World's Fair in Paris, a diesel engine ran on peanut oil. That's real too. So if your car were a diesel, olive oil might actually work. It isn't. One cup in the tank, and the engine coughs like it's dying. You drain it by hand. It takes all night."
+  },
+  {
+   "beat": "c04 p4",
+   "text": "Then the tires. Roman soldiers wear sandals with iron nails in the soles, and they lose them everywhere. Archaeologists still follow trails of those nails to find where Roman armies marched. That's real. On day six, you find one. With your front tire. You put on the spare. Now you have no spare. And rubber doesn't exist here. The trees it comes from grow in South America, and nobody in Rome knows South America exists."
+  },
+  {
+   "beat": "c04 p5",
+   "text": "So the car is dying. Slowly. But even dying, it's the fastest thing in the world. Rome's fastest messengers, changing horses at stations along the road, covered about eighty kilometers a day. That's real. Your car does that in under an hour."
+  },
+  {
+   "beat": "c04 p6",
+   "text": "A message from the edge of the empire in one day instead of a week. An army that never gets tired."
+  },
+  {
+   "beat": "c04 p7",
+   "text": "And somebody very important is thinking the exact same thing."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Distilling alcohol reached Europe around the 12th century, about a thousand years after AD 113.",
+   "working": "The first clear European records of distilled alcohol come from the School of Salerno in the 12th century.",
+   "source": "R. J. Forbes, 'A Short History of the Art of Distillation' (1948); Wikipedia: Distilled beverage"
+  },
+  {
+   "claim": "At the 1900 Paris World's Fair a diesel engine ran on peanut oil.",
+   "working": "The Otto company showed a small Diesel engine running on peanut (arachide) oil at the 1900 Exposition Universelle, at the French government's request; Rudolf Diesel described it in 1912.",
+   "source": "Wikipedia: Vegetable oil fuel; Rudolf Diesel, 1912 lecture"
+  },
+  {
+   "claim": "Roman soldiers' boots had iron hobnails, and archaeologists trace Roman routes by the lost nails.",
+   "working": "Caligae were studded with iron hobnails; finds of lost hobnails have been used to locate Roman camps and marching routes (e.g. Hermeskeil, Kalkriese).",
+   "source": "Wikipedia: Caligae; Wikipedia: Hobnail"
+  },
+  {
+   "claim": "Natural rubber comes from a tree native to South America, unknown in Europe before Columbus.",
+   "working": "Hevea brasiliensis is native to the Amazon basin; Europeans first met rubber after 1492.",
+   "source": "Encyclopaedia Britannica: Rubber"
+  },
+  {
+   "claim": "Roman state couriers covered about 80 km a day.",
+   "working": "The cursus publicus used relays of horses at stations; ordinary official travel averaged about 50 miles (80 km) a day. A car at 90 km/h does that in under an hour.",
+   "source": "Lionel Casson, 'Travel in the Ancient World' (1974); historyofinformation.com: The Cursus publicus"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

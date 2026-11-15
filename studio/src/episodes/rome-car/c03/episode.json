@@ -1,0 +1,77 @@
+{
+ "id": "RomeCarC03",
+ "slug": "rome-car/c03",
+ "chapter": "Gods on wheels",
+ "topic": "What if you brought a modern car to ancient Rome?",
+ "script": [
+  {
+   "beat": "c03 p1",
+   "text": "At the city gate, a dozen soldiers point their spears at you. You honk the horn. Every single one of them drops his spear and hits the ground. Mo laughs so hard he cries."
+  },
+  {
+   "beat": "c03 p2",
+   "text": "They decide you must be gods. Or at least friends of the gods. Nobody wants to find out which."
+  },
+  {
+   "beat": "c03 p3",
+   "text": "Then there's a problem nobody saw coming. Julius Caesar banned carts from the streets of Rome during the day, because the traffic was so bad. That's real. An official runs after you, waving a wax tablet. Is a cart with no horse still a cart? Nobody knows. So nobody stops you."
+  },
+  {
+   "beat": "c03 p4",
+   "text": "You roll through the Forum at walking speed. Thousands of people follow you. Mo plugs in his phone and turns the music all the way up. A crowd of Romans tries to dance to it. Badly. A senator offers you a bag of gold coins for a ride around the block. You take him. Then five more."
+  },
+  {
+   "beat": "c03 p5",
+   "text": "Kids run alongside the car all the way down the street. You show them the windshield wipers. They think it's magic. Honestly, so does Mo."
+  },
+  {
+   "beat": "c03 p6",
+   "text": "At night, Rome goes completely dark. No streetlights. Just torches and the moon. Then you switch on your headlights. For one second, the whole street is silent. Then a thousand people scream."
+  },
+  {
+   "beat": "c03 p7",
+   "text": "And then the big one. The Circus Maximus, the chariot track. Up to a hundred and fifty thousand people in the stands. That's real. The best charioteer in Rome challenges you to a race. Four horses, against a hundred and fifty under the hood."
+  },
+  {
+   "beat": "c03 p8",
+   "text": "You let him lead for one lap. Just to be polite. Then you put your foot down."
+  },
+  {
+   "beat": "c03 p9",
+   "text": "You win by three laps. The crowd goes insane. Mo stands up through the sunroof with his arms in the air. 'We're legends!'"
+  },
+  {
+   "beat": "c03 p10",
+   "text": "Then you look at the fuel gauge. It's already at half."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Julius Caesar's law banned wheeled carts from Rome's streets in daytime.",
+   "working": "The Lex Julia Municipalis (45 BC, preserved on the Tabula Heracleensis) barred carts from the city's streets from sunrise until the tenth hour, with exceptions for building and public works.",
+   "source": "Tabula Heracleensis; Wikipedia: Lex Julia Municipalis"
+  },
+  {
+   "claim": "The Circus Maximus held about 150,000 spectators.",
+   "working": "Dionysius of Halicarnassus gives 150,000 seats for the Augustan circus; Pliny gives 250,000 after later enlargements.",
+   "source": "Encyclopaedia Britannica: Circus Maximus"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "rome-car/c04",
+ "title": "The catch",
+ "fps": 30,
+ "total": 90,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 90,
+   "t0": 0,
+   "t1": 90,
+   "line": ""
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 90,
+   "first": 0,
+   "line": "",
+   "note": "The catch"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}
