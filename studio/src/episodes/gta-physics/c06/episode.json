@@ -68,18 +68,259 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "backyard",
+   "note": "FOUR DAYS LATER: NO STUNTS",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "backyard",
+   "note": "on the porch steps, bar full",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "backyard",
+   "note": "you hear Ellie",
+   "key": 20
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "backyard",
+   "note": "Ellie on the tree-house roof",
+   "key": 60
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "set": "backyard",
+   "note": "Ellie on the roof, not inside",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "low",
+   "set": "backyard",
+   "note": "Ellie: I have the bar too!",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "backyard",
+   "note": "over her head: nothing",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "backyard",
+   "note": "the roof board cracks",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "set": "backyard",
+   "note": "a 10 FT marker beside the tree house",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "10 ft = 17 MPH",
+   "key": 70
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "backyard",
+   "note": "Ellie wobbling on the roof edge",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "backyard",
+   "note": "EMERGENCY ROOM",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "backyard",
+   "note": "you run",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "set": "backyard",
+   "note": "Ellie feet slipping on the cracked board",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "short stop vs long stop: force / 10",
+   "key": 110
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "an airbag = a longer stop",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "backyard",
+   "note": "not your arms: grab the beanbag",
+   "key": 50
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "backyard",
+   "note": "throw it under the tree house",
+   "key": 14
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "backyard",
+   "note": "dive in under it",
+   "key": 8
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "backyard",
+   "note": "Ellie falls onto the beanbag, onto you",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "set": "backyard",
+   "note": "Ellie safe, laughing",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "backyard",
+   "note": "you under it: bar flashing red",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "dark",
+   "note": "ZERO",
+   "key": 24
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Bar"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S4",
+   "at": "She's"
+  },
+  {
+   "shot": "S24",
+   "at": "Not"
+  },
+  {
+   "shot": "S5",
+   "at": "Look"
+  },
+  {
+   "shot": "S6",
+   "at": "She#2"
+  },
+  {
+   "shot": "S8",
+   "at": "And"
+  },
+  {
+   "shot": "S22",
+   "at": "That"
+  },
+  {
+   "shot": "S9",
+   "at": "A"
+  },
+  {
+   "shot": "S21",
+   "at": "In"
+  },
+  {
+   "shot": "S10",
+   "at": "For"
+  },
+  {
+   "shot": "S11",
+   "at": "You"
+  },
+  {
+   "shot": "S23",
+   "at": "What"
+  },
+  {
+   "shot": "S12",
+   "at": "Stop"
+  },
+  {
+   "shot": "S13",
+   "at": "That's"
+  },
+  {
+   "shot": "S14",
+   "at": "So"
+  },
+  {
+   "shot": "S15",
+   "at": "throw"
+  },
+  {
+   "shot": "S16",
+   "at": "dive"
+  },
+  {
+   "shot": "S17",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S18",
+   "at": "She's"
+  },
+  {
+   "shot": "S19",
+   "at": "You're"
+  },
+  {
+   "shot": "S20",
+   "at": "Zero"
   }
  ],
- "end": "f:90",
  "fx": []
 }

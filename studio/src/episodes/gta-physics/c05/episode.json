@@ -51,18 +51,237 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "hallway",
+   "note": "2 MORE RESPAWNS",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the grid chart: three dips, each longer",
+   "key": 70
+  },
+  {
+   "id": "S21",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "city night",
+   "note": "the city dark around a hospital",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "tv",
+   "note": "news: A GRID GLITCH",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "set": "kitchen",
+   "note": "Mom: weird",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "your stomach drops",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "street day",
+   "note": "a black car outside school",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "hallway",
+   "note": "the suit by your locker, you walk up",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "hallway",
+   "note": "he holds up a tablet",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "tablet",
+   "note": "map, three red dots",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "hallway",
+   "note": "suit: half a second, one, two",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "it doubles: 0.5, 1, 2, next?",
+   "key": 50
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "set": "hallway",
+   "note": "he leans closer",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "street night",
+   "note": "traffic lights go dark",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "34 MIN after ten more",
+   "key": 70
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "hallway",
+   "note": "you: so I just don't respawn",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "hallway",
+   "note": "suit: don't. not once.",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "hallway",
+   "note": "a card with a number, and he is gone",
+   "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "hallway",
+   "note": "alone, the bar over your head",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "hallway",
+   "note": "the bar, full and green",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "city night",
+   "note": "every chunk = a step to the next blackout",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S21",
+   "at": "each"
+  },
+  {
+   "shot": "S3",
+   "at": "On#2"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "The"
+  },
+  {
+   "shot": "S7",
+   "at": "A#2"
+  },
+  {
+   "shot": "S8",
+   "at": "He"
+  },
+  {
+   "shot": "S9",
+   "at": "A#2"
+  },
+  {
+   "shot": "S10",
+   "at": "Half"
+  },
+  {
+   "shot": "S11",
+   "at": "Every"
+  },
+  {
+   "shot": "S12",
+   "at": "He"
+  },
+  {
+   "shot": "S13",
+   "at": "Traffic"
+  },
+  {
+   "shot": "S14",
+   "at": "Today"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "Exactly"
+  },
+  {
+   "shot": "S17",
+   "at": "He#2"
+  },
+  {
+   "shot": "S18",
+   "at": "For"
+  },
+  {
+   "shot": "S19",
+   "at": "It's"
+  },
+  {
+   "shot": "S20",
+   "at": "But"
   }
  ],
- "end": "f:90",
  "fx": []
 }

@@ -1,27 +1,367 @@
 {
  "slug": "gta-physics/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3188,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 173,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 173,
+   "line": "You keep the stunts going for two more days. Two more respawns."
+  },
+  {
+   "shot": "S2",
+   "a": 173,
+   "b": 297,
+   "t0": 0,
+   "t1": 124,
+   "line": "And the power company notices. Three blackouts,"
+  },
+  {
+   "shot": "S21",
+   "a": 297,
+   "b": 477,
+   "t0": 0,
+   "t1": 180,
+   "line": "each one centered on a hospital, and each one longer than the last."
+  },
+  {
+   "shot": "S3",
+   "a": 477,
+   "b": 595,
+   "t0": 0,
+   "t1": 118,
+   "line": "On the news, they call it a grid glitch."
+  },
+  {
+   "shot": "S4",
+   "a": 595,
+   "b": 666,
+   "t0": 0,
+   "t1": 71,
+   "line": "Your mom calls it weird."
+  },
+  {
+   "shot": "S5",
+   "a": 666,
+   "b": 827,
+   "t0": 0,
+   "t1": 161,
+   "line": "You don't call it anything, because your stomach just dropped."
+  },
+  {
+   "shot": "S6",
+   "a": 827,
+   "b": 981,
+   "t0": 0,
+   "t1": 154,
+   "line": "The next morning, there's a black car outside your school."
+  },
+  {
+   "shot": "S7",
+   "a": 981,
+   "b": 1114,
+   "t0": 0,
+   "t1": 133,
+   "line": "A man in a grey suit is waiting by your locker."
+  },
+  {
+   "shot": "S8",
+   "a": 1114,
+   "b": 1255,
+   "t0": 0,
+   "t1": 141,
+   "line": "He doesn't say hello. He just holds up a tablet."
+  },
+  {
+   "shot": "S9",
+   "a": 1255,
+   "b": 1459,
+   "t0": 0,
+   "t1": 204,
+   "line": "A map of the city, with three red dots. Three hospitals. Three times."
+  },
+  {
+   "shot": "S10",
+   "a": 1459,
+   "b": 1629,
+   "t0": 0,
+   "t1": 170,
+   "line": "'Half a second, ' he says. 'Then one second. Then two."
+  },
+  {
+   "shot": "S11",
+   "a": 1629,
+   "b": 1806,
+   "t0": 0,
+   "t1": 177,
+   "line": "Every time you come back, the city goes dark, and it doubles. '"
+  },
+  {
+   "shot": "S12",
+   "a": 1806,
+   "b": 1937,
+   "t0": 0,
+   "t1": 131,
+   "line": "He leans closer. 'Hospitals run on that power."
+  },
+  {
+   "shot": "S13",
+   "a": 1937,
+   "b": 2016,
+   "t0": 0,
+   "t1": 79,
+   "line": "Traffic lights. Elevators."
+  },
+  {
+   "shot": "S14",
+   "a": 2016,
+   "b": 2230,
+   "t0": 0,
+   "t1": 214,
+   "line": "Today it's two seconds. Do it ten more times, and it's over half an hour. '"
+  },
+  {
+   "shot": "S15",
+   "a": 2230,
+   "b": 2338,
+   "t0": 0,
+   "t1": 108,
+   "line": "'So I just don't respawn, ' you say."
+  },
+  {
+   "shot": "S16",
+   "a": 2338,
+   "b": 2550,
+   "t0": 0,
+   "t1": 212,
+   "line": "'Exactly, ' he says. 'Don't. Not once. Not until we understand it. '"
+  },
+  {
+   "shot": "S17",
+   "a": 2550,
+   "b": 2705,
+   "t0": 0,
+   "t1": 155,
+   "line": "He hands you a card with a phone number, and he's gone."
+  },
+  {
+   "shot": "S18",
+   "a": 2705,
+   "b": 2879,
+   "t0": 0,
+   "t1": 174,
+   "line": "For the first time since the bar showed up, you're scared of it."
+  },
+  {
+   "shot": "S19",
+   "a": 2879,
+   "b": 2994,
+   "t0": 0,
+   "t1": 115,
+   "line": "It's still floating there, full and green."
+  },
+  {
+   "shot": "S20",
+   "a": 2994,
+   "b": 3188,
+   "t0": 0,
+   "t1": 194,
+   "line": "But now every chunk it loses is a step closer to the next blackout."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 20,
+   "len": 173,
+   "first": 0,
+   "line": "You keep the stunts going for two more days. Two more respawns.",
+   "note": "2 MORE RESPAWNS"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 70,
+   "len": 124,
+   "first": 173,
+   "line": "And the power company notices. Three blackouts,",
+   "note": "the grid chart: three dips, each longer"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 180,
+   "first": 297,
+   "line": "each one centered on a hospital, and each one longer than the last.",
+   "note": "the city dark around a hospital"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 118,
+   "first": 477,
+   "line": "On the news, they call it a grid glitch.",
+   "note": "news: A GRID GLITCH"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 30,
+   "len": 71,
+   "first": 595,
+   "line": "Your mom calls it weird.",
+   "note": "Mom: weird"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 30,
+   "len": 161,
+   "first": 666,
+   "line": "You don't call it anything, because your stomach just dropped.",
+   "note": "your stomach drops"
+  },
+  {
+   "id": "S6",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "len": 154,
+   "first": 827,
+   "line": "The next morning, there's a black car outside your school.",
+   "note": "a black car outside school"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 133,
+   "first": 981,
+   "line": "A man in a grey suit is waiting by your locker.",
+   "note": "the suit by your locker, you walk up"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 50,
+   "len": 141,
+   "first": 1114,
+   "line": "He doesn't say hello. He just holds up a tablet.",
+   "note": "he holds up a tablet"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 60,
+   "len": 204,
+   "first": 1255,
+   "line": "A map of the city, with three red dots. Three hospitals. Three times.",
+   "note": "map, three red dots"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 30,
+   "len": 170,
+   "first": 1459,
+   "line": "'Half a second, ' he says. 'Then one second. Then two.",
+   "note": "suit: half a second, one, two"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 50,
+   "len": 177,
+   "first": 1629,
+   "line": "Every time you come back, the city goes dark, and it doubles. '",
+   "note": "it doubles: 0.5, 1, 2, next?"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 30,
+   "len": 131,
+   "first": 1806,
+   "line": "He leans closer. 'Hospitals run on that power.",
+   "note": "he leans closer"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 30,
+   "len": 79,
+   "first": 1937,
+   "line": "Traffic lights. Elevators.",
+   "note": "traffic lights go dark"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 70,
+   "len": 214,
+   "first": 2016,
+   "line": "Today it's two seconds. Do it ten more times, and it's over half an hour. '",
+   "note": "34 MIN after ten more"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 20,
+   "len": 108,
+   "first": 2230,
+   "line": "'So I just don't respawn, ' you say.",
+   "note": "you: so I just don't respawn"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 30,
+   "len": 212,
+   "first": 2338,
+   "line": "'Exactly, ' he says. 'Don't. Not once. Not until we understand it. '",
+   "note": "suit: don't. not once."
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 60,
+   "len": 155,
+   "first": 2550,
+   "line": "He hands you a card with a phone number, and he's gone.",
+   "note": "a card with a number, and he is gone"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 174,
+   "first": 2705,
+   "line": "For the first time since the bar showed up, you're scared of it.",
+   "note": "alone, the bar over your head"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 115,
+   "first": 2879,
+   "line": "It's still floating there, full and green.",
+   "note": "the bar, full and green"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 60,
+   "len": 194,
+   "first": 2994,
+   "line": "But now every chunk it loses is a step closer to the next blackout.",
+   "note": "every chunk = a step to the next blackout"
   }
  ],
  "fx": [],

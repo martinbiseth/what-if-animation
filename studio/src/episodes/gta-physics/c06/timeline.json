@@ -1,27 +1,401 @@
 {
  "slug": "gta-physics/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3150,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 172,
+   "t0": 0,
+   "t1": 172,
+   "line": "Four days later, you've been perfect. No stunts. No falls."
+  },
+  {
+   "shot": "S2",
+   "a": 172,
+   "b": 207,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bar full."
+  },
+  {
+   "shot": "S3",
+   "a": 207,
+   "b": 268,
+   "t0": 0,
+   "t1": 61,
+   "line": "Then you hear Ellie."
+  },
+  {
+   "shot": "S4",
+   "a": 268,
+   "b": 428,
+   "t0": 0,
+   "t1": 160,
+   "line": "She's standing on top of the old tree house in the backyard."
+  },
+  {
+   "shot": "S24",
+   "a": 428,
+   "b": 518,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Not inside it. On the roof."
+  },
+  {
+   "shot": "S5",
+   "a": 518,
+   "b": 713,
+   "t0": 0,
+   "t1": 195,
+   "line": "'Look! ' she shouts. 'I've got the bar too! Watch me! '"
+  },
+  {
+   "shot": "S6",
+   "a": 713,
+   "b": 951,
+   "t0": 0,
+   "t1": 238,
+   "line": "She doesn't. There's nothing over her head. Just air. The bar only works for you."
+  },
+  {
+   "shot": "S8",
+   "a": 951,
+   "b": 1038,
+   "t0": 0,
+   "t1": 87,
+   "line": "And then the roof board cracks."
+  },
+  {
+   "shot": "S22",
+   "a": 1038,
+   "b": 1129,
+   "t0": 0,
+   "t1": 91,
+   "line": "That roof is about ten feet up."
+  },
+  {
+   "shot": "S9",
+   "a": 1129,
+   "b": 1307,
+   "t0": 0,
+   "t1": 178,
+   "line": "A fall from there hits the ground at around seventeen miles an hour."
+  },
+  {
+   "shot": "S21",
+   "a": 1307,
+   "b": 1386,
+   "t0": 0,
+   "t1": 79,
+   "line": "In a game, that's nothing."
+  },
+  {
+   "shot": "S10",
+   "a": 1386,
+   "b": 1543,
+   "t0": 0,
+   "t1": 157,
+   "line": "For a seven- year- old, it's a trip to the emergency room."
+  },
+  {
+   "shot": "S11",
+   "a": 1543,
+   "b": 1726,
+   "t0": 0,
+   "t1": 183,
+   "line": "You run. And this time, you use real physics, not game physics."
+  },
+  {
+   "shot": "S23",
+   "a": 1726,
+   "b": 1898,
+   "t0": 0,
+   "t1": 172,
+   "line": "What hurts in a fall isn't the speed. It's stopping too fast."
+  },
+  {
+   "shot": "S12",
+   "a": 1898,
+   "b": 2191,
+   "t0": 0,
+   "t1": 293,
+   "line": "Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler."
+  },
+  {
+   "shot": "S13",
+   "a": 2191,
+   "b": 2286,
+   "t0": 0,
+   "t1": 95,
+   "line": "That's exactly how an airbag works."
+  },
+  {
+   "shot": "S14",
+   "a": 2286,
+   "b": 2518,
+   "t0": 0,
+   "t1": 232,
+   "line": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch,"
+  },
+  {
+   "shot": "S15",
+   "a": 2518,
+   "b": 2608,
+   "t0": 0,
+   "t1": 90,
+   "line": "throw it under the tree house, and"
+  },
+  {
+   "shot": "S16",
+   "a": 2608,
+   "b": 2673,
+   "t0": 0,
+   "t1": 65,
+   "line": "dive in underneath it."
+  },
+  {
+   "shot": "S17",
+   "a": 2673,
+   "b": 2828,
+   "t0": 0,
+   "t1": 155,
+   "line": "Ellie lands on the beanbag, and the beanbag lands on you."
+  },
+  {
+   "shot": "S18",
+   "a": 2828,
+   "b": 2930,
+   "t0": 0,
+   "t1": 102,
+   "line": "She's safe. She's laughing, even."
+  },
+  {
+   "shot": "S19",
+   "a": 2930,
+   "b": 3110,
+   "t0": 0,
+   "t1": 180,
+   "line": "You're not laughing. Your bar was full. Now it's flashing red."
+  },
+  {
+   "shot": "S20",
+   "a": 3110,
+   "b": 3150,
+   "t0": 0,
+   "t1": 40,
+   "line": "Zero."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 20,
+   "len": 172,
+   "first": 0,
+   "line": "Four days later, you've been perfect. No stunts. No falls.",
+   "note": "FOUR DAYS LATER: NO STUNTS"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 20,
+   "len": 35,
+   "first": 172,
+   "line": "Bar full.",
+   "note": "on the porch steps, bar full"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 20,
+   "len": 61,
+   "first": 207,
+   "line": "Then you hear Ellie.",
+   "note": "you hear Ellie"
+  },
+  {
+   "id": "S4",
    "size": "wide",
+   "key": 60,
+   "len": 160,
+   "first": 268,
+   "line": "She's standing on top of the old tree house in the backyard.",
+   "note": "Ellie on the tree-house roof"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The choice"
+   "first": 428,
+   "line": "Not inside it. On the roof.",
+   "note": "Ellie on the roof, not inside"
+  },
+  {
+   "id": "S5",
+   "size": "low",
+   "key": 30,
+   "len": 195,
+   "first": 518,
+   "line": "'Look! ' she shouts. 'I've got the bar too! Watch me! '",
+   "note": "Ellie: I have the bar too!"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 40,
+   "len": 238,
+   "first": 713,
+   "line": "She doesn't. There's nothing over her head. Just air. The bar only works for you.",
+   "note": "over her head: nothing"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 87,
+   "first": 951,
+   "line": "And then the roof board cracks.",
+   "note": "the roof board cracks"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 40,
+   "len": 91,
+   "first": 1038,
+   "line": "That roof is about ten feet up.",
+   "note": "a 10 FT marker beside the tree house"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 70,
+   "len": 178,
+   "first": 1129,
+   "line": "A fall from there hits the ground at around seventeen miles an hour.",
+   "note": "10 ft = 17 MPH"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 79,
+   "first": 1307,
+   "line": "In a game, that's nothing.",
+   "note": "Ellie wobbling on the roof edge"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 20,
+   "len": 157,
+   "first": 1386,
+   "line": "For a seven- year- old, it's a trip to the emergency room.",
+   "note": "EMERGENCY ROOM"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 20,
+   "len": 183,
+   "first": 1543,
+   "line": "You run. And this time, you use real physics, not game physics.",
+   "note": "you run"
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "key": 30,
+   "len": 172,
+   "first": 1726,
+   "line": "What hurts in a fall isn't the speed. It's stopping too fast.",
+   "note": "Ellie feet slipping on the cracked board"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 110,
+   "len": 293,
+   "first": 1898,
+   "line": "Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler.",
+   "note": "short stop vs long stop: force / 10"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 30,
+   "len": 95,
+   "first": 2191,
+   "line": "That's exactly how an airbag works.",
+   "note": "an airbag = a longer stop"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 50,
+   "len": 232,
+   "first": 2286,
+   "line": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch,",
+   "note": "not your arms: grab the beanbag"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 14,
+   "len": 90,
+   "first": 2518,
+   "line": "throw it under the tree house, and",
+   "note": "throw it under the tree house"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 8,
+   "len": 65,
+   "first": 2608,
+   "line": "dive in underneath it.",
+   "note": "dive in under it"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 40,
+   "len": 155,
+   "first": 2673,
+   "line": "Ellie lands on the beanbag, and the beanbag lands on you.",
+   "note": "Ellie falls onto the beanbag, onto you"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 30,
+   "len": 102,
+   "first": 2828,
+   "line": "She's safe. She's laughing, even.",
+   "note": "Ellie safe, laughing"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "key": 30,
+   "len": 180,
+   "first": 2930,
+   "line": "You're not laughing. Your bar was full. Now it's flashing red.",
+   "note": "you under it: bar flashing red"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 24,
+   "len": 40,
+   "first": 3110,
+   "line": "Zero.",
+   "note": "ZERO"
   }
  ],
  "fx": [],
