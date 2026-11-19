@@ -164,6 +164,13 @@
    "key": 20
   },
   {
+   "id": "S25",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a stopwatch: 0.8 S",
+   "key": 40
+  },
+  {
    "id": "S11",
    "size": "medium",
    "set": "backyard",
@@ -190,6 +197,13 @@
    "set": "schematic",
    "note": "an airbag = a longer stop",
    "key": 30
+  },
+  {
+   "id": "S26",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "stunt air cushion, gym mat: soft and deep",
+   "key": 50
   },
   {
    "id": "S14",
@@ -291,6 +305,10 @@
    "at": "For"
   },
   {
+   "shot": "S25",
+   "at": "And"
+  },
+  {
    "shot": "S11",
    "at": "You"
   },
@@ -305,6 +323,10 @@
   {
    "shot": "S13",
    "at": "That's"
+  },
+  {
+   "shot": "S26",
+   "at": "It's"
   },
   {
    "shot": "S14",

@@ -2,7 +2,7 @@
  "slug": "gta-physics/c05",
  "title": " ",
  "fps": 30,
- "total": 3188,
+ "total": 3897,
  "segments": [
   {
    "shot": "S1",
@@ -149,25 +149,49 @@
    "line": "He hands you a card with a phone number, and he's gone."
   },
   {
-   "shot": "S18",
+   "shot": "S22",
    "a": 2705,
-   "b": 2879,
+   "b": 2976,
+   "t0": 0,
+   "t1": 271,
+   "line": "At lunch, Mo does the math on a napkin. Two seconds, four, eight, sixteen. He stops writing."
+  },
+  {
+   "shot": "S23",
+   "a": 2976,
+   "b": 3208,
+   "t0": 0,
+   "t1": 232,
+   "line": "'Dude, ' he says. 'That's thirty- four minutes. Hospitals, elevators, everything. '"
+  },
+  {
+   "shot": "S24",
+   "a": 3208,
+   "b": 3414,
+   "t0": 0,
+   "t1": 206,
+   "line": "Then he looks at your bar, and quietly slides his chair a little further away."
+  },
+  {
+   "shot": "S18",
+   "a": 3414,
+   "b": 3588,
    "t0": 0,
    "t1": 174,
    "line": "For the first time since the bar showed up, you're scared of it."
   },
   {
    "shot": "S19",
-   "a": 2879,
-   "b": 2994,
+   "a": 3588,
+   "b": 3703,
    "t0": 0,
    "t1": 115,
    "line": "It's still floating there, full and green."
   },
   {
    "shot": "S20",
-   "a": 2994,
-   "b": 3188,
+   "a": 3703,
+   "b": 3897,
    "t0": 0,
    "t1": 194,
    "line": "But now every chunk it loses is a step closer to the next blackout."
@@ -337,11 +361,38 @@
    "note": "a card with a number, and he is gone"
   },
   {
+   "id": "S22",
+   "size": "two-shot",
+   "key": 50,
+   "len": 271,
+   "first": 2705,
+   "line": "At lunch, Mo does the math on a napkin. Two seconds, four, eight, sixteen. He stops writing.",
+   "note": "lunch: Mo does the math on a napkin"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 50,
+   "len": 232,
+   "first": 2976,
+   "line": "'Dude, ' he says. 'That's thirty- four minutes. Hospitals, elevators, everything. '",
+   "note": "2, 4, 8, 16 ... = 34 MIN"
+  },
+  {
+   "id": "S24",
+   "size": "two-shot",
+   "key": 40,
+   "len": 206,
+   "first": 3208,
+   "line": "Then he looks at your bar, and quietly slides his chair a little further away.",
+   "note": "Mo slides his chair away"
+  },
+  {
    "id": "S18",
    "size": "wide",
    "key": 40,
    "len": 174,
-   "first": 2705,
+   "first": 3414,
    "line": "For the first time since the bar showed up, you're scared of it.",
    "note": "alone, the bar over your head"
   },
@@ -350,7 +401,7 @@
    "size": "insert",
    "key": 20,
    "len": 115,
-   "first": 2879,
+   "first": 3588,
    "line": "It's still floating there, full and green.",
    "note": "the bar, full and green"
   },
@@ -359,7 +410,7 @@
    "size": "graphic",
    "key": 60,
    "len": 194,
-   "first": 2994,
+   "first": 3703,
    "line": "But now every chunk it loses is a step closer to the next blackout.",
    "note": "every chunk = a step to the next blackout"
   }

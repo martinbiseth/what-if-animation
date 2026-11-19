@@ -2,7 +2,7 @@
  "slug": "gta-physics/c06",
  "title": " ",
  "fps": 30,
- "total": 3150,
+ "total": 3736,
  "segments": [
   {
    "shot": "S1",
@@ -101,89 +101,105 @@
    "line": "For a seven- year- old, it's a trip to the emergency room."
   },
   {
-   "shot": "S11",
+   "shot": "S25",
    "a": 1543,
-   "b": 1726,
+   "b": 1770,
    "t0": 0,
-   "t1": 183,
+   "t1": 227,
+   "line": "And a fall from that roof takes less than one second. That's all the time there is."
+  },
+  {
+   "shot": "S11",
+   "a": 1770,
+   "b": 1954,
+   "t0": 0,
+   "t1": 184,
    "line": "You run. And this time, you use real physics, not game physics."
   },
   {
    "shot": "S23",
-   "a": 1726,
-   "b": 1898,
+   "a": 1954,
+   "b": 2126,
    "t0": 0,
    "t1": 172,
    "line": "What hurts in a fall isn't the speed. It's stopping too fast."
   },
   {
    "shot": "S12",
-   "a": 1898,
-   "b": 2191,
+   "a": 2126,
+   "b": 2418,
    "t0": 0,
-   "t1": 293,
+   "t1": 292,
    "line": "Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler."
   },
   {
    "shot": "S13",
-   "a": 2191,
-   "b": 2286,
+   "a": 2418,
+   "b": 2513,
    "t0": 0,
    "t1": 95,
    "line": "That's exactly how an airbag works."
   },
   {
+   "shot": "S26",
+   "a": 2513,
+   "b": 2871,
+   "t0": 0,
+   "t1": 358,
+   "line": "It's why stunt people fall onto big soft air cushions, and why gymnasts land on thick mats. Soft and deep beats strong arms, every time."
+  },
+  {
    "shot": "S14",
-   "a": 2286,
-   "b": 2518,
+   "a": 2871,
+   "b": 3103,
    "t0": 0,
    "t1": 232,
    "line": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch,"
   },
   {
    "shot": "S15",
-   "a": 2518,
-   "b": 2608,
+   "a": 3103,
+   "b": 3194,
    "t0": 0,
-   "t1": 90,
+   "t1": 91,
    "line": "throw it under the tree house, and"
   },
   {
    "shot": "S16",
-   "a": 2608,
-   "b": 2673,
+   "a": 3194,
+   "b": 3258,
    "t0": 0,
-   "t1": 65,
+   "t1": 64,
    "line": "dive in underneath it."
   },
   {
    "shot": "S17",
-   "a": 2673,
-   "b": 2828,
+   "a": 3258,
+   "b": 3414,
    "t0": 0,
-   "t1": 155,
+   "t1": 156,
    "line": "Ellie lands on the beanbag, and the beanbag lands on you."
   },
   {
    "shot": "S18",
-   "a": 2828,
-   "b": 2930,
+   "a": 3414,
+   "b": 3516,
    "t0": 0,
    "t1": 102,
    "line": "She's safe. She's laughing, even."
   },
   {
    "shot": "S19",
-   "a": 2930,
-   "b": 3110,
+   "a": 3516,
+   "b": 3696,
    "t0": 0,
    "t1": 180,
    "line": "You're not laughing. Your bar was full. Now it's flashing red."
   },
   {
    "shot": "S20",
-   "a": 3110,
-   "b": 3150,
+   "a": 3696,
+   "b": 3736,
    "t0": 0,
    "t1": 40,
    "line": "Zero."
@@ -299,11 +315,20 @@
    "note": "EMERGENCY ROOM"
   },
   {
+   "id": "S25",
+   "size": "graphic",
+   "key": 40,
+   "len": 227,
+   "first": 1543,
+   "line": "And a fall from that roof takes less than one second. That's all the time there is.",
+   "note": "a stopwatch: 0.8 S"
+  },
+  {
    "id": "S11",
    "size": "medium",
    "key": 20,
-   "len": 183,
-   "first": 1543,
+   "len": 184,
+   "first": 1770,
    "line": "You run. And this time, you use real physics, not game physics.",
    "note": "you run"
   },
@@ -312,7 +337,7 @@
    "size": "close",
    "key": 30,
    "len": 172,
-   "first": 1726,
+   "first": 1954,
    "line": "What hurts in a fall isn't the speed. It's stopping too fast.",
    "note": "Ellie feet slipping on the cracked board"
   },
@@ -320,8 +345,8 @@
    "id": "S12",
    "size": "graphic",
    "key": 110,
-   "len": 293,
-   "first": 1898,
+   "len": 292,
+   "first": 2126,
    "line": "Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler.",
    "note": "short stop vs long stop: force / 10"
   },
@@ -330,16 +355,25 @@
    "size": "graphic",
    "key": 30,
    "len": 95,
-   "first": 2191,
+   "first": 2418,
    "line": "That's exactly how an airbag works.",
    "note": "an airbag = a longer stop"
+  },
+  {
+   "id": "S26",
+   "size": "graphic",
+   "key": 50,
+   "len": 358,
+   "first": 2513,
+   "line": "It's why stunt people fall onto big soft air cushions, and why gymnasts land on thick mats. Soft and deep beats strong arms, every time.",
+   "note": "stunt air cushion, gym mat: soft and deep"
   },
   {
    "id": "S14",
    "size": "medium",
    "key": 50,
    "len": 232,
-   "first": 2286,
+   "first": 2871,
    "line": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch,",
    "note": "not your arms: grab the beanbag"
   },
@@ -347,8 +381,8 @@
    "id": "S15",
    "size": "wide",
    "key": 14,
-   "len": 90,
-   "first": 2518,
+   "len": 91,
+   "first": 3103,
    "line": "throw it under the tree house, and",
    "note": "throw it under the tree house"
   },
@@ -356,8 +390,8 @@
    "id": "S16",
    "size": "medium",
    "key": 8,
-   "len": 65,
-   "first": 2608,
+   "len": 64,
+   "first": 3194,
    "line": "dive in underneath it.",
    "note": "dive in under it"
   },
@@ -365,8 +399,8 @@
    "id": "S17",
    "size": "medium",
    "key": 40,
-   "len": 155,
-   "first": 2673,
+   "len": 156,
+   "first": 3258,
    "line": "Ellie lands on the beanbag, and the beanbag lands on you.",
    "note": "Ellie falls onto the beanbag, onto you"
   },
@@ -375,7 +409,7 @@
    "size": "close",
    "key": 30,
    "len": 102,
-   "first": 2828,
+   "first": 3414,
    "line": "She's safe. She's laughing, even.",
    "note": "Ellie safe, laughing"
   },
@@ -384,7 +418,7 @@
    "size": "close-up",
    "key": 30,
    "len": 180,
-   "first": 2930,
+   "first": 3516,
    "line": "You're not laughing. Your bar was full. Now it's flashing red.",
    "note": "you under it: bar flashing red"
   },
@@ -393,7 +427,7 @@
    "size": "insert",
    "key": 24,
    "len": 40,
-   "first": 3110,
+   "first": 3696,
    "line": "Zero.",
    "note": "ZERO"
   }

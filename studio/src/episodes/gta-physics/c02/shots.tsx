@@ -175,3 +175,51 @@ export const S17 = faceCU({
     </g>
   ),
 });
+
+// ---------- S18: the scientific way: you tip off a chair on purpose, three times: DING, DING, DING ----------
+const Chair: React.FC<{ x: number; y: number; s: number; rot?: number }> = ({ x, y, s, rot = 0 }) => (
+  <g transform={`translate(${x} ${y}) rotate(${rot}) scale(${s})`}>
+    <path d="M -60 0 L -60 -120 M 60 0 L 60 -120 M -70 -120 L 70 -120 M 55 -120 L 60 -260 M 60 -260 L 60 -170" stroke="#2A1E18" strokeWidth={12} strokeLinecap="round" />
+    <rect x={-75} y={-132} width={150} height={20} rx={6} fill="#8A6A4A" stroke="#2A1E18" strokeWidth={5} />
+  </g>
+);
+export const S18: React.FC<ShotProps> = ({ t, len }) => {
+  const s = stand(GYM, 0.45, 0.55);
+  const per = Math.max(18, Math.min(30, (len - 16) / 3));
+  const i = Math.min(2, Math.floor(t / per));
+  const u = t - i * per;
+  const k = easeIn(clamp((u - 6) / 8));
+  const seat = s.y - 132 * s.scale * 0.9;
+  const standing: Pose = { ...basePose, x: s.x, y: seat - LEG_LEN * s.scale + 20, scale: s.scale, yaw: 0.2, armL: { a: 120, b: -10 }, armR: { a: 130, b: -10 } };
+  const down = lie(s.x + 220 * s.scale, s.y - 30 * s.scale, s.scale, 1, { expr: 'oops' });
+  const pose: Pose = k < 1 ? { ...standing, x: s.x + 200 * s.scale * k, y: standing.y + (s.y - standing.y) * k, spin: 80 * k, expr: k > 0 ? 'shock' : 'happy' } : down;
+  const p = 1 - 0.1 * (i + (u >= 14 ? 1 : 0));
+  return (
+    <g transform={camT(s.x + 80, s.y - 300 * s.scale, kf(t, [[0, 1.25], [len, 1.32]]))}>
+      <Gym t={t + 30} />
+      <Chair x={s.x} y={s.y} s={s.scale * 0.9} />
+      <Body look={YOU} pose={pose} t={t} faces={[[0, 'happy']]} shadow={1} />
+      <Pow x={s.x + 330 * s.scale} y={s.y - 300 * s.scale} t={u - 14} text="DING!" size={70} hold={12} color={BAR.g} rot={0} />
+      <HeadBar x={s.x + 100 * s.scale} y={s.y - 420 * s.scale} s={s.scale * 0.9} p={p} t={t} hit={u >= 14 ? clamp(1 - (u - 14) / 8) : 0} />
+      <text x={s.x - 260 * s.scale} y={s.y - 380 * s.scale} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={56} fill="#F6EFE3" stroke="#0B0816" strokeWidth={8} paintOrder="stroke">TEST {i + 1}/3</text>
+    </g>
+  );
+};
+
+// ---------- S19: a stopwatch counting to 58 s while the bar fills back up ----------
+export const S19: React.FC<ShotProps> = ({ t, len }) => {
+  const k = easeOut(clamp(t / Math.max(20, len - 12)));
+  const sec = Math.round(58 * k);
+  return (
+    <g>
+      <rect width={1920} height={1080} fill="#16202E" />
+      <circle cx={700} cy={560} r={260} fill="#F6EFE3" stroke="#0B0816" strokeWidth={14} />
+      <rect x={670} y={250} width={60} height={50} rx={10} fill="#0B0816" />
+      <path d={`M 700 560 L ${700 + 210 * Math.sin((sec / 60) * Math.PI * 2)} ${560 - 210 * Math.cos((sec / 60) * Math.PI * 2)}`} stroke={BAR.r} strokeWidth={12} strokeLinecap="round" />
+      <circle cx={700} cy={560} r={18} fill="#0B0816" />
+      <text x={700} y={700} textAnchor="middle" fontFamily={FONT.ui} fontSize={70} fill="#0B0816">{sec} s</text>
+      <HeadBar x={1380} y={560} s={2} p={0.7 + 0.3 * k} t={t} />
+      <text x={1380} y={700} textAnchor="middle" fontFamily={FONT.ui} fontSize={46} fill={k >= 1 ? BAR.g : '#F6EFE3'}>{k >= 1 ? 'FULL AGAIN' : 'SIT STILL...'}</text>
+    </g>
+  );
+};

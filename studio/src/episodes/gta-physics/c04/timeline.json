@@ -2,7 +2,7 @@
  "slug": "gta-physics/c04",
  "title": " ",
  "fps": 30,
- "total": 3821,
+ "total": 4598,
  "segments": [
   {
    "shot": "S1",
@@ -133,57 +133,81 @@
    "line": "And at that speed, a car carries the same energy as if you dropped it off a three- story building."
   },
   {
-   "shot": "S15",
+   "shot": "S24",
    "a": 2484,
-   "b": 2738,
+   "b": 2688,
+   "t0": 0,
+   "t1": 204,
+   "line": "Remember the van? It was going about three miles an hour, walking speed."
+  },
+  {
+   "shot": "S25",
+   "a": 2688,
+   "b": 3037,
+   "t0": 0,
+   "t1": 349,
+   "line": "To fly thirty feet through the air, you'd have to leave the ground at over twenty miles an hour. A walking- speed bump can't do that."
+  },
+  {
+   "shot": "S26",
+   "a": 3037,
+   "b": 3261,
+   "t0": 0,
+   "t1": 224,
+   "line": "In a game, the hit gets boosted. Real physics never adds energy that wasn't there."
+  },
+  {
+   "shot": "S15",
+   "a": 3261,
+   "b": 3515,
    "t0": 0,
    "t1": 254,
    "line": "So a real body couldn't do anything you did today. Which means something else is taking the hit."
   },
   {
    "shot": "S16",
-   "a": 2738,
-   "b": 2896,
+   "a": 3515,
+   "b": 3673,
    "t0": 0,
    "t1": 158,
    "line": "Then you think about the hospital. You didn't walk there."
   },
   {
    "shot": "S17",
-   "a": 2896,
-   "b": 2952,
+   "a": 3673,
+   "b": 3729,
    "t0": 0,
    "t1": 56,
    "line": "You appeared there."
   },
   {
    "shot": "S18",
-   "a": 2952,
-   "b": 3219,
+   "a": 3729,
+   "b": 3996,
    "t0": 0,
    "t1": 267,
    "line": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared,"
   },
   {
    "shot": "S19",
-   "a": 3219,
-   "b": 3435,
+   "a": 3996,
+   "b": 4212,
    "t0": 0,
    "t1": 216,
    "line": "says your body is worth more than two days of all the energy the whole world uses."
   },
   {
    "shot": "S20",
-   "a": 3435,
-   "b": 3601,
+   "a": 4212,
+   "b": 4378,
    "t0": 0,
    "t1": 166,
    "line": "Every time you respawn, that energy has to come from somewhere."
   },
   {
    "shot": "S21",
-   "a": 3601,
-   "b": 3821,
+   "a": 4378,
+   "b": 4598,
    "t0": 0,
    "t1": 220,
    "line": "And tonight, it isn't only the hospital that flickers. It's the whole city."
@@ -335,11 +359,38 @@
    "note": "a car dropped three stories = 30 mph"
   },
   {
+   "id": "S24",
+   "size": "medium",
+   "key": 40,
+   "len": 204,
+   "first": 2484,
+   "line": "Remember the van? It was going about three miles an hour, walking speed.",
+   "note": "the van bump again: 3 MPH"
+  },
+  {
+   "id": "S25",
+   "size": "graphic",
+   "key": 70,
+   "len": 349,
+   "first": 2688,
+   "line": "To fly thirty feet through the air, you'd have to leave the ground at over twenty miles an hour. A walking- speed bump can't do that.",
+   "note": "30 ft flight needs 21 mph"
+  },
+  {
+   "id": "S26",
+   "size": "graphic",
+   "key": 50,
+   "len": 224,
+   "first": 3037,
+   "line": "In a game, the hit gets boosted. Real physics never adds energy that wasn't there.",
+   "note": "IN: 3 MPH / OUT: 21 MPH? energy from nowhere"
+  },
+  {
    "id": "S15",
    "size": "medium",
    "key": 40,
    "len": 254,
-   "first": 2484,
+   "first": 3261,
    "line": "So a real body couldn't do anything you did today. Which means something else is taking the hit.",
    "note": "you on the sofa, thinking"
   },
@@ -348,7 +399,7 @@
    "size": "wide",
    "key": 40,
    "len": 158,
-   "first": 2738,
+   "first": 3515,
    "line": "Then you think about the hospital. You didn't walk there.",
    "note": "the hospital hallway: you didn't walk here"
   },
@@ -357,7 +408,7 @@
    "size": "medium",
    "key": 14,
    "len": 56,
-   "first": 2896,
+   "first": 3673,
    "line": "You appeared there.",
    "note": "you appear out of light"
   },
@@ -366,7 +417,7 @@
    "size": "graphic",
    "key": 30,
    "len": 267,
-   "first": 2952,
+   "first": 3729,
    "line": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared,",
    "note": "E = mc2"
   },
@@ -375,7 +426,7 @@
    "size": "graphic",
    "key": 70,
    "len": 216,
-   "first": 3219,
+   "first": 3996,
    "line": "says your body is worth more than two days of all the energy the whole world uses.",
    "note": "2.4 DAYS of the world energy"
   },
@@ -384,7 +435,7 @@
    "size": "wide",
    "key": 30,
    "len": 166,
-   "first": 3435,
+   "first": 4212,
    "line": "Every time you respawn, that energy has to come from somewhere.",
    "note": "power flowing into the hospital"
   },
@@ -393,7 +444,7 @@
    "size": "wide",
    "key": 60,
    "len": 220,
-   "first": 3601,
+   "first": 4378,
    "line": "And tonight, it isn't only the hospital that flickers. It's the whole city.",
    "note": "the whole city flickers"
   }

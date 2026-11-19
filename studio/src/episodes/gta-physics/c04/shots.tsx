@@ -1,7 +1,7 @@
 import React from 'react';
 import { Hero, Pose, basePose, kf, camT, clamp, easeOut, easeIn, backOut, ShotProps, FONT, LEG_LEN, Schematic, SCH, SchLabel, DrawOn, CountUp, Arrow, factCard, chapterCard, UI, Glow } from '../../../engine';
 import {
-  YOU, Body, Soft, faceCU, bigWord, wordF, HeadBar, overHead, flying, landed, Pow, BAR, Car, StreetModern, STREETM, streetHip, CityNight, HospitalRoom, inBed, Sheet, Pillow, LivingRoom, sofaSit,
+  YOU, Body, Soft, faceCU, bigWord, wordF, HeadBar, overHead, flying, landed, Pow, BAR, Van, Car, StreetModern, STREETM, streetHip, CityNight, HospitalRoom, inBed, Sheet, Pillow, LivingRoom, sofaSit,
 } from '../common';
 import { Hospital } from '../../electricity/sets';
 import { shk } from '../../gravity/common';
@@ -378,5 +378,65 @@ const SpeedLines2: React.FC<{ t: number }> = ({ t }) => (
       const y = ((i * 137 + t * 40) % 1300) - 200;
       return <path key={i} d={`M ${x} ${y} L ${x} ${y - 220}`} stroke="#FFFFFF" strokeWidth={6} strokeLinecap="round" />;
     })}
+  </g>
+);
+
+// ---------- S24: remember the van? A slow replay of the bump, walking speed: 3 MPH ----------
+export const S24: React.FC<ShotProps> = ({ t, len }) => {
+  const hitAt = Math.min(36, Math.max(20, len - 12));
+  const vx = kf(t, [[0, 240], [hitAt, 520], [len, 540]]);
+  const hit = t >= hitAt;
+  const pose: Pose = { ...basePose, x: 820, y: streetHip(1), yaw: -0.5, look: -0.8, tilt: hit ? -8 : 0, expr: hit ? 'oops' : 'neutral' };
+  return (
+    <g>
+      <g transform={camT(kf(t, [[0, 720], [len, 780]]), 560, 1.3)}>
+        <DAY t={t + 40} />
+        <Van x={vx} y={STREETM.feet + 120} s={0.85} />
+        <Body look={YOU} pose={pose} t={t} faces={[[0, 'neutral'], [hitAt, 'oops']]} shadow={1} />
+      </g>
+      <rect width={1920} height={1080} fill="#0B0816" opacity={0.18} />
+      <g transform="translate(300 170)">
+        <rect x={-190} y={-56} width={380} height={100} rx={50} fill={UI.pill} stroke="#F6EFE3" strokeWidth={4} />
+        <text textAnchor="middle" y={14} fontFamily={FONT.ui} fontSize={52} fill="#F6EFE3">VAN: 3 MPH</text>
+      </g>
+      <g opacity={clamp((t - 6) / 6)}><rect x={1250} y={124} width={500} height={70} rx={35} fill={UI.pill} /><text x={1500} y={172} textAnchor="middle" fontFamily={FONT.ui} fontSize={34} fill="#F6EFE3">REPLAY · WALKING SPEED</text></g>
+    </g>
+  );
+};
+
+// ---------- S25: a 30 ft flight needs a launch at over 20 mph ----------
+export const S25: React.FC<ShotProps> = ({ t, len, f }) => {
+  const k = clamp((t - 8) / Math.max(20, len - 30));
+  const x0 = 360, x1 = 1560, g = 820, h = 380;
+  const x = x0 + (x1 - x0) * k;
+  const y = g - 4 * h * k * (1 - k);
+  return (
+    <g>
+      <SchBg t={t} len={len} id="c4s25" />
+      <DrawOn d={`M 160 ${g} L 1760 ${g}`} t={t} dur={10} color={SCH.dim} width={4} />
+      <DrawOn d={`M ${x0} ${g} Q 960 ${g - 2 * h} ${x1} ${g}`} t={t - 6} dur={30} color={SCH.dim} width={4} />
+      {fig(x, y - 80, 0.9, 360 * k)}
+      <Arrow x0={x0} y0={g + 70} x1={x1} y1={g + 70} t={t - 10} dur={24} />
+      <SchLabel x={960} y={g + 190} t={t - 20} text="30 FT (9 M) THROUGH THE AIR" size={44} color={SCH.dim} />
+      <SchLabel x={960} y={200} t={t - 30} text="LAUNCH SPEED NEEDED" size={42} color={SCH.dim} />
+      <text x={960} y={340} textAnchor="middle" fontFamily={FONT.ui} fontSize={130} fill={SCH.live} opacity={clamp((t - 34) / 8)}>21 MPH</text>
+      <SchLabel x={960} y={410} t={t - 44} text="EVEN AT THE PERFECT 45° ANGLE" size={32} color={SCH.dim} />
+    </g>
+  );
+};
+
+// ---------- S26: in 3 mph, out 21 mph: the game adds energy from nowhere ----------
+export const S26: React.FC<ShotProps> = ({ t, len }) => (
+  <g>
+    <SchBg t={t} len={len} id="c4s26" />
+    <SchLabel x={520} y={330} t={t - 2} text="IN" size={52} color={SCH.dim} />
+    <text x={520} y={520} textAnchor="middle" fontFamily={FONT.ui} fontSize={150} fill={BAR.g} opacity={clamp((t - 4) / 6)}>3</text>
+    <SchLabel x={520} y={590} t={t - 6} text="MPH" size={40} color={SCH.dim} />
+    <DrawOn d="M 760 460 L 1140 460" t={t - 10} dur={10} color={SCH.dim} width={8} />
+    <path d="M 1140 430 L 1190 460 L 1140 490 Z" fill={SCH.dim} opacity={clamp((t - 20) / 4)} />
+    <SchLabel x={1400} y={330} t={t - 18} text="OUT" size={52} color={SCH.dim} />
+    <text x={1400} y={520} textAnchor="middle" fontFamily={FONT.ui} fontSize={150} fill={SCH.live} opacity={clamp((t - 22) / 6)}>21</text>
+    <SchLabel x={1400} y={590} t={t - 24} text="MPH" size={40} color={SCH.dim} />
+    <SchLabel x={960} y={800} t={t - 34} text="REAL PHYSICS NEVER ADDS ENERGY" size={50} color={SCH.live} />
   </g>
 );

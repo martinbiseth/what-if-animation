@@ -1,7 +1,7 @@
 import React from 'react';
 import { Hero, Pose, basePose, kf, camT, clamp, easeOut, backOut, ShotProps, FONT, stand, Schematic, SCH, SchLabel, DrawOn, factCard, Kitchen, KITCHEN, KitchenIsland, talkShot, Glow, UI } from '../../../engine';
 import {
-  YOU, MOM, SUIT, Body, Soft, faceCU, bigWord, wordF, HeadBar, overHead, Pow, BAR, barColor, Car, StreetModern, STREETM, streetHip, CityNight, NewsTV, Hallway, HALL, Tablet, CityMap, Heart,
+  YOU, MOM, MO, SUIT, Body, Soft, faceCU, bigWord, wordF, HeadBar, overHead, Pow, BAR, barColor, Car, StreetModern, STREETM, streetHip, CityNight, NewsTV, Hallway, HALL, Tablet, CityMap, Heart,
 } from '../common';
 import words from './words.json';
 
@@ -253,3 +253,47 @@ export const S21: React.FC<ShotProps> = ({ t, len }) => (
     </g>
   </g>
 );
+
+// ---------- S22: lunch: Mo does the math on a napkin ----------
+export const S22 = talkShot({
+  Set: HL, words: W, id: 'c5s22',
+  cast: [
+    { look: YOU, x: 820, y: 700, scale: 1, yaw: 0.5, faces: [[0, 'worried']] },
+    { look: MO, x: 1100, y: 700, scale: 1, yaw: -0.4, seed: 4, talk: [span('Two', 'sixteen')], faces: [[0, 'neutral']], pose: { armR: { a: 60, b: -90 }, look: 0.6 } },
+  ],
+  cam: { from: [960, 540, 2.1], to: [980, 540, 2.3] },
+});
+
+// ---------- S23: the napkin: 2, 4, 8, 16 ... = 34 MIN ----------
+export const S23: React.FC<ShotProps> = ({ t, len }) => {
+  const nums = ['2 s', '4 s', '8 s', '16 s', '...', '2,048 s'];
+  return (
+    <g transform={camT(960, 540, kf(t, [[0, 1], [len, 1.06]]))}>
+      <rect x={-200} y={-200} width={2320} height={1480} fill="#6A4A34" />
+      <g transform="rotate(-4 960 540)">
+        <rect x={460} y={150} width={1000} height={780} rx={10} fill="#F6EFE3" stroke="#C9BFAF" strokeWidth={6} />
+        <path d="M 460 300 L 1460 300" stroke="#E2D8C6" strokeWidth={4} />
+        {nums.map((n, i) => (
+          <text key={i} x={560 + (i % 3) * 300} y={420 + Math.floor(i / 3) * 150} fontFamily="'Comic Sans MS', 'Patrick Hand', cursive" fontSize={80} fill="#2A3A7A" opacity={clamp((t - 4 - i * 6) / 4)}>{n}</text>
+        ))}
+        <text x={960} y={830} textAnchor="middle" fontFamily="'Comic Sans MS', 'Patrick Hand', cursive" fontSize={110} fill={BAR.r} opacity={clamp((t - 44) / 6)}>= 34 MIN!!</text>
+        {t >= 50 ? <ellipse cx={960} cy={800} rx={300} ry={90} fill="none" stroke={BAR.r} strokeWidth={8} opacity={clamp((t - 50) / 6)} /> : null}
+      </g>
+    </g>
+  );
+};
+
+// ---------- S24: Mo looks at your bar and quietly slides away ----------
+export const S24: React.FC<ShotProps> = ({ t, len }) => {
+  const k = easeOut(clamp((t - 16) / Math.max(10, len - 26)));
+  const you: Pose = { ...basePose, x: 820, y: 700, scale: 1, yaw: 0.4 };
+  const mo: Pose = { ...basePose, x: 1080 + 200 * k, y: 700, scale: 1, yaw: -0.4, look: t < 16 ? -0.9 : -0.3 };
+  return (
+    <g transform={camT(980, 540, kf(t, [[0, 2.1], [len, 2.0]]))}>
+      <HL t={t + 30} />
+      <Body look={YOU} pose={you} t={t} faces={[[0, 'neutral'], [24, 'worried']]} shadow={1} />
+      <HeadBar {...overHead(you)} p={1} t={t} />
+      <Body look={MO} pose={mo} t={t} seed={4} faces={[[0, 'worried'], [16, 'oops']]} shadow={1} />
+    </g>
+  );
+};

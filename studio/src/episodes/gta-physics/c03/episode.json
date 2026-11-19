@@ -179,6 +179,20 @@
    "key": 40
   },
   {
+   "id": "S27",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "REAL STUNT PROS: MATS, AIRBAGS, PRACTICE",
+   "key": 60
+  },
+  {
+   "id": "S28",
+   "size": "close-up",
+   "set": "street day",
+   "note": "you: a green bar, no practice",
+   "key": 30
+  },
+  {
    "id": "S18",
    "size": "wide",
    "set": "street dusk",
@@ -310,6 +324,14 @@
   {
    "shot": "S17",
    "at": "And"
+  },
+  {
+   "shot": "S27",
+   "at": "Real"
+  },
+  {
+   "shot": "S28",
+   "at": "You"
   },
   {
    "shot": "S18",

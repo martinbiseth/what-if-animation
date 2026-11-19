@@ -8,5 +8,5 @@ const W = words as Word[];
 const at = (a: string, n = 1) => wordF(W, a, n);
 export const c02 = defineEpisode('GtaPhysicsC02', {
   timeline: timeline as Timeline, shots,
-  hud: healthHud([[0, -1], [at('Ding'), 1], [at('chunk') + 4, 0.85], [at('fills'), 1], [at('zero'), 0.4], [at('everything'), 0], [at('wake'), 1]]),
+  hud: healthHud([[0, -1], [at('Ding'), 1], [at('chunk') + 4, 0.85], [at('fills'), 1], [at('dings'), 0.7], [at('later'), 1], [at('zero'), 0.4], [at('everything'), 0], [at('wake'), 1]]),
 });

@@ -180,6 +180,27 @@
    "key": 60
   },
   {
+   "id": "S22",
+   "size": "two-shot",
+   "set": "hallway",
+   "note": "lunch: Mo does the math on a napkin",
+   "key": 50
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "napkin",
+   "note": "2, 4, 8, 16 ... = 34 MIN",
+   "key": 50
+  },
+  {
+   "id": "S24",
+   "size": "two-shot",
+   "set": "hallway",
+   "note": "Mo slides his chair away",
+   "key": 40
+  },
+  {
    "id": "S18",
    "size": "wide",
    "set": "hallway",
@@ -273,6 +294,18 @@
   {
    "shot": "S17",
    "at": "He#2"
+  },
+  {
+   "shot": "S22",
+   "at": "At"
+  },
+  {
+   "shot": "S23",
+   "at": "Dude"
+  },
+  {
+   "shot": "S24",
+   "at": "Then"
   },
   {
    "shot": "S18",

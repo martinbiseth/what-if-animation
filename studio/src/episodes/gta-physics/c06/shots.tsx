@@ -290,3 +290,26 @@ export const S23: React.FC<ShotProps> = ({ t, len }) => (
     <Body look={ELLIE} pose={ellieOnRoof({ x: EX + Math.min(20, t * 0.6), tilt: 18, legL: { a: 30, b: -10 }, legR: { a: -20, b: -10 } })} t={t} faces={[[0, 'shock']]} seed={5} />
   </g>
 );
+
+// ---------- S25: a fall from that roof takes less than a second ----------
+export const S25 = factCard({ value: 0.79, suffix: ' S', label: 'A FALL FROM THE TREE-HOUSE ROOF TAKES', sub: 't = √(2h / g), 3 M', format: (v) => v.toFixed(2) });
+
+// ---------- S26: stunt air cushions, gym mats: soft and deep beats strong arms ----------
+export const S26: React.FC<ShotProps> = ({ t, len }) => (
+  <g>
+    <g transform={camT(960, 540, kf(t, [[0, 1], [len, 1.04]]))}>
+      <Schematic t={t} id="c6s26" />
+    </g>
+    <SchLabel x={960} y={180} t={t - 2} text="THE SAME TRICK, EVERYWHERE" size={42} color={SCH.dim} />
+    <g opacity={clamp((t - 4) / 6)}>
+      <rect x={260} y={600} width={560} height={200} rx={50} fill="none" stroke={SCH.live} strokeWidth={6} />
+      <path d="M 300 640 L 780 640 M 300 700 L 780 700 M 300 760 L 780 760" stroke={SCH.dim} strokeWidth={3} />
+      <SchLabel x={540} y={880} t={t - 8} text="STUNT AIR CUSHION" size={40} color={SCH.live} />
+    </g>
+    <g opacity={clamp((t - 16) / 6)}>
+      <rect x={1100} y={700} width={560} height={100} rx={16} fill="none" stroke={BAR.g} strokeWidth={6} />
+      <SchLabel x={1380} y={880} t={t - 20} text="GYM MAT" size={40} color={BAR.g} />
+    </g>
+    <SchLabel x={960} y={440} t={t - 30} text="SOFT + DEEP > STRONG ARMS" size={60} color={SCH.live} />
+  </g>
+);

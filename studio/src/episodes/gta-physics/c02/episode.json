@@ -100,6 +100,20 @@
    "key": 40
   },
   {
+   "id": "S18",
+   "size": "medium",
+   "set": "gym",
+   "note": "you tip off a chair on purpose: DING x3",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "set": "gym",
+   "note": "stopwatch to 58 s, the bar refills",
+   "key": 60
+  },
+  {
    "id": "S9",
    "size": "graphic",
    "set": "schematic",
@@ -195,6 +209,14 @@
   {
    "shot": "S8",
    "at": "Sit"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "Then"
   },
   {
    "shot": "S9",

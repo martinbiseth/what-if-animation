@@ -2,7 +2,7 @@
  "slug": "gta-physics/c03",
  "title": " ",
  "fps": 30,
- "total": 3947,
+ "total": 4424,
  "segments": [
   {
    "shot": "S1",
@@ -141,73 +141,89 @@
    "line": "And here's the part you need to hear. Don't try any of this. You don't have the bar. Nobody does."
   },
   {
-   "shot": "S18",
+   "shot": "S27",
    "a": 2710,
-   "b": 2972,
+   "b": 2968,
    "t0": 0,
-   "t1": 262,
+   "t1": 258,
+   "line": "Real stunt doubles use crash mats, airbags and months of practice, and they still get hurt sometimes."
+  },
+  {
+   "shot": "S28",
+   "a": 2968,
+   "b": 3187,
+   "t0": 0,
+   "t1": 219,
+   "line": "You have a green bar and no practice at all. That's the only reason you're fine."
+  },
+  {
+   "shot": "S18",
+   "a": 3187,
+   "b": 3450,
+   "t0": 0,
+   "t1": 263,
    "line": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie,"
   },
   {
    "shot": "S19",
-   "a": 2972,
-   "b": 3109,
+   "a": 3450,
+   "b": 3586,
    "t0": 0,
-   "t1": 137,
+   "t1": 136,
    "line": "and you trip on Mo's skateboard. One tiny trip."
   },
   {
    "shot": "S20",
-   "a": 3109,
-   "b": 3166,
+   "a": 3586,
+   "b": 3644,
    "t0": 0,
-   "t1": 57,
+   "t1": 58,
    "line": "The bar hits zero."
   },
   {
    "shot": "S21",
-   "a": 3166,
-   "b": 3228,
+   "a": 3644,
+   "b": 3705,
    "t0": 0,
-   "t1": 62,
+   "t1": 61,
    "line": "Everything goes black."
   },
   {
    "shot": "S22",
-   "a": 3228,
-   "b": 3381,
+   "a": 3705,
+   "b": 3858,
    "t0": 0,
    "t1": 153,
    "line": "You open your eyes in a hospital bed, in a clean gown."
   },
   {
    "shot": "S23",
-   "a": 3381,
-   "b": 3547,
+   "a": 3858,
+   "b": 4025,
    "t0": 0,
-   "t1": 166,
+   "t1": 167,
    "line": "A nurse is staring at you like you just walked through a wall."
   },
   {
    "shot": "S26",
-   "a": 3547,
-   "b": 3635,
+   "a": 4025,
+   "b": 4112,
    "t0": 0,
-   "t1": 88,
+   "t1": 87,
    "line": "Because, technically, you did."
   },
   {
    "shot": "S24",
-   "a": 3635,
-   "b": 3766,
+   "a": 4112,
+   "b": 4243,
    "t0": 0,
    "t1": 131,
    "line": "Twenty seconds ago, you weren't in this building."
   },
   {
    "shot": "S25",
-   "a": 3766,
-   "b": 3947,
+   "a": 4243,
+   "b": 4424,
    "t0": 0,
    "t1": 181,
    "line": "And at that exact second, every light in the hospital flickers."
@@ -368,11 +384,29 @@
    "note": "WARNING: DON'T TRY THIS"
   },
   {
+   "id": "S27",
+   "size": "graphic",
+   "key": 60,
+   "len": 258,
+   "first": 2710,
+   "line": "Real stunt doubles use crash mats, airbags and months of practice, and they still get hurt sometimes.",
+   "note": "REAL STUNT PROS: MATS, AIRBAGS, PRACTICE"
+  },
+  {
+   "id": "S28",
+   "size": "close-up",
+   "key": 30,
+   "len": 219,
+   "first": 2968,
+   "line": "You have a green bar and no practice at all. That's the only reason you're fine.",
+   "note": "you: a green bar, no practice"
+  },
+  {
    "id": "S18",
    "size": "wide",
    "key": 50,
-   "len": 262,
-   "first": 2710,
+   "len": 263,
+   "first": 3187,
    "line": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie,",
    "note": "walking home, bar nearly empty, waving at Ellie"
   },
@@ -380,8 +414,8 @@
    "id": "S19",
    "size": "medium",
    "key": 30,
-   "len": 137,
-   "first": 2972,
+   "len": 136,
+   "first": 3450,
    "line": "and you trip on Mo's skateboard. One tiny trip.",
    "note": "one tiny trip on the skateboard"
   },
@@ -389,8 +423,8 @@
    "id": "S20",
    "size": "insert",
    "key": 24,
-   "len": 57,
-   "first": 3109,
+   "len": 58,
+   "first": 3586,
    "line": "The bar hits zero.",
    "note": "the bar hits zero"
   },
@@ -398,8 +432,8 @@
    "id": "S21",
    "size": "black",
    "key": 20,
-   "len": 62,
-   "first": 3166,
+   "len": 61,
+   "first": 3644,
    "line": "Everything goes black.",
    "note": "RESPAWNING"
   },
@@ -408,7 +442,7 @@
    "size": "medium",
    "key": 30,
    "len": 153,
-   "first": 3228,
+   "first": 3705,
    "line": "You open your eyes in a hospital bed, in a clean gown.",
    "note": "your eyes open in a hospital bed"
   },
@@ -416,8 +450,8 @@
    "id": "S23",
    "size": "close-up",
    "key": 20,
-   "len": 166,
-   "first": 3381,
+   "len": 167,
+   "first": 3858,
    "line": "A nurse is staring at you like you just walked through a wall.",
    "note": "the nurse staring"
   },
@@ -425,8 +459,8 @@
    "id": "S26",
    "size": "close-up",
    "key": 20,
-   "len": 88,
-   "first": 3547,
+   "len": 87,
+   "first": 4025,
    "line": "Because, technically, you did.",
    "note": "you, in the gown: technically, you did"
   },
@@ -435,7 +469,7 @@
    "size": "medium",
    "key": 20,
    "len": 131,
-   "first": 3635,
+   "first": 4112,
    "line": "Twenty seconds ago, you weren't in this building.",
    "note": "20 SECONDS AGO: empty bed, then you"
   },
@@ -444,7 +478,7 @@
    "size": "wide",
    "key": 50,
    "len": 181,
-   "first": 3766,
+   "first": 4243,
    "line": "And at that exact second, every light in the hospital flickers.",
    "note": "every light flickers"
   }

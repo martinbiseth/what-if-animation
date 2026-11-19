@@ -144,11 +144,25 @@
    "key": 70
   },
   {
+   "id": "S19",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "AIRBAG = A LONGER STOP = SAFE",
+   "key": 50
+  },
+  {
    "id": "S17",
    "size": "close-up",
    "set": "hospital room",
    "note": "you in the dark: would you have dived?",
    "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "big word",
+   "set": "dark",
+   "note": "ONE DAY WITH THE BAR: WHAT FIRST?",
+   "key": 20
   },
   {
    "id": "S18",
@@ -224,8 +238,16 @@
    "at": "And"
   },
   {
+   "shot": "S19",
+   "at": "And"
+  },
+  {
    "shot": "S17",
    "at": "Would"
+  },
+  {
+   "shot": "S20",
+   "at": "If"
   },
   {
    "shot": "S18",

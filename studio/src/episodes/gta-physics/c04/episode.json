@@ -201,6 +201,27 @@
    "key": 60
   },
   {
+   "id": "S24",
+   "size": "medium",
+   "set": "street day",
+   "note": "the van bump again: 3 MPH",
+   "key": 40
+  },
+  {
+   "id": "S25",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "30 ft flight needs 21 mph",
+   "key": 70
+  },
+  {
+   "id": "S26",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "IN: 3 MPH / OUT: 21 MPH? energy from nowhere",
+   "key": 50
+  },
+  {
    "id": "S15",
    "size": "medium",
    "set": "living room",
@@ -314,6 +335,18 @@
   {
    "shot": "S14",
    "at": "And"
+  },
+  {
+   "shot": "S24",
+   "at": "Remember"
+  },
+  {
+   "shot": "S25",
+   "at": "To"
+  },
+  {
+   "shot": "S26",
+   "at": "In"
   },
   {
    "shot": "S15",

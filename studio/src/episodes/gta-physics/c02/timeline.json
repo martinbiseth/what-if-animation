@@ -2,7 +2,7 @@
  "slug": "gta-physics/c02",
  "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 1843,
+ "total": 2316,
  "segments": [
   {
    "shot": "S1",
@@ -69,73 +69,89 @@
    "line": "Sit still for a minute, and the bar fills back up."
   },
   {
-   "shot": "S9",
+   "shot": "S18",
    "a": 816,
-   "b": 926,
+   "b": 1070,
    "t0": 0,
-   "t1": 110,
+   "t1": 254,
+   "line": "You test it the scientific way. You fall off a chair on purpose, three times. Three dings."
+  },
+  {
+   "shot": "S19",
+   "a": 1070,
+   "b": 1288,
+   "t0": 0,
+   "t1": 218,
+   "line": "Then you sit still and count. Fifty- eight seconds later, the bar is full again."
+  },
+  {
+   "shot": "S9",
+   "a": 1288,
+   "b": 1399,
+   "t0": 0,
+   "t1": 111,
    "line": "Rule three. If the bar ever hits zero,"
   },
   {
    "shot": "S10",
-   "a": 926,
-   "b": 982,
+   "a": 1399,
+   "b": 1455,
    "t0": 0,
    "t1": 56,
    "line": "everything goes black,"
   },
   {
    "shot": "S11",
-   "a": 982,
-   "b": 1138,
+   "a": 1455,
+   "b": 1611,
    "t0": 0,
    "t1": 156,
    "line": "and you wake up in the nearest hospital. Perfectly fine."
   },
   {
    "shot": "S12",
-   "a": 1138,
-   "b": 1268,
+   "a": 1611,
+   "b": 1741,
    "t0": 0,
    "t1": 130,
    "line": "And rule four, which Mo makes up on the spot."
   },
   {
    "shot": "S13",
-   "a": 1268,
-   "b": 1335,
+   "a": 1741,
+   "b": 1808,
    "t0": 0,
    "t1": 67,
    "line": "Never, ever tell Mom."
   },
   {
    "shot": "S14",
-   "a": 1335,
-   "b": 1508,
+   "a": 1808,
+   "b": 1981,
    "t0": 0,
    "t1": 173,
    "line": "Mo stares at you. 'Bro. You've got GTA physics. You've got"
   },
   {
    "shot": "S15",
-   "a": 1508,
-   "b": 1545,
+   "a": 1981,
+   "b": 2018,
    "t0": 0,
    "t1": 37,
    "line": "respawn. '"
   },
   {
    "shot": "S16",
-   "a": 1545,
-   "b": 1766,
+   "a": 2018,
+   "b": 2239,
    "t0": 0,
    "t1": 221,
    "line": "There's just one thing you haven't noticed yet. The bar only floats over your head."
   },
   {
    "shot": "S17",
-   "a": 1766,
-   "b": 1843,
+   "a": 2239,
+   "b": 2316,
    "t0": 0,
    "t1": 77,
    "line": "Nobody else has one."
@@ -215,11 +231,29 @@
    "note": "on the bench, the bar fills"
   },
   {
+   "id": "S18",
+   "size": "medium",
+   "key": 60,
+   "len": 254,
+   "first": 816,
+   "line": "You test it the scientific way. You fall off a chair on purpose, three times. Three dings.",
+   "note": "you tip off a chair on purpose: DING x3"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 60,
+   "len": 218,
+   "first": 1070,
+   "line": "Then you sit still and count. Fifty- eight seconds later, the bar is full again.",
+   "note": "stopwatch to 58 s, the bar refills"
+  },
+  {
    "id": "S9",
    "size": "graphic",
    "key": 30,
-   "len": 110,
-   "first": 816,
+   "len": 111,
+   "first": 1288,
    "line": "Rule three. If the bar ever hits zero,",
    "note": "RULE 3 ZERO = HOSPITAL"
   },
@@ -228,7 +262,7 @@
    "size": "black",
    "key": 24,
    "len": 56,
-   "first": 926,
+   "first": 1399,
    "line": "everything goes black,",
    "note": "RESPAWNING"
   },
@@ -237,7 +271,7 @@
    "size": "medium",
    "key": 40,
    "len": 156,
-   "first": 982,
+   "first": 1455,
    "line": "and you wake up in the nearest hospital. Perfectly fine.",
    "note": "you sit up, thumbs up, perfectly fine"
   },
@@ -246,7 +280,7 @@
    "size": "graphic",
    "key": 30,
    "len": 130,
-   "first": 1138,
+   "first": 1611,
    "line": "And rule four, which Mo makes up on the spot.",
    "note": "RULE 4 NEVER TELL MOM"
   },
@@ -255,7 +289,7 @@
    "size": "close-up",
    "key": 24,
    "len": 67,
-   "first": 1268,
+   "first": 1741,
    "line": "Never, ever tell Mom.",
    "note": "Mom, eyes narrowing"
   },
@@ -264,7 +298,7 @@
    "size": "two-shot",
    "key": 40,
    "len": 173,
-   "first": 1335,
+   "first": 1808,
    "line": "Mo stares at you. 'Bro. You've got GTA physics. You've got",
    "note": "Mo leans in: bro, GTA physics"
   },
@@ -273,7 +307,7 @@
    "size": "big word",
    "key": 20,
    "len": 37,
-   "first": 1508,
+   "first": 1981,
    "line": "respawn. '",
    "note": "RESPAWN"
   },
@@ -282,7 +316,7 @@
    "size": "wide",
    "key": 40,
    "len": 221,
-   "first": 1545,
+   "first": 2018,
    "line": "There's just one thing you haven't noticed yet. The bar only floats over your head.",
    "note": "crowded hallway, only you have a bar"
   },
@@ -291,7 +325,7 @@
    "size": "close-up",
    "key": 30,
    "len": 77,
-   "first": 1766,
+   "first": 2239,
    "line": "Nobody else has one.",
    "note": "Mo: no bar"
   }

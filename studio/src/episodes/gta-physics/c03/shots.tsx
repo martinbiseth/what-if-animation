@@ -468,3 +468,12 @@ export const S26 = faceCU({
   look: { ...YOU, jacket: '#B8D4E8', jacketShade: '#98B4C8', accent: '#E9F2F8' }, Bg: ({ t, id }) => <HospitalRoom t={t} id={id} />,
   faces: [[0, 'oops'], [24, 'worried']], yaw: 0.1, eyes: 0, pose: { headTilt: 10 }, zoom: [3.0, 3.2],
 });
+
+// ---------- S27: real stunt pros: mats, airbags, practice ----------
+export const S27 = ruleCard({ n: 'STUNT PROS', text: 'MATS · AIRBAGS · PRACTICE', sub: 'AND THEY STILL GET HURT SOMETIMES' });
+
+// ---------- S28: you: a green bar and no practice at all, a sheepish grin ----------
+export const S28 = faceCU({
+  look: YOU, Bg: DAY, faces: [[0, 'oops'], [40, 'happy']], yaw: 0.15, zoom: [3.0, 3.2],
+  extra: (t) => <HeadBar x={960} y={430} s={0.7} p={0.5} t={t} />,
+});

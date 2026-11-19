@@ -192,3 +192,9 @@ export const S18: React.FC<ShotProps> = ({ t }) => (
     <text x={960} y={920} textAnchor="middle" fontFamily={FONT.ui} fontSize={34} fill="#7E8DA6" opacity={clamp((t - 24) / 8)}>GTA IN REAL LIFE · THE SERIES</text>
   </g>
 );
+
+// ---------- S19: an airbag = a longer stop = safe ----------
+export const S19 = factCard({ value: 10, suffix: '× GENTLER', label: 'MAKE THE STOP 10× LONGER, LIKE AN AIRBAG', sub: 'WHAT KEEPS PEOPLE SAFE IN CARS EVERY DAY' });
+
+// ---------- S20: one day with the bar: what first? ----------
+export const S20 = bigWord({ kicker: 'ONE DAY WITH THE BAR', word: 'WHAT FIRST?', color: BAR.g, size: 200 });
