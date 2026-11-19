@@ -1,27 +1,299 @@
 {
  "slug": "gta-physics/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1843,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 66,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 66,
+   "line": "It started this morning."
+  },
+  {
+   "shot": "S2",
+   "a": 66,
+   "b": 180,
+   "t0": 0,
+   "t1": 114,
+   "line": "You rolled out of bed, hit the floor, and"
+  },
+  {
+   "shot": "S3",
+   "a": 180,
+   "b": 315,
+   "t0": 0,
+   "t1": 135,
+   "line": "instead of a thump, you heard a sound. Ding."
+  },
+  {
+   "shot": "S4",
+   "a": 315,
+   "b": 425,
+   "t0": 0,
+   "t1": 110,
+   "line": "By lunch, you've figured out the rules."
+  },
+  {
+   "shot": "S5",
+   "a": 425,
+   "b": 530,
+   "t0": 0,
+   "t1": 105,
+   "line": "Rule one. Nothing really hurts you."
+  },
+  {
+   "shot": "S6",
+   "a": 530,
+   "b": 638,
+   "t0": 0,
+   "t1": 108,
+   "line": "A hit just takes a chunk off the bar."
+  },
+  {
+   "shot": "S7",
+   "a": 638,
+   "b": 673,
+   "t0": 0,
+   "t1": 35,
+   "line": "Rule two."
+  },
+  {
+   "shot": "S8",
+   "a": 673,
+   "b": 816,
+   "t0": 0,
+   "t1": 143,
+   "line": "Sit still for a minute, and the bar fills back up."
+  },
+  {
+   "shot": "S9",
+   "a": 816,
+   "b": 926,
+   "t0": 0,
+   "t1": 110,
+   "line": "Rule three. If the bar ever hits zero,"
+  },
+  {
+   "shot": "S10",
+   "a": 926,
+   "b": 982,
+   "t0": 0,
+   "t1": 56,
+   "line": "everything goes black,"
+  },
+  {
+   "shot": "S11",
+   "a": 982,
+   "b": 1138,
+   "t0": 0,
+   "t1": 156,
+   "line": "and you wake up in the nearest hospital. Perfectly fine."
+  },
+  {
+   "shot": "S12",
+   "a": 1138,
+   "b": 1268,
+   "t0": 0,
+   "t1": 130,
+   "line": "And rule four, which Mo makes up on the spot."
+  },
+  {
+   "shot": "S13",
+   "a": 1268,
+   "b": 1335,
+   "t0": 0,
+   "t1": 67,
+   "line": "Never, ever tell Mom."
+  },
+  {
+   "shot": "S14",
+   "a": 1335,
+   "b": 1508,
+   "t0": 0,
+   "t1": 173,
+   "line": "Mo stares at you. 'Bro. You've got GTA physics. You've got"
+  },
+  {
+   "shot": "S15",
+   "a": 1508,
+   "b": 1545,
+   "t0": 0,
+   "t1": 37,
+   "line": "respawn. '"
+  },
+  {
+   "shot": "S16",
+   "a": 1545,
+   "b": 1766,
+   "t0": 0,
+   "t1": 221,
+   "line": "There's just one thing you haven't noticed yet. The bar only floats over your head."
+  },
+  {
+   "shot": "S17",
+   "a": 1766,
+   "b": 1843,
+   "t0": 0,
+   "t1": 77,
+   "line": "Nobody else has one."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "title",
    "key": 30,
-   "len": 90,
+   "len": 66,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "It started this morning.",
+   "note": "WHAT IF GAME PHYSICS WERE REAL?"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 40,
+   "len": 114,
+   "first": 66,
+   "line": "You rolled out of bed, hit the floor, and",
+   "note": "you roll out of bed and hit the floor: DING"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 20,
+   "len": 135,
+   "first": 180,
+   "line": "instead of a thump, you heard a sound. Ding.",
+   "note": "your face, the bar over it"
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "key": 20,
+   "len": 110,
+   "first": 315,
+   "line": "By lunch, you've figured out the rules.",
+   "note": "BY LUNCH: THE RULES"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 105,
+   "first": 425,
+   "line": "Rule one. Nothing really hurts you.",
+   "note": "RULE 1 NOTHING HURTS"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 108,
+   "first": 530,
+   "line": "A hit just takes a chunk off the bar.",
+   "note": "a locker door BONK, -15"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 30,
+   "len": 35,
+   "first": 638,
+   "line": "Rule two.",
+   "note": "RULE 2 SIT STILL = HEAL"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 40,
+   "len": 143,
+   "first": 673,
+   "line": "Sit still for a minute, and the bar fills back up.",
+   "note": "on the bench, the bar fills"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 30,
+   "len": 110,
+   "first": 816,
+   "line": "Rule three. If the bar ever hits zero,",
+   "note": "RULE 3 ZERO = HOSPITAL"
+  },
+  {
+   "id": "S10",
+   "size": "black",
+   "key": 24,
+   "len": 56,
+   "first": 926,
+   "line": "everything goes black,",
+   "note": "RESPAWNING"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 40,
+   "len": 156,
+   "first": 982,
+   "line": "and you wake up in the nearest hospital. Perfectly fine.",
+   "note": "you sit up, thumbs up, perfectly fine"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 30,
+   "len": 130,
+   "first": 1138,
+   "line": "And rule four, which Mo makes up on the spot.",
+   "note": "RULE 4 NEVER TELL MOM"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 24,
+   "len": 67,
+   "first": 1268,
+   "line": "Never, ever tell Mom.",
+   "note": "Mom, eyes narrowing"
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "key": 40,
+   "len": 173,
+   "first": 1335,
+   "line": "Mo stares at you. 'Bro. You've got GTA physics. You've got",
+   "note": "Mo leans in: bro, GTA physics"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 20,
+   "len": 37,
+   "first": 1508,
+   "line": "respawn. '",
+   "note": "RESPAWN"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 40,
+   "len": 221,
+   "first": 1545,
+   "line": "There's just one thing you haven't noticed yet. The bar only floats over your head.",
+   "note": "crowded hallway, only you have a bar"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 77,
+   "first": 1766,
+   "line": "Nobody else has one.",
+   "note": "Mo: no bar"
   }
  ],
  "fx": [],

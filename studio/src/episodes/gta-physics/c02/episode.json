@@ -41,19 +41,194 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "title",
    "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "WHAT IF GAME PHYSICS WERE REAL?",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "bedroom",
+   "note": "you roll out of bed and hit the floor: DING",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom",
+   "note": "your face, the bar over it",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "set": "hallway",
+   "note": "BY LUNCH: THE RULES",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "RULE 1 NOTHING HURTS",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "hallway",
+   "note": "a locker door BONK, -15",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "RULE 2 SIT STILL = HEAL",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "gym",
+   "note": "on the bench, the bar fills",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "RULE 3 ZERO = HOSPITAL",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "black",
+   "set": "black",
+   "note": "RESPAWNING",
+   "key": 24
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "hospital room",
+   "note": "you sit up, thumbs up, perfectly fine",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "RULE 4 NEVER TELL MOM",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "Mom, eyes narrowing",
+   "key": 24
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "set": "hallway",
+   "note": "Mo leans in: bro, GTA physics",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "hallway",
+   "note": "RESPAWN",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "hallway",
+   "note": "crowded hallway, only you have a bar",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "hallway",
+   "note": "Mo: no bar",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "instead"
+  },
+  {
+   "shot": "S4",
+   "at": "By"
+  },
+  {
+   "shot": "S5",
+   "at": "Rule"
+  },
+  {
+   "shot": "S6",
+   "at": "A"
+  },
+  {
+   "shot": "S7",
+   "at": "Rule"
+  },
+  {
+   "shot": "S8",
+   "at": "Sit"
+  },
+  {
+   "shot": "S9",
+   "at": "Rule"
+  },
+  {
+   "shot": "S10",
+   "at": "everything"
+  },
+  {
+   "shot": "S11",
+   "at": "and"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "Never"
+  },
+  {
+   "shot": "S14",
+   "at": "Mo"
+  },
+  {
+   "shot": "S15",
+   "at": "respawn"
+  },
+  {
+   "shot": "S16",
+   "at": "There's"
+  },
+  {
+   "shot": "S17",
+   "at": "Nobody"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

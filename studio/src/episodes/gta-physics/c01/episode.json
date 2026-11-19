@@ -37,19 +37,183 @@
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "set": "stairwell",
+   "note": "you trip on the top step",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "stairwell",
+   "note": "face: shock, mid-air",
+   "key": 12
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "set": "stairwell",
+   "note": "you bounce down all the steps like a rubber doll",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "stairwell",
+   "note": "at the bottom you just stand up, dust off",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "street day",
+   "note": "the van bumps you at walking speed",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "street day",
+   "note": "you fly thirty feet, spinning",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "street day",
+   "note": "superhero landing on your feet",
+   "key": 20
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "street day",
+   "note": "the van drives on",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "street day",
+   "note": "Mo dares you, you on the garage roof",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "low wide",
+   "set": "street day",
+   "note": "you jump off the roof",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "street day",
+   "note": "roll, dust off, walk away; Mo stunned",
+   "key": 50
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "street day",
+   "note": "something floats over your head",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "street day",
+   "note": "the green bar ticks down",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "dark",
+   "note": "GAME PHYSICS",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a body outline: what would it really do?",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "dark",
+   "note": "the bar drains to zero",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Normally"
+  },
+  {
+   "shot": "S3",
+   "at": "Today"
+  },
+  {
+   "shot": "S4",
+   "at": "And"
+  },
+  {
+   "shot": "S5",
+   "at": "At#2"
+  },
+  {
+   "shot": "S6",
+   "at": "You#2"
+  },
+  {
+   "shot": "S7",
+   "at": "and"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "Your"
+  },
+  {
+   "shot": "S10",
+   "at": "So"
+  },
+  {
+   "shot": "S11",
+   "at": "You#2"
+  },
+  {
+   "shot": "S12",
+   "at": "And#2"
+  },
+  {
+   "shot": "S13",
+   "at": "A"
+  },
+  {
+   "shot": "S14",
+   "at": "Today"
+  },
+  {
+   "shot": "S15",
+   "at": "But"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,

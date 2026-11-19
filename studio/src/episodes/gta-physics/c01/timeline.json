@@ -1,27 +1,282 @@
 {
  "slug": "gta-physics/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1945,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 99,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 99,
+   "line": "You trip on the top step at school."
+  },
+  {
+   "shot": "S2",
+   "a": 99,
+   "b": 193,
+   "t0": 0,
+   "t1": 94,
+   "line": "Normally, that's a very bad day."
+  },
+  {
+   "shot": "S3",
+   "a": 193,
+   "b": 370,
+   "t0": 0,
+   "t1": 177,
+   "line": "Today, you bounce. Down all twelve steps, like a rubber doll."
+  },
+  {
+   "shot": "S4",
+   "a": 370,
+   "b": 479,
+   "t0": 0,
+   "t1": 109,
+   "line": "And at the bottom, you just stand up."
+  },
+  {
+   "shot": "S5",
+   "a": 479,
+   "b": 639,
+   "t0": 0,
+   "t1": 160,
+   "line": "At the crosswalk, a delivery van bumps you at walking speed."
+  },
+  {
+   "shot": "S6",
+   "a": 639,
+   "b": 757,
+   "t0": 0,
+   "t1": 118,
+   "line": "You fly thirty feet, spin twice in the air,"
+  },
+  {
+   "shot": "S7",
+   "a": 757,
+   "b": 825,
+   "t0": 0,
+   "t1": 68,
+   "line": "and land on your feet."
+  },
+  {
+   "shot": "S8",
+   "a": 825,
+   "b": 906,
+   "t0": 0,
+   "t1": 81,
+   "line": "The driver doesn't even stop."
+  },
+  {
+   "shot": "S9",
+   "a": 906,
+   "b": 1062,
+   "t0": 0,
+   "t1": 156,
+   "line": "Your best friend Mo dares you to jump off his garage roof."
+  },
+  {
+   "shot": "S10",
+   "a": 1062,
+   "b": 1101,
+   "t0": 0,
+   "t1": 39,
+   "line": "So you do."
+  },
+  {
+   "shot": "S11",
+   "a": 1101,
+   "b": 1247,
+   "t0": 0,
+   "t1": 146,
+   "line": "You roll once, dust off your hoodie, and walk away."
+  },
+  {
+   "shot": "S12",
+   "a": 1247,
+   "b": 1381,
+   "t0": 0,
+   "t1": 134,
+   "line": "And floating over your head, there's something new."
+  },
+  {
+   "shot": "S13",
+   "a": 1381,
+   "b": 1545,
+   "t0": 0,
+   "t1": 164,
+   "line": "A little green bar. It shrinks a bit every time you land."
+  },
+  {
+   "shot": "S14",
+   "a": 1545,
+   "b": 1651,
+   "t0": 0,
+   "t1": 106,
+   "line": "Today, you run on video game physics."
+  },
+  {
+   "shot": "S15",
+   "a": 1651,
+   "b": 1803,
+   "t0": 0,
+   "t1": 152,
+   "line": "But what would all of this really do to a human body?"
+  },
+  {
+   "shot": "S16",
+   "a": 1803,
+   "b": 1945,
+   "t0": 0,
+   "t1": 142,
+   "line": "And what happens when that little bar runs out?"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "medium",
+   "key": 20,
+   "len": 99,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "You trip on the top step at school.",
+   "note": "you trip on the top step"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 12,
+   "len": 94,
+   "first": 99,
+   "line": "Normally, that's a very bad day.",
+   "note": "face: shock, mid-air"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 177,
+   "first": 193,
+   "line": "Today, you bounce. Down all twelve steps, like a rubber doll.",
+   "note": "you bounce down all the steps like a rubber doll"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 109,
+   "first": 370,
+   "line": "And at the bottom, you just stand up.",
+   "note": "at the bottom you just stand up, dust off"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 160,
+   "first": 479,
+   "line": "At the crosswalk, a delivery van bumps you at walking speed.",
+   "note": "the van bumps you at walking speed"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 20,
+   "len": 118,
+   "first": 639,
+   "line": "You fly thirty feet, spin twice in the air,",
+   "note": "you fly thirty feet, spinning"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 20,
+   "len": 68,
+   "first": 757,
+   "line": "and land on your feet.",
+   "note": "superhero landing on your feet"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 20,
+   "len": 81,
+   "first": 825,
+   "line": "The driver doesn't even stop.",
+   "note": "the van drives on"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "len": 156,
+   "first": 906,
+   "line": "Your best friend Mo dares you to jump off his garage roof.",
+   "note": "Mo dares you, you on the garage roof"
+  },
+  {
+   "id": "S10",
+   "size": "low wide",
+   "key": 20,
+   "len": 39,
+   "first": 1062,
+   "line": "So you do.",
+   "note": "you jump off the roof"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 50,
+   "len": 146,
+   "first": 1101,
+   "line": "You roll once, dust off your hoodie, and walk away.",
+   "note": "roll, dust off, walk away; Mo stunned"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 134,
+   "first": 1247,
+   "line": "And floating over your head, there's something new.",
+   "note": "something floats over your head"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 164,
+   "first": 1381,
+   "line": "A little green bar. It shrinks a bit every time you land.",
+   "note": "the green bar ticks down"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 20,
+   "len": 106,
+   "first": 1545,
+   "line": "Today, you run on video game physics.",
+   "note": "GAME PHYSICS"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 40,
+   "len": 152,
+   "first": 1651,
+   "line": "But what would all of this really do to a human body?",
+   "note": "a body outline: what would it really do?"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 40,
+   "len": 142,
+   "first": 1803,
+   "line": "And what happens when that little bar runs out?",
+   "note": "the bar drains to zero"
   }
  ],
  "fx": [],
