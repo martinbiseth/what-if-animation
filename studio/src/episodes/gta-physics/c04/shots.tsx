@@ -189,7 +189,6 @@ export const S12: React.FC<ShotProps> = ({ t, len }) => {
       {t < stop ? <path d={`M ${x - 240} ${F + 80} L ${x - 500} ${F + 80} M ${x - 240} ${F + 40} L ${x - 440} ${F + 40}`} stroke="#F6EFE3" strokeWidth={6} opacity={0.6} /> : null}
       <Pow x={x + 120} y={F - 160} t={t - stop} text="STOP." size={80} hold={40} rot={0} color="#F6EFE3" />
     </g>
-    <g>
       <g transform="translate(260 180)">
         <rect x={-140} y={-46} width={280} height={80} rx={40} fill={UI.pill} stroke={BAR.g} strokeWidth={4} />
         <text textAnchor="middle" y={10} fontFamily={FONT.ui} fontSize={40} fill={BAR.g}>GAME</text>
