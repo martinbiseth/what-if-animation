@@ -26,18 +26,22 @@
   },
   {
    "beat": "p6",
-   "text": "So a real body couldn't do anything you did today. Which means something else is taking the hit."
+   "text": "Remember the van? It was going about three miles an hour, walking speed. To fly thirty feet through the air, you'd have to leave the ground at over twenty miles an hour. A walking-speed bump can't do that. In a game, the hit gets boosted. Real physics never adds energy that wasn't there."
   },
   {
    "beat": "p7",
-   "text": "Then you think about the hospital. You didn't walk there. You appeared there."
+   "text": "So a real body couldn't do anything you did today. Which means something else is taking the hit."
   },
   {
    "beat": "p8",
-   "text": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared, says your body is worth more than two days of all the energy the whole world uses."
+   "text": "Then you think about the hospital. You didn't walk there. You appeared there."
   },
   {
    "beat": "p9",
+   "text": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared, says your body is worth more than two days of all the energy the whole world uses."
+  },
+  {
+   "beat": "p10",
    "text": "Every time you respawn, that energy has to come from somewhere. And tonight, it isn't only the hospital that flickers. It's the whole city."
   }
  ],
@@ -71,6 +75,11 @@
    "claim": "A car at 30 mph carries the same energy as if it were dropped from about three stories.",
    "working": "1/2 m v2 = m g h, so h = v2 / 2g = 13.4^2 / 19.6 = 9.2 m, about three stories.",
    "source": "Kinetic and potential energy, basic mechanics"
+  },
+  {
+   "claim": "To fly 30 feet through the air, you have to leave the ground at over 20 mph; a van at walking speed (about 3 mph) can't give you that.",
+   "working": "Best case, launched at 45 degrees on flat ground: range R = v2 / g, so v = sqrt(9.1 x 9.81) = 9.5 m/s = 21 mph. Walking speed is about 1.3 m/s = 3 mph.",
+   "source": "Projectile motion, basic mechanics"
   },
   {
    "claim": "The energy in a 45 kg body is more than two days of all the energy the world uses.",

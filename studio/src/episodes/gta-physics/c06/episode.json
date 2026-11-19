@@ -30,26 +30,34 @@
   },
   {
    "beat": "p7",
-   "text": "You run. And this time, you use real physics, not game physics."
+   "text": "And a fall from that roof takes less than one second. That's all the time there is."
   },
   {
    "beat": "p8",
-   "text": "What hurts in a fall isn't the speed. It's stopping too fast. Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler. That's exactly how an airbag works."
+   "text": "You run. And this time, you use real physics, not game physics."
   },
   {
    "beat": "p9",
-   "text": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch, throw it under the tree house, and dive in underneath it."
+   "text": "What hurts in a fall isn't the speed. It's stopping too fast. Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler. That's exactly how an airbag works."
   },
   {
    "beat": "p10",
-   "text": "Ellie lands on the beanbag, and the beanbag lands on you. She's safe. She's laughing, even."
+   "text": "It's why stunt people fall onto big soft air cushions, and why gymnasts land on thick mats. Soft and deep beats strong arms, every time."
   },
   {
    "beat": "p11",
-   "text": "You're not laughing. Your bar was full. Now it's flashing red."
+   "text": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch, throw it under the tree house, and dive in underneath it."
   },
   {
    "beat": "p12",
+   "text": "Ellie lands on the beanbag, and the beanbag lands on you. She's safe. She's laughing, even."
+  },
+  {
+   "beat": "p13",
+   "text": "You're not laughing. Your bar was full. Now it's flashing red."
+  },
+  {
+   "beat": "p14",
    "text": "Zero."
   }
  ],
@@ -57,6 +65,11 @@
   {
    "claim": "A fall from about ten feet (3 m) hits the ground at about 17 mph.",
    "working": "v = sqrt(2 x 9.81 x 3.05) = 7.7 m/s = 17 mph.",
+   "source": "Free fall, basic mechanics"
+  },
+  {
+   "claim": "A fall from about ten feet (3 m) takes less than one second.",
+   "working": "t = sqrt(2h / g) = sqrt(2 x 3.05 / 9.81) = 0.79 s.",
    "source": "Free fall, basic mechanics"
   },
   {

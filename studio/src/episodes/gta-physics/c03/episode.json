@@ -38,18 +38,22 @@
   },
   {
    "beat": "p9",
-   "text": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie, and you trip on Mo's skateboard. One tiny trip. The bar hits zero."
+   "text": "Real stunt doubles use crash mats, airbags and months of practice, and they still get hurt sometimes. You have a green bar and no practice at all. That's the only reason you're fine."
   },
   {
    "beat": "p10",
-   "text": "Everything goes black."
+   "text": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie, and you trip on Mo's skateboard. One tiny trip. The bar hits zero."
   },
   {
    "beat": "p11",
-   "text": "You open your eyes in a hospital bed, in a clean gown. A nurse is staring at you like you just walked through a wall. Because, technically, you did. Twenty seconds ago, you weren't in this building."
+   "text": "Everything goes black."
   },
   {
    "beat": "p12",
+   "text": "You open your eyes in a hospital bed, in a clean gown. A nurse is staring at you like you just walked through a wall. Because, technically, you did. Twenty seconds ago, you weren't in this building."
+  },
+  {
+   "beat": "p13",
    "text": "And at that exact second, every light in the hospital flickers."
   }
  ],
