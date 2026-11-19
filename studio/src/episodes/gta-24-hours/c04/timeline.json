@@ -1,29 +1,409 @@
 {
  "slug": "gta-24-hours/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 4155,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 36,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 36,
+   "line": "One pm.."
+  },
+  {
+   "shot": "S2",
+   "a": 36,
+   "b": 147,
+   "t0": 0,
+   "t1": 111,
+   "line": "You and Mo jump into the back of a taxi."
+  },
+  {
+   "shot": "S3",
+   "a": 147,
+   "b": 227,
+   "t0": 0,
+   "t1": 80,
+   "line": "Follow that car! you shout."
+  },
+  {
+   "shot": "S4",
+   "a": 227,
+   "b": 359,
+   "t0": 0,
+   "t1": 132,
+   "line": "The driver looks at you in the mirror. Which car?"
+  },
+  {
+   "shot": "S5",
+   "a": 359,
+   "b": 511,
+   "t0": 0,
+   "t1": 152,
+   "line": "You point at a random blue one. He shrugs and follows it."
+  },
+  {
+   "shot": "S6",
+   "a": 511,
+   "b": 633,
+   "t0": 0,
+   "t1": 122,
+   "line": "For twenty minutes. Straight to a grocery store."
+  },
+  {
+   "shot": "S7",
+   "a": 633,
+   "b": 781,
+   "t0": 0,
+   "t1": 148,
+   "line": "That, he says, was the most boring car chase of my life."
+  },
+  {
+   "shot": "S8",
+   "a": 781,
+   "b": 868,
+   "t0": 0,
+   "t1": 87,
+   "line": "The meter says thirty eight dollars."
+  },
+  {
+   "shot": "S9",
+   "a": 868,
+   "b": 1017,
+   "t0": 0,
+   "t1": 149,
+   "line": "In the game, you'd just jump out and run. So you do."
+  },
+  {
+   "shot": "S10",
+   "a": 1017,
+   "b": 1137,
+   "t0": 0,
+   "t1": 120,
+   "line": "And this is where real life stops being a game."
+  },
+  {
+   "shot": "S11",
+   "a": 1137,
+   "b": 1466,
+   "t0": 0,
+   "t1": 329,
+   "line": "Running off without paying a taxi fare is a crime in most places. It's called theft of services. It's in the same family as shoplifting."
+  },
+  {
+   "shot": "S12",
+   "a": 1466,
+   "b": 1759,
+   "t0": 0,
+   "t1": 293,
+   "line": "And that car outside the bakery this morning? Police take that very seriously, because that's how a lot of car thefts start."
+  },
+  {
+   "shot": "S13",
+   "a": 1759,
+   "b": 2037,
+   "t0": 0,
+   "t1": 278,
+   "line": "In the US, a car gets stolen about every thirty two seconds. That's around a million cars a year. That's real."
+  },
+  {
+   "shot": "S14",
+   "a": 2037,
+   "b": 2344,
+   "t0": 0,
+   "t1": 307,
+   "line": "The driver doesn't chase you. He doesn't need to. He has a dash camera, your face, and the exact spot where you got in."
+  },
+  {
+   "shot": "S15",
+   "a": 2344,
+   "b": 2460,
+   "t0": 0,
+   "t1": 116,
+   "line": "Two pm.. Mo's video has fifty thousand views."
+  },
+  {
+   "shot": "S16",
+   "a": 2460,
+   "b": 2642,
+   "t0": 0,
+   "t1": 182,
+   "line": "Somebody recognized your hoodie. The one still hanging on the neighbor's fence."
+  },
+  {
+   "shot": "S17",
+   "a": 2642,
+   "b": 2817,
+   "t0": 0,
+   "t1": 175,
+   "line": "Three pm.. You run a red light on the scooter. A camera flashes."
+  },
+  {
+   "shot": "S18",
+   "a": 2817,
+   "b": 3060,
+   "t0": 0,
+   "t1": 243,
+   "line": "In California, a red light ticket can cost close to five hundred dollars, once all the fees are added."
+  },
+  {
+   "shot": "S19",
+   "a": 3060,
+   "b": 3307,
+   "t0": 0,
+   "t1": 247,
+   "line": "Four pm.. You add it up. The fence. The backyard. The scooter. The taxi. The car."
+  },
+  {
+   "shot": "S20",
+   "a": 3307,
+   "b": 3581,
+   "t0": 0,
+   "t1": 274,
+   "line": "In the game, each of those is nothing. Real life keeps a list. And real life doesn't reset when you reload."
+  },
+  {
+   "shot": "S21",
+   "a": 3581,
+   "b": 3811,
+   "t0": 0,
+   "t1": 230,
+   "line": "Every one of those things has a name. Trespassing. Theft of services. A traffic violation."
+  },
+  {
+   "shot": "S22",
+   "a": 3811,
+   "b": 4016,
+   "t0": 0,
+   "t1": 205,
+   "line": "And thanks to Mo's video, every single one of them has evidence. In high definition."
+  },
+  {
+   "shot": "S23",
+   "a": 4016,
+   "b": 4155,
+   "t0": 0,
+   "t1": 139,
+   "line": "Then you hear it. A siren. Getting closer."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 20,
+   "len": 36,
+   "first": 0,
+   "line": "One pm..",
+   "note": "1:00 PM"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The catch"
+   "len": 111,
+   "first": 36,
+   "line": "You and Mo jump into the back of a taxi.",
+   "note": "you and Mo dive into a taxi"
+  },
+  {
+   "id": "S3",
+   "size": "medium two",
+   "key": 30,
+   "len": 80,
+   "first": 147,
+   "line": "Follow that car! you shout.",
+   "note": "FOLLOW THAT CAR!"
+  },
+  {
+   "id": "S4",
+   "size": "extreme close-up",
+   "key": 40,
+   "len": 132,
+   "first": 227,
+   "line": "The driver looks at you in the mirror. Which car?",
+   "note": "driver eyes in the mirror: WHICH CAR?"
+  },
+  {
+   "id": "S5",
+   "size": "pov",
+   "key": 30,
+   "len": 152,
+   "first": 359,
+   "line": "You point at a random blue one. He shrugs and follows it.",
+   "note": "you point at the blue car"
+  },
+  {
+   "id": "S6",
+   "size": "pov",
+   "key": 80,
+   "len": 122,
+   "first": 511,
+   "line": "For twenty minutes. Straight to a grocery store.",
+   "note": "20 minutes to a grocery store"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 40,
+   "len": 148,
+   "first": 633,
+   "line": "That, he says, was the most boring car chase of my life.",
+   "note": "driver: most boring car chase"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 20,
+   "len": 87,
+   "first": 781,
+   "line": "The meter says thirty eight dollars.",
+   "note": "$38.00"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 149,
+   "first": 868,
+   "line": "In the game, you'd just jump out and run. So you do.",
+   "note": "you jump out and run"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 20,
+   "len": 120,
+   "first": 1017,
+   "line": "And this is where real life stops being a game.",
+   "note": "REAL LIFE"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 70,
+   "len": 329,
+   "first": 1137,
+   "line": "Running off without paying a taxi fare is a crime in most places. It's called theft of services. It's in the same family as shoplifting.",
+   "note": "THEFT OF SERVICES"
+  },
+  {
+   "id": "S12",
+   "size": "flashback",
+   "key": 30,
+   "len": 293,
+   "first": 1466,
+   "line": "And that car outside the bakery this morning? Police take that very seriously, because that's how a lot of car thefts start.",
+   "note": "the bakery car this morning, circled"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 70,
+   "len": 278,
+   "first": 1759,
+   "line": "In the US, a car gets stolen about every thirty two seconds. That's around a million cars a year. That's real.",
+   "note": "a car stolen every 32 s, THAT'S REAL"
+  },
+  {
+   "id": "S14",
+   "size": "pov",
+   "key": 50,
+   "len": 307,
+   "first": 2037,
+   "line": "The driver doesn't chase you. He doesn't need to. He has a dash camera, your face, and the exact spot where you got in.",
+   "note": "dashcam: your face, clear"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 60,
+   "len": 116,
+   "first": 2344,
+   "line": "Two pm.. Mo's video has fifty thousand views.",
+   "note": "2 PM: 50K views"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 50,
+   "len": 182,
+   "first": 2460,
+   "line": "Somebody recognized your hoodie. The one still hanging on the neighbor's fence.",
+   "note": "the hoodie on the fence, comments"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 40,
+   "len": 175,
+   "first": 2642,
+   "line": "Three pm.. You run a red light on the scooter. A camera flashes.",
+   "note": "3 PM scooter through the red, camera flash"
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "key": 70,
+   "len": 243,
+   "first": 2817,
+   "line": "In California, a red light ticket can cost close to five hundred dollars, once all the fees are added.",
+   "note": "$490 red light ticket"
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "key": 60,
+   "len": 247,
+   "first": 3060,
+   "line": "Four pm.. You add it up. The fence. The backyard. The scooter. The taxi. The car.",
+   "note": "4 PM: the list"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 60,
+   "len": 274,
+   "first": 3307,
+   "line": "In the game, each of those is nothing. Real life keeps a list. And real life doesn't reset when you reload.",
+   "note": "game: nothing / real: a list"
+  },
+  {
+   "id": "S21",
+   "size": "graphic",
+   "key": 60,
+   "len": 230,
+   "first": 3581,
+   "line": "Every one of those things has a name. Trespassing. Theft of services. A traffic violation.",
+   "note": "every one has a name"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 30,
+   "len": 205,
+   "first": 3811,
+   "line": "And thanks to Mo's video, every single one of them has evidence. In high definition.",
+   "note": "evidence in HD"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "key": 40,
+   "len": 139,
+   "first": 4016,
+   "line": "Then you hear it. A siren. Getting closer.",
+   "note": "a siren, getting closer"
   }
  ],
- "fx": [],
+ "fx": [
+  {
+   "kind": "flash",
+   "len": 4,
+   "f": 2669
+  }
+ ],
  "audio": {}
 }

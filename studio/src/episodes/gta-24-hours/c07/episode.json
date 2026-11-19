@@ -40,17 +40,267 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "cell night",
+   "note": "3 AM, lying on the bench",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "dark",
+   "note": "RESPAWN / SAVE GAME crossed out",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "cell dawn",
+   "note": "8 AM, 24 hours exactly",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "station",
+   "note": "Mom signs the papers",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "48 hours, judge",
+   "key": 70
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "backyard",
+   "note": "apology to the man in the bathrobe",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "dark",
+   "note": "the scoreboard",
+   "key": 120
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "dark",
+   "note": "REAL LIFE KEEPS EVERY SAVE",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "steps",
+   "note": "on the steps, the phone buzzes",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "phone",
+   "note": "Mo: cheat codes tomorrow",
+   "key": 90
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "is any of this real? the facts",
+   "key": 90
+  },
+  {
+   "id": "S12",
+   "size": "end card",
+   "set": "steps",
+   "note": "which rule would you break first?",
+   "key": 70
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "No"
+  },
+  {
+   "shot": "S3",
+   "at": "Eight"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "In"
+  },
+  {
+   "shot": "S6",
+   "at": "Then"
+  },
+  {
+   "shot": "S7",
+   "at": "Here's"
+  },
+  {
+   "shot": "S8",
+   "at": "Rule"
+  },
+  {
+   "shot": "S9",
+   "at": "On"
+  },
+  {
+   "shot": "S10",
+   "at": "It's"
+  },
+  {
+   "shot": "S11",
+   "at": "Is"
+  },
+  {
+   "shot": "S12",
+   "at": "Look"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "alarm": [
+    "a digital bedside alarm clock beeping, fast repeated beeps",
+    1.5
+   ],
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "doorbell": [
+    "a house doorbell ding dong",
+    1.2
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "tick",
+    0.3,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "power_off",
+    0.4
+   ],
+   [
+    "S3+0",
+    "alarm",
+    0.25
+   ],
+   [
+    "S4+0",
+    "paper",
+    0.4
+   ],
+   [
+    "S5+0",
+    "paper_land",
+    0.4
+   ],
+   [
+    "S6+0",
+    "doorbell",
+    0.35
+   ],
+   [
+    "S7+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S8+0",
+    "card_hit",
+    0.6
+   ],
+   [
+    "S9+0",
+    "buzz",
+    0.45
+   ],
+   [
+    "S10+0",
+    "notify",
+    0.5
+   ],
+   [
+    "S11+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S12+0",
+    "title_boom",
+    0.5,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "until": "S10"
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }

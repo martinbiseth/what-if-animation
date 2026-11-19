@@ -76,18 +76,510 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "street blur",
+   "note": "9:00 AM, RULE ONE",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "wide pan",
+   "set": "street",
+   "note": "ten amazing seconds: past people, a dog, a scooter",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "street",
+   "note": "legs turn to jelly",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "10 s all-out sprint, THAT'S REAL",
+   "key": 70
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "street",
+   "note": "wheezing at the pharmacy, scooter guy waves",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "set": "park blur",
+   "note": "10:00 AM, RULE TWO",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "wide pan",
+   "set": "park",
+   "note": "scooter car chase, the pigeon",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "park blur",
+   "note": "the ranger blows a whistle",
+   "key": 20
+  },
+  {
+   "id": "S9",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "set": "park",
+   "note": "you zoom past the spinning ranger",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "backyard blur",
+   "note": "11:00 AM, RULE FOUR",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "wide pan",
+   "set": "backyard",
+   "note": "past the man in the bathrobe: MORNING!",
+   "key": 80
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "backyard blur",
+   "note": "he does not say morning back",
+   "key": 20
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "set": "backyard",
+   "note": "his dog chases you over the next fence",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "street blur",
+   "note": "12:00 PM, RULE THREE",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "street",
+   "note": "six hot dogs from the cart",
+   "key": 55
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "dark",
+   "note": "in the game: health bar fills",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "1,800 calories, THAT'S REAL",
+   "key": 70
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "park",
+   "note": "you on a bench, green: GURGLE",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "store",
+   "note": "12:30, you walk into the store",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "store",
+   "note": "seven outfits behind the curtain",
+   "key": 50
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "store blur",
+   "note": "the guard watches",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "street",
+   "note": "you leave minus the hoodie",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "phone",
+   "note": "Mo is posting: views climbing",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "set": "street blur",
+   "note": "the part you forgot",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "For"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "In#2"
+  },
+  {
+   "shot": "S6",
+   "at": "Ten"
+  },
+  {
+   "shot": "S7",
+   "at": "and"
+  },
+  {
+   "shot": "S8",
+   "at": "A#2"
+  },
+  {
+   "shot": "S9",
+   "at": "You"
+  },
+  {
+   "shot": "S10",
+   "at": "Eleven"
+  },
+  {
+   "shot": "S11",
+   "at": "Over"
+  },
+  {
+   "shot": "S12",
+   "at": "He"
+  },
+  {
+   "shot": "S13",
+   "at": "But"
+  },
+  {
+   "shot": "S14",
+   "at": "Noon"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "In"
+  },
+  {
+   "shot": "S17",
+   "at": "In"
+  },
+  {
+   "shot": "S18",
+   "at": "Your"
+  },
+  {
+   "shot": "S19",
+   "at": "Twelve"
+  },
+  {
+   "shot": "S20",
+   "at": "So#2"
+  },
+  {
+   "shot": "S21",
+   "at": "The"
+  },
+  {
+   "shot": "S22",
+   "at": "You"
+  },
+  {
+   "shot": "S23",
+   "at": "And"
+  },
+  {
+   "shot": "S24",
+   "at": "That's"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "bark_syn": [
+    "procedural: a big dog barking twice",
+    1.0
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "chew": [
+    "someone chewing food thoughtfully, close, cartoon",
+    1.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "doorbell": [
+    "a house doorbell ding dong",
+    1.2
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pigeon": [
+    "a pigeon cooing close by",
+    1.5
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "run_syn": [
+    "procedural: sneakers running fast on pavement",
+    3.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sizzle": [
+    "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+    3.0
+   ],
+   "slide": [
+    "a thick paper envelope sliding across a wooden table",
+    1.0
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "traffic_syn": [
+    "procedural: a calm city street, cars passing, distant traffic hum",
+    10.0
+   ],
+   "whistle_syn": [
+    "procedural: a sharp police whistle blast with a trill",
+    1.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+0",
+    "run_syn",
+    0.5
+   ],
+   [
+    "S2+0",
+    "traffic_syn",
+    0.2,
+    "onset",
+    "S6"
+   ],
+   [
+    "S4+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S5+0",
+    "heartbeat",
+    0.35
+   ],
+   [
+    "S6+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S7+0",
+    "pigeon",
+    0.5
+   ],
+   [
+    "S8+0",
+    "whistle_syn",
+    0.45
+   ],
+   [
+    "S9+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S10+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S11+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S12+0",
+    "buzzer",
+    0.3
+   ],
+   [
+    "S13+0",
+    "bark_syn",
+    0.5
+   ],
+   [
+    "S13+20",
+    "big_step",
+    0.4
+   ],
+   [
+    "S14+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S15+0",
+    "sizzle",
+    0.25,
+    "onset",
+    "S16"
+   ],
+   [
+    "S15+0",
+    "chew",
+    0.4
+   ],
+   [
+    "S16+0",
+    "sparkle",
+    0.5
+   ],
+   [
+    "S17+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S18+0",
+    "gulp",
+    0.5
+   ],
+   [
+    "S19+0",
+    "doorbell",
+    0.35
+   ],
+   [
+    "S20+0",
+    "slide",
+    0.4
+   ],
+   [
+    "S21+0",
+    "drone_hit",
+    0.3
+   ],
+   [
+    "S22+0",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S23+0",
+    "notify",
+    0.5
+   ],
+   [
+    "S24+0",
+    "drone_hit",
+    0.5
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }

@@ -5,6 +5,7 @@ import { STUDIO } from './studio.config';
 import { EPISODES } from './episodes';
 import { CastSheet } from './CastSheet';
 import { Kit26Sheet } from './Kit26Sheet';
+import { GtaKitSheet } from './episodes/gta-24-hours/sheet';
 import { THUMBS } from './episodes/thumbs';
 
 // Every episode gets two compositions: <Id> (the film) and <Id>Board (one frame per shot, at its key frame, for the
@@ -26,6 +27,7 @@ export const Root: React.FC = () => {
       ))}
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
       <Composition id="Kit26" component={Kit26Sheet} durationInFrames={4} {...common} />
+      <Composition id="GtaKit" component={GtaKitSheet} durationInFrames={12} {...common} />
       <Composition id="CastInk" component={() => <CastSheet group="ink" />} durationInFrames={1} {...common} />
     </>
   );

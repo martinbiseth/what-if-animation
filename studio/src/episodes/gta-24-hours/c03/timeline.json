@@ -1,27 +1,418 @@
 {
  "slug": "gta-24-hours/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 4539,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 120,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 120,
+   "line": "Nine am.. Rule one. You run everywhere."
+  },
+  {
+   "shot": "S2",
+   "a": 120,
+   "b": 366,
+   "t0": 0,
+   "t1": 246,
+   "line": "For about ten seconds, it's amazing. You're flying past people, past dogs, past a guy on a scooter."
+  },
+  {
+   "shot": "S3",
+   "a": 366,
+   "b": 444,
+   "t0": 0,
+   "t1": 78,
+   "line": "Then your legs turn to jelly."
+  },
+  {
+   "shot": "S4",
+   "a": 444,
+   "b": 818,
+   "t0": 0,
+   "t1": 374,
+   "line": "That's real. Your muscles burn through their fastest fuel in about ten seconds of all out sprinting. After that, you slow down, whether you want to or not."
+  },
+  {
+   "shot": "S5",
+   "a": 818,
+   "b": 1169,
+   "t0": 0,
+   "t1": 351,
+   "line": "In the game, you'd run all day. In real life, you're bent over outside a pharmacy, wheezing, while the guy on the scooter rolls past and waves."
+  },
+  {
+   "shot": "S6",
+   "a": 1169,
+   "b": 1300,
+   "t0": 0,
+   "t1": 131,
+   "line": "Ten am.. Rule two. Mo rents two electric scooters,"
+  },
+  {
+   "shot": "S7",
+   "a": 1300,
+   "b": 1570,
+   "t0": 0,
+   "t1": 270,
+   "line": "and you ride them like it's a car chase. Through the park, between the benches, around one very confused pigeon."
+  },
+  {
+   "shot": "S8",
+   "a": 1570,
+   "b": 1649,
+   "t0": 0,
+   "t1": 79,
+   "line": "A park ranger blows a whistle."
+  },
+  {
+   "shot": "S9",
+   "a": 1649,
+   "b": 1788,
+   "t0": 0,
+   "t1": 139,
+   "line": "You don't stop. Because in the game, you never stop."
+  },
+  {
+   "shot": "S10",
+   "a": 1788,
+   "b": 1911,
+   "t0": 0,
+   "t1": 123,
+   "line": "Eleven am.. Rule four. You take a shortcut."
+  },
+  {
+   "shot": "S11",
+   "a": 1911,
+   "b": 2204,
+   "t0": 0,
+   "t1": 293,
+   "line": "Over a fence, through a backyard, past a very surprised man in a bathrobe holding his morning coffee. Morning! you say."
+  },
+  {
+   "shot": "S12",
+   "a": 2204,
+   "b": 2282,
+   "t0": 0,
+   "t1": 78,
+   "line": "He does not say morning back."
+  },
+  {
+   "shot": "S13",
+   "a": 2282,
+   "b": 2601,
+   "t0": 0,
+   "t1": 319,
+   "line": "But his dog says a lot. The dog chases you all the way to the next fence, and you climb it a lot faster than the first one."
+  },
+  {
+   "shot": "S14",
+   "a": 2601,
+   "b": 2823,
+   "t0": 0,
+   "t1": 222,
+   "line": "Noon. Rule three. You're hungry, you're scraped up, and your knee hurts from the fence."
+  },
+  {
+   "shot": "S15",
+   "a": 2823,
+   "b": 3029,
+   "t0": 0,
+   "t1": 206,
+   "line": "So you heal, just like the game. Six hot dogs from the cart outside the station."
+  },
+  {
+   "shot": "S16",
+   "a": 3029,
+   "b": 3155,
+   "t0": 0,
+   "t1": 126,
+   "line": "In the game, your health bar fills right back up."
+  },
+  {
+   "shot": "S17",
+   "a": 3155,
+   "b": 3413,
+   "t0": 0,
+   "t1": 258,
+   "line": "In real life, six hot dogs with buns is around eighteen hundred calories, and it doesn't heal a single scrape."
+  },
+  {
+   "shot": "S18",
+   "a": 3413,
+   "b": 3521,
+   "t0": 0,
+   "t1": 108,
+   "line": "Your stomach is very, very upset with you."
+  },
+  {
+   "shot": "S19",
+   "a": 3521,
+   "b": 3806,
+   "t0": 0,
+   "t1": 285,
+   "line": "Twelve thirty. In the game, you'd walk into a clothing store and walk out in a new outfit, so nobody recognizes you."
+  },
+  {
+   "shot": "S20",
+   "a": 3806,
+   "b": 4079,
+   "t0": 0,
+   "t1": 273,
+   "line": "So you try. Seven outfits in five minutes. A sombrero. A tracksuit. A suit that's three sizes too big."
+  },
+  {
+   "shot": "S21",
+   "a": 4079,
+   "b": 4185,
+   "t0": 0,
+   "t1": 106,
+   "line": "The security guard watches every single change."
+  },
+  {
+   "shot": "S22",
+   "a": 4185,
+   "b": 4312,
+   "t0": 0,
+   "t1": 127,
+   "line": "You leave in your own clothes. Minus the hoodie."
+  },
+  {
+   "shot": "S23",
+   "a": 4312,
+   "b": 4440,
+   "t0": 0,
+   "t1": 128,
+   "line": "And the whole time, Mo is filming. And posting."
+  },
+  {
+   "shot": "S24",
+   "a": 4440,
+   "b": 4539,
+   "t0": 0,
+   "t1": 99,
+   "line": "That's the part you forgot about."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 20,
+   "len": 120,
+   "first": 0,
+   "line": "Nine am.. Rule one. You run everywhere.",
+   "note": "9:00 AM, RULE ONE"
+  },
+  {
+   "id": "S2",
+   "size": "wide pan",
+   "key": 40,
+   "len": 246,
+   "first": 120,
+   "line": "For about ten seconds, it's amazing. You're flying past people, past dogs, past a guy on a scooter.",
+   "note": "ten amazing seconds: past people, a dog, a scooter"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 78,
+   "first": 366,
+   "line": "Then your legs turn to jelly.",
+   "note": "legs turn to jelly"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 70,
+   "len": 374,
+   "first": 444,
+   "line": "That's real. Your muscles burn through their fastest fuel in about ten seconds of all out sprinting. After that, you slow down, whether you want to or not.",
+   "note": "10 s all-out sprint, THAT'S REAL"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 60,
+   "len": 351,
+   "first": 818,
+   "line": "In the game, you'd run all day. In real life, you're bent over outside a pharmacy, wheezing, while the guy on the scooter rolls past and waves.",
+   "note": "wheezing at the pharmacy, scooter guy waves"
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "key": 20,
+   "len": 131,
+   "first": 1169,
+   "line": "Ten am.. Rule two. Mo rents two electric scooters,",
+   "note": "10:00 AM, RULE TWO"
+  },
+  {
+   "id": "S7",
+   "size": "wide pan",
+   "key": 60,
+   "len": 270,
+   "first": 1300,
+   "line": "and you ride them like it's a car chase. Through the park, between the benches, around one very confused pigeon.",
+   "note": "scooter car chase, the pigeon"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 20,
+   "len": 79,
+   "first": 1570,
+   "line": "A park ranger blows a whistle.",
+   "note": "the ranger blows a whistle"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 139,
+   "first": 1649,
+   "line": "You don't stop. Because in the game, you never stop.",
+   "note": "you zoom past the spinning ranger"
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 20,
+   "len": 123,
+   "first": 1788,
+   "line": "Eleven am.. Rule four. You take a shortcut.",
+   "note": "11:00 AM, RULE FOUR"
+  },
+  {
+   "id": "S11",
+   "size": "wide pan",
+   "key": 80,
+   "len": 293,
+   "first": 1911,
+   "line": "Over a fence, through a backyard, past a very surprised man in a bathrobe holding his morning coffee. Morning! you say.",
+   "note": "past the man in the bathrobe: MORNING!"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 20,
+   "len": 78,
+   "first": 2204,
+   "line": "He does not say morning back.",
+   "note": "he does not say morning back"
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "key": 60,
+   "len": 319,
+   "first": 2282,
+   "line": "But his dog says a lot. The dog chases you all the way to the next fence, and you climb it a lot faster than the first one.",
+   "note": "his dog chases you over the next fence"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 20,
+   "len": 222,
+   "first": 2601,
+   "line": "Noon. Rule three. You're hungry, you're scraped up, and your knee hurts from the fence.",
+   "note": "12:00 PM, RULE THREE"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 55,
+   "len": 206,
+   "first": 2823,
+   "line": "So you heal, just like the game. Six hot dogs from the cart outside the station.",
+   "note": "six hot dogs from the cart"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 30,
+   "len": 126,
+   "first": 3029,
+   "line": "In the game, your health bar fills right back up.",
+   "note": "in the game: health bar fills"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 70,
+   "len": 258,
+   "first": 3155,
+   "line": "In real life, six hot dogs with buns is around eighteen hundred calories, and it doesn't heal a single scrape.",
+   "note": "1,800 calories, THAT'S REAL"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 108,
+   "first": 3413,
+   "line": "Your stomach is very, very upset with you.",
+   "note": "you on a bench, green: GURGLE"
+  },
+  {
+   "id": "S19",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 285,
+   "first": 3521,
+   "line": "Twelve thirty. In the game, you'd walk into a clothing store and walk out in a new outfit, so nobody recognizes you.",
+   "note": "12:30, you walk into the store"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 50,
+   "len": 273,
+   "first": 3806,
+   "line": "So you try. Seven outfits in five minutes. A sombrero. A tracksuit. A suit that's three sizes too big.",
+   "note": "seven outfits behind the curtain"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 106,
+   "first": 4079,
+   "line": "The security guard watches every single change.",
+   "note": "the guard watches"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 127,
+   "first": 4185,
+   "line": "You leave in your own clothes. Minus the hoodie.",
+   "note": "you leave minus the hoodie"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 40,
+   "len": 128,
+   "first": 4312,
+   "line": "And the whole time, Mo is filming. And posting.",
+   "note": "Mo is posting: views climbing"
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "key": 30,
+   "len": 99,
+   "first": 4440,
+   "line": "That's the part you forgot about.",
+   "note": "the part you forgot"
   }
  ],
  "fx": [],

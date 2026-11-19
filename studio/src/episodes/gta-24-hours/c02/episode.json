@@ -49,22 +49,255 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "size": "medium two",
+   "set": "street",
+   "note": "you and Mo make the deal",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "rule card",
+   "note": "RULE 1 never walk, always run",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "rule card",
+   "note": "RULE 2 anything with wheels",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "rule card",
+   "note": "RULE 3 hurt? eat something",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "rule card",
+   "note": "RULE 4 the city is your map",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "rule card",
+   "note": "RULE 5 hide, the stars fade",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "dark",
+   "note": "five stars fade: everybody forgets",
+   "key": 80
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "street blur",
+   "note": "Mo: best idea ever",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "street",
+   "note": "Mo films: legendary",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mom has no idea... YET",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a game day vs a real day",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "medium two",
+   "set": "street",
+   "note": "fist bump, WHICH ONE BREAKS FIRST?",
+   "key": 50
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Rule"
+  },
+  {
+   "shot": "S3",
+   "at": "Rule"
+  },
+  {
+   "shot": "S4",
+   "at": "Rule"
+  },
+  {
+   "shot": "S5",
+   "at": "Rule"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "If"
+  },
+  {
+   "shot": "S8",
+   "at": "Your"
+  },
+  {
+   "shot": "S9",
+   "at": "I'll"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S11",
+   "at": "In"
+  },
+  {
+   "shot": "S12",
+   "at": "Twenty#2"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "traffic_syn": [
+    "procedural: a calm city street, cars passing, distant traffic hum",
+    10.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "traffic_syn",
+    0.2,
+    "onset",
+    "S2"
+   ],
+   [
+    "S2+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S3+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S5+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S7+0",
+    "power_off",
+    0.4
+   ],
+   [
+    "S8+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S9+0",
+    "shutter",
+    0.5
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.4
+   ],
+   [
+    "S11+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S12+0",
+    "title_boom",
+    0.6,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }

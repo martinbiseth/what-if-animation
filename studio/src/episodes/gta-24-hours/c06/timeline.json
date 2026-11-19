@@ -1,16 +1,168 @@
 {
  "slug": "gta-24-hours/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3506,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 88,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 88,
+   "line": "Nine pm.. The police station."
+  },
+  {
+   "shot": "S2",
+   "a": 88,
+   "b": 181,
+   "t0": 0,
+   "t1": 93,
+   "line": "No loading screen. No skip button."
+  },
+  {
+   "shot": "S3",
+   "a": 181,
+   "b": 304,
+   "t0": 0,
+   "t1": 123,
+   "line": "They take your fingerprints, one finger at a time."
+  },
+  {
+   "shot": "S4",
+   "a": 304,
+   "b": 378,
+   "t0": 0,
+   "t1": 74,
+   "line": "Your photo, front and side."
+  },
+  {
+   "shot": "S5",
+   "a": 378,
+   "b": 604,
+   "t0": 0,
+   "t1": 226,
+   "line": "Everything in your pockets goes into a plastic bag. Including a napkin from hot dog number six."
+  },
+  {
+   "shot": "S6",
+   "a": 604,
+   "b": 812,
+   "t0": 0,
+   "t1": 208,
+   "line": "In the game, this takes three seconds. In real life, getting booked can take hours."
+  },
+  {
+   "shot": "S7",
+   "a": 812,
+   "b": 1023,
+   "t0": 0,
+   "t1": 211,
+   "line": "Then they put you in a holding cell. A metal bench. A toilet with no seat. A"
+  },
+  {
+   "shot": "S8",
+   "a": 1023,
+   "b": 1153,
+   "t0": 0,
+   "t1": 130,
+   "line": "man in the corner who keeps asking what time it is."
+  },
+  {
+   "shot": "S9",
+   "a": 1153,
+   "b": 1317,
+   "t0": 0,
+   "t1": 164,
+   "line": "Every few minutes, you check for the stars. There are no stars."
+  },
+  {
+   "shot": "S10",
+   "a": 1317,
+   "b": 1459,
+   "t0": 0,
+   "t1": 142,
+   "line": "There's just a clock on the wall, and it is very slow."
+  },
+  {
+   "shot": "S11",
+   "a": 1459,
+   "b": 1621,
+   "t0": 0,
+   "t1": 162,
+   "line": "Then, the phone call. You've heard everybody gets one phone call."
+  },
+  {
+   "shot": "S12",
+   "a": 1621,
+   "b": 1803,
+   "t0": 0,
+   "t1": 182,
+   "line": "Actually, that's not a real rule everywhere. It depends on where you are."
+  },
+  {
+   "shot": "S13",
+   "a": 1803,
+   "b": 1886,
+   "t0": 0,
+   "t1": 83,
+   "line": "But tonight, they let you call."
+  },
+  {
+   "shot": "S14",
+   "a": 1886,
+   "b": 2087,
+   "t0": 0,
+   "t1": 201,
+   "line": "You stare at the phone. You could call Mo. Mo would think this is hilarious."
+  },
+  {
+   "shot": "S15",
+   "a": 2087,
+   "b": 2162,
+   "t0": 0,
+   "t1": 75,
+   "line": "Or you could call your mom."
+  },
+  {
+   "shot": "S16",
+   "a": 2162,
+   "b": 2376,
+   "t0": 0,
+   "t1": 214,
+   "line": "Mom picks up on the first ring. Because she saw the video. Everyone saw the video."
+  },
+  {
+   "shot": "S17",
+   "a": 2376,
+   "b": 2709,
+   "t0": 0,
+   "t1": 333,
+   "line": "So now there's one choice left. Say it was a joke. Just a game. No big deal. Or tell her the truth. Every single thing."
+  },
+  {
+   "shot": "S18",
+   "a": 2709,
+   "b": 2982,
+   "t0": 0,
+   "t1": 273,
+   "line": "You take a breath. And you tell her everything. The fence. The taxi. The car. The six hot dogs."
+  },
+  {
+   "shot": "S19",
+   "a": 2982,
+   "b": 3261,
+   "t0": 0,
+   "t1": 279,
+   "line": "You hear her car keys. You hear her shoes. Then you hear her say your full name. All three parts of it."
+  },
+  {
+   "shot": "S20",
+   "a": 3261,
+   "b": 3506,
+   "t0": 0,
+   "t1": 245,
+   "line": "There's a long silence. Then, very quietly: I'm coming. Somehow, that's scarier than the dog."
   }
  ],
  "shots": [
@@ -18,10 +170,181 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 90,
+   "len": 88,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "Nine pm.. The police station.",
+   "note": "9 PM, walked into the station"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 40,
+   "len": 93,
+   "first": 88,
+   "line": "No loading screen. No skip button.",
+   "note": "loading 0%, SKIP crossed out"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 50,
+   "len": 123,
+   "first": 181,
+   "line": "They take your fingerprints, one finger at a time.",
+   "note": "fingerprints one at a time"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 40,
+   "len": 74,
+   "first": 304,
+   "line": "Your photo, front and side.",
+   "note": "photo front and side"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 40,
+   "len": 226,
+   "first": 378,
+   "line": "Everything in your pockets goes into a plastic bag. Including a napkin from hot dog number six.",
+   "note": "phone, keys, napkin from hot dog six"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 60,
+   "len": 208,
+   "first": 604,
+   "line": "In the game, this takes three seconds. In real life, getting booked can take hours.",
+   "note": "booked: 3 seconds vs hours"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 211,
+   "first": 812,
+   "line": "Then they put you in a holding cell. A metal bench. A toilet with no seat. A",
+   "note": "the holding cell"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 40,
+   "len": 130,
+   "first": 1023,
+   "line": "man in the corner who keeps asking what time it is.",
+   "note": "what time is it?"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 50,
+   "len": 164,
+   "first": 1153,
+   "line": "Every few minutes, you check for the stars. There are no stars.",
+   "note": "no stars"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 142,
+   "first": 1317,
+   "line": "There's just a clock on the wall, and it is very slow.",
+   "note": "the slow clock"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 162,
+   "first": 1459,
+   "line": "Then, the phone call. You've heard everybody gets one phone call.",
+   "note": "the wall phone"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 60,
+   "len": 182,
+   "first": 1621,
+   "line": "Actually, that's not a real rule everywhere. It depends on where you are.",
+   "note": "one phone call: NOT A RULE"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 20,
+   "len": 83,
+   "first": 1803,
+   "line": "But tonight, they let you call.",
+   "note": "they let you call"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 40,
+   "len": 201,
+   "first": 1886,
+   "line": "You stare at the phone. You could call Mo. Mo would think this is hilarious.",
+   "note": "you could call Mo: HA HA"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 20,
+   "len": 75,
+   "first": 2087,
+   "line": "Or you could call your mom.",
+   "note": "or your mom"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 40,
+   "len": 214,
+   "first": 2162,
+   "line": "Mom picks up on the first ring. Because she saw the video. Everyone saw the video.",
+   "note": "Mom picks up, the video on her phone"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 60,
+   "len": 333,
+   "first": 2376,
+   "line": "So now there's one choice left. Say it was a joke. Just a game. No big deal. Or tell her the truth. Every single thing.",
+   "note": "a joke, or the truth"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 60,
+   "len": 273,
+   "first": 2709,
+   "line": "You take a breath. And you tell her everything. The fence. The taxi. The car. The six hot dogs.",
+   "note": "you tell her everything"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 60,
+   "len": 279,
+   "first": 2982,
+   "line": "You hear her car keys. You hear her shoes. Then you hear her say your full name. All three parts of it.",
+   "note": "keys, shoes, full name"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 60,
+   "len": 245,
+   "first": 3261,
+   "line": "There's a long silence. Then, very quietly: I'm coming. Somehow, that's scarier than the dog.",
+   "note": "I'M COMING."
   }
  ],
  "fx": [],

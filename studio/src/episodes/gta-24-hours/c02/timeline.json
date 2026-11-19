@@ -1,27 +1,214 @@
 {
  "slug": "gta-24-hours/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1973,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 192,
+   "t0": 0,
+   "t1": 192,
+   "line": "Here's the deal you make with yourself. Five rules, straight from the game."
+  },
+  {
+   "shot": "S2",
+   "a": 192,
+   "b": 282,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Rule one: never walk. Always run."
+  },
+  {
+   "shot": "S3",
+   "a": 282,
+   "b": 384,
+   "t0": 0,
+   "t1": 102,
+   "line": "Rule two: anything with wheels is a ride."
+  },
+  {
+   "shot": "S4",
+   "a": 384,
+   "b": 534,
+   "t0": 0,
+   "t1": 150,
+   "line": "Rule three: when you get hurt, eat something, and you're fine."
+  },
+  {
+   "shot": "S5",
+   "a": 534,
+   "b": 730,
+   "t0": 0,
+   "t1": 196,
+   "line": "Rule four: the whole city is your map. Rooftops, fences, backyards. Everywhere."
+  },
+  {
+   "shot": "S6",
+   "a": 730,
+   "b": 817,
+   "t0": 0,
+   "t1": 87,
+   "line": "And rule five, the important one."
+  },
+  {
+   "shot": "S7",
+   "a": 817,
+   "b": 1040,
+   "t0": 0,
+   "t1": 223,
+   "line": "If the police come after you, just hide for a while. The stars fade. Everybody forgets."
+  },
+  {
+   "shot": "S8",
+   "a": 1040,
+   "b": 1214,
+   "t0": 0,
+   "t1": 174,
+   "line": "Your best friend Mo thinks this is the greatest idea anyone has ever had."
+  },
+  {
+   "shot": "S9",
+   "a": 1214,
+   "b": 1371,
+   "t0": 0,
+   "t1": 157,
+   "line": "I'll film everything, he says. This is going to be legendary."
+  },
+  {
+   "shot": "S10",
+   "a": 1371,
+   "b": 1493,
+   "t0": 0,
+   "t1": 122,
+   "line": "Your mom doesn't know about any of this. Yet."
+  },
+  {
+   "shot": "S11",
+   "a": 1493,
+   "b": 1791,
+   "t0": 0,
+   "t1": 298,
+   "line": "In the game, a whole day goes by in less than an hour. In real life, twenty four hours is a very, very long time."
+  },
+  {
+   "shot": "S12",
+   "a": 1791,
+   "b": 1973,
+   "t0": 0,
+   "t1": 182,
+   "line": "Twenty four hours. Five rules. Let's see which one breaks first."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium two",
+   "key": 30,
+   "len": 192,
+   "first": 0,
+   "line": "Here's the deal you make with yourself. Five rules, straight from the game.",
+   "note": "you and Mo make the deal"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "first": 192,
+   "line": "Rule one: never walk. Always run.",
+   "note": "RULE 1 never walk, always run"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 30,
+   "len": 102,
+   "first": 282,
+   "line": "Rule two: anything with wheels is a ride.",
+   "note": "RULE 2 anything with wheels"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 30,
+   "len": 150,
+   "first": 384,
+   "line": "Rule three: when you get hurt, eat something, and you're fine.",
+   "note": "RULE 3 hurt? eat something"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 196,
+   "first": 534,
+   "line": "Rule four: the whole city is your map. Rooftops, fences, backyards. Everywhere.",
+   "note": "RULE 4 the city is your map"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 30,
+   "len": 87,
+   "first": 730,
+   "line": "And rule five, the important one.",
+   "note": "RULE 5 hide, the stars fade"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 80,
+   "len": 223,
+   "first": 817,
+   "line": "If the police come after you, just hide for a while. The stars fade. Everybody forgets.",
+   "note": "five stars fade: everybody forgets"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 20,
+   "len": 174,
+   "first": 1040,
+   "line": "Your best friend Mo thinks this is the greatest idea anyone has ever had.",
+   "note": "Mo: best idea ever"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 157,
+   "first": 1214,
+   "line": "I'll film everything, he says. This is going to be legendary.",
+   "note": "Mo films: legendary"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 40,
+   "len": 122,
+   "first": 1371,
+   "line": "Your mom doesn't know about any of this. Yet.",
+   "note": "Mom has no idea... YET"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 60,
+   "len": 298,
+   "first": 1493,
+   "line": "In the game, a whole day goes by in less than an hour. In real life, twenty four hours is a very, very long time.",
+   "note": "a game day vs a real day"
+  },
+  {
+   "id": "S12",
+   "size": "medium two",
+   "key": 50,
+   "len": 182,
+   "first": 1791,
+   "line": "Twenty four hours. Five rules. Let's see which one breaks first.",
+   "note": "fist bump, WHICH ONE BREAKS FIRST?"
   }
  ],
  "fx": [],

@@ -1,29 +1,324 @@
 {
  "slug": "gta-24-hours/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2204,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 125,
+   "t0": 0,
+   "t1": 125,
+   "line": "Eight am.. You wake up and make a decision."
+  },
+  {
+   "shot": "S2",
+   "a": 125,
+   "b": 335,
+   "t0": 0,
+   "t1": 210,
+   "line": "For the next twenty four hours, you're going to live exactly like a character in GTA 6."
+  },
+  {
+   "shot": "S3",
+   "a": 335,
+   "b": 455,
+   "t0": 0,
+   "t1": 120,
+   "line": "You don't walk to the bus stop. You sprint."
+  },
+  {
+   "shot": "S4",
+   "a": 455,
+   "b": 570,
+   "t0": 0,
+   "t1": 115,
+   "line": "Full speed, arms pumping, just like the game."
+  },
+  {
+   "shot": "S5",
+   "a": 570,
+   "b": 663,
+   "t0": 0,
+   "t1": 93,
+   "line": "At the crosswalk, the light is red."
+  },
+  {
+   "shot": "S6",
+   "a": 663,
+   "b": 780,
+   "t0": 0,
+   "t1": 117,
+   "line": "You don't wait. In the game, nobody waits."
+  },
+  {
+   "shot": "S7",
+   "a": 780,
+   "b": 959,
+   "t0": 0,
+   "t1": 179,
+   "line": "A bus honks so loudly your teeth buzz, and you jump back onto the curb."
+  },
+  {
+   "shot": "S8",
+   "a": 959,
+   "b": 1092,
+   "t0": 0,
+   "t1": 133,
+   "line": "You jump the neighbor's fence instead of using the gate."
+  },
+  {
+   "shot": "S9",
+   "a": 1092,
+   "b": 1205,
+   "t0": 0,
+   "t1": 113,
+   "line": "Your hoodie stays on the fence. You don't."
+  },
+  {
+   "shot": "S10",
+   "a": 1205,
+   "b": 1296,
+   "t0": 0,
+   "t1": 91,
+   "line": "A car is parked outside the bakery."
+  },
+  {
+   "shot": "S11",
+   "a": 1296,
+   "b": 1386,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "In the game, that's your car now."
+  },
+  {
+   "shot": "S12",
+   "a": 1386,
+   "b": 1442,
+   "t0": 0,
+   "t1": 56,
+   "line": "You grab the handle."
+  },
+  {
+   "shot": "S13",
+   "a": 1442,
+   "b": 1533,
+   "t0": 0,
+   "t1": 91,
+   "line": "It's locked. The alarm goes off."
+  },
+  {
+   "shot": "S14",
+   "a": 1533,
+   "b": 1666,
+   "t0": 0,
+   "t1": 133,
+   "line": "And the owner, a little old lady holding a baguette, is"
+  },
+  {
+   "shot": "S15",
+   "a": 1666,
+   "b": 1730,
+   "t0": 0,
+   "t1": 64,
+   "line": "standing right behind you."
+  },
+  {
+   "shot": "S16",
+   "a": 1730,
+   "b": 1843,
+   "t0": 0,
+   "t1": 113,
+   "line": "In the game, this is where the fun starts."
+  },
+  {
+   "shot": "S17",
+   "a": 1843,
+   "b": 1964,
+   "t0": 0,
+   "t1": 121,
+   "line": "In real life, this is where the paperwork starts."
+  },
+  {
+   "shot": "S18",
+   "a": 1964,
+   "b": 2204,
+   "t0": 0,
+   "t1": 240,
+   "line": "So what would actually happen if you acted like GTA 6, in real life, for twenty four hours?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "key": 30,
+   "len": 125,
+   "first": 0,
+   "line": "Eight am.. You wake up and make a decision.",
+   "note": "8 AM, you sit up, decided"
+  },
+  {
+   "id": "S2",
+   "size": "big word",
+   "key": 30,
+   "len": 210,
+   "first": 125,
+   "line": "For the next twenty four hours, you're going to live exactly like a character in GTA 6.",
+   "note": "24 HOURS, five empty stars"
+  },
+  {
+   "id": "S3",
+   "size": "wide pan",
+   "key": 20,
+   "len": 120,
+   "first": 335,
+   "line": "You don't walk to the bus stop. You sprint.",
+   "note": "you sprint past the shops"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 20,
+   "len": 115,
+   "first": 455,
+   "line": "Full speed, arms pumping, just like the game.",
+   "note": "running face, wind lines"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 20,
+   "len": 93,
+   "first": 570,
+   "line": "At the crosswalk, the light is red.",
+   "note": "the light is red"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 117,
+   "first": 663,
+   "line": "You don't wait. In the game, nobody waits.",
+   "note": "you step into the road"
+  },
+  {
+   "id": "S7",
    "size": "wide",
+   "key": 24,
+   "len": 179,
+   "first": 780,
+   "line": "A bus honks so loudly your teeth buzz, and you jump back onto the curb.",
+   "note": "the bus honks, you jump back"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 15,
+   "len": 133,
+   "first": 959,
+   "line": "You jump the neighbor's fence instead of using the gate.",
+   "note": "you jump the fence"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 113,
+   "first": 1092,
+   "line": "Your hoodie stays on the fence. You don't.",
+   "note": "hoodie stays on the fence"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 20,
+   "len": 91,
+   "first": 1205,
+   "line": "A car is parked outside the bakery.",
+   "note": "a car outside the bakery"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "first": 1296,
+   "line": "In the game, that's your car now.",
+   "note": "MY CAR NOW"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 56,
+   "first": 1386,
+   "line": "You grab the handle.",
+   "note": "your hand grabs the handle"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 91,
+   "first": 1442,
+   "line": "It's locked. The alarm goes off.",
+   "note": "LOCKED, the alarm"
+  },
+  {
+   "id": "S14",
+   "size": "over shoulder",
+   "key": 40,
+   "len": 133,
+   "first": 1533,
+   "line": "And the owner, a little old lady holding a baguette, is",
+   "note": "the lady with the baguette right behind you"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 20,
+   "len": 64,
+   "first": 1666,
+   "line": "standing right behind you.",
+   "note": "you turn: shock"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 30,
+   "len": 113,
+   "first": 1730,
+   "line": "In the game, this is where the fun starts.",
+   "note": "in the game: the fun starts, one star"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 30,
+   "len": 121,
+   "first": 1843,
+   "line": "In real life, this is where the paperwork starts.",
+   "note": "in real life: the paperwork"
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "key": 40,
+   "len": 240,
+   "first": 1964,
+   "line": "So what would actually happen if you acted like GTA 6, in real life, for twenty four hours?",
+   "note": "WHAT IF YOU ACTED LIKE GTA 6 FOR 24 HOURS?"
   }
  ],
- "fx": [],
+ "fx": [
+  {
+   "kind": "flash",
+   "len": 4,
+   "f": 1442
+  }
+ ],
  "audio": {}
 }

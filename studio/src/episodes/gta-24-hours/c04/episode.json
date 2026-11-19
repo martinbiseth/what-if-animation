@@ -73,18 +73,488 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "street blur",
+   "note": "1:00 PM",
+   "key": 20
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "street",
+   "note": "you and Mo dive into a taxi",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium two",
+   "set": "taxi back",
+   "note": "FOLLOW THAT CAR!",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "extreme close-up",
+   "set": "taxi mirror",
+   "note": "driver eyes in the mirror: WHICH CAR?",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "pov",
+   "set": "taxi front",
+   "note": "you point at the blue car",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "pov",
+   "set": "taxi front",
+   "note": "20 minutes to a grocery store",
+   "key": 80
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "taxi side",
+   "note": "driver: most boring car chase",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "taxi meter",
+   "note": "$38.00",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "grocery street",
+   "note": "you jump out and run",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "set": "street blur",
+   "note": "REAL LIFE",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "THEFT OF SERVICES",
+   "key": 70
+  },
+  {
+   "id": "S12",
+   "size": "flashback",
+   "set": "street",
+   "note": "the bakery car this morning, circled",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a car stolen every 32 s, THAT'S REAL",
+   "key": 70
+  },
+  {
+   "id": "S14",
+   "size": "pov",
+   "set": "dashcam",
+   "note": "dashcam: your face, clear",
+   "key": 50
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "phone",
+   "note": "2 PM: 50K views",
+   "key": 60
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "backyard",
+   "note": "the hoodie on the fence, comments",
+   "key": 50
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "street",
+   "note": "3 PM scooter through the red, camera flash",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "$490 red light ticket",
+   "key": 70
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "notepad",
+   "note": "4 PM: the list",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "game: nothing / real: a list",
+   "key": 60
+  },
+  {
+   "id": "S21",
+   "size": "graphic",
+   "set": "notepad",
+   "note": "every one has a name",
+   "key": 60
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "set": "phone",
+   "note": "evidence in HD",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "street dusk",
+   "note": "a siren, getting closer",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "Follow"
+  },
+  {
+   "shot": "S4",
+   "at": "The"
+  },
+  {
+   "shot": "S5",
+   "at": "You#2"
+  },
+  {
+   "shot": "S6",
+   "at": "For"
+  },
+  {
+   "shot": "S7",
+   "at": "That"
+  },
+  {
+   "shot": "S8",
+   "at": "The#2"
+  },
+  {
+   "shot": "S9",
+   "at": "In"
+  },
+  {
+   "shot": "S10",
+   "at": "And#2"
+  },
+  {
+   "shot": "S11",
+   "at": "Running"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "In"
+  },
+  {
+   "shot": "S14",
+   "at": "The#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Two"
+  },
+  {
+   "shot": "S16",
+   "at": "Somebody"
+  },
+  {
+   "shot": "S17",
+   "at": "Three"
+  },
+  {
+   "shot": "S18",
+   "at": "In"
+  },
+  {
+   "shot": "S19",
+   "at": "Four"
+  },
+  {
+   "shot": "S20",
+   "at": "In"
+  },
+  {
+   "shot": "S21",
+   "at": "Every"
+  },
+  {
+   "shot": "S22",
+   "at": "And"
+  },
+  {
+   "shot": "S23",
+   "at": "Then"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [
+  {
+   "at": "S17+27",
+   "kind": "flash",
+   "len": 4
+  }
+ ],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "horn_syn": [
+    "procedural: a car horn honk, two tones",
+    0.7
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "pencils": [
+    "many pencils scribbling quickly on paper in a quiet office",
+    3.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "run_syn": [
+    "procedural: sneakers running fast on pavement",
+    3.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "siren_syn": [
+    "procedural: a police siren wailing, distant and rising",
+    4.0
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "traffic_syn": [
+    "procedural: a calm city street, cars passing, distant traffic hum",
+    10.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S2+0",
+    "traffic_syn",
+    0.2,
+    "onset",
+    "S9"
+   ],
+   [
+    "S3+0",
+    "pop",
+    0.5
+   ],
+   [
+    "S4+0",
+    "gulp",
+    0.4
+   ],
+   [
+    "S5+0",
+    "horn_syn",
+    0.3
+   ],
+   [
+    "S6+0",
+    "tick",
+    0.3,
+    "onset",
+    "S8"
+   ],
+   [
+    "S8+0",
+    "cash",
+    0.5
+   ],
+   [
+    "S9+0",
+    "run_syn",
+    0.5
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.4
+   ],
+   [
+    "S11+0",
+    "paper_land",
+    0.4
+   ],
+   [
+    "S12+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S13+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S14+0",
+    "glitch",
+    0.35
+   ],
+   [
+    "S15+0",
+    "notify",
+    0.5
+   ],
+   [
+    "S16+0",
+    "buzz",
+    0.4
+   ],
+   [
+    "S17+0",
+    "horn_syn",
+    0.35
+   ],
+   [
+    "S17+27",
+    "shutter",
+    0.6
+   ],
+   [
+    "S18+0",
+    "cash",
+    0.4
+   ],
+   [
+    "S19+0",
+    "pencils",
+    0.25,
+    "onset",
+    "S20"
+   ],
+   [
+    "S20+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S21+0",
+    "pencils",
+    0.25,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "notify",
+    0.4
+   ],
+   [
+    "S23+0",
+    "siren_syn",
+    0.35
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }

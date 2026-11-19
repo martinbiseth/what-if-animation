@@ -69,17 +69,454 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "street dusk",
+   "note": "5 PM, a police car arrives",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "street blur",
+   "note": "every game instinct",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "big word",
+   "set": "street blur",
+   "note": "RUN.",
+   "key": 10
+  },
+  {
+   "id": "S4",
+   "size": "tracking",
+   "set": "street dusk",
+   "note": "you run, ten-second countdown",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "street dusk",
+   "note": "legs quit",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "running doesn't make it go away",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "paper",
+   "note": "tickets merge: MUCH BIGGER",
+   "key": 80
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "library dusk",
+   "note": "you crawl into the hedge",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "inside hedge",
+   "note": "waiting for the stars to fade",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "dark",
+   "note": "REAL POLICE DON'T HAVE STARS: they crack and fall",
+   "key": 50
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "library",
+   "note": "Biscuit and his officer",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "300 million vs 6 million",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "library",
+   "note": "the HERE sign over the hedge",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "library night",
+   "note": "the helicopter",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "pov",
+   "set": "thermal",
+   "note": "thermal camera locks on",
+   "key": 80
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "street night",
+   "note": "in the game: the helicopter flies past",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "cockpit",
+   "note": "pilot: hedge behind the library",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "library night",
+   "note": "Biscuit finds you in 40 s, sits, wags",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "big word",
+   "set": "library blur",
+   "note": "8 MINUTES",
+   "key": 20
+  },
+  {
+   "id": "S20",
+   "size": "pov",
+   "set": "inside hedge",
+   "note": "officer parts the leaves",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "library night",
+   "note": "Mo is still filming",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "And"
+  },
+  {
+   "shot": "S3",
+   "at": "Run"
+  },
+  {
+   "shot": "S4",
+   "at": "So"
+  },
+  {
+   "shot": "S5",
+   "at": "Then"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "In"
+  },
+  {
+   "shot": "S8",
+   "at": "You#2"
+  },
+  {
+   "shot": "S9",
+   "at": "Rule"
+  },
+  {
+   "shot": "S10",
+   "at": "Here's"
+  },
+  {
+   "shot": "S11",
+   "at": "They"
+  },
+  {
+   "shot": "S12",
+   "at": "A"
+  },
+  {
+   "shot": "S13",
+   "at": "To#2"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "Its"
+  },
+  {
+   "shot": "S16",
+   "at": "In"
+  },
+  {
+   "shot": "S17",
+   "at": "In"
+  },
+  {
+   "shot": "S18",
+   "at": "dog's"
+  },
+  {
+   "shot": "S19",
+   "at": "Eight"
+  },
+  {
+   "shot": "S20",
+   "at": "An"
+  },
+  {
+   "shot": "S21",
+   "at": "Somewhere"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "bark_syn": [
+    "procedural: a big dog barking twice",
+    1.0
+   ],
+   "big_step": [
+    "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+    0.7
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "heli_syn": [
+    "procedural: a police helicopter hovering overhead, rotor chop",
+    6.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "radio_syn": [
+    "procedural: a police radio crackle with muffled chatter",
+    2.0
+   ],
+   "run_syn": [
+    "procedural: sneakers running fast on pavement",
+    3.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "siren_syn": [
+    "procedural: a police siren wailing, distant and rising",
+    4.0
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ],
+   "yelp_syn": [
+    "procedural: a police siren yelp, short and fast",
+    2.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "yelp_syn",
+    0.5
+   ],
+   [
+    "S1+0",
+    "radio_syn",
+    0.3
+   ],
+   [
+    "S2+0",
+    "heartbeat",
+    0.4
+   ],
+   [
+    "S3+0",
+    "title_boom",
+    0.6,
+    "peak"
+   ],
+   [
+    "S4+0",
+    "run_syn",
+    0.5
+   ],
+   [
+    "S4+0",
+    "siren_syn",
+    0.2
+   ],
+   [
+    "S5+0",
+    "thud",
+    0.4
+   ],
+   [
+    "S6+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S7+0",
+    "paper_land",
+    0.5
+   ],
+   [
+    "S8+0",
+    "big_step",
+    0.4
+   ],
+   [
+    "S9+0",
+    "tick",
+    0.25,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "crack",
+    0.4
+   ],
+   [
+    "S11+0",
+    "bark_syn",
+    0.4
+   ],
+   [
+    "S12+0",
+    "counter_tick",
+    0.4
+   ],
+   [
+    "S13+0",
+    "pop",
+    0.4
+   ],
+   [
+    "S14+0",
+    "heli_syn",
+    0.4,
+    "onset",
+    "S17"
+   ],
+   [
+    "S15+0",
+    "select_draw",
+    0.5
+   ],
+   [
+    "S16+0",
+    "whoosh",
+    0.4
+   ],
+   [
+    "S17+0",
+    "radio_syn",
+    0.4
+   ],
+   [
+    "S18+0",
+    "bark_syn",
+    0.45
+   ],
+   [
+    "S19+0",
+    "drone_hit",
+    0.45
+   ],
+   [
+    "S20+0",
+    "paper",
+    0.3
+   ],
+   [
+    "S21+0",
+    "shutter",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }

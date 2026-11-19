@@ -65,17 +65,398 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "station",
+   "note": "9 PM, walked into the station",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "dark",
+   "note": "loading 0%, SKIP crossed out",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "fingerprint card",
+   "note": "fingerprints one at a time",
+   "key": 50
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "height chart",
+   "note": "photo front and side",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "property bag",
+   "note": "phone, keys, napkin from hot dog six",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "booked: 3 seconds vs hours",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "cell",
+   "note": "the holding cell",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "cell blur",
+   "note": "what time is it?",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "cell blur",
+   "note": "no stars",
+   "key": 50
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "cell clock",
+   "note": "the slow clock",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "station",
+   "note": "the wall phone",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "one phone call: NOT A RULE",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "station",
+   "note": "they let you call",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "dark",
+   "note": "you could call Mo: HA HA",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "station blur",
+   "note": "or your mom",
+   "key": 20
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "kitchen night",
+   "note": "Mom picks up, the video on her phone",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "dark",
+   "note": "a joke, or the truth",
+   "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "station blur",
+   "note": "you tell her everything",
+   "key": 60
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "kitchen night",
+   "note": "keys, shoes, full name",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "set": "station blur",
+   "note": "I'M COMING.",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "No"
+  },
+  {
+   "shot": "S3",
+   "at": "They"
+  },
+  {
+   "shot": "S4",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S5",
+   "at": "Everything"
+  },
+  {
+   "shot": "S6",
+   "at": "In#2"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "man"
+  },
+  {
+   "shot": "S9",
+   "at": "Every"
+  },
+  {
+   "shot": "S10",
+   "at": "There's"
+  },
+  {
+   "shot": "S11",
+   "at": "Then"
+  },
+  {
+   "shot": "S12",
+   "at": "Actually"
+  },
+  {
+   "shot": "S13",
+   "at": "But"
+  },
+  {
+   "shot": "S14",
+   "at": "You#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Or"
+  },
+  {
+   "shot": "S16",
+   "at": "Mom#2"
+  },
+  {
+   "shot": "S17",
+   "at": "So"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "You#2"
+  },
+  {
+   "shot": "S20",
+   "at": "There's"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "clang_syn": [
+    "procedural: a heavy steel cell door slamming shut, metal clang",
+    2.0
+   ],
+   "coins": [
+    "a few bronze coins dropped on a stone counter, bright metallic clinks",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "flash_old": [
+    "a vintage camera flash going off, a sharp pop and a quick electric whine",
+    1.0
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "laugh_low": [
+    "a man in a dark room laughing very softly, a quiet amused chuckle",
+    1.6
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "ring_syn": [
+    "procedural: a phone ringing twice",
+    3.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "door_shut",
+    0.5
+   ],
+   [
+    "S1+0",
+    "room_tone",
+    0.25,
+    "onset",
+    "S7"
+   ],
+   [
+    "S2+0",
+    "glitch",
+    0.35
+   ],
+   [
+    "S3+0",
+    "paper",
+    0.3
+   ],
+   [
+    "S4+0",
+    "flash_old",
+    0.5
+   ],
+   [
+    "S5+0",
+    "coins",
+    0.4
+   ],
+   [
+    "S6+0",
+    "select_draw",
+    0.4
+   ],
+   [
+    "S7+0",
+    "clang_syn",
+    0.55
+   ],
+   [
+    "S8+0",
+    "tick",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "step",
+    0.4
+   ],
+   [
+    "S12+0",
+    "buzzer",
+    0.3
+   ],
+   [
+    "S13+0",
+    "ring_syn",
+    0.35,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "laugh_low",
+    0.3
+   ],
+   [
+    "S16+0",
+    "buzz",
+    0.4
+   ],
+   [
+    "S17+0",
+    "heartbeat",
+    0.3
+   ],
+   [
+    "S19+0",
+    "door_shut",
+    0.35
+   ],
+   [
+    "S20+0",
+    "drone_hit",
+    0.4
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -15.0
+  }
+ }
 }
