@@ -1,0 +1,75 @@
+{
+  "id": "GtaHospitalBillC04",
+  "slug": "gta-hospital-bill/c04",
+  "chapter": "The real bill",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "no boxes",
+      "text": "The boxes don't break your fall. Nothing in real life works like that. Grey. Doors. And this time, your phone doesn't buzz. It rings. Somewhere in the hospital, a doctor is staring at your scans, calling three other doctors over to look. By the time they arrive, the scans are normal."
+    },
+    {
+      "beat": "line by line",
+      "text": "Here's the bill, line by line. And here's the part that's real."
+    },
+    {
+      "beat": "helicopter",
+      "text": "A helicopter to the trauma centre. In the US, the median price charged for one helicopter air ambulance flight was thirty-six thousand, four hundred dollars. For one ride. You were in it for six minutes."
+    },
+    {
+      "beat": "trauma team",
+      "text": "Trauma team activation. That's the fee for the doctors who rush to the door when you arrive, before anyone has even touched you. One hospital in California charged fifty thousand, six hundred and fifty-nine dollars for it."
+    },
+    {
+      "beat": "spine",
+      "text": "Then the big one. A fall from ten floors damages your spine. In real life, a high spinal cord injury costs about one point three seven million dollars in the first year alone, and about two hundred and thirty-eight thousand every year after that. Falls and vehicle crashes cause more than two thirds of these injuries."
+    },
+    {
+      "beat": "hospital day",
+      "text": "And every night in a hospital bed? US hospitals spend about three thousand, three hundred dollars per patient, per day. In California, almost four thousand, seven hundred and fifty."
+    },
+    {
+      "beat": "the total",
+      "text": "You blinked, and you healed. Your bill did not. New total: one million, five hundred and seventy-three thousand dollars. That's more than three typical American homes. And the supermarket wants twelve dollars for the cardboard boxes. In the game, you'd be back on the street with a slightly lighter wallet."
+    }
+  ],
+  "science": [
+    {
+      "claim": "The median price charged for a helicopter air ambulance transport was about $36,400.",
+      "working": "Median price charged by providers for privately insured patients in 2017: about $36,400 rotary-wing (helicopter), $40,600 fixed-wing.",
+      "source": "US Government Accountability Office, GAO-19-292, Air Ambulance (March 2019)"
+    },
+    {
+      "claim": "Trauma team activation fees reached $50,659 at one California hospital.",
+      "working": "Charges ranged from $1,112 at a Missouri hospital to $50,659 at a California hospital (Medliminal data); insurers paid an average of $3,968 in 2016 (Health Care Cost Institute).",
+      "source": "KFF Health News, \"How ER Bills Can Balloon by as Much as $50K for Trauma Response\" (2019)"
+    },
+    {
+      "claim": "A high spinal cord injury costs about $1.37 million in the first year and about $238,000 each year after.",
+      "working": "High tetraplegia (C1-C4), 2023 dollars: $1,369,755 first year, $237,862 each subsequent year. Since 2015, vehicle crashes caused 37.5% and falls 31.7% of injuries (69%).",
+      "source": "National Spinal Cord Injury Statistical Center, Facts and Figures at a Glance 2024"
+    },
+    {
+      "claim": "US hospitals spend about $3,300 per adjusted inpatient day; California about $4,750.",
+      "working": "2024: US average $3,297; California $4,744 (highest state).",
+      "source": "KFF State Health Facts, Hospital Adjusted Expenses per Inpatient Day (AHA Annual Survey)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The catch"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

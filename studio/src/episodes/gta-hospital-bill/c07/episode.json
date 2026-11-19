@@ -1,0 +1,42 @@
+{
+  "id": "GtaHospitalBillC07",
+  "slug": "gta-hospital-bill/c07",
+  "chapter": "Respawn scheduled",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "white room",
+      "text": "The building has no name on the door. The man in the grey suit meets you in a white room with a single chair. He shows you his tablet. Your bill: zero dollars. Paid in full. Mum's envelope: cancelled. \"Thank you,\" he says. \"Now, the first test.\" You ask what kind of test. He just smiles, the same smile as before."
+    },
+    {
+      "beat": "the door",
+      "text": "Behind him, a door slides open onto a place you know. The car park roof. Rebuilt, indoors, exactly. With a pile of cardboard boxes at the bottom. \"We need to see it happen,\" he says. \"Again and again.\" On his tablet, under your name, a new line appears. Respawn number fifteen: scheduled. You look at the boxes. You look at the man. And for the first time since Saturday, you're scared."
+    },
+    {
+      "beat": "is it real",
+      "text": "Is any of this real? The prices are. A helicopter ride with a median price of thirty-six thousand dollars. Trauma fees up to fifty thousand. A spinal injury that can cost one point three seven million in its first year. In real life, there's no respawn."
+    },
+    {
+      "beat": "outro",
+      "text": "Would you have signed the contract? Tell me in the comments. Part two is coming: what the company really wants with someone who can't die. And this is just one episode of our In Real Life series, so check the playlist to find out what happens when you get a five-star wanted level."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Cliffhanger"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

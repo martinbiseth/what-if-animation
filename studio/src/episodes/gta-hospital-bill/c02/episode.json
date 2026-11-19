@@ -1,0 +1,50 @@
+{
+  "id": "GtaHospitalBillC02",
+  "slug": "gta-hospital-bill/c02",
+  "chapter": "The rules",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "how it started",
+      "text": "It starts on a Saturday morning, after a very long night with a controller in your hand. You trip on the stairs, and the world blinks grey. When it comes back, you're outside City General, three streets away, in your pyjamas. Perfectly fine. A nurse stares at you. Then your phone buzzes. Your first bill: two thousand, nine hundred and nine dollars, for falling down the stairs. You fall down a few more things that morning, on purpose this time. That's how you figure out the rules."
+    },
+    {
+      "beat": "rule one",
+      "text": "Rule one: you can't die. Whatever happens, you blink, and you're back at the hospital doors, healed."
+    },
+    {
+      "beat": "rule two",
+      "text": "Rule two: the bill is real. Every line is the real price of what just happened to you, at real American hospital prices, as if you had to recover the normal way. A broken leg gets billed like a broken leg, even if it heals in a blink."
+    },
+    {
+      "beat": "rule three",
+      "text": "Rule three: the bill only ever comes to you. Nobody else pays a cent."
+    },
+    {
+      "beat": "the total",
+      "text": "By ten in the morning, the number at the top of your phone says sixty-three thousand, three hundred and twenty dollars. You have eleven dollars in your bank account. And it's only Saturday."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The premise and its rules"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": [],
+  "title": [
+    "WHAT IF YOU COULD",
+    ""
+  ]
+}

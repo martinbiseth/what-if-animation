@@ -1,0 +1,60 @@
+{
+  "id": "GtaHospitalBillC03",
+  "slug": "gta-hospital-bill/c03",
+  "chapter": "The stunts",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "the list",
+      "text": "On Sunday, Mo comes over with a camera and a list. He's called it: Stunts Only You Can Do."
+    },
+    {
+      "beat": "trolley",
+      "text": "Number one: a shopping trolley, down Hill Street, no brakes. You hit the fire hydrant at the bottom at full speed. Grey. Doors. Buzz. Emergency room, again. And a new line: one fire hydrant, ten thousand dollars. Water sprays forty feet into the air. Mo films all of it, and reads the bill out loud like a football score."
+    },
+    {
+      "beat": "barbecue",
+      "text": "Number two: the old gas barbecue that Mo's dad said never to touch. It has a leak. You click the lighter anyway. Boom. Grey. Doors. Buzz. Burn unit, fire engine, two brand new eyebrows. Twenty-two thousand dollars. Mo's dad comes out, looks at the crater where his barbecue used to be, and goes straight back inside."
+    },
+    {
+      "beat": "bridge",
+      "text": "Number three: the bridge. Thirty feet down, into a cold brown river. The water is so cold your breath gets stuck. The rescue boat costs more than the bridge. Eighteen thousand."
+    },
+    {
+      "beat": "viral",
+      "text": "Mo uploads the clips. The kid who can't get hurt. By the evening it has two million views. People comment from Brazil, from Japan. Everyone wants to know how it's done. Nobody believes it's real. At the hospital, a nurse asks for a selfie. The ambulance crew starts parking outside your house, just in case."
+    },
+    {
+      "beat": "the car park",
+      "text": "Then Mo points at the car park across the road. Ten floors. At the bottom, a big pile of cardboard boxes, like the ones in the games that always break your fall. \"Final stunt,\" he says. \"Then we're famous.\""
+    },
+    {
+      "beat": "the top",
+      "text": "You climb to the top. The wind is stronger up here. Down below, Mo is a tiny dot with a camera. You look at your phone. One hundred and sixteen thousand dollars. More money than your mum earns in two years. But you'll never pay it, right? It's just a number. How much worse can it get? You jump."
+    }
+  ],
+  "science": [
+    {
+      "claim": "A car hitting a single fire hydrant can cause about $10,000 in damage.",
+      "working": "In one July 2026 case, a driver doing donuts hit a fire hydrant; officials put the damage at $10,000.",
+      "source": "WLOX / Gray Media, \"Driver doing donuts crashes into fire hydrant, causing $10,000 in damage\" (27 July 2026)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The fun part"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GtaHospitalBillC05",
+  "slug": "gta-hospital-bill/c05",
+  "chapter": "Someone notices",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "regular",
+      "text": "By Monday, the hospital knows your name. The receptionist at the door just waves. Your pyjamas have their own hook. On Monday you try to be careful. You walk to school slowly, you look both ways twice, you don't touch anything sharp. But careful is hard when you've had a whole weekend of not caring. A football to the face in PE. Grey. Doors. Four thousand dollars. A news van starts following you home."
+    },
+    {
+      "beat": "the suit",
+      "text": "On Tuesday, after a very small accident with an escalator, you blink back to the hospital doors, and someone is already waiting for you. A man in a grey suit, holding a printout of your bill. He knows your mum's name. He knows which school Ellie goes to."
+    },
+    {
+      "beat": "fourteen",
+      "text": "\"Fourteen admissions in four days,\" he says. \"Injuries nobody walks away from. And you walk away every single time.\""
+    },
+    {
+      "beat": "the pitch",
+      "text": "He works for a company you've never heard of, with a very big building. \"Our scientists would like to understand how you heal. Imagine a world where nobody ever needs a helicopter, or a cast, or a burn unit.\""
+    },
+    {
+      "beat": "the contract",
+      "text": "Then he slides a contract across the table. \"We pay every bill. Every cent. Two point one million dollars, gone. All you have to do is come with us. For as long as it takes.\" \"And if I say no?\" He smiles. \"Then I'm sure you'll pay it yourself.\""
+    },
+    {
+      "beat": "the card",
+      "text": "He leaves a card. No name. Just a phone number, and a logo shaped like a heartbeat line. You walk home. The number on your phone ticks up, all by itself."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Someone notices"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

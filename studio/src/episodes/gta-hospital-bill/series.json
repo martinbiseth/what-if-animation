@@ -1,0 +1,88 @@
+{
+ "id": "GtaHospitalBill",
+ "slug": "gta-hospital-bill",
+ "topic": "What if you got the GTA6 hospital bill in real life?",
+ "title": [
+  "WHAT IF YOU GOT THE HOSPITAL BILL",
+  "IN REAL LIFE?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 139
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 199
+  },
+  {
+   "slug": "c03",
+   "name": "The stunts",
+   "words": 318
+  },
+  {
+   "slug": "c04",
+   "name": "The real bill",
+   "words": 270
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 260
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 250
+  },
+  {
+   "slug": "c07",
+   "name": "Respawn scheduled",
+   "words": 231
+  }
+ ],
+ "youtube": {
+  "title": "What if you got the GTA6 hospital bill in real life?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}

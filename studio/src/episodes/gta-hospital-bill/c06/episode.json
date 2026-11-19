@@ -1,0 +1,56 @@
+{
+  "id": "GtaHospitalBillC06",
+  "slug": "gta-hospital-bill/c06",
+  "chapter": "The choice",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "the envelope",
+      "text": "At home, Mum is sitting at the kitchen table with an envelope from the hospital. \"It says,\" she reads, slowly, \"that because you're under eighteen, the bill goes to your parent.\" She puts the letter down. She doesn't shout. That's worse."
+    },
+    {
+      "beat": "rule broken",
+      "text": "Rule three just broke. The bill doesn't only come to you any more. It comes to her. Two million, one hundred and forty thousand dollars. Pay within thirty days."
+    },
+    {
+      "beat": "real debt",
+      "text": "That's not a game number. In real life, about twenty million American adults owe medical debt. At least two hundred and twenty billion dollars between them. Mum is about to become one of them. Tonight she's on the phone to the bank, asking what the house is worth."
+    },
+    {
+      "beat": "mo",
+      "text": "Then your phone buzzes. It's Mo. He's in the emergency room. He tried the trolley stunt on his own. Without your rules."
+    },
+    {
+      "beat": "no respawn",
+      "text": "You run all the way there. Mo is on a bed with his arm in a cast. He doesn't blink back healed. He just sits there, pale, with six weeks of cast ahead of him, and his own bill on the table. Five thousand, eight hundred dollars. \"It's fine,\" Mo says. \"It's only six weeks.\" But his hand shakes when he picks up the bill. That's the thing about the game. It only works for you."
+    },
+    {
+      "beat": "ellie",
+      "text": "Ellie is waiting on the stairs when you get home. She's holding her piggy bank. \"Is it enough?\" she asks. You take out the card with the heartbeat line, and you dial the number."
+    }
+  ],
+  "science": [
+    {
+      "claim": "About 20 million US adults owe medical debt, at least $220 billion in total.",
+      "working": "About 1 in 12 adults owed over $250 in medical debt at the end of 2021; total at least $220 billion.",
+      "source": "Peterson-KFF Health System Tracker, \"The burden of medical debt in the United States\" (2024 update)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The choice"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "GtaHospitalBillC01",
+  "slug": "gta-hospital-bill/c01",
+  "chapter": "Cold open",
+  "topic": "What if you got the GTA6 hospital bill in real life?",
+  "script": [
+    {
+      "beat": "garage roof",
+      "text": "You jump off the garage roof. You land wrong. Everything goes grey. Then you blink, and you're standing outside the hospital doors. Not a scratch on you. Your phone buzzes. It's a bill. Ambulance: twelve hundred dollars. Emergency room: twenty-nine hundred. X-ray, cast, crutches. Total: six thousand, four hundred and eleven dollars."
+    },
+    {
+      "beat": "skateboard",
+      "text": "Mo's skateboard. The steepest hill in town. Grey. Hospital doors. Buzz. Eleven thousand."
+    },
+    {
+      "beat": "bike and river",
+      "text": "Your bike, a ramp made of planks, and the river. You don't make it. Grey. Doors. Buzz. Thirty-four thousand."
+    },
+    {
+      "beat": "trampoline",
+      "text": "Mo's trampoline, and the neighbour's greenhouse. Grey. Doors. Buzz. Nine thousand. The greenhouse is extra."
+    },
+    {
+      "beat": "premise question",
+      "text": "In the games, you crash, you wake up outside the hospital, they take a few hundred bucks, and you walk out whistling. So what would actually happen if you got the real hospital bill for living like a video game?"
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Cold open"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": [],
+  "pace": {
+    "min_cuts": 24,
+    "max_hold": 4
+  }
+}
