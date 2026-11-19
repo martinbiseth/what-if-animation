@@ -1,0 +1,69 @@
+{
+ "id": "GtaCheatCodes",
+ "slug": "gta-cheat-codes",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "title": [
+  "WHAT IF CHEAT CODES",
+  "WORKED IN REAL LIFE?"
+ ],
+ "target_seconds": 510,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Five days ago",
+   "words": 144
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 136
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 311
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 299
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 240
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 225
+  },
+  {
+   "slug": "c07",
+   "name": "Game paused",
+   "words": 192
+  }
+ ]
+}

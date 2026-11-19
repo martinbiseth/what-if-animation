@@ -1,0 +1,176 @@
+{
+ "id": "GtaCheatCodesC02",
+ "slug": "gta-cheat-codes/c02",
+ "chapter": "The rules",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "It starts on a Saturday. The controller doesn't plug into anything. It doesn't even have batteries."
+  },
+  {
+   "beat": "p2",
+   "text": "But when you press the first code on the list, just to see, something chimes. And right in front of your face, in glowing letters only you can see: Cheat activated. Invincible."
+  },
+  {
+   "beat": "p3",
+   "text": "You poke your arm with a fork. Nothing. You drop a dictionary on your foot. Nothing. Not even a red mark. You throw yourself down all fourteen stairs, on purpose. It doesn't even tickle."
+  },
+  {
+   "beat": "p4",
+   "text": "The rules are on the back of the list, in tiny, old handwriting."
+  },
+  {
+   "beat": "p5",
+   "text": "One. A cheat stays on until you enter the same code again."
+  },
+  {
+   "beat": "p6",
+   "text": "Two. Nobody else can see the letters."
+  },
+  {
+   "beat": "p7",
+   "text": "And three. Never, ever enter the last code."
+  },
+  {
+   "beat": "p8",
+   "text": "Under all the scribbles, there's one word. You can't quite read it. Not yet."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "note": "SATURDAY",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "note": "no cable, no batteries",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "first code",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "a chime, letters forming",
+   "key": 30
+  },
+  {
+   "id": "S4b",
+   "size": "close",
+   "note": "CHEAT ACTIVATED: INVINCIBLE",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "note": "fork",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "dictionary on foot",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "down the stairs on purpose",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "the rules",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "note": "rule 1",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "note": "rule 2",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "rule 3",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "the scribbles",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "controller"
+  },
+  {
+   "shot": "S3",
+   "at": "But"
+  },
+  {
+   "shot": "S4",
+   "at": "something"
+  },
+  {
+   "shot": "S4b",
+   "at": "Cheat"
+  },
+  {
+   "shot": "S5",
+   "at": "poke"
+  },
+  {
+   "shot": "S6",
+   "at": "drop"
+  },
+  {
+   "shot": "S7",
+   "at": "throw"
+  },
+  {
+   "shot": "S8",
+   "at": "rules"
+  },
+  {
+   "shot": "S9",
+   "at": "One"
+  },
+  {
+   "shot": "S10",
+   "at": "Two"
+  },
+  {
+   "shot": "S11",
+   "at": "three"
+  },
+  {
+   "shot": "S12",
+   "at": "Under"
+  }
+ ],
+ "fx": []
+}

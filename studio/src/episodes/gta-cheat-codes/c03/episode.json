@@ -1,0 +1,378 @@
+{
+ "id": "GtaCheatCodesC03",
+ "slug": "gta-cheat-codes/c03",
+ "chapter": "The fun part",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Monday. Mo bets you can't skate down Dead Man's Hill. Nobody has ever made it to the bottom."
+  },
+  {
+   "beat": "p2",
+   "text": "You don't make it either. You hit the curb at full speed, fly over a parked van and land face first in a hedge."
+  },
+  {
+   "beat": "p3",
+   "text": "You stand up. You pick a leaf out of your hair. Mo drops his phone."
+  },
+  {
+   "beat": "p4",
+   "text": "\"Do it again.\""
+  },
+  {
+   "beat": "p5",
+   "text": "Tuesday, you try code number four. Money. A soft chime, and a sports bag drops onto your bed. Inside, twenty-five stacks of hundred-dollar bills. Two hundred and fifty thousand dollars."
+  },
+  {
+   "beat": "p6",
+   "text": "You enter it again. Another bag. By dinner, you've stopped counting bags and started counting rooms."
+  },
+  {
+   "beat": "p7",
+   "text": "You buy pizza for the whole school. Eleven hundred pizzas. The delivery driver cries a little."
+  },
+  {
+   "beat": "p8",
+   "text": "It has been raining for three days, so you try code number two. Sunshine. The clouds just slide apart over your town, and only your town. On TV, the weather lady stops mid-sentence and stares at her map."
+  },
+  {
+   "beat": "p9",
+   "text": "Wednesday. Code number seven. A low rumble, a flash, and a red sports car drops out of thin air onto your driveway. Brand new. Keys in. You're fourteen. You can't drive. You make another one anyway. In blue."
+  },
+  {
+   "beat": "p10",
+   "text": "Ellie wants a pony. There's no pony code. She settles for a car."
+  },
+  {
+   "beat": "p11",
+   "text": "Thursday. Code number nine. Jetpack. It arrives with a bang, strapped to your back, and you go straight up so fast your shoes stay on the lawn."
+  },
+  {
+   "beat": "p12",
+   "text": "You fly to school above the traffic jam, over the bus, where everyone presses their faces to the windows, over the principal's car, and land on the school roof just as the bell rings."
+  },
+  {
+   "beat": "p13",
+   "text": "Mo is waiting. He's been waiting since seven."
+  },
+  {
+   "beat": "p14",
+   "text": "\"Okay. Okay. Jetpack. Me next.\""
+  },
+  {
+   "beat": "p15",
+   "text": "For four days, you're the luckiest person who has ever lived."
+  },
+  {
+   "beat": "p16",
+   "text": "Then, on Friday morning, you smell something burning. And you look down."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "note": "MONDAY",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "note": "top of the hill",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "the hill",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "note": "skating down",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "over the van into the hedge",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "note": "leaf in hair",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "note": "Mo drops his phone",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "note": "do it again",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "note": "MONEY",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "note": "a bag drops on the bed",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "the stacks",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "note": "a room of bags",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "note": "eleven hundred pizzas",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "rain",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "clouds part",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "weather map",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "note": "SPAWN CAR",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "note": "the car drops",
+   "key": 30
+  },
+  {
+   "id": "S18b",
+   "size": "insert",
+   "note": "brand new, keys in",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "note": "keys, can't drive, a blue one",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "note": "Ellie in her car",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "note": "JETPACK",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "note": "lift off, shoes stay",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "note": "over the traffic and the bus",
+   "key": 30
+  },
+  {
+   "id": "S23b",
+   "size": "wide",
+   "note": "over the principal's car",
+   "key": 30
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "note": "school roof",
+   "key": 30
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "note": "Mo waiting",
+   "key": 30
+  },
+  {
+   "id": "S26",
+   "size": "close",
+   "note": "me next",
+   "key": 30
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "note": "luckiest",
+   "key": 30
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "note": "smell burning",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "bets"
+  },
+  {
+   "shot": "S3",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S4",
+   "at": "don't"
+  },
+  {
+   "shot": "S5",
+   "at": "fly"
+  },
+  {
+   "shot": "S6",
+   "at": "stand"
+  },
+  {
+   "shot": "S7",
+   "at": "drops"
+  },
+  {
+   "shot": "S8",
+   "at": "Do"
+  },
+  {
+   "shot": "S9",
+   "at": "Tuesday"
+  },
+  {
+   "shot": "S10",
+   "at": "sports"
+  },
+  {
+   "shot": "S11",
+   "at": "Inside"
+  },
+  {
+   "shot": "S12",
+   "at": "enter"
+  },
+  {
+   "shot": "S13",
+   "at": "pizza"
+  },
+  {
+   "shot": "S14",
+   "at": "raining"
+  },
+  {
+   "shot": "S15",
+   "at": "Sunshine"
+  },
+  {
+   "shot": "S16",
+   "at": "TV"
+  },
+  {
+   "shot": "S17",
+   "at": "Wednesday"
+  },
+  {
+   "shot": "S18",
+   "at": "rumble"
+  },
+  {
+   "shot": "S18b",
+   "at": "Brand"
+  },
+  {
+   "shot": "S19",
+   "at": "fourteen"
+  },
+  {
+   "shot": "S20",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S21",
+   "at": "Thursday"
+  },
+  {
+   "shot": "S22",
+   "at": "bang"
+  },
+  {
+   "shot": "S23",
+   "at": "fly"
+  },
+  {
+   "shot": "S23b",
+   "at": "principal's"
+  },
+  {
+   "shot": "S24",
+   "at": "land"
+  },
+  {
+   "shot": "S25",
+   "at": "waiting"
+  },
+  {
+   "shot": "S26",
+   "at": "Okay"
+  },
+  {
+   "shot": "S27",
+   "at": "For"
+  },
+  {
+   "shot": "S28",
+   "at": "Then"
+  }
+ ],
+ "fx": []
+}

@@ -1,0 +1,68 @@
+{
+ "id": "GtaCheatCodesC05",
+ "slug": "gta-cheat-codes/c05",
+ "chapter": "Someone notices",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "The pilot reports it as soon as he lands. A person in a jetpack, next to a passenger jet."
+  },
+  {
+   "beat": "p2",
+   "text": "That has actually happened. In twenty twenty, airline pilots flying into Los Angeles reported a person in a jetpack at about three thousand feet. The FBI went looking."
+  },
+  {
+   "beat": "p3",
+   "text": "That night, the jetpack is on the news. Mo sends you the clip with forty-two crying-laughing faces."
+  },
+  {
+   "beat": "p4",
+   "text": "Across town, an engineer at the power company is staring at a graph. Three huge power dips this week. All of them from one street. Yours."
+  },
+  {
+   "beat": "p5",
+   "text": "And there's one more phone call. The bank teller makes it."
+  },
+  {
+   "beat": "p6",
+   "text": "In America, fake money isn't just a job for the police. It's a job for the Secret Service. The same people who guard the President. They were started in eighteen sixty-five for one reason: to catch people making fake money."
+  },
+  {
+   "beat": "p7",
+   "text": "Friday evening, three black cars park outside your house, right behind the three sports cars that shouldn't exist."
+  },
+  {
+   "beat": "p8",
+   "text": "A man in a gray suit rings the doorbell. He holds up two bills. Same serial number."
+  },
+  {
+   "beat": "p9",
+   "text": "\"These are very good,\" he says. \"Too good. Nobody can print these. So how are you doing it?\""
+  },
+  {
+   "beat": "p10",
+   "text": "Behind him, a van with a satellite dish parks across the road."
+  },
+  {
+   "beat": "p11",
+   "text": "Your phone buzzes. It's Mo. \"Dude. Why is there a helicopter over your house?\""
+  },
+  {
+   "beat": "p12",
+   "text": "And the man in the suit looks right past you, at the controller on the kitchen table."
+  }
+ ],
+ "science": [
+  {
+   "claim": "In 2020 airline pilots approaching Los Angeles International Airport reported a person in a jetpack at about 3,000 feet; the FBI investigated.",
+   "working": "Reported 30 August 2020 by an American Airlines crew, with further sightings that autumn.",
+   "source": "Federal Aviation Administration statement; FBI Los Angeles, as reported by AP and the Los Angeles Times, Sept 2020"
+  },
+  {
+   "claim": "The U.S. Secret Service was created in 1865 to fight counterfeit currency; protecting the President came later.",
+   "working": "Founded 5 July 1865 as a Treasury bureau; full-time presidential protection from 1902.",
+   "source": "U.S. Secret Service, 'History'"
+  }
+ ]
+}

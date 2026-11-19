@@ -1,0 +1,237 @@
+{
+ "id": "GtaCheatCodesC01",
+ "slug": "gta-cheat-codes/c01",
+ "chapter": "Five days ago",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You fall down all fourteen stairs. You land on your head. And you stand up without a scratch."
+  },
+  {
+   "beat": "p2",
+   "text": "You open your sock drawer, and there's a quarter of a million dollars in it. Again."
+  },
+  {
+   "beat": "p3",
+   "text": "You press five buttons, and a bright red sports car drops out of the sky onto your driveway."
+  },
+  {
+   "beat": "p4",
+   "text": "And this morning, you flew to school. Over the traffic. With a jetpack."
+  },
+  {
+   "beat": "p5",
+   "text": "Five days ago, you bought an old game controller at a yard sale for two dollars. Taped to the back was a list. Twelve cheat codes. And one more line at the bottom, scratched out so hard the pen went through the paper."
+  },
+  {
+   "beat": "p6",
+   "text": "So what if video game cheat codes worked in real life? Not in a game. In your street. On your body. In your bank."
+  },
+  {
+   "beat": "p7",
+   "text": "And what if every single one of them came with a catch?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "note": "fall down the stairs",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "note": "land on your head",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "note": "stand up, INVINCIBLE",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "sock drawer opens",
+   "key": 30
+  },
+  {
+   "id": "S4b",
+   "size": "insert",
+   "note": "cash in the drawer",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "note": "smug, bills raining",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "controller, five buttons",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "red car drops onto the street",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "note": "jetpack over the traffic",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "note": "you on the jetpack",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "note": "yard sale, $2",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "the list on the back",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "the scribbled line",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "note": "title",
+   "key": 30
+  },
+  {
+   "id": "S13b",
+   "size": "insert",
+   "note": "a game on a TV",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "note": "your street",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "note": "your body",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "note": "your bank",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "note": "a catch",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "land"
+  },
+  {
+   "shot": "S3",
+   "at": "stand"
+  },
+  {
+   "shot": "S4",
+   "at": "open"
+  },
+  {
+   "shot": "S4b",
+   "at": "quarter"
+  },
+  {
+   "shot": "S5",
+   "at": "Again"
+  },
+  {
+   "shot": "S6",
+   "at": "press"
+  },
+  {
+   "shot": "S7",
+   "at": "bright"
+  },
+  {
+   "shot": "S8",
+   "at": "this"
+  },
+  {
+   "shot": "S9",
+   "at": "With"
+  },
+  {
+   "shot": "S10",
+   "at": "Five"
+  },
+  {
+   "shot": "S11",
+   "at": "Taped"
+  },
+  {
+   "shot": "S12",
+   "at": "one"
+  },
+  {
+   "shot": "S13",
+   "at": "So#2"
+  },
+  {
+   "shot": "S13b",
+   "at": "Not"
+  },
+  {
+   "shot": "S14",
+   "at": "street"
+  },
+  {
+   "shot": "S15",
+   "at": "body"
+  },
+  {
+   "shot": "S16",
+   "at": "bank"
+  },
+  {
+   "shot": "S17",
+   "at": "every"
+  }
+ ],
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ },
+ "tail": 0.6
+}

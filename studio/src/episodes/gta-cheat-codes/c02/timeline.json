@@ -1,0 +1,233 @@
+{
+ "slug": "gta-cheat-codes/c02",
+ "title": " ",
+ "fps": 30,
+ "total": 1380,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 58,
+   "t0": 0,
+   "t1": 58,
+   "line": "It starts on a Saturday. The"
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 173,
+   "t0": 0,
+   "t1": 115,
+   "line": "controller doesn't plug into anything. It doesn't even have batteries."
+  },
+  {
+   "shot": "S3",
+   "a": 173,
+   "b": 280,
+   "t0": 0,
+   "t1": 107,
+   "line": "But when you press the first code on the list, just to see,"
+  },
+  {
+   "shot": "S4",
+   "a": 280,
+   "b": 431,
+   "t0": 0,
+   "t1": 151,
+   "line": "something chimes. And right in front of your face, in glowing letters only you can see:"
+  },
+  {
+   "shot": "S4b",
+   "a": 431,
+   "b": 490,
+   "t0": 0,
+   "t1": 59,
+   "line": "Cheat activated. Invincible. You"
+  },
+  {
+   "shot": "S5",
+   "a": 490,
+   "b": 569,
+   "t0": 0,
+   "t1": 79,
+   "line": "poke your arm with a fork. Nothing. You"
+  },
+  {
+   "shot": "S6",
+   "a": 569,
+   "b": 696,
+   "t0": 0,
+   "t1": 127,
+   "line": "drop a dictionary on your foot. Nothing. Not even a red mark. You"
+  },
+  {
+   "shot": "S7",
+   "a": 696,
+   "b": 834,
+   "t0": 0,
+   "t1": 138,
+   "line": "throw yourself down all fourteen stairs, on purpose. It doesn't even tickle. The"
+  },
+  {
+   "shot": "S8",
+   "a": 834,
+   "b": 946,
+   "t0": 0,
+   "t1": 112,
+   "line": "rules are on the back of the list, in tiny, old handwriting."
+  },
+  {
+   "shot": "S9",
+   "a": 946,
+   "b": 1056,
+   "t0": 0,
+   "t1": 110,
+   "line": "One. A cheat stays on until you enter the same code again."
+  },
+  {
+   "shot": "S10",
+   "a": 1056,
+   "b": 1137,
+   "t0": 0,
+   "t1": 81,
+   "line": "Two. Nobody else can see the letters. And"
+  },
+  {
+   "shot": "S11",
+   "a": 1137,
+   "b": 1216,
+   "t0": 0,
+   "t1": 79,
+   "line": "three. Never, ever enter the last code."
+  },
+  {
+   "shot": "S12",
+   "a": 1216,
+   "b": 1380,
+   "t0": 0,
+   "t1": 164,
+   "line": "Under all the scribbles, there's one word. You can't quite read it. Not yet."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 58,
+   "first": 0,
+   "line": "It starts on a Saturday. The",
+   "note": "SATURDAY"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 115,
+   "first": 58,
+   "line": "controller doesn't plug into anything. It doesn't even have batteries.",
+   "note": "no cable, no batteries"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 107,
+   "first": 173,
+   "line": "But when you press the first code on the list, just to see,",
+   "note": "first code"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 30,
+   "len": 151,
+   "first": 280,
+   "line": "something chimes. And right in front of your face, in glowing letters only you can see:",
+   "note": "a chime, letters forming"
+  },
+  {
+   "id": "S4b",
+   "size": "close",
+   "key": 30,
+   "len": 59,
+   "first": 431,
+   "line": "Cheat activated. Invincible. You",
+   "note": "CHEAT ACTIVATED: INVINCIBLE"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 79,
+   "first": 490,
+   "line": "poke your arm with a fork. Nothing. You",
+   "note": "fork"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 127,
+   "first": 569,
+   "line": "drop a dictionary on your foot. Nothing. Not even a red mark. You",
+   "note": "dictionary on foot"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 138,
+   "first": 696,
+   "line": "throw yourself down all fourteen stairs, on purpose. It doesn't even tickle. The",
+   "note": "down the stairs on purpose"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 112,
+   "first": 834,
+   "line": "rules are on the back of the list, in tiny, old handwriting.",
+   "note": "the rules"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 30,
+   "len": 110,
+   "first": 946,
+   "line": "One. A cheat stays on until you enter the same code again.",
+   "note": "rule 1"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 81,
+   "first": 1056,
+   "line": "Two. Nobody else can see the letters. And",
+   "note": "rule 2"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 79,
+   "first": 1137,
+   "line": "three. Never, ever enter the last code.",
+   "note": "rule 3"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 30,
+   "len": 164,
+   "first": 1216,
+   "line": "Under all the scribbles, there's one word. You can't quite read it. Not yet.",
+   "note": "the scribbles"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

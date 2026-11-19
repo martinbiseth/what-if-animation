@@ -1,0 +1,420 @@
+{
+ "slug": "gta-cheat-codes/c04",
+ "title": " ",
+ "fps": 30,
+ "total": 2860,
+ "segments": [
+  {
+   "shot": "S2",
+   "a": 0,
+   "b": 44,
+   "t0": 0,
+   "t1": 44,
+   "line": "It's your sleeve. You"
+  },
+  {
+   "shot": "S3",
+   "a": 44,
+   "b": 217,
+   "t0": 0,
+   "t1": 173,
+   "line": "leaned on the stove while you made toast, and your sleeve has been on fire for about a minute. You"
+  },
+  {
+   "shot": "S4",
+   "a": 217,
+   "b": 315,
+   "t0": 0,
+   "t1": 98,
+   "line": "didn't feel a thing. That's the problem with invincible."
+  },
+  {
+   "shot": "S5",
+   "a": 315,
+   "b": 428,
+   "t0": 0,
+   "t1": 113,
+   "line": "Pain isn't your body being mean. It's an alarm. And there are"
+  },
+  {
+   "shot": "S6",
+   "a": 428,
+   "b": 572,
+   "t0": 0,
+   "t1": 144,
+   "line": "real people who are born without it. Doctors call it congenital insensitivity to pain."
+  },
+  {
+   "shot": "S7",
+   "a": 572,
+   "b": 675,
+   "t0": 0,
+   "t1": 103,
+   "line": "Kids who have it bite their tongues, walk on broken bones and"
+  },
+  {
+   "shot": "S7b",
+   "a": 675,
+   "b": 792,
+   "t0": 0,
+   "t1": 117,
+   "line": "burn themselves without knowing, because nothing tells them to stop. Your"
+  },
+  {
+   "shot": "S8",
+   "a": 792,
+   "b": 951,
+   "t0": 0,
+   "t1": 159,
+   "line": "body can't be hurt. But everything you wear, hold or lean on still can. Then there's the"
+  },
+  {
+   "shot": "S9",
+   "a": 951,
+   "b": 1068,
+   "t0": 0,
+   "t1": 117,
+   "line": "money. You take one stack to the bank to open an account. The"
+  },
+  {
+   "shot": "S10",
+   "a": 1068,
+   "b": 1196,
+   "t0": 0,
+   "t1": 128,
+   "line": "teller holds a bill up to the light. Then another. Then she lays them"
+  },
+  {
+   "shot": "S11",
+   "a": 1196,
+   "b": 1293,
+   "t0": 0,
+   "t1": 97,
+   "line": "side by side. Her smile doesn't move. But her other"
+  },
+  {
+   "shot": "S12",
+   "a": 1293,
+   "b": 1392,
+   "t0": 0,
+   "t1": 99,
+   "line": "hand slides under the desk. Every dollar bill has its own"
+  },
+  {
+   "shot": "S13",
+   "a": 1392,
+   "b": 1484,
+   "t0": 0,
+   "t1": 92,
+   "line": "serial number. Yours all have the same one. Every"
+  },
+  {
+   "shot": "S14",
+   "a": 1484,
+   "b": 1652,
+   "t0": 0,
+   "t1": 168,
+   "line": "bag the cheat gives you is the same bag, copied. So legally, you didn't get rich. You made"
+  },
+  {
+   "shot": "S15",
+   "a": 1652,
+   "b": 1787,
+   "t0": 0,
+   "t1": 135,
+   "line": "counterfeit money. A quarter of a million dollars of it. Forty times. The"
+  },
+  {
+   "shot": "S16",
+   "a": 1787,
+   "b": 1878,
+   "t0": 0,
+   "t1": 91,
+   "line": "cars are worse. They have to come from somewhere."
+  },
+  {
+   "shot": "S17",
+   "a": 1878,
+   "b": 1973,
+   "t0": 0,
+   "t1": 95,
+   "line": "Einstein showed that mass and energy are the same thing."
+  },
+  {
+   "shot": "S17b",
+   "a": 1973,
+   "b": 2084,
+   "t0": 0,
+   "t1": 111,
+   "line": "To make one car out of nothing, about fifteen hundred kilos, you'd"
+  },
+  {
+   "shot": "S18",
+   "a": 2084,
+   "b": 2204,
+   "t0": 0,
+   "t1": 120,
+   "line": "need around a hundred and thirty-five billion billion joules. That's about a"
+  },
+  {
+   "shot": "S19",
+   "a": 2204,
+   "b": 2313,
+   "t0": 0,
+   "t1": 109,
+   "line": "fifth of all the energy the whole world uses in a year. And"
+  },
+  {
+   "shot": "S20",
+   "a": 2313,
+   "b": 2443,
+   "t0": 0,
+   "t1": 130,
+   "line": "every time you press that code, every light on your street flickers. And the"
+  },
+  {
+   "shot": "S21",
+   "a": 2443,
+   "b": 2613,
+   "t0": 0,
+   "t1": 170,
+   "line": "jetpack. Real jetpacks exist. The best ones fly for about ten minutes before the fuel runs out."
+  },
+  {
+   "shot": "S21b",
+   "a": 2613,
+   "b": 2654,
+   "t0": 0,
+   "t1": 41,
+   "line": "Yours never runs out."
+  },
+  {
+   "shot": "S22",
+   "a": 2654,
+   "b": 2860,
+   "t0": 0,
+   "t1": 206,
+   "line": "Which is how, on Thursday afternoon, you end up three thousand feet up, in your socks, next to a plane."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 44,
+   "first": 0,
+   "line": "It's your sleeve. You",
+   "note": "sleeve on fire"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 30,
+   "len": 173,
+   "first": 44,
+   "line": "leaned on the stove while you made toast, and your sleeve has been on fire for about a minute. You",
+   "note": "at the stove, calm"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 30,
+   "len": 98,
+   "first": 217,
+   "line": "didn't feel a thing. That's the problem with invincible.",
+   "note": "you didn't feel a thing"
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "key": 30,
+   "len": 113,
+   "first": 315,
+   "line": "Pain isn't your body being mean. It's an alarm. And there are",
+   "note": "PAIN = ALARM"
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "key": 30,
+   "len": 144,
+   "first": 428,
+   "line": "real people who are born without it. Doctors call it congenital insensitivity to pain.",
+   "note": "born without it"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 30,
+   "len": 103,
+   "first": 572,
+   "line": "Kids who have it bite their tongues, walk on broken bones and",
+   "note": "bitten tongues, broken bones"
+  },
+  {
+   "id": "S7b",
+   "size": "card",
+   "key": 30,
+   "len": 117,
+   "first": 675,
+   "line": "burn themselves without knowing, because nothing tells them to stop. Your",
+   "note": "burns"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 159,
+   "first": 792,
+   "line": "body can't be hurt. But everything you wear, hold or lean on still can. Then there's the",
+   "note": "your clothes still can"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 117,
+   "first": 951,
+   "line": "money. You take one stack to the bank to open an account. The",
+   "note": "the bank"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 128,
+   "first": 1068,
+   "line": "teller holds a bill up to the light. Then another. Then she lays them",
+   "note": "held up to the light"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 97,
+   "first": 1196,
+   "line": "side by side. Her smile doesn't move. But her other",
+   "note": "side by side"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 30,
+   "len": 99,
+   "first": 1293,
+   "line": "hand slides under the desk. Every dollar bill has its own",
+   "note": "silent alarm"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 30,
+   "len": 92,
+   "first": 1392,
+   "line": "serial number. Yours all have the same one. Every",
+   "note": "same serial number"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 30,
+   "len": 168,
+   "first": 1484,
+   "line": "bag the cheat gives you is the same bag, copied. So legally, you didn't get rich. You made",
+   "note": "the same bag, copied"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 30,
+   "len": 135,
+   "first": 1652,
+   "line": "counterfeit money. A quarter of a million dollars of it. Forty times. The",
+   "note": "COUNTERFEIT"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 30,
+   "len": 91,
+   "first": 1787,
+   "line": "cars are worse. They have to come from somewhere.",
+   "note": "from somewhere"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 30,
+   "len": 95,
+   "first": 1878,
+   "line": "Einstein showed that mass and energy are the same thing.",
+   "note": "E = mc2"
+  },
+  {
+   "id": "S17b",
+   "size": "card",
+   "key": 30,
+   "len": 111,
+   "first": 1973,
+   "line": "To make one car out of nothing, about fifteen hundred kilos, you'd",
+   "note": "one car from nothing"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 30,
+   "len": 120,
+   "first": 2084,
+   "line": "need around a hundred and thirty-five billion billion joules. That's about a",
+   "note": "135 billion billion joules"
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "key": 30,
+   "len": 109,
+   "first": 2204,
+   "line": "fifth of all the energy the whole world uses in a year. And",
+   "note": "a fifth of the world's energy"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 30,
+   "len": 130,
+   "first": 2313,
+   "line": "every time you press that code, every light on your street flickers. And the",
+   "note": "the street lights flicker"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 30,
+   "len": 170,
+   "first": 2443,
+   "line": "jetpack. Real jetpacks exist. The best ones fly for about ten minutes before the fuel runs out.",
+   "note": "10 minutes"
+  },
+  {
+   "id": "S21b",
+   "size": "insert",
+   "key": 30,
+   "len": 41,
+   "first": 2613,
+   "line": "Yours never runs out.",
+   "note": "the gauge never moves"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 30,
+   "len": 206,
+   "first": 2654,
+   "line": "Which is how, on Thursday afternoon, you end up three thousand feet up, in your socks, next to a plane.",
+   "note": "3,000 ft, next to a plane"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

@@ -1,0 +1,315 @@
+{
+ "id": "GtaCheatCodesC04",
+ "slug": "gta-cheat-codes/c04",
+ "chapter": "The catch",
+ "topic": "What if GTA6 cheat codes worked in real life?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "It's your sleeve. You leaned on the stove while you made toast, and your sleeve has been on fire for about a minute. You didn't feel a thing."
+  },
+  {
+   "beat": "p2",
+   "text": "That's the problem with invincible. Pain isn't your body being mean. It's an alarm."
+  },
+  {
+   "beat": "p3",
+   "text": "And there are real people who are born without it. Doctors call it congenital insensitivity to pain. Kids who have it bite their tongues, walk on broken bones and burn themselves without knowing, because nothing tells them to stop."
+  },
+  {
+   "beat": "p4",
+   "text": "Your body can't be hurt. But everything you wear, hold or lean on still can."
+  },
+  {
+   "beat": "p5",
+   "text": "Then there's the money. You take one stack to the bank to open an account. The teller holds a bill up to the light. Then another. Then she lays them side by side. Her smile doesn't move. But her other hand slides under the desk."
+  },
+  {
+   "beat": "p6",
+   "text": "Every dollar bill has its own serial number. Yours all have the same one. Every bag the cheat gives you is the same bag, copied. So legally, you didn't get rich. You made counterfeit money. A quarter of a million dollars of it. Forty times."
+  },
+  {
+   "beat": "p7",
+   "text": "The cars are worse. They have to come from somewhere. Einstein showed that mass and energy are the same thing. To make one car out of nothing, about fifteen hundred kilos, you'd need around a hundred and thirty-five billion billion joules. That's about a fifth of all the energy the whole world uses in a year."
+  },
+  {
+   "beat": "p8",
+   "text": "And every time you press that code, every light on your street flickers."
+  },
+  {
+   "beat": "p9",
+   "text": "And the jetpack. Real jetpacks exist. The best ones fly for about ten minutes before the fuel runs out. Yours never runs out."
+  },
+  {
+   "beat": "p10",
+   "text": "Which is how, on Thursday afternoon, you end up three thousand feet up, in your socks, next to a plane."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Congenital insensitivity to pain: people born unable to feel pain often injure themselves without noticing (bitten tongues, unnoticed fractures, burns).",
+   "working": "Rare inherited condition (e.g. CIPA, HSAN type IV; SCN9A-related). Self-injury and unnoticed injuries are the hallmark.",
+   "source": "MedlinePlus Genetics, 'Congenital insensitivity to pain' (U.S. National Library of Medicine)"
+  },
+  {
+   "claim": "Every U.S. banknote carries its own unique serial number; two notes with the same serial number mean at least one is counterfeit.",
+   "working": "Each Federal Reserve note has a unique serial number printed twice on the front.",
+   "source": "U.S. Currency Education Program (Federal Reserve), 'Serial numbers'; U.S. Secret Service, Know Your Money"
+  },
+  {
+   "claim": "Making a 1,500 kg car from pure energy would take about 1.35 x 10^20 joules, about a fifth of the world's yearly primary energy use.",
+   "working": "E = mc^2 = 1,500 kg x (3.0 x 10^8 m/s)^2 = 1.35 x 10^20 J = 135 EJ. World primary energy 2023 was about 620 EJ; 135 / 620 = 0.22.",
+   "source": "Einstein (1905); Energy Institute, Statistical Review of World Energy 2024"
+  },
+  {
+   "claim": "Real jetpacks fly for roughly ten minutes on a tank of fuel.",
+   "working": "JetPack Aviation's turbine jetpacks (JB-10/JB-11) are rated for flights of around 10 minutes.",
+   "source": "JetPack Aviation, product specifications"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S2",
+   "size": "insert",
+   "note": "sleeve on fire",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "at the stove, calm",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "you didn't feel a thing",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "card",
+   "note": "PAIN = ALARM",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "card",
+   "note": "born without it",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "note": "bitten tongues, broken bones",
+   "key": 30
+  },
+  {
+   "id": "S7b",
+   "size": "card",
+   "note": "burns",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "your clothes still can",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "note": "the bank",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "note": "held up to the light",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "side by side",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "silent alarm",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "same serial number",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "the same bag, copied",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "note": "COUNTERFEIT",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "note": "from somewhere",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "note": "E = mc2",
+   "key": 30
+  },
+  {
+   "id": "S17b",
+   "size": "card",
+   "note": "one car from nothing",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "note": "135 billion billion joules",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "note": "a fifth of the world's energy",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "note": "the street lights flicker",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "note": "10 minutes",
+   "key": 30
+  },
+  {
+   "id": "S21b",
+   "size": "insert",
+   "note": "the gauge never moves",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "note": "3,000 ft, next to a plane",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S2",
+   "at": "f:0"
+  },
+  {
+   "shot": "S3",
+   "at": "leaned"
+  },
+  {
+   "shot": "S4",
+   "at": "didn't"
+  },
+  {
+   "shot": "S5",
+   "at": "Pain"
+  },
+  {
+   "shot": "S6",
+   "at": "real"
+  },
+  {
+   "shot": "S7",
+   "at": "Kids"
+  },
+  {
+   "shot": "S7b",
+   "at": "burn"
+  },
+  {
+   "shot": "S8",
+   "at": "body"
+  },
+  {
+   "shot": "S9",
+   "at": "money"
+  },
+  {
+   "shot": "S10",
+   "at": "teller"
+  },
+  {
+   "shot": "S11",
+   "at": "side"
+  },
+  {
+   "shot": "S12",
+   "at": "hand"
+  },
+  {
+   "shot": "S13",
+   "at": "serial"
+  },
+  {
+   "shot": "S14",
+   "at": "bag"
+  },
+  {
+   "shot": "S15",
+   "at": "counterfeit"
+  },
+  {
+   "shot": "S16",
+   "at": "cars"
+  },
+  {
+   "shot": "S17",
+   "at": "Einstein"
+  },
+  {
+   "shot": "S17b",
+   "at": "To"
+  },
+  {
+   "shot": "S18",
+   "at": "need"
+  },
+  {
+   "shot": "S19",
+   "at": "fifth"
+  },
+  {
+   "shot": "S20",
+   "at": "every"
+  },
+  {
+   "shot": "S21",
+   "at": "jetpack"
+  },
+  {
+   "shot": "S21b",
+   "at": "Yours"
+  },
+  {
+   "shot": "S22",
+   "at": "Which"
+  }
+ ],
+ "fx": []
+}

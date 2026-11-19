@@ -1,0 +1,335 @@
+{
+ "slug": "gta-cheat-codes/c01",
+ "title": " ",
+ "fps": 30,
+ "total": 1348,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 71,
+   "t0": 0,
+   "t1": 71,
+   "line": "You fall down all fourteen stairs. You"
+  },
+  {
+   "shot": "S2",
+   "a": 71,
+   "b": 124,
+   "t0": 0,
+   "t1": 53,
+   "line": "land on your head. And you"
+  },
+  {
+   "shot": "S3",
+   "a": 124,
+   "b": 181,
+   "t0": 0,
+   "t1": 57,
+   "line": "stand up without a scratch. You"
+  },
+  {
+   "shot": "S4",
+   "a": 181,
+   "b": 244,
+   "t0": 0,
+   "t1": 63,
+   "line": "open your sock drawer, and there's a"
+  },
+  {
+   "shot": "S4b",
+   "a": 244,
+   "b": 308,
+   "t0": 0,
+   "t1": 64,
+   "line": "quarter of a million dollars in it."
+  },
+  {
+   "shot": "S5",
+   "a": 308,
+   "b": 332,
+   "t0": 0,
+   "t1": 24,
+   "line": "Again. You"
+  },
+  {
+   "shot": "S6",
+   "a": 332,
+   "b": 377,
+   "t0": 0,
+   "t1": 45,
+   "line": "press five buttons, and a"
+  },
+  {
+   "shot": "S7",
+   "a": 377,
+   "b": 492,
+   "t0": 0,
+   "t1": 115,
+   "line": "bright red sports car drops out of the sky onto your driveway. And"
+  },
+  {
+   "shot": "S8",
+   "a": 492,
+   "b": 589,
+   "t0": 0,
+   "t1": 97,
+   "line": "this morning, you flew to school. Over the traffic."
+  },
+  {
+   "shot": "S9",
+   "a": 589,
+   "b": 621,
+   "t0": 0,
+   "t1": 32,
+   "line": "With a jetpack."
+  },
+  {
+   "shot": "S10",
+   "a": 621,
+   "b": 762,
+   "t0": 0,
+   "t1": 141,
+   "line": "Five days ago, you bought an old game controller at a yard sale for two dollars."
+  },
+  {
+   "shot": "S11",
+   "a": 762,
+   "b": 865,
+   "t0": 0,
+   "t1": 103,
+   "line": "Taped to the back was a list. Twelve cheat codes. And"
+  },
+  {
+   "shot": "S12",
+   "a": 865,
+   "b": 1008,
+   "t0": 0,
+   "t1": 143,
+   "line": "one more line at the bottom, scratched out so hard the pen went through the paper."
+  },
+  {
+   "shot": "S13",
+   "a": 1008,
+   "b": 1108,
+   "t0": 0,
+   "t1": 100,
+   "line": "So what if video game cheat codes worked in real life?"
+  },
+  {
+   "shot": "S13b",
+   "a": 1108,
+   "b": 1158,
+   "t0": 0,
+   "t1": 50,
+   "line": "Not in a game. In your"
+  },
+  {
+   "shot": "S14",
+   "a": 1158,
+   "b": 1190,
+   "t0": 0,
+   "t1": 32,
+   "line": "street. On your"
+  },
+  {
+   "shot": "S15",
+   "a": 1190,
+   "b": 1220,
+   "t0": 0,
+   "t1": 30,
+   "line": "body. In your"
+  },
+  {
+   "shot": "S16",
+   "a": 1220,
+   "b": 1258,
+   "t0": 0,
+   "t1": 38,
+   "line": "bank. And what if"
+  },
+  {
+   "shot": "S17",
+   "a": 1258,
+   "b": 1348,
+   "t0": 0,
+   "t1": 90,
+   "line": "every single one of them came with a catch?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 71,
+   "first": 0,
+   "line": "You fall down all fourteen stairs. You",
+   "note": "fall down the stairs"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "key": 30,
+   "len": 53,
+   "first": 71,
+   "line": "land on your head. And you",
+   "note": "land on your head"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 124,
+   "line": "stand up without a scratch. You",
+   "note": "stand up, INVINCIBLE"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 30,
+   "len": 63,
+   "first": 181,
+   "line": "open your sock drawer, and there's a",
+   "note": "sock drawer opens"
+  },
+  {
+   "id": "S4b",
+   "size": "insert",
+   "key": 30,
+   "len": 64,
+   "first": 244,
+   "line": "quarter of a million dollars in it.",
+   "note": "cash in the drawer"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 30,
+   "len": 24,
+   "first": 308,
+   "line": "Again. You",
+   "note": "smug, bills raining"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 45,
+   "first": 332,
+   "line": "press five buttons, and a",
+   "note": "controller, five buttons"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 115,
+   "first": 377,
+   "line": "bright red sports car drops out of the sky onto your driveway. And",
+   "note": "red car drops onto the street"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 30,
+   "len": 97,
+   "first": 492,
+   "line": "this morning, you flew to school. Over the traffic.",
+   "note": "jetpack over the traffic"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 32,
+   "first": 589,
+   "line": "With a jetpack.",
+   "note": "you on the jetpack"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 141,
+   "first": 621,
+   "line": "Five days ago, you bought an old game controller at a yard sale for two dollars.",
+   "note": "yard sale, $2"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 103,
+   "first": 762,
+   "line": "Taped to the back was a list. Twelve cheat codes. And",
+   "note": "the list on the back"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 30,
+   "len": 143,
+   "first": 865,
+   "line": "one more line at the bottom, scratched out so hard the pen went through the paper.",
+   "note": "the scribbled line"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 30,
+   "len": 100,
+   "first": 1008,
+   "line": "So what if video game cheat codes worked in real life?",
+   "note": "title"
+  },
+  {
+   "id": "S13b",
+   "size": "insert",
+   "key": 30,
+   "len": 50,
+   "first": 1108,
+   "line": "Not in a game. In your",
+   "note": "a game on a TV"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 30,
+   "len": 32,
+   "first": 1158,
+   "line": "street. On your",
+   "note": "your street"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 30,
+   "len": 30,
+   "first": 1190,
+   "line": "body. In your",
+   "note": "your body"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 38,
+   "first": 1220,
+   "line": "bank. And what if",
+   "note": "your bank"
+  },
+  {
+   "id": "S17",
+   "size": "close",
+   "key": 30,
+   "len": 90,
+   "first": 1258,
+   "line": "every single one of them came with a catch?",
+   "note": "a catch"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}
