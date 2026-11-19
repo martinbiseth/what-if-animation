@@ -1,27 +1,444 @@
 {
  "slug": "gta-hospital-bill/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3301,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 104,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 104,
+   "line": "By Monday, the hospital knows your name. The"
+  },
+  {
+   "shot": "S2",
+   "a": 104,
+   "b": 188,
+   "t0": 0,
+   "t1": 84,
+   "line": "receptionist at the door just waves."
+  },
+  {
+   "shot": "S3",
+   "a": 188,
+   "b": 267,
+   "t0": 0,
+   "t1": 79,
+   "line": "Your pyjamas have their own hook."
+  },
+  {
+   "shot": "S4",
+   "a": 267,
+   "b": 542,
+   "t0": 0,
+   "t1": 275,
+   "line": "On Monday you try to be careful. You walk to school slowly, you look both ways twice, you don't touch anything sharp."
+  },
+  {
+   "shot": "S5",
+   "a": 542,
+   "b": 701,
+   "t0": 0,
+   "t1": 159,
+   "line": "But careful is hard when you've had a whole weekend of not caring. A"
+  },
+  {
+   "shot": "S6",
+   "a": 701,
+   "b": 772,
+   "t0": 0,
+   "t1": 71,
+   "line": "football to the face in PE."
+  },
+  {
+   "shot": "S6",
+   "a": 772,
+   "b": 793,
+   "t0": 30,
+   "t1": 51,
+   "line": "Grey.",
+   "look": "grey"
+  },
+  {
+   "shot": "S7",
+   "a": 793,
+   "b": 816,
+   "t0": 0,
+   "t1": 23,
+   "line": "Doors."
+  },
+  {
+   "shot": "S8",
+   "a": 816,
+   "b": 868,
+   "t0": 0,
+   "t1": 52,
+   "line": "Four thousand dollars."
+  },
+  {
+   "shot": "S9",
+   "a": 868,
+   "b": 957,
+   "t0": 0,
+   "t1": 89,
+   "line": "A news van starts following you home."
+  },
+  {
+   "shot": "S10",
+   "a": 957,
+   "b": 1086,
+   "t0": 0,
+   "t1": 129,
+   "line": "On Tuesday, after a very small accident with an escalator,"
+  },
+  {
+   "shot": "S11",
+   "a": 1086,
+   "b": 1261,
+   "t0": 0,
+   "t1": 175,
+   "line": "you blink back to the hospital doors, and someone is already waiting for you."
+  },
+  {
+   "shot": "S12",
+   "a": 1261,
+   "b": 1397,
+   "t0": 0,
+   "t1": 136,
+   "line": "A man in a grey suit, holding a printout of your bill."
+  },
+  {
+   "shot": "S13",
+   "a": 1397,
+   "b": 1549,
+   "t0": 0,
+   "t1": 152,
+   "line": "He knows your mum's name. He knows which school Ellie goes to."
+  },
+  {
+   "shot": "S14",
+   "a": 1549,
+   "b": 1818,
+   "t0": 0,
+   "t1": 269,
+   "line": "Fourteen admissions in four days,\" he says. Injuries nobody walks away from. And you walk away every single time.\" He"
+  },
+  {
+   "shot": "S15",
+   "a": 1818,
+   "b": 1977,
+   "t0": 0,
+   "t1": 159,
+   "line": "works for a company you've never heard of, with a very big building."
+  },
+  {
+   "shot": "S16",
+   "a": 1977,
+   "b": 2095,
+   "t0": 0,
+   "t1": 118,
+   "line": "Our scientists would like to understand how you heal."
+  },
+  {
+   "shot": "S17",
+   "a": 2095,
+   "b": 2287,
+   "t0": 0,
+   "t1": 192,
+   "line": "Imagine a world where nobody ever needs a helicopter, or a cast, or a burn unit.\""
+  },
+  {
+   "shot": "S18",
+   "a": 2287,
+   "b": 2388,
+   "t0": 0,
+   "t1": 101,
+   "line": "Then he slides a contract across the table."
+  },
+  {
+   "shot": "S19",
+   "a": 2388,
+   "b": 2560,
+   "t0": 0,
+   "t1": 172,
+   "line": "We pay every bill. Every cent. Two point one million dollars, gone."
+  },
+  {
+   "shot": "S20",
+   "a": 2560,
+   "b": 2721,
+   "t0": 0,
+   "t1": 161,
+   "line": "All you have to do is come with us. For as long as it takes.\""
+  },
+  {
+   "shot": "S21",
+   "a": 2721,
+   "b": 2773,
+   "t0": 0,
+   "t1": 52,
+   "line": "And if I say no?\""
+  },
+  {
+   "shot": "S22",
+   "a": 2773,
+   "b": 2894,
+   "t0": 0,
+   "t1": 121,
+   "line": "He smiles. Then I'm sure you'll pay it yourself.\""
+  },
+  {
+   "shot": "S23",
+   "a": 2894,
+   "b": 3119,
+   "t0": 0,
+   "t1": 225,
+   "line": "He leaves a card. No name. Just a phone number, and a logo shaped like a heartbeat line."
+  },
+  {
+   "shot": "S24",
+   "a": 3119,
+   "b": 3160,
+   "t0": 0,
+   "t1": 41,
+   "line": "You walk home."
+  },
+  {
+   "shot": "S25",
+   "a": 3160,
+   "b": 3301,
+   "t0": 0,
+   "t1": 141,
+   "line": "The number on your phone ticks up, all by itself."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 104,
+   "first": 0,
+   "line": "By Monday, the hospital knows your name. The",
+   "note": "SOMEONE NOTICES"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "len": 84,
+   "first": 104,
+   "line": "receptionist at the door just waves.",
+   "note": "the receptionist waves"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 79,
+   "first": 188,
+   "line": "Your pyjamas have their own hook.",
+   "note": "pyjamas on a RESERVED hook"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 40,
+   "len": 275,
+   "first": 267,
+   "line": "On Monday you try to be careful. You walk to school slowly, you look both ways twice, you don't touch anything sharp.",
+   "note": "walking carefully"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 30,
+   "len": 159,
+   "first": 542,
+   "line": "But careful is hard when you've had a whole weekend of not caring. A",
+   "note": "careful is hard"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 20,
+   "len": 71,
+   "first": 701,
+   "line": "football to the face in PE.",
+   "note": "football to the face"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 23,
+   "first": 793,
+   "line": "Doors.",
+   "note": "the doors"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 52,
+   "first": 816,
+   "line": "Four thousand dollars.",
+   "note": "-$4,000"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 89,
+   "first": 868,
+   "line": "A news van starts following you home.",
+   "note": "news van follows"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 129,
+   "first": 957,
+   "line": "On Tuesday, after a very small accident with an escalator,",
+   "note": "escalator tumble"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 40,
+   "len": 175,
+   "first": 1086,
+   "line": "you blink back to the hospital doors, and someone is already waiting for you.",
+   "note": "someone waiting"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 30,
+   "len": 136,
+   "first": 1261,
+   "line": "A man in a grey suit, holding a printout of your bill.",
+   "note": "the printout"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 152,
+   "first": 1397,
+   "line": "He knows your mum's name. He knows which school Ellie goes to.",
+   "note": "photos of Mum and Ellie"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 269,
+   "first": 1549,
+   "line": "Fourteen admissions in four days,\" he says. Injuries nobody walks away from. And you walk away every single time.\" He",
+   "note": "fourteen admissions"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 40,
+   "len": 159,
+   "first": 1818,
+   "line": "works for a company you've never heard of, with a very big building.",
+   "note": "a very big building"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 40,
+   "len": 118,
+   "first": 1977,
+   "line": "Our scientists would like to understand how you heal.",
+   "note": "our scientists"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 50,
+   "len": 192,
+   "first": 2095,
+   "line": "Imagine a world where nobody ever needs a helicopter, or a cast, or a burn unit.\"",
+   "note": "no helicopter, cast, burn unit"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 30,
+   "len": 101,
+   "first": 2287,
+   "line": "Then he slides a contract across the table.",
+   "note": "the contract slides"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 50,
+   "len": 172,
+   "first": 2388,
+   "line": "We pay every bill. Every cent. Two point one million dollars, gone.",
+   "note": "PAID $2,140,000"
+  },
+  {
+   "id": "S20",
+   "size": "close",
+   "key": 40,
+   "len": 161,
+   "first": 2560,
+   "line": "All you have to do is come with us. For as long as it takes.\"",
+   "note": "come with us"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "len": 52,
+   "first": 2721,
+   "line": "And if I say no?\"",
+   "note": "and if I say no"
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "key": 40,
+   "len": 121,
+   "first": 2773,
+   "line": "He smiles. Then I'm sure you'll pay it yourself.\"",
+   "note": "he smiles"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 40,
+   "len": 225,
+   "first": 2894,
+   "line": "He leaves a card. No name. Just a phone number, and a logo shaped like a heartbeat line.",
+   "note": "the card"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 40,
+   "len": 41,
+   "first": 3119,
+   "line": "You walk home.",
+   "note": "walk home at dusk"
+  },
+  {
+   "id": "S25",
+   "size": "insert",
+   "key": 40,
+   "len": 141,
+   "first": 3160,
+   "line": "The number on your phone ticks up, all by itself.",
+   "note": "the number ticks"
   }
  ],
  "fx": [],

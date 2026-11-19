@@ -33,18 +33,462 @@
   "shots": [
     {
       "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "SOMEONE NOTICES"
+    },
+    {
+      "id": "S2",
       "size": "wide",
-      "set": "rooftop",
       "key": 30,
-      "note": "placeholder card: Someone notices"
+      "note": "the receptionist waves"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 30,
+      "note": "pyjamas on a RESERVED hook"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 40,
+      "note": "walking carefully"
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "key": 30,
+      "note": "careful is hard"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "key": 20,
+      "note": "football to the face"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 30,
+      "note": "the doors"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "key": 30,
+      "note": "-$4,000"
+    },
+    {
+      "id": "S9",
+      "size": "wide",
+      "key": 40,
+      "note": "news van follows"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 30,
+      "note": "escalator tumble"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 40,
+      "note": "someone waiting"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 30,
+      "note": "the printout"
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "key": 40,
+      "note": "photos of Mum and Ellie"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 50,
+      "note": "fourteen admissions"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 40,
+      "note": "a very big building"
+    },
+    {
+      "id": "S16",
+      "size": "close",
+      "key": 40,
+      "note": "our scientists"
+    },
+    {
+      "id": "S17",
+      "size": "card",
+      "key": 50,
+      "note": "no helicopter, cast, burn unit"
+    },
+    {
+      "id": "S18",
+      "size": "insert",
+      "key": 30,
+      "note": "the contract slides"
+    },
+    {
+      "id": "S19",
+      "size": "insert",
+      "key": 50,
+      "note": "PAID $2,140,000"
+    },
+    {
+      "id": "S20",
+      "size": "close",
+      "key": 40,
+      "note": "come with us"
+    },
+    {
+      "id": "S21",
+      "size": "close",
+      "key": 30,
+      "note": "and if I say no"
+    },
+    {
+      "id": "S22",
+      "size": "close",
+      "key": 40,
+      "note": "he smiles"
+    },
+    {
+      "id": "S23",
+      "size": "insert",
+      "key": 40,
+      "note": "the card"
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "key": 40,
+      "note": "walk home at dusk"
+    },
+    {
+      "id": "S25",
+      "size": "insert",
+      "key": 40,
+      "note": "the number ticks"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "receptionist"
+    },
+    {
+      "shot": "S3",
+      "at": "Your"
+    },
+    {
+      "shot": "S4",
+      "at": "On"
+    },
+    {
+      "shot": "S5",
+      "at": "But"
+    },
+    {
+      "shot": "S6",
+      "at": "football"
+    },
+    {
+      "shot": "S6",
+      "at": "Grey",
+      "from": 30,
+      "look": "grey"
+    },
+    {
+      "shot": "S7",
+      "at": "Doors"
+    },
+    {
+      "shot": "S8",
+      "at": "Four"
+    },
+    {
+      "shot": "S9",
+      "at": "A"
+    },
+    {
+      "shot": "S10",
+      "at": "On"
+    },
+    {
+      "shot": "S11",
+      "at": "you"
+    },
+    {
+      "shot": "S12",
+      "at": "A"
+    },
+    {
+      "shot": "S13",
+      "at": "He"
+    },
+    {
+      "shot": "S14",
+      "at": "Fourteen"
+    },
+    {
+      "shot": "S15",
+      "at": "works"
+    },
+    {
+      "shot": "S16",
+      "at": "Our"
+    },
+    {
+      "shot": "S17",
+      "at": "Imagine"
+    },
+    {
+      "shot": "S18",
+      "at": "Then"
+    },
+    {
+      "shot": "S19",
+      "at": "We"
+    },
+    {
+      "shot": "S20",
+      "at": "All"
+    },
+    {
+      "shot": "S21",
+      "at": "And"
+    },
+    {
+      "shot": "S22",
+      "at": "He"
+    },
+    {
+      "shot": "S23",
+      "at": "He"
+    },
+    {
+      "shot": "S24",
+      "at": "You"
+    },
+    {
+      "shot": "S25",
+      "at": "The"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "sound": {
+    "clips": {
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crash_syn": [
+        "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
+        1.2
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S2+6",
+        "pop",
+        0.35
+      ],
+      [
+        "S3+4",
+        "paste_pop",
+        0.45
+      ],
+      [
+        "S5+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S6"
+      ],
+      [
+        "S6+8",
+        "thud",
+        0.7
+      ],
+      [
+        "Grey+0",
+        "flatline_syn",
+        0.45
+      ],
+      [
+        "S7+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S8+0",
+        "buzz",
+        0.55
+      ],
+      [
+        "S9+0",
+        "drone_hit",
+        0.3
+      ],
+      [
+        "S10+10",
+        "crash_syn",
+        0.4
+      ],
+      [
+        "S10+14",
+        "thud",
+        0.6
+      ],
+      [
+        "S11+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S12+4",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S13+4",
+        "pop",
+        0.35
+      ],
+      [
+        "S13+14",
+        "pop",
+        0.35
+      ],
+      [
+        "S14+0",
+        "heartbeat",
+        0.35
+      ],
+      [
+        "S15+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S17+8",
+        "pop",
+        0.35
+      ],
+      [
+        "S17+18",
+        "pop",
+        0.35
+      ],
+      [
+        "S17+28",
+        "pop",
+        0.35
+      ],
+      [
+        "S18+0",
+        "select_draw",
+        0.45
+      ],
+      [
+        "S19+8",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S19+30",
+        "card_hit",
+        0.55
+      ],
+      [
+        "S21+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S23+0",
+        "paste_pop",
+        0.45
+      ],
+      [
+        "S25+6",
+        "counter_tick",
+        0.3
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "from": "S12"
+    }
+  },
+  "tail": 1.0
 }

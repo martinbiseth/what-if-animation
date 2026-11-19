@@ -1,27 +1,598 @@
 {
  "slug": "gta-hospital-bill/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 4200,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 25,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 25,
+   "line": "On Sunday,"
+  },
+  {
+   "shot": "S2",
+   "a": 25,
+   "b": 125,
+   "t0": 0,
+   "t1": 100,
+   "line": "Mo comes over with a camera and a list."
+  },
+  {
+   "shot": "S3",
+   "a": 125,
+   "b": 229,
+   "t0": 0,
+   "t1": 104,
+   "line": "He's called it: Stunts Only You Can Do."
+  },
+  {
+   "shot": "S4",
+   "a": 229,
+   "b": 379,
+   "t0": 0,
+   "t1": 150,
+   "line": "Number one: a shopping trolley, down Hill Street, no brakes."
+  },
+  {
+   "shot": "S5",
+   "a": 379,
+   "b": 505,
+   "t0": 0,
+   "t1": 126,
+   "line": "You hit the fire hydrant at the bottom at full speed."
+  },
+  {
+   "shot": "S6",
+   "a": 505,
+   "b": 526,
+   "t0": 0,
+   "t1": 21,
+   "line": "Grey.",
+   "look": "grey"
+  },
+  {
+   "shot": "S7",
+   "a": 526,
+   "b": 549,
+   "t0": 0,
+   "t1": 23,
+   "line": "Doors."
+  },
+  {
+   "shot": "S8",
+   "a": 549,
+   "b": 765,
+   "t0": 0,
+   "t1": 216,
+   "line": "Buzz. Emergency room, again. And a new line: one fire hydrant, ten thousand dollars."
+  },
+  {
+   "shot": "S9",
+   "a": 765,
+   "b": 854,
+   "t0": 0,
+   "t1": 89,
+   "line": "Water sprays forty feet into the air."
+  },
+  {
+   "shot": "S10",
+   "a": 854,
+   "b": 1024,
+   "t0": 0,
+   "t1": 170,
+   "line": "Mo films all of it, and reads the bill out loud like a football score."
+  },
+  {
+   "shot": "S11",
+   "a": 1024,
+   "b": 1187,
+   "t0": 0,
+   "t1": 163,
+   "line": "Number two: the old gas barbecue that Mo's dad said never to touch."
+  },
+  {
+   "shot": "S12",
+   "a": 1187,
+   "b": 1232,
+   "t0": 0,
+   "t1": 45,
+   "line": "It has a leak."
+  },
+  {
+   "shot": "S13",
+   "a": 1232,
+   "b": 1302,
+   "t0": 0,
+   "t1": 70,
+   "line": "You click the lighter anyway."
+  },
+  {
+   "shot": "S14",
+   "a": 1302,
+   "b": 1323,
+   "t0": 0,
+   "t1": 21,
+   "line": "Boom."
+  },
+  {
+   "shot": "S14",
+   "a": 1323,
+   "b": 1345,
+   "t0": 30,
+   "t1": 52,
+   "line": "Grey.",
+   "look": "grey"
+  },
+  {
+   "shot": "S15",
+   "a": 1345,
+   "b": 1389,
+   "t0": 0,
+   "t1": 44,
+   "line": "Doors. Buzz."
+  },
+  {
+   "shot": "S16",
+   "a": 1389,
+   "b": 1573,
+   "t0": 0,
+   "t1": 184,
+   "line": "Burn unit, fire engine, two brand new eyebrows. Twenty- two thousand dollars."
+  },
+  {
+   "shot": "S17",
+   "a": 1573,
+   "b": 1805,
+   "t0": 0,
+   "t1": 232,
+   "line": "Mo's dad comes out, looks at the crater where his barbecue used to be, and goes straight back inside."
+  },
+  {
+   "shot": "S18",
+   "a": 1805,
+   "b": 1874,
+   "t0": 0,
+   "t1": 69,
+   "line": "Number three: the bridge."
+  },
+  {
+   "shot": "S19",
+   "a": 1874,
+   "b": 1978,
+   "t0": 0,
+   "t1": 104,
+   "line": "Thirty feet down, into a cold brown river."
+  },
+  {
+   "shot": "S20",
+   "a": 1978,
+   "b": 2185,
+   "t0": 0,
+   "t1": 207,
+   "line": "The water is so cold your breath gets stuck. The rescue boat costs more than the bridge."
+  },
+  {
+   "shot": "S21",
+   "a": 2185,
+   "b": 2228,
+   "t0": 0,
+   "t1": 43,
+   "line": "Eighteen thousand."
+  },
+  {
+   "shot": "S22",
+   "a": 2228,
+   "b": 2355,
+   "t0": 0,
+   "t1": 127,
+   "line": "Mo uploads the clips. The kid who can't get hurt."
+  },
+  {
+   "shot": "S23",
+   "a": 2355,
+   "b": 2452,
+   "t0": 0,
+   "t1": 97,
+   "line": "By the evening it has two million views."
+  },
+  {
+   "shot": "S24",
+   "a": 2452,
+   "b": 2694,
+   "t0": 0,
+   "t1": 242,
+   "line": "People comment from Brazil, from Japan. Everyone wants to know how it's done. Nobody believes it's real."
+  },
+  {
+   "shot": "S25",
+   "a": 2694,
+   "b": 2702,
+   "t0": 0,
+   "t1": 8,
+   "line": "At"
+  },
+  {
+   "shot": "S26",
+   "a": 2702,
+   "b": 2952,
+   "t0": 0,
+   "t1": 250,
+   "line": "the hospital, a nurse asks for a selfie. The ambulance crew starts parking outside your house, just in case."
+  },
+  {
+   "shot": "S27",
+   "a": 2952,
+   "b": 2985,
+   "t0": 0,
+   "t1": 33,
+   "line": "Then Mo points"
+  },
+  {
+   "shot": "S28",
+   "a": 2985,
+   "b": 3336,
+   "t0": 0,
+   "t1": 351,
+   "line": "at the car park across the road. Ten floors. At the bottom, a big pile of cardboard boxes, like the ones in the games that always break your fall."
+  },
+  {
+   "shot": "S29",
+   "a": 3336,
+   "b": 3442,
+   "t0": 0,
+   "t1": 106,
+   "line": "Final stunt,\" he says. Then we're famous.\""
+  },
+  {
+   "shot": "S30",
+   "a": 3442,
+   "b": 3575,
+   "t0": 0,
+   "t1": 133,
+   "line": "You climb to the top. The wind is stronger up here."
+  },
+  {
+   "shot": "S31",
+   "a": 3575,
+   "b": 3688,
+   "t0": 0,
+   "t1": 113,
+   "line": "Down below, Mo is a tiny dot with a camera."
+  },
+  {
+   "shot": "S32",
+   "a": 3688,
+   "b": 3947,
+   "t0": 0,
+   "t1": 259,
+   "line": "You look at your phone. One hundred and sixteen thousand dollars. More money than your mum earns in two years."
+  },
+  {
+   "shot": "S33",
+   "a": 3947,
+   "b": 4150,
+   "t0": 0,
+   "t1": 203,
+   "line": "But you'll never pay it, right? It's just a number. How much worse can it get?"
+  },
+  {
+   "shot": "S34",
+   "a": 4150,
+   "b": 4200,
+   "t0": 0,
+   "t1": 50,
+   "line": "You jump."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 25,
+   "first": 0,
+   "line": "On Sunday,",
+   "note": "THE STUNTS"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 30,
+   "len": 100,
+   "first": 25,
+   "line": "Mo comes over with a camera and a list.",
+   "note": "Mo with a camera and a list"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 40,
+   "len": 104,
+   "first": 125,
+   "line": "He's called it: Stunts Only You Can Do.",
+   "note": "the list"
+  },
+  {
+   "id": "S4",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 150,
+   "first": 229,
+   "line": "Number one: a shopping trolley, down Hill Street, no brakes.",
+   "note": "trolley down Hill St"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 10,
+   "len": 126,
+   "first": 379,
+   "line": "You hit the fire hydrant at the bottom at full speed.",
+   "note": "the hydrant"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 10,
+   "len": 21,
+   "first": 505,
+   "line": "Grey.",
+   "note": "grey: in the spray"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 23,
+   "first": 526,
+   "line": "Doors.",
+   "note": "the doors"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 60,
+   "len": 216,
+   "first": 549,
+   "line": "Buzz. Emergency room, again. And a new line: one fire hydrant, ten thousand dollars.",
+   "note": "ER again + one fire hydrant"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 89,
+   "first": 765,
+   "line": "Water sprays forty feet into the air.",
+   "note": "forty feet of water, Mo films"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 20,
+   "len": 170,
+   "first": 854,
+   "line": "Mo films all of it, and reads the bill out loud like a football score.",
+   "note": "Mo reads the bill like a score"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 163,
+   "first": 1024,
+   "line": "Number two: the old gas barbecue that Mo's dad said never to touch.",
+   "note": "the old gas barbecue"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 20,
+   "len": 45,
+   "first": 1187,
+   "line": "It has a leak.",
+   "note": "the leak"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 20,
+   "len": 70,
+   "first": 1232,
+   "line": "You click the lighter anyway.",
+   "note": "the lighter"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 12,
+   "len": 52,
+   "first": 1302,
+   "line": "Boom.",
+   "note": "boom"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 1345,
+   "line": "Doors. Buzz.",
+   "note": "the doors, soot"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 70,
+   "len": 184,
+   "first": 1389,
+   "line": "Burn unit, fire engine, two brand new eyebrows. Twenty- two thousand dollars.",
+   "note": "burn unit, fire engine, eyebrows"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 30,
+   "len": 232,
+   "first": 1573,
+   "line": "Mo's dad comes out, looks at the crater where his barbecue used to be, and goes straight back inside.",
+   "note": "Mo's dad, the crater"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 30,
+   "len": 69,
+   "first": 1805,
+   "line": "Number three: the bridge.",
+   "note": "the bridge"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 30,
+   "len": 104,
+   "first": 1874,
+   "line": "Thirty feet down, into a cold brown river.",
+   "note": "thirty feet down"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 40,
+   "len": 207,
+   "first": 1978,
+   "line": "The water is so cold your breath gets stuck. The rescue boat costs more than the bridge.",
+   "note": "the rescue boat"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 10,
+   "len": 43,
+   "first": 2185,
+   "line": "Eighteen thousand.",
+   "note": "$18,000"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 40,
+   "len": 127,
+   "first": 2228,
+   "line": "Mo uploads the clips. The kid who can't get hurt.",
+   "note": "the upload"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 30,
+   "len": 97,
+   "first": 2355,
+   "line": "By the evening it has two million views.",
+   "note": "2,000,000 views"
+  },
+  {
+   "id": "S24",
+   "size": "card",
+   "key": 40,
+   "len": 242,
+   "first": 2452,
+   "line": "People comment from Brazil, from Japan. Everyone wants to know how it's done. Nobody believes it's real.",
+   "note": "comments from everywhere"
+  },
+  {
+   "id": "S25",
+   "size": "two-shot",
+   "key": 22,
+   "len": 8,
+   "first": 2694,
+   "line": "At",
+   "note": "a nurse selfie"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 40,
+   "len": 250,
+   "first": 2702,
+   "line": "the hospital, a nurse asks for a selfie. The ambulance crew starts parking outside your house, just in case.",
+   "note": "the ambulance parks outside"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "key": 40,
+   "len": 33,
+   "first": 2952,
+   "line": "Then Mo points",
+   "note": "the car park: ten floors"
+  },
+  {
+   "id": "S28",
+   "size": "insert",
+   "key": 30,
+   "len": 351,
+   "first": 2985,
+   "line": "at the car park across the road. Ten floors. At the bottom, a big pile of cardboard boxes, like the ones in the games that always break your fall.",
+   "note": "the boxes"
+  },
+  {
+   "id": "S29",
+   "size": "close",
+   "key": 20,
+   "len": 106,
+   "first": 3336,
+   "line": "Final stunt,\" he says. Then we're famous.\"",
+   "note": "\"Final stunt\""
+  },
+  {
+   "id": "S30",
+   "size": "wide",
+   "key": 30,
+   "len": 133,
+   "first": 3442,
+   "line": "You climb to the top. The wind is stronger up here.",
+   "note": "the top deck"
+  },
+  {
+   "id": "S31",
+   "size": "pov",
+   "key": 30,
+   "len": 113,
+   "first": 3575,
+   "line": "Down below, Mo is a tiny dot with a camera.",
+   "note": "Mo, a tiny dot"
+  },
+  {
+   "id": "S32",
+   "size": "insert",
+   "key": 20,
+   "len": 259,
+   "first": 3688,
+   "line": "You look at your phone. One hundred and sixteen thousand dollars. More money than your mum earns in two years.",
+   "note": "$116,229"
+  },
+  {
+   "id": "S33",
+   "size": "close",
+   "key": 30,
+   "len": 203,
+   "first": 3947,
+   "line": "But you'll never pay it, right? It's just a number. How much worse can it get?",
+   "note": "just a number"
+  },
+  {
+   "id": "S34",
+   "size": "wide",
+   "key": 18,
+   "len": 50,
+   "first": 4150,
+   "line": "You jump.",
+   "note": "you jump"
   }
  ],
  "fx": [],

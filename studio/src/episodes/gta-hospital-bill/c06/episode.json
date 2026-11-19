@@ -39,18 +39,487 @@
   "shots": [
     {
       "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "THE CHOICE"
+    },
+    {
+      "id": "S2",
       "size": "wide",
-      "set": "rooftop",
+      "key": 60,
+      "note": "Mum with the hospital letter"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 40,
+      "note": "under 18: bill goes to parent"
+    },
+    {
+      "id": "S4",
+      "size": "close",
+      "key": 40,
+      "note": "she puts it down"
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "key": 20,
+      "note": "that's worse"
+    },
+    {
+      "id": "S6",
+      "size": "card",
+      "key": 50,
+      "note": "RULE 3 breaks"
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "key": 50,
+      "note": "$2,140,000 due in 30 days"
+    },
+    {
+      "id": "S8",
+      "size": "card",
+      "key": 60,
+      "note": "20 million adults with medical debt"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 50,
+      "note": "$220 billion"
+    },
+    {
+      "id": "S10",
+      "size": "close",
       "key": 30,
-      "note": "placeholder card: The choice"
+      "note": "Mum, one of them"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 40,
+      "note": "Mum on the phone to the bank"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 40,
+      "note": "message from Mo"
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "key": 40,
+      "note": "Mo on the trolley"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 20,
+      "note": "Mo crashes"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 30,
+      "note": "you run"
+    },
+    {
+      "id": "S16",
+      "size": "wide",
+      "key": 40,
+      "note": "Mo on a bed, arm in a cast"
+    },
+    {
+      "id": "S17",
+      "size": "card",
+      "key": 50,
+      "note": "NO RESPAWN"
+    },
+    {
+      "id": "S18",
+      "size": "close",
+      "key": 40,
+      "note": "six weeks"
+    },
+    {
+      "id": "S19",
+      "size": "insert",
+      "key": 50,
+      "note": "Mo's bill $5,800"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "key": 50,
+      "note": "it's fine"
+    },
+    {
+      "id": "S21",
+      "size": "insert",
+      "key": 40,
+      "note": "his hand shakes"
+    },
+    {
+      "id": "S22",
+      "size": "close",
+      "key": 40,
+      "note": "it only works for you"
+    },
+    {
+      "id": "S23",
+      "size": "wide",
+      "key": 40,
+      "note": "Ellie on the stairs, piggy bank"
+    },
+    {
+      "id": "S24",
+      "size": "close",
+      "key": 30,
+      "note": "is it enough"
+    },
+    {
+      "id": "S25",
+      "size": "insert",
+      "key": 40,
+      "note": "the card"
+    },
+    {
+      "id": "S26",
+      "size": "insert",
+      "key": 60,
+      "note": "you dial"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "sitting"
+    },
+    {
+      "shot": "S3",
+      "at": "because"
+    },
+    {
+      "shot": "S4",
+      "at": "She"
+    },
+    {
+      "shot": "S5",
+      "at": "That's"
+    },
+    {
+      "shot": "S6",
+      "at": "Rule"
+    },
+    {
+      "shot": "S7",
+      "at": "Two"
+    },
+    {
+      "shot": "S8",
+      "at": "That's"
+    },
+    {
+      "shot": "S9",
+      "at": "At"
+    },
+    {
+      "shot": "S10",
+      "at": "Mum"
+    },
+    {
+      "shot": "S11",
+      "at": "Tonight"
+    },
+    {
+      "shot": "S12",
+      "at": "Then"
+    },
+    {
+      "shot": "S13",
+      "at": "He"
+    },
+    {
+      "shot": "S14",
+      "at": "Without"
+    },
+    {
+      "shot": "S15",
+      "at": "You"
+    },
+    {
+      "shot": "S16",
+      "at": "Mo"
+    },
+    {
+      "shot": "S17",
+      "at": "He"
+    },
+    {
+      "shot": "S18",
+      "at": "six"
+    },
+    {
+      "shot": "S19",
+      "at": "Five"
+    },
+    {
+      "shot": "S20",
+      "at": "It's"
+    },
+    {
+      "shot": "S21",
+      "at": "But"
+    },
+    {
+      "shot": "S22",
+      "at": "That's"
+    },
+    {
+      "shot": "S23",
+      "at": "Ellie"
+    },
+    {
+      "shot": "S24",
+      "at": "Is#2"
+    },
+    {
+      "shot": "S25",
+      "at": "You"
+    },
+    {
+      "shot": "S26",
+      "at": "you"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crash_syn": [
+        "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
+        1.2
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_sad": [
+        "soft sad solo piano, slow and gentle, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S3+6",
+        "paper",
+        0.4
+      ],
+      [
+        "S5+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S6"
+      ],
+      [
+        "S6+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S6+20",
+        "shatter",
+        0.45
+      ],
+      [
+        "S6+22",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S7+10",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S8+6",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S9+6",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S11+0",
+        "heartbeat",
+        0.3
+      ],
+      [
+        "S12+0",
+        "buzz",
+        0.6
+      ],
+      [
+        "S12+8",
+        "buzz",
+        0.6
+      ],
+      [
+        "S14+6",
+        "crash_syn",
+        0.5
+      ],
+      [
+        "S14+7",
+        "thud",
+        0.7
+      ],
+      [
+        "S14+8",
+        "bone_crack",
+        0.5
+      ],
+      [
+        "S15+0",
+        "siren_syn",
+        0.2
+      ],
+      [
+        "S16+0",
+        "heartbeat",
+        0.25
+      ],
+      [
+        "S17+4",
+        "flatline_syn",
+        0.3
+      ],
+      [
+        "S19+2",
+        "pop",
+        0.3
+      ],
+      [
+        "S19+8",
+        "pop",
+        0.3
+      ],
+      [
+        "S19+14",
+        "pop",
+        0.3
+      ],
+      [
+        "S19+20",
+        "pop",
+        0.3
+      ],
+      [
+        "S19+26",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S23+0",
+        "coins",
+        0.35
+      ],
+      [
+        "S25+2",
+        "paper",
+        0.4
+      ],
+      [
+        "S26+6",
+        "select_draw",
+        0.3
+      ],
+      [
+        "S26+28",
+        "heartbeat",
+        0.4
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "m_sad",
+      "loop": true,
+      "from": "S2"
+    }
+  },
+  "tail": 1.0
 }

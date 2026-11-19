@@ -59,17 +59,480 @@
     {
       "id": "S1",
       "size": "wide",
-      "set": "rooftop",
+      "key": 14,
+      "note": "the boxes do not break your fall"
+    },
+    {
+      "id": "S2",
+      "size": "close",
+      "key": 20,
+      "note": "nothing works like that"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
       "key": 30,
-      "note": "placeholder card: The catch"
+      "note": "the doors, dusk"
+    },
+    {
+      "id": "S4",
+      "size": "insert",
+      "key": 20,
+      "note": "it rings"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 50,
+      "note": "doctors stare at the scans"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 30,
+      "note": "the scans are normal"
+    },
+    {
+      "id": "S7",
+      "size": "card",
+      "key": 20,
+      "note": "THE REAL BILL"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 30,
+      "note": "the helicopter"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 60,
+      "note": "$36,400 GAO"
+    },
+    {
+      "id": "S10",
+      "size": "card",
+      "key": 30,
+      "note": "6 MINUTES"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 30,
+      "note": "the trauma team rushes"
+    },
+    {
+      "id": "S12",
+      "size": "card",
+      "key": 60,
+      "note": "$50,659"
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "key": 40,
+      "note": "the spine"
+    },
+    {
+      "id": "S14",
+      "size": "card",
+      "key": 60,
+      "note": "$1,369,755"
+    },
+    {
+      "id": "S15",
+      "size": "card",
+      "key": 60,
+      "note": "$237,862 a year"
+    },
+    {
+      "id": "S16",
+      "size": "card",
+      "key": 50,
+      "note": "falls and crashes"
+    },
+    {
+      "id": "S17",
+      "size": "card",
+      "key": 60,
+      "note": "$3,297 a day"
+    },
+    {
+      "id": "S18",
+      "size": "card",
+      "key": 50,
+      "note": "$4,744 California"
+    },
+    {
+      "id": "S19",
+      "size": "close",
+      "key": 30,
+      "note": "you healed, the bill did not"
+    },
+    {
+      "id": "S20",
+      "size": "insert",
+      "key": 40,
+      "note": "TOTAL $1,573,043"
+    },
+    {
+      "id": "S21",
+      "size": "wide",
+      "key": 40,
+      "note": "three typical homes"
+    },
+    {
+      "id": "S22",
+      "size": "insert",
+      "key": 14,
+      "note": "$12 for the boxes"
+    },
+    {
+      "id": "S23",
+      "size": "insert",
+      "key": 30,
+      "note": "the game: -$500"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Nothing"
+    },
+    {
+      "shot": "S2",
+      "at": "Grey",
+      "from": 40,
+      "look": "grey"
+    },
+    {
+      "shot": "S3",
+      "at": "Doors"
+    },
+    {
+      "shot": "S4",
+      "at": "And"
+    },
+    {
+      "shot": "S5",
+      "at": "Somewhere"
+    },
+    {
+      "shot": "S6",
+      "at": "By"
+    },
+    {
+      "shot": "S7",
+      "at": "Here's"
+    },
+    {
+      "shot": "S8",
+      "at": "A"
+    },
+    {
+      "shot": "S9",
+      "at": "In"
+    },
+    {
+      "shot": "S10",
+      "at": "For"
+    },
+    {
+      "shot": "S11",
+      "at": "Trauma"
+    },
+    {
+      "shot": "S12",
+      "at": "One"
+    },
+    {
+      "shot": "S13",
+      "at": "Then"
+    },
+    {
+      "shot": "S14",
+      "at": "In"
+    },
+    {
+      "shot": "S15",
+      "at": "and"
+    },
+    {
+      "shot": "S16",
+      "at": "Falls"
+    },
+    {
+      "shot": "S17",
+      "at": "And"
+    },
+    {
+      "shot": "S18",
+      "at": "In"
+    },
+    {
+      "shot": "S19",
+      "at": "You"
+    },
+    {
+      "shot": "S20",
+      "at": "New"
+    },
+    {
+      "shot": "S21",
+      "at": "That's"
+    },
+    {
+      "shot": "S22",
+      "at": "And"
+    },
+    {
+      "shot": "S23",
+      "at": "In"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crash_syn": [
+        "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
+        1.2
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "heli_syn": [
+        "procedural: a helicopter flying overhead, rotor thumping",
+        4.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+8",
+        "crash_syn",
+        0.5
+      ],
+      [
+        "S1+10",
+        "thud",
+        0.7
+      ],
+      [
+        "S1+11",
+        "bone_crack",
+        0.5
+      ],
+      [
+        "Grey+0",
+        "flatline_syn",
+        0.45
+      ],
+      [
+        "S3+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S4+0",
+        "buzz",
+        0.55
+      ],
+      [
+        "S4+24",
+        "buzz",
+        0.55
+      ],
+      [
+        "S5+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S7"
+      ],
+      [
+        "S6+10",
+        "sparkle",
+        0.45
+      ],
+      [
+        "S7+0",
+        "card_hit",
+        0.55
+      ],
+      [
+        "S8+0",
+        "heli_syn",
+        0.55
+      ],
+      [
+        "S9+8",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S10+0",
+        "card_hit",
+        0.4
+      ],
+      [
+        "S11+0",
+        "siren_syn",
+        0.25
+      ],
+      [
+        "S12+8",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S13+0",
+        "drone_hit",
+        0.45
+      ],
+      [
+        "S14+8",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S15+8",
+        "counter_tick",
+        0.3
+      ],
+      [
+        "S16+6",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S17+8",
+        "counter_tick",
+        0.3
+      ],
+      [
+        "S18+8",
+        "counter_tick",
+        0.3
+      ],
+      [
+        "S19+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S20+6",
+        "cash",
+        0.5
+      ],
+      [
+        "S20+8",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S21+0",
+        "pop",
+        0.35
+      ],
+      [
+        "S21+8",
+        "pop",
+        0.35
+      ],
+      [
+        "S21+16",
+        "pop",
+        0.35
+      ],
+      [
+        "S22+0",
+        "buzz",
+        0.45
+      ],
+      [
+        "S23+0",
+        "coins",
+        0.4
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "from": "S7"
+    }
+  },
+  "tail": 1.0
 }

@@ -1,27 +1,410 @@
 {
  "slug": "gta-hospital-bill/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3644,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 76,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 76,
+   "line": "The boxes don't break your fall."
+  },
+  {
+   "shot": "S2",
+   "a": 76,
+   "b": 165,
+   "t0": 0,
+   "t1": 89,
+   "line": "Nothing in real life works like that."
+  },
+  {
+   "shot": "S2",
+   "a": 165,
+   "b": 186,
+   "t0": 40,
+   "t1": 61,
+   "line": "Grey.",
+   "look": "grey"
+  },
+  {
+   "shot": "S3",
+   "a": 186,
+   "b": 209,
+   "t0": 0,
+   "t1": 23,
+   "line": "Doors."
+  },
+  {
+   "shot": "S4",
+   "a": 209,
+   "b": 335,
+   "t0": 0,
+   "t1": 126,
+   "line": "And this time, your phone doesn't buzz. It rings."
+  },
+  {
+   "shot": "S5",
+   "a": 335,
+   "b": 566,
+   "t0": 0,
+   "t1": 231,
+   "line": "Somewhere in the hospital, a doctor is staring at your scans, calling three other doctors over to look."
+  },
+  {
+   "shot": "S6",
+   "a": 566,
+   "b": 679,
+   "t0": 0,
+   "t1": 113,
+   "line": "By the time they arrive, the scans are normal."
+  },
+  {
+   "shot": "S7",
+   "a": 679,
+   "b": 836,
+   "t0": 0,
+   "t1": 157,
+   "line": "Here's the bill, line by line. And here's the part that's real."
+  },
+  {
+   "shot": "S8",
+   "a": 836,
+   "b": 917,
+   "t0": 0,
+   "t1": 81,
+   "line": "A helicopter to the trauma centre."
+  },
+  {
+   "shot": "S9",
+   "a": 917,
+   "b": 998,
+   "t0": 0,
+   "t1": 81,
+   "line": "In the US, the median price charged"
+  },
+  {
+   "shot": "S10",
+   "a": 998,
+   "b": 1307,
+   "t0": 0,
+   "t1": 309,
+   "line": "for one helicopter air ambulance flight was thirty- six thousand, four hundred dollars. For one ride. You were in it for six minutes."
+  },
+  {
+   "shot": "S11",
+   "a": 1307,
+   "b": 1597,
+   "t0": 0,
+   "t1": 290,
+   "line": "Trauma team activation. That's the fee for the doctors who rush to the door when you arrive, before anyone has even touched you."
+  },
+  {
+   "shot": "S12",
+   "a": 1597,
+   "b": 1803,
+   "t0": 0,
+   "t1": 206,
+   "line": "One hospital in California charged fifty thousand, six hundred and fifty- nine dollars for it."
+  },
+  {
+   "shot": "S13",
+   "a": 1803,
+   "b": 1953,
+   "t0": 0,
+   "t1": 150,
+   "line": "Then the big one. A fall from ten floors damages your spine."
+  },
+  {
+   "shot": "S14",
+   "a": 1953,
+   "b": 2201,
+   "t0": 0,
+   "t1": 248,
+   "line": "In real life, a high spinal cord injury costs about one point three seven million dollars in the first year alone,"
+  },
+  {
+   "shot": "S15",
+   "a": 2201,
+   "b": 2360,
+   "t0": 0,
+   "t1": 159,
+   "line": "and about two hundred and thirty- eight thousand every year after that."
+  },
+  {
+   "shot": "S16",
+   "a": 2360,
+   "b": 2372,
+   "t0": 0,
+   "t1": 12,
+   "line": "Falls"
+  },
+  {
+   "shot": "S17",
+   "a": 2372,
+   "b": 2549,
+   "t0": 0,
+   "t1": 177,
+   "line": "and vehicle crashes cause more than two thirds of these injuries. And every night"
+  },
+  {
+   "shot": "S18",
+   "a": 2549,
+   "b": 2922,
+   "t0": 0,
+   "t1": 373,
+   "line": "in a hospital bed? US hospitals spend about three thousand, three hundred dollars per patient, per day. In California, almost four thousand, seven hundred and fifty."
+  },
+  {
+   "shot": "S19",
+   "a": 2922,
+   "b": 3045,
+   "t0": 0,
+   "t1": 123,
+   "line": "You blinked, and you healed. Your bill did not."
+  },
+  {
+   "shot": "S20",
+   "a": 3045,
+   "b": 3216,
+   "t0": 0,
+   "t1": 171,
+   "line": "New total: one million, five hundred and seventy- three thousand dollars."
+  },
+  {
+   "shot": "S21",
+   "a": 3216,
+   "b": 3317,
+   "t0": 0,
+   "t1": 101,
+   "line": "That's more than three typical American homes."
+  },
+  {
+   "shot": "S22",
+   "a": 3317,
+   "b": 3456,
+   "t0": 0,
+   "t1": 139,
+   "line": "And the supermarket wants twelve dollars for the cardboard boxes."
+  },
+  {
+   "shot": "S23",
+   "a": 3456,
+   "b": 3644,
+   "t0": 0,
+   "t1": 188,
+   "line": "In the game, you'd be back on the street with a slightly lighter wallet."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 14,
+   "len": 76,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "The boxes don't break your fall.",
+   "note": "the boxes do not break your fall"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "key": 20,
+   "len": 89,
+   "first": 76,
+   "line": "Nothing in real life works like that.",
+   "note": "nothing works like that"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 30,
+   "len": 23,
+   "first": 186,
+   "line": "Doors.",
+   "note": "the doors, dusk"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "len": 126,
+   "first": 209,
+   "line": "And this time, your phone doesn't buzz. It rings.",
+   "note": "it rings"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 50,
+   "len": 231,
+   "first": 335,
+   "line": "Somewhere in the hospital, a doctor is staring at your scans, calling three other doctors over to look.",
+   "note": "doctors stare at the scans"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 113,
+   "first": 566,
+   "line": "By the time they arrive, the scans are normal.",
+   "note": "the scans are normal"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 20,
+   "len": 157,
+   "first": 679,
+   "line": "Here's the bill, line by line. And here's the part that's real.",
+   "note": "THE REAL BILL"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 30,
+   "len": 81,
+   "first": 836,
+   "line": "A helicopter to the trauma centre.",
+   "note": "the helicopter"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 60,
+   "len": 81,
+   "first": 917,
+   "line": "In the US, the median price charged",
+   "note": "$36,400 GAO"
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "key": 30,
+   "len": 309,
+   "first": 998,
+   "line": "for one helicopter air ambulance flight was thirty- six thousand, four hundred dollars. For one ride. You were in it for six minutes.",
+   "note": "6 MINUTES"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 290,
+   "first": 1307,
+   "line": "Trauma team activation. That's the fee for the doctors who rush to the door when you arrive, before anyone has even touched you.",
+   "note": "the trauma team rushes"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 60,
+   "len": 206,
+   "first": 1597,
+   "line": "One hospital in California charged fifty thousand, six hundred and fifty- nine dollars for it.",
+   "note": "$50,659"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 40,
+   "len": 150,
+   "first": 1803,
+   "line": "Then the big one. A fall from ten floors damages your spine.",
+   "note": "the spine"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 60,
+   "len": 248,
+   "first": 1953,
+   "line": "In real life, a high spinal cord injury costs about one point three seven million dollars in the first year alone,",
+   "note": "$1,369,755"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 60,
+   "len": 159,
+   "first": 2201,
+   "line": "and about two hundred and thirty- eight thousand every year after that.",
+   "note": "$237,862 a year"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 50,
+   "len": 12,
+   "first": 2360,
+   "line": "Falls",
+   "note": "falls and crashes"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 60,
+   "len": 177,
+   "first": 2372,
+   "line": "and vehicle crashes cause more than two thirds of these injuries. And every night",
+   "note": "$3,297 a day"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 50,
+   "len": 373,
+   "first": 2549,
+   "line": "in a hospital bed? US hospitals spend about three thousand, three hundred dollars per patient, per day. In California, almost four thousand, seven hundred and fifty.",
+   "note": "$4,744 California"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 30,
+   "len": 123,
+   "first": 2922,
+   "line": "You blinked, and you healed. Your bill did not.",
+   "note": "you healed, the bill did not"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 40,
+   "len": 171,
+   "first": 3045,
+   "line": "New total: one million, five hundred and seventy- three thousand dollars.",
+   "note": "TOTAL $1,573,043"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 101,
+   "first": 3216,
+   "line": "That's more than three typical American homes.",
+   "note": "three typical homes"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 14,
+   "len": 139,
+   "first": 3317,
+   "line": "And the supermarket wants twelve dollars for the cardboard boxes.",
+   "note": "$12 for the boxes"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 30,
+   "len": 188,
+   "first": 3456,
+   "line": "In the game, you'd be back on the street with a slightly lighter wallet.",
+   "note": "the game: -$500"
   }
  ],
  "fx": [],

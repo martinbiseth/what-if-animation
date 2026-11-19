@@ -43,18 +43,648 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "card",
+      "key": 20,
+      "note": "THE STUNTS"
+    },
+    {
+      "id": "S2",
+      "size": "two-shot",
       "key": 30,
-      "note": "placeholder card: The fun part"
+      "note": "Mo with a camera and a list"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 40,
+      "note": "the list"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 30,
+      "note": "trolley down Hill St"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 10,
+      "note": "the hydrant"
+    },
+    {
+      "id": "S6",
+      "size": "close",
+      "key": 10,
+      "note": "grey: in the spray"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 30,
+      "note": "the doors"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "key": 60,
+      "note": "ER again + one fire hydrant"
+    },
+    {
+      "id": "S9",
+      "size": "wide",
+      "key": 30,
+      "note": "forty feet of water, Mo films"
+    },
+    {
+      "id": "S10",
+      "size": "close",
+      "key": 20,
+      "note": "Mo reads the bill like a score"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 30,
+      "note": "the old gas barbecue"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 20,
+      "note": "the leak"
+    },
+    {
+      "id": "S13",
+      "size": "close",
+      "key": 20,
+      "note": "the lighter"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 12,
+      "note": "boom"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 30,
+      "note": "the doors, soot"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 70,
+      "note": "burn unit, fire engine, eyebrows"
+    },
+    {
+      "id": "S17",
+      "size": "wide",
+      "key": 30,
+      "note": "Mo's dad, the crater"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 30,
+      "note": "the bridge"
+    },
+    {
+      "id": "S19",
+      "size": "wide",
+      "key": 30,
+      "note": "thirty feet down"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "key": 40,
+      "note": "the rescue boat"
+    },
+    {
+      "id": "S21",
+      "size": "insert",
+      "key": 10,
+      "note": "$18,000"
+    },
+    {
+      "id": "S22",
+      "size": "insert",
+      "key": 40,
+      "note": "the upload"
+    },
+    {
+      "id": "S23",
+      "size": "insert",
+      "key": 30,
+      "note": "2,000,000 views"
+    },
+    {
+      "id": "S24",
+      "size": "card",
+      "key": 40,
+      "note": "comments from everywhere"
+    },
+    {
+      "id": "S25",
+      "size": "two-shot",
+      "key": 22,
+      "note": "a nurse selfie"
+    },
+    {
+      "id": "S26",
+      "size": "wide",
+      "key": 40,
+      "note": "the ambulance parks outside"
+    },
+    {
+      "id": "S27",
+      "size": "wide",
+      "key": 40,
+      "note": "the car park: ten floors"
+    },
+    {
+      "id": "S28",
+      "size": "insert",
+      "key": 30,
+      "note": "the boxes"
+    },
+    {
+      "id": "S29",
+      "size": "close",
+      "key": 20,
+      "note": "\"Final stunt\""
+    },
+    {
+      "id": "S30",
+      "size": "wide",
+      "key": 30,
+      "note": "the top deck"
+    },
+    {
+      "id": "S31",
+      "size": "pov",
+      "key": 30,
+      "note": "Mo, a tiny dot"
+    },
+    {
+      "id": "S32",
+      "size": "insert",
+      "key": 20,
+      "note": "$116,229"
+    },
+    {
+      "id": "S33",
+      "size": "close",
+      "key": 30,
+      "note": "just a number"
+    },
+    {
+      "id": "S34",
+      "size": "wide",
+      "key": 18,
+      "note": "you jump"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Mo"
+    },
+    {
+      "shot": "S3",
+      "at": "He's"
+    },
+    {
+      "shot": "S4",
+      "at": "Number"
+    },
+    {
+      "shot": "S5",
+      "at": "You"
+    },
+    {
+      "shot": "S6",
+      "at": "Grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S7",
+      "at": "Doors"
+    },
+    {
+      "shot": "S8",
+      "at": "Buzz"
+    },
+    {
+      "shot": "S9",
+      "at": "Water"
+    },
+    {
+      "shot": "S10",
+      "at": "Mo"
+    },
+    {
+      "shot": "S11",
+      "at": "Number"
+    },
+    {
+      "shot": "S12",
+      "at": "It"
+    },
+    {
+      "shot": "S13",
+      "at": "You"
+    },
+    {
+      "shot": "S14",
+      "at": "Boom"
+    },
+    {
+      "shot": "S14",
+      "at": "Grey",
+      "from": 30,
+      "look": "grey"
+    },
+    {
+      "shot": "S15",
+      "at": "Doors"
+    },
+    {
+      "shot": "S16",
+      "at": "Burn"
+    },
+    {
+      "shot": "S17",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S18",
+      "at": "Number"
+    },
+    {
+      "shot": "S19",
+      "at": "Thirty"
+    },
+    {
+      "shot": "S20",
+      "at": "The"
+    },
+    {
+      "shot": "S21",
+      "at": "Eighteen"
+    },
+    {
+      "shot": "S22",
+      "at": "Mo"
+    },
+    {
+      "shot": "S23",
+      "at": "By"
+    },
+    {
+      "shot": "S24",
+      "at": "People"
+    },
+    {
+      "shot": "S25",
+      "at": "At"
+    },
+    {
+      "shot": "S26",
+      "at": "The"
+    },
+    {
+      "shot": "S27",
+      "at": "Then"
+    },
+    {
+      "shot": "S28",
+      "at": "At"
+    },
+    {
+      "shot": "S29",
+      "at": "Final"
+    },
+    {
+      "shot": "S30",
+      "at": "You"
+    },
+    {
+      "shot": "S31",
+      "at": "Down"
+    },
+    {
+      "shot": "S32",
+      "at": "You"
+    },
+    {
+      "shot": "S33",
+      "at": "But"
+    },
+    {
+      "shot": "S34",
+      "at": "You"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "sound": {
+    "clips": {
+      "boom_syn": [
+        "procedural: a gas barbecue exploding, a deep boom and crackle",
+        2.5
+      ],
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crash_syn": [
+        "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
+        1.2
+      ],
+      "doorbell": [
+        "a house doorbell ding dong",
+        1.2
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "fire": [
+        "a small campfire crackling and popping at night, close, no voices",
+        10.0
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "laugh": [
+        "a small classroom of kids bursting out laughing",
+        1.6
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "notify": [
+        "a soft modern smartphone message notification chime",
+        0.8
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "river": [
+        "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+        10.0
+      ],
+      "shutter": [
+        "a smartphone camera shutter click",
+        0.5
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "splash_syn": [
+        "procedural: a heavy body splashing into a pool",
+        1.4
+      ],
+      "water_spray": [
+        "a metal tap breaking off a sink, water spraying hard and splashing",
+        2.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ],
+      "wind": [
+        "wind blowing on a city rooftop at dusk, distant traffic far below",
+        6.0
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S2+0",
+        "doorbell",
+        0.35
+      ],
+      [
+        "S3+2",
+        "paper",
+        0.4
+      ],
+      [
+        "S4+0",
+        "whoosh",
+        0.4,
+        "peak"
+      ],
+      [
+        "S5+8",
+        "crash_syn",
+        0.6
+      ],
+      [
+        "S5+10",
+        "water_spray",
+        0.5
+      ],
+      [
+        "S6+0",
+        "flatline_syn",
+        0.4
+      ],
+      [
+        "S7+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S8+0",
+        "buzz",
+        0.5
+      ],
+      [
+        "S9+0",
+        "water_spray",
+        0.35
+      ],
+      [
+        "S10+4",
+        "laugh",
+        0.25
+      ],
+      [
+        "S12+0",
+        "fall_whoosh",
+        0.25
+      ],
+      [
+        "S13+10",
+        "shutter",
+        0.4
+      ],
+      [
+        "Boom+0",
+        "boom_syn",
+        0.75
+      ],
+      [
+        "S15+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S16+2",
+        "paper",
+        0.4
+      ],
+      [
+        "S17+0",
+        "fire",
+        0.3,
+        "onset",
+        "S18"
+      ],
+      [
+        "S18+0",
+        "river",
+        0.35,
+        "onset",
+        "S22"
+      ],
+      [
+        "S19+0",
+        "fall_whoosh",
+        0.5
+      ],
+      [
+        "S19+26",
+        "splash_syn",
+        0.7
+      ],
+      [
+        "S20+0",
+        "siren_syn",
+        0.2
+      ],
+      [
+        "S21+0",
+        "buzz",
+        0.5
+      ],
+      [
+        "S22+0",
+        "notify",
+        0.4
+      ],
+      [
+        "S23+0",
+        "counter_tick",
+        0.4
+      ],
+      [
+        "S24+0",
+        "pop",
+        0.3
+      ],
+      [
+        "S24+10",
+        "pop",
+        0.3
+      ],
+      [
+        "S24+20",
+        "pop",
+        0.3
+      ],
+      [
+        "S25+20",
+        "shutter",
+        0.5
+      ],
+      [
+        "S26+0",
+        "siren_syn",
+        0.25
+      ],
+      [
+        "S27+0",
+        "whoosh",
+        0.35
+      ],
+      [
+        "S30+0",
+        "wind",
+        0.45,
+        "onset",
+        "S34"
+      ],
+      [
+        "S32+0",
+        "buzz",
+        0.4
+      ],
+      [
+        "S33+0",
+        "heartbeat",
+        0.4
+      ],
+      [
+        "S34+6",
+        "whoosh",
+        0.5
+      ],
+      [
+        "S34+10",
+        "drone",
+        0.4
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "music",
+      "loop": true,
+      "from": "S2",
+      "until": "S27"
+    }
+  },
+  "tail": 1.0
 }
