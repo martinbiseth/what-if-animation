@@ -7,6 +7,7 @@ import { CastSheet } from './CastSheet';
 import { Kit26Sheet } from './Kit26Sheet';
 import { THUMBS } from './episodes/thumbs';
 import { KitNetSheet } from './KitNetSheet';
+import { KitWantedSheet } from './KitWantedSheet';
 
 // Every episode gets two compositions: <Id> (the film) and <Id>Board (one frame per shot, at its key frame, for the
 // storyboard). Cast renders the cast sheet.
@@ -26,6 +27,7 @@ export const Root: React.FC = () => {
         <Composition key={t.id} id={t.id} component={t.component} durationInFrames={1} {...common} />
       ))}
       <Composition id="KitNet" component={KitNetSheet} durationInFrames={7} {...common} />
+      <Composition id="KitWanted" component={KitWantedSheet} durationInFrames={12} {...common} />
       <Composition id="Cast" component={CastSheet} durationInFrames={1} {...common} />
       <Composition id="Kit26" component={Kit26Sheet} durationInFrames={4} {...common} />
       <Composition id="CastInk" component={() => <CastSheet group="ink" />} durationInFrames={1} {...common} />

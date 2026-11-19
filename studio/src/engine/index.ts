@@ -23,3 +23,5 @@ export * from './sets/jazzclub';
 export * from './modern';
 export * from './money';
 export * from './sets/money';
+export * from './wanted';
+export * from './sets/wanted';
