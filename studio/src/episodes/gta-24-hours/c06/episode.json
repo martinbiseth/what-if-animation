@@ -1,0 +1,81 @@
+{
+ "id": "Gta24HoursC06",
+ "slug": "gta-24-hours/c06",
+ "chapter": "One phone call",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Nine p.m. The police station. No loading screen. No skip button."
+  },
+  {
+   "beat": "p2",
+   "text": "They take your fingerprints, one finger at a time. Your photo, front and side. Everything in your pockets goes into a plastic bag. Including a napkin from hot dog number six."
+  },
+  {
+   "beat": "p3",
+   "text": "In the game, this takes three seconds. In real life, getting booked can take hours."
+  },
+  {
+   "beat": "p4",
+   "text": "Then they put you in a holding cell. A metal bench. A toilet with no seat. A man in the corner who keeps asking what time it is. Every few minutes, you check for the stars. There are no stars. There's just a clock on the wall, and it is very slow."
+  },
+  {
+   "beat": "p5",
+   "text": "Then, the phone call. You've heard everybody gets one phone call. Actually, that's not a real rule everywhere. It depends on where you are. But tonight, they let you call."
+  },
+  {
+   "beat": "p6",
+   "text": "You stare at the phone. You could call Mo. Mo would think this is hilarious. Or you could call your mom."
+  },
+  {
+   "beat": "p7",
+   "text": "Mom picks up on the first ring. Because she saw the video. Everyone saw the video."
+  },
+  {
+   "beat": "p8",
+   "text": "So now there's one choice left. Say it was a joke. Just a game. No big deal. Or tell her the truth. Every single thing."
+  },
+  {
+   "beat": "p9",
+   "text": "You take a breath. And you tell her everything. The fence. The taxi. The car. The six hot dogs."
+  },
+  {
+   "beat": "p10",
+   "text": "You hear her car keys. You hear her shoes. Then you hear her say your full name. All three parts of it."
+  },
+  {
+   "beat": "p11",
+   "text": "There's a long silence. Then, very quietly: 'I'm coming.' Somehow, that's scarier than the dog."
+  }
+ ],
+ "science": [
+  {
+   "claim": "'Everyone gets one phone call' is not a universal rule; it depends on where you are.",
+   "working": "There is no US federal or constitutional right to a phone call after arrest; some states (e.g. California Penal Code 851.5) give at least three calls, others set no number.",
+   "source": "California Penal Code § 851.5"
+  },
+  {
+   "claim": "Booking (fingerprints, photo, property) can take hours.",
+   "working": "Booking includes recording personal details, fingerprints, photographs, inventory of property and a records check; waits of several hours are common.",
+   "source": "US county sheriff booking procedures (e.g. Los Angeles County Sheriff's Department)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

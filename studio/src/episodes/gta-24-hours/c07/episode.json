@@ -1,0 +1,56 @@
+{
+ "id": "Gta24HoursC07",
+ "slug": "gta-24-hours/c07",
+ "chapter": "No respawn",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Three a.m. A bench in a cold room. No respawn. No save point. Just a very long night."
+  },
+  {
+   "beat": "p2",
+   "text": "Eight a.m. Twenty-four hours, exactly. Your mom signs the papers. In the US, a judge has to look at an arrest quickly, usually within forty-eight hours. Then comes the real list. Fines. The taxi fare. And an apology to a man in a bathrobe."
+  },
+  {
+   "beat": "p3",
+   "text": "Here's the scoreboard for one day of playing the game for real. A red light ticket. A taxi fare. Charges for running from the police. A lot of new people who know your face. And six hot dogs you'll never be able to look at again."
+  },
+  {
+   "beat": "p4",
+   "text": "Rule five lasted eight minutes. Real life keeps every save."
+  },
+  {
+   "beat": "p5",
+   "text": "On the steps outside, your phone buzzes. It's Mo. 'Bro. Tomorrow, I'm trying the cheat codes.' Then a second message. 'And this time, you're filming.'"
+  },
+  {
+   "beat": "p6",
+   "text": "Is any of this real? The facts are. The ten-second sprint. The dog's nose. The thermal camera. The one-phone-call myth. Look them up. And tell me in the comments: which game rule would you break first?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "In the US, a judge must review a warrantless arrest quickly, generally within 48 hours.",
+   "working": "The Supreme Court held that a probable-cause determination within 48 hours of a warrantless arrest is presumptively prompt.",
+   "source": "County of Riverside v. McLaughlin, 500 U.S. 44 (1991)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

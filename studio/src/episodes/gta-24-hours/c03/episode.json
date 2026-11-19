@@ -1,0 +1,93 @@
+{
+ "id": "Gta24HoursC03",
+ "slug": "gta-24-hours/c03",
+ "chapter": "The fun part",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Nine a.m. Rule one. You run everywhere."
+  },
+  {
+   "beat": "p2",
+   "text": "For about ten seconds, it's amazing. You're flying past people, past dogs, past a guy on a scooter."
+  },
+  {
+   "beat": "p3",
+   "text": "Then your legs turn to jelly. That's real. Your muscles burn through their fastest fuel in about ten seconds of all-out sprinting. After that, you slow down, whether you want to or not."
+  },
+  {
+   "beat": "p4",
+   "text": "In the game, you'd run all day. In real life, you're bent over outside a pharmacy, wheezing, while the guy on the scooter rolls past and waves."
+  },
+  {
+   "beat": "p5",
+   "text": "Ten a.m. Rule two. Mo rents two electric scooters, and you ride them like it's a car chase. Through the park, between the benches, around one very confused pigeon."
+  },
+  {
+   "beat": "p6",
+   "text": "A park ranger blows a whistle. You don't stop. Because in the game, you never stop."
+  },
+  {
+   "beat": "p7",
+   "text": "Eleven a.m. Rule four. You take a shortcut. Over a fence, through a backyard, past a very surprised man in a bathrobe holding his morning coffee."
+  },
+  {
+   "beat": "p8",
+   "text": "'Morning!' you say. He does not say morning back. But his dog says a lot. The dog chases you all the way to the next fence, and you climb it a lot faster than the first one."
+  },
+  {
+   "beat": "p9",
+   "text": "Noon. Rule three. You're hungry, you're scraped up, and your knee hurts from the fence. So you heal, just like the game. Six hot dogs from the cart outside the station."
+  },
+  {
+   "beat": "p10",
+   "text": "In the game, your health bar fills right back up. In real life, six hot dogs with buns is around eighteen hundred calories, and it doesn't heal a single scrape. Your stomach is very, very upset with you."
+  },
+  {
+   "beat": "p11",
+   "text": "Twelve thirty. In the game, you'd walk into a clothing store and walk out in a new outfit, so nobody recognizes you. So you try. Seven outfits in five minutes. A sombrero. A tracksuit. A suit that's three sizes too big."
+  },
+  {
+   "beat": "p12",
+   "text": "The security guard watches every single change. You leave in your own clothes. Minus the hoodie."
+  },
+  {
+   "beat": "p13",
+   "text": "And the whole time, Mo is filming. And posting."
+  },
+  {
+   "beat": "p14",
+   "text": "That's the part you forgot about."
+  }
+ ],
+ "science": [
+  {
+   "claim": "All-out sprinting can only be kept up for roughly 10 seconds before speed drops.",
+   "working": "The phosphocreatine system, the fastest way muscles regenerate ATP, is largely used up after about 10 s of maximal effort; even elite 100 m sprinters slow down over the last 20-30 m.",
+   "source": "Gastin, 'Energy system interaction and relative contribution during maximal exercise', Sports Medicine 31 (2001)"
+  },
+  {
+   "claim": "Six hot dogs with buns is around 1,800 calories.",
+   "working": "A typical beef hot dog is about 150-190 kcal and a bun about 120-140 kcal, so roughly 300 kcal each; 6 x 300 = 1,800 kcal.",
+   "source": "USDA FoodData Central (beef frankfurter; hot dog bun)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

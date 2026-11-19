@@ -1,0 +1,62 @@
+{
+ "id": "Gta24HoursC01",
+ "slug": "gta-24-hours/c01",
+ "chapter": "The first five minutes",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Eight a.m. You wake up and make a decision. For the next twenty-four hours, you're going to live exactly like a character in GTA 6."
+  },
+  {
+   "beat": "p2",
+   "text": "You don't walk to the bus stop. You sprint. Full speed, arms pumping, just like the game."
+  },
+  {
+   "beat": "p3",
+   "text": "At the crosswalk, the light is red. You don't wait. In the game, nobody waits. A bus honks so loudly your teeth buzz, and you jump back onto the curb."
+  },
+  {
+   "beat": "p4",
+   "text": "You jump the neighbor's fence instead of using the gate. Your hoodie stays on the fence. You don't."
+  },
+  {
+   "beat": "p5",
+   "text": "A car is parked outside the bakery. In the game, that's your car now. You grab the handle."
+  },
+  {
+   "beat": "p6",
+   "text": "It's locked. The alarm goes off. And the owner, a little old lady holding a baguette, is standing right behind you."
+  },
+  {
+   "beat": "p7",
+   "text": "In the game, this is where the fun starts. In real life, this is where the paperwork starts."
+  },
+  {
+   "beat": "p8",
+   "text": "So what would actually happen if you acted like GTA 6, in real life, for twenty-four hours?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

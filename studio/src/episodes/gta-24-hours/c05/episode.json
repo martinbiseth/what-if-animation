@@ -1,0 +1,85 @@
+{
+ "id": "Gta24HoursC05",
+ "slug": "gta-24-hours/c05",
+ "chapter": "Rule five",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Five p.m. A police car pulls up at the end of the street. And every game instinct you have says the same thing. Run."
+  },
+  {
+   "beat": "p2",
+   "text": "So you run. For ten seconds. Then, as you already know, your legs quit."
+  },
+  {
+   "beat": "p3",
+   "text": "And here's something the game never tells you. Running from the police doesn't make things go away. In a lot of places, running from an officer is a crime all by itself. You just turned a few tickets into something much bigger."
+  },
+  {
+   "beat": "p4",
+   "text": "You crawl into a hedge behind the library. Rule five. Hide. Wait for the stars to fade."
+  },
+  {
+   "beat": "p5",
+   "text": "Here's the problem. Real police don't have stars. They have dogs."
+  },
+  {
+   "beat": "p6",
+   "text": "A police dog has up to three hundred million scent receptors in its nose. You have about six million. To a dog, you're not hiding. You're a big, sweaty, hot-dog-scented sign that says, 'Here.'"
+  },
+  {
+   "beat": "p7",
+   "text": "And there's a helicopter. Its thermal camera doesn't care about the hedge. It sees your body heat glowing like a light bulb."
+  },
+  {
+   "beat": "p8",
+   "text": "In the game, you hide behind a dumpster and the helicopter flies right past. In real life, the pilot just says, 'Hedge behind the library,' into the radio."
+  },
+  {
+   "beat": "p9",
+   "text": "The dog's name is Biscuit. Biscuit finds you in forty seconds, sits down next to the hedge, and wags his tail like he just won a prize."
+  },
+  {
+   "beat": "p10",
+   "text": "Eight minutes. That's how long rule five lasts."
+  },
+  {
+   "beat": "p11",
+   "text": "An officer parts the leaves and looks down at you. 'Are you the one from the video?'"
+  },
+  {
+   "beat": "p12",
+   "text": "Somewhere, Mo is still filming."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A dog's nose has up to 300 million scent receptors; a human's about 6 million.",
+   "working": "Commonly cited figures: dogs up to 300 million olfactory receptors (breed dependent), humans about 5-6 million.",
+   "source": "PBS NOVA, 'Dogs' Dazzling Sense of Smell' (2012)"
+  },
+  {
+   "claim": "A police helicopter's thermal camera sees body heat through bushes.",
+   "working": "Forward-looking infrared (FLIR) cameras detect the infrared heat a 37 °C body gives off against a cooler background; thin foliage does not hide it.",
+   "source": "Police air support practice, e.g. UK National Police Air Service"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

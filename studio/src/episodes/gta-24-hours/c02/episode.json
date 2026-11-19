@@ -1,0 +1,70 @@
+{
+ "id": "Gta24HoursC02",
+ "slug": "gta-24-hours/c02",
+ "chapter": "Five game rules",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's the deal you make with yourself. Five rules, straight from the game."
+  },
+  {
+   "beat": "p2",
+   "text": "Rule one: never walk. Always run."
+  },
+  {
+   "beat": "p3",
+   "text": "Rule two: anything with wheels is a ride."
+  },
+  {
+   "beat": "p4",
+   "text": "Rule three: when you get hurt, eat something, and you're fine."
+  },
+  {
+   "beat": "p5",
+   "text": "Rule four: the whole city is your map. Rooftops, fences, backyards. Everywhere."
+  },
+  {
+   "beat": "p6",
+   "text": "And rule five, the important one. If the police come after you, just hide for a while. The stars fade. Everybody forgets."
+  },
+  {
+   "beat": "p7",
+   "text": "Your best friend Mo thinks this is the greatest idea anyone has ever had. 'I'll film everything,' he says. 'This is going to be legendary.'"
+  },
+  {
+   "beat": "p8",
+   "text": "Your mom doesn't know about any of this. Yet."
+  },
+  {
+   "beat": "p9",
+   "text": "In the game, a whole day goes by in less than an hour. In real life, twenty-four hours is a very, very long time."
+  },
+  {
+   "beat": "p10",
+   "text": "Twenty-four hours. Five rules. Let's see which one breaks first."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

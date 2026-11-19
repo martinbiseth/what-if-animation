@@ -8,4 +8,6 @@ import { electricityChapters } from './electricity';
 
 import { gravityChapters } from './gravity';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters];
+import { gta24HoursChapters } from './gta-24-hours';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters, ...gta24HoursChapters];

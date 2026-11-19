@@ -1,0 +1,90 @@
+{
+ "id": "Gta24HoursC04",
+ "slug": "gta-24-hours/c04",
+ "chapter": "The catch",
+ "topic": "What if you acted like GTA 6 in real life for 24 hours?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "One p.m. You and Mo jump into the back of a taxi. 'Follow that car!' you shout."
+  },
+  {
+   "beat": "p2",
+   "text": "The driver looks at you in the mirror. 'Which car?' You point at a random blue one. He shrugs and follows it. For twenty minutes. Straight to a grocery store."
+  },
+  {
+   "beat": "p3",
+   "text": "'That,' he says, 'was the most boring car chase of my life.' The meter says thirty-eight dollars. In the game, you'd just jump out and run."
+  },
+  {
+   "beat": "p4",
+   "text": "So you do. And this is where real life stops being a game."
+  },
+  {
+   "beat": "p5",
+   "text": "Running off without paying a taxi fare is a crime in most places. It's called theft of services. It's in the same family as shoplifting."
+  },
+  {
+   "beat": "p6",
+   "text": "And that car outside the bakery this morning? Police take that very seriously, because that's how a lot of car thefts start. In the US, a car gets stolen about every thirty-two seconds. That's around a million cars a year. That's real."
+  },
+  {
+   "beat": "p7",
+   "text": "The driver doesn't chase you. He doesn't need to. He has a dash camera, your face, and the exact spot where you got in."
+  },
+  {
+   "beat": "p8",
+   "text": "Two p.m. Mo's video has fifty thousand views. Somebody recognized your hoodie. The one still hanging on the neighbor's fence."
+  },
+  {
+   "beat": "p9",
+   "text": "Three p.m. You run a red light on the scooter. A camera flashes. In California, a red light ticket can cost close to five hundred dollars, once all the fees are added."
+  },
+  {
+   "beat": "p10",
+   "text": "Four p.m. You add it up. The fence. The backyard. The scooter. The taxi. The car. In the game, each of those is nothing. Real life keeps a list. And real life doesn't reset when you reload."
+  },
+  {
+   "beat": "p11",
+   "text": "Every one of those things has a name. Trespassing. Theft of services. A traffic violation. And thanks to Mo's video, every single one of them has evidence. In high definition."
+  },
+  {
+   "beat": "p12",
+   "text": "Then you hear it. A siren. Getting closer."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Leaving without paying a taxi fare is a crime in most places (theft of services / fare evasion).",
+   "working": "Most US states have a 'theft of services' statute that covers obtaining transportation without paying, e.g. New York Penal Law 165.15; in England and Wales it is 'making off without payment' (Theft Act 1978, s.3).",
+   "source": "New York Penal Law § 165.15; Theft Act 1978 s.3"
+  },
+  {
+   "claim": "In the US a vehicle is stolen about every 32 seconds, around a million a year.",
+   "working": "1,020,729 vehicles were reported stolen in 2023; 365 x 24 x 3,600 / 1,020,729 = about 31 seconds.",
+   "source": "National Insurance Crime Bureau, Vehicle Thefts Surge Nationwide in 2023 (April 2024)"
+  },
+  {
+   "claim": "A red-light ticket in California can cost close to $500 with fees.",
+   "working": "The base fine is $100, but penalty assessments and fees bring the total to about $490.",
+   "source": "California Courts / California Vehicle Code 21453; widely cited total of about $490"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
