@@ -33,19 +33,147 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 7"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
+   "key": 40,
+   "note": "desk, form"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
    "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "fine, pocket money"
+  },
+  {
+   "id": "S4",
+   "size": "cu",
+   "key": 20,
+   "note": "Mum not happy"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 40,
+   "note": "one more thing"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "note": "traffic camera photo"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "note": "six stars"
+  },
+  {
+   "id": "S8",
+   "size": "cu",
+   "key": 20,
+   "note": "only five"
+  },
+  {
+   "id": "S9",
+   "size": "cu",
+   "key": 20,
+   "note": "need your help"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "note": "Mo on his bike"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "note": "SIX underlined"
+  },
+  {
+   "id": "S12",
+   "size": "cu",
+   "key": 20,
+   "note": "is that bad"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 50,
+   "note": "real or not, checklist builds"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 40,
+   "note": "comments"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "there's#2"
+  },
+  {
+   "shot": "S3",
+   "at": "and"
+  },
+  {
+   "shot": "S4",
+   "at": "mum"
+  },
+  {
+   "shot": "S5",
+   "at": "reyes"
+  },
+  {
+   "shot": "S6",
+   "at": "a"
+  },
+  {
+   "shot": "S7",
+   "at": "and"
+  },
+  {
+   "shot": "S8",
+   "at": "the"
+  },
+  {
+   "shot": "S9",
+   "at": "i"
+  },
+  {
+   "shot": "S10",
+   "at": "outside"
+  },
+  {
+   "shot": "S11",
+   "at": "he"
+  },
+  {
+   "shot": "S12",
+   "at": "so"
+  },
+  {
+   "shot": "S13",
+   "at": "is#2"
+  },
+  {
+   "shot": "S14",
+   "at": "so"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU GOT A 5-STAR",
