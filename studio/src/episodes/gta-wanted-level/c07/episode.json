@@ -114,6 +114,12 @@
       "size": "card",
       "key": 40,
       "note": "comments"
+    },
+    {
+      "id": "S15",
+      "size": "card",
+      "key": 200,
+      "note": "end screen: next episode + subscribe"
     }
   ],
   "edit": [
@@ -172,6 +178,10 @@
     {
       "shot": "S14",
       "at": "so"
+    },
+    {
+      "shot": "S15",
+      "at": "s:54.5"
     }
   ],
   "fx": [],
@@ -307,6 +317,18 @@
         "title_boom",
         0.45,
         "peak"
+      ],
+      [
+        "S15+0",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S15+0",
+        "card_hit",
+        0.3,
+        "peak"
       ]
     ],
     "music": {
@@ -318,5 +340,6 @@
       "sfx_lu": 1.5,
       "music_lu": -11
     }
-  }
+  },
+  "tail": 15
 }

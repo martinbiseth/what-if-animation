@@ -2,7 +2,7 @@
  "slug": "gta-wanted-level/c07",
  "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 1633,
+ "total": 2056,
  "segments": [
   {
    "shot": "S1",
@@ -111,10 +111,18 @@
   {
    "shot": "S14",
    "a": 1472,
-   "b": 1633,
+   "b": 1635,
    "t0": 0,
-   "t1": 161,
+   "t1": 163,
    "line": "So what would you have done? Run, or walk out? Tell me in the comments."
+  },
+  {
+   "shot": "S15",
+   "a": 1635,
+   "b": 2056,
+   "t0": 0,
+   "t1": 421,
+   "line": ""
   }
  ],
  "shots": [
@@ -239,19 +247,28 @@
    "id": "S14",
    "size": "card",
    "key": 40,
-   "len": 161,
+   "len": 163,
    "first": 1472,
    "line": "So what would you have done? Run, or walk out? Tell me in the comments.",
    "note": "comments"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 200,
+   "len": 421,
+   "first": 1635,
+   "line": "",
+   "note": "end screen: next episode + subscribe"
   }
  ],
  "fx": [],
  "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.6731,
+  "musicVol": 0.1791,
   "voice": "gta-wanted-level/c07/voice.wav",
   "sfx": "gta-wanted-level/c07/sfx.wav",
-  "voiceVol": 0.8,
-  "sfxVol": 0.5863,
-  "music": "gta-wanted-level/c07/music.wav",
-  "musicVol": 0.1791
+  "music": "gta-wanted-level/c07/music.wav"
  }
 }

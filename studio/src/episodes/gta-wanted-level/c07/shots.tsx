@@ -184,3 +184,25 @@ export const S14: React.FC<ShotProps> = ({ t, len, f }) => {
     </g>
   );
 };
+
+// ---------- S15: end screen (no voice): room for YouTube's end-screen video and subscribe elements ----------
+export const S15: React.FC<ShotProps> = ({ t }) => {
+  const k = backOut(clamp(t / 12));
+  return (
+    <g>
+      <StarField t={t} n={14} />
+      <text x={960} y={150} textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={10} fill={WANT.gold} opacity={clamp(t / 10)}>GTA IN REAL LIFE</text>
+      <text x={960} y={235} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={86} fill="#F6EFE3" opacity={clamp((t - 6) / 10)}>WATCH NEXT</text>
+      {/* the video element goes in this frame (left), subscribe in the circle (right) */}
+      <g transform={`translate(640 600) scale(${k})`}>
+        <rect x={-430} y={-242} width={860} height={484} rx={24} fill="#0B0816" opacity={0.55} stroke={WANT.gold} strokeWidth={6} strokeDasharray="22 14" />
+      </g>
+      <g transform={`translate(1460 600) scale(${k})`}>
+        <circle r={190} fill="#0B0816" opacity={0.55} stroke="#F6EFE3" strokeWidth={6} strokeDasharray="22 14" />
+      </g>
+      <g transform="translate(960 960)" opacity={clamp((t - 12) / 10)}>
+        <WantedStars x={0} y={0} n={0} s={1.2} t={t} bob={false} />
+      </g>
+    </g>
+  );
+};
