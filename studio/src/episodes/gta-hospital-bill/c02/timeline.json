@@ -1,16 +1,153 @@
 {
  "slug": "gta-hospital-bill/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 2568,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 200,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 200,
+   "line": "It starts on a Saturday morning, after a very long night with a controller in your hand."
+  },
+  {
+   "shot": "S2",
+   "a": 200,
+   "b": 301,
+   "t0": 0,
+   "t1": 101,
+   "line": "You trip on the stairs, and the world blinks"
+  },
+  {
+   "shot": "S3",
+   "a": 301,
+   "b": 323,
+   "t0": 0,
+   "t1": 22,
+   "line": "grey.",
+   "look": "grey"
+  },
+  {
+   "shot": "S4",
+   "a": 323,
+   "b": 562,
+   "t0": 0,
+   "t1": 239,
+   "line": "When it comes back, you're outside City General, three streets away, in your pyjamas. Perfectly fine. A"
+  },
+  {
+   "shot": "S5",
+   "a": 562,
+   "b": 616,
+   "t0": 0,
+   "t1": 54,
+   "line": "nurse stares at you."
+  },
+  {
+   "shot": "S6",
+   "a": 616,
+   "b": 884,
+   "t0": 0,
+   "t1": 268,
+   "line": "Then your phone buzzes. Your first bill: two thousand, nine hundred and nine dollars, for falling down the stairs."
+  },
+  {
+   "shot": "S7",
+   "a": 884,
+   "b": 1042,
+   "t0": 0,
+   "t1": 158,
+   "line": "You fall down a few more things that morning, on purpose this time."
+  },
+  {
+   "shot": "S8",
+   "a": 1042,
+   "b": 1129,
+   "t0": 0,
+   "t1": 87,
+   "line": "That's how you figure out the rules."
+  },
+  {
+   "shot": "S9",
+   "a": 1129,
+   "b": 1201,
+   "t0": 0,
+   "t1": 72,
+   "line": "Rule one: you can't die."
+  },
+  {
+   "shot": "S10",
+   "a": 1201,
+   "b": 1374,
+   "t0": 0,
+   "t1": 173,
+   "line": "Whatever happens, you blink, and you're back at the hospital doors, healed."
+  },
+  {
+   "shot": "S11",
+   "a": 1374,
+   "b": 1454,
+   "t0": 0,
+   "t1": 80,
+   "line": "Rule two: the bill is real."
+  },
+  {
+   "shot": "S12",
+   "a": 1454,
+   "b": 1758,
+   "t0": 0,
+   "t1": 304,
+   "line": "Every line is the real price of what just happened to you, at real American hospital prices, as if you had to recover the normal way."
+  },
+  {
+   "shot": "S13",
+   "a": 1758,
+   "b": 1934,
+   "t0": 0,
+   "t1": 176,
+   "line": "A broken leg gets billed like a broken leg, even if it heals in a blink."
+  },
+  {
+   "shot": "S14",
+   "a": 1934,
+   "b": 2050,
+   "t0": 0,
+   "t1": 116,
+   "line": "Rule three: the bill only ever comes to you."
+  },
+  {
+   "shot": "S15",
+   "a": 2050,
+   "b": 2113,
+   "t0": 0,
+   "t1": 63,
+   "line": "Nobody else pays a cent."
+  },
+  {
+   "shot": "S16",
+   "a": 2113,
+   "b": 2387,
+   "t0": 0,
+   "t1": 274,
+   "line": "By ten in the morning, the number at the top of your phone says sixty- three thousand, three hundred and twenty dollars."
+  },
+  {
+   "shot": "S17",
+   "a": 2387,
+   "b": 2490,
+   "t0": 0,
+   "t1": 103,
+   "line": "You have eleven dollars in your bank account."
+  },
+  {
+   "shot": "S18",
+   "a": 2490,
+   "b": 2568,
+   "t0": 0,
+   "t1": 78,
+   "line": "And it's only Saturday."
   }
  ],
  "shots": [
@@ -18,10 +155,163 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 90,
+   "len": 200,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "It starts on a Saturday morning, after a very long night with a controller in your hand.",
+   "note": "Saturday morning, controller in hand"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 30,
+   "len": 101,
+   "first": 200,
+   "line": "You trip on the stairs, and the world blinks",
+   "note": "the stairs"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 12,
+   "len": 22,
+   "first": 301,
+   "line": "grey.",
+   "note": "grey: the bottom of the stairs"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "len": 239,
+   "first": 323,
+   "line": "When it comes back, you're outside City General, three streets away, in your pyjamas. Perfectly fine. A",
+   "note": "City General, in pyjamas"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 30,
+   "len": 54,
+   "first": 562,
+   "line": "nurse stares at you.",
+   "note": "a nurse stares"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 10,
+   "len": 268,
+   "first": 616,
+   "line": "Then your phone buzzes. Your first bill: two thousand, nine hundred and nine dollars, for falling down the stairs.",
+   "note": "first bill $2,909"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 20,
+   "len": 158,
+   "first": 884,
+   "line": "You fall down a few more things that morning, on purpose this time.",
+   "note": "more things, on purpose"
+  },
+  {
+   "id": "S8",
+   "size": "card",
+   "key": 50,
+   "len": 87,
+   "first": 1042,
+   "line": "That's how you figure out the rules.",
+   "note": "TITLE"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 30,
+   "len": 72,
+   "first": 1129,
+   "line": "Rule one: you can't die.",
+   "note": "RULE 1 YOU CAN'T DIE"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 173,
+   "first": 1201,
+   "line": "Whatever happens, you blink, and you're back at the hospital doors, healed.",
+   "note": "back at the doors, healed"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 30,
+   "len": 80,
+   "first": 1374,
+   "line": "Rule two: the bill is real.",
+   "note": "RULE 2 THE BILL IS REAL"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 40,
+   "len": 304,
+   "first": 1454,
+   "line": "Every line is the real price of what just happened to you, at real American hospital prices, as if you had to recover the normal way.",
+   "note": "every line"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 60,
+   "len": 176,
+   "first": 1758,
+   "line": "A broken leg gets billed like a broken leg, even if it heals in a blink.",
+   "note": "a broken leg billed, healed"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 30,
+   "len": 116,
+   "first": 1934,
+   "line": "Rule three: the bill only ever comes to you.",
+   "note": "RULE 3 ONLY YOU PAY"
+  },
+  {
+   "id": "S15",
+   "size": "two-shot",
+   "key": 30,
+   "len": 63,
+   "first": 2050,
+   "line": "Nobody else pays a cent.",
+   "note": "Mum, no idea"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 20,
+   "len": 274,
+   "first": 2113,
+   "line": "By ten in the morning, the number at the top of your phone says sixty- three thousand, three hundred and twenty dollars.",
+   "note": "$63,320 at 10:00"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "len": 103,
+   "first": 2387,
+   "line": "You have eleven dollars in your bank account.",
+   "note": "$11 in the bank"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 20,
+   "len": 78,
+   "first": 2490,
+   "line": "And it's only Saturday.",
+   "note": "it's only Saturday"
   }
  ],
  "fx": [],

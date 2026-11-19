@@ -30,21 +30,407 @@
     {
       "id": "S1",
       "size": "wide",
-      "set": "rooftop",
       "key": 30,
-      "note": "placeholder card: The premise and its rules"
+      "note": "Saturday morning, controller in hand"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 30,
+      "note": "the stairs"
+    },
+    {
+      "id": "S3",
+      "size": "close",
+      "key": 12,
+      "note": "grey: the bottom of the stairs"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
+      "key": 30,
+      "note": "City General, in pyjamas"
+    },
+    {
+      "id": "S5",
+      "size": "two-shot",
+      "key": 30,
+      "note": "a nurse stares"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 10,
+      "note": "first bill $2,909"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "key": 20,
+      "note": "more things, on purpose"
+    },
+    {
+      "id": "S8",
+      "size": "card",
+      "key": 50,
+      "note": "TITLE"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 30,
+      "note": "RULE 1 YOU CAN'T DIE"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 30,
+      "note": "back at the doors, healed"
+    },
+    {
+      "id": "S11",
+      "size": "card",
+      "key": 30,
+      "note": "RULE 2 THE BILL IS REAL"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 40,
+      "note": "every line"
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "key": 60,
+      "note": "a broken leg billed, healed"
+    },
+    {
+      "id": "S14",
+      "size": "card",
+      "key": 30,
+      "note": "RULE 3 ONLY YOU PAY"
+    },
+    {
+      "id": "S15",
+      "size": "two-shot",
+      "key": 30,
+      "note": "Mum, no idea"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 20,
+      "note": "$63,320 at 10:00"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 20,
+      "note": "$11 in the bank"
+    },
+    {
+      "id": "S18",
+      "size": "close",
+      "key": 20,
+      "note": "it's only Saturday"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You"
+    },
+    {
+      "shot": "S3",
+      "at": "grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S4",
+      "at": "When"
+    },
+    {
+      "shot": "S5",
+      "at": "nurse"
+    },
+    {
+      "shot": "S6",
+      "at": "Then"
+    },
+    {
+      "shot": "S7",
+      "at": "You"
+    },
+    {
+      "shot": "S8",
+      "at": "That's"
+    },
+    {
+      "shot": "S9",
+      "at": "Rule"
+    },
+    {
+      "shot": "S10",
+      "at": "Whatever"
+    },
+    {
+      "shot": "S11",
+      "at": "Rule"
+    },
+    {
+      "shot": "S12",
+      "at": "Every"
+    },
+    {
+      "shot": "S13",
+      "at": "A"
+    },
+    {
+      "shot": "S14",
+      "at": "Rule"
+    },
+    {
+      "shot": "S15",
+      "at": "Nobody"
+    },
+    {
+      "shot": "S16",
+      "at": "By"
+    },
+    {
+      "shot": "S17",
+      "at": "You"
+    },
+    {
+      "shot": "S18",
+      "at": "And"
     }
   ],
-  "end": "f:90",
   "fx": [],
   "title": [
     "WHAT IF YOU COULD",
     ""
-  ]
+  ],
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "gasp": [
+        "a small crowd of people gasping in surprise",
+        1.5
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "tumble": [
+        "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+        1.3
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "room_tone",
+        0.35,
+        "onset",
+        "S2"
+      ],
+      [
+        "S2+8",
+        "step",
+        0.4
+      ],
+      [
+        "S2+12",
+        "tumble",
+        0.6
+      ],
+      [
+        "S2+30",
+        "thud",
+        0.6
+      ],
+      [
+        "S3+0",
+        "flatline_syn",
+        0.45
+      ],
+      [
+        "S4+3",
+        "paste_pop",
+        0.55
+      ],
+      [
+        "S5+4",
+        "gasp",
+        0.4
+      ],
+      [
+        "S6+0",
+        "buzz",
+        0.6
+      ],
+      [
+        "S7+0",
+        "tumble",
+        0.45
+      ],
+      [
+        "S7+14",
+        "land",
+        0.4
+      ],
+      [
+        "S8+0",
+        "title_boom",
+        0.6,
+        "peak"
+      ],
+      [
+        "S9+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S10+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S11+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S12+2",
+        "paper",
+        0.4
+      ],
+      [
+        "S12+26",
+        "cash",
+        0.4
+      ],
+      [
+        "S13+0",
+        "bone_crack",
+        0.4
+      ],
+      [
+        "heals+0",
+        "sparkle",
+        0.5
+      ],
+      [
+        "S14+0",
+        "card_hit",
+        0.5
+      ],
+      [
+        "S15+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S18"
+      ],
+      [
+        "S16+0",
+        "buzz",
+        0.5
+      ],
+      [
+        "S16+4",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S17+2",
+        "beep",
+        0.4
+      ],
+      [
+        "S18+4",
+        "gulp",
+        0.5
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "m_curious",
+      "loop": true,
+      "from": "S2"
+    }
+  },
+  "tail": 1.0
 }

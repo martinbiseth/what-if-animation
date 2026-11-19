@@ -30,21 +30,580 @@
     {
       "id": "S1",
       "size": "wide",
-      "set": "rooftop",
+      "key": 20,
+      "note": "you on the garage roof, the jump"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 10,
+      "note": "you land wrong"
+    },
+    {
+      "id": "S3",
+      "size": "close",
+      "key": 12,
+      "note": "grey: on the lawn"
+    },
+    {
+      "id": "S4",
+      "size": "wide",
       "key": 30,
-      "note": "placeholder card: Cold open"
+      "note": "respawn at the hospital doors"
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "key": 20,
+      "note": "not a scratch"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 10,
+      "note": "the phone buzzes: $6,411"
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "key": 70,
+      "note": "the bill, line by line"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "key": 30,
+      "note": "TOTAL $6,411"
+    },
+    {
+      "id": "S9",
+      "size": "two-shot",
+      "key": 20,
+      "note": "Mo's skateboard"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 25,
+      "note": "down the steepest hill"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "key": 10,
+      "note": "grey: the tumble"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 10,
+      "note": "$11,000"
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "key": 20,
+      "note": "bike, ramp, river"
+    },
+    {
+      "id": "S14",
+      "size": "wide",
+      "key": 20,
+      "note": "you don't make it"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 10,
+      "note": "grey: the splash"
+    },
+    {
+      "id": "S16",
+      "size": "wide",
+      "key": 30,
+      "note": "the doors, dripping"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 10,
+      "note": "$34,000"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 25,
+      "note": "the trampoline"
+    },
+    {
+      "id": "S19",
+      "size": "wide",
+      "key": 8,
+      "note": "grey: the greenhouse"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "key": 25,
+      "note": "the doors, glass in your hair"
+    },
+    {
+      "id": "S21",
+      "size": "insert",
+      "key": 60,
+      "note": "the greenhouse is extra"
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "key": 40,
+      "note": "in the game: -$500"
+    },
+    {
+      "id": "S23",
+      "size": "close",
+      "key": 15,
+      "note": "grinning with the controller"
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "key": 30,
+      "note": "dusk: the hospital, the phone"
+    },
+    {
+      "id": "S25",
+      "size": "card",
+      "key": 20,
+      "note": "THE REAL BILL?"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "land"
+    },
+    {
+      "shot": "S3",
+      "at": "grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S4",
+      "at": "Then"
+    },
+    {
+      "shot": "S5",
+      "at": "Not"
+    },
+    {
+      "shot": "S6",
+      "at": "Your"
+    },
+    {
+      "shot": "S7",
+      "at": "Ambulance"
+    },
+    {
+      "shot": "S8",
+      "at": "Total"
+    },
+    {
+      "shot": "S9",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S10",
+      "at": "The"
+    },
+    {
+      "shot": "S11",
+      "at": "Grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S4",
+      "at": "Hospital"
+    },
+    {
+      "shot": "S12",
+      "at": "Buzz"
+    },
+    {
+      "shot": "S13",
+      "at": "Your"
+    },
+    {
+      "shot": "S14",
+      "at": "You"
+    },
+    {
+      "shot": "S15",
+      "at": "Grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S16",
+      "at": "Doors"
+    },
+    {
+      "shot": "S17",
+      "at": "Buzz"
+    },
+    {
+      "shot": "S18",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S19",
+      "at": "Grey",
+      "look": "grey"
+    },
+    {
+      "shot": "S20",
+      "at": "Doors"
+    },
+    {
+      "shot": "S21",
+      "at": "Nine"
+    },
+    {
+      "shot": "S22",
+      "at": "In"
+    },
+    {
+      "shot": "S23",
+      "at": "walk"
+    },
+    {
+      "shot": "S24",
+      "at": "So"
+    },
+    {
+      "shot": "S25",
+      "at": "real"
     }
   ],
-  "end": "f:90",
   "fx": [],
   "pace": {
     "min_cuts": 24,
     "max_hold": 4
-  }
+  },
+  "sound": {
+    "clips": {
+      "bone_crack": [
+        "a sharp dry bone crack snap, close and painful, short",
+        0.6
+      ],
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "coins": [
+        "a few bronze coins dropped on a stone counter, bright metallic clinks",
+        0.8
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
+      "crash_syn": [
+        "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
+        1.2
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "fall_whoosh": [
+        "a small object falling fast through the air, short soft whoosh",
+        0.6
+      ],
+      "flatline_syn": [
+        "procedural: a hospital heart monitor beeping then a long flat tone",
+        2.5
+      ],
+      "kids_cheer": [
+        "a group of children cheering and clapping outdoors",
+        2.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "river": [
+        "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+        10.0
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "shatter": [
+        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+        1.3
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "splash_syn": [
+        "procedural: a heavy body splashing into a pool",
+        1.4
+      ],
+      "thud": [
+        "a cartoon body falling flat on cobblestones, soft thud",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "tumble": [
+        "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+        1.3
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+14",
+        "whoosh",
+        0.5
+      ],
+      [
+        "S2+5",
+        "thud",
+        0.7
+      ],
+      [
+        "S2+6",
+        "bone_crack",
+        0.45
+      ],
+      [
+        "S3+0",
+        "flatline_syn",
+        0.45
+      ],
+      [
+        "S4+3",
+        "paste_pop",
+        0.55
+      ],
+      [
+        "S4+6",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S6+0",
+        "buzz",
+        0.6
+      ],
+      [
+        "S7+2",
+        "paper",
+        0.4
+      ],
+      [
+        "S8+4",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S8+20",
+        "cash",
+        0.45
+      ],
+      [
+        "S9+0",
+        "pop",
+        0.3
+      ],
+      [
+        "S10+0",
+        "whoosh",
+        0.45,
+        "peak"
+      ],
+      [
+        "S11+4",
+        "crash_syn",
+        0.5
+      ],
+      [
+        "S11+6",
+        "tumble",
+        0.5
+      ],
+      [
+        "S11+12",
+        "flatline_syn",
+        0.4
+      ],
+      [
+        "Hospital+0",
+        "paste_pop",
+        0.55
+      ],
+      [
+        "S12+0",
+        "buzz",
+        0.6
+      ],
+      [
+        "S13+0",
+        "river",
+        0.35,
+        "onset",
+        "S16"
+      ],
+      [
+        "S14+8",
+        "fall_whoosh",
+        0.5
+      ],
+      [
+        "S15+0",
+        "splash_syn",
+        0.7
+      ],
+      [
+        "S15+8",
+        "flatline_syn",
+        0.4
+      ],
+      [
+        "S16+2",
+        "paste_pop",
+        0.55
+      ],
+      [
+        "S17+0",
+        "buzz",
+        0.6
+      ],
+      [
+        "S18+0",
+        "kids_cheer",
+        0.3
+      ],
+      [
+        "S18+22",
+        "whoosh",
+        0.4
+      ],
+      [
+        "S19+0",
+        "shatter",
+        0.55
+      ],
+      [
+        "S19+1",
+        "crack",
+        0.5
+      ],
+      [
+        "S19+10",
+        "flatline_syn",
+        0.35
+      ],
+      [
+        "S20+2",
+        "paste_pop",
+        0.5
+      ],
+      [
+        "S21+0",
+        "paper",
+        0.4
+      ],
+      [
+        "extra+2",
+        "buzzer",
+        0.4
+      ],
+      [
+        "S22+0",
+        "select_draw",
+        0.4
+      ],
+      [
+        "S22+30",
+        "coins",
+        0.5
+      ],
+      [
+        "S23+4",
+        "ding",
+        0.35
+      ],
+      [
+        "S24+0",
+        "siren_syn",
+        0.25
+      ],
+      [
+        "S24+10",
+        "drone",
+        0.4
+      ],
+      [
+        "S25+0",
+        "title_boom",
+        0.55,
+        "peak"
+      ]
+    ],
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -15.0
+    },
+    "music": {
+      "clip": "music",
+      "loop": true,
+      "until": "S24"
+    }
+  },
+  "tail": 1.0
 }
