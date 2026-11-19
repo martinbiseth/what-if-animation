@@ -23,12 +23,13 @@ for i, c, s, k, n in items:
                 if seen == nth: break
         else: raise SystemExit(f'{i}: {c} not found')
         edit.append({'shot': i, 'at': c}); prev = j + 1; continue
-    ph = [norm(x) for x in c.split()]
+    ph = [norm(x).replace("'", '') for x in c.split()]
+    W2 = [w.replace("'", '') for w in W]
     for j in range(prev, len(W)):
-        if W[j:j + len(ph)] == ph: break
+        if W2[j:j + len(ph)] == ph: break
     else: raise SystemExit(f'{i}: phrase "{c}" not found after word {prev}')
-    nth = sum(1 for q in range(prev, j + 1) if W[q] == ph[0])
-    edit.append({'shot': i, 'at': ph[0] if nth == 1 else f'{ph[0]}#{nth}'})
+    nth = sum(1 for q in range(prev, j + 1) if W[q] == W[j])
+    edit.append({'shot': i, 'at': W[j] if nth == 1 else f'{W[j]}#{nth}'})
     prev = j + 1
 ep['shots'] = [{'id': i, 'size': s, 'key': k, 'note': n} for i, c, s, k, n in items]
 ep['edit'] = edit

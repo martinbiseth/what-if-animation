@@ -22,7 +22,7 @@
   },
   {
    "beat": "marshals",
-   "text": "'You're thinking of running,' she says. 'Everyone does. Last year, one agency, the US Marshals, caught more than seventy-three thousand people who were running. Most of them thought they had hidden really well.'"
+   "text": "'You're thinking of running,' she says. 'Everyone does. In just one year, one agency, the US Marshals, caught more than seventy-three thousand people who were running. Most of them thought they had hidden really well.'"
   },
   {
    "beat": "quietly",
@@ -56,19 +56,207 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 5"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
+   "key": 40,
+   "note": "a knock at the door"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 40,
+   "note": "grey coat, folder"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "note": "the badge"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 60,
+   "note": "the kitchen table"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 120,
+   "note": "37 calls"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 80,
+   "note": "they knew where to go"
+  },
+  {
+   "id": "S8",
+   "size": "close",
    "key": 30,
-   "note": "placeholder card: Someone notices"
+   "note": "she looks above your head"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 30,
+   "note": "too long"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 40,
+   "note": "youre thinking of running"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 80,
+   "note": "73,000"
+  },
+  {
+   "id": "S11B",
+   "size": "close",
+   "key": 40,
+   "note": "hidden really well"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 60,
+   "note": "how this ends if you run"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "note": "the news"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 60,
+   "note": "your street"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 20,
+   "note": "four stars"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 80,
+   "note": "18,000 agencies"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "note": "the red dot"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 60,
+   "note": "your house, the helicopter"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 20,
+   "note": "a helicopter"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "there's"
+  },
+  {
+   "shot": "S3",
+   "at": "it"
+  },
+  {
+   "shot": "S4",
+   "at": "detective"
+  },
+  {
+   "shot": "S5",
+   "at": "she"
+  },
+  {
+   "shot": "S6",
+   "at": "thirtyseven"
+  },
+  {
+   "shot": "S7",
+   "at": "all"
+  },
+  {
+   "shot": "S8",
+   "at": "she"
+  },
+  {
+   "shot": "S9",
+   "at": "for"
+  },
+  {
+   "shot": "S10",
+   "at": "you're"
+  },
+  {
+   "shot": "S11",
+   "at": "in"
+  },
+  {
+   "shot": "S11B",
+   "at": "Most"
+  },
+  {
+   "shot": "S12",
+   "at": "i"
+  },
+  {
+   "shot": "S13",
+   "at": "then"
+  },
+  {
+   "shot": "S14",
+   "at": "it"
+  },
+  {
+   "shot": "S15",
+   "at": "at"
+  },
+  {
+   "shot": "S16",
+   "at": "america"
+  },
+  {
+   "shot": "S17",
+   "at": "and#2"
+  },
+  {
+   "shot": "S18",
+   "at": "the#2"
+  },
+  {
+   "shot": "S19",
+   "at": "a"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU GOT A 5-STAR",

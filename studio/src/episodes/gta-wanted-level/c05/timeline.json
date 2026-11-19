@@ -1,27 +1,350 @@
 {
  "slug": "gta-wanted-level/c05",
- "title": "Someone notices",
+ "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 90,
+ "total": 2411,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
+   "b": 37,
+   "t0": 0,
+   "t1": 37,
+   "line": "Saturday morning,"
+  },
+  {
+   "shot": "S2",
+   "a": 37,
    "b": 90,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 53,
+   "line": "there's a knock at the door."
+  },
+  {
+   "shot": "S3",
+   "a": 90,
+   "b": 229,
+   "t0": 0,
+   "t1": 139,
+   "line": "It isn't an officer in uniform. It's a woman in a grey coat, with a folder."
+  },
+  {
+   "shot": "S4",
+   "a": 229,
+   "b": 262,
+   "t0": 0,
+   "t1": 33,
+   "line": "Detective Reyes."
+  },
+  {
+   "shot": "S5",
+   "a": 262,
+   "b": 454,
+   "t0": 0,
+   "t1": 192,
+   "line": "She sits down at the kitchen table. Mum makes her a coffee, looking confused. Ellie stares at her badge."
+  },
+  {
+   "shot": "S6",
+   "a": 454,
+   "b": 666,
+   "t0": 0,
+   "t1": 212,
+   "line": "'Thirty-seven police calls in four days', she says. 'A candy wrapper. Some grass. A library book. A skateboard."
+  },
+  {
+   "shot": "S7",
+   "a": 666,
+   "b": 908,
+   "t0": 0,
+   "t1": 242,
+   "line": "All of them for one fourteen-year-old. And every officer says the same thing. They don't know why they went. They just knew where to go'."
+  },
+  {
+   "shot": "S8",
+   "a": 908,
+   "b": 980,
+   "t0": 0,
+   "t1": 72,
+   "line": "She looks at the space above your head."
+  },
+  {
+   "shot": "S9",
+   "a": 980,
+   "b": 1024,
+   "t0": 0,
+   "t1": 44,
+   "line": "For slightly too long."
+  },
+  {
+   "shot": "S10",
+   "a": 1024,
+   "b": 1123,
+   "t0": 0,
+   "t1": 99,
+   "line": "'You're thinking of running', she says. 'Everyone does."
+  },
+  {
+   "shot": "S11",
+   "a": 1123,
+   "b": 1312,
+   "t0": 0,
+   "t1": 189,
+   "line": "In just one year, one agency, the US Marshals, caught more than seventy-three thousand people who were running."
+  },
+  {
+   "shot": "S11B",
+   "a": 1312,
+   "b": 1398,
+   "t0": 0,
+   "t1": 86,
+   "line": "Most of them thought they had hidden really well'."
+  },
+  {
+   "shot": "S12",
+   "a": 1398,
+   "b": 1563,
+   "t0": 0,
+   "t1": 165,
+   "line": "'I don't know what's happening to you', she says quietly. 'But I know how this ends if you run'."
+  },
+  {
+   "shot": "S13",
+   "a": 1563,
+   "b": 1723,
+   "t0": 0,
+   "t1": 160,
+   "line": "Then the TV in the kitchen switches to the news. The city's dispatch computer has a problem."
+  },
+  {
+   "shot": "S14",
+   "a": 1723,
+   "b": 1863,
+   "t0": 0,
+   "t1": 140,
+   "line": "It keeps sending police cars to the same street, all by itself. Your street."
+  },
+  {
+   "shot": "S15",
+   "a": 1863,
+   "b": 1954,
+   "t0": 0,
+   "t1": 91,
+   "line": "At four stars, it isn't one police force any more."
+  },
+  {
+   "shot": "S16",
+   "a": 1954,
+   "b": 2111,
+   "t0": 0,
+   "t1": 157,
+   "line": "America has almost eighteen thousand police agencies, and around seven hundred thousand officers."
+  },
+  {
+   "shot": "S17",
+   "a": 2111,
+   "b": 2240,
+   "t0": 0,
+   "t1": 129,
+   "line": "And on the news, a map, with a little red dot that won't stop flashing."
+  },
+  {
+   "shot": "S18",
+   "a": 2240,
+   "b": 2363,
+   "t0": 0,
+   "t1": 123,
+   "line": "The dot is your house. Outside, that sound you've learned to hate."
+  },
+  {
+   "shot": "S19",
+   "a": 2363,
+   "b": 2411,
+   "t0": 0,
+   "t1": 48,
+   "line": "A helicopter."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 37,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Saturday morning,",
+   "note": "chapter 5"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 40,
+   "len": 53,
+   "first": 37,
+   "line": "there's a knock at the door.",
+   "note": "a knock at the door"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 40,
+   "len": 139,
+   "first": 90,
+   "line": "It isn't an officer in uniform. It's a woman in a grey coat, with a folder.",
+   "note": "grey coat, folder"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "len": 33,
+   "first": 229,
+   "line": "Detective Reyes.",
+   "note": "the badge"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 60,
+   "len": 192,
+   "first": 262,
+   "line": "She sits down at the kitchen table. Mum makes her a coffee, looking confused. Ellie stares at her badge.",
+   "note": "the kitchen table"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 120,
+   "len": 212,
+   "first": 454,
+   "line": "'Thirty-seven police calls in four days', she says. 'A candy wrapper. Some grass. A library book. A skateboard.",
+   "note": "37 calls"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 80,
+   "len": 242,
+   "first": 666,
+   "line": "All of them for one fourteen-year-old. And every officer says the same thing. They don't know why they went. They just knew where to go'.",
+   "note": "they knew where to go"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 30,
+   "len": 72,
+   "first": 908,
+   "line": "She looks at the space above your head.",
+   "note": "she looks above your head"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 30,
+   "len": 44,
+   "first": 980,
+   "line": "For slightly too long.",
+   "note": "too long"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 40,
+   "len": 99,
+   "first": 1024,
+   "line": "'You're thinking of running', she says. 'Everyone does.",
+   "note": "youre thinking of running"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 80,
+   "len": 189,
+   "first": 1123,
+   "line": "In just one year, one agency, the US Marshals, caught more than seventy-three thousand people who were running.",
+   "note": "73,000"
+  },
+  {
+   "id": "S11B",
+   "size": "close",
+   "key": 40,
+   "len": 86,
+   "first": 1312,
+   "line": "Most of them thought they had hidden really well'.",
+   "note": "hidden really well"
+  },
+  {
+   "id": "S12",
+   "size": "two-shot",
+   "key": 60,
+   "len": 165,
+   "first": 1398,
+   "line": "'I don't know what's happening to you', she says quietly. 'But I know how this ends if you run'.",
+   "note": "how this ends if you run"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 160,
+   "first": 1563,
+   "line": "Then the TV in the kitchen switches to the news. The city's dispatch computer has a problem.",
+   "note": "the news"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 60,
+   "len": 140,
+   "first": 1723,
+   "line": "It keeps sending police cars to the same street, all by itself. Your street.",
+   "note": "your street"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 20,
+   "len": 91,
+   "first": 1863,
+   "line": "At four stars, it isn't one police force any more.",
+   "note": "four stars"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 80,
+   "len": 157,
+   "first": 1954,
+   "line": "America has almost eighteen thousand police agencies, and around seven hundred thousand officers.",
+   "note": "18,000 agencies"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "len": 129,
+   "first": 2111,
+   "line": "And on the news, a map, with a little red dot that won't stop flashing.",
+   "note": "the red dot"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 60,
+   "len": 123,
+   "first": 2240,
+   "line": "The dot is your house. Outside, that sound you've learned to hate.",
+   "note": "your house, the helicopter"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 20,
+   "len": 48,
+   "first": 2363,
+   "line": "A helicopter.",
+   "note": "a helicopter"
   }
  ],
  "fx": [],
