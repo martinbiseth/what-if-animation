@@ -1,27 +1,435 @@
 {
  "slug": "gta-wanted-level/c04",
- "title": "The catch",
+ "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 90,
+ "total": 3219,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 61,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 61,
+   "line": "On Friday, Mo has a plan."
+  },
+  {
+   "shot": "S2",
+   "a": 61,
+   "b": 119,
+   "t0": 0,
+   "t1": 58,
+   "line": "'Three stars. Just to see'."
+  },
+  {
+   "shot": "S3",
+   "a": 119,
+   "b": 214,
+   "t0": 0,
+   "t1": 95,
+   "line": "At the subway station, you hop over the ticket gate."
+  },
+  {
+   "shot": "S4",
+   "a": 214,
+   "b": 262,
+   "t0": 0,
+   "t1": 48,
+   "line": "The third star snaps on."
+  },
+  {
+   "shot": "S5",
+   "a": 262,
+   "b": 392,
+   "t0": 0,
+   "t1": 130,
+   "line": "And then you do what you have learned to do. You run, and you hide."
+  },
+  {
+   "shot": "S6",
+   "a": 392,
+   "b": 534,
+   "t0": 0,
+   "t1": 142,
+   "line": "You crouch behind the dumpsters at the back of the station, and you start counting."
+  },
+  {
+   "shot": "S7",
+   "a": 534,
+   "b": 692,
+   "t0": 0,
+   "t1": 158,
+   "line": "Twenty-eight seconds, your record. Twenty-nine. Thirty. The stars don't even flash."
+  },
+  {
+   "shot": "S8",
+   "a": 692,
+   "b": 775,
+   "t0": 0,
+   "t1": 83,
+   "line": "In the game, this is where you wait it out."
+  },
+  {
+   "shot": "S9",
+   "a": 775,
+   "b": 869,
+   "t0": 0,
+   "t1": 94,
+   "line": "In real life, this is where it stops being a game."
+  },
+  {
+   "shot": "S10",
+   "a": 869,
+   "b": 915,
+   "t0": 0,
+   "t1": 46,
+   "line": "First, the helicopter."
+  },
+  {
+   "shot": "S11",
+   "a": 915,
+   "b": 1106,
+   "t0": 0,
+   "t1": 191,
+   "line": "A police helicopter can cruise at about a hundred and fifty miles an hour, faster than anything on the road below."
+  },
+  {
+   "shot": "S12",
+   "a": 1106,
+   "b": 1219,
+   "t0": 0,
+   "t1": 113,
+   "line": "And it doesn't need to see you. Its thermal camera sees heat."
+  },
+  {
+   "shot": "S13",
+   "a": 1219,
+   "b": 1422,
+   "t0": 0,
+   "t1": 203,
+   "line": "In 2013, a police helicopter found a man hiding under a cover in a boat, at night, from the heat of his body alone."
+  },
+  {
+   "shot": "S14",
+   "a": 1422,
+   "b": 1529,
+   "t0": 0,
+   "t1": 107,
+   "line": "Your hiding place behind the dumpsters glows like a light bulb."
+  },
+  {
+   "shot": "S15",
+   "a": 1529,
+   "b": 1730,
+   "t0": 0,
+   "t1": 201,
+   "line": "Second, the cameras. One company alone has put more than a hundred thousand license plate cameras on American streets."
+  },
+  {
+   "shot": "S15B",
+   "a": 1730,
+   "b": 1814,
+   "t0": 0,
+   "t1": 84,
+   "line": "Every car you get into leaves a trail. And the"
+  },
+  {
+   "shot": "S16",
+   "a": 1814,
+   "b": 2024,
+   "t0": 0,
+   "t1": 210,
+   "line": "city's own cameras, on lampposts and in every station, already have your hoodie, your face, and exactly which way you ran."
+  },
+  {
+   "shot": "S17",
+   "a": 2024,
+   "b": 2160,
+   "t0": 0,
+   "t1": 136,
+   "line": "Third, the stars don't fade. In real life, a wanted person stays wanted."
+  },
+  {
+   "shot": "S18",
+   "a": 2160,
+   "b": 2262,
+   "t0": 0,
+   "t1": 102,
+   "line": "In most US states, an arrest warrant has no expiry date."
+  },
+  {
+   "shot": "S19",
+   "a": 2262,
+   "b": 2399,
+   "t0": 0,
+   "t1": 137,
+   "line": "It doesn't flash and disappear after thirty seconds. It waits. For years."
+  },
+  {
+   "shot": "S20",
+   "a": 2399,
+   "b": 2599,
+   "t0": 0,
+   "t1": 200,
+   "line": "And here is the part the game never tells you. In every US state, running from the police is a crime of its own."
+  },
+  {
+   "shot": "S21",
+   "a": 2599,
+   "b": 2778,
+   "t0": 0,
+   "t1": 179,
+   "line": "You jumped a ticket gate, something you could have paid a fine for. Running is what made it serious."
+  },
+  {
+   "shot": "S22",
+   "a": 2778,
+   "b": 2927,
+   "t0": 0,
+   "t1": 149,
+   "line": "That night, for the first time, you get home, and the three stars are still there."
+  },
+  {
+   "shot": "S23",
+   "a": 2927,
+   "b": 3143,
+   "t0": 0,
+   "t1": 216,
+   "line": "Mum can't see them. She just asks why there was a helicopter over the subway station all afternoon. You say you don't know."
+  },
+  {
+   "shot": "S24",
+   "a": 3143,
+   "b": 3219,
+   "t0": 0,
+   "t1": 76,
+   "line": "Ellie says helicopters are cool."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 61,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "On Friday, Mo has a plan.",
+   "note": "chapter 4"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 40,
+   "len": 58,
+   "first": 61,
+   "line": "'Three stars. Just to see'.",
+   "note": "Mo: three stars, just to see"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 60,
+   "len": 95,
+   "first": 119,
+   "line": "At the subway station, you hop over the ticket gate.",
+   "note": "over the ticket gate"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 14,
+   "len": 48,
+   "first": 214,
+   "line": "The third star snaps on.",
+   "note": "three stars"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 130,
+   "first": 262,
+   "line": "And then you do what you have learned to do. You run, and you hide.",
+   "note": "you run"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 50,
+   "len": 142,
+   "first": 392,
+   "line": "You crouch behind the dumpsters at the back of the station, and you start counting.",
+   "note": "behind the dumpsters"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 80,
+   "len": 158,
+   "first": 534,
+   "line": "Twenty-eight seconds, your record. Twenty-nine. Thirty. The stars don't even flash.",
+   "note": "28, 29, 30"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 40,
+   "len": 83,
+   "first": 692,
+   "line": "In the game, this is where you wait it out.",
+   "note": "wait it out"
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "key": 30,
+   "len": 94,
+   "first": 775,
+   "line": "In real life, this is where it stops being a game.",
+   "note": "game over"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 45,
+   "len": 46,
+   "first": 869,
+   "line": "First, the helicopter.",
+   "note": "the helicopter"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 80,
+   "len": 191,
+   "first": 915,
+   "line": "A police helicopter can cruise at about a hundred and fifty miles an hour, faster than anything on the road below.",
+   "note": "150 mph"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 60,
+   "len": 113,
+   "first": 1106,
+   "line": "And it doesn't need to see you. Its thermal camera sees heat.",
+   "note": "thermal"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 80,
+   "len": 203,
+   "first": 1219,
+   "line": "In 2013, a police helicopter found a man hiding under a cover in a boat, at night, from the heat of his body alone.",
+   "note": "Boston 2013"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "len": 107,
+   "first": 1422,
+   "line": "Your hiding place behind the dumpsters glows like a light bulb.",
+   "note": "glows like a bulb"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 80,
+   "len": 201,
+   "first": 1529,
+   "line": "Second, the cameras. One company alone has put more than a hundred thousand license plate cameras on American streets.",
+   "note": "100,000 plate cameras"
+  },
+  {
+   "id": "S15B",
+   "size": "insert",
+   "key": 50,
+   "len": 84,
+   "first": 1730,
+   "line": "Every car you get into leaves a trail. And the",
+   "note": "every car leaves a trail"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 60,
+   "len": 210,
+   "first": 1814,
+   "line": "city's own cameras, on lampposts and in every station, already have your hoodie, your face, and exactly which way you ran.",
+   "note": "CCTV: your hoodie"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 30,
+   "len": 136,
+   "first": 2024,
+   "line": "Third, the stars don't fade. In real life, a wanted person stays wanted.",
+   "note": "they dont fade"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 40,
+   "len": 102,
+   "first": 2160,
+   "line": "In most US states, an arrest warrant has no expiry date.",
+   "note": "no expiry date"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 60,
+   "len": 137,
+   "first": 2262,
+   "line": "It doesn't flash and disappear after thirty seconds. It waits. For years.",
+   "note": "for years"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 40,
+   "len": 200,
+   "first": 2399,
+   "line": "And here is the part the game never tells you. In every US state, running from the police is a crime of its own.",
+   "note": "running is a crime"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 80,
+   "len": 179,
+   "first": 2599,
+   "line": "You jumped a ticket gate, something you could have paid a fine for. Running is what made it serious.",
+   "note": "a fine vs serious"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 60,
+   "len": 149,
+   "first": 2778,
+   "line": "That night, for the first time, you get home, and the three stars are still there.",
+   "note": "home with three stars"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 60,
+   "len": 216,
+   "first": 2927,
+   "line": "Mum can't see them. She just asks why there was a helicopter over the subway station all afternoon. You say you don't know.",
+   "note": "Mum asks"
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "key": 30,
+   "len": 76,
+   "first": 3143,
+   "line": "Ellie says helicopters are cool.",
+   "note": "helicopters are cool"
   }
  ],
  "fx": [],

@@ -75,19 +75,257 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 4"
+  },
+  {
+   "id": "S2",
+   "size": "two-shot",
+   "key": 40,
+   "note": "Mo: three stars, just to see"
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
+   "key": 60,
+   "note": "over the ticket gate"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 14,
+   "note": "three stars"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "note": "you run"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 50,
+   "note": "behind the dumpsters"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 80,
+   "note": "28, 29, 30"
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "key": 40,
+   "note": "wait it out"
+  },
+  {
+   "id": "S9",
+   "size": "card",
    "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "game over"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 45,
+   "note": "the helicopter"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 80,
+   "note": "150 mph"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 60,
+   "note": "thermal"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 80,
+   "note": "Boston 2013"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "note": "glows like a bulb"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 80,
+   "note": "100,000 plate cameras"
+  },
+  {
+   "id": "S15B",
+   "size": "insert",
+   "key": 50,
+   "note": "every car leaves a trail"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 60,
+   "note": "CCTV: your hoodie"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 30,
+   "note": "they dont fade"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 40,
+   "note": "no expiry date"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 60,
+   "note": "for years"
+  },
+  {
+   "id": "S20",
+   "size": "card",
+   "key": 40,
+   "note": "running is a crime"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 80,
+   "note": "a fine vs serious"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 60,
+   "note": "home with three stars"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 60,
+   "note": "Mum asks"
+  },
+  {
+   "id": "S24",
+   "size": "close",
+   "key": 30,
+   "note": "helicopters are cool"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Three"
+  },
+  {
+   "shot": "S3",
+   "at": "at"
+  },
+  {
+   "shot": "S4",
+   "at": "the#3"
+  },
+  {
+   "shot": "S5",
+   "at": "and"
+  },
+  {
+   "shot": "S6",
+   "at": "you#5"
+  },
+  {
+   "shot": "S7",
+   "at": "twentyeight"
+  },
+  {
+   "shot": "S8",
+   "at": "in"
+  },
+  {
+   "shot": "S9",
+   "at": "in"
+  },
+  {
+   "shot": "S10",
+   "at": "first"
+  },
+  {
+   "shot": "S11",
+   "at": "a"
+  },
+  {
+   "shot": "S12",
+   "at": "and#2"
+  },
+  {
+   "shot": "S13",
+   "at": "in"
+  },
+  {
+   "shot": "S14",
+   "at": "your"
+  },
+  {
+   "shot": "S15",
+   "at": "second"
+  },
+  {
+   "shot": "S15B",
+   "at": "Every"
+  },
+  {
+   "shot": "S16",
+   "at": "city's"
+  },
+  {
+   "shot": "S17",
+   "at": "third"
+  },
+  {
+   "shot": "S18",
+   "at": "in#2"
+  },
+  {
+   "shot": "S19",
+   "at": "it"
+  },
+  {
+   "shot": "S20",
+   "at": "and#2"
+  },
+  {
+   "shot": "S21",
+   "at": "you#2"
+  },
+  {
+   "shot": "S22",
+   "at": "that"
+  },
+  {
+   "shot": "S23",
+   "at": "mum"
+  },
+  {
+   "shot": "S24",
+   "at": "ellie"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU GOT A 5-STAR",
