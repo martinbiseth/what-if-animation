@@ -1,0 +1,73 @@
+{
+ "id": "GtaWantedLevelC05",
+ "slug": "gta-wanted-level/c05",
+ "chapter": "Someone notices",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "knock",
+   "text": "Saturday morning, there's a knock at the door. It isn't an officer in uniform. It's a woman in a grey coat, with a folder. Detective Reyes."
+  },
+  {
+   "beat": "kitchen",
+   "text": "She sits down at the kitchen table. Mum makes her a coffee, looking confused. Ellie stares at her badge."
+  },
+  {
+   "beat": "folder",
+   "text": "'Thirty-seven police calls in four days,' she says. 'A candy wrapper. Some grass. A library book. A skateboard. All of them for one fourteen-year-old. And every officer says the same thing. They don't know why they went. They just knew where to go.'"
+  },
+  {
+   "beat": "looks up",
+   "text": "She looks at the space above your head. For slightly too long."
+  },
+  {
+   "beat": "marshals",
+   "text": "'You're thinking of running,' she says. 'Everyone does. Last year, one agency, the US Marshals, caught more than seventy-three thousand people who were running. Most of them thought they had hidden really well.'"
+  },
+  {
+   "beat": "quietly",
+   "text": "'I don't know what's happening to you,' she says quietly. 'But I know how this ends if you run.'"
+  },
+  {
+   "beat": "news",
+   "text": "Then the TV in the kitchen switches to the news. The city's dispatch computer has a problem. It keeps sending police cars to the same street, all by itself. Your street."
+  },
+  {
+   "beat": "agencies",
+   "text": "At four stars, it isn't one police force any more. America has almost eighteen thousand police agencies, and around seven hundred thousand officers. And on the news, a map, with a little red dot that won't stop flashing."
+  },
+  {
+   "beat": "house",
+   "text": "The dot is your house. Outside, that sound you've learned to hate. A helicopter."
+  }
+ ],
+ "science": [
+  {
+   "claim": "The US Marshals caught more than 73,000 fugitives in a year",
+   "working": "FY2023: more than 73,000 fugitives arrested",
+   "source": "US Department of Justice press release, 'U.S. Marshals Arrest More Than 73,000 Fugitives in Fiscal Year 2023'"
+  },
+  {
+   "claim": "America has almost 18,000 police agencies and around 700,000 officers",
+   "working": "2018 census: about 18,000 state and local law enforcement agencies, roughly 700,000 full-time sworn officers",
+   "source": "Bureau of Justice Statistics, Census of State and Local Law Enforcement Agencies, 2018"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

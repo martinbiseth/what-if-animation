@@ -8,4 +8,6 @@ import { internetGoneChapters } from './internet-gone';
 
 import { bankBalanceChapters } from './bank-balance';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...bankBalanceChapters];
+import { gtaWantedLevelChapters } from './gta-wanted-level';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...bankBalanceChapters, ...gtaWantedLevelChapters];

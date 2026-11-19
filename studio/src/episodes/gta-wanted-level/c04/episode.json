@@ -1,0 +1,92 @@
+{
+ "id": "GtaWantedLevelC04",
+ "slug": "gta-wanted-level/c04",
+ "chapter": "The catch",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "dare",
+   "text": "On Friday, Mo has a plan. 'Three stars. Just to see.' At the subway station, you hop over the ticket gate. The third star snaps on. And then you do what you have learned to do. You run, and you hide."
+  },
+  {
+   "beat": "count",
+   "text": "You crouch behind the dumpsters at the back of the station, and you start counting. Twenty-eight seconds, your record. Twenty-nine. Thirty. The stars don't even flash."
+  },
+  {
+   "beat": "turn",
+   "text": "In the game, this is where you wait it out. In real life, this is where it stops being a game."
+  },
+  {
+   "beat": "helicopter",
+   "text": "First, the helicopter. A police helicopter can cruise at about a hundred and fifty miles an hour, faster than anything on the road below. And it doesn't need to see you. Its thermal camera sees heat."
+  },
+  {
+   "beat": "boston",
+   "text": "In 2013, a police helicopter found a man hiding under a cover in a boat, at night, from the heat of his body alone. Your hiding place behind the dumpsters glows like a light bulb."
+  },
+  {
+   "beat": "cameras",
+   "text": "Second, the cameras. One company alone has put more than a hundred thousand license plate cameras on American streets. Every car you get into leaves a trail. And the city's own cameras, on lampposts and in every station, already have your hoodie, your face, and exactly which way you ran."
+  },
+  {
+   "beat": "warrant",
+   "text": "Third, the stars don't fade. In real life, a wanted person stays wanted. In most US states, an arrest warrant has no expiry date. It doesn't flash and disappear after thirty seconds. It waits. For years."
+  },
+  {
+   "beat": "running",
+   "text": "And here is the part the game never tells you. In every US state, running from the police is a crime of its own. You jumped a ticket gate, something you could have paid a fine for. Running is what made it serious."
+  },
+  {
+   "beat": "home",
+   "text": "That night, for the first time, you get home, and the three stars are still there."
+  },
+  {
+   "beat": "mum asks",
+   "text": "Mum can't see them. She just asks why there was a helicopter over the subway station all afternoon. You say you don't know. Ellie says helicopters are cool."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Police helicopters cruise at about 150 mph",
+   "working": "Airbus H125 (AS350), one of the most common US police helicopters: fast cruise 245 km/h = 152 mph",
+   "source": "Airbus H125 technical data"
+  },
+  {
+   "claim": "In 2013 a police helicopter's thermal camera found a suspect hiding under a boat cover at night",
+   "working": "Massachusetts State Police helicopter FLIR located the Boston Marathon bombing suspect in a boat in Watertown, 19 April 2013",
+   "source": "Popular Science, 'How It Works: The Thermal Camera That Found The Boston Bomber', 2013"
+  },
+  {
+   "claim": "One company has more than 100,000 license plate cameras on US streets",
+   "working": "Pew Research mapped more than 100,000 Flock Safety license plate cameras across the US",
+   "source": "Pew Research Center, 'What we know and don't know about Flock's license plate cameras', Nov 2026"
+  },
+  {
+   "claim": "In most US states an arrest warrant has no expiry date",
+   "working": "Arrest warrants generally remain active until served or recalled by the court",
+   "source": "State criminal procedure rules; e.g. FindLaw, 'Do arrest warrants expire?'"
+  },
+  {
+   "claim": "Running from the police is a crime of its own in every US state",
+   "working": "Every state has a fleeing/eluding or resisting statute",
+   "source": "State statutes (fleeing and eluding a police officer)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

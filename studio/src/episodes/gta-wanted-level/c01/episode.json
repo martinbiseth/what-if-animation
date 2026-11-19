@@ -1,0 +1,58 @@
+{
+ "id": "GtaWantedLevelC01",
+ "slug": "gta-wanted-level/c01",
+ "chapter": "Cold open",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "red light",
+   "text": "You cross the road while the little man is still red. Ding. A gold star lights up above your head. Ten seconds later, a police bike turns the corner."
+  },
+  {
+   "beat": "run",
+   "text": "So you run. Two stars. Sirens, from three directions at once."
+  },
+  {
+   "beat": "helicopter",
+   "text": "You hide behind the skate park. Three stars. A helicopter rises over the rooftops, and its searchlight finds you straight away."
+  },
+  {
+   "beat": "roadblocks",
+   "text": "Four stars. Roadblocks on every bridge out of town. Your face on every screen in the mall."
+  },
+  {
+   "beat": "food court",
+   "text": "A man in the food court looks up from his phone, at the screen, then at you. Then back at the screen. Then he slowly puts his burger down."
+  },
+  {
+   "beat": "five",
+   "text": "And then the fifth star lights up. Every police officer in the city now has one job today. You. All because you crossed on red."
+  },
+  {
+   "beat": "question",
+   "text": "What if you got a five-star wanted level in real life?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

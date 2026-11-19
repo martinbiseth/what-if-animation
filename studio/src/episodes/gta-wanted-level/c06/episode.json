@@ -1,0 +1,70 @@
+{
+ "id": "GtaWantedLevelC06",
+ "slug": "gta-wanted-level/c06",
+ "chapter": "The choice",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "ellie",
+   "text": "That's when Ellie comes downstairs, holding a chocolate bar from the corner store. She forgot to pay. She's seven."
+  },
+  {
+   "beat": "her star",
+   "text": "And above her head, very faint at first, one star begins to fill in."
+  },
+  {
+   "beat": "am i",
+   "text": "Ellie can't see it. But she can see your face. 'Am I in trouble?'"
+  },
+  {
+   "beat": "spreading",
+   "text": "You understand two things at once. The stars aren't only yours any more. They spread to the people standing closest to you. And outside, there are four police cars and a helicopter."
+  },
+  {
+   "beat": "mum",
+   "text": "Mum looks out of the window at the flashing lights, then at you. 'What did you do?' And for the first time, you tell her the truth. All of it."
+  },
+  {
+   "beat": "mo",
+   "text": "Your phone buzzes. It's Mo. 'Run. Out the back, through the gardens. Hide long enough and they fade. You know that.'"
+  },
+  {
+   "beat": "know",
+   "text": "But you know something else now. Running is what made it worse. Every single time."
+  },
+  {
+   "beat": "reyes",
+   "text": "Reyes is watching you. 'It's your choice,' she says. 'Not mine.'"
+  },
+  {
+   "beat": "choice",
+   "text": "So you take Ellie's hand, and her chocolate bar, and you walk her back to the corner store, and you pay for it. Her star flickers, and goes out."
+  },
+  {
+   "beat": "street",
+   "text": "The whole street is lit up blue and red. Neighbours at every window. An officer with a megaphone, calm and slow. 'Nobody is in trouble yet. Let's keep it that way.'"
+  },
+  {
+   "beat": "walk out",
+   "text": "Then you walk back out into the street, slowly, hands where everyone can see them, towards the lights. And one by one, your stars go out."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

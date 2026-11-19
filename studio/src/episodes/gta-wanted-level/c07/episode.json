@@ -1,0 +1,50 @@
+{
+ "id": "GtaWantedLevelC07",
+ "slug": "gta-wanted-level/c07",
+ "chapter": "Six stars",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "station",
+   "text": "At the station, there's no cell. There's a desk, a form, and a fine for the ticket gate that you'll be paying off with your pocket money for a very long time. Mum is not happy."
+  },
+  {
+   "beat": "photo",
+   "text": "Reyes walks you to the door. 'One more thing,' she says, and opens the folder. A photo from a traffic camera, on the other side of the country. A man on a highway bridge. And above his head, very small, six stars."
+  },
+  {
+   "beat": "six",
+   "text": "'The game only goes up to five,' you say. 'I know,' says Reyes. 'That's why I need your help.'"
+  },
+  {
+   "beat": "mo bike",
+   "text": "Outside, Mo is waiting on his bike with the notebook. He has already written SIX on a new page, and underlined it twice. 'So,' he says. 'Is that bad?'"
+  },
+  {
+   "beat": "real",
+   "text": "Is any of this real? The stars, no. But the helicopters, the cameras and the warrants that never run out, those are real. And in real life, running always makes it worse."
+  },
+  {
+   "beat": "comment",
+   "text": "So what would you have done? Run, or walk out? Tell me in the comments."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

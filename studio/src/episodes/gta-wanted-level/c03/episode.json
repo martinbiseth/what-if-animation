@@ -1,0 +1,70 @@
+{
+ "id": "GtaWantedLevelC03",
+ "slug": "gta-wanted-level/c03",
+ "chapter": "The fun part",
+ "topic": "What if you got a five-star wanted level in real life?",
+ "script": [
+  {
+   "beat": "wrapper",
+   "text": "At first, it's a game, and you're very good at it. On Wednesday, you drop a candy wrapper outside the bakery. One star. Somewhere, a radio crackles."
+  },
+  {
+   "beat": "bike cop",
+   "text": "Ninety seconds later, an officer on a bicycle comes round the corner, looking left, looking right. You step behind a bus shelter, and you count. The star flashes, then it's gone. The officer shrugs and rides away."
+  },
+  {
+   "beat": "bin",
+   "text": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay,' he says. 'What just happened?'"
+  },
+  {
+   "beat": "grass",
+   "text": "So you show him. You walk on the grass, right next to the sign that says Keep Off. One star. And there's the officer again, right on time, like a bus. Mo nearly falls over."
+  },
+  {
+   "beat": "dale",
+   "text": "It's always the same officer. Officer Dale. He has a moustache, and a bicycle bell he rings when he's annoyed. By the third time, he just sighs and waves."
+  },
+  {
+   "beat": "mo tries",
+   "text": "Mo wants a go too. He drops a wrapper, walks on the grass, even stands in the middle of the road until a lady with a dog tells him off. Nothing. No stars. It only works on you."
+  },
+  {
+   "beat": "notebook",
+   "text": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars.'"
+  },
+  {
+   "beat": "car",
+   "text": "Two stars means a patrol car. Real lights, a real siren, and a real officer who looks very confused about why he has been sent to a parking lot because of a skateboard."
+  },
+  {
+   "beat": "laundromat",
+   "text": "You duck into the laundromat and sit between two old ladies reading magazines. The stars flash, and fade. The car drives away."
+  },
+  {
+   "beat": "practice",
+   "text": "On the way home, you practise. One star, hide, count, fade. One star, hide, count, fade. You're getting fast. Your record is twenty-eight seconds."
+  },
+  {
+   "beat": "best thing",
+   "text": "'This is the best thing that has ever happened to anyone,' says Mo. And for one more day, you believe him."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}
