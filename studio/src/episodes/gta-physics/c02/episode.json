@@ -233,5 +233,144 @@
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "title_boom",
+    0.2
+   ],
+   [
+    "S2+0",
+    "land",
+    0.4
+   ],
+   [
+    "S2+2",
+    "ding",
+    0.45
+   ],
+   [
+    "S5+0",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S6+0",
+    "land",
+    0.35
+   ],
+   [
+    "S7+0",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S8+20",
+    "sparkle",
+    0.2
+   ],
+   [
+    "S9+0",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S10+0",
+    "power_down",
+    0.15
+   ],
+   [
+    "S11+0",
+    "paste_pop",
+    0.35
+   ],
+   [
+    "S12+0",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S13+10",
+    "gulp",
+    0.35
+   ],
+   [
+    "S14+0",
+    "class_murmur",
+    0.1,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.18
+   ],
+   [
+    "S17+0",
+    "pop",
+    0.25
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

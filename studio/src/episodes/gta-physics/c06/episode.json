@@ -322,5 +322,170 @@
    "at": "Zero"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crack": [
+    "glass cracking sharply, the crack spreading across a pane",
+    1.1
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.15
+   ],
+   [
+    "S3+0",
+    "scratch",
+    0.3
+   ],
+   [
+    "S8+0",
+    "crack",
+    0.4
+   ],
+   [
+    "S9+0",
+    "ding",
+    0.2
+   ],
+   [
+    "S10+0",
+    "drone_hit",
+    0.15
+   ],
+   [
+    "S11+0",
+    "step",
+    0.3
+   ],
+   [
+    "S12+0",
+    "select_draw",
+    0.25
+   ],
+   [
+    "S13+10",
+    "pop",
+    0.3
+   ],
+   [
+    "S14+0",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S15+0",
+    "whoosh",
+    0.35
+   ],
+   [
+    "S16+0",
+    "whoosh",
+    0.35
+   ],
+   [
+    "S16+14",
+    "land",
+    0.35
+   ],
+   [
+    "S17+0",
+    "fall_whoosh",
+    0.35
+   ],
+   [
+    "S17+20",
+    "land",
+    0.45
+   ],
+   [
+    "S18+0",
+    "laugh",
+    0.12
+   ],
+   [
+    "S19+0",
+    "heartbeat",
+    0.25
+   ],
+   [
+    "S20+4",
+    "beep",
+    0.35
+   ],
+   [
+    "S20+12",
+    "drone_hit",
+    0.2
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S3"
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

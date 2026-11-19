@@ -283,5 +283,143 @@
    "at": "But"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "car_idle": [
+    "a car engine idling outside a house, low steady rumble",
+    4.0
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.15
+   ],
+   [
+    "S2+4",
+    "select_draw",
+    0.25
+   ],
+   [
+    "S21+0",
+    "power_down",
+    0.2
+   ],
+   [
+    "S5+20",
+    "gulp",
+    0.35
+   ],
+   [
+    "S6+0",
+    "car_idle",
+    0.12,
+    "onset",
+    "S7"
+   ],
+   [
+    "S7+0",
+    "step",
+    0.3
+   ],
+   [
+    "S8+20",
+    "select_draw",
+    0.25
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S11+0",
+    "counter_tick",
+    0.15
+   ],
+   [
+    "S13+20",
+    "power_down",
+    0.25
+   ],
+   [
+    "S14+0",
+    "drone_hit",
+    0.15
+   ],
+   [
+    "S17+6",
+    "paper",
+    0.35
+   ],
+   [
+    "S18+0",
+    "heartbeat",
+    0.2
+   ],
+   [
+    "S20+20",
+    "switch_off",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

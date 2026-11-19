@@ -344,5 +344,215 @@
    "at": "And"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "catch": [
+    "a hand catching a ceramic mug mid-air, soft slap and thud",
+    0.5
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "kids_cheer": [
+    "a group of children cheering and clapping outdoors",
+    2.0
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "laugh": [
+    "a small classroom of kids bursting out laughing",
+    1.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.15
+   ],
+   [
+    "S2+0",
+    "whoosh",
+    0.3
+   ],
+   [
+    "S3+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "S4+6",
+    "beep",
+    0.2
+   ],
+   [
+    "S5+6",
+    "catch",
+    0.4
+   ],
+   [
+    "S6+0",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S7+10",
+    "whoosh",
+    0.3
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S9+0",
+    "shutter",
+    0.3
+   ],
+   [
+    "S10+0",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S11+30",
+    "land",
+    0.4
+   ],
+   [
+    "S12+0",
+    "kids_cheer",
+    0.2
+   ],
+   [
+    "S13+0",
+    "thud",
+    0.35
+   ],
+   [
+    "S14+0",
+    "buzzer",
+    0.2
+   ],
+   [
+    "S15+0",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S16+0",
+    "laugh",
+    0.12
+   ],
+   [
+    "S17+0",
+    "scratch",
+    0.3
+   ],
+   [
+    "S19+10",
+    "thud",
+    0.3
+   ],
+   [
+    "S20+8",
+    "beep",
+    0.3
+   ],
+   [
+    "S21+0",
+    "power_down",
+    0.15
+   ],
+   [
+    "S22+0",
+    "paste_pop",
+    0.35
+   ],
+   [
+    "S23+0",
+    "gasp",
+    0.2
+   ],
+   [
+    "S25+10",
+    "glitch",
+    0.35
+   ],
+   [
+    "S25+10",
+    "switch_off",
+    0.35
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }
