@@ -53,19 +53,207 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 6"
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
+   "key": 50,
+   "note": "Ellie and the chocolate bar"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
    "key": 30,
-   "note": "placeholder card: The choice"
+   "note": "she forgot to pay"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 50,
+   "note": "a star fills in over Ellie"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 50,
+   "note": "am I in trouble?"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 30,
+   "note": "two things at once"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
+   "key": 40,
+   "note": "they spread"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "note": "four cars and a helicopter"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 50,
+   "note": "what did you do?"
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "key": 50,
+   "note": "you tell her the truth"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 80,
+   "note": "Mo: run"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 30,
+   "note": "something else now"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 30,
+   "note": "running made it worse"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 40,
+   "note": "your choice"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 80,
+   "note": "you walk Ellie to the shop"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "note": "her star goes out"
+  },
+  {
+   "id": "S17W",
+   "size": "wide",
+   "key": 60,
+   "note": "the street lit up"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 80,
+   "note": "the megaphone"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 80,
+   "note": "hands where they can see them"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 30,
+   "note": "your stars go out"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "ellie"
+  },
+  {
+   "shot": "S3",
+   "at": "she"
+  },
+  {
+   "shot": "S4",
+   "at": "and"
+  },
+  {
+   "shot": "S5",
+   "at": "ellie"
+  },
+  {
+   "shot": "S6",
+   "at": "you"
+  },
+  {
+   "shot": "S7",
+   "at": "they"
+  },
+  {
+   "shot": "S8",
+   "at": "and"
+  },
+  {
+   "shot": "S9",
+   "at": "mum"
+  },
+  {
+   "shot": "S10",
+   "at": "and"
+  },
+  {
+   "shot": "S11",
+   "at": "your"
+  },
+  {
+   "shot": "S12",
+   "at": "but"
+  },
+  {
+   "shot": "S13",
+   "at": "running"
+  },
+  {
+   "shot": "S14",
+   "at": "reyes"
+  },
+  {
+   "shot": "S15",
+   "at": "so"
+  },
+  {
+   "shot": "S16",
+   "at": "and#3"
+  },
+  {
+   "shot": "S17W",
+   "at": "The"
+  },
+  {
+   "shot": "S17",
+   "at": "An"
+  },
+  {
+   "shot": "S18",
+   "at": "then"
+  },
+  {
+   "shot": "S19",
+   "at": "your"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU GOT A 5-STAR",

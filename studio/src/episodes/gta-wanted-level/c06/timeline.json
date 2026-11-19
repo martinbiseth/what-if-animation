@@ -1,27 +1,350 @@
 {
  "slug": "gta-wanted-level/c06",
- "title": "The choice",
+ "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 90,
+ "total": 2385,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 24,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 24,
+   "line": "That's when"
+  },
+  {
+   "shot": "S2",
+   "a": 24,
+   "b": 144,
+   "t0": 0,
+   "t1": 120,
+   "line": "Ellie comes downstairs, holding a chocolate bar from the corner store."
+  },
+  {
+   "shot": "S3",
+   "a": 144,
+   "b": 209,
+   "t0": 0,
+   "t1": 65,
+   "line": "She forgot to pay. She's seven."
+  },
+  {
+   "shot": "S4",
+   "a": 209,
+   "b": 334,
+   "t0": 0,
+   "t1": 125,
+   "line": "And above her head, very faint at first, one star begins to fill in."
+  },
+  {
+   "shot": "S5",
+   "a": 334,
+   "b": 465,
+   "t0": 0,
+   "t1": 131,
+   "line": "Ellie can't see it. But she can see your face. 'Am I in trouble'?"
+  },
+  {
+   "shot": "S6",
+   "a": 465,
+   "b": 594,
+   "t0": 0,
+   "t1": 129,
+   "line": "You understand two things at once. The stars aren't only yours any more."
+  },
+  {
+   "shot": "S7",
+   "a": 594,
+   "b": 681,
+   "t0": 0,
+   "t1": 87,
+   "line": "They spread to the people standing closest to you."
+  },
+  {
+   "shot": "S8",
+   "a": 681,
+   "b": 782,
+   "t0": 0,
+   "t1": 101,
+   "line": "And outside, there are four police cars and a helicopter."
+  },
+  {
+   "shot": "S9",
+   "a": 782,
+   "b": 937,
+   "t0": 0,
+   "t1": 155,
+   "line": "Mum looks out of the window at the flashing lights, then at you. 'What did you do'?"
+  },
+  {
+   "shot": "S10",
+   "a": 937,
+   "b": 1053,
+   "t0": 0,
+   "t1": 116,
+   "line": "And for the first time, you tell her the truth. All of it."
+  },
+  {
+   "shot": "S11",
+   "a": 1053,
+   "b": 1285,
+   "t0": 0,
+   "t1": 232,
+   "line": "Your phone buzzes. It's Mo. 'Run. Out the back, through the gardens. Hide long enough and they fade. You know that'."
+  },
+  {
+   "shot": "S12",
+   "a": 1285,
+   "b": 1344,
+   "t0": 0,
+   "t1": 59,
+   "line": "But you know something else now."
+  },
+  {
+   "shot": "S13",
+   "a": 1344,
+   "b": 1439,
+   "t0": 0,
+   "t1": 95,
+   "line": "Running is what made it worse. Every single time."
+  },
+  {
+   "shot": "S14",
+   "a": 1439,
+   "b": 1561,
+   "t0": 0,
+   "t1": 122,
+   "line": "Reyes is watching you. 'It's your choice', she says. 'Not mine'."
+  },
+  {
+   "shot": "S15",
+   "a": 1561,
+   "b": 1715,
+   "t0": 0,
+   "t1": 154,
+   "line": "So you take Ellie's hand, and her chocolate bar, and you walk her back to the corner store,"
+  },
+  {
+   "shot": "S16",
+   "a": 1715,
+   "b": 1820,
+   "t0": 0,
+   "t1": 105,
+   "line": "and you pay for it. Her star flickers, and goes out."
+  },
+  {
+   "shot": "S17W",
+   "a": 1820,
+   "b": 1945,
+   "t0": 0,
+   "t1": 125,
+   "line": "The whole street is lit up blue and red. Neighbours at every window."
+  },
+  {
+   "shot": "S17",
+   "a": 1945,
+   "b": 2120,
+   "t0": 0,
+   "t1": 175,
+   "line": "An officer with a megaphone, calm and slow. 'Nobody is in trouble yet. Let's keep it that way'."
+  },
+  {
+   "shot": "S18",
+   "a": 2120,
+   "b": 2328,
+   "t0": 0,
+   "t1": 208,
+   "line": "Then you walk back out into the street, slowly, hands where everyone can see them, towards the lights. And one by one,"
+  },
+  {
+   "shot": "S19",
+   "a": 2328,
+   "b": 2385,
+   "t0": 0,
+   "t1": 57,
+   "line": "your stars go out."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "card",
+   "key": 20,
+   "len": 24,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "That's when",
+   "note": "chapter 6"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "len": 120,
+   "first": 24,
+   "line": "Ellie comes downstairs, holding a chocolate bar from the corner store.",
+   "note": "Ellie and the chocolate bar"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 65,
+   "first": 144,
+   "line": "She forgot to pay. She's seven.",
+   "note": "she forgot to pay"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 50,
+   "len": 125,
+   "first": 209,
+   "line": "And above her head, very faint at first, one star begins to fill in.",
+   "note": "a star fills in over Ellie"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 50,
+   "len": 131,
+   "first": 334,
+   "line": "Ellie can't see it. But she can see your face. 'Am I in trouble'?",
+   "note": "am I in trouble?"
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "key": 30,
+   "len": 129,
+   "first": 465,
+   "line": "You understand two things at once. The stars aren't only yours any more.",
+   "note": "two things at once"
+  },
+  {
+   "id": "S7",
+   "size": "two-shot",
+   "key": 40,
+   "len": 87,
+   "first": 594,
+   "line": "They spread to the people standing closest to you.",
+   "note": "they spread"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "len": 101,
+   "first": 681,
+   "line": "And outside, there are four police cars and a helicopter.",
+   "note": "four cars and a helicopter"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 50,
+   "len": 155,
+   "first": 782,
+   "line": "Mum looks out of the window at the flashing lights, then at you. 'What did you do'?",
+   "note": "what did you do?"
+  },
+  {
+   "id": "S10",
+   "size": "two-shot",
+   "key": 50,
+   "len": 116,
+   "first": 937,
+   "line": "And for the first time, you tell her the truth. All of it.",
+   "note": "you tell her the truth"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 80,
+   "len": 232,
+   "first": 1053,
+   "line": "Your phone buzzes. It's Mo. 'Run. Out the back, through the gardens. Hide long enough and they fade. You know that'.",
+   "note": "Mo: run"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 30,
+   "len": 59,
+   "first": 1285,
+   "line": "But you know something else now.",
+   "note": "something else now"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 30,
+   "len": 95,
+   "first": 1344,
+   "line": "Running is what made it worse. Every single time.",
+   "note": "running made it worse"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 40,
+   "len": 122,
+   "first": 1439,
+   "line": "Reyes is watching you. 'It's your choice', she says. 'Not mine'.",
+   "note": "your choice"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 80,
+   "len": 154,
+   "first": 1561,
+   "line": "So you take Ellie's hand, and her chocolate bar, and you walk her back to the corner store,",
+   "note": "you walk Ellie to the shop"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "len": 105,
+   "first": 1715,
+   "line": "and you pay for it. Her star flickers, and goes out.",
+   "note": "her star goes out"
+  },
+  {
+   "id": "S17W",
+   "size": "wide",
+   "key": 60,
+   "len": 125,
+   "first": 1820,
+   "line": "The whole street is lit up blue and red. Neighbours at every window.",
+   "note": "the street lit up"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 80,
+   "len": 175,
+   "first": 1945,
+   "line": "An officer with a megaphone, calm and slow. 'Nobody is in trouble yet. Let's keep it that way'.",
+   "note": "the megaphone"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 80,
+   "len": 208,
+   "first": 2120,
+   "line": "Then you walk back out into the street, slowly, hands where everyone can see them, towards the lights. And one by one,",
+   "note": "hands where they can see them"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 30,
+   "len": 57,
+   "first": 2328,
+   "line": "your stars go out.",
+   "note": "your stars go out"
   }
  ],
  "fx": [],

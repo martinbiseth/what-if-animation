@@ -403,13 +403,13 @@ export const ChatPhone: React.FC<{ x: number; y: number; s?: number; t: number; 
       const k = backOut(clamp((t - m.at) / 7));
       if (t < m.at) return null;
       const lines = m.text.split('|');
-      const h = 30 + lines.length * 40;
-      const yy = -220 + msgs.slice(0, i).reduce((a, mm) => a + 50 + mm.text.split('|').length * 40, 0);
+      const h = 26 + lines.length * 36;
+      const yy = -220 + msgs.slice(0, i).reduce((a, mm) => a + 44 + mm.text.split('|').length * 36, 0);
       return (
-        <g key={i} transform={`translate(${m.me ? 150 : -150} ${yy}) scale(${k})`}>
-          <rect x={m.me ? -290 : 0} y={0} width={290} height={h} rx={24} fill={m.me ? '#2F7BFF' : '#FFFFFF'} stroke="#D0D0DA" strokeWidth={m.me ? 0 : 3} />
+        <g key={i} transform={`translate(${m.me ? 160 : -160} ${yy}) scale(${k})`}>
+          <rect x={m.me ? -310 : 0} y={0} width={310} height={h} rx={24} fill={m.me ? '#2F7BFF' : '#FFFFFF'} stroke="#D0D0DA" strokeWidth={m.me ? 0 : 3} />
           {lines.map((l, j) => (
-            <text key={j} x={m.me ? -270 : 20} y={46 + j * 40} fontFamily={FONT.ui} fontSize={30} fill={m.me ? '#FFFFFF' : '#14121C'}>{l}</text>
+            <text key={j} x={m.me ? -292 : 16} y={42 + j * 36} fontFamily={FONT.ui} fontSize={24} fill={m.me ? '#FFFFFF' : '#14121C'}>{l}</text>
           ))}
         </g>
       );
