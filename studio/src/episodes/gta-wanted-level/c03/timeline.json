@@ -2,174 +2,174 @@
  "slug": "gta-wanted-level/c03",
  "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 3168,
+ "total": 3146,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 102,
+   "b": 74,
    "t0": 0,
-   "t1": 102,
+   "t1": 74,
    "line": "At first, it's a game, and you're very good at it."
   },
   {
    "shot": "S2",
-   "a": 102,
-   "b": 229,
+   "a": 74,
+   "b": 195,
    "t0": 0,
-   "t1": 127,
+   "t1": 121,
    "line": "On Wednesday, you drop a candy wrapper outside the bakery. One star."
   },
   {
    "shot": "S3",
-   "a": 229,
-   "b": 284,
+   "a": 195,
+   "b": 262,
    "t0": 0,
-   "t1": 55,
+   "t1": 67,
    "line": "Somewhere, a radio crackles."
   },
   {
    "shot": "S4",
-   "a": 284,
-   "b": 455,
+   "a": 262,
+   "b": 423,
    "t0": 0,
-   "t1": 171,
+   "t1": 161,
    "line": "Ninety seconds later, an officer on a bicycle comes round the corner, looking left, looking right."
   },
   {
    "shot": "S5",
-   "a": 455,
-   "b": 603,
+   "a": 423,
+   "b": 560,
    "t0": 0,
-   "t1": 148,
+   "t1": 137,
    "line": "You step behind a bus shelter, and you count. The star flashes, then it's gone."
   },
   {
    "shot": "S6",
-   "a": 603,
-   "b": 665,
+   "a": 560,
+   "b": 627,
    "t0": 0,
-   "t1": 62,
+   "t1": 67,
    "line": "The officer shrugs and rides away."
   },
   {
    "shot": "S7",
-   "a": 665,
-   "b": 878,
+   "a": 627,
+   "b": 820,
    "t0": 0,
-   "t1": 213,
-   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay', he says. 'What just happened'?"
+   "t1": 193,
+   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay, ' he says. 'What just happened? '"
   },
   {
    "shot": "S8",
-   "a": 878,
-   "b": 1055,
+   "a": 820,
+   "b": 986,
    "t0": 0,
-   "t1": 177,
+   "t1": 166,
    "line": "So you show him. You walk on the grass, right next to the sign that says Keep Off. One star."
   },
   {
    "shot": "S9",
-   "a": 1055,
-   "b": 1203,
+   "a": 986,
+   "b": 1125,
    "t0": 0,
-   "t1": 148,
+   "t1": 139,
    "line": "And there's the officer again, right on time, like a bus. Mo nearly falls over."
   },
   {
    "shot": "S10",
-   "a": 1203,
-   "b": 1402,
+   "a": 1125,
+   "b": 1332,
    "t0": 0,
-   "t1": 199,
+   "t1": 207,
    "line": "It's always the same officer. Officer Dale. He has a moustache, and a bicycle bell he rings when he's annoyed."
   },
   {
    "shot": "S10B",
-   "a": 1402,
-   "b": 1484,
+   "a": 1332,
+   "b": 1410,
    "t0": 0,
-   "t1": 82,
+   "t1": 78,
    "line": "By the third time, he just sighs and waves."
   },
   {
    "shot": "S11",
-   "a": 1484,
-   "b": 1726,
+   "a": 1410,
+   "b": 1631,
    "t0": 0,
-   "t1": 242,
+   "t1": 221,
    "line": "Mo wants a go too. He drops a wrapper, walks on the grass, even stands in the middle of the road until a lady with a dog tells him off."
   },
   {
    "shot": "S12",
-   "a": 1726,
-   "b": 1816,
+   "a": 1631,
+   "b": 1727,
    "t0": 0,
-   "t1": 90,
+   "t1": 96,
    "line": "Nothing. No stars. It only works on you."
   },
   {
    "shot": "S13",
-   "a": 1816,
-   "b": 2155,
+   "a": 1727,
+   "b": 2093,
    "t0": 0,
-   "t1": 339,
-   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars'."
+   "t1": 366,
+   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars. '"
   },
   {
    "shot": "S14",
-   "a": 2155,
-   "b": 2279,
+   "a": 2093,
+   "b": 2238,
    "t0": 0,
-   "t1": 124,
+   "t1": 145,
    "line": "Two stars means a patrol car. Real lights, a real siren, and a real"
   },
   {
    "shot": "S14B",
-   "a": 2279,
-   "b": 2444,
+   "a": 2238,
+   "b": 2390,
    "t0": 0,
-   "t1": 165,
+   "t1": 152,
    "line": "officer who looks very confused about why he has been sent to a parking lot because of a skateboard."
   },
   {
    "shot": "S15",
-   "a": 2444,
-   "b": 2669,
+   "a": 2390,
+   "b": 2619,
    "t0": 0,
-   "t1": 225,
+   "t1": 229,
    "line": "You duck into the laundromat and sit between two old ladies reading magazines. The stars flash, and fade. The car drives away."
   },
   {
    "shot": "S16",
-   "a": 2669,
-   "b": 2897,
+   "a": 2619,
+   "b": 2891,
    "t0": 0,
-   "t1": 228,
+   "t1": 272,
    "line": "On the way home, you practise. One star, hide, count, fade. One star, hide, count, fade. You're getting fast."
   },
   {
    "shot": "S17",
-   "a": 2897,
-   "b": 2959,
+   "a": 2891,
+   "b": 2944,
    "t0": 0,
-   "t1": 62,
-   "line": "Your record is twenty-eight seconds."
+   "t1": 53,
+   "line": "Your record is twenty- eight seconds."
   },
   {
    "shot": "S18",
-   "a": 2959,
-   "b": 3075,
+   "a": 2944,
+   "b": 3059,
    "t0": 0,
-   "t1": 116,
-   "line": "'This is the best thing that has ever happened to anyone', says Mo."
+   "t1": 115,
+   "line": "'This is the best thing that has ever happened to anyone, ' says Mo."
   },
   {
    "shot": "S19",
-   "a": 3075,
-   "b": 3168,
+   "a": 3059,
+   "b": 3146,
    "t0": 0,
-   "t1": 93,
+   "t1": 87,
    "line": "And for one more day, you believe him."
   }
  ],
@@ -178,7 +178,7 @@
    "id": "S1",
    "size": "card",
    "key": 20,
-   "len": 102,
+   "len": 74,
    "first": 0,
    "line": "At first, it's a game, and you're very good at it.",
    "note": "chapter 3"
@@ -187,8 +187,8 @@
    "id": "S2",
    "size": "medium",
    "key": 40,
-   "len": 127,
-   "first": 102,
+   "len": 121,
+   "first": 74,
    "line": "On Wednesday, you drop a candy wrapper outside the bakery. One star.",
    "note": "the wrapper: one star"
   },
@@ -196,8 +196,8 @@
    "id": "S3",
    "size": "insert",
    "key": 20,
-   "len": 55,
-   "first": 229,
+   "len": 67,
+   "first": 195,
    "line": "Somewhere, a radio crackles.",
    "note": "a radio crackles"
   },
@@ -205,8 +205,8 @@
    "id": "S4",
    "size": "wide",
    "key": 60,
-   "len": 171,
-   "first": 284,
+   "len": 161,
+   "first": 262,
    "line": "Ninety seconds later, an officer on a bicycle comes round the corner, looking left, looking right.",
    "note": "Dale on his bike"
   },
@@ -214,8 +214,8 @@
    "id": "S5",
    "size": "medium",
    "key": 60,
-   "len": 148,
-   "first": 455,
+   "len": 137,
+   "first": 423,
    "line": "You step behind a bus shelter, and you count. The star flashes, then it's gone.",
    "note": "behind the bus shelter"
   },
@@ -223,8 +223,8 @@
    "id": "S6",
    "size": "wide",
    "key": 40,
-   "len": 62,
-   "first": 603,
+   "len": 67,
+   "first": 560,
    "line": "The officer shrugs and rides away.",
    "note": "he rides away"
   },
@@ -232,17 +232,17 @@
    "id": "S7",
    "size": "medium",
    "key": 70,
-   "len": 213,
-   "first": 665,
-   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay', he says. 'What just happened'?",
+   "len": 193,
+   "first": 627,
+   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay, ' he says. 'What just happened? '",
    "note": "Mo saw it"
   },
   {
    "id": "S8",
    "size": "wide",
    "key": 60,
-   "len": 177,
-   "first": 878,
+   "len": 166,
+   "first": 820,
    "line": "So you show him. You walk on the grass, right next to the sign that says Keep Off. One star.",
    "note": "the grass: one star"
   },
@@ -250,8 +250,8 @@
    "id": "S9",
    "size": "wide",
    "key": 50,
-   "len": 148,
-   "first": 1055,
+   "len": 139,
+   "first": 986,
    "line": "And there's the officer again, right on time, like a bus. Mo nearly falls over.",
    "note": "Dale again"
   },
@@ -259,8 +259,8 @@
    "id": "S10",
    "size": "close",
    "key": 40,
-   "len": 199,
-   "first": 1203,
+   "len": 207,
+   "first": 1125,
    "line": "It's always the same officer. Officer Dale. He has a moustache, and a bicycle bell he rings when he's annoyed.",
    "note": "moustache and bell"
   },
@@ -268,8 +268,8 @@
    "id": "S10B",
    "size": "medium",
    "key": 30,
-   "len": 82,
-   "first": 1402,
+   "len": 78,
+   "first": 1332,
    "line": "By the third time, he just sighs and waves.",
    "note": "he sighs and waves"
   },
@@ -277,8 +277,8 @@
    "id": "S11",
    "size": "wide",
    "key": 70,
-   "len": 242,
-   "first": 1484,
+   "len": 221,
+   "first": 1410,
    "line": "Mo wants a go too. He drops a wrapper, walks on the grass, even stands in the middle of the road until a lady with a dog tells him off.",
    "note": "Mo tries; the lady and the dog"
   },
@@ -286,8 +286,8 @@
    "id": "S12",
    "size": "close",
    "key": 30,
-   "len": 90,
-   "first": 1726,
+   "len": 96,
+   "first": 1631,
    "line": "Nothing. No stars. It only works on you.",
    "note": "nothing for Mo"
   },
@@ -295,17 +295,17 @@
    "id": "S13",
    "size": "insert",
    "key": 200,
-   "len": 339,
-   "first": 1816,
-   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars'.",
+   "len": 366,
+   "first": 1727,
+   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars. '",
    "note": "the notebook"
   },
   {
    "id": "S14",
    "size": "wide",
    "key": 110,
-   "len": 124,
-   "first": 2155,
+   "len": 145,
+   "first": 2093,
    "line": "Two stars means a patrol car. Real lights, a real siren, and a real",
    "note": "a patrol car and a confused officer"
   },
@@ -313,8 +313,8 @@
    "id": "S14B",
    "size": "close",
    "key": 30,
-   "len": 165,
-   "first": 2279,
+   "len": 152,
+   "first": 2238,
    "line": "officer who looks very confused about why he has been sent to a parking lot because of a skateboard.",
    "note": "the confused officer"
   },
@@ -322,8 +322,8 @@
    "id": "S15",
    "size": "medium",
    "key": 60,
-   "len": 225,
-   "first": 2444,
+   "len": 229,
+   "first": 2390,
    "line": "You duck into the laundromat and sit between two old ladies reading magazines. The stars flash, and fade. The car drives away.",
    "note": "the laundromat"
   },
@@ -331,8 +331,8 @@
    "id": "S16",
    "size": "insert",
    "key": 30,
-   "len": 228,
-   "first": 2669,
+   "len": 272,
+   "first": 2619,
    "line": "On the way home, you practise. One star, hide, count, fade. One star, hide, count, fade. You're getting fast.",
    "note": "practising"
   },
@@ -340,30 +340,37 @@
    "id": "S17",
    "size": "card",
    "key": 20,
-   "len": 62,
-   "first": 2897,
-   "line": "Your record is twenty-eight seconds.",
+   "len": 53,
+   "first": 2891,
+   "line": "Your record is twenty- eight seconds.",
    "note": "28 seconds"
   },
   {
    "id": "S18",
    "size": "medium",
    "key": 40,
-   "len": 116,
-   "first": 2959,
-   "line": "'This is the best thing that has ever happened to anyone', says Mo.",
+   "len": 115,
+   "first": 2944,
+   "line": "'This is the best thing that has ever happened to anyone, ' says Mo.",
    "note": "best thing ever"
   },
   {
    "id": "S19",
    "size": "close",
    "key": 30,
-   "len": 93,
-   "first": 3075,
+   "len": 87,
+   "first": 3059,
    "line": "And for one more day, you believe him.",
    "note": "one more day"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-wanted-level/c03/voice.wav",
+  "sfx": "gta-wanted-level/c03/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5106,
+  "music": "gta-wanted-level/c03/music.wav",
+  "musicVol": 0.1007
+ }
 }

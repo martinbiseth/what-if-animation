@@ -1,265 +1,445 @@
 {
- "id": "GtaWantedLevelC05",
- "slug": "gta-wanted-level/c05",
- "chapter": "Someone notices",
- "topic": "What if you got a five-star wanted level in real life?",
- "script": [
-  {
-   "beat": "knock",
-   "text": "Saturday morning, there's a knock at the door. It isn't an officer in uniform. It's a woman in a grey coat, with a folder. Detective Reyes."
-  },
-  {
-   "beat": "kitchen",
-   "text": "She sits down at the kitchen table. Mum makes her a coffee, looking confused. Ellie stares at her badge."
-  },
-  {
-   "beat": "folder",
-   "text": "'Thirty-seven police calls in four days,' she says. 'A candy wrapper. Some grass. A library book. A skateboard. All of them for one fourteen-year-old. And every officer says the same thing. They don't know why they went. They just knew where to go.'"
-  },
-  {
-   "beat": "looks up",
-   "text": "She looks at the space above your head. For slightly too long."
-  },
-  {
-   "beat": "marshals",
-   "text": "'You're thinking of running,' she says. 'Everyone does. In just one year, one agency, the US Marshals, caught more than seventy-three thousand people who were running. Most of them thought they had hidden really well.'"
-  },
-  {
-   "beat": "quietly",
-   "text": "'I don't know what's happening to you,' she says quietly. 'But I know how this ends if you run.'"
-  },
-  {
-   "beat": "news",
-   "text": "Then the TV in the kitchen switches to the news. The city's dispatch computer has a problem. It keeps sending police cars to the same street, all by itself. Your street."
-  },
-  {
-   "beat": "agencies",
-   "text": "At four stars, it isn't one police force any more. America has almost eighteen thousand police agencies, and around seven hundred thousand officers. And on the news, a map, with a little red dot that won't stop flashing."
-  },
-  {
-   "beat": "house",
-   "text": "The dot is your house. Outside, that sound you've learned to hate. A helicopter."
+  "id": "GtaWantedLevelC05",
+  "slug": "gta-wanted-level/c05",
+  "chapter": "Someone notices",
+  "topic": "What if you got a five-star wanted level in real life?",
+  "script": [
+    {
+      "beat": "knock",
+      "text": "Saturday morning, there's a knock at the door. It isn't an officer in uniform. It's a woman in a grey coat, with a folder. Detective Reyes."
+    },
+    {
+      "beat": "kitchen",
+      "text": "She sits down at the kitchen table. Mum makes her a coffee, looking confused. Ellie stares at her badge."
+    },
+    {
+      "beat": "folder",
+      "text": "'Thirty-seven police calls in four days,' she says. 'A candy wrapper. Some grass. A library book. A skateboard. All of them for one fourteen-year-old. And every officer says the same thing. They don't know why they went. They just knew where to go.'"
+    },
+    {
+      "beat": "looks up",
+      "text": "She looks at the space above your head. For slightly too long."
+    },
+    {
+      "beat": "marshals",
+      "text": "'You're thinking of running,' she says. 'Everyone does. In just one year, one agency, the US Marshals, caught more than seventy-three thousand people who were running. Most of them thought they had hidden really well.'"
+    },
+    {
+      "beat": "quietly",
+      "text": "'I don't know what's happening to you,' she says quietly. 'But I know how this ends if you run.'"
+    },
+    {
+      "beat": "news",
+      "text": "Then the TV in the kitchen switches to the news. The city's dispatch computer has a problem. It keeps sending police cars to the same street, all by itself. Your street."
+    },
+    {
+      "beat": "agencies",
+      "text": "At four stars, it isn't one police force any more. America has almost eighteen thousand police agencies, and around seven hundred thousand officers. And on the news, a map, with a little red dot that won't stop flashing."
+    },
+    {
+      "beat": "house",
+      "text": "The dot is your house. Outside, that sound you've learned to hate. A helicopter."
+    }
+  ],
+  "science": [
+    {
+      "claim": "The US Marshals caught more than 73,000 fugitives in a year",
+      "working": "FY2023: more than 73,000 fugitives arrested",
+      "source": "US Department of Justice press release, 'U.S. Marshals Arrest More Than 73,000 Fugitives in Fiscal Year 2023'"
+    },
+    {
+      "claim": "America has almost 18,000 police agencies and around 700,000 officers",
+      "working": "2018 census: about 18,000 state and local law enforcement agencies, roughly 700,000 full-time sworn officers",
+      "source": "Bureau of Justice Statistics, Census of State and Local Law Enforcement Agencies, 2018"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 5"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 40,
+      "note": "a knock at the door"
+    },
+    {
+      "id": "S3",
+      "size": "close",
+      "key": 40,
+      "note": "grey coat, folder"
+    },
+    {
+      "id": "S4",
+      "size": "insert",
+      "key": 20,
+      "note": "the badge"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 60,
+      "note": "the kitchen table"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 120,
+      "note": "37 calls"
+    },
+    {
+      "id": "S7",
+      "size": "close",
+      "key": 80,
+      "note": "they knew where to go"
+    },
+    {
+      "id": "S8",
+      "size": "close",
+      "key": 30,
+      "note": "she looks above your head"
+    },
+    {
+      "id": "S9",
+      "size": "close",
+      "key": 30,
+      "note": "too long"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 40,
+      "note": "youre thinking of running"
+    },
+    {
+      "id": "S11",
+      "size": "card",
+      "key": 80,
+      "note": "73,000"
+    },
+    {
+      "id": "S11B",
+      "size": "close",
+      "key": 40,
+      "note": "hidden really well"
+    },
+    {
+      "id": "S12",
+      "size": "two-shot",
+      "key": 60,
+      "note": "how this ends if you run"
+    },
+    {
+      "id": "S13",
+      "size": "insert",
+      "key": 40,
+      "note": "the news"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "key": 60,
+      "note": "your street"
+    },
+    {
+      "id": "S15",
+      "size": "insert",
+      "key": 20,
+      "note": "four stars"
+    },
+    {
+      "id": "S16",
+      "size": "card",
+      "key": 80,
+      "note": "18,000 agencies"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 40,
+      "note": "the red dot"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 60,
+      "note": "your house, the helicopter"
+    },
+    {
+      "id": "S19",
+      "size": "close",
+      "key": 20,
+      "note": "a helicopter"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "there's"
+    },
+    {
+      "shot": "S3",
+      "at": "it"
+    },
+    {
+      "shot": "S4",
+      "at": "detective"
+    },
+    {
+      "shot": "S5",
+      "at": "she"
+    },
+    {
+      "shot": "S6",
+      "at": "thirtyseven"
+    },
+    {
+      "shot": "S7",
+      "at": "all"
+    },
+    {
+      "shot": "S8",
+      "at": "she"
+    },
+    {
+      "shot": "S9",
+      "at": "for"
+    },
+    {
+      "shot": "S10",
+      "at": "you're"
+    },
+    {
+      "shot": "S11",
+      "at": "in"
+    },
+    {
+      "shot": "S11B",
+      "at": "Most"
+    },
+    {
+      "shot": "S12",
+      "at": "i"
+    },
+    {
+      "shot": "S13",
+      "at": "then"
+    },
+    {
+      "shot": "S14",
+      "at": "it"
+    },
+    {
+      "shot": "S15",
+      "at": "at"
+    },
+    {
+      "shot": "S16",
+      "at": "america"
+    },
+    {
+      "shot": "S17",
+      "at": "and#2"
+    },
+    {
+      "shot": "S18",
+      "at": "the#2"
+    },
+    {
+      "shot": "S19",
+      "at": "a"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU GOT A 5-STAR",
+    "WANTED LEVEL IN REAL LIFE?"
+  ],
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "flash_old": [
+        "a vintage camera flash going off, a sharp pop and a quick electric whine",
+        1.0
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "heli_syn": [
+        "procedural: a police helicopter hovering overhead, rotor thump and turbine",
+        4.0
+      ],
+      "knock": [
+        "three firm knocks on an old wooden door",
+        1.2
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "radio_syn": [
+        "procedural: a short police radio crackle with squelch",
+        1.2
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S2+0",
+        "knock",
+        0.6
+      ],
+      [
+        "S4+2",
+        "flash_old",
+        0.25
+      ],
+      [
+        "S5+0",
+        "room_tone",
+        0.45,
+        "onset",
+        "S13"
+      ],
+      [
+        "S5+40",
+        "clink",
+        0.3
+      ],
+      [
+        "S6+8",
+        "paper",
+        0.35
+      ],
+      [
+        "S8+10",
+        "heartbeat",
+        0.35,
+        "onset",
+        "S10"
+      ],
+      [
+        "S9+10",
+        "gulp",
+        0.4
+      ],
+      [
+        "S11+6",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "S13+0",
+        "glitch",
+        0.3
+      ],
+      [
+        "S14+0",
+        "radio_syn",
+        0.4
+      ],
+      [
+        "S15+6",
+        "ding",
+        0.6
+      ],
+      [
+        "S15+0",
+        "siren_syn",
+        0.35,
+        "onset",
+        "S16"
+      ],
+      [
+        "S16+6",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "S17+0",
+        "beep",
+        0.3
+      ],
+      [
+        "S18+0",
+        "heli_syn",
+        0.55,
+        "onset",
+        "S19"
+      ],
+      [
+        "S18+0",
+        "siren_syn",
+        0.25,
+        "onset",
+        "S19"
+      ],
+      [
+        "S19+0",
+        "heli_syn",
+        0.5
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "from": "S5",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": 1.5,
+      "music_lu": -11
+    }
   }
- ],
- "science": [
-  {
-   "claim": "The US Marshals caught more than 73,000 fugitives in a year",
-   "working": "FY2023: more than 73,000 fugitives arrested",
-   "source": "US Department of Justice press release, 'U.S. Marshals Arrest More Than 73,000 Fugitives in Fiscal Year 2023'"
-  },
-  {
-   "claim": "America has almost 18,000 police agencies and around 700,000 officers",
-   "working": "2018 census: about 18,000 state and local law enforcement agencies, roughly 700,000 full-time sworn officers",
-   "source": "Bureau of Justice Statistics, Census of State and Local Law Enforcement Agencies, 2018"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 5"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "key": 40,
-   "note": "a knock at the door"
-  },
-  {
-   "id": "S3",
-   "size": "close",
-   "key": 40,
-   "note": "grey coat, folder"
-  },
-  {
-   "id": "S4",
-   "size": "insert",
-   "key": 20,
-   "note": "the badge"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "key": 60,
-   "note": "the kitchen table"
-  },
-  {
-   "id": "S6",
-   "size": "insert",
-   "key": 120,
-   "note": "37 calls"
-  },
-  {
-   "id": "S7",
-   "size": "close",
-   "key": 80,
-   "note": "they knew where to go"
-  },
-  {
-   "id": "S8",
-   "size": "close",
-   "key": 30,
-   "note": "she looks above your head"
-  },
-  {
-   "id": "S9",
-   "size": "close",
-   "key": 30,
-   "note": "too long"
-  },
-  {
-   "id": "S10",
-   "size": "medium",
-   "key": 40,
-   "note": "youre thinking of running"
-  },
-  {
-   "id": "S11",
-   "size": "card",
-   "key": 80,
-   "note": "73,000"
-  },
-  {
-   "id": "S11B",
-   "size": "close",
-   "key": 40,
-   "note": "hidden really well"
-  },
-  {
-   "id": "S12",
-   "size": "two-shot",
-   "key": 60,
-   "note": "how this ends if you run"
-  },
-  {
-   "id": "S13",
-   "size": "insert",
-   "key": 40,
-   "note": "the news"
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "key": 60,
-   "note": "your street"
-  },
-  {
-   "id": "S15",
-   "size": "insert",
-   "key": 20,
-   "note": "four stars"
-  },
-  {
-   "id": "S16",
-   "size": "card",
-   "key": 80,
-   "note": "18,000 agencies"
-  },
-  {
-   "id": "S17",
-   "size": "insert",
-   "key": 40,
-   "note": "the red dot"
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "key": 60,
-   "note": "your house, the helicopter"
-  },
-  {
-   "id": "S19",
-   "size": "close",
-   "key": 20,
-   "note": "a helicopter"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "there's"
-  },
-  {
-   "shot": "S3",
-   "at": "it"
-  },
-  {
-   "shot": "S4",
-   "at": "detective"
-  },
-  {
-   "shot": "S5",
-   "at": "she"
-  },
-  {
-   "shot": "S6",
-   "at": "thirtyseven"
-  },
-  {
-   "shot": "S7",
-   "at": "all"
-  },
-  {
-   "shot": "S8",
-   "at": "she"
-  },
-  {
-   "shot": "S9",
-   "at": "for"
-  },
-  {
-   "shot": "S10",
-   "at": "you're"
-  },
-  {
-   "shot": "S11",
-   "at": "in"
-  },
-  {
-   "shot": "S11B",
-   "at": "Most"
-  },
-  {
-   "shot": "S12",
-   "at": "i"
-  },
-  {
-   "shot": "S13",
-   "at": "then"
-  },
-  {
-   "shot": "S14",
-   "at": "it"
-  },
-  {
-   "shot": "S15",
-   "at": "at"
-  },
-  {
-   "shot": "S16",
-   "at": "america"
-  },
-  {
-   "shot": "S17",
-   "at": "and#2"
-  },
-  {
-   "shot": "S18",
-   "at": "the#2"
-  },
-  {
-   "shot": "S19",
-   "at": "a"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU GOT A 5-STAR",
-  "WANTED LEVEL IN REAL LIFE?"
- ]
 }

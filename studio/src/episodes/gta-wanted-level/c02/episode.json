@@ -1,196 +1,315 @@
 {
- "id": "GtaWantedLevelC02",
- "slug": "gta-wanted-level/c02",
- "chapter": "The rules",
- "topic": "What if you got a five-star wanted level in real life?",
- "script": [
-  {
-   "beat": "wake",
-   "text": "It starts on a Tuesday. You wake up, and something is floating above your head. Five empty stars, in a little row, like a crown."
-  },
-  {
-   "beat": "nobody sees",
-   "text": "Mum doesn't see them. Your little sister Ellie doesn't see them. At school, your best friend Mo walks straight past them."
-  },
-  {
-   "beat": "mirror",
-   "text": "At breakfast, you wave your hand through them. Nothing. You check the bathroom mirror. Still there, very faint, like stickers on the glass."
-  },
-  {
-   "beat": "rule one",
-   "text": "By lunch, you've worked out the rules. Break any rule, even a tiny one, and a star fills in."
-  },
-  {
-   "beat": "crack",
-   "text": "You test it on the way home. You step on a crack in the sidewalk. Nothing. That's not a rule. Good to know."
-  },
-  {
-   "beat": "rule two",
-   "text": "If a police officer sees you while you have a star, they come for you, exactly like in a game. And if you run, you get another star."
-  },
-  {
-   "beat": "rule three",
-   "text": "One more thing. If you stay out of sight long enough, the stars flash, and fade away. At least, that's how it works at the start."
+  "id": "GtaWantedLevelC02",
+  "slug": "gta-wanted-level/c02",
+  "chapter": "The rules",
+  "topic": "What if you got a five-star wanted level in real life?",
+  "script": [
+    {
+      "beat": "wake",
+      "text": "It starts on a Tuesday. You wake up, and something is floating above your head. Five empty stars, in a little row, like a crown."
+    },
+    {
+      "beat": "nobody sees",
+      "text": "Mum doesn't see them. Your little sister Ellie doesn't see them. At school, your best friend Mo walks straight past them."
+    },
+    {
+      "beat": "mirror",
+      "text": "At breakfast, you wave your hand through them. Nothing. You check the bathroom mirror. Still there, very faint, like stickers on the glass."
+    },
+    {
+      "beat": "rule one",
+      "text": "By lunch, you've worked out the rules. Break any rule, even a tiny one, and a star fills in."
+    },
+    {
+      "beat": "crack",
+      "text": "You test it on the way home. You step on a crack in the sidewalk. Nothing. That's not a rule. Good to know."
+    },
+    {
+      "beat": "rule two",
+      "text": "If a police officer sees you while you have a star, they come for you, exactly like in a game. And if you run, you get another star."
+    },
+    {
+      "beat": "rule three",
+      "text": "One more thing. If you stay out of sight long enough, the stars flash, and fade away. At least, that's how it works at the start."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "key": 60,
+      "note": "Tuesday: something above your head"
+    },
+    {
+      "id": "S2",
+      "size": "insert",
+      "key": 30,
+      "note": "five empty stars"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "key": 50,
+      "note": "Mum and Ellie dont see them"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 50,
+      "note": "Mo walks straight past"
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "key": 30,
+      "note": "hand through the stars"
+    },
+    {
+      "id": "S6",
+      "size": "insert",
+      "key": 30,
+      "note": "the mirror"
+    },
+    {
+      "id": "S7",
+      "size": "card",
+      "key": 20,
+      "note": "the rules"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "key": 50,
+      "note": "rule 1"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 50,
+      "note": "a crack in the sidewalk"
+    },
+    {
+      "id": "S10",
+      "size": "close",
+      "key": 30,
+      "note": "not a rule"
+    },
+    {
+      "id": "S11",
+      "size": "card",
+      "key": 30,
+      "note": "rule 2: seen = chased"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 40,
+      "note": "rule 3: run, one more"
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "key": 20,
+      "note": "rule 4: hide"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "key": 50,
+      "note": "they flash and fade"
+    },
+    {
+      "id": "S15",
+      "size": "close",
+      "key": 40,
+      "note": "at the start"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Five"
+    },
+    {
+      "shot": "S3",
+      "at": "Mum"
+    },
+    {
+      "shot": "S4",
+      "at": "At"
+    },
+    {
+      "shot": "S5",
+      "at": "breakfast"
+    },
+    {
+      "shot": "S6",
+      "at": "check"
+    },
+    {
+      "shot": "S7",
+      "at": "By"
+    },
+    {
+      "shot": "S8",
+      "at": "Break"
+    },
+    {
+      "shot": "S9",
+      "at": "test"
+    },
+    {
+      "shot": "S10",
+      "at": "Nothing"
+    },
+    {
+      "shot": "S11",
+      "at": "If"
+    },
+    {
+      "shot": "S12",
+      "at": "And"
+    },
+    {
+      "shot": "S13",
+      "at": "One"
+    },
+    {
+      "shot": "S14",
+      "at": "flash"
+    },
+    {
+      "shot": "S15",
+      "at": "At"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU GOT A 5-STAR",
+    "WANTED LEVEL IN REAL LIFE?"
+  ],
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "power_off": [
+        "an electronic device powering off, a short descending tone into silence",
+        1.2
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "tick": [
+        "a slow old clock ticking in a quiet room",
+        4.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "room_tone",
+        0.45,
+        "onset",
+        "S7"
+      ],
+      [
+        "S2+6",
+        "sparkle",
+        0.45
+      ],
+      [
+        "S5+20",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S6+10",
+        "gulp",
+        0.4
+      ],
+      [
+        "S7+0",
+        "card_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S8+8",
+        "ding",
+        0.45
+      ],
+      [
+        "S10+6",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S11+20",
+        "siren_syn",
+        0.25
+      ],
+      [
+        "S12+6",
+        "ding",
+        0.45
+      ],
+      [
+        "S13+10",
+        "tick",
+        0.3,
+        "onset",
+        "S14"
+      ],
+      [
+        "S14+6",
+        "power_off",
+        0.35
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": 1.5,
+      "music_lu": -11
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "medium",
-   "key": 60,
-   "note": "Tuesday: something above your head"
-  },
-  {
-   "id": "S2",
-   "size": "insert",
-   "key": 30,
-   "note": "five empty stars"
-  },
-  {
-   "id": "S3",
-   "size": "wide",
-   "key": 50,
-   "note": "Mum and Ellie dont see them"
-  },
-  {
-   "id": "S4",
-   "size": "medium",
-   "key": 50,
-   "note": "Mo walks straight past"
-  },
-  {
-   "id": "S5",
-   "size": "close",
-   "key": 30,
-   "note": "hand through the stars"
-  },
-  {
-   "id": "S6",
-   "size": "insert",
-   "key": 30,
-   "note": "the mirror"
-  },
-  {
-   "id": "S7",
-   "size": "card",
-   "key": 20,
-   "note": "the rules"
-  },
-  {
-   "id": "S8",
-   "size": "insert",
-   "key": 50,
-   "note": "rule 1"
-  },
-  {
-   "id": "S9",
-   "size": "medium",
-   "key": 50,
-   "note": "a crack in the sidewalk"
-  },
-  {
-   "id": "S10",
-   "size": "close",
-   "key": 30,
-   "note": "not a rule"
-  },
-  {
-   "id": "S11",
-   "size": "card",
-   "key": 30,
-   "note": "rule 2: seen = chased"
-  },
-  {
-   "id": "S12",
-   "size": "insert",
-   "key": 40,
-   "note": "rule 3: run, one more"
-  },
-  {
-   "id": "S13",
-   "size": "card",
-   "key": 20,
-   "note": "rule 4: hide"
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "key": 50,
-   "note": "they flash and fade"
-  },
-  {
-   "id": "S15",
-   "size": "close",
-   "key": 40,
-   "note": "at the start"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "Five"
-  },
-  {
-   "shot": "S3",
-   "at": "Mum"
-  },
-  {
-   "shot": "S4",
-   "at": "At"
-  },
-  {
-   "shot": "S5",
-   "at": "breakfast"
-  },
-  {
-   "shot": "S6",
-   "at": "check"
-  },
-  {
-   "shot": "S7",
-   "at": "By"
-  },
-  {
-   "shot": "S8",
-   "at": "Break"
-  },
-  {
-   "shot": "S9",
-   "at": "test"
-  },
-  {
-   "shot": "S10",
-   "at": "Nothing"
-  },
-  {
-   "shot": "S11",
-   "at": "If"
-  },
-  {
-   "shot": "S12",
-   "at": "And"
-  },
-  {
-   "shot": "S13",
-   "at": "One"
-  },
-  {
-   "shot": "S14",
-   "at": "flash"
-  },
-  {
-   "shot": "S15",
-   "at": "At"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU GOT A 5-STAR",
-  "WANTED LEVEL IN REAL LIFE?"
- ]
 }

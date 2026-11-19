@@ -1,262 +1,445 @@
 {
- "id": "GtaWantedLevelC06",
- "slug": "gta-wanted-level/c06",
- "chapter": "The choice",
- "topic": "What if you got a five-star wanted level in real life?",
- "script": [
-  {
-   "beat": "ellie",
-   "text": "That's when Ellie comes downstairs, holding a chocolate bar from the corner store. She forgot to pay. She's seven."
-  },
-  {
-   "beat": "her star",
-   "text": "And above her head, very faint at first, one star begins to fill in."
-  },
-  {
-   "beat": "am i",
-   "text": "Ellie can't see it. But she can see your face. 'Am I in trouble?'"
-  },
-  {
-   "beat": "spreading",
-   "text": "You understand two things at once. The stars aren't only yours any more. They spread to the people standing closest to you. And outside, there are four police cars and a helicopter."
-  },
-  {
-   "beat": "mum",
-   "text": "Mum looks out of the window at the flashing lights, then at you. 'What did you do?' And for the first time, you tell her the truth. All of it."
-  },
-  {
-   "beat": "mo",
-   "text": "Your phone buzzes. It's Mo. 'Run. Out the back, through the gardens. Hide long enough and they fade. You know that.'"
-  },
-  {
-   "beat": "know",
-   "text": "But you know something else now. Running is what made it worse. Every single time."
-  },
-  {
-   "beat": "reyes",
-   "text": "Reyes is watching you. 'It's your choice,' she says. 'Not mine.'"
-  },
-  {
-   "beat": "choice",
-   "text": "So you take Ellie's hand, and her chocolate bar, and you walk her back to the corner store, and you pay for it. Her star flickers, and goes out."
-  },
-  {
-   "beat": "street",
-   "text": "The whole street is lit up blue and red. Neighbours at every window. An officer with a megaphone, calm and slow. 'Nobody is in trouble yet. Let's keep it that way.'"
-  },
-  {
-   "beat": "walk out",
-   "text": "Then you walk back out into the street, slowly, hands where everyone can see them, towards the lights. And one by one, your stars go out."
+  "id": "GtaWantedLevelC06",
+  "slug": "gta-wanted-level/c06",
+  "chapter": "The choice",
+  "topic": "What if you got a five-star wanted level in real life?",
+  "script": [
+    {
+      "beat": "ellie",
+      "text": "That's when Ellie comes downstairs, holding a chocolate bar from the corner store. She forgot to pay. She's seven."
+    },
+    {
+      "beat": "her star",
+      "text": "And above her head, very faint at first, one star begins to fill in."
+    },
+    {
+      "beat": "am i",
+      "text": "Ellie can't see it. But she can see your face. 'Am I in trouble?'"
+    },
+    {
+      "beat": "spreading",
+      "text": "You understand two things at once. The stars aren't only yours any more. They spread to the people standing closest to you. And outside, there are four police cars and a helicopter."
+    },
+    {
+      "beat": "mum",
+      "text": "Mum looks out of the window at the flashing lights, then at you. 'What did you do?' And for the first time, you tell her the truth. All of it."
+    },
+    {
+      "beat": "mo",
+      "text": "Your phone buzzes. It's Mo. 'Run. Out the back, through the gardens. Hide long enough and they fade. You know that.'"
+    },
+    {
+      "beat": "know",
+      "text": "But you know something else now. Running is what made it worse. Every single time."
+    },
+    {
+      "beat": "reyes",
+      "text": "Reyes is watching you. 'It's your choice,' she says. 'Not mine.'"
+    },
+    {
+      "beat": "choice",
+      "text": "So you take Ellie's hand, and her chocolate bar, and you walk her back to the corner store, and you pay for it. Her star flickers, and goes out."
+    },
+    {
+      "beat": "street",
+      "text": "The whole street is lit up blue and red. Neighbours at every window. An officer with a megaphone, calm and slow. 'Nobody is in trouble yet. Let's keep it that way.'"
+    },
+    {
+      "beat": "walk out",
+      "text": "Then you walk back out into the street, slowly, hands where everyone can see them, towards the lights. And one by one, your stars go out."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 6"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "key": 50,
+      "note": "Ellie and the chocolate bar"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "key": 30,
+      "note": "she forgot to pay"
+    },
+    {
+      "id": "S4",
+      "size": "close",
+      "key": 50,
+      "note": "a star fills in over Ellie"
+    },
+    {
+      "id": "S5",
+      "size": "close",
+      "key": 50,
+      "note": "am I in trouble?"
+    },
+    {
+      "id": "S6",
+      "size": "close",
+      "key": 30,
+      "note": "two things at once"
+    },
+    {
+      "id": "S7",
+      "size": "two-shot",
+      "key": 40,
+      "note": "they spread"
+    },
+    {
+      "id": "S8",
+      "size": "wide",
+      "key": 40,
+      "note": "four cars and a helicopter"
+    },
+    {
+      "id": "S9",
+      "size": "close",
+      "key": 50,
+      "note": "what did you do?"
+    },
+    {
+      "id": "S10",
+      "size": "two-shot",
+      "key": 50,
+      "note": "you tell her the truth"
+    },
+    {
+      "id": "S11",
+      "size": "insert",
+      "key": 80,
+      "note": "Mo: run"
+    },
+    {
+      "id": "S12",
+      "size": "close",
+      "key": 30,
+      "note": "something else now"
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "key": 30,
+      "note": "running made it worse"
+    },
+    {
+      "id": "S14",
+      "size": "close",
+      "key": 40,
+      "note": "your choice"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "key": 80,
+      "note": "you walk Ellie to the shop"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 60,
+      "note": "her star goes out"
+    },
+    {
+      "id": "S17W",
+      "size": "wide",
+      "key": 60,
+      "note": "the street lit up"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 80,
+      "note": "the megaphone"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "key": 80,
+      "note": "hands where they can see them"
+    },
+    {
+      "id": "S19",
+      "size": "insert",
+      "key": 30,
+      "note": "your stars go out"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "ellie"
+    },
+    {
+      "shot": "S3",
+      "at": "she"
+    },
+    {
+      "shot": "S4",
+      "at": "and"
+    },
+    {
+      "shot": "S5",
+      "at": "ellie"
+    },
+    {
+      "shot": "S6",
+      "at": "you"
+    },
+    {
+      "shot": "S7",
+      "at": "they"
+    },
+    {
+      "shot": "S8",
+      "at": "and"
+    },
+    {
+      "shot": "S9",
+      "at": "mum"
+    },
+    {
+      "shot": "S10",
+      "at": "and"
+    },
+    {
+      "shot": "S11",
+      "at": "your"
+    },
+    {
+      "shot": "S12",
+      "at": "but"
+    },
+    {
+      "shot": "S13",
+      "at": "running"
+    },
+    {
+      "shot": "S14",
+      "at": "reyes"
+    },
+    {
+      "shot": "S15",
+      "at": "so"
+    },
+    {
+      "shot": "S16",
+      "at": "and#3"
+    },
+    {
+      "shot": "S17W",
+      "at": "The"
+    },
+    {
+      "shot": "S17",
+      "at": "An"
+    },
+    {
+      "shot": "S18",
+      "at": "then"
+    },
+    {
+      "shot": "S19",
+      "at": "your"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU GOT A 5-STAR",
+    "WANTED LEVEL IN REAL LIFE?"
+  ],
+  "sound": {
+    "clips": {
+      "buzz": [
+        "a smartphone vibrating on a wooden table, two short buzzes",
+        1.2
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "heli_syn": [
+        "procedural: a police helicopter hovering overhead, rotor thump and turbine",
+        4.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "notify": [
+        "a soft modern smartphone message notification chime",
+        0.8
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "power_off": [
+        "an electronic device powering off, a short descending tone into silence",
+        1.2
+      ],
+      "radio_syn": [
+        "procedural: a short police radio crackle with squelch",
+        1.2
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S2+0",
+        "room_tone",
+        0.4,
+        "onset",
+        "S8"
+      ],
+      [
+        "S2+30",
+        "paper",
+        0.25
+      ],
+      [
+        "S4+8",
+        "ding",
+        0.55
+      ],
+      [
+        "S5+10",
+        "gulp",
+        0.35
+      ],
+      [
+        "S7+0",
+        "siren_syn",
+        0.35,
+        "onset",
+        "S9"
+      ],
+      [
+        "S8+0",
+        "heli_syn",
+        0.45,
+        "onset",
+        "S10"
+      ],
+      [
+        "S9+0",
+        "heartbeat",
+        0.3,
+        "onset",
+        "S11"
+      ],
+      [
+        "S11+10",
+        "notify",
+        0.45
+      ],
+      [
+        "S11+60",
+        "buzz",
+        0.35
+      ],
+      [
+        "S15+0",
+        "roof_wind",
+        0.3,
+        "onset",
+        "S17W"
+      ],
+      [
+        "S16+10",
+        "cash",
+        0.4
+      ],
+      [
+        "S16+20",
+        "power_off",
+        0.3
+      ],
+      [
+        "S17W+0",
+        "siren_syn",
+        0.35,
+        "onset",
+        "S19"
+      ],
+      [
+        "S17W+0",
+        "heli_syn",
+        0.4,
+        "onset",
+        "S19"
+      ],
+      [
+        "S17+10",
+        "radio_syn",
+        0.35
+      ],
+      [
+        "S19+4",
+        "power_off",
+        0.4
+      ],
+      [
+        "S19+20",
+        "sparkle",
+        0.3
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": 1.5,
+      "music_lu": -11
+    }
   }
- ],
- "science": [],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 6"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "key": 50,
-   "note": "Ellie and the chocolate bar"
-  },
-  {
-   "id": "S3",
-   "size": "insert",
-   "key": 30,
-   "note": "she forgot to pay"
-  },
-  {
-   "id": "S4",
-   "size": "close",
-   "key": 50,
-   "note": "a star fills in over Ellie"
-  },
-  {
-   "id": "S5",
-   "size": "close",
-   "key": 50,
-   "note": "am I in trouble?"
-  },
-  {
-   "id": "S6",
-   "size": "close",
-   "key": 30,
-   "note": "two things at once"
-  },
-  {
-   "id": "S7",
-   "size": "two-shot",
-   "key": 40,
-   "note": "they spread"
-  },
-  {
-   "id": "S8",
-   "size": "wide",
-   "key": 40,
-   "note": "four cars and a helicopter"
-  },
-  {
-   "id": "S9",
-   "size": "close",
-   "key": 50,
-   "note": "what did you do?"
-  },
-  {
-   "id": "S10",
-   "size": "two-shot",
-   "key": 50,
-   "note": "you tell her the truth"
-  },
-  {
-   "id": "S11",
-   "size": "insert",
-   "key": 80,
-   "note": "Mo: run"
-  },
-  {
-   "id": "S12",
-   "size": "close",
-   "key": 30,
-   "note": "something else now"
-  },
-  {
-   "id": "S13",
-   "size": "card",
-   "key": 30,
-   "note": "running made it worse"
-  },
-  {
-   "id": "S14",
-   "size": "close",
-   "key": 40,
-   "note": "your choice"
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "key": 80,
-   "note": "you walk Ellie to the shop"
-  },
-  {
-   "id": "S16",
-   "size": "medium",
-   "key": 60,
-   "note": "her star goes out"
-  },
-  {
-   "id": "S17W",
-   "size": "wide",
-   "key": 60,
-   "note": "the street lit up"
-  },
-  {
-   "id": "S17",
-   "size": "medium",
-   "key": 80,
-   "note": "the megaphone"
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "key": 80,
-   "note": "hands where they can see them"
-  },
-  {
-   "id": "S19",
-   "size": "insert",
-   "key": 30,
-   "note": "your stars go out"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "ellie"
-  },
-  {
-   "shot": "S3",
-   "at": "she"
-  },
-  {
-   "shot": "S4",
-   "at": "and"
-  },
-  {
-   "shot": "S5",
-   "at": "ellie"
-  },
-  {
-   "shot": "S6",
-   "at": "you"
-  },
-  {
-   "shot": "S7",
-   "at": "they"
-  },
-  {
-   "shot": "S8",
-   "at": "and"
-  },
-  {
-   "shot": "S9",
-   "at": "mum"
-  },
-  {
-   "shot": "S10",
-   "at": "and"
-  },
-  {
-   "shot": "S11",
-   "at": "your"
-  },
-  {
-   "shot": "S12",
-   "at": "but"
-  },
-  {
-   "shot": "S13",
-   "at": "running"
-  },
-  {
-   "shot": "S14",
-   "at": "reyes"
-  },
-  {
-   "shot": "S15",
-   "at": "so"
-  },
-  {
-   "shot": "S16",
-   "at": "and#3"
-  },
-  {
-   "shot": "S17W",
-   "at": "The"
-  },
-  {
-   "shot": "S17",
-   "at": "An"
-  },
-  {
-   "shot": "S18",
-   "at": "then"
-  },
-  {
-   "shot": "S19",
-   "at": "your"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU GOT A 5-STAR",
-  "WANTED LEVEL IN REAL LIFE?"
- ]
 }

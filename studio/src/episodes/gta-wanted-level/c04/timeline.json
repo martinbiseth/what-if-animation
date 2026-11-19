@@ -433,5 +433,12 @@
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-wanted-level/c04/voice.wav",
+  "sfx": "gta-wanted-level/c04/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.5286,
+  "music": "gta-wanted-level/c04/music.wav",
+  "musicVol": 0.1055
+ }
 }

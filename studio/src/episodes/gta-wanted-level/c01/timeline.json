@@ -1,176 +1,176 @@
 {
  "slug": "gta-wanted-level/c01",
- "title": " ",
+ "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 1397,
+ "total": 1406,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 53,
+   "b": 33,
    "t0": 0,
-   "t1": 53,
-   "line": "You cross the road while the"
+   "t1": 33,
+   "line": "You cross the road while"
   },
   {
    "shot": "S2",
-   "a": 53,
-   "b": 101,
+   "a": 33,
+   "b": 78,
    "t0": 0,
-   "t1": 48,
-   "line": "little man is still red."
+   "t1": 45,
+   "line": "the little man is still red."
   },
   {
    "shot": "S3",
-   "a": 101,
-   "b": 123,
+   "a": 78,
+   "b": 105,
    "t0": 0,
-   "t1": 22,
-   "line": "Ding."
+   "t1": 27,
+   "line": "Ding. A"
   },
   {
    "shot": "S4",
-   "a": 123,
-   "b": 189,
+   "a": 105,
+   "b": 167,
    "t0": 0,
-   "t1": 66,
-   "line": "A gold star lights up above your head."
+   "t1": 62,
+   "line": "gold star lights up above your head."
   },
   {
    "shot": "S5",
-   "a": 189,
-   "b": 280,
+   "a": 167,
+   "b": 265,
    "t0": 0,
-   "t1": 91,
+   "t1": 98,
    "line": "Ten seconds later, a police bike turns the corner."
   },
   {
    "shot": "S6",
-   "a": 280,
-   "b": 308,
+   "a": 265,
+   "b": 297,
    "t0": 0,
-   "t1": 28,
+   "t1": 32,
    "line": "So you run."
   },
   {
    "shot": "S7",
-   "a": 308,
-   "b": 334,
+   "a": 297,
+   "b": 328,
    "t0": 0,
-   "t1": 26,
+   "t1": 31,
    "line": "Two stars."
   },
   {
    "shot": "S8",
-   "a": 334,
-   "b": 411,
+   "a": 328,
+   "b": 416,
    "t0": 0,
-   "t1": 77,
+   "t1": 88,
    "line": "Sirens, from three directions at once. You"
   },
   {
    "shot": "S9",
-   "a": 411,
-   "b": 495,
+   "a": 416,
+   "b": 506,
    "t0": 0,
-   "t1": 84,
-   "line": "hide behind the skate park. Three stars."
+   "t1": 90,
+   "line": "hide behind the skate park. Three stars. A"
   },
   {
    "shot": "S10",
-   "a": 495,
-   "b": 566,
+   "a": 506,
+   "b": 576,
    "t0": 0,
-   "t1": 71,
-   "line": "A helicopter rises over the rooftops, and its"
+   "t1": 70,
+   "line": "helicopter rises over the rooftops, and its"
   },
   {
    "shot": "S11",
-   "a": 566,
-   "b": 629,
+   "a": 576,
+   "b": 635,
    "t0": 0,
-   "t1": 63,
+   "t1": 59,
    "line": "searchlight finds you straight away."
   },
   {
    "shot": "S12",
-   "a": 629,
-   "b": 656,
+   "a": 635,
+   "b": 671,
    "t0": 0,
-   "t1": 27,
+   "t1": 36,
    "line": "Four stars."
   },
   {
    "shot": "S13",
-   "a": 656,
-   "b": 734,
+   "a": 671,
+   "b": 745,
    "t0": 0,
-   "t1": 78,
+   "t1": 74,
    "line": "Roadblocks on every bridge out of town. Your"
   },
   {
    "shot": "S14",
-   "a": 734,
-   "b": 800,
+   "a": 745,
+   "b": 812,
    "t0": 0,
-   "t1": 66,
-   "line": "face on every screen in the mall."
+   "t1": 67,
+   "line": "face on every screen in the mall. A"
   },
   {
    "shot": "S15",
-   "a": 800,
+   "a": 812,
    "b": 997,
    "t0": 0,
-   "t1": 197,
-   "line": "A man in the food court looks up from his phone, at the screen, then at you. Then back at the screen. Then he"
+   "t1": 185,
+   "line": "man in the food court looks up from his phone, at the screen, then at you. Then back at the screen. Then"
   },
   {
    "shot": "S16",
    "a": 997,
-   "b": 1071,
+   "b": 1069,
    "t0": 0,
-   "t1": 74,
-   "line": "slowly puts his burger down. And then the"
+   "t1": 72,
+   "line": "he slowly puts his burger down. And then the"
   },
   {
    "shot": "S17",
-   "a": 1071,
-   "b": 1114,
+   "a": 1069,
+   "b": 1112,
    "t0": 0,
    "t1": 43,
    "line": "fifth star lights up."
   },
   {
    "shot": "S18",
-   "a": 1114,
-   "b": 1210,
+   "a": 1112,
+   "b": 1218,
    "t0": 0,
-   "t1": 96,
+   "t1": 106,
    "line": "Every police officer in the city now has one job today."
   },
   {
    "shot": "S19",
-   "a": 1210,
-   "b": 1226,
+   "a": 1218,
+   "b": 1238,
    "t0": 0,
-   "t1": 16,
+   "t1": 20,
    "line": "You."
   },
   {
    "shot": "S20",
-   "a": 1226,
-   "b": 1285,
+   "a": 1238,
+   "b": 1301,
    "t0": 0,
-   "t1": 59,
+   "t1": 63,
    "line": "All because you crossed on red."
   },
   {
    "shot": "S21",
-   "a": 1285,
-   "b": 1397,
+   "a": 1301,
+   "b": 1406,
    "t0": 0,
-   "t1": 112,
-   "line": "What if you got a five-star wanted level in real life?"
+   "t1": 105,
+   "line": "What if you got a five- star wanted level in real life?"
   }
  ],
  "shots": [
@@ -178,44 +178,44 @@
    "id": "S1",
    "size": "wide",
    "key": 40,
-   "len": 53,
+   "len": 33,
    "first": 0,
-   "line": "You cross the road while the",
+   "line": "You cross the road while",
    "note": "you step off the kerb on red"
   },
   {
    "id": "S2",
    "size": "insert",
    "key": 20,
-   "len": 48,
-   "first": 53,
-   "line": "little man is still red.",
+   "len": 45,
+   "first": 33,
+   "line": "the little man is still red.",
    "note": "the little red man"
   },
   {
    "id": "S3",
    "size": "close",
    "key": 30,
-   "len": 22,
-   "first": 101,
-   "line": "Ding.",
+   "len": 27,
+   "first": 78,
+   "line": "Ding. A",
    "note": "ding: a star"
   },
   {
    "id": "S4",
    "size": "insert",
    "key": 20,
-   "len": 66,
-   "first": 123,
-   "line": "A gold star lights up above your head.",
+   "len": 62,
+   "first": 105,
+   "line": "gold star lights up above your head.",
    "note": "one star"
   },
   {
    "id": "S5",
    "size": "wide",
    "key": 45,
-   "len": 91,
-   "first": 189,
+   "len": 98,
+   "first": 167,
    "line": "Ten seconds later, a police bike turns the corner.",
    "note": "the bike cop turns the corner"
   },
@@ -223,8 +223,8 @@
    "id": "S6",
    "size": "medium",
    "key": 40,
-   "len": 28,
-   "first": 280,
+   "len": 32,
+   "first": 265,
    "line": "So you run.",
    "note": "you run"
   },
@@ -232,8 +232,8 @@
    "id": "S7",
    "size": "insert",
    "key": 14,
-   "len": 26,
-   "first": 308,
+   "len": 31,
+   "first": 297,
    "line": "Two stars.",
    "note": "two stars"
   },
@@ -241,8 +241,8 @@
    "id": "S8",
    "size": "wide",
    "key": 40,
-   "len": 77,
-   "first": 334,
+   "len": 88,
+   "first": 328,
    "line": "Sirens, from three directions at once. You",
    "note": "three cars converge"
   },
@@ -250,26 +250,26 @@
    "id": "S9",
    "size": "medium",
    "key": 40,
-   "len": 84,
-   "first": 411,
-   "line": "hide behind the skate park. Three stars.",
+   "len": 90,
+   "first": 416,
+   "line": "hide behind the skate park. Three stars. A",
    "note": "behind the skate ramp: three"
   },
   {
    "id": "S10",
    "size": "wide",
    "key": 50,
-   "len": 71,
-   "first": 495,
-   "line": "A helicopter rises over the rooftops, and its",
+   "len": 70,
+   "first": 506,
+   "line": "helicopter rises over the rooftops, and its",
    "note": "the helicopter rises"
   },
   {
    "id": "S11",
    "size": "wide",
    "key": 30,
-   "len": 63,
-   "first": 566,
+   "len": 59,
+   "first": 576,
    "line": "searchlight finds you straight away.",
    "note": "the searchlight finds you"
   },
@@ -277,8 +277,8 @@
    "id": "S12",
    "size": "insert",
    "key": 14,
-   "len": 27,
-   "first": 629,
+   "len": 36,
+   "first": 635,
    "line": "Four stars.",
    "note": "four stars"
   },
@@ -286,8 +286,8 @@
    "id": "S13",
    "size": "wide",
    "key": 40,
-   "len": 78,
-   "first": 656,
+   "len": 74,
+   "first": 671,
    "line": "Roadblocks on every bridge out of town. Your",
    "note": "roadblock on the bridge"
   },
@@ -295,27 +295,27 @@
    "id": "S14",
    "size": "wide",
    "key": 30,
-   "len": 66,
-   "first": 734,
-   "line": "face on every screen in the mall.",
+   "len": 67,
+   "first": 745,
+   "line": "face on every screen in the mall. A",
    "note": "your face on the mall screens"
   },
   {
    "id": "S15",
    "size": "medium",
    "key": 60,
-   "len": 197,
-   "first": 800,
-   "line": "A man in the food court looks up from his phone, at the screen, then at you. Then back at the screen. Then he",
+   "len": 185,
+   "first": 812,
+   "line": "man in the food court looks up from his phone, at the screen, then at you. Then back at the screen. Then",
    "note": "the man looks up"
   },
   {
    "id": "S16",
    "size": "insert",
    "key": 30,
-   "len": 74,
+   "len": 72,
    "first": 997,
-   "line": "slowly puts his burger down. And then the",
+   "line": "he slowly puts his burger down. And then the",
    "note": "he puts the burger down"
   },
   {
@@ -323,7 +323,7 @@
    "size": "insert",
    "key": 20,
    "len": 43,
-   "first": 1071,
+   "first": 1069,
    "line": "fifth star lights up.",
    "note": "five stars"
   },
@@ -331,8 +331,8 @@
    "id": "S18",
    "size": "insert",
    "key": 60,
-   "len": 96,
-   "first": 1114,
+   "len": 106,
+   "first": 1112,
    "line": "Every police officer in the city now has one job today.",
    "note": "every unit in the city"
   },
@@ -340,8 +340,8 @@
    "id": "S19",
    "size": "close",
    "key": 20,
-   "len": 16,
-   "first": 1210,
+   "len": 20,
+   "first": 1218,
    "line": "You.",
    "note": "you"
   },
@@ -349,8 +349,8 @@
    "id": "S20",
    "size": "insert",
    "key": 20,
-   "len": 59,
-   "first": 1226,
+   "len": 63,
+   "first": 1238,
    "line": "All because you crossed on red.",
    "note": "all because you crossed on red"
   },
@@ -358,12 +358,19 @@
    "id": "S21",
    "size": "card",
    "key": 50,
-   "len": 112,
-   "first": 1285,
-   "line": "What if you got a five-star wanted level in real life?",
+   "len": 105,
+   "first": 1301,
+   "line": "What if you got a five- star wanted level in real life?",
    "note": "title"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-wanted-level/c01/voice.wav",
+  "sfx": "gta-wanted-level/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3918,
+  "music": "gta-wanted-level/c01/music.wav",
+  "musicVol": 0.1067
+ }
 }

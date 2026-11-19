@@ -1,334 +1,515 @@
 {
- "id": "GtaWantedLevelC04",
- "slug": "gta-wanted-level/c04",
- "chapter": "The catch",
- "topic": "What if you got a five-star wanted level in real life?",
- "script": [
-  {
-   "beat": "dare",
-   "text": "On Friday, Mo has a plan. 'Three stars. Just to see.' At the subway station, you hop over the ticket gate. The third star snaps on. And then you do what you have learned to do. You run, and you hide."
-  },
-  {
-   "beat": "count",
-   "text": "You crouch behind the dumpsters at the back of the station, and you start counting. Twenty-eight seconds, your record. Twenty-nine. Thirty. The stars don't even flash."
-  },
-  {
-   "beat": "turn",
-   "text": "In the game, this is where you wait it out. In real life, this is where it stops being a game."
-  },
-  {
-   "beat": "helicopter",
-   "text": "First, the helicopter. A police helicopter can cruise at about a hundred and fifty miles an hour, faster than anything on the road below. And it doesn't need to see you. Its thermal camera sees heat."
-  },
-  {
-   "beat": "boston",
-   "text": "In 2013, a police helicopter found a man hiding under a cover in a boat, at night, from the heat of his body alone. Your hiding place behind the dumpsters glows like a light bulb."
-  },
-  {
-   "beat": "cameras",
-   "text": "Second, the cameras. One company alone has put more than a hundred thousand license plate cameras on American streets. Every car you get into leaves a trail. And the city's own cameras, on lampposts and in every station, already have your hoodie, your face, and exactly which way you ran."
-  },
-  {
-   "beat": "warrant",
-   "text": "Third, the stars don't fade. In real life, a wanted person stays wanted. In most US states, an arrest warrant has no expiry date. It doesn't flash and disappear after thirty seconds. It waits. For years."
-  },
-  {
-   "beat": "running",
-   "text": "And here is the part the game never tells you. In every US state, running from the police is a crime of its own. You jumped a ticket gate, something you could have paid a fine for. Running is what made it serious."
-  },
-  {
-   "beat": "home",
-   "text": "That night, for the first time, you get home, and the three stars are still there."
-  },
-  {
-   "beat": "mum asks",
-   "text": "Mum can't see them. She just asks why there was a helicopter over the subway station all afternoon. You say you don't know. Ellie says helicopters are cool."
+  "id": "GtaWantedLevelC04",
+  "slug": "gta-wanted-level/c04",
+  "chapter": "The catch",
+  "topic": "What if you got a five-star wanted level in real life?",
+  "script": [
+    {
+      "beat": "dare",
+      "text": "On Friday, Mo has a plan. 'Three stars. Just to see.' At the subway station, you hop over the ticket gate. The third star snaps on. And then you do what you have learned to do. You run, and you hide."
+    },
+    {
+      "beat": "count",
+      "text": "You crouch behind the dumpsters at the back of the station, and you start counting. Twenty-eight seconds, your record. Twenty-nine. Thirty. The stars don't even flash."
+    },
+    {
+      "beat": "turn",
+      "text": "In the game, this is where you wait it out. In real life, this is where it stops being a game."
+    },
+    {
+      "beat": "helicopter",
+      "text": "First, the helicopter. A police helicopter can cruise at about a hundred and fifty miles an hour, faster than anything on the road below. And it doesn't need to see you. Its thermal camera sees heat."
+    },
+    {
+      "beat": "boston",
+      "text": "In 2013, a police helicopter found a man hiding under a cover in a boat, at night, from the heat of his body alone. Your hiding place behind the dumpsters glows like a light bulb."
+    },
+    {
+      "beat": "cameras",
+      "text": "Second, the cameras. One company alone has put more than a hundred thousand license plate cameras on American streets. Every car you get into leaves a trail. And the city's own cameras, on lampposts and in every station, already have your hoodie, your face, and exactly which way you ran."
+    },
+    {
+      "beat": "warrant",
+      "text": "Third, the stars don't fade. In real life, a wanted person stays wanted. In most US states, an arrest warrant has no expiry date. It doesn't flash and disappear after thirty seconds. It waits. For years."
+    },
+    {
+      "beat": "running",
+      "text": "And here is the part the game never tells you. In every US state, running from the police is a crime of its own. You jumped a ticket gate, something you could have paid a fine for. Running is what made it serious."
+    },
+    {
+      "beat": "home",
+      "text": "That night, for the first time, you get home, and the three stars are still there."
+    },
+    {
+      "beat": "mum asks",
+      "text": "Mum can't see them. She just asks why there was a helicopter over the subway station all afternoon. You say you don't know. Ellie says helicopters are cool."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Police helicopters cruise at about 150 mph",
+      "working": "Airbus H125 (AS350), one of the most common US police helicopters: fast cruise 245 km/h = 152 mph",
+      "source": "Airbus H125 technical data"
+    },
+    {
+      "claim": "In 2013 a police helicopter's thermal camera found a suspect hiding under a boat cover at night",
+      "working": "Massachusetts State Police helicopter FLIR located the Boston Marathon bombing suspect in a boat in Watertown, 19 April 2013",
+      "source": "Popular Science, 'How It Works: The Thermal Camera That Found The Boston Bomber', 2013"
+    },
+    {
+      "claim": "One company has more than 100,000 license plate cameras on US streets",
+      "working": "Pew Research mapped more than 100,000 Flock Safety license plate cameras across the US",
+      "source": "Pew Research Center, 'What we know and don't know about Flock's license plate cameras', Nov 2026"
+    },
+    {
+      "claim": "In most US states an arrest warrant has no expiry date",
+      "working": "Arrest warrants generally remain active until served or recalled by the court",
+      "source": "State criminal procedure rules; e.g. FindLaw, 'Do arrest warrants expire?'"
+    },
+    {
+      "claim": "Running from the police is a crime of its own in every US state",
+      "working": "Every state has a fleeing/eluding or resisting statute",
+      "source": "State statutes (fleeing and eluding a police officer)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "card",
+      "key": 20,
+      "note": "chapter 4"
+    },
+    {
+      "id": "S2",
+      "size": "two-shot",
+      "key": 40,
+      "note": "Mo: three stars, just to see"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "key": 60,
+      "note": "over the ticket gate"
+    },
+    {
+      "id": "S4",
+      "size": "insert",
+      "key": 14,
+      "note": "three stars"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "key": 40,
+      "note": "you run"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 50,
+      "note": "behind the dumpsters"
+    },
+    {
+      "id": "S7",
+      "size": "insert",
+      "key": 80,
+      "note": "28, 29, 30"
+    },
+    {
+      "id": "S8",
+      "size": "close",
+      "key": 40,
+      "note": "wait it out"
+    },
+    {
+      "id": "S9",
+      "size": "card",
+      "key": 30,
+      "note": "game over"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "key": 45,
+      "note": "the helicopter"
+    },
+    {
+      "id": "S11",
+      "size": "card",
+      "key": 80,
+      "note": "150 mph"
+    },
+    {
+      "id": "S12",
+      "size": "insert",
+      "key": 60,
+      "note": "thermal"
+    },
+    {
+      "id": "S13",
+      "size": "card",
+      "key": 80,
+      "note": "Boston 2013"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "key": 40,
+      "note": "glows like a bulb"
+    },
+    {
+      "id": "S15",
+      "size": "card",
+      "key": 80,
+      "note": "100,000 plate cameras"
+    },
+    {
+      "id": "S15B",
+      "size": "insert",
+      "key": 50,
+      "note": "every car leaves a trail"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "key": 60,
+      "note": "CCTV: your hoodie"
+    },
+    {
+      "id": "S17",
+      "size": "insert",
+      "key": 30,
+      "note": "they dont fade"
+    },
+    {
+      "id": "S18",
+      "size": "insert",
+      "key": 40,
+      "note": "no expiry date"
+    },
+    {
+      "id": "S19",
+      "size": "insert",
+      "key": 60,
+      "note": "for years"
+    },
+    {
+      "id": "S20",
+      "size": "card",
+      "key": 40,
+      "note": "running is a crime"
+    },
+    {
+      "id": "S21",
+      "size": "insert",
+      "key": 80,
+      "note": "a fine vs serious"
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "key": 60,
+      "note": "home with three stars"
+    },
+    {
+      "id": "S23",
+      "size": "wide",
+      "key": 60,
+      "note": "Mum asks"
+    },
+    {
+      "id": "S24",
+      "size": "close",
+      "key": 30,
+      "note": "helicopters are cool"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "Three"
+    },
+    {
+      "shot": "S3",
+      "at": "at"
+    },
+    {
+      "shot": "S4",
+      "at": "the#3"
+    },
+    {
+      "shot": "S5",
+      "at": "and"
+    },
+    {
+      "shot": "S6",
+      "at": "you#5"
+    },
+    {
+      "shot": "S7",
+      "at": "twentyeight"
+    },
+    {
+      "shot": "S8",
+      "at": "in"
+    },
+    {
+      "shot": "S9",
+      "at": "in"
+    },
+    {
+      "shot": "S10",
+      "at": "first"
+    },
+    {
+      "shot": "S11",
+      "at": "a"
+    },
+    {
+      "shot": "S12",
+      "at": "and#2"
+    },
+    {
+      "shot": "S13",
+      "at": "in"
+    },
+    {
+      "shot": "S14",
+      "at": "your"
+    },
+    {
+      "shot": "S15",
+      "at": "second"
+    },
+    {
+      "shot": "S15B",
+      "at": "Every"
+    },
+    {
+      "shot": "S16",
+      "at": "city's"
+    },
+    {
+      "shot": "S17",
+      "at": "third"
+    },
+    {
+      "shot": "S18",
+      "at": "in#2"
+    },
+    {
+      "shot": "S19",
+      "at": "it"
+    },
+    {
+      "shot": "S20",
+      "at": "and#2"
+    },
+    {
+      "shot": "S21",
+      "at": "you#2"
+    },
+    {
+      "shot": "S22",
+      "at": "that"
+    },
+    {
+      "shot": "S23",
+      "at": "mum"
+    },
+    {
+      "shot": "S24",
+      "at": "ellie"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU GOT A 5-STAR",
+    "WANTED LEVEL IN REAL LIFE?"
+  ],
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a bright bell ding, correct answer",
+        0.8
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "heli_syn": [
+        "procedural: a police helicopter hovering overhead, rotor thump and turbine",
+        4.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "shutter": [
+        "a smartphone camera shutter click",
+        0.5
+      ],
+      "siren_syn": [
+        "procedural: an ambulance siren wailing two tones, passing",
+        3.0
+      ],
+      "tick": [
+        "a slow old clock ticking in a quiet room",
+        4.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.4,
+        "peak"
+      ],
+      [
+        "S3+10",
+        "whoosh",
+        0.4,
+        "peak"
+      ],
+      [
+        "S4+4",
+        "ding",
+        0.55
+      ],
+      [
+        "S5+0",
+        "siren_syn",
+        0.4,
+        "onset",
+        "S7"
+      ],
+      [
+        "S6+10",
+        "heartbeat",
+        0.4,
+        "onset",
+        "S9"
+      ],
+      [
+        "S7+0",
+        "tick",
+        0.35,
+        "onset",
+        "S8"
+      ],
+      [
+        "S9+4",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S10+0",
+        "heli_syn",
+        0.5,
+        "onset",
+        "S12"
+      ],
+      [
+        "S11+10",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "S12+0",
+        "glitch",
+        0.3
+      ],
+      [
+        "S13+0",
+        "heli_syn",
+        0.3,
+        "onset",
+        "S14"
+      ],
+      [
+        "S15+10",
+        "counter_tick",
+        0.25
+      ],
+      [
+        "S16+10",
+        "shutter",
+        0.4
+      ],
+      [
+        "S18+10",
+        "paper_land",
+        0.35
+      ],
+      [
+        "S20+10",
+        "card_hit",
+        0.3,
+        "peak"
+      ],
+      [
+        "S22+0",
+        "door_shut",
+        0.4
+      ],
+      [
+        "S22+10",
+        "room_tone",
+        0.4,
+        "onset",
+        "S24"
+      ],
+      [
+        "S23+30",
+        "heli_syn",
+        0.18,
+        "onset",
+        "S24"
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": 1.5,
+      "music_lu": -11
+    }
   }
- ],
- "science": [
-  {
-   "claim": "Police helicopters cruise at about 150 mph",
-   "working": "Airbus H125 (AS350), one of the most common US police helicopters: fast cruise 245 km/h = 152 mph",
-   "source": "Airbus H125 technical data"
-  },
-  {
-   "claim": "In 2013 a police helicopter's thermal camera found a suspect hiding under a boat cover at night",
-   "working": "Massachusetts State Police helicopter FLIR located the Boston Marathon bombing suspect in a boat in Watertown, 19 April 2013",
-   "source": "Popular Science, 'How It Works: The Thermal Camera That Found The Boston Bomber', 2013"
-  },
-  {
-   "claim": "One company has more than 100,000 license plate cameras on US streets",
-   "working": "Pew Research mapped more than 100,000 Flock Safety license plate cameras across the US",
-   "source": "Pew Research Center, 'What we know and don't know about Flock's license plate cameras', Nov 2026"
-  },
-  {
-   "claim": "In most US states an arrest warrant has no expiry date",
-   "working": "Arrest warrants generally remain active until served or recalled by the court",
-   "source": "State criminal procedure rules; e.g. FindLaw, 'Do arrest warrants expire?'"
-  },
-  {
-   "claim": "Running from the police is a crime of its own in every US state",
-   "working": "Every state has a fleeing/eluding or resisting statute",
-   "source": "State statutes (fleeing and eluding a police officer)"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "card",
-   "key": 20,
-   "note": "chapter 4"
-  },
-  {
-   "id": "S2",
-   "size": "two-shot",
-   "key": 40,
-   "note": "Mo: three stars, just to see"
-  },
-  {
-   "id": "S3",
-   "size": "wide",
-   "key": 60,
-   "note": "over the ticket gate"
-  },
-  {
-   "id": "S4",
-   "size": "insert",
-   "key": 14,
-   "note": "three stars"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "key": 40,
-   "note": "you run"
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "key": 50,
-   "note": "behind the dumpsters"
-  },
-  {
-   "id": "S7",
-   "size": "insert",
-   "key": 80,
-   "note": "28, 29, 30"
-  },
-  {
-   "id": "S8",
-   "size": "close",
-   "key": 40,
-   "note": "wait it out"
-  },
-  {
-   "id": "S9",
-   "size": "card",
-   "key": 30,
-   "note": "game over"
-  },
-  {
-   "id": "S10",
-   "size": "wide",
-   "key": 45,
-   "note": "the helicopter"
-  },
-  {
-   "id": "S11",
-   "size": "card",
-   "key": 80,
-   "note": "150 mph"
-  },
-  {
-   "id": "S12",
-   "size": "insert",
-   "key": 60,
-   "note": "thermal"
-  },
-  {
-   "id": "S13",
-   "size": "card",
-   "key": 80,
-   "note": "Boston 2013"
-  },
-  {
-   "id": "S14",
-   "size": "insert",
-   "key": 40,
-   "note": "glows like a bulb"
-  },
-  {
-   "id": "S15",
-   "size": "card",
-   "key": 80,
-   "note": "100,000 plate cameras"
-  },
-  {
-   "id": "S15B",
-   "size": "insert",
-   "key": 50,
-   "note": "every car leaves a trail"
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "key": 60,
-   "note": "CCTV: your hoodie"
-  },
-  {
-   "id": "S17",
-   "size": "insert",
-   "key": 30,
-   "note": "they dont fade"
-  },
-  {
-   "id": "S18",
-   "size": "insert",
-   "key": 40,
-   "note": "no expiry date"
-  },
-  {
-   "id": "S19",
-   "size": "insert",
-   "key": 60,
-   "note": "for years"
-  },
-  {
-   "id": "S20",
-   "size": "card",
-   "key": 40,
-   "note": "running is a crime"
-  },
-  {
-   "id": "S21",
-   "size": "insert",
-   "key": 80,
-   "note": "a fine vs serious"
-  },
-  {
-   "id": "S22",
-   "size": "wide",
-   "key": 60,
-   "note": "home with three stars"
-  },
-  {
-   "id": "S23",
-   "size": "wide",
-   "key": 60,
-   "note": "Mum asks"
-  },
-  {
-   "id": "S24",
-   "size": "close",
-   "key": 30,
-   "note": "helicopters are cool"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "Three"
-  },
-  {
-   "shot": "S3",
-   "at": "at"
-  },
-  {
-   "shot": "S4",
-   "at": "the#3"
-  },
-  {
-   "shot": "S5",
-   "at": "and"
-  },
-  {
-   "shot": "S6",
-   "at": "you#5"
-  },
-  {
-   "shot": "S7",
-   "at": "twentyeight"
-  },
-  {
-   "shot": "S8",
-   "at": "in"
-  },
-  {
-   "shot": "S9",
-   "at": "in"
-  },
-  {
-   "shot": "S10",
-   "at": "first"
-  },
-  {
-   "shot": "S11",
-   "at": "a"
-  },
-  {
-   "shot": "S12",
-   "at": "and#2"
-  },
-  {
-   "shot": "S13",
-   "at": "in"
-  },
-  {
-   "shot": "S14",
-   "at": "your"
-  },
-  {
-   "shot": "S15",
-   "at": "second"
-  },
-  {
-   "shot": "S15B",
-   "at": "Every"
-  },
-  {
-   "shot": "S16",
-   "at": "city's"
-  },
-  {
-   "shot": "S17",
-   "at": "third"
-  },
-  {
-   "shot": "S18",
-   "at": "in#2"
-  },
-  {
-   "shot": "S19",
-   "at": "it"
-  },
-  {
-   "shot": "S20",
-   "at": "and#2"
-  },
-  {
-   "shot": "S21",
-   "at": "you#2"
-  },
-  {
-   "shot": "S22",
-   "at": "that"
-  },
-  {
-   "shot": "S23",
-   "at": "mum"
-  },
-  {
-   "shot": "S24",
-   "at": "ellie"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU GOT A 5-STAR",
-  "WANTED LEVEL IN REAL LIFE?"
- ]
 }
