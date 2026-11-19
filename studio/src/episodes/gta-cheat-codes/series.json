@@ -1,69 +1,105 @@
 {
- "id": "GtaCheatCodes",
- "slug": "gta-cheat-codes",
- "topic": "What if GTA6 cheat codes worked in real life?",
- "title": [
-  "WHAT IF CHEAT CODES",
-  "WORKED IN REAL LIFE?"
- ],
- "target_seconds": 510,
- "defaults": {
-  "voice": {
-   "id": "TX3LPaxmHKxFdv7VOQHJ",
-   "model": "eleven_multilingual_v2",
-   "settings": {
-    "stability": 0.45,
-    "similarity_boost": 0.8,
-    "style": 0.3,
-    "use_speaker_boost": true
-   }
+  "id": "GtaCheatCodes",
+  "slug": "gta-cheat-codes",
+  "topic": "What if GTA6 cheat codes worked in real life?",
+  "title": [
+    "WHAT IF CHEAT CODES",
+    "WORKED IN REAL LIFE?"
+  ],
+  "target_seconds": 510,
+  "defaults": {
+    "voice": {
+      "id": "TX3LPaxmHKxFdv7VOQHJ",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.45,
+        "similarity_boost": 0.8,
+        "style": 0.3,
+        "use_speaker_boost": true
+      }
+    },
+    "gaps": {
+      "word": 0.14,
+      "comma": 0.25,
+      "sentence": 0.42,
+      "question": 0.6
+    },
+    "pace": {
+      "min_cuts": 8,
+      "max_hold": 8
+    }
   },
-  "gaps": {
-   "word": 0.14,
-   "comma": 0.25,
-   "sentence": 0.42,
-   "question": 0.6
-  },
-  "pace": {
-   "min_cuts": 8,
-   "max_hold": 8
+  "chapters": [
+    {
+      "slug": "c01",
+      "name": "Five days ago",
+      "words": 144
+    },
+    {
+      "slug": "c02",
+      "name": "The rules",
+      "words": 136
+    },
+    {
+      "slug": "c03",
+      "name": "The fun part",
+      "words": 311
+    },
+    {
+      "slug": "c04",
+      "name": "The catch",
+      "words": 299
+    },
+    {
+      "slug": "c05",
+      "name": "Someone notices",
+      "words": 240
+    },
+    {
+      "slug": "c06",
+      "name": "The choice",
+      "words": 225
+    },
+    {
+      "slug": "c07",
+      "name": "Game paused",
+      "words": 192
+    }
+  ],
+  "youtube": {
+    "title": "What If GTA6 Cheat Codes Worked in Real Life?",
+    "tags": [
+      "what if",
+      "what if animation",
+      "gta 6",
+      "gta6",
+      "gta 6 in real life",
+      "cheat codes",
+      "cheat codes in real life",
+      "what if cheat codes were real",
+      "video games in real life",
+      "gta in real life",
+      "invincibility",
+      "jetpack",
+      "infinite money",
+      "animated story",
+      "what would happen if",
+      "story animation",
+      "alternate reality",
+      "cliffhanger",
+      "gaming",
+      "gamer"
+    ],
+    "category": 27,
+    "language": "en",
+    "privacy": "private",
+    "made_for_kids": false,
+    "synthetic_media": false,
+    "intro": "Five days ago, an old grey controller turned up on your bed. Press the right buttons and the world answers: CHEAT ACTIVATED. No pain. Free money. A sports car out of thin air. A jetpack. It's the best week of your life, until every cheat starts sending you the bill. Then someone notices.\n\nThis episode is part of our GTA in Real Life series. The full playlist is on the channel. The cheats in this story are made up, and we're not linked to any game studio.",
+    "thumbnail": {
+      "composition": "GtaCheatCodesThumb"
+    },
+    "midroll_gap": 120,
+    "pinned_comment": "Which cheat would you enter first? 👇\n\nAnd who else is holding a controller? Best theory gets pinned before Part 2.\n\nThe real parts check out: people who can't feel pain get badly hurt without noticing, every US banknote has its own serial number, making one car out of nothing would take about a fifth of all the energy the world uses in a year, and pilots really did report a jetpack at 3,000 feet near LAX in 2020. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2: what happens when someone presses play?"
   }
- },
- "chapters": [
-  {
-   "slug": "c01",
-   "name": "Five days ago",
-   "words": 144
-  },
-  {
-   "slug": "c02",
-   "name": "The rules",
-   "words": 136
-  },
-  {
-   "slug": "c03",
-   "name": "The fun part",
-   "words": 311
-  },
-  {
-   "slug": "c04",
-   "name": "The catch",
-   "words": 299
-  },
-  {
-   "slug": "c05",
-   "name": "Someone notices",
-   "words": 240
-  },
-  {
-   "slug": "c06",
-   "name": "The choice",
-   "words": 225
-  },
-  {
-   "slug": "c07",
-   "name": "Game paused",
-   "words": 192
-  }
- ]
 }

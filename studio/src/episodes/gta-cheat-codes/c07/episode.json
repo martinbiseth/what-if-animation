@@ -226,5 +226,134 @@
    "at": "series"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+30",
+    "power_off",
+    0.4
+   ],
+   [
+    "S5+0",
+    "drone",
+    0.2,
+    "onset",
+    "S9"
+   ],
+   [
+    "S6+4",
+    "glitch",
+    0.4
+   ],
+   [
+    "S7+6",
+    "door_shut",
+    0.35
+   ],
+   [
+    "S8+20",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S9+0",
+    "drone_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S10+0",
+    "card_hit",
+    0.3,
+    "peak"
+   ],
+   [
+    "S11+6",
+    "ding",
+    0.3
+   ],
+   [
+    "S11b+6",
+    "ding",
+    0.3
+   ],
+   [
+    "S11c+6",
+    "ding",
+    0.3
+   ],
+   [
+    "S11d+6",
+    "ding",
+    0.3
+   ],
+   [
+    "S12+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S13+0",
+    "title_boom",
+    0.35,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "from": "S9"
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

@@ -374,5 +374,246 @@
    "at": "Then"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "alarm": [
+    "a digital bedside alarm clock beeping, fast repeated beeps",
+    1.5
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "crowd_cheer": [
+    "a large outdoor crowd cheering and laughing happily, many voices, no clear words",
+    2.5
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "fire": [
+    "a small campfire crackling and popping at night, close, no voices",
+    10.0
+   ],
+   "gasp": [
+    "a small crowd of people gasping in surprise",
+    1.5
+   ],
+   "jet_syn": [
+    "procedural: a distant jet airliner roar",
+    4.0
+   ],
+   "kids_cheer": [
+    "a group of children cheering and clapping outdoors",
+    2.0
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "phone_crack": [
+    "a smartphone screen cracking under pressure, a crisp glass crunch, short",
+    0.5
+   ],
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "storm": [
+    "a strong wind and rain storm outside, gusts and heavy rain, no thunder",
+    6.0
+   ],
+   "thud": [
+    "a cartoon body falling flat on cobblestones, soft thud",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S4+0",
+    "fall_whoosh",
+    0.3
+   ],
+   [
+    "S5+0",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S5+52",
+    "thud",
+    0.5
+   ],
+   [
+    "S6+40",
+    "sparkle",
+    0.25
+   ],
+   [
+    "S7+10",
+    "phone_crack",
+    0.4
+   ],
+   [
+    "S9+44",
+    "paste_pop",
+    0.4
+   ],
+   [
+    "S10+12",
+    "land",
+    0.45
+   ],
+   [
+    "S11+60",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "S12+0",
+    "cash",
+    0.3
+   ],
+   [
+    "S13+0",
+    "kids_cheer",
+    0.25
+   ],
+   [
+    "S14+0",
+    "storm",
+    0.25,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+20",
+    "sparkle",
+    0.4
+   ],
+   [
+    "S16+0",
+    "gasp",
+    0.2
+   ],
+   [
+    "S17+36",
+    "paste_pop",
+    0.4
+   ],
+   [
+    "S18+4",
+    "rumble_syn",
+    0.4
+   ],
+   [
+    "S18+30",
+    "land",
+    0.5
+   ],
+   [
+    "S18b+0",
+    "shades",
+    0.4
+   ],
+   [
+    "S19+0",
+    "paste_pop",
+    0.3
+   ],
+   [
+    "S20+0",
+    "paste_pop",
+    0.3
+   ],
+   [
+    "S21+36",
+    "paste_pop",
+    0.4
+   ],
+   [
+    "S22+12",
+    "title_boom",
+    0.45,
+    "peak"
+   ],
+   [
+    "S22+14",
+    "jet_syn",
+    0.3,
+    "onset",
+    "S24"
+   ],
+   [
+    "S24+20",
+    "alarm",
+    0.25
+   ],
+   [
+    "S24+24",
+    "land",
+    0.4
+   ],
+   [
+    "S26+0",
+    "crowd_cheer",
+    0.15
+   ],
+   [
+    "S28+0",
+    "fire",
+    0.15
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "loop": true,
+   "until": "S28"
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

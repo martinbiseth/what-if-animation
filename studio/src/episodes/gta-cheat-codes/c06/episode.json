@@ -306,5 +306,156 @@
    "at": "enter"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cough": [
+    "a little girl coughing softly in her sleep",
+    1.2
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S3+0",
+    "card_hit",
+    0.3,
+    "peak"
+   ],
+   [
+    "S6+0",
+    "door_shut",
+    0.35
+   ],
+   [
+    "S7+0",
+    "cough",
+    0.25
+   ],
+   [
+    "S9b+0",
+    "drone_hit",
+    0.3,
+    "peak"
+   ],
+   [
+    "S10+0",
+    "step",
+    0.4
+   ],
+   [
+    "S10+10",
+    "step",
+    0.4
+   ],
+   [
+    "S10+20",
+    "step",
+    0.4
+   ],
+   [
+    "S11+14",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.25,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "title_boom",
+    0.5,
+    "peak"
+   ],
+   [
+    "S15+20",
+    "step",
+    0.45
+   ],
+   [
+    "S15+40",
+    "step",
+    0.45
+   ],
+   [
+    "S15+60",
+    "step",
+    0.45
+   ],
+   [
+    "S16+0",
+    "knock",
+    0.35
+   ],
+   [
+    "S17+4",
+    "buzz",
+    0.4
+   ],
+   [
+    "S20+0",
+    "heartbeat",
+    0.25,
+    "onset",
+    "S21"
+   ],
+   [
+    "S21+0",
+    "select_draw",
+    0.3
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S20"
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

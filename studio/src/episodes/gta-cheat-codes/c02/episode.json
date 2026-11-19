@@ -172,5 +172,150 @@
    "at": "Under"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tumble": [
+    "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+    1.3
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+0",
+    "room_tone",
+    0.15,
+    "onset",
+    "S8"
+   ],
+   [
+    "S3+30",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S3+70",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S4+0",
+    "sparkle",
+    0.45
+   ],
+   [
+    "S4b+0",
+    "glitch",
+    0.35
+   ],
+   [
+    "S5+14",
+    "clink",
+    0.4
+   ],
+   [
+    "S6+14",
+    "land",
+    0.45
+   ],
+   [
+    "S7+16",
+    "tumble",
+    0.5
+   ],
+   [
+    "S7+90",
+    "land",
+    0.4
+   ],
+   [
+    "S8+0",
+    "paper",
+    0.4
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S10+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S11+0",
+    "drone_hit",
+    0.35,
+    "peak"
+   ],
+   [
+    "S12+0",
+    "heartbeat",
+    0.2
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }

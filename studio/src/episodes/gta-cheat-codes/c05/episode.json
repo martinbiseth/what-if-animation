@@ -289,5 +289,131 @@
    "at": "looks"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "car_idle": [
+    "a car engine idling outside a house, low steady rumble",
+    4.0
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "doorbell": [
+    "a house doorbell ding dong",
+    1.2
+   ],
+   "drone_buzz": [
+    "a small camera quadcopter drone hovering close by, steady high pitched whirring propeller buzz, no voices",
+    4.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "jet_syn": [
+    "procedural: a distant jet airliner roar",
+    4.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ]
+  },
+  "events": [
+   [
+    "S2+0",
+    "jet_syn",
+    0.2,
+    "onset",
+    "S4"
+   ],
+   [
+    "S4+0",
+    "card_hit",
+    0.3,
+    "peak"
+   ],
+   [
+    "S5+0",
+    "notify",
+    0.3
+   ],
+   [
+    "S6+0",
+    "notify",
+    0.4
+   ],
+   [
+    "S7+60",
+    "drone_hit",
+    0.25
+   ],
+   [
+    "S9+0",
+    "buzz",
+    0.3
+   ],
+   [
+    "S10b+0",
+    "card_hit",
+    0.35,
+    "peak"
+   ],
+   [
+    "S12+0",
+    "car_idle",
+    0.2,
+    "onset",
+    "S13"
+   ],
+   [
+    "S13+20",
+    "doorbell",
+    0.4
+   ],
+   [
+    "S15+0",
+    "car_idle",
+    0.15,
+    "onset",
+    "S16"
+   ],
+   [
+    "S16+6",
+    "buzz",
+    0.4
+   ],
+   [
+    "S17+0",
+    "drone_buzz",
+    0.2,
+    "onset",
+    "S18"
+   ],
+   [
+    "S18+0",
+    "drone_hit",
+    0.4,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -8.0,
+   "music_lu": -16.0
+  }
+ }
 }
