@@ -557,7 +557,7 @@ export const textCard = (o: { kicker?: string; lines: string[]; sub?: string; re
         <Schematic t={t} id="tc" />
       </g>
       {o.art?.(t)}
-      {o.kicker ? <text x={960} y={(o.y ?? 420) - 130} textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={8} fill={SCH.dim} opacity={clamp(t / 6)}>{o.kicker}</text> : null}
+      {o.kicker ? <text x={960} y={(o.y ?? 420) - Math.max(130, (o.size ?? 110) * 0.85)} textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={8} fill={SCH.dim} opacity={clamp(t / 6)}>{o.kicker}</text> : null}
       {o.lines.map((l, i) => (
         <g key={i} transform={`translate(960 ${(o.y ?? 420) + i * ((o.size ?? 110) * 1.05)}) scale(${backOut(clamp((t - 3 - i * 5) / 9))})`}>
           <text textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={o.size ?? 110} fill={o.color ?? '#F6EFE3'} stroke="#0B0816" strokeWidth={10} paintOrder="stroke">{l}</text>
