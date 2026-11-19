@@ -32,57 +32,74 @@
  "chapters": [
   {
    "slug": "c01",
-   "name": "Cold open",
+   "name": "The stairs, the van and the garage roof",
    "words": 130
   },
   {
    "slug": "c02",
-   "name": "The premise and its rules",
+   "name": "A health bar only you can see",
    "words": 120
   },
   {
    "slug": "c03",
-   "name": "The fun part",
+   "name": "Bikes, ramps and 2 million views",
    "words": 260
   },
   {
    "slug": "c04",
-   "name": "The catch",
+   "name": "The real physics of a 54 mph crash",
    "words": 260
   },
   {
    "slug": "c05",
-   "name": "Someone notices",
+   "name": "The blackouts start doubling",
    "words": 200
   },
   {
    "slug": "c06",
-   "name": "The choice",
+   "name": "Ellie on the tree-house roof",
    "words": 200
   },
   {
    "slug": "c07",
-   "name": "Cliffhanger",
+   "name": "The bar that didn't come back",
    "words": 130
   }
  ],
  "youtube": {
-  "title": "What if GTA6 physics were real?",
+  "title": "What If GTA6 Physics Were Real?",
   "tags": [
    "what if",
-   "animation",
-   "science"
+   "what if animation",
+   "gta 6",
+   "gta6",
+   "gta 6 physics",
+   "gta physics in real life",
+   "video game physics",
+   "respawn",
+   "health bar",
+   "gta in real life",
+   "what if gta was real",
+   "video games in real life",
+   "physics animation",
+   "science animation",
+   "car crash physics",
+   "g force",
+   "animated story",
+   "what would happen if",
+   "cliffhanger",
+   "alternate reality"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "You fall down the stairs and get up without a scratch. A green health bar appears over your head, and after every hit it simply refills. Game physics in real life sounds like a superpower, until you work out where all that energy has to come from.\n\nPart of the GTA in Real Life series: what would actually happen if the rules of an open-world crime game worked in our world? Watch the whole series in the playlist.\n\nAn original story with original characters. Not affiliated with, endorsed by or connected to Rockstar Games or Take-Two Interactive. Please don't try any of the stunts in this video.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "GtaPhysicsThumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "If you had a respawn bar for one day, what's the first thing you'd try? 👇\n\nAnd what do you think happened to Ellie's bar? Best theory gets pinned before the next episode.\n\nThe physics is real: a 54 mph crash stops you in a few hundredths of a second, which is hundreds of g, and the most a human has survived on purpose was 46.2 g (John Stapp, 1954). Sources are in the description.\n\n🔔 Subscribe and turn on notifications so you don't miss the next episode of GTA in Real Life."
  }
 }

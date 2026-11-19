@@ -5,6 +5,7 @@ import { ElectricityThumb } from './electricity/thumb';
 import { ElecSets } from './electricity/sheet';
 import { GravityThumb } from './gravity/thumb';
 import { GtaSets } from './gta-physics/sheet';
+import { GtaPhysicsThumb } from './gta-physics/thumb';
 
 export const THUMBS: { id: string; component: React.FC }[] = [
   { id: 'Iphone1926Thumb', component: Iphone1926Thumb },
@@ -12,4 +13,5 @@ export const THUMBS: { id: string; component: React.FC }[] = [
   { id: 'ElecSets', component: ElecSets },
   { id: 'GravityThumb', component: GravityThumb },
   { id: 'GtaSets', component: GtaSets },
+  { id: 'GtaPhysicsThumb', component: GtaPhysicsThumb },
 ];
