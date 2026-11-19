@@ -5,14 +5,14 @@ import {
   Schematic, SCH, SchLabel, DrawOn, CountUp, NightSky, Stars, Moon,
 } from '../../engine';
 import { YOU, ELLIE, MOM, MO, Soft, span, wordF, faceCU, bigWord, handAt } from '../electricity/common';
-import { Car, Bike, IceCream, StreetModern, STREETM, streetHip, LivingRoom, LIVING, CityWindowView } from '../electricity/sets';
+import { Car, Bike, IceCream, StreetModern, STREETM, streetHip, LivingRoom, LIVING, CityWindowView, sofaSit } from '../electricity/sets';
 import { Body, lie } from '../gravity/common';
 
 // Shared by every chapter of "What if GTA6 physics were real?": the health bar (over your head and in the HUD),
 // tumbling and flying bodies, the new sets (gym, hallway with lockers, hospital room, backyard with the tree house,
 // a city at night for the blackouts) and the props (van, ramp, skateboard, beanbag, tablet, TV).
 
-export { YOU, ELLIE, MOM, MO, Soft, span, wordF, faceCU, bigWord, handAt, Body, lie, Car, Bike, IceCream, StreetModern, STREETM, streetHip, LivingRoom, LIVING, CityWindowView };
+export { YOU, ELLIE, MOM, MO, Soft, span, wordF, faceCU, bigWord, handAt, Body, lie, Car, Bike, IceCream, StreetModern, STREETM, streetHip, LivingRoom, LIVING, CityWindowView, sofaSit };
 export const SUIT: Look = { ...LOOKS.suit26 };
 export const NURSE: Look = { ...LOOKS.doctor, jacket: '#4E9AA0', jacketShade: '#3C7E84', accent: '#E9F2F0' };
 export const COACH: Look = { ...LOOKS.worker, jacket: '#B2382E', jacketShade: '#8E2C24', accent: '#F6EFE3', hat: 'cap' } as Look;

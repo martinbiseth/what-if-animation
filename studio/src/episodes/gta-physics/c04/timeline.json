@@ -1,27 +1,401 @@
 {
  "slug": "gta-physics/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3821,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 50,
+   "t0": 0,
+   "t1": 50,
+   "line": "Here's the thing."
+  },
+  {
+   "shot": "S2",
+   "a": 50,
+   "b": 267,
+   "t0": 0,
+   "t1": 217,
+   "line": "In a game, a fall is just a number on a bar. In real life, it's physics."
+  },
+  {
+   "shot": "S22",
+   "a": 267,
+   "b": 360,
+   "t0": 0,
+   "t1": 93,
+   "line": "And physics always sends the bill."
+  },
+  {
+   "shot": "S23",
+   "a": 360,
+   "b": 450,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Jump off a ten- story building, and"
+  },
+  {
+   "shot": "S3",
+   "a": 450,
+   "b": 656,
+   "t0": 0,
+   "t1": 206,
+   "line": "by the time you reach the ground, you're doing about fifty- four miles an hour."
+  },
+  {
+   "shot": "S4",
+   "a": 656,
+   "b": 696,
+   "t0": 0,
+   "t1": 40,
+   "line": "That's real."
+  },
+  {
+   "shot": "S5",
+   "a": 696,
+   "b": 863,
+   "t0": 0,
+   "t1": 167,
+   "line": "Gravity adds twenty- two miles an hour for every second you fall."
+  },
+  {
+   "shot": "S6",
+   "a": 863,
+   "b": 1003,
+   "t0": 0,
+   "t1": 140,
+   "line": "But the speed isn't the problem. The stopping is."
+  },
+  {
+   "shot": "S7",
+   "a": 1003,
+   "b": 1094,
+   "t0": 0,
+   "t1": 91,
+   "line": "A game character stops and rolls."
+  },
+  {
+   "shot": "S8",
+   "a": 1094,
+   "b": 1283,
+   "t0": 0,
+   "t1": 189,
+   "line": "A real body stops in a few inches, in a few thousandths of a second."
+  },
+  {
+   "shot": "S9",
+   "a": 1283,
+   "b": 1346,
+   "t0": 0,
+   "t1": 63,
+   "line": "That's hundreds of g."
+  },
+  {
+   "shot": "S10",
+   "a": 1346,
+   "b": 1519,
+   "t0": 0,
+   "t1": 173,
+   "line": "The most a human has ever taken on purpose is about forty- six g."
+  },
+  {
+   "shot": "S11",
+   "a": 1519,
+   "b": 1818,
+   "t0": 0,
+   "t1": 299,
+   "line": "An Air Force doctor named John Stapp did it in 1954, strapped into a rocket sled. And he was strapped in tight."
+  },
+  {
+   "shot": "S12",
+   "a": 1818,
+   "b": 1962,
+   "t0": 0,
+   "t1": 144,
+   "line": "And cars? In a game, a car stops on a dime."
+  },
+  {
+   "shot": "S13",
+   "a": 1962,
+   "b": 2227,
+   "t0": 0,
+   "t1": 265,
+   "line": "A real car going thirty miles an hour needs about seventy- five feet to stop. That's six car lengths."
+  },
+  {
+   "shot": "S14",
+   "a": 2227,
+   "b": 2484,
+   "t0": 0,
+   "t1": 257,
+   "line": "And at that speed, a car carries the same energy as if you dropped it off a three- story building."
+  },
+  {
+   "shot": "S15",
+   "a": 2484,
+   "b": 2738,
+   "t0": 0,
+   "t1": 254,
+   "line": "So a real body couldn't do anything you did today. Which means something else is taking the hit."
+  },
+  {
+   "shot": "S16",
+   "a": 2738,
+   "b": 2896,
+   "t0": 0,
+   "t1": 158,
+   "line": "Then you think about the hospital. You didn't walk there."
+  },
+  {
+   "shot": "S17",
+   "a": 2896,
+   "b": 2952,
+   "t0": 0,
+   "t1": 56,
+   "line": "You appeared there."
+  },
+  {
+   "shot": "S18",
+   "a": 2952,
+   "b": 3219,
+   "t0": 0,
+   "t1": 267,
+   "line": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared,"
+  },
+  {
+   "shot": "S19",
+   "a": 3219,
+   "b": 3435,
+   "t0": 0,
+   "t1": 216,
+   "line": "says your body is worth more than two days of all the energy the whole world uses."
+  },
+  {
+   "shot": "S20",
+   "a": 3435,
+   "b": 3601,
+   "t0": 0,
+   "t1": 166,
+   "line": "Every time you respawn, that energy has to come from somewhere."
+  },
+  {
+   "shot": "S21",
+   "a": 3601,
+   "b": 3821,
+   "t0": 0,
+   "t1": 220,
+   "line": "And tonight, it isn't only the hospital that flickers. It's the whole city."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "key": 30,
+   "len": 50,
+   "first": 0,
+   "line": "Here's the thing.",
+   "note": "THE CATCH: PHYSICS SENDS THE BILL"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 70,
+   "len": 217,
+   "first": 50,
+   "line": "In a game, a fall is just a number on a bar. In real life, it's physics.",
+   "note": "GAME: a fall = -10 / REAL: a fall = physics"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 40,
+   "len": 93,
+   "first": 267,
+   "line": "And physics always sends the bill.",
+   "note": "a long bill printing out: PHYSICS"
+  },
+  {
+   "id": "S23",
    "size": "wide",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The catch"
+   "first": 360,
+   "line": "Jump off a ten- story building, and",
+   "note": "you falling past windows, speed lines"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 120,
+   "len": 206,
+   "first": 450,
+   "line": "by the time you reach the ground, you're doing about fifty- four miles an hour.",
+   "note": "ten floors, the speed counting to 54"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 70,
+   "len": 40,
+   "first": 656,
+   "line": "That's real.",
+   "note": "54 MPH, THAT'S REAL"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 60,
+   "len": 167,
+   "first": 696,
+   "line": "Gravity adds twenty- two miles an hour for every second you fall.",
+   "note": "+22 mph every second"
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "key": 20,
+   "len": 140,
+   "first": 863,
+   "line": "But the speed isn't the problem. The stopping is.",
+   "note": "IT'S NOT THE SPEED, IT'S THE STOP"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 91,
+   "first": 1003,
+   "line": "A game character stops and rolls.",
+   "note": "GAME: land, roll, up"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 50,
+   "len": 189,
+   "first": 1094,
+   "line": "A real body stops in a few inches, in a few thousandths of a second.",
+   "note": "54 mph to zero in 5 cm, 0.004 s"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 70,
+   "len": 63,
+   "first": 1283,
+   "line": "That's hundreds of g.",
+   "note": "~600 G"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "key": 70,
+   "len": 173,
+   "first": 1346,
+   "line": "The most a human has ever taken on purpose is about forty- six g.",
+   "note": "46 G, STAPP 1954"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 160,
+   "len": 299,
+   "first": 1519,
+   "line": "An Air Force doctor named John Stapp did it in 1954, strapped into a rocket sled. And he was strapped in tight.",
+   "note": "the rocket sled, strapped in tight"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 30,
+   "len": 144,
+   "first": 1818,
+   "line": "And cars? In a game, a car stops on a dime.",
+   "note": "GAME: a car stops on a dime"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 90,
+   "len": 265,
+   "first": 1962,
+   "line": "A real car going thirty miles an hour needs about seventy- five feet to stop. That's six car lengths.",
+   "note": "75 ft to stop, 6 car lengths"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 60,
+   "len": 257,
+   "first": 2227,
+   "line": "And at that speed, a car carries the same energy as if you dropped it off a three- story building.",
+   "note": "a car dropped three stories = 30 mph"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 40,
+   "len": 254,
+   "first": 2484,
+   "line": "So a real body couldn't do anything you did today. Which means something else is taking the hit.",
+   "note": "you on the sofa, thinking"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 40,
+   "len": 158,
+   "first": 2738,
+   "line": "Then you think about the hospital. You didn't walk there.",
+   "note": "the hospital hallway: you didn't walk here"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 14,
+   "len": 56,
+   "first": 2896,
+   "line": "You appeared there.",
+   "note": "you appear out of light"
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "key": 30,
+   "len": 267,
+   "first": 2952,
+   "line": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared,",
+   "note": "E = mc2"
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "key": 70,
+   "len": 216,
+   "first": 3219,
+   "line": "says your body is worth more than two days of all the energy the whole world uses.",
+   "note": "2.4 DAYS of the world energy"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 30,
+   "len": 166,
+   "first": 3435,
+   "line": "Every time you respawn, that energy has to come from somewhere.",
+   "note": "power flowing into the hospital"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 60,
+   "len": 220,
+   "first": 3601,
+   "line": "And tonight, it isn't only the hospital that flickers. It's the whole city.",
+   "note": "the whole city flickers"
   }
  ],
  "fx": [],

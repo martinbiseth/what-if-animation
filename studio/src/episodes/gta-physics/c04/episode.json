@@ -81,18 +81,259 @@
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "set": "schematic",
+   "note": "THE CATCH: PHYSICS SENDS THE BILL",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "GAME: a fall = -10 / REAL: a fall = physics",
+   "key": 70
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "set": "dark",
+   "note": "a long bill printing out: PHYSICS",
+   "key": 40
+  },
+  {
+   "id": "S23",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "city day",
+   "note": "you falling past windows, speed lines",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "ten floors, the speed counting to 54",
+   "key": 120
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "54 MPH, THAT'S REAL",
+   "key": 70
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "+22 mph every second",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "big word",
+   "set": "dark",
+   "note": "IT'S NOT THE SPEED, IT'S THE STOP",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "street day",
+   "note": "GAME: land, roll, up",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "54 mph to zero in 5 cm, 0.004 s",
+   "key": 50
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "~600 G",
+   "key": 70
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "46 G, STAPP 1954",
+   "key": 70
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the rocket sled, strapped in tight",
+   "key": 160
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "street day",
+   "note": "GAME: a car stops on a dime",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "75 ft to stop, 6 car lengths",
+   "key": 90
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a car dropped three stories = 30 mph",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "living room",
+   "note": "you on the sofa, thinking",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "hospital hall",
+   "note": "the hospital hallway: you didn't walk here",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "hospital room",
+   "note": "you appear out of light",
+   "key": 14
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "E = mc2",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "2.4 DAYS of the world energy",
+   "key": 70
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "set": "city night",
+   "note": "power flowing into the hospital",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "city night",
+   "note": "the whole city flickers",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "In"
+  },
+  {
+   "shot": "S22",
+   "at": "And"
+  },
+  {
+   "shot": "S23",
+   "at": "Jump"
+  },
+  {
+   "shot": "S3",
+   "at": "by"
+  },
+  {
+   "shot": "S4",
+   "at": "That's"
+  },
+  {
+   "shot": "S5",
+   "at": "Gravity"
+  },
+  {
+   "shot": "S6",
+   "at": "But"
+  },
+  {
+   "shot": "S7",
+   "at": "A"
+  },
+  {
+   "shot": "S8",
+   "at": "A"
+  },
+  {
+   "shot": "S9",
+   "at": "That's"
+  },
+  {
+   "shot": "S10",
+   "at": "The"
+  },
+  {
+   "shot": "S11",
+   "at": "An"
+  },
+  {
+   "shot": "S12",
+   "at": "And#2"
+  },
+  {
+   "shot": "S13",
+   "at": "A#4"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "Then"
+  },
+  {
+   "shot": "S17",
+   "at": "You#3"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "says"
+  },
+  {
+   "shot": "S20",
+   "at": "Every"
+  },
+  {
+   "shot": "S21",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": []
 }

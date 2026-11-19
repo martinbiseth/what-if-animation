@@ -57,18 +57,292 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "gym",
+   "note": "STUNT DOUBLE",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "gym",
+   "note": "basketball to the face, BONK",
+   "key": 40
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "set": "gym",
+   "note": "the class gasps",
+   "key": 20
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "gym",
+   "note": "a tiny sliver off the bar",
+   "key": 16
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "gym",
+   "note": "blink, catch the rebound",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "store",
+   "note": "bike up the loading ramp",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "store",
+   "note": "the flip, into the hedge",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "store",
+   "note": "bike ruined, you pop out thumbs up",
+   "key": 80
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "store",
+   "note": "Mo screaming, filming",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "skate park",
+   "note": "the biggest ramp",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "wide pan",
+   "set": "skate park",
+   "note": "overshoot, trash can, sled across the lot",
+   "key": 50
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "skate park",
+   "note": "kid with ice cream claps, you bow",
+   "key": 50
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "street day",
+   "note": "Mo hops off the curb: OW",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "street day",
+   "note": "SAME CURB. NO BAR.",
+   "key": 20
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "phone",
+   "note": "2,000,000 views",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "living room",
+   "note": "Ellie: again",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "WARNING: DON'T TRY THIS",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "street dusk",
+   "note": "walking home, bar nearly empty, waving at Ellie",
+   "key": 50
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "set": "street dusk",
+   "note": "one tiny trip on the skateboard",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "dark",
+   "note": "the bar hits zero",
+   "key": 24
+  },
+  {
+   "id": "S21",
+   "size": "black",
+   "set": "black",
+   "note": "RESPAWNING",
+   "key": 20
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "hospital room",
+   "note": "your eyes open in a hospital bed",
+   "key": 30
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "hospital room",
+   "note": "the nurse staring",
+   "key": 20
+  },
+  {
+   "id": "S26",
+   "size": "close-up",
+   "set": "hospital room",
+   "note": "you, in the gown: technically, you did",
+   "key": 20
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "set": "hospital room",
+   "note": "20 SECONDS AGO: empty bed, then you",
+   "key": 20
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "set": "hospital room",
+   "note": "every light flickers",
+   "key": 50
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "In"
+  },
+  {
+   "shot": "S3",
+   "at": "The#2"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "After"
+  },
+  {
+   "shot": "S7",
+   "at": "flip"
+  },
+  {
+   "shot": "S8",
+   "at": "The#2"
+  },
+  {
+   "shot": "S9",
+   "at": "Mo"
+  },
+  {
+   "shot": "S10",
+   "at": "At"
+  },
+  {
+   "shot": "S11",
+   "at": "You#2"
+  },
+  {
+   "shot": "S12",
+   "at": "A#3"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Same"
+  },
+  {
+   "shot": "S15",
+   "at": "By"
+  },
+  {
+   "shot": "S16",
+   "at": "Your"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "By"
+  },
+  {
+   "shot": "S19",
+   "at": "and"
+  },
+  {
+   "shot": "S20",
+   "at": "The"
+  },
+  {
+   "shot": "S21",
+   "at": "Everything"
+  },
+  {
+   "shot": "S22",
+   "at": "You"
+  },
+  {
+   "shot": "S23",
+   "at": "A#3"
+  },
+  {
+   "shot": "S26",
+   "at": "Because"
+  },
+  {
+   "shot": "S24",
+   "at": "Twenty"
+  },
+  {
+   "shot": "S25",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": []
 }

@@ -1,27 +1,452 @@
 {
  "slug": "gta-physics/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3947,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 151,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 151,
+   "line": "And for one whole day, you are basically a stunt double."
+  },
+  {
+   "shot": "S2",
+   "a": 151,
+   "b": 336,
+   "t0": 0,
+   "t1": 185,
+   "line": "In gym class, a basketball hits you right in the face at full speed."
+  },
+  {
+   "shot": "S3",
+   "a": 336,
+   "b": 401,
+   "t0": 0,
+   "t1": 65,
+   "line": "The whole class gasps."
+  },
+  {
+   "shot": "S4",
+   "a": 401,
+   "b": 485,
+   "t0": 0,
+   "t1": 84,
+   "line": "Your bar loses a tiny sliver."
+  },
+  {
+   "shot": "S5",
+   "a": 485,
+   "b": 580,
+   "t0": 0,
+   "t1": 95,
+   "line": "You blink, and catch the rebound."
+  },
+  {
+   "shot": "S6",
+   "a": 580,
+   "b": 779,
+   "t0": 0,
+   "t1": 199,
+   "line": "After school, you ride your bike off the loading ramp behind the grocery store,"
+  },
+  {
+   "shot": "S7",
+   "a": 779,
+   "b": 904,
+   "t0": 0,
+   "t1": 125,
+   "line": "flip once in the air, and land in a hedge."
+  },
+  {
+   "shot": "S8",
+   "a": 904,
+   "b": 1002,
+   "t0": 0,
+   "t1": 98,
+   "line": "The bike is ruined. You're not."
+  },
+  {
+   "shot": "S9",
+   "a": 1002,
+   "b": 1112,
+   "t0": 0,
+   "t1": 110,
+   "line": "Mo is screaming. Mo is also filming."
+  },
+  {
+   "shot": "S10",
+   "a": 1112,
+   "b": 1245,
+   "t0": 0,
+   "t1": 133,
+   "line": "At the skate park, you go for the biggest ramp."
+  },
+  {
+   "shot": "S11",
+   "a": 1245,
+   "b": 1549,
+   "t0": 0,
+   "t1": 304,
+   "line": "You overshoot it by twenty feet, bounce off a trash can, and slide across the parking lot on your back like a sled."
+  },
+  {
+   "shot": "S12",
+   "a": 1549,
+   "b": 1706,
+   "t0": 0,
+   "t1": 157,
+   "line": "A little kid with an ice cream claps. You take a bow."
+  },
+  {
+   "shot": "S13",
+   "a": 1706,
+   "b": 1967,
+   "t0": 0,
+   "t1": 261,
+   "line": "Then Mo tries a tiny hop off the curb, lands on his knee, and says 'ow' for ten straight minutes."
+  },
+  {
+   "shot": "S14",
+   "a": 1967,
+   "b": 2035,
+   "t0": 0,
+   "t1": 68,
+   "line": "Same curb. No bar."
+  },
+  {
+   "shot": "S15",
+   "a": 2035,
+   "b": 2162,
+   "t0": 0,
+   "t1": 127,
+   "line": "By dinnertime, the video has two million views."
+  },
+  {
+   "shot": "S16",
+   "a": 2162,
+   "b": 2427,
+   "t0": 0,
+   "t1": 265,
+   "line": "Your little sister Ellie watches it nine times in a row. 'Again, ' she says. 'Do it again. '"
+  },
+  {
+   "shot": "S17",
+   "a": 2427,
+   "b": 2710,
+   "t0": 0,
+   "t1": 283,
+   "line": "And here's the part you need to hear. Don't try any of this. You don't have the bar. Nobody does."
+  },
+  {
+   "shot": "S18",
+   "a": 2710,
+   "b": 2972,
+   "t0": 0,
+   "t1": 262,
+   "line": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie,"
+  },
+  {
+   "shot": "S19",
+   "a": 2972,
+   "b": 3109,
+   "t0": 0,
+   "t1": 137,
+   "line": "and you trip on Mo's skateboard. One tiny trip."
+  },
+  {
+   "shot": "S20",
+   "a": 3109,
+   "b": 3166,
+   "t0": 0,
+   "t1": 57,
+   "line": "The bar hits zero."
+  },
+  {
+   "shot": "S21",
+   "a": 3166,
+   "b": 3228,
+   "t0": 0,
+   "t1": 62,
+   "line": "Everything goes black."
+  },
+  {
+   "shot": "S22",
+   "a": 3228,
+   "b": 3381,
+   "t0": 0,
+   "t1": 153,
+   "line": "You open your eyes in a hospital bed, in a clean gown."
+  },
+  {
+   "shot": "S23",
+   "a": 3381,
+   "b": 3547,
+   "t0": 0,
+   "t1": 166,
+   "line": "A nurse is staring at you like you just walked through a wall."
+  },
+  {
+   "shot": "S26",
+   "a": 3547,
+   "b": 3635,
+   "t0": 0,
+   "t1": 88,
+   "line": "Because, technically, you did."
+  },
+  {
+   "shot": "S24",
+   "a": 3635,
+   "b": 3766,
+   "t0": 0,
+   "t1": 131,
+   "line": "Twenty seconds ago, you weren't in this building."
+  },
+  {
+   "shot": "S25",
+   "a": 3766,
+   "b": 3947,
+   "t0": 0,
+   "t1": 181,
+   "line": "And at that exact second, every light in the hospital flickers."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 20,
+   "len": 151,
+   "first": 0,
+   "line": "And for one whole day, you are basically a stunt double.",
+   "note": "STUNT DOUBLE"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 40,
+   "len": 185,
+   "first": 151,
+   "line": "In gym class, a basketball hits you right in the face at full speed.",
+   "note": "basketball to the face, BONK"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 20,
+   "len": 65,
+   "first": 336,
+   "line": "The whole class gasps.",
+   "note": "the class gasps"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 16,
+   "len": 84,
+   "first": 401,
+   "line": "Your bar loses a tiny sliver.",
+   "note": "a tiny sliver off the bar"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 95,
+   "first": 485,
+   "line": "You blink, and catch the rebound.",
+   "note": "blink, catch the rebound"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 199,
+   "first": 580,
+   "line": "After school, you ride your bike off the loading ramp behind the grocery store,",
+   "note": "bike up the loading ramp"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 125,
+   "first": 779,
+   "line": "flip once in the air, and land in a hedge.",
+   "note": "the flip, into the hedge"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 80,
+   "len": 98,
+   "first": 904,
+   "line": "The bike is ruined. You're not.",
+   "note": "bike ruined, you pop out thumbs up"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 40,
+   "len": 110,
+   "first": 1002,
+   "line": "Mo is screaming. Mo is also filming.",
+   "note": "Mo screaming, filming"
+  },
+  {
+   "id": "S10",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 133,
+   "first": 1112,
+   "line": "At the skate park, you go for the biggest ramp.",
+   "note": "the biggest ramp"
+  },
+  {
+   "id": "S11",
+   "size": "wide pan",
+   "key": 50,
+   "len": 304,
+   "first": 1245,
+   "line": "You overshoot it by twenty feet, bounce off a trash can, and slide across the parking lot on your back like a sled.",
+   "note": "overshoot, trash can, sled across the lot"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 50,
+   "len": 157,
+   "first": 1549,
+   "line": "A little kid with an ice cream claps. You take a bow.",
+   "note": "kid with ice cream claps, you bow"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 60,
+   "len": 261,
+   "first": 1706,
+   "line": "Then Mo tries a tiny hop off the curb, lands on his knee, and says 'ow' for ten straight minutes.",
+   "note": "Mo hops off the curb: OW"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 20,
+   "len": 68,
+   "first": 1967,
+   "line": "Same curb. No bar.",
+   "note": "SAME CURB. NO BAR."
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 50,
+   "len": 127,
+   "first": 2035,
+   "line": "By dinnertime, the video has two million views.",
+   "note": "2,000,000 views"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 60,
+   "len": 265,
+   "first": 2162,
+   "line": "Your little sister Ellie watches it nine times in a row. 'Again, ' she says. 'Do it again. '",
+   "note": "Ellie: again"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 40,
+   "len": 283,
+   "first": 2427,
+   "line": "And here's the part you need to hear. Don't try any of this. You don't have the bar. Nobody does.",
+   "note": "WARNING: DON'T TRY THIS"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 50,
+   "len": 262,
+   "first": 2710,
+   "line": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie,",
+   "note": "walking home, bar nearly empty, waving at Ellie"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 137,
+   "first": 2972,
+   "line": "and you trip on Mo's skateboard. One tiny trip.",
+   "note": "one tiny trip on the skateboard"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 24,
+   "len": 57,
+   "first": 3109,
+   "line": "The bar hits zero.",
+   "note": "the bar hits zero"
+  },
+  {
+   "id": "S21",
+   "size": "black",
+   "key": 20,
+   "len": 62,
+   "first": 3166,
+   "line": "Everything goes black.",
+   "note": "RESPAWNING"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 153,
+   "first": 3228,
+   "line": "You open your eyes in a hospital bed, in a clean gown.",
+   "note": "your eyes open in a hospital bed"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "key": 20,
+   "len": 166,
+   "first": 3381,
+   "line": "A nurse is staring at you like you just walked through a wall.",
+   "note": "the nurse staring"
+  },
+  {
+   "id": "S26",
+   "size": "close-up",
+   "key": 20,
+   "len": 88,
+   "first": 3547,
+   "line": "Because, technically, you did.",
+   "note": "you, in the gown: technically, you did"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 20,
+   "len": 131,
+   "first": 3635,
+   "line": "Twenty seconds ago, you weren't in this building.",
+   "note": "20 SECONDS AGO: empty bed, then you"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "key": 50,
+   "len": 181,
+   "first": 3766,
+   "line": "And at that exact second, every light in the hospital flickers.",
+   "note": "every light flickers"
   }
  ],
  "fx": [],
