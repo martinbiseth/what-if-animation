@@ -147,6 +147,7 @@ L = {
   ('S12', 'Stop', 'graphic', 'schematic', 'short stop vs long stop: force / 10', 110),
   ('S13', "That's", 'graphic', 'schematic', 'an airbag = a longer stop', 30),
   ('S26', "It's", 'graphic', 'schematic', 'stunt air cushion, gym mat: soft and deep', 50),
+  ('S27', 'Soft#2', 'big word', 'backyard', 'SOFT + DEEP BEATS STRONG ARMS', 20),
   ('S14', 'So', 'medium', 'backyard', 'not your arms: grab the beanbag', 50),
   ('S15', 'throw', 'wide', 'backyard', 'throw it under the tree house', 14),
   ('S16', 'dive', 'medium', 'backyard', 'dive in under it', 8),

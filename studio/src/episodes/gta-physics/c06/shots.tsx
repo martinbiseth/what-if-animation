@@ -310,6 +310,8 @@ export const S26: React.FC<ShotProps> = ({ t, len }) => (
       <rect x={1100} y={700} width={560} height={100} rx={16} fill="none" stroke={BAR.g} strokeWidth={6} />
       <SchLabel x={1380} y={880} t={t - 20} text="GYM MAT" size={40} color={BAR.g} />
     </g>
-    <SchLabel x={960} y={440} t={t - 30} text="SOFT + DEEP > STRONG ARMS" size={60} color={SCH.live} />
   </g>
 );
+
+// ---------- S27: soft and deep beats strong arms ----------
+export const S27 = bigWord({ kicker: 'SOFT + DEEP', word: 'BEATS STRONG ARMS', color: BAR.g, Bg: YD, size: 140 });

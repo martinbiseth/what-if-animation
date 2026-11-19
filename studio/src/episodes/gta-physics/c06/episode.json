@@ -206,6 +206,13 @@
    "key": 50
   },
   {
+   "id": "S27",
+   "size": "big word",
+   "set": "backyard",
+   "note": "SOFT + DEEP BEATS STRONG ARMS",
+   "key": 20
+  },
+  {
    "id": "S14",
    "size": "medium",
    "set": "backyard",
@@ -327,6 +334,10 @@
   {
    "shot": "S26",
    "at": "It's"
+  },
+  {
+   "shot": "S27",
+   "at": "Soft#2"
   },
   {
    "shot": "S14",

@@ -407,7 +407,7 @@ export const S24: React.FC<ShotProps> = ({ t, len }) => {
 // ---------- S25: a 30 ft flight needs a launch at over 20 mph ----------
 export const S25: React.FC<ShotProps> = ({ t, len, f }) => {
   const k = clamp((t - 8) / Math.max(20, len - 30));
-  const x0 = 360, x1 = 1560, g = 820, h = 380;
+  const x0 = 360, x1 = 1560, g = 820, h = 300;
   const x = x0 + (x1 - x0) * k;
   const y = g - 4 * h * k * (1 - k);
   return (
@@ -418,9 +418,9 @@ export const S25: React.FC<ShotProps> = ({ t, len, f }) => {
       {fig(x, y - 80, 0.9, 360 * k)}
       <Arrow x0={x0} y0={g + 70} x1={x1} y1={g + 70} t={t - 10} dur={24} />
       <SchLabel x={960} y={g + 190} t={t - 20} text="30 FT (9 M) THROUGH THE AIR" size={44} color={SCH.dim} />
-      <SchLabel x={960} y={200} t={t - 30} text="LAUNCH SPEED NEEDED" size={42} color={SCH.dim} />
-      <text x={960} y={340} textAnchor="middle" fontFamily={FONT.ui} fontSize={130} fill={SCH.live} opacity={clamp((t - 34) / 8)}>21 MPH</text>
-      <SchLabel x={960} y={410} t={t - 44} text="EVEN AT THE PERFECT 45° ANGLE" size={32} color={SCH.dim} />
+      <SchLabel x={960} y={150} t={t - 30} text="LAUNCH SPEED NEEDED" size={42} color={SCH.dim} />
+      <text x={960} y={280} textAnchor="middle" fontFamily={FONT.ui} fontSize={130} fill={SCH.live} opacity={clamp((t - 34) / 8)}>21 MPH</text>
+      <SchLabel x={960} y={345} t={t - 44} text="EVEN AT THE PERFECT 45° ANGLE" size={32} color={SCH.dim} />
     </g>
   );
 };
