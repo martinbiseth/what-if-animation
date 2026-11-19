@@ -53,19 +53,217 @@
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "note": "chapter 3"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 40,
+   "note": "the wrapper: one star"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "note": "a radio crackles"
+  },
+  {
+   "id": "S4",
    "size": "wide",
-   "set": "rooftop",
+   "key": 60,
+   "note": "Dale on his bike"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 60,
+   "note": "behind the bus shelter"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "note": "he rides away"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 70,
+   "note": "Mo saw it"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 60,
+   "note": "the grass: one star"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 50,
+   "note": "Dale again"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 40,
+   "note": "moustache and bell"
+  },
+  {
+   "id": "S10B",
+   "size": "medium",
    "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "he sighs and waves"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 70,
+   "note": "Mo tries; the lady and the dog"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 30,
+   "note": "nothing for Mo"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 200,
+   "note": "the notebook"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 110,
+   "note": "a patrol car and a confused officer"
+  },
+  {
+   "id": "S14B",
+   "size": "close",
+   "key": 30,
+   "note": "the confused officer"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 60,
+   "note": "the laundromat"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "note": "practising"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 20,
+   "note": "28 seconds"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 40,
+   "note": "best thing ever"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 30,
+   "note": "one more day"
   }
  ],
  "edit": [
   {
    "shot": "S1",
-   "at": "f:0"
+   "at": "At"
+  },
+  {
+   "shot": "S2",
+   "at": "On"
+  },
+  {
+   "shot": "S3",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S4",
+   "at": "Ninety"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "The#2"
+  },
+  {
+   "shot": "S7",
+   "at": "You"
+  },
+  {
+   "shot": "S8",
+   "at": "So"
+  },
+  {
+   "shot": "S9",
+   "at": "And"
+  },
+  {
+   "shot": "S10",
+   "at": "It's"
+  },
+  {
+   "shot": "S10B",
+   "at": "By"
+  },
+  {
+   "shot": "S11",
+   "at": "Mo"
+  },
+  {
+   "shot": "S12",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S13",
+   "at": "By"
+  },
+  {
+   "shot": "S14",
+   "at": "Two#2"
+  },
+  {
+   "shot": "S14B",
+   "at": "officer"
+  },
+  {
+   "shot": "S15",
+   "at": "You"
+  },
+  {
+   "shot": "S16",
+   "at": "On"
+  },
+  {
+   "shot": "S17",
+   "at": "Your"
+  },
+  {
+   "shot": "S18",
+   "at": "This"
+  },
+  {
+   "shot": "S19",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU GOT A 5-STAR",

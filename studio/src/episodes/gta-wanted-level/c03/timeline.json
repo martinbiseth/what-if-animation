@@ -1,27 +1,367 @@
 {
  "slug": "gta-wanted-level/c03",
- "title": "The fun part",
+ "title": "WHAT IF YOU GOT A 5-STAR WANTED LEVEL IN REAL LIFE?",
  "fps": 30,
- "total": 90,
+ "total": 3168,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 102,
+   "t0": 0,
+   "t1": 102,
+   "line": "At first, it's a game, and you're very good at it."
+  },
+  {
+   "shot": "S2",
+   "a": 102,
+   "b": 229,
+   "t0": 0,
+   "t1": 127,
+   "line": "On Wednesday, you drop a candy wrapper outside the bakery. One star."
+  },
+  {
+   "shot": "S3",
+   "a": 229,
+   "b": 284,
+   "t0": 0,
+   "t1": 55,
+   "line": "Somewhere, a radio crackles."
+  },
+  {
+   "shot": "S4",
+   "a": 284,
+   "b": 455,
+   "t0": 0,
+   "t1": 171,
+   "line": "Ninety seconds later, an officer on a bicycle comes round the corner, looking left, looking right."
+  },
+  {
+   "shot": "S5",
+   "a": 455,
+   "b": 603,
+   "t0": 0,
+   "t1": 148,
+   "line": "You step behind a bus shelter, and you count. The star flashes, then it's gone."
+  },
+  {
+   "shot": "S6",
+   "a": 603,
+   "b": 665,
+   "t0": 0,
+   "t1": 62,
+   "line": "The officer shrugs and rides away."
+  },
+  {
+   "shot": "S7",
+   "a": 665,
+   "b": 878,
+   "t0": 0,
+   "t1": 213,
+   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay', he says. 'What just happened'?"
+  },
+  {
+   "shot": "S8",
+   "a": 878,
+   "b": 1055,
+   "t0": 0,
+   "t1": 177,
+   "line": "So you show him. You walk on the grass, right next to the sign that says Keep Off. One star."
+  },
+  {
+   "shot": "S9",
+   "a": 1055,
+   "b": 1203,
+   "t0": 0,
+   "t1": 148,
+   "line": "And there's the officer again, right on time, like a bus. Mo nearly falls over."
+  },
+  {
+   "shot": "S10",
+   "a": 1203,
+   "b": 1402,
+   "t0": 0,
+   "t1": 199,
+   "line": "It's always the same officer. Officer Dale. He has a moustache, and a bicycle bell he rings when he's annoyed."
+  },
+  {
+   "shot": "S10B",
+   "a": 1402,
+   "b": 1484,
+   "t0": 0,
+   "t1": 82,
+   "line": "By the third time, he just sighs and waves."
+  },
+  {
+   "shot": "S11",
+   "a": 1484,
+   "b": 1726,
+   "t0": 0,
+   "t1": 242,
+   "line": "Mo wants a go too. He drops a wrapper, walks on the grass, even stands in the middle of the road until a lady with a dog tells him off."
+  },
+  {
+   "shot": "S12",
+   "a": 1726,
+   "b": 1816,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Nothing. No stars. It only works on you."
+  },
+  {
+   "shot": "S13",
+   "a": 1816,
+   "b": 2155,
+   "t0": 0,
+   "t1": 339,
+   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars'."
+  },
+  {
+   "shot": "S14",
+   "a": 2155,
+   "b": 2279,
+   "t0": 0,
+   "t1": 124,
+   "line": "Two stars means a patrol car. Real lights, a real siren, and a real"
+  },
+  {
+   "shot": "S14B",
+   "a": 2279,
+   "b": 2444,
+   "t0": 0,
+   "t1": 165,
+   "line": "officer who looks very confused about why he has been sent to a parking lot because of a skateboard."
+  },
+  {
+   "shot": "S15",
+   "a": 2444,
+   "b": 2669,
+   "t0": 0,
+   "t1": 225,
+   "line": "You duck into the laundromat and sit between two old ladies reading magazines. The stars flash, and fade. The car drives away."
+  },
+  {
+   "shot": "S16",
+   "a": 2669,
+   "b": 2897,
+   "t0": 0,
+   "t1": 228,
+   "line": "On the way home, you practise. One star, hide, count, fade. One star, hide, count, fade. You're getting fast."
+  },
+  {
+   "shot": "S17",
+   "a": 2897,
+   "b": 2959,
+   "t0": 0,
+   "t1": 62,
+   "line": "Your record is twenty-eight seconds."
+  },
+  {
+   "shot": "S18",
+   "a": 2959,
+   "b": 3075,
+   "t0": 0,
+   "t1": 116,
+   "line": "'This is the best thing that has ever happened to anyone', says Mo."
+  },
+  {
+   "shot": "S19",
+   "a": 3075,
+   "b": 3168,
+   "t0": 0,
+   "t1": 93,
+   "line": "And for one more day, you believe him."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "card",
+   "key": 20,
+   "len": 102,
+   "first": 0,
+   "line": "At first, it's a game, and you're very good at it.",
+   "note": "chapter 3"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 40,
+   "len": 127,
+   "first": 102,
+   "line": "On Wednesday, you drop a candy wrapper outside the bakery. One star.",
+   "note": "the wrapper: one star"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 20,
+   "len": 55,
+   "first": 229,
+   "line": "Somewhere, a radio crackles.",
+   "note": "a radio crackles"
+  },
+  {
+   "id": "S4",
    "size": "wide",
+   "key": 60,
+   "len": 171,
+   "first": 284,
+   "line": "Ninety seconds later, an officer on a bicycle comes round the corner, looking left, looking right.",
+   "note": "Dale on his bike"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 60,
+   "len": 148,
+   "first": 455,
+   "line": "You step behind a bus shelter, and you count. The star flashes, then it's gone.",
+   "note": "behind the bus shelter"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 62,
+   "first": 603,
+   "line": "The officer shrugs and rides away.",
+   "note": "he rides away"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 70,
+   "len": 213,
+   "first": 665,
+   "line": "You pick up the wrapper and put it in the trash. Mo saw the whole thing. 'Okay', he says. 'What just happened'?",
+   "note": "Mo saw it"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 60,
+   "len": 177,
+   "first": 878,
+   "line": "So you show him. You walk on the grass, right next to the sign that says Keep Off. One star.",
+   "note": "the grass: one star"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 50,
+   "len": 148,
+   "first": 1055,
+   "line": "And there's the officer again, right on time, like a bus. Mo nearly falls over.",
+   "note": "Dale again"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 40,
+   "len": 199,
+   "first": 1203,
+   "line": "It's always the same officer. Officer Dale. He has a moustache, and a bicycle bell he rings when he's annoyed.",
+   "note": "moustache and bell"
+  },
+  {
+   "id": "S10B",
+   "size": "medium",
+   "key": 30,
+   "len": 82,
+   "first": 1402,
+   "line": "By the third time, he just sighs and waves.",
+   "note": "he sighs and waves"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 70,
+   "len": 242,
+   "first": 1484,
+   "line": "Mo wants a go too. He drops a wrapper, walks on the grass, even stands in the middle of the road until a lady with a dog tells him off.",
+   "note": "Mo tries; the lady and the dog"
+  },
+  {
+   "id": "S12",
+   "size": "close",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "first": 1726,
+   "line": "Nothing. No stars. It only works on you.",
+   "note": "nothing for Mo"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 200,
+   "len": 339,
+   "first": 1816,
+   "line": "By Thursday, Mo is writing it all down in a notebook. 'Library book, three days late. One star. Skateboard in the parking lot. One star. Running away from one star. Two stars'.",
+   "note": "the notebook"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 110,
+   "len": 124,
+   "first": 2155,
+   "line": "Two stars means a patrol car. Real lights, a real siren, and a real",
+   "note": "a patrol car and a confused officer"
+  },
+  {
+   "id": "S14B",
+   "size": "close",
+   "key": 30,
+   "len": 165,
+   "first": 2279,
+   "line": "officer who looks very confused about why he has been sent to a parking lot because of a skateboard.",
+   "note": "the confused officer"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 60,
+   "len": 225,
+   "first": 2444,
+   "line": "You duck into the laundromat and sit between two old ladies reading magazines. The stars flash, and fade. The car drives away.",
+   "note": "the laundromat"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "len": 228,
+   "first": 2669,
+   "line": "On the way home, you practise. One star, hide, count, fade. One star, hide, count, fade. You're getting fast.",
+   "note": "practising"
+  },
+  {
+   "id": "S17",
+   "size": "card",
+   "key": 20,
+   "len": 62,
+   "first": 2897,
+   "line": "Your record is twenty-eight seconds.",
+   "note": "28 seconds"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 40,
+   "len": 116,
+   "first": 2959,
+   "line": "'This is the best thing that has ever happened to anyone', says Mo.",
+   "note": "best thing ever"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 30,
+   "len": 93,
+   "first": 3075,
+   "line": "And for one more day, you believe him.",
+   "note": "one more day"
   }
  ],
  "fx": [],
