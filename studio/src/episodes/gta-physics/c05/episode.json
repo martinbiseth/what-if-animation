@@ -1,0 +1,68 @@
+{
+ "id": "GtaPhysicsC05",
+ "slug": "gta-physics/c05",
+ "chapter": "Someone notices",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You keep the stunts going for two more days. Two more respawns. And the power company notices. Three blackouts, each one centered on a hospital, and each one longer than the last."
+  },
+  {
+   "beat": "p2",
+   "text": "On the news, they call it a grid glitch. Your mom calls it weird. You don't call it anything, because your stomach just dropped."
+  },
+  {
+   "beat": "p3",
+   "text": "The next morning, there's a black car outside your school. A man in a grey suit is waiting by your locker. He doesn't say hello. He just holds up a tablet. A map of the city, with three red dots. Three hospitals. Three times."
+  },
+  {
+   "beat": "p4",
+   "text": "'Half a second,' he says. 'Then one second. Then two. Every time you come back, the city goes dark, and it doubles.'"
+  },
+  {
+   "beat": "p5",
+   "text": "He leans closer. 'Hospitals run on that power. Traffic lights. Elevators. Today it's two seconds. Do it ten more times, and it's over half an hour.'"
+  },
+  {
+   "beat": "p6",
+   "text": "'So I just don't respawn,' you say."
+  },
+  {
+   "beat": "p7",
+   "text": "'Exactly,' he says. 'Don't. Not once. Not until we understand it.'"
+  },
+  {
+   "beat": "p8",
+   "text": "He hands you a card with a phone number, and he's gone."
+  },
+  {
+   "beat": "p9",
+   "text": "For the first time since the bar showed up, you're scared of it. It's still floating there, full and green. But now every chunk it loses is a step closer to the next blackout."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A blackout that doubles each time, from 2 seconds, passes half an hour after ten more doublings.",
+   "working": "2 s x 2^10 = 2,048 s = 34 minutes.",
+   "source": "Doubling, arithmetic (the story's rule)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

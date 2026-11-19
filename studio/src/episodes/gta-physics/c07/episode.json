@@ -1,0 +1,50 @@
+{
+ "id": "GtaPhysicsC07",
+ "slug": "gta-physics/c07",
+ "chapter": "Cliffhanger",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You open your eyes in the hospital bed again. The nurse doesn't look surprised this time. She looks scared."
+  },
+  {
+   "beat": "p2",
+   "text": "Because the room is dark. The whole hospital is dark. Out the window, the whole city is dark. And it's been a lot longer than four seconds."
+  },
+  {
+   "beat": "p3",
+   "text": "The backup generators kick in. The man in the suit is standing at the end of your bed. 'It didn't come back,' he says quietly. 'Not this time.'"
+  },
+  {
+   "beat": "p4",
+   "text": "Your phone buzzes. A video from Mom. Ellie, safe at home, holding a flashlight, waving at the camera. And over her head, very faint, there's a little green bar."
+  },
+  {
+   "beat": "p5",
+   "text": "So, is any of this real? The physics is. A ten-story fall really ends at fifty-four miles an hour. John Stapp really survived forty-six g. And a car at thirty really needs six car lengths to stop."
+  },
+  {
+   "beat": "p6",
+   "text": "Would you have made the dive? Tell me in the comments. And subscribe, because next time, we find out what happens when Ellie respawns."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

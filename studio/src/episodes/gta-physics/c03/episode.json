@@ -1,0 +1,74 @@
+{
+ "id": "GtaPhysicsC03",
+ "slug": "gta-physics/c03",
+ "chapter": "Stunt double",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "And for one whole day, you are basically a stunt double."
+  },
+  {
+   "beat": "p2",
+   "text": "In gym class, a basketball hits you right in the face at full speed. The whole class gasps. Your bar loses a tiny sliver. You blink, and catch the rebound."
+  },
+  {
+   "beat": "p3",
+   "text": "After school, you ride your bike off the loading ramp behind the grocery store, flip once in the air, and land in a hedge. The bike is ruined. You're not."
+  },
+  {
+   "beat": "p4",
+   "text": "Mo is screaming. Mo is also filming."
+  },
+  {
+   "beat": "p5",
+   "text": "At the skate park, you go for the biggest ramp. You overshoot it by twenty feet, bounce off a trash can, and slide across the parking lot on your back like a sled. A little kid with an ice cream claps. You take a bow."
+  },
+  {
+   "beat": "p6",
+   "text": "Then Mo tries a tiny hop off the curb, lands on his knee, and says 'ow' for ten straight minutes. Same curb. No bar."
+  },
+  {
+   "beat": "p7",
+   "text": "By dinnertime, the video has two million views. Your little sister Ellie watches it nine times in a row. 'Again,' she says. 'Do it again.'"
+  },
+  {
+   "beat": "p8",
+   "text": "And here's the part you need to hear. Don't try any of this. You don't have the bar. Nobody does."
+  },
+  {
+   "beat": "p9",
+   "text": "By the evening, your bar is almost empty from all the stunts. You're walking home, waving at Ellie, and you trip on Mo's skateboard. One tiny trip. The bar hits zero."
+  },
+  {
+   "beat": "p10",
+   "text": "Everything goes black."
+  },
+  {
+   "beat": "p11",
+   "text": "You open your eyes in a hospital bed, in a clean gown. A nurse is staring at you like you just walked through a wall. Because, technically, you did. Twenty seconds ago, you weren't in this building."
+  },
+  {
+   "beat": "p12",
+   "text": "And at that exact second, every light in the hospital flickers."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,85 @@
+{
+ "id": "GtaPhysicsC06",
+ "slug": "gta-physics/c06",
+ "chapter": "The choice",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Four days later, you've been perfect. No stunts. No falls. Bar full."
+  },
+  {
+   "beat": "p2",
+   "text": "Then you hear Ellie. She's standing on top of the old tree house in the backyard. Not inside it. On the roof."
+  },
+  {
+   "beat": "p3",
+   "text": "'Look!' she shouts. 'I've got the bar too! Watch me!'"
+  },
+  {
+   "beat": "p4",
+   "text": "She doesn't. There's nothing over her head. Just air. The bar only works for you."
+  },
+  {
+   "beat": "p5",
+   "text": "And then the roof board cracks."
+  },
+  {
+   "beat": "p6",
+   "text": "That roof is about ten feet up. A fall from there hits the ground at around seventeen miles an hour. In a game, that's nothing. For a seven-year-old, it's a trip to the emergency room."
+  },
+  {
+   "beat": "p7",
+   "text": "You run. And this time, you use real physics, not game physics."
+  },
+  {
+   "beat": "p8",
+   "text": "What hurts in a fall isn't the speed. It's stopping too fast. Stop over a longer distance, and the force drops. Make the stop ten times longer, and it's ten times gentler. That's exactly how an airbag works."
+  },
+  {
+   "beat": "p9",
+   "text": "So you don't try to catch her with your arms. You grab the giant beanbag off the porch, throw it under the tree house, and dive in underneath it."
+  },
+  {
+   "beat": "p10",
+   "text": "Ellie lands on the beanbag, and the beanbag lands on you. She's safe. She's laughing, even."
+  },
+  {
+   "beat": "p11",
+   "text": "You're not laughing. Your bar was full. Now it's flashing red."
+  },
+  {
+   "beat": "p12",
+   "text": "Zero."
+  }
+ ],
+ "science": [
+  {
+   "claim": "A fall from about ten feet (3 m) hits the ground at about 17 mph.",
+   "working": "v = sqrt(2 x 9.81 x 3.05) = 7.7 m/s = 17 mph.",
+   "source": "Free fall, basic mechanics"
+  },
+  {
+   "claim": "Stopping over ten times the distance makes the force ten times smaller; this is how an airbag works.",
+   "working": "Average force F = m v2 / 2d: for the same speed, F is proportional to 1/d. An airbag and a crumple zone lengthen d.",
+   "source": "Work-energy theorem; NHTSA, 'Air Bags'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

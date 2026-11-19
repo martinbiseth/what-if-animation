@@ -1,0 +1,98 @@
+{
+ "id": "GtaPhysicsC04",
+ "slug": "gta-physics/c04",
+ "chapter": "The catch",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's the thing. In a game, a fall is just a number on a bar. In real life, it's physics. And physics always sends the bill."
+  },
+  {
+   "beat": "p2",
+   "text": "Jump off a ten-story building, and by the time you reach the ground, you're doing about fifty-four miles an hour. That's real. Gravity adds twenty-two miles an hour for every second you fall."
+  },
+  {
+   "beat": "p3",
+   "text": "But the speed isn't the problem. The stopping is. A game character stops and rolls. A real body stops in a few inches, in a few thousandths of a second. That's hundreds of g."
+  },
+  {
+   "beat": "p4",
+   "text": "The most a human has ever taken on purpose is about forty-six g. An Air Force doctor named John Stapp did it in 1954, strapped into a rocket sled. And he was strapped in tight."
+  },
+  {
+   "beat": "p5",
+   "text": "And cars? In a game, a car stops on a dime. A real car going thirty miles an hour needs about seventy-five feet to stop. That's six car lengths. And at that speed, a car carries the same energy as if you dropped it off a three-story building."
+  },
+  {
+   "beat": "p6",
+   "text": "So a real body couldn't do anything you did today. Which means something else is taking the hit."
+  },
+  {
+   "beat": "p7",
+   "text": "Then you think about the hospital. You didn't walk there. You appeared there."
+  },
+  {
+   "beat": "p8",
+   "text": "And making a whole person out of nothing takes energy. Einstein's famous equation, E equals m c squared, says your body is worth more than two days of all the energy the whole world uses."
+  },
+  {
+   "beat": "p9",
+   "text": "Every time you respawn, that energy has to come from somewhere. And tonight, it isn't only the hospital that flickers. It's the whole city."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Jumping off a ten-story building (about 30 m), you hit the ground at about 54 mph.",
+   "working": "v = sqrt(2gh) = sqrt(2 x 9.81 x 30) = 24.3 m/s = 87 km/h = 54 mph (air resistance at this speed changes it only a little).",
+   "source": "Free fall, basic mechanics"
+  },
+  {
+   "claim": "Gravity adds about 22 mph to a falling body for every second it falls.",
+   "working": "g = 9.81 m/s per second = 35.3 km/h = 21.9 mph per second.",
+   "source": "Standard gravity, 9.80665 m/s2 (NIST)"
+  },
+  {
+   "claim": "Stopping from 54 mph in a few inches means hundreds of g in a few thousandths of a second.",
+   "working": "a = v2 / 2d = 24.3^2 / (2 x 0.05) = 5,900 m/s2 = about 600 g; t = 2d / v = 0.004 s.",
+   "source": "Constant deceleration, basic mechanics"
+  },
+  {
+   "claim": "John Paul Stapp, a US Air Force doctor, took 46.2 g on the Sonic Wind rocket sled on 10 December 1954.",
+   "working": "The sled went from 632 mph to a stop in about 1.4 s; Stapp was strapped in.",
+   "source": "US Air Force, 'Dr. John Paul Stapp'; Smithsonian National Air and Space Museum"
+  },
+  {
+   "claim": "A car at 30 mph needs about 23 m (75 ft), six car lengths, to stop.",
+   "working": "9 m thinking distance + 14 m braking distance = 23 m.",
+   "source": "UK Highway Code, rule 126, typical stopping distances"
+  },
+  {
+   "claim": "A car at 30 mph carries the same energy as if it were dropped from about three stories.",
+   "working": "1/2 m v2 = m g h, so h = v2 / 2g = 13.4^2 / 19.6 = 9.2 m, about three stories.",
+   "source": "Kinetic and potential energy, basic mechanics"
+  },
+  {
+   "claim": "The energy in a 45 kg body is more than two days of all the energy the world uses.",
+   "working": "E = mc2 = 45 x (3.0e8)^2 = 4.0e18 J. World primary energy 2023 = 620 EJ a year = 1.7e18 J a day, so 2.4 days.",
+   "source": "Energy Institute, Statistical Review of World Energy 2024"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

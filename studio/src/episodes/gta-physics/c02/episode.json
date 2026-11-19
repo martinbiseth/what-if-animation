@@ -1,0 +1,62 @@
+{
+ "id": "GtaPhysicsC02",
+ "slug": "gta-physics/c02",
+ "chapter": "The rules",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "It started this morning. You rolled out of bed, hit the floor, and instead of a thump, you heard a sound. Ding."
+  },
+  {
+   "beat": "p2",
+   "text": "By lunch, you've figured out the rules."
+  },
+  {
+   "beat": "p3",
+   "text": "Rule one. Nothing really hurts you. A hit just takes a chunk off the bar."
+  },
+  {
+   "beat": "p4",
+   "text": "Rule two. Sit still for a minute, and the bar fills back up."
+  },
+  {
+   "beat": "p5",
+   "text": "Rule three. If the bar ever hits zero, everything goes black, and you wake up in the nearest hospital. Perfectly fine."
+  },
+  {
+   "beat": "p6",
+   "text": "And rule four, which Mo makes up on the spot. Never, ever tell Mom."
+  },
+  {
+   "beat": "p7",
+   "text": "Mo stares at you. 'Bro. You've got GTA physics. You've got respawn.'"
+  },
+  {
+   "beat": "p8",
+   "text": "There's just one thing you haven't noticed yet. The bar only floats over your head. Nobody else has one."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

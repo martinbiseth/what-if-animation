@@ -1,0 +1,58 @@
+{
+ "id": "GtaPhysicsC01",
+ "slug": "gta-physics/c01",
+ "chapter": "Cold open",
+ "topic": "What if GTA6 physics were real?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You trip on the top step at school. Normally, that's a very bad day. Today, you bounce."
+  },
+  {
+   "beat": "p2",
+   "text": "Down all twelve steps, like a rubber doll. And at the bottom, you just stand up."
+  },
+  {
+   "beat": "p3",
+   "text": "At the crosswalk, a delivery van bumps you at walking speed. You fly thirty feet, spin twice in the air, and land on your feet. The driver doesn't even stop."
+  },
+  {
+   "beat": "p4",
+   "text": "Your best friend Mo dares you to jump off his garage roof. So you do. You roll once, dust off your hoodie, and walk away."
+  },
+  {
+   "beat": "p5",
+   "text": "And floating over your head, there's something new. A little green bar. It shrinks a bit every time you land."
+  },
+  {
+   "beat": "p6",
+   "text": "Today, you run on video game physics."
+  },
+  {
+   "beat": "p7",
+   "text": "But what would all of this really do to a human body? And what happens when that little bar runs out?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}
