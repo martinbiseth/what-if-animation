@@ -97,13 +97,13 @@ export const S7: React.FC<ShotProps> = ({ t, len }) => {
   return (
     <g>
       <rect width={1920} height={1080} fill="#14102A" />
-      <text x={960} y={140} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={80} fill="#FFD23A" stroke="#0B0816" strokeWidth={8} paintOrder="stroke">ONE DAY: THE SCOREBOARD</text>
+      <text x={900} y={195} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={62} fill="#FFD23A" stroke="#0B0816" strokeWidth={8} paintOrder="stroke">ONE DAY: THE SCOREBOARD</text>
       {SCORE.map((s, i) => (
         <g key={i} transform={`translate(260 ${290 + i * 150})`} opacity={clamp((t - 10 - i * step) / 6)}>
           <rect x={0} y={-70} width={1400} height={110} rx={20} fill="#22203A" stroke="#4A4660" strokeWidth={4} />
           <text x={40} y={8} fontFamily={FONT.title} fontWeight={800} fontSize={56} fill="#F6EFE3">{s}</text>
           <text x={1360} y={8} textAnchor="end" fontFamily={FONT.title} fontWeight={800} fontSize={56} fill="#FF5A4A">{i === 4 ? 'x6' : i === 3 ? '210K' : '✓'}</text>
-          {i === 4 ? <HotDog x={1140} y={-10} s={0.5} /> : null}
+          {i === 4 ? <HotDog x={1230} y={-10} s={0.45} /> : null}
         </g>
       ))}
     </g>
@@ -159,7 +159,7 @@ export const S11: React.FC<ShotProps> = ({ t, len }) => {
   return (
     <g>
       <Schematic t={t} id="c7s11" />
-      <text x={960} y={190} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={86} fill={SCH.line} opacity={clamp(t / 6)}>IS ANY OF THIS REAL?</text>
+      <text x={900} y={215} textAnchor="middle" fontFamily={FONT.title} fontWeight={800} fontSize={72} fill={SCH.line} opacity={clamp(t / 6)}>IS ANY OF THIS REAL?</text>
       {FACTS.map((s, i) => (
         <g key={i} opacity={clamp((t - 24 - i * step) / 6)} transform={`translate(360 ${360 + i * 150})`}>
           <text x={0} y={0} fontFamily={FONT.title} fontWeight={800} fontSize={60} fill={SCH.live}>✓</text>

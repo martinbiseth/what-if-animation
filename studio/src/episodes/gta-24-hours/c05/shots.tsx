@@ -64,7 +64,7 @@ export const S5: React.FC<ShotProps> = ({ t, len }) => (
   <g transform={camT(1500, 700, kf(t, [[0, 1.8], [len, 2.0]]))}>
     <ShopStreet t={t + 260} mode="dusk" id="c5s5" />
     <Body look={YOU_NOHOOD} pose={wheeze(1500, GROUND, 1, t)} t={t} faces={[[0, 'tired']]} shadow={1} />
-    <PopWord t={t} at={8} x={1500} y={460} text="LEGS: QUIT" size={70} fill="#FFFFFF" hold={60} />
+    <PopWord t={t} at={8} x={1400} y={580} text="LEGS: QUIT" size={70} fill="#FFFFFF" hold={60} />
   </g>
 );
 

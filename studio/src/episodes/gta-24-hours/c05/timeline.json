@@ -2,174 +2,174 @@
  "slug": "gta-24-hours/c05",
  "title": " ",
  "fps": 30,
- "total": 3353,
+ "total": 2304,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 163,
+   "b": 111,
    "t0": 0,
-   "t1": 163,
-   "line": "Five pm.. A police car pulls up at the end of the street."
+   "t1": 111,
+   "line": "Five p. m. A police car pulls up at the end of the street."
   },
   {
    "shot": "S2",
-   "a": 163,
-   "b": 291,
+   "a": 111,
+   "b": 190,
    "t0": 0,
-   "t1": 128,
+   "t1": 79,
    "line": "And every game instinct you have says the same thing."
   },
   {
    "shot": "S3",
-   "a": 291,
-   "b": 312,
+   "a": 190,
+   "b": 212,
    "t0": 0,
-   "t1": 21,
+   "t1": 22,
    "line": "Run."
   },
   {
    "shot": "S4",
-   "a": 312,
-   "b": 397,
+   "a": 212,
+   "b": 283,
    "t0": 0,
-   "t1": 85,
+   "t1": 71,
    "line": "So you run. For ten seconds."
   },
   {
    "shot": "S5",
-   "a": 397,
-   "b": 508,
+   "a": 283,
+   "b": 363,
    "t0": 0,
-   "t1": 111,
+   "t1": 80,
    "line": "Then, as you already know, your legs quit."
   },
   {
    "shot": "S6",
-   "a": 508,
-   "b": 740,
+   "a": 363,
+   "b": 503,
    "t0": 0,
-   "t1": 232,
+   "t1": 140,
    "line": "And here's something the game never tells you. Running from the police doesn't make things go away."
   },
   {
    "shot": "S7",
-   "a": 740,
-   "b": 1051,
+   "a": 503,
+   "b": 693,
    "t0": 0,
-   "t1": 311,
+   "t1": 190,
    "line": "In a lot of places, running from an officer is a crime all by itself. You just turned a few tickets into something much bigger."
   },
   {
    "shot": "S8",
-   "a": 1051,
-   "b": 1155,
+   "a": 693,
+   "b": 761,
    "t0": 0,
-   "t1": 104,
+   "t1": 68,
    "line": "You crawl into a hedge behind the library."
   },
   {
    "shot": "S9",
-   "a": 1155,
-   "b": 1285,
+   "a": 761,
+   "b": 865,
    "t0": 0,
-   "t1": 130,
+   "t1": 104,
    "line": "Rule five. Hide. Wait for the stars to fade."
   },
   {
    "shot": "S10",
-   "a": 1285,
-   "b": 1408,
+   "a": 865,
+   "b": 956,
    "t0": 0,
-   "t1": 123,
+   "t1": 91,
    "line": "Here's the problem. Real police don't have stars."
   },
   {
    "shot": "S11",
-   "a": 1408,
-   "b": 1453,
+   "a": 956,
+   "b": 993,
    "t0": 0,
-   "t1": 45,
+   "t1": 37,
    "line": "They have dogs."
   },
   {
    "shot": "S12",
-   "a": 1453,
-   "b": 1503,
+   "a": 993,
+   "b": 1149,
    "t0": 0,
-   "t1": 50,
-   "line": "A police dog has up"
+   "t1": 156,
+   "line": "A police dog has up to three hundred million scent receptors in its nose. You have about six million."
   },
   {
    "shot": "S13",
-   "a": 1503,
-   "b": 1927,
+   "a": 1149,
+   "b": 1303,
    "t0": 0,
-   "t1": 424,
-   "line": "to three hundred million scent receptors in its nose. You have about six million. To a dog, you're not hiding. You're a big, sweaty, hot dog scented sign that says, Here."
+   "t1": 154,
+   "line": "To a dog, you're not hiding. You're a big, sweaty, hot- dog- scented sign that says, 'Here. '"
   },
   {
    "shot": "S14",
-   "a": 1927,
-   "b": 1990,
+   "a": 1303,
+   "b": 1349,
    "t0": 0,
-   "t1": 63,
+   "t1": 46,
    "line": "And there's a helicopter."
   },
   {
    "shot": "S15",
-   "a": 1990,
-   "b": 2226,
+   "a": 1349,
+   "b": 1504,
    "t0": 0,
-   "t1": 236,
+   "t1": 155,
    "line": "Its thermal camera doesn't care about the hedge. It sees your body heat glowing like a light bulb."
   },
   {
    "shot": "S16",
-   "a": 2226,
-   "b": 2407,
+   "a": 1504,
+   "b": 1630,
    "t0": 0,
-   "t1": 181,
+   "t1": 126,
    "line": "In the game, you hide behind a dumpster and the helicopter flies right past."
   },
   {
    "shot": "S17",
-   "a": 2407,
-   "b": 2605,
+   "a": 1630,
+   "b": 1769,
    "t0": 0,
-   "t1": 198,
-   "line": "In real life, the pilot just says, Hedge behind the library, into the radio. The"
+   "t1": 139,
+   "line": "In real life, the pilot just says, 'Hedge behind the library, ' into the radio."
   },
   {
    "shot": "S18",
-   "a": 2605,
-   "b": 2929,
+   "a": 1769,
+   "b": 1999,
    "t0": 0,
-   "t1": 324,
-   "line": "dog's name is Biscuit. Biscuit finds you in forty seconds, sits down next to the hedge, and wags his tail like he just won a prize."
+   "t1": 230,
+   "line": "The dog's name is Biscuit. Biscuit finds you in forty seconds, sits down next to the hedge, and wags his tail like he just won a prize."
   },
   {
    "shot": "S19",
-   "a": 2929,
-   "b": 3049,
+   "a": 1999,
+   "b": 2090,
    "t0": 0,
-   "t1": 120,
+   "t1": 91,
    "line": "Eight minutes. That's how long rule five lasts."
   },
   {
    "shot": "S20",
-   "a": 3049,
-   "b": 3258,
+   "a": 2090,
+   "b": 2225,
    "t0": 0,
-   "t1": 209,
-   "line": "An officer parts the leaves and looks down at you. Are you the one from the video?"
+   "t1": 135,
+   "line": "An officer parts the leaves and looks down at you. 'Are you the one from the video? '"
   },
   {
    "shot": "S21",
-   "a": 3258,
-   "b": 3353,
+   "a": 2225,
+   "b": 2304,
    "t0": 0,
-   "t1": 95,
+   "t1": 79,
    "line": "Somewhere, Mo is still filming."
   }
  ],
@@ -178,17 +178,17 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 163,
+   "len": 111,
    "first": 0,
-   "line": "Five pm.. A police car pulls up at the end of the street.",
+   "line": "Five p. m. A police car pulls up at the end of the street.",
    "note": "5 PM, a police car arrives"
   },
   {
    "id": "S2",
    "size": "close-up",
    "key": 30,
-   "len": 128,
-   "first": 163,
+   "len": 79,
+   "first": 111,
    "line": "And every game instinct you have says the same thing.",
    "note": "every game instinct"
   },
@@ -196,8 +196,8 @@
    "id": "S3",
    "size": "big word",
    "key": 10,
-   "len": 21,
-   "first": 291,
+   "len": 22,
+   "first": 190,
    "line": "Run.",
    "note": "RUN."
   },
@@ -205,8 +205,8 @@
    "id": "S4",
    "size": "tracking",
    "key": 30,
-   "len": 85,
-   "first": 312,
+   "len": 71,
+   "first": 212,
    "line": "So you run. For ten seconds.",
    "note": "you run, ten-second countdown"
   },
@@ -214,8 +214,8 @@
    "id": "S5",
    "size": "medium",
    "key": 30,
-   "len": 111,
-   "first": 397,
+   "len": 80,
+   "first": 283,
    "line": "Then, as you already know, your legs quit.",
    "note": "legs quit"
   },
@@ -223,8 +223,8 @@
    "id": "S6",
    "size": "graphic",
    "key": 40,
-   "len": 232,
-   "first": 508,
+   "len": 140,
+   "first": 363,
    "line": "And here's something the game never tells you. Running from the police doesn't make things go away.",
    "note": "running doesn't make it go away"
   },
@@ -232,8 +232,8 @@
    "id": "S7",
    "size": "graphic",
    "key": 80,
-   "len": 311,
-   "first": 740,
+   "len": 190,
+   "first": 503,
    "line": "In a lot of places, running from an officer is a crime all by itself. You just turned a few tickets into something much bigger.",
    "note": "tickets merge: MUCH BIGGER"
   },
@@ -241,8 +241,8 @@
    "id": "S8",
    "size": "wide",
    "key": 30,
-   "len": 104,
-   "first": 1051,
+   "len": 68,
+   "first": 693,
    "line": "You crawl into a hedge behind the library.",
    "note": "you crawl into the hedge"
   },
@@ -250,8 +250,8 @@
    "id": "S9",
    "size": "close-up",
    "key": 40,
-   "len": 130,
-   "first": 1155,
+   "len": 104,
+   "first": 761,
    "line": "Rule five. Hide. Wait for the stars to fade.",
    "note": "waiting for the stars to fade"
   },
@@ -259,8 +259,8 @@
    "id": "S10",
    "size": "graphic",
    "key": 50,
-   "len": 123,
-   "first": 1285,
+   "len": 91,
+   "first": 865,
    "line": "Here's the problem. Real police don't have stars.",
    "note": "REAL POLICE DON'T HAVE STARS: they crack and fall"
   },
@@ -268,8 +268,8 @@
    "id": "S11",
    "size": "medium",
    "key": 30,
-   "len": 45,
-   "first": 1408,
+   "len": 37,
+   "first": 956,
    "line": "They have dogs.",
    "note": "Biscuit and his officer"
   },
@@ -277,26 +277,26 @@
    "id": "S12",
    "size": "graphic",
    "key": 60,
-   "len": 50,
-   "first": 1453,
-   "line": "A police dog has up",
+   "len": 156,
+   "first": 993,
+   "line": "A police dog has up to three hundred million scent receptors in its nose. You have about six million.",
    "note": "300 million vs 6 million"
   },
   {
    "id": "S13",
    "size": "medium",
    "key": 60,
-   "len": 424,
-   "first": 1503,
-   "line": "to three hundred million scent receptors in its nose. You have about six million. To a dog, you're not hiding. You're a big, sweaty, hot dog scented sign that says, Here.",
+   "len": 154,
+   "first": 1149,
+   "line": "To a dog, you're not hiding. You're a big, sweaty, hot- dog- scented sign that says, 'Here. '",
    "note": "the HERE sign over the hedge"
   },
   {
    "id": "S14",
    "size": "wide",
    "key": 30,
-   "len": 63,
-   "first": 1927,
+   "len": 46,
+   "first": 1303,
    "line": "And there's a helicopter.",
    "note": "the helicopter"
   },
@@ -304,8 +304,8 @@
    "id": "S15",
    "size": "pov",
    "key": 80,
-   "len": 236,
-   "first": 1990,
+   "len": 155,
+   "first": 1349,
    "line": "Its thermal camera doesn't care about the hedge. It sees your body heat glowing like a light bulb.",
    "note": "thermal camera locks on"
   },
@@ -313,8 +313,8 @@
    "id": "S16",
    "size": "wide",
    "key": 40,
-   "len": 181,
-   "first": 2226,
+   "len": 126,
+   "first": 1504,
    "line": "In the game, you hide behind a dumpster and the helicopter flies right past.",
    "note": "in the game: the helicopter flies past"
   },
@@ -322,26 +322,26 @@
    "id": "S17",
    "size": "close-up",
    "key": 40,
-   "len": 198,
-   "first": 2407,
-   "line": "In real life, the pilot just says, Hedge behind the library, into the radio. The",
+   "len": 139,
+   "first": 1630,
+   "line": "In real life, the pilot just says, 'Hedge behind the library, ' into the radio.",
    "note": "pilot: hedge behind the library"
   },
   {
    "id": "S18",
    "size": "medium",
    "key": 60,
-   "len": 324,
-   "first": 2605,
-   "line": "dog's name is Biscuit. Biscuit finds you in forty seconds, sits down next to the hedge, and wags his tail like he just won a prize.",
+   "len": 230,
+   "first": 1769,
+   "line": "The dog's name is Biscuit. Biscuit finds you in forty seconds, sits down next to the hedge, and wags his tail like he just won a prize.",
    "note": "Biscuit finds you in 40 s, sits, wags"
   },
   {
    "id": "S19",
    "size": "big word",
    "key": 20,
-   "len": 120,
-   "first": 2929,
+   "len": 91,
+   "first": 1999,
    "line": "Eight minutes. That's how long rule five lasts.",
    "note": "8 MINUTES"
   },
@@ -349,21 +349,28 @@
    "id": "S20",
    "size": "pov",
    "key": 40,
-   "len": 209,
-   "first": 3049,
-   "line": "An officer parts the leaves and looks down at you. Are you the one from the video?",
+   "len": 135,
+   "first": 2090,
+   "line": "An officer parts the leaves and looks down at you. 'Are you the one from the video? '",
    "note": "officer parts the leaves"
   },
   {
    "id": "S21",
    "size": "wide",
    "key": 30,
-   "len": 95,
-   "first": 3258,
+   "len": 79,
+   "first": 2225,
    "line": "Somewhere, Mo is still filming.",
    "note": "Mo is still filming"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-24-hours/c05/voice.wav",
+  "sfx": "gta-24-hours/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2281,
+  "music": "gta-24-hours/c05/music.wav",
+  "musicVol": 0.0658
+ }
 }

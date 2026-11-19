@@ -139,7 +139,7 @@ export const S12: React.FC<ShotProps> = ({ t, len }) => {
         <Body look={MO} pose={{ ...b, yaw: -0.6, armR: { a: 20 + 70 * k, b: -10 } }} t={t} faces={[[0, 'happy']]} seed={2} shadow={1} />
       </g>
       <g opacity={clamp((t - 40) / 8)}>
-        <Big x={960} y={220} size={96} fill="#FFD23A">WHICH ONE BREAKS FIRST?</Big>
+        <Big x={960} y={290} size={90} fill="#FFD23A">WHICH ONE BREAKS FIRST?</Big>
       </g>
     </g>
   );
