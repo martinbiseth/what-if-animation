@@ -2,158 +2,158 @@
  "slug": "gta-cheat-codes/c01",
  "title": " ",
  "fps": 30,
- "total": 1348,
+ "total": 1295,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 71,
+   "b": 69,
    "t0": 0,
-   "t1": 71,
+   "t1": 69,
    "line": "You fall down all fourteen stairs. You"
   },
   {
    "shot": "S2",
-   "a": 71,
-   "b": 124,
+   "a": 69,
+   "b": 113,
    "t0": 0,
-   "t1": 53,
-   "line": "land on your head. And you"
+   "t1": 44,
+   "line": "land on your head. And"
   },
   {
    "shot": "S3",
-   "a": 124,
-   "b": 181,
+   "a": 113,
+   "b": 166,
    "t0": 0,
-   "t1": 57,
-   "line": "stand up without a scratch. You"
+   "t1": 53,
+   "line": "you stand up without a scratch. You"
   },
   {
    "shot": "S4",
-   "a": 181,
-   "b": 244,
+   "a": 166,
+   "b": 218,
    "t0": 0,
-   "t1": 63,
-   "line": "open your sock drawer, and there's a"
+   "t1": 52,
+   "line": "open your sock drawer, and there's"
   },
   {
    "shot": "S4b",
-   "a": 244,
-   "b": 308,
+   "a": 218,
+   "b": 272,
    "t0": 0,
-   "t1": 64,
-   "line": "quarter of a million dollars in it."
+   "t1": 54,
+   "line": "a quarter of a million dollars in it."
   },
   {
    "shot": "S5",
-   "a": 308,
-   "b": 332,
+   "a": 272,
+   "b": 303,
    "t0": 0,
-   "t1": 24,
+   "t1": 31,
    "line": "Again. You"
   },
   {
    "shot": "S6",
-   "a": 332,
-   "b": 377,
+   "a": 303,
+   "b": 347,
    "t0": 0,
-   "t1": 45,
-   "line": "press five buttons, and a"
+   "t1": 44,
+   "line": "press five buttons, and"
   },
   {
    "shot": "S7",
-   "a": 377,
-   "b": 492,
+   "a": 347,
+   "b": 455,
    "t0": 0,
-   "t1": 115,
-   "line": "bright red sports car drops out of the sky onto your driveway. And"
+   "t1": 108,
+   "line": "a bright red sports car drops out of the sky onto your driveway. And"
   },
   {
    "shot": "S8",
-   "a": 492,
-   "b": 589,
+   "a": 455,
+   "b": 547,
    "t0": 0,
-   "t1": 97,
+   "t1": 92,
    "line": "this morning, you flew to school. Over the traffic."
   },
   {
    "shot": "S9",
-   "a": 589,
-   "b": 621,
+   "a": 547,
+   "b": 581,
    "t0": 0,
-   "t1": 32,
+   "t1": 34,
    "line": "With a jetpack."
   },
   {
    "shot": "S10",
-   "a": 621,
-   "b": 762,
+   "a": 581,
+   "b": 725,
    "t0": 0,
-   "t1": 141,
+   "t1": 144,
    "line": "Five days ago, you bought an old game controller at a yard sale for two dollars."
   },
   {
    "shot": "S11",
-   "a": 762,
-   "b": 865,
+   "a": 725,
+   "b": 830,
    "t0": 0,
-   "t1": 103,
+   "t1": 105,
    "line": "Taped to the back was a list. Twelve cheat codes. And"
   },
   {
    "shot": "S12",
-   "a": 865,
-   "b": 1008,
+   "a": 830,
+   "b": 958,
    "t0": 0,
-   "t1": 143,
+   "t1": 128,
    "line": "one more line at the bottom, scratched out so hard the pen went through the paper."
   },
   {
    "shot": "S13",
-   "a": 1008,
-   "b": 1108,
+   "a": 958,
+   "b": 1062,
    "t0": 0,
-   "t1": 100,
+   "t1": 104,
    "line": "So what if video game cheat codes worked in real life?"
   },
   {
    "shot": "S13b",
-   "a": 1108,
-   "b": 1158,
+   "a": 1062,
+   "b": 1109,
    "t0": 0,
-   "t1": 50,
-   "line": "Not in a game. In your"
+   "t1": 47,
+   "line": "Not in a game. In"
   },
   {
    "shot": "S14",
-   "a": 1158,
-   "b": 1190,
+   "a": 1109,
+   "b": 1146,
    "t0": 0,
-   "t1": 32,
-   "line": "street. On your"
+   "t1": 37,
+   "line": "your street. On your"
   },
   {
    "shot": "S15",
-   "a": 1190,
-   "b": 1220,
+   "a": 1146,
+   "b": 1181,
    "t0": 0,
-   "t1": 30,
+   "t1": 35,
    "line": "body. In your"
   },
   {
    "shot": "S16",
-   "a": 1220,
-   "b": 1258,
+   "a": 1181,
+   "b": 1220,
    "t0": 0,
-   "t1": 38,
+   "t1": 39,
    "line": "bank. And what if"
   },
   {
    "shot": "S17",
-   "a": 1258,
-   "b": 1348,
+   "a": 1220,
+   "b": 1295,
    "t0": 0,
-   "t1": 90,
+   "t1": 75,
    "line": "every single one of them came with a catch?"
   }
  ],
@@ -162,7 +162,7 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 71,
+   "len": 69,
    "first": 0,
    "line": "You fall down all fourteen stairs. You",
    "note": "fall down the stairs"
@@ -171,44 +171,44 @@
    "id": "S2",
    "size": "close",
    "key": 30,
-   "len": 53,
-   "first": 71,
-   "line": "land on your head. And you",
+   "len": 44,
+   "first": 69,
+   "line": "land on your head. And",
    "note": "land on your head"
   },
   {
    "id": "S3",
    "size": "medium",
    "key": 30,
-   "len": 57,
-   "first": 124,
-   "line": "stand up without a scratch. You",
+   "len": 53,
+   "first": 113,
+   "line": "you stand up without a scratch. You",
    "note": "stand up, INVINCIBLE"
   },
   {
    "id": "S4",
    "size": "insert",
    "key": 30,
-   "len": 63,
-   "first": 181,
-   "line": "open your sock drawer, and there's a",
+   "len": 52,
+   "first": 166,
+   "line": "open your sock drawer, and there's",
    "note": "sock drawer opens"
   },
   {
    "id": "S4b",
    "size": "insert",
    "key": 30,
-   "len": 64,
-   "first": 244,
-   "line": "quarter of a million dollars in it.",
+   "len": 54,
+   "first": 218,
+   "line": "a quarter of a million dollars in it.",
    "note": "cash in the drawer"
   },
   {
    "id": "S5",
    "size": "close",
    "key": 30,
-   "len": 24,
-   "first": 308,
+   "len": 31,
+   "first": 272,
    "line": "Again. You",
    "note": "smug, bills raining"
   },
@@ -216,26 +216,26 @@
    "id": "S6",
    "size": "insert",
    "key": 30,
-   "len": 45,
-   "first": 332,
-   "line": "press five buttons, and a",
+   "len": 44,
+   "first": 303,
+   "line": "press five buttons, and",
    "note": "controller, five buttons"
   },
   {
    "id": "S7",
    "size": "wide",
    "key": 30,
-   "len": 115,
-   "first": 377,
-   "line": "bright red sports car drops out of the sky onto your driveway. And",
+   "len": 108,
+   "first": 347,
+   "line": "a bright red sports car drops out of the sky onto your driveway. And",
    "note": "red car drops onto the street"
   },
   {
    "id": "S8",
    "size": "wide",
    "key": 30,
-   "len": 97,
-   "first": 492,
+   "len": 92,
+   "first": 455,
    "line": "this morning, you flew to school. Over the traffic.",
    "note": "jetpack over the traffic"
   },
@@ -243,8 +243,8 @@
    "id": "S9",
    "size": "medium",
    "key": 30,
-   "len": 32,
-   "first": 589,
+   "len": 34,
+   "first": 547,
    "line": "With a jetpack.",
    "note": "you on the jetpack"
   },
@@ -252,8 +252,8 @@
    "id": "S10",
    "size": "wide",
    "key": 30,
-   "len": 141,
-   "first": 621,
+   "len": 144,
+   "first": 581,
    "line": "Five days ago, you bought an old game controller at a yard sale for two dollars.",
    "note": "yard sale, $2"
   },
@@ -261,8 +261,8 @@
    "id": "S11",
    "size": "insert",
    "key": 30,
-   "len": 103,
-   "first": 762,
+   "len": 105,
+   "first": 725,
    "line": "Taped to the back was a list. Twelve cheat codes. And",
    "note": "the list on the back"
   },
@@ -270,8 +270,8 @@
    "id": "S12",
    "size": "insert",
    "key": 30,
-   "len": 143,
-   "first": 865,
+   "len": 128,
+   "first": 830,
    "line": "one more line at the bottom, scratched out so hard the pen went through the paper.",
    "note": "the scribbled line"
   },
@@ -279,8 +279,8 @@
    "id": "S13",
    "size": "card",
    "key": 30,
-   "len": 100,
-   "first": 1008,
+   "len": 104,
+   "first": 958,
    "line": "So what if video game cheat codes worked in real life?",
    "note": "title"
   },
@@ -288,26 +288,26 @@
    "id": "S13b",
    "size": "insert",
    "key": 30,
-   "len": 50,
-   "first": 1108,
-   "line": "Not in a game. In your",
+   "len": 47,
+   "first": 1062,
+   "line": "Not in a game. In",
    "note": "a game on a TV"
   },
   {
    "id": "S14",
    "size": "wide",
    "key": 30,
-   "len": 32,
-   "first": 1158,
-   "line": "street. On your",
+   "len": 37,
+   "first": 1109,
+   "line": "your street. On your",
    "note": "your street"
   },
   {
    "id": "S15",
    "size": "close",
    "key": 30,
-   "len": 30,
-   "first": 1190,
+   "len": 35,
+   "first": 1146,
    "line": "body. In your",
    "note": "your body"
   },
@@ -315,8 +315,8 @@
    "id": "S16",
    "size": "wide",
    "key": 30,
-   "len": 38,
-   "first": 1220,
+   "len": 39,
+   "first": 1181,
    "line": "bank. And what if",
    "note": "your bank"
   },
@@ -324,12 +324,19 @@
    "id": "S17",
    "size": "close",
    "key": 30,
-   "len": 90,
-   "first": 1258,
+   "len": 75,
+   "first": 1220,
    "line": "every single one of them came with a catch?",
    "note": "a catch"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-cheat-codes/c01/voice.wav",
+  "sfx": "gta-cheat-codes/c01/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.1691,
+  "music": "gta-cheat-codes/c01/music.wav",
+  "musicVol": 0.0621
+ }
 }

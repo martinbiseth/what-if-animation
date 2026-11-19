@@ -2,62 +2,62 @@
  "slug": "gta-cheat-codes/c07",
  "title": " ",
  "fps": 30,
- "total": 1900,
+ "total": 1805,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 80,
+   "b": 72,
    "t0": 0,
-   "t1": 80,
+   "t1": 72,
    "line": "There's no chime this time. Just silence."
   },
   {
    "shot": "S2",
-   "a": 80,
-   "b": 172,
+   "a": 72,
+   "b": 159,
    "t0": 0,
-   "t1": 92,
+   "t1": 87,
    "line": "Ellie's voice stops halfway through your name. The man's"
   },
   {
    "shot": "S3",
-   "a": 172,
-   "b": 228,
+   "a": 159,
+   "b": 217,
    "t0": 0,
-   "t1": 56,
+   "t1": 58,
    "line": "hand stops on the door handle."
   },
   {
    "shot": "S4",
-   "a": 228,
-   "b": 353,
+   "a": 217,
+   "b": 340,
    "t0": 0,
-   "t1": 125,
+   "t1": 123,
    "line": "Outside, a bird hangs in the air, wings wide open, not moving. The"
   },
   {
    "shot": "S5",
-   "a": 353,
-   "b": 440,
+   "a": 340,
+   "b": 431,
    "t0": 0,
-   "t1": 87,
+   "t1": 91,
    "line": "whole world is paused. Everything except you. In"
   },
   {
    "shot": "S6",
-   "a": 440,
-   "b": 561,
+   "a": 431,
+   "b": 557,
    "t0": 0,
-   "t1": 121,
+   "t1": 126,
    "line": "front of your face, in the same glowing letters: Game paused. Then,"
   },
   {
    "shot": "S7",
-   "a": 561,
+   "a": 557,
    "b": 632,
    "t0": 0,
-   "t1": 71,
+   "t1": 75,
    "line": "across the street, a front door opens."
   },
   {
@@ -71,81 +71,81 @@
   {
    "shot": "S8",
    "a": 774,
-   "b": 852,
+   "b": 849,
    "t0": 0,
-   "t1": 78,
+   "t1": 75,
    "line": "look up at your window. And they wave."
   },
   {
    "shot": "S9",
-   "a": 852,
-   "b": 969,
+   "a": 849,
+   "b": 957,
    "t0": 0,
-   "t1": 117,
+   "t1": 108,
    "line": "Who else has a controller? How long have they had it? And"
   },
   {
    "shot": "S9b",
-   "a": 969,
-   "b": 1037,
+   "a": 957,
+   "b": 1025,
    "t0": 0,
    "t1": 68,
    "line": "what happens when someone presses play?"
   },
   {
    "shot": "S10",
-   "a": 1037,
-   "b": 1159,
+   "a": 1025,
+   "b": 1145,
    "t0": 0,
-   "t1": 122,
+   "t1": 120,
    "line": "Is any of this real? The cheats aren't. But every catch is."
   },
   {
    "shot": "S11",
-   "a": 1159,
-   "b": 1258,
+   "a": 1145,
+   "b": 1234,
    "t0": 0,
-   "t1": 99,
+   "t1": 89,
    "line": "People born without pain really do get hurt without noticing."
   },
   {
    "shot": "S11b",
-   "a": 1258,
-   "b": 1354,
+   "a": 1234,
+   "b": 1322,
    "t0": 0,
-   "t1": 96,
+   "t1": 88,
    "line": "Every dollar bill really does have its own serial number."
   },
   {
    "shot": "S11c",
-   "a": 1354,
-   "b": 1498,
+   "a": 1322,
+   "b": 1435,
    "t0": 0,
-   "t1": 144,
+   "t1": 113,
    "line": "One car made from nothing would cost a fifth of the world's energy for a year. And"
   },
   {
    "shot": "S11d",
-   "a": 1498,
-   "b": 1595,
+   "a": 1435,
+   "b": 1533,
    "t0": 0,
-   "t1": 97,
+   "t1": 98,
    "line": "pilots really did see a jetpack next to their plane. So"
   },
   {
    "shot": "S12",
-   "a": 1595,
-   "b": 1763,
+   "a": 1533,
+   "b": 1674,
    "t0": 0,
-   "t1": 168,
+   "t1": 141,
    "line": "which cheat would you have entered first? Tell me in the comments. And this one's part of our"
   },
   {
    "shot": "S13",
-   "a": 1763,
-   "b": 1900,
+   "a": 1674,
+   "b": 1805,
    "t0": 0,
-   "t1": 137,
+   "t1": 131,
    "line": "series about video games in real life. The next one's right here."
   }
  ],
@@ -154,7 +154,7 @@
    "id": "S1",
    "size": "close",
    "key": 30,
-   "len": 80,
+   "len": 72,
    "first": 0,
    "line": "There's no chime this time. Just silence.",
    "note": "silence"
@@ -163,8 +163,8 @@
    "id": "S2",
    "size": "medium",
    "key": 30,
-   "len": 92,
-   "first": 80,
+   "len": 87,
+   "first": 72,
    "line": "Ellie's voice stops halfway through your name. The man's",
    "note": "Ellie frozen mid-word"
   },
@@ -172,8 +172,8 @@
    "id": "S3",
    "size": "insert",
    "key": 30,
-   "len": 56,
-   "first": 172,
+   "len": 58,
+   "first": 159,
    "line": "hand stops on the door handle.",
    "note": "hand on the handle"
   },
@@ -181,8 +181,8 @@
    "id": "S4",
    "size": "insert",
    "key": 30,
-   "len": 125,
-   "first": 228,
+   "len": 123,
+   "first": 217,
    "line": "Outside, a bird hangs in the air, wings wide open, not moving. The",
    "note": "the bird, frozen"
   },
@@ -190,8 +190,8 @@
    "id": "S5",
    "size": "wide",
    "key": 30,
-   "len": 87,
-   "first": 353,
+   "len": 91,
+   "first": 340,
    "line": "whole world is paused. Everything except you. In",
    "note": "the street, paused"
   },
@@ -199,8 +199,8 @@
    "id": "S6",
    "size": "close",
    "key": 30,
-   "len": 121,
-   "first": 440,
+   "len": 126,
+   "first": 431,
    "line": "front of your face, in the same glowing letters: Game paused. Then,",
    "note": "GAME PAUSED"
   },
@@ -208,8 +208,8 @@
    "id": "S7",
    "size": "wide",
    "key": 30,
-   "len": 71,
-   "first": 561,
+   "len": 75,
+   "first": 557,
    "line": "across the street, a front door opens.",
    "note": "a door opens across the street"
   },
@@ -226,7 +226,7 @@
    "id": "S8",
    "size": "medium",
    "key": 30,
-   "len": 78,
+   "len": 75,
    "first": 774,
    "line": "look up at your window. And they wave.",
    "note": "they wave"
@@ -235,8 +235,8 @@
    "id": "S9",
    "size": "card",
    "key": 30,
-   "len": 117,
-   "first": 852,
+   "len": 108,
+   "first": 849,
    "line": "Who else has a controller? How long have they had it? And",
    "note": "who else?"
   },
@@ -245,7 +245,7 @@
    "size": "card",
    "key": 30,
    "len": 68,
-   "first": 969,
+   "first": 957,
    "line": "what happens when someone presses play?",
    "note": "press play?"
   },
@@ -253,8 +253,8 @@
    "id": "S10",
    "size": "card",
    "key": 30,
-   "len": 122,
-   "first": 1037,
+   "len": 120,
+   "first": 1025,
    "line": "Is any of this real? The cheats aren't. But every catch is.",
    "note": "is any of this real?"
   },
@@ -262,8 +262,8 @@
    "id": "S11",
    "size": "card",
    "key": 30,
-   "len": 99,
-   "first": 1159,
+   "len": 89,
+   "first": 1145,
    "line": "People born without pain really do get hurt without noticing.",
    "note": "pain"
   },
@@ -271,8 +271,8 @@
    "id": "S11b",
    "size": "card",
    "key": 30,
-   "len": 96,
-   "first": 1258,
+   "len": 88,
+   "first": 1234,
    "line": "Every dollar bill really does have its own serial number.",
    "note": "serial numbers"
   },
@@ -280,8 +280,8 @@
    "id": "S11c",
    "size": "card",
    "key": 30,
-   "len": 144,
-   "first": 1354,
+   "len": 113,
+   "first": 1322,
    "line": "One car made from nothing would cost a fifth of the world's energy for a year. And",
    "note": "energy"
   },
@@ -289,8 +289,8 @@
    "id": "S11d",
    "size": "card",
    "key": 30,
-   "len": 97,
-   "first": 1498,
+   "len": 98,
+   "first": 1435,
    "line": "pilots really did see a jetpack next to their plane. So",
    "note": "jetpack"
   },
@@ -298,8 +298,8 @@
    "id": "S12",
    "size": "card",
    "key": 30,
-   "len": 168,
-   "first": 1595,
+   "len": 141,
+   "first": 1533,
    "line": "which cheat would you have entered first? Tell me in the comments. And this one's part of our",
    "note": "which cheat first?"
   },
@@ -307,12 +307,19 @@
    "id": "S13",
    "size": "card",
    "key": 30,
-   "len": 137,
-   "first": 1763,
+   "len": 131,
+   "first": 1674,
    "line": "series about video games in real life. The next one's right here.",
    "note": "the series"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-cheat-codes/c07/voice.wav",
+  "sfx": "gta-cheat-codes/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.1225,
+  "music": "gta-cheat-codes/c07/music.wav",
+  "musicVol": 0.058
+ }
 }

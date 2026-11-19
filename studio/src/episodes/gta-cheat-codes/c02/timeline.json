@@ -2,110 +2,110 @@
  "slug": "gta-cheat-codes/c02",
  "title": " ",
  "fps": 30,
- "total": 1380,
+ "total": 1353,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 58,
+   "b": 52,
    "t0": 0,
-   "t1": 58,
+   "t1": 52,
    "line": "It starts on a Saturday. The"
   },
   {
    "shot": "S2",
-   "a": 58,
-   "b": 173,
+   "a": 52,
+   "b": 163,
    "t0": 0,
-   "t1": 115,
+   "t1": 111,
    "line": "controller doesn't plug into anything. It doesn't even have batteries."
   },
   {
    "shot": "S3",
-   "a": 173,
-   "b": 280,
+   "a": 163,
+   "b": 250,
    "t0": 0,
-   "t1": 107,
+   "t1": 87,
    "line": "But when you press the first code on the list, just to see,"
   },
   {
    "shot": "S4",
-   "a": 280,
-   "b": 431,
+   "a": 250,
+   "b": 401,
    "t0": 0,
    "t1": 151,
    "line": "something chimes. And right in front of your face, in glowing letters only you can see:"
   },
   {
    "shot": "S4b",
-   "a": 431,
-   "b": 490,
+   "a": 401,
+   "b": 477,
    "t0": 0,
-   "t1": 59,
+   "t1": 76,
    "line": "Cheat activated. Invincible. You"
   },
   {
    "shot": "S5",
-   "a": 490,
-   "b": 569,
+   "a": 477,
+   "b": 551,
    "t0": 0,
-   "t1": 79,
-   "line": "poke your arm with a fork. Nothing. You"
+   "t1": 74,
+   "line": "poke your arm with a fork. Nothing."
   },
   {
    "shot": "S6",
-   "a": 569,
-   "b": 696,
+   "a": 551,
+   "b": 676,
    "t0": 0,
-   "t1": 127,
-   "line": "drop a dictionary on your foot. Nothing. Not even a red mark. You"
+   "t1": 125,
+   "line": "You drop a dictionary on your foot. Nothing. Not even a red mark. You"
   },
   {
    "shot": "S7",
-   "a": 696,
-   "b": 834,
+   "a": 676,
+   "b": 821,
    "t0": 0,
-   "t1": 138,
+   "t1": 145,
    "line": "throw yourself down all fourteen stairs, on purpose. It doesn't even tickle. The"
   },
   {
    "shot": "S8",
-   "a": 834,
-   "b": 946,
+   "a": 821,
+   "b": 926,
    "t0": 0,
-   "t1": 112,
+   "t1": 105,
    "line": "rules are on the back of the list, in tiny, old handwriting."
   },
   {
    "shot": "S9",
-   "a": 946,
-   "b": 1056,
+   "a": 926,
+   "b": 1042,
    "t0": 0,
-   "t1": 110,
+   "t1": 116,
    "line": "One. A cheat stays on until you enter the same code again."
   },
   {
    "shot": "S10",
-   "a": 1056,
-   "b": 1137,
+   "a": 1042,
+   "b": 1117,
    "t0": 0,
-   "t1": 81,
+   "t1": 75,
    "line": "Two. Nobody else can see the letters. And"
   },
   {
    "shot": "S11",
-   "a": 1137,
+   "a": 1117,
    "b": 1216,
    "t0": 0,
-   "t1": 79,
+   "t1": 99,
    "line": "three. Never, ever enter the last code."
   },
   {
    "shot": "S12",
    "a": 1216,
-   "b": 1380,
+   "b": 1353,
    "t0": 0,
-   "t1": 164,
+   "t1": 137,
    "line": "Under all the scribbles, there's one word. You can't quite read it. Not yet."
   }
  ],
@@ -114,7 +114,7 @@
    "id": "S1",
    "size": "card",
    "key": 30,
-   "len": 58,
+   "len": 52,
    "first": 0,
    "line": "It starts on a Saturday. The",
    "note": "SATURDAY"
@@ -123,8 +123,8 @@
    "id": "S2",
    "size": "medium",
    "key": 30,
-   "len": 115,
-   "first": 58,
+   "len": 111,
+   "first": 52,
    "line": "controller doesn't plug into anything. It doesn't even have batteries.",
    "note": "no cable, no batteries"
   },
@@ -132,8 +132,8 @@
    "id": "S3",
    "size": "insert",
    "key": 30,
-   "len": 107,
-   "first": 173,
+   "len": 87,
+   "first": 163,
    "line": "But when you press the first code on the list, just to see,",
    "note": "first code"
   },
@@ -142,7 +142,7 @@
    "size": "close",
    "key": 30,
    "len": 151,
-   "first": 280,
+   "first": 250,
    "line": "something chimes. And right in front of your face, in glowing letters only you can see:",
    "note": "a chime, letters forming"
   },
@@ -150,8 +150,8 @@
    "id": "S4b",
    "size": "close",
    "key": 30,
-   "len": 59,
-   "first": 431,
+   "len": 76,
+   "first": 401,
    "line": "Cheat activated. Invincible. You",
    "note": "CHEAT ACTIVATED: INVINCIBLE"
   },
@@ -159,26 +159,26 @@
    "id": "S5",
    "size": "insert",
    "key": 30,
-   "len": 79,
-   "first": 490,
-   "line": "poke your arm with a fork. Nothing. You",
+   "len": 74,
+   "first": 477,
+   "line": "poke your arm with a fork. Nothing.",
    "note": "fork"
   },
   {
    "id": "S6",
    "size": "insert",
    "key": 30,
-   "len": 127,
-   "first": 569,
-   "line": "drop a dictionary on your foot. Nothing. Not even a red mark. You",
+   "len": 125,
+   "first": 551,
+   "line": "You drop a dictionary on your foot. Nothing. Not even a red mark. You",
    "note": "dictionary on foot"
   },
   {
    "id": "S7",
    "size": "wide",
    "key": 30,
-   "len": 138,
-   "first": 696,
+   "len": 145,
+   "first": 676,
    "line": "throw yourself down all fourteen stairs, on purpose. It doesn't even tickle. The",
    "note": "down the stairs on purpose"
   },
@@ -186,8 +186,8 @@
    "id": "S8",
    "size": "insert",
    "key": 30,
-   "len": 112,
-   "first": 834,
+   "len": 105,
+   "first": 821,
    "line": "rules are on the back of the list, in tiny, old handwriting.",
    "note": "the rules"
   },
@@ -195,8 +195,8 @@
    "id": "S9",
    "size": "insert",
    "key": 30,
-   "len": 110,
-   "first": 946,
+   "len": 116,
+   "first": 926,
    "line": "One. A cheat stays on until you enter the same code again.",
    "note": "rule 1"
   },
@@ -204,8 +204,8 @@
    "id": "S10",
    "size": "insert",
    "key": 30,
-   "len": 81,
-   "first": 1056,
+   "len": 75,
+   "first": 1042,
    "line": "Two. Nobody else can see the letters. And",
    "note": "rule 2"
   },
@@ -213,8 +213,8 @@
    "id": "S11",
    "size": "insert",
    "key": 30,
-   "len": 79,
-   "first": 1137,
+   "len": 99,
+   "first": 1117,
    "line": "three. Never, ever enter the last code.",
    "note": "rule 3"
   },
@@ -222,12 +222,19 @@
    "id": "S12",
    "size": "insert",
    "key": 30,
-   "len": 164,
+   "len": 137,
    "first": 1216,
    "line": "Under all the scribbles, there's one word. You can't quite read it. Not yet.",
    "note": "the scribbles"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-cheat-codes/c02/voice.wav",
+  "sfx": "gta-cheat-codes/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2307,
+  "music": "gta-cheat-codes/c02/music.wav",
+  "musicVol": 0.1055
+ }
 }
