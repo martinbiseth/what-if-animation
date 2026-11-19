@@ -33,7 +33,7 @@ export const starPath = (r: number, inner = 0.45) => {
  */
 export type StarK = number | [number, number][];
 export const starsAt = (t: number, k: StarK): { n: number; flash: boolean; since: number } => {
-  if (typeof k === 'number') return { n: Math.floor(k), flash: k % 1 > 0.4, since: -999 };
+  if (typeof k === 'number') return { n: Math.floor(k), flash: k % 1 > 0.4, since: 999 };
   let cur = k[0];
   for (const key of k) if (t >= key[0]) cur = key;
   return { n: Math.floor(cur[1]), flash: cur[1] % 1 > 0.4, since: t - cur[0] };
@@ -60,7 +60,7 @@ export const WantedStars: React.FC<{
       {Array.from({ length: max }).map((_, i) => {
         const cx = -((max - 1) * gap) / 2 + i * gap;
         const on = i < n;
-        const newest = on && i === n - 1 && since < 12;
+        const newest = on && i === n - 1 && since >= 0 && since < 12;
         const sc = newest ? backOut(clamp(since / 8)) * (1 + 0.5 * clamp(1 - since / 12)) : 1;
         return (
           <g key={i} transform={`translate(${cx} ${-r - 8}) scale(${sc})`}>

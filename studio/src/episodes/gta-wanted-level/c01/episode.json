@@ -38,21 +38,223 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
+   "key": 40,
+   "note": "you step off the kerb on red"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "note": "the little red man"
+  },
+  {
+   "id": "S3",
+   "size": "close",
    "key": 30,
-   "note": "placeholder card: Cold open"
+   "note": "ding: a star"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 20,
+   "note": "one star"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 45,
+   "note": "the bike cop turns the corner"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 40,
+   "note": "you run"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 14,
+   "note": "two stars"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "note": "three cars converge"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "note": "behind the skate ramp: three"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 50,
+   "note": "the helicopter rises"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "note": "the searchlight finds you"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 14,
+   "note": "four stars"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "note": "roadblock on the bridge"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 30,
+   "note": "your face on the mall screens"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 60,
+   "note": "the man looks up"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "note": "he puts the burger down"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "note": "five stars"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 60,
+   "note": "every unit in the city"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 20,
+   "note": "you"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 20,
+   "note": "all because you crossed on red"
+  },
+  {
+   "id": "S21",
+   "size": "card",
+   "key": 50,
+   "note": "title"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "little"
+  },
+  {
+   "shot": "S3",
+   "at": "Ding"
+  },
+  {
+   "shot": "S4",
+   "at": "gold"
+  },
+  {
+   "shot": "S5",
+   "at": "Ten"
+  },
+  {
+   "shot": "S6",
+   "at": "So"
+  },
+  {
+   "shot": "S7",
+   "at": "Two"
+  },
+  {
+   "shot": "S8",
+   "at": "Sirens"
+  },
+  {
+   "shot": "S9",
+   "at": "hide"
+  },
+  {
+   "shot": "S10",
+   "at": "helicopter"
+  },
+  {
+   "shot": "S11",
+   "at": "searchlight"
+  },
+  {
+   "shot": "S12",
+   "at": "Four"
+  },
+  {
+   "shot": "S13",
+   "at": "Roadblocks"
+  },
+  {
+   "shot": "S14",
+   "at": "face"
+  },
+  {
+   "shot": "S15",
+   "at": "man"
+  },
+  {
+   "shot": "S16",
+   "at": "slowly"
+  },
+  {
+   "shot": "S17",
+   "at": "fifth"
+  },
+  {
+   "shot": "S18",
+   "at": "Every"
+  },
+  {
+   "shot": "S19",
+   "at": "You"
+  },
+  {
+   "shot": "S20",
+   "at": "All"
+  },
+  {
+   "shot": "S21",
+   "at": "What"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
- }
+ },
+ "title": [
+  "WHAT IF YOU GOT A 5-STAR",
+  "WANTED LEVEL IN REAL LIFE?"
+ ]
 }

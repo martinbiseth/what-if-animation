@@ -1,27 +1,265 @@
 {
  "slug": "gta-wanted-level/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1605,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 152,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 152,
+   "line": "It starts on a Tuesday. You wake up, and something is floating above your head."
+  },
+  {
+   "shot": "S2",
+   "a": 152,
+   "b": 246,
+   "t0": 0,
+   "t1": 94,
+   "line": "Five empty stars, in a little row, like a crown."
+  },
+  {
+   "shot": "S3",
+   "a": 246,
+   "b": 360,
+   "t0": 0,
+   "t1": 114,
+   "line": "Mum doesn't see them. Your little sister Ellie doesn't see them."
+  },
+  {
+   "shot": "S4",
+   "a": 360,
+   "b": 465,
+   "t0": 0,
+   "t1": 105,
+   "line": "At school, your best friend Mo walks straight past them. At"
+  },
+  {
+   "shot": "S5",
+   "a": 465,
+   "b": 572,
+   "t0": 0,
+   "t1": 107,
+   "line": "breakfast, you wave your hand through them. Nothing. You"
+  },
+  {
+   "shot": "S6",
+   "a": 572,
+   "b": 719,
+   "t0": 0,
+   "t1": 147,
+   "line": "check the bathroom mirror. Still there, very faint, like stickers on the glass."
+  },
+  {
+   "shot": "S7",
+   "a": 719,
+   "b": 790,
+   "t0": 0,
+   "t1": 71,
+   "line": "By lunch, you've worked out the rules."
+  },
+  {
+   "shot": "S8",
+   "a": 790,
+   "b": 900,
+   "t0": 0,
+   "t1": 110,
+   "line": "Break any rule, even a tiny one, and a star fills in. You"
+  },
+  {
+   "shot": "S9",
+   "a": 900,
+   "b": 1017,
+   "t0": 0,
+   "t1": 117,
+   "line": "test it on the way home. You step on a crack in the sidewalk."
+  },
+  {
+   "shot": "S10",
+   "a": 1017,
+   "b": 1106,
+   "t0": 0,
+   "t1": 89,
+   "line": "Nothing. That's not a rule. Good to know."
+  },
+  {
+   "shot": "S11",
+   "a": 1106,
+   "b": 1273,
+   "t0": 0,
+   "t1": 167,
+   "line": "If a police officer sees you while you have a star, they come for you, exactly like in a game."
+  },
+  {
+   "shot": "S12",
+   "a": 1273,
+   "b": 1346,
+   "t0": 0,
+   "t1": 73,
+   "line": "And if you run, you get another star."
+  },
+  {
+   "shot": "S13",
+   "a": 1346,
+   "b": 1460,
+   "t0": 0,
+   "t1": 114,
+   "line": "One more thing. If you stay out of sight long enough, the stars"
+  },
+  {
+   "shot": "S14",
+   "a": 1460,
+   "b": 1506,
+   "t0": 0,
+   "t1": 46,
+   "line": "flash, and fade away."
+  },
+  {
+   "shot": "S15",
+   "a": 1506,
+   "b": 1605,
+   "t0": 0,
+   "t1": 99,
+   "line": "At least, that's how it works at the start."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "medium",
+   "key": 60,
+   "len": 152,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "It starts on a Tuesday. You wake up, and something is floating above your head.",
+   "note": "Tuesday: something above your head"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 30,
+   "len": 94,
+   "first": 152,
+   "line": "Five empty stars, in a little row, like a crown.",
+   "note": "five empty stars"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 50,
+   "len": 114,
+   "first": 246,
+   "line": "Mum doesn't see them. Your little sister Ellie doesn't see them.",
+   "note": "Mum and Ellie dont see them"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 50,
+   "len": 105,
+   "first": 360,
+   "line": "At school, your best friend Mo walks straight past them. At",
+   "note": "Mo walks straight past"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 30,
+   "len": 107,
+   "first": 465,
+   "line": "breakfast, you wave your hand through them. Nothing. You",
+   "note": "hand through the stars"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 147,
+   "first": 572,
+   "line": "check the bathroom mirror. Still there, very faint, like stickers on the glass.",
+   "note": "the mirror"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 20,
+   "len": 71,
+   "first": 719,
+   "line": "By lunch, you've worked out the rules.",
+   "note": "the rules"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 50,
+   "len": 110,
+   "first": 790,
+   "line": "Break any rule, even a tiny one, and a star fills in. You",
+   "note": "rule 1"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 50,
+   "len": 117,
+   "first": 900,
+   "line": "test it on the way home. You step on a crack in the sidewalk.",
+   "note": "a crack in the sidewalk"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "len": 89,
+   "first": 1017,
+   "line": "Nothing. That's not a rule. Good to know.",
+   "note": "not a rule"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 30,
+   "len": 167,
+   "first": 1106,
+   "line": "If a police officer sees you while you have a star, they come for you, exactly like in a game.",
+   "note": "rule 2: seen = chased"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 40,
+   "len": 73,
+   "first": 1273,
+   "line": "And if you run, you get another star.",
+   "note": "rule 3: run, one more"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 20,
+   "len": 114,
+   "first": 1346,
+   "line": "One more thing. If you stay out of sight long enough, the stars",
+   "note": "rule 4: hide"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 50,
+   "len": 46,
+   "first": 1460,
+   "line": "flash, and fade away.",
+   "note": "they flash and fade"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 40,
+   "len": 99,
+   "first": 1506,
+   "line": "At least, that's how it works at the start.",
+   "note": "at the start"
   }
  ],
  "fx": [],

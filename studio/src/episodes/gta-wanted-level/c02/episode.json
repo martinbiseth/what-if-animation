@@ -37,22 +37,160 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
+   "size": "medium",
+   "key": 60,
+   "note": "Tuesday: something above your head"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
    "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "five empty stars"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 50,
+   "note": "Mum and Ellie dont see them"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 50,
+   "note": "Mo walks straight past"
+  },
+  {
+   "id": "S5",
+   "size": "close",
+   "key": 30,
+   "note": "hand through the stars"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "note": "the mirror"
+  },
+  {
+   "id": "S7",
+   "size": "card",
+   "key": 20,
+   "note": "the rules"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 50,
+   "note": "rule 1"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 50,
+   "note": "a crack in the sidewalk"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "note": "not a rule"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 30,
+   "note": "rule 2: seen = chased"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 40,
+   "note": "rule 3: run, one more"
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "key": 20,
+   "note": "rule 4: hide"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 50,
+   "note": "they flash and fade"
+  },
+  {
+   "id": "S15",
+   "size": "close",
+   "key": 40,
+   "note": "at the start"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Five"
+  },
+  {
+   "shot": "S3",
+   "at": "Mum"
+  },
+  {
+   "shot": "S4",
+   "at": "At"
+  },
+  {
+   "shot": "S5",
+   "at": "breakfast"
+  },
+  {
+   "shot": "S6",
+   "at": "check"
+  },
+  {
+   "shot": "S7",
+   "at": "By"
+  },
+  {
+   "shot": "S8",
+   "at": "Break"
+  },
+  {
+   "shot": "S9",
+   "at": "test"
+  },
+  {
+   "shot": "S10",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S11",
+   "at": "If"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "One"
+  },
+  {
+   "shot": "S14",
+   "at": "flash"
+  },
+  {
+   "shot": "S15",
+   "at": "At"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
-  "WHAT IF YOU COULD",
-  ""
+  "WHAT IF YOU GOT A 5-STAR",
+  "WANTED LEVEL IN REAL LIFE?"
  ]
 }
