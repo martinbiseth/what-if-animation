@@ -33,18 +33,204 @@
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "set": "hospital room",
+   "note": "your eyes open in the bed again",
+   "key": 20
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "hospital room",
+   "note": "the nurse, scared",
+   "key": 30
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "hospital room",
+   "note": "the room is dark",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "hospital hall",
+   "note": "the whole hospital is dark",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "city night",
+   "note": "the whole city is dark",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "dark",
+   "note": "blackout timer running past 4 s",
+   "key": 50
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "hospital room",
+   "note": "the generators kick in",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "hospital room",
+   "note": "the suit at the end of your bed",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "hospital room",
+   "note": "suit: it didn't come back",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "phone",
+   "note": "a video from Mom",
+   "key": 20
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "phone video",
+   "note": "Ellie with a flashlight, waving",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "phone video",
+   "note": "over her head, a faint green bar",
+   "key": 100
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "set": "dark",
+   "note": "IS ANY OF THIS REAL?",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "54 MPH",
+   "key": 70
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "46 G",
+   "key": 70
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "6 CAR LENGTHS",
+   "key": 70
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "hospital room",
+   "note": "you in the dark: would you have dived?",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "end card",
+   "set": "dark",
+   "note": "NEXT TIME: ELLIE RESPAWNS · SUBSCRIBE",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "The#2"
+  },
+  {
+   "shot": "S3",
+   "at": "Because"
+  },
+  {
+   "shot": "S4",
+   "at": "The#2"
+  },
+  {
+   "shot": "S5",
+   "at": "Out"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "The"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "It"
+  },
+  {
+   "shot": "S10",
+   "at": "Your"
+  },
+  {
+   "shot": "S11",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S12",
+   "at": "And"
+  },
+  {
+   "shot": "S13",
+   "at": "So"
+  },
+  {
+   "shot": "S14",
+   "at": "A"
+  },
+  {
+   "shot": "S15",
+   "at": "John"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "Would"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": []
 }

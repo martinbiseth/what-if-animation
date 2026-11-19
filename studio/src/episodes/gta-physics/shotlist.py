@@ -143,6 +143,26 @@ L = {
   ('S19', "You're", 'close-up', 'backyard', 'you under it: bar flashing red', 30),
   ('S20', 'Zero', 'insert', 'dark', 'ZERO', 24),
  ],
+ 'c07': [
+  ('S1', 'f:0', 'medium', 'hospital room', 'your eyes open in the bed again', 20),
+  ('S2', 'The#2', 'close-up', 'hospital room', 'the nurse, scared', 30),
+  ('S3', 'Because', 'wide', 'hospital room', 'the room is dark', 30),
+  ('S4', 'The#2', 'wide', 'hospital hall', 'the whole hospital is dark', 30),
+  ('S5', 'Out', 'wide', 'city night', 'the whole city is dark', 30),
+  ('S6', 'And', 'insert', 'dark', 'blackout timer running past 4 s', 50),
+  ('S7', 'The', 'wide', 'hospital room', 'the generators kick in', 30),
+  ('S8', 'The', 'wide', 'hospital room', 'the suit at the end of your bed', 40),
+  ('S9', 'It', 'close-up', 'hospital room', "suit: it didn't come back", 40),
+  ('S10', 'Your', 'insert', 'phone', 'a video from Mom', 20),
+  ('S11', 'Ellie', 'insert', 'phone video', 'Ellie with a flashlight, waving', 40),
+  ('S12', 'And', 'insert', 'phone video', 'over her head, a faint green bar', 100),
+  ('S13', 'So', 'big word', 'dark', 'IS ANY OF THIS REAL?', 20),
+  ('S14', 'A', 'graphic', 'schematic', '54 MPH', 70),
+  ('S15', 'John', 'graphic', 'schematic', '46 G', 70),
+  ('S16', 'And', 'graphic', 'schematic', '6 CAR LENGTHS', 70),
+  ('S17', 'Would', 'close-up', 'hospital room', 'you in the dark: would you have dived?', 40),
+  ('S18', 'And', 'end card', 'dark', 'NEXT TIME: ELLIE RESPAWNS · SUBSCRIBE', 40),
+ ],
 }
 
 

@@ -1,27 +1,316 @@
 {
  "slug": "gta-physics/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2453,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 121,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 121,
+   "line": "You open your eyes in the hospital bed again."
+  },
+  {
+   "shot": "S2",
+   "a": 121,
+   "b": 286,
+   "t0": 0,
+   "t1": 165,
+   "line": "The nurse doesn't look surprised this time. She looks scared."
+  },
+  {
+   "shot": "S3",
+   "a": 286,
+   "b": 359,
+   "t0": 0,
+   "t1": 73,
+   "line": "Because the room is dark."
+  },
+  {
+   "shot": "S4",
+   "a": 359,
+   "b": 436,
+   "t0": 0,
+   "t1": 77,
+   "line": "The whole hospital is dark."
+  },
+  {
+   "shot": "S5",
+   "a": 436,
+   "b": 549,
+   "t0": 0,
+   "t1": 113,
+   "line": "Out the window, the whole city is dark."
+  },
+  {
+   "shot": "S6",
+   "a": 549,
+   "b": 672,
+   "t0": 0,
+   "t1": 123,
+   "line": "And it's been a lot longer than four seconds."
+  },
+  {
+   "shot": "S7",
+   "a": 672,
+   "b": 754,
+   "t0": 0,
+   "t1": 82,
+   "line": "The backup generators kick in."
+  },
+  {
+   "shot": "S8",
+   "a": 754,
+   "b": 908,
+   "t0": 0,
+   "t1": 154,
+   "line": "The man in the suit is standing at the end of your bed."
+  },
+  {
+   "shot": "S9",
+   "a": 908,
+   "b": 1079,
+   "t0": 0,
+   "t1": 171,
+   "line": "'It didn't come back, ' he says quietly. 'Not this time. '"
+  },
+  {
+   "shot": "S10",
+   "a": 1079,
+   "b": 1189,
+   "t0": 0,
+   "t1": 110,
+   "line": "Your phone buzzes. A video from Mom."
+  },
+  {
+   "shot": "S11",
+   "a": 1189,
+   "b": 1365,
+   "t0": 0,
+   "t1": 176,
+   "line": "Ellie, safe at home, holding a flashlight, waving at the camera."
+  },
+  {
+   "shot": "S12",
+   "a": 1365,
+   "b": 1526,
+   "t0": 0,
+   "t1": 161,
+   "line": "And over her head, very faint, there's a little green bar."
+  },
+  {
+   "shot": "S13",
+   "a": 1526,
+   "b": 1658,
+   "t0": 0,
+   "t1": 132,
+   "line": "So, is any of this real? The physics is."
+  },
+  {
+   "shot": "S14",
+   "a": 1658,
+   "b": 1813,
+   "t0": 0,
+   "t1": 155,
+   "line": "A ten- story fall really ends at fifty- four miles an hour."
+  },
+  {
+   "shot": "S15",
+   "a": 1813,
+   "b": 1918,
+   "t0": 0,
+   "t1": 105,
+   "line": "John Stapp really survived forty- six g."
+  },
+  {
+   "shot": "S16",
+   "a": 1918,
+   "b": 2072,
+   "t0": 0,
+   "t1": 154,
+   "line": "And a car at thirty really needs six car lengths to stop."
+  },
+  {
+   "shot": "S17",
+   "a": 2072,
+   "b": 2232,
+   "t0": 0,
+   "t1": 160,
+   "line": "Would you have made the dive? Tell me in the comments."
+  },
+  {
+   "shot": "S18",
+   "a": 2232,
+   "b": 2453,
+   "t0": 0,
+   "t1": 221,
+   "line": "And subscribe, because next time, we find out what happens when Ellie respawns."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "key": 20,
+   "len": 121,
+   "first": 0,
+   "line": "You open your eyes in the hospital bed again.",
+   "note": "your eyes open in the bed again"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 30,
+   "len": 165,
+   "first": 121,
+   "line": "The nurse doesn't look surprised this time. She looks scared.",
+   "note": "the nurse, scared"
+  },
+  {
+   "id": "S3",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "len": 73,
+   "first": 286,
+   "line": "Because the room is dark.",
+   "note": "the room is dark"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "len": 77,
+   "first": 359,
+   "line": "The whole hospital is dark.",
+   "note": "the whole hospital is dark"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 30,
+   "len": 113,
+   "first": 436,
+   "line": "Out the window, the whole city is dark.",
+   "note": "the whole city is dark"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 50,
+   "len": 123,
+   "first": 549,
+   "line": "And it's been a lot longer than four seconds.",
+   "note": "blackout timer running past 4 s"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 82,
+   "first": 672,
+   "line": "The backup generators kick in.",
+   "note": "the generators kick in"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 40,
+   "len": 154,
+   "first": 754,
+   "line": "The man in the suit is standing at the end of your bed.",
+   "note": "the suit at the end of your bed"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 40,
+   "len": 171,
+   "first": 908,
+   "line": "'It didn't come back, ' he says quietly. 'Not this time. '",
+   "note": "suit: it didn't come back"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 20,
+   "len": 110,
+   "first": 1079,
+   "line": "Your phone buzzes. A video from Mom.",
+   "note": "a video from Mom"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 40,
+   "len": 176,
+   "first": 1189,
+   "line": "Ellie, safe at home, holding a flashlight, waving at the camera.",
+   "note": "Ellie with a flashlight, waving"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 100,
+   "len": 161,
+   "first": 1365,
+   "line": "And over her head, very faint, there's a little green bar.",
+   "note": "over her head, a faint green bar"
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "key": 20,
+   "len": 132,
+   "first": 1526,
+   "line": "So, is any of this real? The physics is.",
+   "note": "IS ANY OF THIS REAL?"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 70,
+   "len": 155,
+   "first": 1658,
+   "line": "A ten- story fall really ends at fifty- four miles an hour.",
+   "note": "54 MPH"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 70,
+   "len": 105,
+   "first": 1813,
+   "line": "John Stapp really survived forty- six g.",
+   "note": "46 G"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 70,
+   "len": 154,
+   "first": 1918,
+   "line": "And a car at thirty really needs six car lengths to stop.",
+   "note": "6 CAR LENGTHS"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 40,
+   "len": 160,
+   "first": 2072,
+   "line": "Would you have made the dive? Tell me in the comments.",
+   "note": "you in the dark: would you have dived?"
+  },
+  {
+   "id": "S18",
+   "size": "end card",
+   "key": 40,
+   "len": 221,
+   "first": 2232,
+   "line": "And subscribe, because next time, we find out what happens when Ellie respawns.",
+   "note": "NEXT TIME: ELLIE RESPAWNS · SUBSCRIBE"
   }
  ],
  "fx": [],
