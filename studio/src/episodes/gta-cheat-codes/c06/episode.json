@@ -61,5 +61,250 @@
    "text": "So you enter it. Red. Red. Down. Blue. Up."
   }
  ],
- "science": []
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "two-shot",
+   "note": "we'll take that",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "note": "you know what that means",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "card",
+   "note": "money, cars, energy",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "note": "nobody lets you go home",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "note": "Mum steps between",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "note": "two more men",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "Ellie on the stairs",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "close",
+   "note": "you can't run",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "note": "bags and cars",
+   "key": 30
+  },
+  {
+   "id": "S9b",
+   "size": "card",
+   "note": "nothing makes people forget",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "note": "up the stairs",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "note": "lock the door",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "note": "list against the window",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "note": "the sun through the paper",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "note": "RESET",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "footsteps on the stairs",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "note": "through the door",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "note": "Mo: don't",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "what does reset mean",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "card",
+   "note": "the cheats?",
+   "key": 30
+  },
+  {
+   "id": "S19b",
+   "size": "card",
+   "note": "the house?",
+   "key": 30
+  },
+  {
+   "id": "S19c",
+   "size": "card",
+   "note": "you?",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "note": "the only code left",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "note": "red red down blue up",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "know"
+  },
+  {
+   "shot": "S3",
+   "at": "only"
+  },
+  {
+   "shot": "S4",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S5",
+   "at": "Mum"
+  },
+  {
+   "shot": "S6",
+   "at": "Two"
+  },
+  {
+   "shot": "S7",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S8",
+   "at": "run"
+  },
+  {
+   "shot": "S9",
+   "at": "could"
+  },
+  {
+   "shot": "S9b",
+   "at": "Nothing"
+  },
+  {
+   "shot": "S10",
+   "at": "grab"
+  },
+  {
+   "shot": "S11",
+   "at": "lock"
+  },
+  {
+   "shot": "S12",
+   "at": "pull"
+  },
+  {
+   "shot": "S13",
+   "at": "evening"
+  },
+  {
+   "shot": "S14",
+   "at": "Reset"
+  },
+  {
+   "shot": "S15",
+   "at": "Downstairs"
+  },
+  {
+   "shot": "S16",
+   "at": "Don't"
+  },
+  {
+   "shot": "S17",
+   "at": "phone"
+  },
+  {
+   "shot": "S18",
+   "at": "know"
+  },
+  {
+   "shot": "S19",
+   "at": "cheats"
+  },
+  {
+   "shot": "S19b",
+   "at": "house"
+  },
+  {
+   "shot": "S19c",
+   "at": "you"
+  },
+  {
+   "shot": "S20",
+   "at": "But"
+  },
+  {
+   "shot": "S21",
+   "at": "enter"
+  }
+ ],
+ "fx": []
 }

@@ -64,5 +64,230 @@
    "working": "Founded 5 July 1865 as a Treasury bureau; full-time presidential protection from 1902.",
    "source": "U.S. Secret Service, 'History'"
   }
- ]
+ ],
+ "shots": [
+  {
+   "id": "S2",
+   "size": "close",
+   "note": "the pilot",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "note": "from the plane window",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "card",
+   "note": "2020, LAX",
+   "key": 30
+  },
+  {
+   "id": "S4c",
+   "size": "card",
+   "note": "3,000 ft",
+   "key": 30
+  },
+  {
+   "id": "S4b",
+   "size": "card",
+   "note": "the FBI went looking",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "note": "on the news",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "note": "42 crying-laughing faces",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "note": "the power company",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "note": "three dips, one street",
+   "key": 30
+  },
+  {
+   "id": "S8b",
+   "size": "insert",
+   "note": "your street",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "note": "the teller calls",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "not just the police",
+   "key": 30
+  },
+  {
+   "id": "S10b",
+   "size": "card",
+   "note": "SECRET SERVICE",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "1865",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "note": "black cars",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "note": "the man in the gray suit",
+   "key": 30
+  },
+  {
+   "id": "S13b",
+   "size": "insert",
+   "note": "two bills, same number",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "note": "too good",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "note": "the satellite van",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "note": "Mo: helicopter",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "note": "the helicopter",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "note": "the controller on the table",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S2",
+   "at": "f:0"
+  },
+  {
+   "shot": "S3",
+   "at": "person"
+  },
+  {
+   "shot": "S4",
+   "at": "That"
+  },
+  {
+   "shot": "S4c",
+   "at": "reported"
+  },
+  {
+   "shot": "S4b",
+   "at": "FBI"
+  },
+  {
+   "shot": "S5",
+   "at": "night"
+  },
+  {
+   "shot": "S6",
+   "at": "Mo"
+  },
+  {
+   "shot": "S7",
+   "at": "Across"
+  },
+  {
+   "shot": "S8",
+   "at": "Three"
+  },
+  {
+   "shot": "S8b",
+   "at": "Yours"
+  },
+  {
+   "shot": "S9",
+   "at": "phone"
+  },
+  {
+   "shot": "S10",
+   "at": "America"
+  },
+  {
+   "shot": "S10b",
+   "at": "Secret"
+  },
+  {
+   "shot": "S11",
+   "at": "started"
+  },
+  {
+   "shot": "S12",
+   "at": "Friday"
+  },
+  {
+   "shot": "S13",
+   "at": "man"
+  },
+  {
+   "shot": "S13b",
+   "at": "holds"
+  },
+  {
+   "shot": "S14",
+   "at": "These"
+  },
+  {
+   "shot": "S15",
+   "at": "Behind"
+  },
+  {
+   "shot": "S16",
+   "at": "buzzes"
+  },
+  {
+   "shot": "S17",
+   "at": "helicopter"
+  },
+  {
+   "shot": "S18",
+   "at": "looks"
+  }
+ ],
+ "fx": []
 }

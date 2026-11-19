@@ -574,3 +574,43 @@ export const textCard = (o: { kicker?: string; lines: string[]; sub?: string; re
   );
   return Card;
 };
+
+/** A text from Mo, big: a phone face filling the middle of the frame, his name on top, bubbles popping in turn. */
+export const msgCU = (o: { from?: string; bubbles: { at: number; text: string[]; big?: boolean }[]; Bg?: SetC }): React.FC<ShotProps> => {
+  const Shot: React.FC<ShotProps> = ({ t, len }) => {
+    const z = kf(t, [[0, 1], [Math.max(1, len), 1.06]]);
+    const buzz = t < 10 ? Math.sin(t * 3) * 6 : 0;
+    return (
+      <g>
+        {o.Bg ? (
+          <Soft blur={16} dim={0.45}>
+            <g transform={camT(960, 520, 1.3)}>
+              <o.Bg t={t + 200} id="msg" />
+            </g>
+          </Soft>
+        ) : (
+          <rect width={1920} height={1080} fill="#14101C" />
+        )}
+        <g transform={`translate(${960 + buzz} 560) scale(${z}) rotate(-3)`}>
+          <rect x={-330} y={-560} width={660} height={1200} rx={70} fill="#16161C" />
+          <rect x={-300} y={-530} width={600} height={1140} rx={50} fill="#101018" />
+          <circle cx={0} cy={-420} r={50} fill="#4E7A4A" />
+          <text x={0} y={-330} textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={44} fill="#F6EFE3">{o.from ?? 'Mo'}</text>
+          {o.bubbles.map((b, i) => {
+            const p = backOut(clamp((t - b.at) / 8));
+            const y = -250 + i * 190;
+            return (
+              <g key={i} transform={`translate(-260 ${y}) scale(${p})`} opacity={clamp((t - b.at) / 3)}>
+                <rect x={0} y={0} width={500} height={60 + b.text.length * 50} rx={36} fill="#2A2A36" />
+                {b.text.map((l, k) => (
+                  <text key={k} x={30} y={68 + k * 50} fontFamily={FONT.ui} fontSize={b.big ? 46 : 38} fill="#FFFFFF">{l}</text>
+                ))}
+              </g>
+            );
+          })}
+        </g>
+      </g>
+    );
+  };
+  return Shot;
+};

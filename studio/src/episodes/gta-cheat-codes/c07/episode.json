@@ -41,5 +41,190 @@
    "text": "So which cheat would you have entered first? Tell me in the comments. And this one's part of our series about video games in real life. The next one's right here."
   }
  ],
- "science": []
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close",
+   "note": "silence",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "note": "Ellie frozen mid-word",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "note": "hand on the handle",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "note": "the bird, frozen",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "note": "the street, paused",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "close",
+   "note": "GAME PAUSED",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "note": "a door opens across the street",
+   "key": 30
+  },
+  {
+   "id": "S7b",
+   "size": "wide",
+   "note": "walks out with a controller",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "note": "they wave",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "card",
+   "note": "who else?",
+   "key": 30
+  },
+  {
+   "id": "S9b",
+   "size": "card",
+   "note": "press play?",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "card",
+   "note": "is any of this real?",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "note": "pain",
+   "key": 30
+  },
+  {
+   "id": "S11b",
+   "size": "card",
+   "note": "serial numbers",
+   "key": 30
+  },
+  {
+   "id": "S11c",
+   "size": "card",
+   "note": "energy",
+   "key": 30
+  },
+  {
+   "id": "S11d",
+   "size": "card",
+   "note": "jetpack",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "note": "which cheat first?",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "card",
+   "note": "the series",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Ellie's"
+  },
+  {
+   "shot": "S3",
+   "at": "hand"
+  },
+  {
+   "shot": "S4",
+   "at": "Outside"
+  },
+  {
+   "shot": "S5",
+   "at": "whole"
+  },
+  {
+   "shot": "S6",
+   "at": "front"
+  },
+  {
+   "shot": "S7",
+   "at": "across"
+  },
+  {
+   "shot": "S7b",
+   "at": "Someone"
+  },
+  {
+   "shot": "S8",
+   "at": "look"
+  },
+  {
+   "shot": "S9",
+   "at": "Who"
+  },
+  {
+   "shot": "S9b",
+   "at": "what"
+  },
+  {
+   "shot": "S10",
+   "at": "Is"
+  },
+  {
+   "shot": "S11",
+   "at": "People"
+  },
+  {
+   "shot": "S11b",
+   "at": "Every"
+  },
+  {
+   "shot": "S11c",
+   "at": "One"
+  },
+  {
+   "shot": "S11d",
+   "at": "pilots"
+  },
+  {
+   "shot": "S12",
+   "at": "which"
+  },
+  {
+   "shot": "S13",
+   "at": "series"
+  }
+ ],
+ "fx": []
 }
