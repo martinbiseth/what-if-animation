@@ -2,190 +2,182 @@
  "slug": "gta-hospital-bill/c07",
  "title": " ",
  "fps": 30,
- "total": 3032,
+ "total": 2316,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 24,
+   "b": 62,
    "t0": 0,
-   "t1": 24,
-   "line": "The building"
-  },
-  {
-   "shot": "S2",
-   "a": 24,
-   "b": 60,
-   "t0": 0,
-   "t1": 36,
-   "line": "has no name on"
+   "t1": 62,
+   "line": "The building has no name on the door."
   },
   {
    "shot": "S3",
-   "a": 60,
-   "b": 262,
+   "a": 62,
+   "b": 169,
    "t0": 0,
-   "t1": 202,
-   "line": "the door. The man in the grey suit meets you in a white room with a single chair."
+   "t1": 107,
+   "line": "The man in the grey suit meets you in a white room with a single chair."
   },
   {
    "shot": "S4",
-   "a": 262,
-   "b": 434,
+   "a": 169,
+   "b": 303,
    "t0": 0,
-   "t1": 172,
+   "t1": 134,
    "line": "He shows you his tablet. Your bill: zero dollars. Paid in full."
   },
   {
    "shot": "S5",
-   "a": 434,
-   "b": 500,
+   "a": 303,
+   "b": 370,
    "t0": 0,
-   "t1": 66,
-   "line": "Mum's envelope: cancelled."
+   "t1": 67,
+   "line": "Mum's envelope: cancelled.\""
   },
   {
    "shot": "S6",
-   "a": 500,
-   "b": 624,
+   "a": 370,
+   "b": 468,
    "t0": 0,
-   "t1": 124,
-   "line": "Thank you,\" he says. Now, the first test.\" You"
+   "t1": 98,
+   "line": "Thank you,\" he says.\" Now, the first test.\" You"
   },
   {
    "shot": "S7",
-   "a": 624,
-   "b": 685,
+   "a": 468,
+   "b": 514,
    "t0": 0,
-   "t1": 61,
+   "t1": 46,
    "line": "ask what kind of test."
   },
   {
    "shot": "S8",
-   "a": 685,
-   "b": 787,
+   "a": 514,
+   "b": 600,
    "t0": 0,
-   "t1": 102,
+   "t1": 86,
    "line": "He just smiles, the same smile as before."
   },
   {
    "shot": "S9",
-   "a": 787,
-   "b": 918,
+   "a": 600,
+   "b": 693,
    "t0": 0,
-   "t1": 131,
+   "t1": 93,
    "line": "Behind him, a door slides open onto a place you know."
   },
   {
    "shot": "S10",
-   "a": 918,
-   "b": 1034,
+   "a": 693,
+   "b": 811,
    "t0": 0,
-   "t1": 116,
+   "t1": 118,
    "line": "The car park roof. Rebuilt, indoors, exactly."
   },
   {
    "shot": "S11",
-   "a": 1034,
-   "b": 1142,
+   "a": 811,
+   "b": 889,
    "t0": 0,
-   "t1": 108,
-   "line": "With a pile of cardboard boxes at the bottom."
+   "t1": 78,
+   "line": "With a pile of cardboard boxes at the bottom.\""
   },
   {
    "shot": "S12",
-   "a": 1142,
-   "b": 1279,
+   "a": 889,
+   "b": 995,
    "t0": 0,
-   "t1": 137,
-   "line": "We need to see it happen,\" he says. Again and again.\""
+   "t1": 106,
+   "line": "We need to see it happen,\" he says.\" Again and again.\""
   },
   {
    "shot": "S13",
-   "a": 1279,
-   "b": 1489,
+   "a": 995,
+   "b": 1184,
    "t0": 0,
-   "t1": 210,
+   "t1": 189,
    "line": "On his tablet, under your name, a new line appears. Respawn number fifteen: scheduled."
   },
   {
    "shot": "S14",
-   "a": 1489,
-   "b": 1549,
+   "a": 1184,
+   "b": 1228,
    "t0": 0,
-   "t1": 60,
+   "t1": 44,
    "line": "You look at the boxes."
   },
   {
    "shot": "S15",
-   "a": 1549,
-   "b": 1607,
+   "a": 1228,
+   "b": 1265,
    "t0": 0,
-   "t1": 58,
+   "t1": 37,
    "line": "You look at the man."
   },
   {
    "shot": "S16",
-   "a": 1607,
-   "b": 1730,
+   "a": 1265,
+   "b": 1353,
    "t0": 0,
-   "t1": 123,
+   "t1": 88,
    "line": "And for the first time since Saturday, you're scared."
   },
   {
    "shot": "S17",
-   "a": 1730,
-   "b": 1787,
+   "a": 1353,
+   "b": 1398,
    "t0": 0,
-   "t1": 57,
+   "t1": 45,
    "line": "Is any of this real?"
   },
   {
    "shot": "S18",
-   "a": 1787,
-   "b": 1830,
+   "a": 1398,
+   "b": 1435,
    "t0": 0,
-   "t1": 43,
+   "t1": 37,
    "line": "The prices are."
   },
   {
    "shot": "S19",
-   "a": 1830,
-   "b": 2244,
+   "a": 1435,
+   "b": 1743,
    "t0": 0,
-   "t1": 414,
+   "t1": 308,
    "line": "A helicopter ride with a median price of thirty- six thousand dollars. Trauma fees up to fifty thousand. A spinal injury that can cost one point three seven million in its first year."
   },
   {
    "shot": "S20",
-   "a": 2244,
-   "b": 2327,
+   "a": 1743,
+   "b": 1814,
    "t0": 0,
-   "t1": 83,
+   "t1": 71,
    "line": "In real life, there's no respawn."
   },
   {
    "shot": "S21",
-   "a": 2327,
-   "b": 2472,
+   "a": 1814,
+   "b": 1907,
    "t0": 0,
-   "t1": 145,
+   "t1": 93,
    "line": "Would you have signed the contract? Tell me in the comments."
   },
   {
    "shot": "S22",
-   "a": 2472,
-   "b": 2653,
+   "a": 1907,
+   "b": 2050,
    "t0": 0,
-   "t1": 181,
+   "t1": 143,
    "line": "Part two is coming: what the company really wants with someone who can't die."
   },
   {
    "shot": "S23",
-   "a": 2653,
-   "b": 3032,
+   "a": 2050,
+   "b": 2316,
    "t0": 0,
-   "t1": 379,
+   "t1": 266,
    "line": "And this is just one episode of our In Real Life series, so check the playlist to find out what happens when you get a five- star wanted level."
   }
  ],
@@ -194,35 +186,26 @@
    "id": "S1",
    "size": "card",
    "key": 20,
-   "len": 24,
+   "len": 62,
    "first": 0,
-   "line": "The building",
+   "line": "The building has no name on the door.",
    "note": "RESPAWN SCHEDULED"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "key": 40,
-   "len": 36,
-   "first": 24,
-   "line": "has no name on",
-   "note": "the building with no name"
   },
   {
    "id": "S3",
    "size": "wide",
    "key": 50,
-   "len": 202,
-   "first": 60,
-   "line": "the door. The man in the grey suit meets you in a white room with a single chair.",
+   "len": 107,
+   "first": 62,
+   "line": "The man in the grey suit meets you in a white room with a single chair.",
    "note": "the white room"
   },
   {
    "id": "S4",
    "size": "insert",
    "key": 50,
-   "len": 172,
-   "first": 262,
+   "len": 134,
+   "first": 169,
    "line": "He shows you his tablet. Your bill: zero dollars. Paid in full.",
    "note": "tablet: PAID IN FULL"
   },
@@ -230,26 +213,26 @@
    "id": "S5",
    "size": "insert",
    "key": 30,
-   "len": 66,
-   "first": 434,
-   "line": "Mum's envelope: cancelled.",
+   "len": 67,
+   "first": 303,
+   "line": "Mum's envelope: cancelled.\"",
    "note": "CANCELLED"
   },
   {
    "id": "S6",
    "size": "wide",
    "key": 50,
-   "len": 124,
-   "first": 500,
-   "line": "Thank you,\" he says. Now, the first test.\" You",
+   "len": 98,
+   "first": 370,
+   "line": "Thank you,\" he says.\" Now, the first test.\" You",
    "note": "the first test"
   },
   {
    "id": "S7",
    "size": "close",
    "key": 30,
-   "len": 61,
-   "first": 624,
+   "len": 46,
+   "first": 468,
    "line": "ask what kind of test.",
    "note": "what kind of test"
   },
@@ -257,8 +240,8 @@
    "id": "S8",
    "size": "close",
    "key": 40,
-   "len": 102,
-   "first": 685,
+   "len": 86,
+   "first": 514,
    "line": "He just smiles, the same smile as before.",
    "note": "the same smile"
   },
@@ -266,8 +249,8 @@
    "id": "S9",
    "size": "wide",
    "key": 50,
-   "len": 131,
-   "first": 787,
+   "len": 93,
+   "first": 600,
    "line": "Behind him, a door slides open onto a place you know.",
    "note": "the door slides open"
   },
@@ -275,8 +258,8 @@
    "id": "S10",
    "size": "wide",
    "key": 50,
-   "len": 116,
-   "first": 918,
+   "len": 118,
+   "first": 693,
    "line": "The car park roof. Rebuilt, indoors, exactly.",
    "note": "the car park roof, indoors"
   },
@@ -284,26 +267,26 @@
    "id": "S11",
    "size": "wide",
    "key": 30,
-   "len": 108,
-   "first": 1034,
-   "line": "With a pile of cardboard boxes at the bottom.",
+   "len": 78,
+   "first": 811,
+   "line": "With a pile of cardboard boxes at the bottom.\"",
    "note": "boxes at the bottom"
   },
   {
    "id": "S12",
    "size": "close",
    "key": 40,
-   "len": 137,
-   "first": 1142,
-   "line": "We need to see it happen,\" he says. Again and again.\"",
+   "len": 106,
+   "first": 889,
+   "line": "We need to see it happen,\" he says.\" Again and again.\"",
    "note": "again and again"
   },
   {
    "id": "S13",
    "size": "insert",
    "key": 60,
-   "len": 210,
-   "first": 1279,
+   "len": 189,
+   "first": 995,
    "line": "On his tablet, under your name, a new line appears. Respawn number fifteen: scheduled.",
    "note": "Respawn #15: SCHEDULED"
   },
@@ -311,8 +294,8 @@
    "id": "S14",
    "size": "close",
    "key": 20,
-   "len": 60,
-   "first": 1489,
+   "len": 44,
+   "first": 1184,
    "line": "You look at the boxes.",
    "note": "the boxes"
   },
@@ -320,8 +303,8 @@
    "id": "S15",
    "size": "close",
    "key": 20,
-   "len": 58,
-   "first": 1549,
+   "len": 37,
+   "first": 1228,
    "line": "You look at the man.",
    "note": "the man"
   },
@@ -329,8 +312,8 @@
    "id": "S16",
    "size": "close",
    "key": 50,
-   "len": 123,
-   "first": 1607,
+   "len": 88,
+   "first": 1265,
    "line": "And for the first time since Saturday, you're scared.",
    "note": "scared"
   },
@@ -338,8 +321,8 @@
    "id": "S17",
    "size": "card",
    "key": 30,
-   "len": 57,
-   "first": 1730,
+   "len": 45,
+   "first": 1353,
    "line": "Is any of this real?",
    "note": "is any of this real"
   },
@@ -347,8 +330,8 @@
    "id": "S18",
    "size": "card",
    "key": 20,
-   "len": 43,
-   "first": 1787,
+   "len": 37,
+   "first": 1398,
    "line": "The prices are.",
    "note": "the prices are"
   },
@@ -356,8 +339,8 @@
    "id": "S19",
    "size": "card",
    "key": 120,
-   "len": 414,
-   "first": 1830,
+   "len": 308,
+   "first": 1435,
    "line": "A helicopter ride with a median price of thirty- six thousand dollars. Trauma fees up to fifty thousand. A spinal injury that can cost one point three seven million in its first year.",
    "note": "the recap"
   },
@@ -365,8 +348,8 @@
    "id": "S20",
    "size": "card",
    "key": 40,
-   "len": 83,
-   "first": 2244,
+   "len": 71,
+   "first": 1743,
    "line": "In real life, there's no respawn.",
    "note": "no respawn"
   },
@@ -374,8 +357,8 @@
    "id": "S21",
    "size": "insert",
    "key": 60,
-   "len": 145,
-   "first": 2327,
+   "len": 93,
+   "first": 1814,
    "line": "Would you have signed the contract? Tell me in the comments.",
    "note": "would you sign"
   },
@@ -383,8 +366,8 @@
    "id": "S22",
    "size": "card",
    "key": 60,
-   "len": 181,
-   "first": 2472,
+   "len": 143,
+   "first": 1907,
    "line": "Part two is coming: what the company really wants with someone who can't die.",
    "note": "part 2"
   },
@@ -392,12 +375,19 @@
    "id": "S23",
    "size": "card",
    "key": 120,
-   "len": 379,
-   "first": 2653,
+   "len": 266,
+   "first": 2050,
    "line": "And this is just one episode of our In Real Life series, so check the playlist to find out what happens when you get a five- star wanted level.",
    "note": "the series"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "gta-hospital-bill/c07/voice.wav",
+  "sfx": "gta-hospital-bill/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.1359,
+  "music": "gta-hospital-bill/c07/music.wav",
+  "musicVol": 0.0658
+ }
 }

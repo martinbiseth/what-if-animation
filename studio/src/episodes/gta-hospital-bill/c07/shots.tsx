@@ -63,7 +63,27 @@ const Tablet: React.FC<{ t: number; rows: { at: number; label: string; value: st
 );
 
 // ---------- S1: chapter card ----------
-export const S1 = billCard({ kicker: 'CHAPTER 7', title: 'RESPAWN SCHEDULED', tod: 'dusk' });
+// The chapter title sits over the tower: the narration starts on the first frame, so a separate card would flash by.
+export const S1: React.FC<ShotProps> = ({ t, len }) => {
+  const out = 1 - clamp((t - 40) / 10);
+  const pop = (d: number) => backOut(clamp((t - d) / 9));
+  return (
+    <g>
+      <g transform={camT(960, kf(t, [[0, 300], [len, 640]]), kf(t, [[0, 0.8], [len, 1.3]]))}>
+        <Tower t={t} />
+      </g>
+      <rect width={1920} height={1080} fill="#0B0816" opacity={0.55 * out} />
+      <g opacity={out}>
+        <g transform={`translate(960 430) scale(${pop(1)})`}>
+          <text textAnchor="middle" fontFamily={FONT.ui} fontSize={40} letterSpacing={8} fill={MONEY.red}>CHAPTER 7</text>
+        </g>
+        <g transform={`translate(960 560) scale(${pop(3)})`}>
+          <text textAnchor="middle" fontFamily={FONT.title} fontWeight={700} fontSize={110} fill="#F6EFE3" stroke="#1A1230" strokeWidth={12} paintOrder="stroke">RESPAWN SCHEDULED</text>
+        </g>
+      </g>
+    </g>
+  );
+};
 
 // ---------- S2: the building has no name on the door ----------
 export const S2: React.FC<ShotProps> = ({ t, len }) => (

@@ -168,12 +168,8 @@
       "at": "f:0"
     },
     {
-      "shot": "S2",
-      "at": "has"
-    },
-    {
       "shot": "S3",
-      "at": "The"
+      "at": "The#3"
     },
     {
       "shot": "S4",
@@ -275,10 +271,6 @@
         "procedural: a hospital heart monitor beeping then a long flat tone",
         2.5
       ],
-      "hall_tone": [
-        "a large stone palace hall ambience, faint echo, braziers crackling softly, no voices",
-        10.0
-      ],
       "heartbeat": [
         "a slow tense heartbeat, low and muffled",
         3.0
@@ -303,13 +295,17 @@
         "a gentle evening breeze on a city rooftop, distant traffic",
         7.0
       ],
-      "slide": [
-        "a thick paper envelope sliding across a wooden table",
-        1.0
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
       ],
       "title_boom": [
         "a cinematic whoosh rising into a deep boom impact",
         1.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
       ]
     },
     "events": [
@@ -319,8 +315,8 @@
         0.5
       ],
       [
-        "S2+0",
-        "hall_tone",
+        "S1+0",
+        "room_tone",
         0.25,
         "onset",
         "S4"
@@ -347,8 +343,8 @@
       ],
       [
         "S9+8",
-        "slide",
-        0.5
+        "whoosh",
+        0.45
       ],
       [
         "S9+10",
@@ -448,7 +444,7 @@
     "music": {
       "clip": "m_tense",
       "loop": true,
-      "from": "S2"
+      "from": "S3"
     }
   },
   "tail": 2.0

@@ -201,7 +201,7 @@
     },
     {
       "shot": "S2",
-      "at": "sitting"
+      "at": "at#2"
     },
     {
       "shot": "S3",
@@ -323,6 +323,10 @@
         "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
         1.6
       ],
+      "crack": [
+        "glass cracking sharply, the crack spreading across a pane",
+        1.1
+      ],
       "crash_syn": [
         "procedural: a metal shopping trolley crashing into a hydrant, clang and rattle",
         1.2
@@ -359,10 +363,6 @@
         "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
         0.6
       ],
-      "shatter": [
-        "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
-        1.3
-      ],
       "siren_syn": [
         "procedural: an ambulance siren wailing two tones, passing",
         3.0
@@ -397,7 +397,7 @@
       ],
       [
         "S6+20",
-        "shatter",
+        "crack",
         0.45
       ],
       [
