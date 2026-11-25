@@ -34,7 +34,259 @@
   }
  ],
  "science": [],
- "shots": [],
- "edit": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "note": "day 12, night"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "note": "packing in the kitchen"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 50,
+   "note": "beach photo on the fridge"
+  },
+  {
+   "id": "S4",
+   "size": "close",
+   "key": 30,
+   "note": "you freeze"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 50,
+   "note": "Ellie's room, walkie lit"
+  },
+  {
+   "id": "S5B",
+   "size": "insert",
+   "key": 30,
+   "note": "the LED on again"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 70,
+   "note": "walkie: hello? is anybody there?"
+  },
+  {
+   "id": "S7",
+   "size": "close",
+   "key": 30,
+   "note": "it's Ellie"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 50,
+   "note": "the dark city"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 60,
+   "note": "you into the walkie"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 70,
+   "note": "walkie: our place"
+  },
+  {
+   "id": "S10B",
+   "size": "insert",
+   "key": 30,
+   "note": "the static swallows her"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 40,
+   "note": "your stomach drops"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 40,
+   "note": "flashback: switching it off"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "note": "clock 2:40"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "note": "door closes 3:07"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 30,
+   "note": "one, not two"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 60,
+   "note": "the photo in your hand"
+  },
+  {
+   "id": "S16B",
+   "size": "insert",
+   "key": 60,
+   "note": "the door, Mum"
+  },
+  {
+   "id": "S16C",
+   "size": "wide",
+   "key": 50,
+   "note": "Ellie alone in the dark"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 50,
+   "note": "the bridge, the window"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 50,
+   "note": "the dark park"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 50,
+   "note": "photo in pocket, torch"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 50,
+   "note": "you run the other way"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 60,
+   "note": "torch over stopped cars, the dog"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "need"
+  },
+  {
+   "shot": "S3",
+   "at": "photo"
+  },
+  {
+   "shot": "S4",
+   "at": "that's"
+  },
+  {
+   "shot": "S5",
+   "at": "Hissing"
+  },
+  {
+   "shot": "S5B",
+   "at": "again"
+  },
+  {
+   "shot": "S6",
+   "at": "static"
+  },
+  {
+   "shot": "S7",
+   "at": "It's#2"
+  },
+  {
+   "shot": "S8",
+   "at": "Somewhere"
+  },
+  {
+   "shot": "S9",
+   "at": "grab"
+  },
+  {
+   "shot": "S10",
+   "at": "hiding"
+  },
+  {
+   "shot": "S10B",
+   "at": "static"
+  },
+  {
+   "shot": "S11",
+   "at": "stomach"
+  },
+  {
+   "shot": "S12",
+   "at": "switched"
+  },
+  {
+   "shot": "S13",
+   "at": "clock"
+  },
+  {
+   "shot": "S14",
+   "at": "door"
+  },
+  {
+   "shot": "S15",
+   "at": "One"
+  },
+  {
+   "shot": "S16",
+   "at": "photo"
+  },
+  {
+   "shot": "S16B",
+   "at": "through"
+  },
+  {
+   "shot": "S16C",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "bridge"
+  },
+  {
+   "shot": "S18",
+   "at": "find"
+  },
+  {
+   "shot": "S19",
+   "at": "pocket"
+  },
+  {
+   "shot": "S20",
+   "at": "run"
+  },
+  {
+   "shot": "S21",
+   "at": "Through"
+  }
+ ],
  "fx": []
 }

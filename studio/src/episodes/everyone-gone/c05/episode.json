@@ -40,7 +40,289 @@
    "source": "Holt-Lunstad, Smith & Layton, PLoS Medicine (2010); US Surgeon General, Our Epidemic of Loneliness and Isolation (2023)"
   }
  ],
- "shots": [],
- "edit": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "note": "day 12"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "note": "kitchen, you alone with the dog"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "note": "you talk to the dog"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 60,
+   "note": "flashback: he followed you from the bus"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 40,
+   "note": "alarm, wake up"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "note": "Mo's door"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "note": "dog bowl"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "note": "can pile"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 50,
+   "note": "tally on the wall"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "note": "dark kitchen"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 40,
+   "note": "radio hissing"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 60,
+   "note": "you alone on the roof edge"
+  },
+  {
+   "id": "S12B",
+   "size": "card",
+   "key": 60,
+   "note": "15 cigarettes a day"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 30,
+   "note": "you, tired"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "note": "hotel roof at night"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 60,
+   "note": "one window lit"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 50,
+   "note": "you walk onto the bridge"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 50,
+   "note": "the man in the grey suit"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 40,
+   "note": "his face, annoyed"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 40,
+   "note": "clean shoes, dust"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 60,
+   "note": "two-shot, he talks"
+  },
+  {
+   "id": "S20B",
+   "size": "close",
+   "key": 40,
+   "note": "moved where?"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "note": "you ask"
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "key": 40,
+   "note": "his count is wrong by one"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 40,
+   "note": "he points across the river"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 60,
+   "note": "the lit window, a door"
+  },
+  {
+   "id": "S24B",
+   "size": "insert",
+   "key": 50,
+   "note": "your mum, your friends: the photo"
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "key": 30,
+   "note": "one more person"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "stopped"
+  },
+  {
+   "shot": "S3",
+   "at": "dog"
+  },
+  {
+   "shot": "S4",
+   "at": "followed"
+  },
+  {
+   "shot": "S5",
+   "at": "routine"
+  },
+  {
+   "shot": "S6",
+   "at": "Check"
+  },
+  {
+   "shot": "S7",
+   "at": "Feed"
+  },
+  {
+   "shot": "S8",
+   "at": "Collect"
+  },
+  {
+   "shot": "S9",
+   "at": "Count"
+  },
+  {
+   "shot": "S10",
+   "at": "silence"
+  },
+  {
+   "shot": "S11",
+   "at": "radio"
+  },
+  {
+   "shot": "S12",
+   "at": "Scientists"
+  },
+  {
+   "shot": "S12B",
+   "at": "smoking"
+  },
+  {
+   "shot": "S13",
+   "at": "starting"
+  },
+  {
+   "shot": "S14",
+   "at": "night"
+  },
+  {
+   "shot": "S15",
+   "at": "river"
+  },
+  {
+   "shot": "S16",
+   "at": "dawn"
+  },
+  {
+   "shot": "S17",
+   "at": "standing"
+  },
+  {
+   "shot": "S18",
+   "at": "surprised"
+  },
+  {
+   "shot": "S19",
+   "at": "shoes"
+  },
+  {
+   "shot": "S20",
+   "at": "supposed"
+  },
+  {
+   "shot": "S20B",
+   "at": "Moved#2"
+  },
+  {
+   "shot": "S21",
+   "at": "Who"
+  },
+  {
+   "shot": "S22",
+   "at": "count"
+  },
+  {
+   "shot": "S23",
+   "at": "points"
+  },
+  {
+   "shot": "S24",
+   "at": "door"
+  },
+  {
+   "shot": "S24B",
+   "at": "Your"
+  },
+  {
+   "shot": "S25",
+   "at": "One#2"
+  }
+ ],
  "fx": []
 }

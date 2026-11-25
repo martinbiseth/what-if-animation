@@ -1,0 +1,490 @@
+{
+ "slug": "everyone-gone/c05",
+ "title": " ",
+ "fps": 30,
+ "total": 2439,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 43,
+   "t0": 0,
+   "t1": 43,
+   "line": "Day twelve. You've"
+  },
+  {
+   "shot": "S2",
+   "a": 43,
+   "b": 118,
+   "t0": 0,
+   "t1": 75,
+   "line": "stopped talking out loud. Well, except to"
+  },
+  {
+   "shot": "S3",
+   "a": 118,
+   "b": 146,
+   "t0": 0,
+   "t1": 28,
+   "line": "the dog. He"
+  },
+  {
+   "shot": "S4",
+   "a": 146,
+   "b": 274,
+   "t0": 0,
+   "t1": 128,
+   "line": "followed you home from the bus on the first morning. You call him Noodle. You have"
+  },
+  {
+   "shot": "S5",
+   "a": 274,
+   "b": 331,
+   "t0": 0,
+   "t1": 57,
+   "line": "a routine now. Wake up."
+  },
+  {
+   "shot": "S6",
+   "a": 331,
+   "b": 369,
+   "t0": 0,
+   "t1": 38,
+   "line": "Check Mo's door."
+  },
+  {
+   "shot": "S7",
+   "a": 369,
+   "b": 402,
+   "t0": 0,
+   "t1": 33,
+   "line": "Feed Noodle."
+  },
+  {
+   "shot": "S8",
+   "a": 402,
+   "b": 439,
+   "t0": 0,
+   "t1": 37,
+   "line": "Collect cans."
+  },
+  {
+   "shot": "S9",
+   "a": 439,
+   "b": 515,
+   "t0": 0,
+   "t1": 76,
+   "line": "Count the days on the wall with a marker. The"
+  },
+  {
+   "shot": "S10",
+   "a": 515,
+   "b": 600,
+   "t0": 0,
+   "t1": 85,
+   "line": "silence is the worst part. Some nights you leave"
+  },
+  {
+   "shot": "S11",
+   "a": 600,
+   "b": 652,
+   "t0": 0,
+   "t1": 52,
+   "line": "the radio on, just for the hiss."
+  },
+  {
+   "shot": "S12",
+   "a": 652,
+   "b": 836,
+   "t0": 0,
+   "t1": 184,
+   "line": "Scientists who study loneliness have found that being cut off from other people for a long time is about as bad for your health"
+  },
+  {
+   "shot": "S12B",
+   "a": 836,
+   "b": 936,
+   "t0": 0,
+   "t1": 100,
+   "line": "as smoking fifteen cigarettes a day. That's real. And you"
+  },
+  {
+   "shot": "S13",
+   "a": 936,
+   "b": 982,
+   "t0": 0,
+   "t1": 46,
+   "line": "are starting to feel it. That"
+  },
+  {
+   "shot": "S14",
+   "a": 982,
+   "b": 1071,
+   "t0": 0,
+   "t1": 89,
+   "line": "night, from the hotel roof, you see it. Across"
+  },
+  {
+   "shot": "S15",
+   "a": 1071,
+   "b": 1200,
+   "t0": 0,
+   "t1": 129,
+   "line": "the river, one window is lit. One. In a city with no power. At"
+  },
+  {
+   "shot": "S16",
+   "a": 1200,
+   "b": 1263,
+   "t0": 0,
+   "t1": 63,
+   "line": "dawn, you cross the bridge. And"
+  },
+  {
+   "shot": "S17",
+   "a": 1263,
+   "b": 1394,
+   "t0": 0,
+   "t1": 131,
+   "line": "standing in the middle of it, checking his watch, is a man in a grey suit. He isn't"
+  },
+  {
+   "shot": "S18",
+   "a": 1394,
+   "b": 1475,
+   "t0": 0,
+   "t1": 81,
+   "line": "surprised to see you. He looks annoyed. His"
+  },
+  {
+   "shot": "S19",
+   "a": 1475,
+   "b": 1613,
+   "t0": 0,
+   "t1": 138,
+   "line": "shoes are perfectly clean. Everything else in this city is covered in dust. 'You weren't"
+  },
+  {
+   "shot": "S20",
+   "a": 1613,
+   "b": 1767,
+   "t0": 0,
+   "t1": 154,
+   "line": "supposed to be here, ' he says. 'At 3: 07, everyone was moved. You were missed. '"
+  },
+  {
+   "shot": "S20B",
+   "a": 1767,
+   "b": 1846,
+   "t0": 0,
+   "t1": 79,
+   "line": "Moved where? He doesn't answer."
+  },
+  {
+   "shot": "S21",
+   "a": 1846,
+   "b": 1910,
+   "t0": 0,
+   "t1": 64,
+   "line": "'Who are you? ' you ask. 'I"
+  },
+  {
+   "shot": "S22",
+   "a": 1910,
+   "b": 2050,
+   "t0": 0,
+   "t1": 140,
+   "line": "count people, ' he says. 'And today, my count is wrong by one. ' He just"
+  },
+  {
+   "shot": "S23",
+   "a": 2050,
+   "b": 2127,
+   "t0": 0,
+   "t1": 77,
+   "line": "points at the lit window across the river. 'There's"
+  },
+  {
+   "shot": "S24",
+   "a": 2127,
+   "b": 2268,
+   "t0": 0,
+   "t1": 141,
+   "line": "a door. It closes tomorrow at 3: 07. I can take one more person through."
+  },
+  {
+   "shot": "S24B",
+   "a": 2268,
+   "b": 2400,
+   "t0": 0,
+   "t1": 132,
+   "line": "Your mum, your friends, your whole life. Back to normal. ' One more person. Just"
+  },
+  {
+   "shot": "S25",
+   "a": 2400,
+   "b": 2439,
+   "t0": 0,
+   "t1": 39,
+   "line": "one."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 43,
+   "first": 0,
+   "line": "Day twelve. You've",
+   "note": "day 12"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "len": 75,
+   "first": 43,
+   "line": "stopped talking out loud. Well, except to",
+   "note": "kitchen, you alone with the dog"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "len": 28,
+   "first": 118,
+   "line": "the dog. He",
+   "note": "you talk to the dog"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 60,
+   "len": 128,
+   "first": 146,
+   "line": "followed you home from the bus on the first morning. You call him Noodle. You have",
+   "note": "flashback: he followed you from the bus"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 40,
+   "len": 57,
+   "first": 274,
+   "line": "a routine now. Wake up.",
+   "note": "alarm, wake up"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 38,
+   "first": 331,
+   "line": "Check Mo's door.",
+   "note": "Mo's door"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "len": 33,
+   "first": 369,
+   "line": "Feed Noodle.",
+   "note": "dog bowl"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 37,
+   "first": 402,
+   "line": "Collect cans.",
+   "note": "can pile"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 50,
+   "len": 76,
+   "first": 439,
+   "line": "Count the days on the wall with a marker. The",
+   "note": "tally on the wall"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "len": 85,
+   "first": 515,
+   "line": "silence is the worst part. Some nights you leave",
+   "note": "dark kitchen"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 40,
+   "len": 52,
+   "first": 600,
+   "line": "the radio on, just for the hiss.",
+   "note": "radio hissing"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 60,
+   "len": 184,
+   "first": 652,
+   "line": "Scientists who study loneliness have found that being cut off from other people for a long time is about as bad for your health",
+   "note": "you alone on the roof edge"
+  },
+  {
+   "id": "S12B",
+   "size": "card",
+   "key": 60,
+   "len": 100,
+   "first": 836,
+   "line": "as smoking fifteen cigarettes a day. That's real. And you",
+   "note": "15 cigarettes a day"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 30,
+   "len": 46,
+   "first": 936,
+   "line": "are starting to feel it. That",
+   "note": "you, tired"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 89,
+   "first": 982,
+   "line": "night, from the hotel roof, you see it. Across",
+   "note": "hotel roof at night"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 60,
+   "len": 129,
+   "first": 1071,
+   "line": "the river, one window is lit. One. In a city with no power. At",
+   "note": "one window lit"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 50,
+   "len": 63,
+   "first": 1200,
+   "line": "dawn, you cross the bridge. And",
+   "note": "you walk onto the bridge"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 50,
+   "len": 131,
+   "first": 1263,
+   "line": "standing in the middle of it, checking his watch, is a man in a grey suit. He isn't",
+   "note": "the man in the grey suit"
+  },
+  {
+   "id": "S18",
+   "size": "close",
+   "key": 40,
+   "len": 81,
+   "first": 1394,
+   "line": "surprised to see you. He looks annoyed. His",
+   "note": "his face, annoyed"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 40,
+   "len": 138,
+   "first": 1475,
+   "line": "shoes are perfectly clean. Everything else in this city is covered in dust. 'You weren't",
+   "note": "clean shoes, dust"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 60,
+   "len": 154,
+   "first": 1613,
+   "line": "supposed to be here, ' he says. 'At 3: 07, everyone was moved. You were missed. '",
+   "note": "two-shot, he talks"
+  },
+  {
+   "id": "S20B",
+   "size": "close",
+   "key": 40,
+   "len": 79,
+   "first": 1767,
+   "line": "Moved where? He doesn't answer.",
+   "note": "moved where?"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "len": 64,
+   "first": 1846,
+   "line": "'Who are you? ' you ask. 'I",
+   "note": "you ask"
+  },
+  {
+   "id": "S22",
+   "size": "close",
+   "key": 40,
+   "len": 140,
+   "first": 1910,
+   "line": "count people, ' he says. 'And today, my count is wrong by one. ' He just",
+   "note": "his count is wrong by one"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 40,
+   "len": 77,
+   "first": 2050,
+   "line": "points at the lit window across the river. 'There's",
+   "note": "he points across the river"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 60,
+   "len": 141,
+   "first": 2127,
+   "line": "a door. It closes tomorrow at 3: 07. I can take one more person through.",
+   "note": "the lit window, a door"
+  },
+  {
+   "id": "S24B",
+   "size": "insert",
+   "key": 50,
+   "len": 132,
+   "first": 2268,
+   "line": "Your mum, your friends, your whole life. Back to normal. ' One more person. Just",
+   "note": "your mum, your friends: the photo"
+  },
+  {
+   "id": "S25",
+   "size": "card",
+   "key": 30,
+   "len": 39,
+   "first": 2400,
+   "line": "one.",
+   "note": "one more person"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c05/voice.wav"
+ }
+}

@@ -1,0 +1,405 @@
+{
+ "slug": "everyone-gone/c04",
+ "title": " ",
+ "fps": 30,
+ "total": 2703,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 64,
+   "t0": 0,
+   "t1": 64,
+   "line": "Day seven, the lights go out."
+  },
+  {
+   "shot": "S2",
+   "a": 64,
+   "b": 211,
+   "t0": 0,
+   "t1": 147,
+   "line": "People who have studied a world without humans think most power stations would shut down within hours."
+  },
+  {
+   "shot": "S3",
+   "a": 211,
+   "b": 291,
+   "t0": 0,
+   "t1": 80,
+   "line": "Nobody is left to balance the grid. Your city was"
+  },
+  {
+   "shot": "S4",
+   "a": 291,
+   "b": 456,
+   "t0": 0,
+   "t1": 165,
+   "line": "lucky. Its power comes from a dam in the mountains, and a dam can keep spinning on its own for weeks."
+  },
+  {
+   "shot": "S5",
+   "a": 456,
+   "b": 556,
+   "t0": 0,
+   "t1": 100,
+   "line": "Until something, somewhere, trips. You're on the hotel"
+  },
+  {
+   "shot": "S6",
+   "a": 556,
+   "b": 674,
+   "t0": 0,
+   "t1": 118,
+   "line": "roof when it happens. One district goes dark, then the next, then"
+  },
+  {
+   "shot": "S7",
+   "a": 674,
+   "b": 777,
+   "t0": 0,
+   "t1": 103,
+   "line": "the whole skyline, until the only light left is the moon. A"
+  },
+  {
+   "shot": "S8",
+   "a": 777,
+   "b": 866,
+   "t0": 0,
+   "t1": 89,
+   "line": "few hours later, your phone drops to no signal. Phone"
+  },
+  {
+   "shot": "S9",
+   "a": 866,
+   "b": 1004,
+   "t0": 0,
+   "t1": 138,
+   "line": "masts have backup batteries, and most of them only last a few hours. Then"
+  },
+  {
+   "shot": "S10",
+   "a": 1004,
+   "b": 1159,
+   "t0": 0,
+   "t1": 155,
+   "line": "the water. Under the streets, the subway starts to flood. New York's subway pumps out about"
+  },
+  {
+   "shot": "S11",
+   "a": 1159,
+   "b": 1252,
+   "t0": 0,
+   "t1": 93,
+   "line": "thirteen million gallons of water every single day."
+  },
+  {
+   "shot": "S12",
+   "a": 1252,
+   "b": 1442,
+   "t0": 0,
+   "t1": 190,
+   "line": "Without the pumps, its own engineers thought parts of it could flood in about thirty- six hours. That's real. Then"
+  },
+  {
+   "shot": "S13",
+   "a": 1442,
+   "b": 1590,
+   "t0": 0,
+   "t1": 148,
+   "line": "the food. Without fridges, the fresh food in every supermarket rots within days. You"
+  },
+  {
+   "shot": "S14",
+   "a": 1590,
+   "b": 1650,
+   "t0": 0,
+   "t1": 60,
+   "line": "smell the meat counter from the car park."
+  },
+  {
+   "shot": "S15",
+   "a": 1650,
+   "b": 1764,
+   "t0": 0,
+   "t1": 114,
+   "line": "Canned food lasts for years. If you can find a can opener. Then"
+  },
+  {
+   "shot": "S16",
+   "a": 1764,
+   "b": 1912,
+   "t0": 0,
+   "t1": 148,
+   "line": "the fuel. Petrol starts to go stale after about three to six months. After that,"
+  },
+  {
+   "shot": "S17",
+   "a": 1912,
+   "b": 2011,
+   "t0": 0,
+   "t1": 99,
+   "line": "every car in the city is just a very heavy chair. And then"
+  },
+  {
+   "shot": "S18",
+   "a": 2011,
+   "b": 2165,
+   "t0": 0,
+   "t1": 154,
+   "line": "the scary one. There are more than four hundred nuclear reactors on Earth. Without people, they"
+  },
+  {
+   "shot": "S19",
+   "a": 2165,
+   "b": 2318,
+   "t0": 0,
+   "t1": 153,
+   "line": "shut themselves down. But their fuel stays hot for years, and it has to be cooled. When"
+  },
+  {
+   "shot": "S20",
+   "a": 2318,
+   "b": 2432,
+   "t0": 0,
+   "t1": 114,
+   "line": "the power goes, backup diesel generators keep the cooling running. In"
+  },
+  {
+   "shot": "S21",
+   "a": 2432,
+   "b": 2531,
+   "t0": 0,
+   "t1": 99,
+   "line": "the United States, they must carry fuel for about seven days."
+  },
+  {
+   "shot": "S22",
+   "a": 2531,
+   "b": 2604,
+   "t0": 0,
+   "t1": 73,
+   "line": "After that, nobody is there to refill them. You"
+  },
+  {
+   "shot": "S23",
+   "a": 2604,
+   "b": 2703,
+   "t0": 0,
+   "t1": 99,
+   "line": "count on your fingers. Today is day eight."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 64,
+   "first": 0,
+   "line": "Day seven, the lights go out.",
+   "note": "day 7"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 70,
+   "len": 147,
+   "first": 64,
+   "line": "People who have studied a world without humans think most power stations would shut down within hours.",
+   "note": "power stations shut down within hours"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 50,
+   "len": 80,
+   "first": 211,
+   "line": "Nobody is left to balance the grid. Your city was",
+   "note": "the grid: a balance"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 60,
+   "len": 165,
+   "first": 291,
+   "line": "lucky. Its power comes from a dam in the mountains, and a dam can keep spinning on its own for weeks.",
+   "note": "the dam, spinning"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 40,
+   "len": 100,
+   "first": 456,
+   "line": "Until something, somewhere, trips. You're on the hotel",
+   "note": "the breaker trips"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 60,
+   "len": 118,
+   "first": 556,
+   "line": "roof when it happens. One district goes dark, then the next, then",
+   "note": "hotel roof, blackout starts"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 60,
+   "len": 103,
+   "first": 674,
+   "line": "the whole skyline, until the only light left is the moon. A",
+   "note": "skyline dark, only the moon"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 40,
+   "len": 89,
+   "first": 777,
+   "line": "few hours later, your phone drops to no signal. Phone",
+   "note": "phone: no signal"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 50,
+   "len": 138,
+   "first": 866,
+   "line": "masts have backup batteries, and most of them only last a few hours. Then",
+   "note": "mast battery draining"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 60,
+   "len": 155,
+   "first": 1004,
+   "line": "the water. Under the streets, the subway starts to flood. New York's subway pumps out about",
+   "note": "subway flooding"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 50,
+   "len": 93,
+   "first": 1159,
+   "line": "thirteen million gallons of water every single day.",
+   "note": "13 million gallons a day"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 60,
+   "len": 190,
+   "first": 1252,
+   "line": "Without the pumps, its own engineers thought parts of it could flood in about thirty- six hours. That's real. Then",
+   "note": "36 hours"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 50,
+   "len": 148,
+   "first": 1442,
+   "line": "the food. Without fridges, the fresh food in every supermarket rots within days. You",
+   "note": "supermarket rotting"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 30,
+   "len": 60,
+   "first": 1590,
+   "line": "smell the meat counter from the car park.",
+   "note": "you smell it"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 40,
+   "len": 114,
+   "first": 1650,
+   "line": "Canned food lasts for years. If you can find a can opener. Then",
+   "note": "cans, no opener"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 60,
+   "len": 148,
+   "first": 1764,
+   "line": "the fuel. Petrol starts to go stale after about three to six months. After that,",
+   "note": "petrol goes stale 3-6 months"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 50,
+   "len": 99,
+   "first": 1912,
+   "line": "every car in the city is just a very heavy chair. And then",
+   "note": "sitting on a car: a heavy chair"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 50,
+   "len": 154,
+   "first": 2011,
+   "line": "the scary one. There are more than four hundred nuclear reactors on Earth. Without people, they",
+   "note": "400+ reactors"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 50,
+   "len": 153,
+   "first": 2165,
+   "line": "shut themselves down. But their fuel stays hot for years, and it has to be cooled. When",
+   "note": "reactor shut down, still hot"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 50,
+   "len": 114,
+   "first": 2318,
+   "line": "the power goes, backup diesel generators keep the cooling running. In",
+   "note": "diesel keeps cooling"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 60,
+   "len": 99,
+   "first": 2432,
+   "line": "the United States, they must carry fuel for about seven days.",
+   "note": "fuel for 7 days"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 60,
+   "len": 73,
+   "first": 2531,
+   "line": "After that, nobody is there to refill them. You",
+   "note": "fuel runs out"
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "key": 60,
+   "len": 99,
+   "first": 2604,
+   "line": "count on your fingers. Today is day eight.",
+   "note": "counting on fingers, day 8"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c04/voice.wav"
+ }
+}

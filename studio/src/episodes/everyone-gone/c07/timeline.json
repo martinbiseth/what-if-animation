@@ -1,0 +1,320 @@
+{
+ "slug": "everyone-gone/c07",
+ "title": " ",
+ "fps": 30,
+ "total": 2189,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 89,
+   "t0": 0,
+   "t1": 89,
+   "line": "The hiding place is the old tree house at the end of the park. You"
+  },
+  {
+   "shot": "S2",
+   "a": 89,
+   "b": 117,
+   "t0": 0,
+   "t1": 28,
+   "line": "climb up, and"
+  },
+  {
+   "shot": "S3",
+   "a": 117,
+   "b": 237,
+   "t0": 0,
+   "t1": 120,
+   "line": "there she is, wrapped in a blanket, holding the other walkie- talkie. She"
+  },
+  {
+   "shot": "S4",
+   "a": 237,
+   "b": 301,
+   "t0": 0,
+   "t1": 64,
+   "line": "hugs you so hard you can't breathe."
+  },
+  {
+   "shot": "S5",
+   "a": 301,
+   "b": 444,
+   "t0": 0,
+   "t1": 143,
+   "line": "Across the river, the lit window flickers, and goes out. 3: 07. The"
+  },
+  {
+   "shot": "S6",
+   "a": 444,
+   "b": 486,
+   "t0": 0,
+   "t1": 42,
+   "line": "door is closed. It's"
+  },
+  {
+   "shot": "S7",
+   "a": 486,
+   "b": 526,
+   "t0": 0,
+   "t1": 40,
+   "line": "just the two of you now."
+  },
+  {
+   "shot": "S8",
+   "a": 526,
+   "b": 605,
+   "t0": 0,
+   "t1": 79,
+   "line": "Noodle barks once from the bottom of the ladder. And"
+  },
+  {
+   "shot": "S9",
+   "a": 605,
+   "b": 785,
+   "t0": 0,
+   "t1": 180,
+   "line": "far away, on the bridge, a tiny figure in a grey suit is standing still, looking straight at your torch."
+  },
+  {
+   "shot": "S10",
+   "a": 785,
+   "b": 856,
+   "t0": 0,
+   "t1": 71,
+   "line": "Or is it? Because Ellie's walkie- talkie"
+  },
+  {
+   "shot": "S11",
+   "a": 856,
+   "b": 1051,
+   "t0": 0,
+   "t1": 195,
+   "line": "crackles one more time, and a voice you have never heard before says: 'We can see your torch. There are more of us."
+  },
+  {
+   "shot": "S11B",
+   "a": 1051,
+   "b": 1099,
+   "t0": 0,
+   "t1": 48,
+   "line": "Don't trust the man in the suit. '"
+  },
+  {
+   "shot": "S12",
+   "a": 1099,
+   "b": 1203,
+   "t0": 0,
+   "t1": 104,
+   "line": "Ellie looks at you. 'Who was that? ' You don't know. But"
+  },
+  {
+   "shot": "S13",
+   "a": 1203,
+   "b": 1316,
+   "t0": 0,
+   "t1": 113,
+   "line": "somewhere out there in the dark, someone has been watching you for twelve days."
+  },
+  {
+   "shot": "S14",
+   "a": 1316,
+   "b": 1423,
+   "t0": 0,
+   "t1": 107,
+   "line": "Would you have gone through the door? Tell us in the comments. Part two"
+  },
+  {
+   "shot": "S15",
+   "a": 1423,
+   "b": 1659,
+   "t0": 0,
+   "t1": 236,
+   "line": "is coming. Is any of this real? The disappearing, no. But the blackout, the flooding subway, the reactors and the loneliness?"
+  },
+  {
+   "shot": "S15B",
+   "a": 1659,
+   "b": 1739,
+   "t0": 0,
+   "t1": 80,
+   "line": "All real. The sources are in the description."
+  },
+  {
+   "shot": "S16",
+   "a": 1739,
+   "b": 2189,
+   "t0": 0,
+   "t1": 450,
+   "line": ""
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 89,
+   "first": 0,
+   "line": "The hiding place is the old tree house at the end of the park. You",
+   "note": "2:58 am"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 60,
+   "len": 28,
+   "first": 89,
+   "line": "climb up, and",
+   "note": "the tree house, you climb"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "len": 120,
+   "first": 117,
+   "line": "there she is, wrapped in a blanket, holding the other walkie- talkie. She",
+   "note": "Ellie in a blanket"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 40,
+   "len": 64,
+   "first": 237,
+   "line": "hugs you so hard you can't breathe.",
+   "note": "the hug"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 60,
+   "len": 143,
+   "first": 301,
+   "line": "Across the river, the lit window flickers, and goes out. 3: 07. The",
+   "note": "the window goes out"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 42,
+   "first": 444,
+   "line": "door is closed. It's",
+   "note": "3:07"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "len": 40,
+   "first": 486,
+   "line": "just the two of you now.",
+   "note": "two of you on the platform"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 79,
+   "first": 526,
+   "line": "Noodle barks once from the bottom of the ladder. And",
+   "note": "Noodle barks"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 60,
+   "len": 180,
+   "first": 605,
+   "line": "far away, on the bridge, a tiny figure in a grey suit is standing still, looking straight at your torch.",
+   "note": "the suit on the bridge, watching"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "len": 71,
+   "first": 785,
+   "line": "Or is it? Because Ellie's walkie- talkie",
+   "note": "you"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 80,
+   "len": 195,
+   "first": 856,
+   "line": "crackles one more time, and a voice you have never heard before says: 'We can see your torch. There are more of us.",
+   "note": "the other voice"
+  },
+  {
+   "id": "S11B",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 1051,
+   "line": "Don't trust the man in the suit. '",
+   "note": "you and Ellie look at each other"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 50,
+   "len": 104,
+   "first": 1099,
+   "line": "Ellie looks at you. 'Who was that? ' You don't know. But",
+   "note": "who was that?"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 60,
+   "len": 113,
+   "first": 1203,
+   "line": "somewhere out there in the dark, someone has been watching you for twelve days.",
+   "note": "the dark city, watching"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 60,
+   "len": 107,
+   "first": 1316,
+   "line": "Would you have gone through the door? Tell us in the comments. Part two",
+   "note": "would you have gone through the door?"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 80,
+   "len": 236,
+   "first": 1423,
+   "line": "is coming. Is any of this real? The disappearing, no. But the blackout, the flooding subway, the reactors and the loneliness?",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S15B",
+   "size": "card",
+   "key": 40,
+   "len": 80,
+   "first": 1659,
+   "line": "All real. The sources are in the description.",
+   "note": "ALL REAL"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 60,
+   "len": 450,
+   "first": 1739,
+   "line": "",
+   "note": "end screen"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c07/voice.wav"
+ }
+}

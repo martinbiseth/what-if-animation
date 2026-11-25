@@ -30,8 +30,270 @@
   }
  ],
  "science": [],
- "shots": [],
- "edit": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert",
+   "key": 20,
+   "note": "clock 7:12"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "key": 30,
+   "note": "you in bed, eyes open"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "note": "the street from the window, empty"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "note": "downtown, no cars moving"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "note": "kitchen, nobody"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "note": "coffee steaming, keys"
+  },
+  {
+   "id": "S6B",
+   "size": "insert",
+   "key": 30,
+   "note": "her car keys"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "note": "phone alarm buzzing"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 50,
+   "note": "you step out, the bus"
+  },
+  {
+   "id": "S8B",
+   "size": "insert",
+   "key": 30,
+   "note": "bus doors open, exhaust"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "note": "inside the empty bus"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "note": "dog trots, dragging lead"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "note": "the lead dragging"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 20,
+   "note": "you shout"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "note": "echo off windows"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "note": "you run door to door"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 20,
+   "note": "empty shop"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "note": "empty car, door open"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 40,
+   "note": "food court, trays left"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 20,
+   "note": "a lamp on"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "note": "open laptop"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 20,
+   "note": "half-eaten sandwich"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "note": "your face"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 60,
+   "note": "globe, population counts down to 1"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 40,
+   "note": "you alone in the middle of the street, crane up"
+  },
+  {
+   "id": "S24",
+   "size": "card",
+   "key": 50,
+   "note": "title"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "something"
+  },
+  {
+   "shot": "S3",
+   "at": "quiet"
+  },
+  {
+   "shot": "S4",
+   "at": "traffic"
+  },
+  {
+   "shot": "S5",
+   "at": "Mum"
+  },
+  {
+   "shot": "S6",
+   "at": "coffee"
+  },
+  {
+   "shot": "S6B",
+   "at": "keys"
+  },
+  {
+   "shot": "S7",
+   "at": "phone's"
+  },
+  {
+   "shot": "S8",
+   "at": "Outside"
+  },
+  {
+   "shot": "S8B",
+   "at": "doors"
+  },
+  {
+   "shot": "S9",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S10",
+   "at": "dog"
+  },
+  {
+   "shot": "S11",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S12",
+   "at": "shout"
+  },
+  {
+   "shot": "S13",
+   "at": "bounces"
+  },
+  {
+   "shot": "S14",
+   "at": "check"
+  },
+  {
+   "shot": "S15",
+   "at": "shop"
+  },
+  {
+   "shot": "S16",
+   "at": "car"
+  },
+  {
+   "shot": "S17",
+   "at": "Everything"
+  },
+  {
+   "shot": "S18",
+   "at": "light"
+  },
+  {
+   "shot": "S19",
+   "at": "laptop"
+  },
+  {
+   "shot": "S20",
+   "at": "sandwich"
+  },
+  {
+   "shot": "S21",
+   "at": "Except"
+  },
+  {
+   "shot": "S22",
+   "at": "Everyone"
+  },
+  {
+   "shot": "S23",
+   "at": "except"
+  },
+  {
+   "shot": "S24",
+   "at": "What"
+  }
+ ],
  "fx": [],
  "title": [
   "WHAT IF EVERYONE",

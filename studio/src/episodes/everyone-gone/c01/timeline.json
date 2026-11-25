@@ -1,0 +1,456 @@
+{
+ "slug": "everyone-gone/c01",
+ "title": "WHAT IF EVERYONE DISAPPEARED EXCEPT YOU?",
+ "fps": 30,
+ "total": 1497,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 56,
+   "t0": 0,
+   "t1": 56,
+   "line": "You wake up at 7: 12, and"
+  },
+  {
+   "shot": "S2",
+   "a": 56,
+   "b": 100,
+   "t0": 0,
+   "t1": 44,
+   "line": "something is wrong. It's"
+  },
+  {
+   "shot": "S3",
+   "a": 100,
+   "b": 162,
+   "t0": 0,
+   "t1": 62,
+   "line": "quiet. Too quiet. No"
+  },
+  {
+   "shot": "S4",
+   "a": 162,
+   "b": 227,
+   "t0": 0,
+   "t1": 65,
+   "line": "traffic. No birds. No"
+  },
+  {
+   "shot": "S5",
+   "a": 227,
+   "b": 297,
+   "t0": 0,
+   "t1": 70,
+   "line": "Mum shouting that you're going to be late. Her"
+  },
+  {
+   "shot": "S6",
+   "a": 297,
+   "b": 388,
+   "t0": 0,
+   "t1": 91,
+   "line": "coffee is on the kitchen table, still warm. Her car"
+  },
+  {
+   "shot": "S6B",
+   "a": 388,
+   "b": 434,
+   "t0": 0,
+   "t1": 46,
+   "line": "keys are next to it. Her"
+  },
+  {
+   "shot": "S7",
+   "a": 434,
+   "b": 525,
+   "t0": 0,
+   "t1": 91,
+   "line": "phone's alarm is going off, and nobody is turning it off."
+  },
+  {
+   "shot": "S8",
+   "a": 525,
+   "b": 611,
+   "t0": 0,
+   "t1": 86,
+   "line": "Outside, a bus is stopped in the middle of the road,"
+  },
+  {
+   "shot": "S8B",
+   "a": 611,
+   "b": 668,
+   "t0": 0,
+   "t1": 57,
+   "line": "doors open, engine running."
+  },
+  {
+   "shot": "S9",
+   "a": 668,
+   "b": 704,
+   "t0": 0,
+   "t1": 36,
+   "line": "Nobody on it."
+  },
+  {
+   "shot": "S10",
+   "a": 704,
+   "b": 802,
+   "t0": 0,
+   "t1": 98,
+   "line": "A dog trots down the empty street, dragging its lead."
+  },
+  {
+   "shot": "S11",
+   "a": 802,
+   "b": 845,
+   "t0": 0,
+   "t1": 43,
+   "line": "Nobody holding it. You"
+  },
+  {
+   "shot": "S12",
+   "a": 845,
+   "b": 884,
+   "t0": 0,
+   "t1": 39,
+   "line": "shout. Your voice"
+  },
+  {
+   "shot": "S13",
+   "a": 884,
+   "b": 970,
+   "t0": 0,
+   "t1": 86,
+   "line": "bounces off a hundred windows, and nobody answers. You"
+  },
+  {
+   "shot": "S14",
+   "a": 970,
+   "b": 1027,
+   "t0": 0,
+   "t1": 57,
+   "line": "check every house on the street. Every"
+  },
+  {
+   "shot": "S15",
+   "a": 1027,
+   "b": 1057,
+   "t0": 0,
+   "t1": 30,
+   "line": "shop. Every"
+  },
+  {
+   "shot": "S16",
+   "a": 1057,
+   "b": 1080,
+   "t0": 0,
+   "t1": 23,
+   "line": "car."
+  },
+  {
+   "shot": "S17",
+   "a": 1080,
+   "b": 1164,
+   "t0": 0,
+   "t1": 84,
+   "line": "Everything is exactly where it was last night. Every"
+  },
+  {
+   "shot": "S18",
+   "a": 1164,
+   "b": 1198,
+   "t0": 0,
+   "t1": 34,
+   "line": "light. Every open"
+  },
+  {
+   "shot": "S19",
+   "a": 1198,
+   "b": 1245,
+   "t0": 0,
+   "t1": 47,
+   "line": "laptop. Every half- eaten"
+  },
+  {
+   "shot": "S20",
+   "a": 1245,
+   "b": 1271,
+   "t0": 0,
+   "t1": 26,
+   "line": "sandwich."
+  },
+  {
+   "shot": "S21",
+   "a": 1271,
+   "b": 1312,
+   "t0": 0,
+   "t1": 41,
+   "line": "Except the people."
+  },
+  {
+   "shot": "S22",
+   "a": 1312,
+   "b": 1380,
+   "t0": 0,
+   "t1": 68,
+   "line": "Everyone on Earth is gone. Everyone,"
+  },
+  {
+   "shot": "S23",
+   "a": 1380,
+   "b": 1410,
+   "t0": 0,
+   "t1": 30,
+   "line": "except you."
+  },
+  {
+   "shot": "S24",
+   "a": 1410,
+   "b": 1497,
+   "t0": 0,
+   "t1": 87,
+   "line": "What if everyone disappeared, except you?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert",
+   "key": 20,
+   "len": 56,
+   "first": 0,
+   "line": "You wake up at 7: 12, and",
+   "note": "clock 7:12"
+  },
+  {
+   "id": "S2",
+   "size": "close",
+   "key": 30,
+   "len": 44,
+   "first": 56,
+   "line": "something is wrong. It's",
+   "note": "you in bed, eyes open"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 62,
+   "first": 100,
+   "line": "quiet. Too quiet. No",
+   "note": "the street from the window, empty"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "len": 65,
+   "first": 162,
+   "line": "traffic. No birds. No",
+   "note": "downtown, no cars moving"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 40,
+   "len": 70,
+   "first": 227,
+   "line": "Mum shouting that you're going to be late. Her",
+   "note": "kitchen, nobody"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "len": 91,
+   "first": 297,
+   "line": "coffee is on the kitchen table, still warm. Her car",
+   "note": "coffee steaming, keys"
+  },
+  {
+   "id": "S6B",
+   "size": "insert",
+   "key": 30,
+   "len": 46,
+   "first": 388,
+   "line": "keys are next to it. Her",
+   "note": "her car keys"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "len": 91,
+   "first": 434,
+   "line": "phone's alarm is going off, and nobody is turning it off.",
+   "note": "phone alarm buzzing"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 50,
+   "len": 86,
+   "first": 525,
+   "line": "Outside, a bus is stopped in the middle of the road,",
+   "note": "you step out, the bus"
+  },
+  {
+   "id": "S8B",
+   "size": "insert",
+   "key": 30,
+   "len": 57,
+   "first": 611,
+   "line": "doors open, engine running.",
+   "note": "bus doors open, exhaust"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "len": 36,
+   "first": 668,
+   "line": "Nobody on it.",
+   "note": "inside the empty bus"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "len": 98,
+   "first": 704,
+   "line": "A dog trots down the empty street, dragging its lead.",
+   "note": "dog trots, dragging lead"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 43,
+   "first": 802,
+   "line": "Nobody holding it. You",
+   "note": "the lead dragging"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 20,
+   "len": 39,
+   "first": 845,
+   "line": "shout. Your voice",
+   "note": "you shout"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 86,
+   "first": 884,
+   "line": "bounces off a hundred windows, and nobody answers. You",
+   "note": "echo off windows"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 57,
+   "first": 970,
+   "line": "check every house on the street. Every",
+   "note": "you run door to door"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 20,
+   "len": 30,
+   "first": 1027,
+   "line": "shop. Every",
+   "note": "empty shop"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 20,
+   "len": 23,
+   "first": 1057,
+   "line": "car.",
+   "note": "empty car, door open"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 40,
+   "len": 84,
+   "first": 1080,
+   "line": "Everything is exactly where it was last night. Every",
+   "note": "food court, trays left"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 20,
+   "len": 34,
+   "first": 1164,
+   "line": "light. Every open",
+   "note": "a lamp on"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 20,
+   "len": 47,
+   "first": 1198,
+   "line": "laptop. Every half- eaten",
+   "note": "open laptop"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 20,
+   "len": 26,
+   "first": 1245,
+   "line": "sandwich.",
+   "note": "half-eaten sandwich"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 30,
+   "len": 41,
+   "first": 1271,
+   "line": "Except the people.",
+   "note": "your face"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 60,
+   "len": 68,
+   "first": 1312,
+   "line": "Everyone on Earth is gone. Everyone,",
+   "note": "globe, population counts down to 1"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 40,
+   "len": 30,
+   "first": 1380,
+   "line": "except you.",
+   "note": "you alone in the middle of the street, crane up"
+  },
+  {
+   "id": "S24",
+   "size": "card",
+   "key": 50,
+   "len": 87,
+   "first": 1410,
+   "line": "What if everyone disappeared, except you?",
+   "note": "title"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c01/voice.wav"
+ }
+}

@@ -1,0 +1,337 @@
+{
+ "slug": "everyone-gone/c02",
+ "title": " ",
+ "fps": 30,
+ "total": 1608,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 52,
+   "t0": 0,
+   "t1": 52,
+   "line": "By the end of the first day, you have worked out"
+  },
+  {
+   "shot": "S2",
+   "a": 52,
+   "b": 111,
+   "t0": 0,
+   "t1": 59,
+   "line": "three rules. One. It"
+  },
+  {
+   "shot": "S3",
+   "a": 111,
+   "b": 182,
+   "t0": 0,
+   "t1": 71,
+   "line": "happened at 3: 07 in the morning. Every"
+  },
+  {
+   "shot": "S4",
+   "a": 182,
+   "b": 315,
+   "t0": 0,
+   "t1": 133,
+   "line": "phone you pick up has its last message from before 3: 07. Nothing after. The"
+  },
+  {
+   "shot": "S5",
+   "a": 315,
+   "b": 487,
+   "t0": 0,
+   "t1": 172,
+   "line": "TV shows the same thing on every channel: an empty news desk, with the studio lights still on."
+  },
+  {
+   "shot": "S6",
+   "a": 487,
+   "b": 550,
+   "t0": 0,
+   "t1": 63,
+   "line": "Two. Only people are gone."
+  },
+  {
+   "shot": "S7",
+   "a": 550,
+   "b": 608,
+   "t0": 0,
+   "t1": 58,
+   "line": "Dogs, cats, pigeons,"
+  },
+  {
+   "shot": "S8",
+   "a": 608,
+   "b": 691,
+   "t0": 0,
+   "t1": 83,
+   "line": "the goldfish in the pet shop. All still here."
+  },
+  {
+   "shot": "S9",
+   "a": 691,
+   "b": 829,
+   "t0": 0,
+   "t1": 138,
+   "line": "Three. Everything people were holding stayed exactly where it was. A pair"
+  },
+  {
+   "shot": "S10",
+   "a": 829,
+   "b": 893,
+   "t0": 0,
+   "t1": 64,
+   "line": "of slippers in the middle of the hallway."
+  },
+  {
+   "shot": "S11",
+   "a": 893,
+   "b": 953,
+   "t0": 0,
+   "t1": 60,
+   "line": "A toothbrush on the bathroom floor. You"
+  },
+  {
+   "shot": "S12",
+   "a": 953,
+   "b": 1086,
+   "t0": 0,
+   "t1": 133,
+   "line": "call everyone you know. Mum. Your best friend Mo. Grandma."
+  },
+  {
+   "shot": "S12B",
+   "a": 1086,
+   "b": 1151,
+   "t0": 0,
+   "t1": 65,
+   "line": "Every call just rings and rings, and you can"
+  },
+  {
+   "shot": "S13",
+   "a": 1151,
+   "b": 1252,
+   "t0": 0,
+   "t1": 101,
+   "line": "picture each phone, buzzing on an empty table. And"
+  },
+  {
+   "shot": "S14",
+   "a": 1252,
+   "b": 1357,
+   "t0": 0,
+   "t1": 105,
+   "line": "then there's one more thing. On your little sister Ellie's bed, her"
+  },
+  {
+   "shot": "S15",
+   "a": 1357,
+   "b": 1461,
+   "t0": 0,
+   "t1": 104,
+   "line": "walkie- talkie is switched on, hissing quietly. Ellie"
+  },
+  {
+   "shot": "S16",
+   "a": 1461,
+   "b": 1507,
+   "t0": 0,
+   "t1": 46,
+   "line": "never leaves it on. You"
+  },
+  {
+   "shot": "S17",
+   "a": 1507,
+   "b": 1538,
+   "t0": 0,
+   "t1": 31,
+   "line": "switch it off."
+  },
+  {
+   "shot": "S18",
+   "a": 1538,
+   "b": 1608,
+   "t0": 0,
+   "t1": 70,
+   "line": "Remember that walkie- talkie."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 52,
+   "first": 0,
+   "line": "By the end of the first day, you have worked out",
+   "note": "day 1: the rules"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 50,
+   "len": 59,
+   "first": 52,
+   "line": "three rules. One. It",
+   "note": "notebook: three rules"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 71,
+   "first": 111,
+   "line": "happened at 3: 07 in the morning. Every",
+   "note": "clock 3:07"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 50,
+   "len": 133,
+   "first": 182,
+   "line": "phone you pick up has its last message from before 3: 07. Nothing after. The",
+   "note": "last message before 3:07"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 60,
+   "len": 172,
+   "first": 315,
+   "line": "TV shows the same thing on every channel: an empty news desk, with the studio lights still on.",
+   "note": "empty news desk, lights on"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "len": 63,
+   "first": 487,
+   "line": "Two. Only people are gone.",
+   "note": "rule two"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "len": 58,
+   "first": 550,
+   "line": "Dogs, cats, pigeons,",
+   "note": "animals in the empty street"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "len": 83,
+   "first": 608,
+   "line": "the goldfish in the pet shop. All still here.",
+   "note": "goldfish bowl"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 40,
+   "len": 138,
+   "first": 691,
+   "line": "Three. Everything people were holding stayed exactly where it was. A pair",
+   "note": "rule three"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 64,
+   "first": 829,
+   "line": "of slippers in the middle of the hallway.",
+   "note": "slippers in the hallway"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 60,
+   "first": 893,
+   "line": "A toothbrush on the bathroom floor. You",
+   "note": "toothbrush on the floor"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 50,
+   "len": 133,
+   "first": 953,
+   "line": "call everyone you know. Mum. Your best friend Mo. Grandma.",
+   "note": "you calling"
+  },
+  {
+   "id": "S12B",
+   "size": "insert",
+   "key": 40,
+   "len": 65,
+   "first": 1086,
+   "line": "Every call just rings and rings, and you can",
+   "note": "calling Grandma, ringing"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "len": 101,
+   "first": 1151,
+   "line": "picture each phone, buzzing on an empty table. And",
+   "note": "phones buzzing on empty tables"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "len": 105,
+   "first": 1252,
+   "line": "then there's one more thing. On your little sister Ellie's bed, her",
+   "note": "Ellie's room"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 40,
+   "len": 104,
+   "first": 1357,
+   "line": "walkie- talkie is switched on, hissing quietly. Ellie",
+   "note": "walkie on the bed, hissing"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 30,
+   "len": 46,
+   "first": 1461,
+   "line": "never leaves it on. You",
+   "note": "your face"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "len": 31,
+   "first": 1507,
+   "line": "switch it off.",
+   "note": "you switch it off"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 40,
+   "len": 70,
+   "first": 1538,
+   "line": "Remember that walkie- talkie.",
+   "note": "the walkie, dark"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c02/voice.wav"
+ }
+}

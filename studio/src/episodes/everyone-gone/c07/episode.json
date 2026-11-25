@@ -30,7 +30,190 @@
   }
  ],
  "science": [],
- "shots": [],
- "edit": [],
- "fx": []
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "note": "2:58 am"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 60,
+   "note": "the tree house, you climb"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "note": "Ellie in a blanket"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 40,
+   "note": "the hug"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 60,
+   "note": "the window goes out"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "note": "3:07"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "note": "two of you on the platform"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "note": "Noodle barks"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 60,
+   "note": "the suit on the bridge, watching"
+  },
+  {
+   "id": "S10",
+   "size": "close",
+   "key": 30,
+   "note": "you"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 80,
+   "note": "the other voice"
+  },
+  {
+   "id": "S11B",
+   "size": "medium",
+   "key": 30,
+   "note": "you and Ellie look at each other"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 50,
+   "note": "who was that?"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 60,
+   "note": "the dark city, watching"
+  },
+  {
+   "id": "S14",
+   "size": "card",
+   "key": 60,
+   "note": "would you have gone through the door?"
+  },
+  {
+   "id": "S15",
+   "size": "card",
+   "key": 80,
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S15B",
+   "size": "card",
+   "key": 40,
+   "note": "ALL REAL"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 60,
+   "note": "end screen"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "climb"
+  },
+  {
+   "shot": "S3",
+   "at": "there"
+  },
+  {
+   "shot": "S4",
+   "at": "hugs"
+  },
+  {
+   "shot": "S5",
+   "at": "Across"
+  },
+  {
+   "shot": "S6",
+   "at": "door"
+  },
+  {
+   "shot": "S7",
+   "at": "just"
+  },
+  {
+   "shot": "S8",
+   "at": "Noodle"
+  },
+  {
+   "shot": "S9",
+   "at": "far"
+  },
+  {
+   "shot": "S10",
+   "at": "Or"
+  },
+  {
+   "shot": "S11",
+   "at": "crackles"
+  },
+  {
+   "shot": "S11B",
+   "at": "Don't"
+  },
+  {
+   "shot": "S12",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S13",
+   "at": "somewhere"
+  },
+  {
+   "shot": "S14",
+   "at": "Would"
+  },
+  {
+   "shot": "S15",
+   "at": "Is"
+  },
+  {
+   "shot": "S15B",
+   "at": "All"
+  },
+  {
+   "shot": "S16",
+   "at": "description+20"
+  }
+ ],
+ "fx": [],
+ "tail": 15
 }

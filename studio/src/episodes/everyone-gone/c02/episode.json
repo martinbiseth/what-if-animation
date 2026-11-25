@@ -30,7 +30,199 @@
   }
  ],
  "science": [],
- "shots": [],
- "edit": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "note": "day 1: the rules"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 50,
+   "note": "notebook: three rules"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "note": "clock 3:07"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 50,
+   "note": "last message before 3:07"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 60,
+   "note": "empty news desk, lights on"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 40,
+   "note": "rule two"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 40,
+   "note": "animals in the empty street"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 30,
+   "note": "goldfish bowl"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 40,
+   "note": "rule three"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "note": "slippers in the hallway"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "note": "toothbrush on the floor"
+  },
+  {
+   "id": "S12",
+   "size": "close",
+   "key": 50,
+   "note": "you calling"
+  },
+  {
+   "id": "S12B",
+   "size": "insert",
+   "key": 40,
+   "note": "calling Grandma, ringing"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 40,
+   "note": "phones buzzing on empty tables"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 50,
+   "note": "Ellie's room"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 40,
+   "note": "walkie on the bed, hissing"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 30,
+   "note": "your face"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "note": "you switch it off"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 40,
+   "note": "the walkie, dark"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "three"
+  },
+  {
+   "shot": "S3",
+   "at": "happened"
+  },
+  {
+   "shot": "S4",
+   "at": "phone"
+  },
+  {
+   "shot": "S5",
+   "at": "TV"
+  },
+  {
+   "shot": "S6",
+   "at": "Two"
+  },
+  {
+   "shot": "S7",
+   "at": "Dogs"
+  },
+  {
+   "shot": "S8",
+   "at": "goldfish"
+  },
+  {
+   "shot": "S9",
+   "at": "Three"
+  },
+  {
+   "shot": "S10",
+   "at": "slippers"
+  },
+  {
+   "shot": "S11",
+   "at": "toothbrush"
+  },
+  {
+   "shot": "S12",
+   "at": "call"
+  },
+  {
+   "shot": "S12B",
+   "at": "Every"
+  },
+  {
+   "shot": "S13",
+   "at": "picture"
+  },
+  {
+   "shot": "S14",
+   "at": "then"
+  },
+  {
+   "shot": "S15",
+   "at": "walkie"
+  },
+  {
+   "shot": "S16",
+   "at": "never"
+  },
+  {
+   "shot": "S17",
+   "at": "switch"
+  },
+  {
+   "shot": "S18",
+   "at": "Remember"
+  }
+ ],
  "fx": []
 }

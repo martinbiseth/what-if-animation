@@ -1,0 +1,439 @@
+{
+ "slug": "everyone-gone/c03",
+ "title": " ",
+ "fps": 30,
+ "total": 2792,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 141,
+   "t0": 0,
+   "t1": 141,
+   "line": "And then, for a few days, it is the best thing that has ever happened to you. Day"
+  },
+  {
+   "shot": "S2",
+   "a": 141,
+   "b": 273,
+   "t0": 0,
+   "t1": 132,
+   "line": "two. You walk into the biggest toy store in the city and take whatever you want."
+  },
+  {
+   "shot": "S2B",
+   "a": 273,
+   "b": 330,
+   "t0": 0,
+   "t1": 57,
+   "line": "Nobody stops you. There is no"
+  },
+  {
+   "shot": "S3",
+   "a": 330,
+   "b": 438,
+   "t0": 0,
+   "t1": 108,
+   "line": "queue at the checkout, because there is nobody at the checkout. On"
+  },
+  {
+   "shot": "S4",
+   "a": 438,
+   "b": 533,
+   "t0": 0,
+   "t1": 95,
+   "line": "the way home, you stop at Mo's house and stick a note on his door."
+  },
+  {
+   "shot": "S5",
+   "a": 533,
+   "b": 598,
+   "t0": 0,
+   "t1": 65,
+   "line": "Gone to the mall. Come find me."
+  },
+  {
+   "shot": "S6",
+   "a": 598,
+   "b": 716,
+   "t0": 0,
+   "t1": 118,
+   "line": "Every day after that, you check. Every day, the note is still there. Day"
+  },
+  {
+   "shot": "S7",
+   "a": 716,
+   "b": 833,
+   "t0": 0,
+   "t1": 117,
+   "line": "three. Breakfast is ice cream. Lunch is ice cream."
+  },
+  {
+   "shot": "S8",
+   "a": 833,
+   "b": 967,
+   "t0": 0,
+   "t1": 134,
+   "line": "Dinner is a whole pizza from the food court, which you work out how to bake yourself. It's"
+  },
+  {
+   "shot": "S9",
+   "a": 967,
+   "b": 1051,
+   "t0": 0,
+   "t1": 84,
+   "line": "terrible. You eat all of it anyway. Day"
+  },
+  {
+   "shot": "S10",
+   "a": 1051,
+   "b": 1198,
+   "t0": 0,
+   "t1": 147,
+   "line": "four. You ride a bike down the middle of the motorway, past thousands of stopped cars,"
+  },
+  {
+   "shot": "S11",
+   "a": 1198,
+   "b": 1304,
+   "t0": 0,
+   "t1": 106,
+   "line": "singing as loud as you can. Nobody tells you to stop. Day"
+  },
+  {
+   "shot": "S12",
+   "a": 1304,
+   "b": 1450,
+   "t0": 0,
+   "t1": 146,
+   "line": "five. You move into the penthouse at the top of the fanciest hotel in the city. The"
+  },
+  {
+   "shot": "S13",
+   "a": 1450,
+   "b": 1565,
+   "t0": 0,
+   "t1": 115,
+   "line": "bed is bigger than your bedroom. There's a hot tub on the balcony. You fall"
+  },
+  {
+   "shot": "S14",
+   "a": 1565,
+   "b": 1713,
+   "t0": 0,
+   "t1": 148,
+   "line": "asleep in a bathrobe, watching the sun set over a city that belongs only to you. That"
+  },
+  {
+   "shot": "S15",
+   "a": 1713,
+   "b": 1851,
+   "t0": 0,
+   "t1": 138,
+   "line": "night you watch a film alone in the biggest cinema in town, in the best seat, with"
+  },
+  {
+   "shot": "S15B",
+   "a": 1851,
+   "b": 1936,
+   "t0": 0,
+   "t1": 85,
+   "line": "a bucket of popcorn the size of a bin. It takes you"
+  },
+  {
+   "shot": "S16",
+   "a": 1936,
+   "b": 1998,
+   "t0": 0,
+   "t1": 62,
+   "line": "an hour to work out the projector. Day"
+  },
+  {
+   "shot": "S17",
+   "a": 1998,
+   "b": 2114,
+   "t0": 0,
+   "t1": 116,
+   "line": "six. You go to school, just to sit in the teacher's chair. On"
+  },
+  {
+   "shot": "S17B",
+   "a": 2114,
+   "b": 2264,
+   "t0": 0,
+   "t1": 150,
+   "line": "the board, in giant letters, you write: no homework, forever. Then you climb up onto"
+  },
+  {
+   "shot": "S18",
+   "a": 2264,
+   "b": 2403,
+   "t0": 0,
+   "t1": 139,
+   "line": "the roof, and you scream as loud as you can, just because you can. And for the first time,"
+  },
+  {
+   "shot": "S19",
+   "a": 2403,
+   "b": 2478,
+   "t0": 0,
+   "t1": 75,
+   "line": "something answers. All across the city,"
+  },
+  {
+   "shot": "S20",
+   "a": 2478,
+   "b": 2552,
+   "t0": 0,
+   "t1": 74,
+   "line": "thousands of dogs start barking back. It's"
+  },
+  {
+   "shot": "S21",
+   "a": 2552,
+   "b": 2622,
+   "t0": 0,
+   "t1": 70,
+   "line": "funny. For about a second. Then"
+  },
+  {
+   "shot": "S22",
+   "a": 2622,
+   "b": 2792,
+   "t0": 0,
+   "t1": 170,
+   "line": "you realise the dogs are the loudest thing left. And that the city is about to start falling apart."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "len": 141,
+   "first": 0,
+   "line": "And then, for a few days, it is the best thing that has ever happened to you. Day",
+   "note": "days 2-6"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 60,
+   "len": 132,
+   "first": 141,
+   "line": "two. You walk into the biggest toy store in the city and take whatever you want.",
+   "note": "toy store, arms full"
+  },
+  {
+   "id": "S2B",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 273,
+   "line": "Nobody stops you. There is no",
+   "note": "walking out with a trolley of toys"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 108,
+   "first": 330,
+   "line": "queue at the checkout, because there is nobody at the checkout. On",
+   "note": "empty checkout"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 60,
+   "len": 95,
+   "first": 438,
+   "line": "the way home, you stop at Mo's house and stick a note on his door.",
+   "note": "Mo's door, the note"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 65,
+   "first": 533,
+   "line": "Gone to the mall. Come find me.",
+   "note": "the note"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 60,
+   "len": 118,
+   "first": 598,
+   "line": "Every day after that, you check. Every day, the note is still there. Day",
+   "note": "the note, days pass"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "len": 117,
+   "first": 716,
+   "line": "three. Breakfast is ice cream. Lunch is ice cream.",
+   "note": "food court, ice cream"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 40,
+   "len": 134,
+   "first": 833,
+   "line": "Dinner is a whole pizza from the food court, which you work out how to bake yourself. It's",
+   "note": "burnt pizza"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 30,
+   "len": 84,
+   "first": 967,
+   "line": "terrible. You eat all of it anyway. Day",
+   "note": "you eat it anyway"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 60,
+   "len": 147,
+   "first": 1051,
+   "line": "four. You ride a bike down the middle of the motorway, past thousands of stopped cars,",
+   "note": "bike on the motorway"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 40,
+   "len": 106,
+   "first": 1198,
+   "line": "singing as loud as you can. Nobody tells you to stop. Day",
+   "note": "singing on the bike"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 50,
+   "len": 146,
+   "first": 1304,
+   "line": "five. You move into the penthouse at the top of the fanciest hotel in the city. The",
+   "note": "penthouse roof, hot tub"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 115,
+   "first": 1450,
+   "line": "bed is bigger than your bedroom. There's a hot tub on the balcony. You fall",
+   "note": "jumping on the giant bed"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 60,
+   "len": 148,
+   "first": 1565,
+   "line": "asleep in a bathrobe, watching the sun set over a city that belongs only to you. That",
+   "note": "asleep in a bathrobe at sunset"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 60,
+   "len": 138,
+   "first": 1713,
+   "line": "night you watch a film alone in the biggest cinema in town, in the best seat, with",
+   "note": "alone in the cinema"
+  },
+  {
+   "id": "S15B",
+   "size": "insert",
+   "key": 30,
+   "len": 85,
+   "first": 1851,
+   "line": "a bucket of popcorn the size of a bin. It takes you",
+   "note": "popcorn the size of a bin"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 30,
+   "len": 62,
+   "first": 1936,
+   "line": "an hour to work out the projector. Day",
+   "note": "the projector took an hour"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 50,
+   "len": 116,
+   "first": 1998,
+   "line": "six. You go to school, just to sit in the teacher's chair. On",
+   "note": "empty classroom, teacher chair"
+  },
+  {
+   "id": "S17B",
+   "size": "insert",
+   "key": 60,
+   "len": 150,
+   "first": 2114,
+   "line": "the board, in giant letters, you write: no homework, forever. Then you climb up onto",
+   "note": "chalk writing"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 40,
+   "len": 139,
+   "first": 2264,
+   "line": "the roof, and you scream as loud as you can, just because you can. And for the first time,",
+   "note": "you scream on the school roof"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 60,
+   "len": 75,
+   "first": 2403,
+   "line": "something answers. All across the city,",
+   "note": "woofs across the city"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 40,
+   "len": 74,
+   "first": 2478,
+   "line": "thousands of dogs start barking back. It's",
+   "note": "a dog barking back"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 40,
+   "len": 70,
+   "first": 2552,
+   "line": "funny. For about a second. Then",
+   "note": "you laugh, then stop"
+  },
+  {
+   "id": "S22",
+   "size": "wide",
+   "key": 70,
+   "len": 170,
+   "first": 2622,
+   "line": "you realise the dogs are the loudest thing left. And that the city is about to start falling apart.",
+   "note": "the city at dusk, you small"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "everyone-gone/c03/voice.wav"
+ }
+}

@@ -64,7 +64,239 @@
    "source": "IAEA Power Reactor Information System (PRIS); US NRC Regulatory Guide 1.137"
   }
  ],
- "shots": [],
- "edit": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "card",
+   "key": 30,
+   "note": "day 7"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 70,
+   "note": "power stations shut down within hours"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 50,
+   "note": "the grid: a balance"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 60,
+   "note": "the dam, spinning"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 40,
+   "note": "the breaker trips"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 60,
+   "note": "hotel roof, blackout starts"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 60,
+   "note": "skyline dark, only the moon"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 40,
+   "note": "phone: no signal"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 50,
+   "note": "mast battery draining"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 60,
+   "note": "subway flooding"
+  },
+  {
+   "id": "S11",
+   "size": "card",
+   "key": 50,
+   "note": "13 million gallons a day"
+  },
+  {
+   "id": "S12",
+   "size": "card",
+   "key": 60,
+   "note": "36 hours"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 50,
+   "note": "supermarket rotting"
+  },
+  {
+   "id": "S14",
+   "size": "close",
+   "key": 30,
+   "note": "you smell it"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 40,
+   "note": "cans, no opener"
+  },
+  {
+   "id": "S16",
+   "size": "card",
+   "key": 60,
+   "note": "petrol goes stale 3-6 months"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 50,
+   "note": "sitting on a car: a heavy chair"
+  },
+  {
+   "id": "S18",
+   "size": "card",
+   "key": 50,
+   "note": "400+ reactors"
+  },
+  {
+   "id": "S19",
+   "size": "insert",
+   "key": 50,
+   "note": "reactor shut down, still hot"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 50,
+   "note": "diesel keeps cooling"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 60,
+   "note": "fuel for 7 days"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 60,
+   "note": "fuel runs out"
+  },
+  {
+   "id": "S23",
+   "size": "close",
+   "key": 60,
+   "note": "counting on fingers, day 8"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "People"
+  },
+  {
+   "shot": "S3",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S4",
+   "at": "lucky"
+  },
+  {
+   "shot": "S5",
+   "at": "Until"
+  },
+  {
+   "shot": "S6",
+   "at": "roof"
+  },
+  {
+   "shot": "S7",
+   "at": "whole"
+  },
+  {
+   "shot": "S8",
+   "at": "few"
+  },
+  {
+   "shot": "S9",
+   "at": "masts"
+  },
+  {
+   "shot": "S10",
+   "at": "water"
+  },
+  {
+   "shot": "S11",
+   "at": "thirteen"
+  },
+  {
+   "shot": "S12",
+   "at": "Without"
+  },
+  {
+   "shot": "S13",
+   "at": "food"
+  },
+  {
+   "shot": "S14",
+   "at": "smell"
+  },
+  {
+   "shot": "S15",
+   "at": "Canned"
+  },
+  {
+   "shot": "S16",
+   "at": "fuel"
+  },
+  {
+   "shot": "S17",
+   "at": "every"
+  },
+  {
+   "shot": "S18",
+   "at": "scary"
+  },
+  {
+   "shot": "S19",
+   "at": "shut"
+  },
+  {
+   "shot": "S20",
+   "at": "power"
+  },
+  {
+   "shot": "S21",
+   "at": "United"
+  },
+  {
+   "shot": "S22",
+   "at": "After"
+  },
+  {
+   "shot": "S23",
+   "at": "count"
+  }
+ ],
  "fx": []
 }
