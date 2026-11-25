@@ -16,7 +16,7 @@ S = {
 'c02': ("The broken alarm", [
  "Here's the deal. Your brain has stopped sending the signal that says, sleep now. You don't feel tired. Your eyes don't burn. You don't yawn.",
  "But here's the catch nobody told you. Feeling tired and needing sleep are two different things.",
- "Feeling sleepy is just the alarm. It comes from a chemical called adenosine, which builds up in your brain every hour you're awake. Every hour you're awake, more of it piles up, like sand in an hourglass. Sleep is what tips the hourglass back over. Coffee works by blocking it.",
+ "Feeling sleepy is just the alarm. It comes from a chemical called adenosine. Every hour you're awake, more of it piles up in your brain, like sand in an hourglass. Sleep is what tips the hourglass back over. Coffee works by blocking it.",
  "Your alarm is broken. But the clock is still ticking.",
  "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person you know. You even write it on a sticky note on your mirror. Tell Mo.",
  "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum.'",

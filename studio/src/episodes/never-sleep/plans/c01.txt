@@ -1,0 +1,21 @@
+S1 | f:0 | insert | bedroom | the clock: 03:00
+S2 | Your | wide | street night | every window dark
+S3 | Your | close-up | bedroom | mum asleep
+S4 | Your | close-up | bedroom | Ellie asleep with teddy
+S5 | Even | insert | bedroom | the cat asleep
+S6 | Everyone | close-up | bedroom | you: eyes wide open
+S7 | Because | graphic | schematic | brain, SLEEP switch flips OFF
+S8 | You | medium | bedroom | you lie down, close eyes, nothing (no z)
+S9 | No | close-up | bedroom | NO YAWN / NO HEAVY EYES / NOTHING
+S10 | You're | medium | bedroom | you sit up, wide awake
+S11 | Not | big word | bedroom blur | NOT EVER.
+S12 | At | medium | bedroom | superpower pose on the floor
+S13 | Eight | graphic | schematic | 8 hours light up on a 24 h dial
+S14 | Homework | medium | bedroom | homework done 00:00
+S15 | A | medium | bedroom | juggling 02:00
+S16 | Breakfast | wide | kitchen | breakfast 06:00
+S17 | But | graphic | schematic | the body clock ticking
+S18 | By | close-up | street | HOUR 19, dizzy, wobbly
+S19 | By | medium | bedroom | DAY 3, a shadow in the doorway
+S20 | And | graphic | dark | trophy DAY 11, NOT ALLOWED
+S21 | So | wide | rooftop night | title WHAT IF YOU NEVER SLEPT AGAIN?

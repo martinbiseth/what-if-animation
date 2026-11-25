@@ -1,27 +1,367 @@
 {
  "slug": "never-sleep/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1543,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
+   "b": 38,
+   "t0": 0,
+   "t1": 38,
+   "line": "It's three a.m."
+  },
+  {
+   "shot": "S2",
+   "a": 38,
    "b": 90,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 52,
+   "line": "Your whole house is asleep."
+  },
+  {
+   "shot": "S3",
+   "a": 90,
+   "b": 114,
+   "t0": 0,
+   "t1": 24,
+   "line": "Your mum."
+  },
+  {
+   "shot": "S4",
+   "a": 114,
+   "b": 162,
+   "t0": 0,
+   "t1": 48,
+   "line": "Your little sister Ellie."
+  },
+  {
+   "shot": "S5",
+   "a": 162,
+   "b": 193,
+   "t0": 0,
+   "t1": 31,
+   "line": "Even the cat."
+  },
+  {
+   "shot": "S6",
+   "a": 193,
+   "b": 233,
+   "t0": 0,
+   "t1": 40,
+   "line": "Everyone except you."
+  },
+  {
+   "shot": "S7",
+   "a": 233,
+   "b": 336,
+   "t0": 0,
+   "t1": 103,
+   "line": "Because last night, something switched off inside your head."
+  },
+  {
+   "shot": "S8",
+   "a": 336,
+   "b": 435,
+   "t0": 0,
+   "t1": 99,
+   "line": "You lay down, closed your eyes, and nothing happened."
+  },
+  {
+   "shot": "S9",
+   "a": 435,
+   "b": 516,
+   "t0": 0,
+   "t1": 81,
+   "line": "No yawn. No heavy eyelids. Nothing."
+  },
+  {
+   "shot": "S10",
+   "a": 516,
+   "b": 525,
+   "t0": 0,
+   "t1": 9,
+   "line": "You're"
+  },
+  {
+   "shot": "S11",
+   "a": 525,
+   "b": 668,
+   "t0": 0,
+   "t1": 143,
+   "line": "not tired. And you won't be. Not tonight, not tomorrow, not ever again."
+  },
+  {
+   "shot": "S12",
+   "a": 668,
+   "b": 741,
+   "t0": 0,
+   "t1": 73,
+   "line": "At first, it sounds like a superpower."
+  },
+  {
+   "shot": "S13",
+   "a": 741,
+   "b": 811,
+   "t0": 0,
+   "t1": 70,
+   "line": "Eight free hours, every single night."
+  },
+  {
+   "shot": "S14",
+   "a": 811,
+   "b": 860,
+   "t0": 0,
+   "t1": 49,
+   "line": "Homework done by midnight."
+  },
+  {
+   "shot": "S15",
+   "a": 860,
+   "b": 901,
+   "t0": 0,
+   "t1": 41,
+   "line": "A new hobby by two."
+  },
+  {
+   "shot": "S16",
+   "a": 901,
+   "b": 970,
+   "t0": 0,
+   "t1": 69,
+   "line": "Breakfast for the whole family by six."
+  },
+  {
+   "shot": "S17",
+   "a": 970,
+   "b": 1034,
+   "t0": 0,
+   "t1": 64,
+   "line": "But your body keeps its own clock."
+  },
+  {
+   "shot": "S18",
+   "a": 1034,
+   "b": 1143,
+   "t0": 0,
+   "t1": 109,
+   "line": "By hour nineteen, your brain works like it's had a few drinks."
+  },
+  {
+   "shot": "S19",
+   "a": 1143,
+   "b": 1243,
+   "t0": 0,
+   "t1": 100,
+   "line": "By day three, the shadows in the hallway start to move."
+  },
+  {
+   "shot": "S20",
+   "a": 1243,
+   "b": 1409,
+   "t0": 0,
+   "t1": 166,
+   "line": "And by day eleven, you'll be chasing a world record that nobody is even allowed to attempt anymore."
+  },
+  {
+   "shot": "S21",
+   "a": 1409,
+   "b": 1543,
+   "t0": 0,
+   "t1": 134,
+   "line": "So what really happens, hour by hour, if you never sleep again?"
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "key": 30,
+   "len": 38,
+   "first": 0,
+   "line": "It's three a.m.",
+   "note": "the clock: 03:00"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "len": 52,
+   "first": 38,
+   "line": "Your whole house is asleep.",
+   "note": "every window dark"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 30,
+   "len": 24,
+   "first": 90,
+   "line": "Your mum.",
+   "note": "mum asleep"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 48,
+   "first": 114,
+   "line": "Your little sister Ellie.",
+   "note": "Ellie asleep with teddy"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 31,
+   "first": 162,
+   "line": "Even the cat.",
+   "note": "the cat asleep"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 30,
+   "len": 40,
+   "first": 193,
+   "line": "Everyone except you.",
+   "note": "you: eyes wide open"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 30,
+   "len": 103,
+   "first": 233,
+   "line": "Because last night, something switched off inside your head.",
+   "note": "brain, SLEEP switch flips OFF"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 99,
+   "first": 336,
+   "line": "You lay down, closed your eyes, and nothing happened.",
+   "note": "you lie down, close eyes, nothing (no z)"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 30,
+   "len": 81,
+   "first": 435,
+   "line": "No yawn. No heavy eyelids. Nothing.",
+   "note": "NO YAWN / NO HEAVY EYES / NOTHING"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 9,
+   "first": 516,
+   "line": "You're",
+   "note": "you sit up, wide awake"
+  },
+  {
+   "id": "S11",
+   "size": "big word",
+   "key": 30,
+   "len": 143,
+   "first": 525,
+   "line": "not tired. And you won't be. Not tonight, not tomorrow, not ever again.",
+   "note": "NOT EVER."
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 73,
+   "first": 668,
+   "line": "At first, it sounds like a superpower.",
+   "note": "superpower pose on the floor"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 30,
+   "len": 70,
+   "first": 741,
+   "line": "Eight free hours, every single night.",
+   "note": "8 hours light up on a 24 h dial"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 811,
+   "line": "Homework done by midnight.",
+   "note": "homework done 00:00"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 41,
+   "first": 860,
+   "line": "A new hobby by two.",
+   "note": "juggling 02:00"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 69,
+   "first": 901,
+   "line": "Breakfast for the whole family by six.",
+   "note": "breakfast 06:00"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 30,
+   "len": 64,
+   "first": 970,
+   "line": "But your body keeps its own clock.",
+   "note": "the body clock ticking"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 109,
+   "first": 1034,
+   "line": "By hour nineteen, your brain works like it's had a few drinks.",
+   "note": "HOUR 19, dizzy, wobbly"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 100,
+   "first": 1143,
+   "line": "By day three, the shadows in the hallway start to move.",
+   "note": "DAY 3, a shadow in the doorway"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 30,
+   "len": 166,
+   "first": 1243,
+   "line": "And by day eleven, you'll be chasing a world record that nobody is even allowed to attempt anymore.",
+   "note": "trophy DAY 11, NOT ALLOWED"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 30,
+   "len": 134,
+   "first": 1409,
+   "line": "So what really happens, hour by hour, if you never sleep again?",
+   "note": "title WHAT IF YOU NEVER SLEPT AGAIN?"
   }
  ],
  "fx": [],
