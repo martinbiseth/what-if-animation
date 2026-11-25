@@ -1,27 +1,265 @@
 {
  "slug": "never-sleep/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1736,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 61,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 61,
+   "line": "Day eleven. Lights off."
+  },
+  {
+   "shot": "S2",
+   "a": 61,
+   "b": 114,
+   "t0": 0,
+   "t1": 53,
+   "line": "You're back in your own bed."
+  },
+  {
+   "shot": "S3",
+   "a": 114,
+   "b": 206,
+   "t0": 0,
+   "t1": 92,
+   "line": "Ellie has left the hallway light on, just a crack."
+  },
+  {
+   "shot": "S4",
+   "a": 206,
+   "b": 267,
+   "t0": 0,
+   "t1": 61,
+   "line": "Mum sits at the end of the bed."
+  },
+  {
+   "shot": "S5",
+   "a": 267,
+   "b": 453,
+   "t0": 0,
+   "t1": 186,
+   "line": "Mo is asleep in a chair in the corner, snoring, still holding a packet of crisps. You close your eyes."
+  },
+  {
+   "shot": "S6",
+   "a": 453,
+   "b": 460,
+   "t0": 0,
+   "t1": 7,
+   "line": "You"
+  },
+  {
+   "shot": "S7",
+   "a": 460,
+   "b": 674,
+   "t0": 0,
+   "t1": 214,
+   "line": "breathe slowly. You count. One. Two. Three. Breathe in. Breathe out. Your heartbeat slows down."
+  },
+  {
+   "shot": "S8",
+   "a": 674,
+   "b": 720,
+   "t0": 0,
+   "t1": 46,
+   "line": "The room starts to feel soft"
+  },
+  {
+   "shot": "S9",
+   "a": 720,
+   "b": 883,
+   "t0": 0,
+   "t1": 163,
+   "line": "and far away. And for the first time in eleven days, something heavy pulls at your eyelids."
+  },
+  {
+   "shot": "S10",
+   "a": 883,
+   "b": 929,
+   "t0": 0,
+   "t1": 46,
+   "line": "Then your phone buzzes."
+  },
+  {
+   "shot": "S11",
+   "a": 929,
+   "b": 1152,
+   "t0": 0,
+   "t1": 223,
+   "line": "A message, from a number you don't know. 'Don't fall asleep. Not yet. We need to talk about what you'll see when you do'."
+  },
+  {
+   "shot": "S12",
+   "a": 1152,
+   "b": 1475,
+   "t0": 0,
+   "t1": 323,
+   "line": "Is any of this real? The adenosine alarm, the brain wash, the drunk-like reaction times, Randy Gardner's eleven days, and the rats. All real. The sources are in the description."
+  },
+  {
+   "shot": "S13",
+   "a": 1475,
+   "b": 1592,
+   "t0": 0,
+   "t1": 117,
+   "line": "Would you take eight free hours a night, if you knew the price?"
+  },
+  {
+   "shot": "S14",
+   "a": 1592,
+   "b": 1640,
+   "t0": 0,
+   "t1": 48,
+   "line": "Tell me in the comments."
+  },
+  {
+   "shot": "S15",
+   "a": 1640,
+   "b": 1736,
+   "t0": 0,
+   "t1": 96,
+   "line": "And subscribe, so you don't miss part two."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 30,
+   "len": 61,
+   "first": 0,
+   "line": "Day eleven. Lights off.",
+   "note": "DAY 11, lights off"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "len": 53,
+   "first": 61,
+   "line": "You're back in your own bed.",
+   "note": "back in your own bed"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 92,
+   "first": 114,
+   "line": "Ellie has left the hallway light on, just a crack.",
+   "note": "the hallway light, just a crack"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 61,
+   "first": 206,
+   "line": "Mum sits at the end of the bed.",
+   "note": "mum at the end of the bed"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 186,
+   "first": 267,
+   "line": "Mo is asleep in a chair in the corner, snoring, still holding a packet of crisps. You close your eyes.",
+   "note": "Mo asleep in a chair, snoring, crisps"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 30,
+   "len": 7,
+   "first": 453,
+   "line": "You",
+   "note": "eyes close, count 1 2 3"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 30,
+   "len": 214,
+   "first": 460,
+   "line": "breathe slowly. You count. One. Two. Three. Breathe in. Breathe out. Your heartbeat slows down.",
+   "note": "breathe in/out, heartbeat slows to 58 BPM"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 46,
+   "first": 674,
+   "line": "The room starts to feel soft",
+   "note": "the room goes soft and far away"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 30,
+   "len": 163,
+   "first": 720,
+   "line": "and far away. And for the first time in eleven days, something heavy pulls at your eyelids.",
+   "note": "eyelids heavy"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 46,
+   "first": 883,
+   "line": "Then your phone buzzes.",
+   "note": "the phone buzzes on the nightstand"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 223,
+   "first": 929,
+   "line": "A message, from a number you don't know. 'Don't fall asleep. Not yet. We need to talk about what you'll see when you do'.",
+   "note": "unknown number: don't fall asleep, not yet"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 30,
+   "len": 323,
+   "first": 1152,
+   "line": "Is any of this real? The adenosine alarm, the brain wash, the drunk-like reaction times, Randy Gardner's eleven days, and the rats. All real. The sources are in the description.",
+   "note": "is any of this real? ALL REAL, sources in description"
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "key": 30,
+   "len": 117,
+   "first": 1475,
+   "line": "Would you take eight free hours a night, if you knew the price?",
+   "note": "8 free hours?"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "key": 30,
+   "len": 48,
+   "first": 1592,
+   "line": "Tell me in the comments.",
+   "note": "in the comments"
+  },
+  {
+   "id": "S15",
+   "size": "end card",
+   "key": 30,
+   "len": 96,
+   "first": 1640,
+   "line": "And subscribe, so you don't miss part two.",
+   "note": "PART 2, subscribe"
   }
  ],
  "fx": [],

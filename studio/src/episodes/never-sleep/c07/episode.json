@@ -37,18 +37,171 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
+   "size": "big word",
+   "set": "bedroom",
    "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "note": "DAY 11, lights off"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "back in your own bed"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the hallway light, just a crack"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "mum at the end of the bed"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Mo asleep in a chair, snoring, crisps"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "eyes close, count 1 2 3"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "breathe in/out, heartbeat slows to 58 BPM"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the room goes soft and far away"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 30,
+   "note": "eyelids heavy"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the phone buzzes on the nightstand"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "phone",
+   "key": 30,
+   "note": "unknown number: don't fall asleep, not yet"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "is any of this real? ALL REAL, sources in description"
+  },
+  {
+   "id": "S13",
+   "size": "big word",
+   "set": "bedroom",
+   "key": 30,
+   "note": "8 free hours?"
+  },
+  {
+   "id": "S14",
+   "size": "big word",
+   "set": "bedroom",
+   "key": 30,
+   "note": "in the comments"
+  },
+  {
+   "id": "S15",
+   "size": "end card",
+   "set": "dark",
+   "key": 30,
+   "note": "PART 2, subscribe"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S4",
+   "at": "Mum"
+  },
+  {
+   "shot": "S5",
+   "at": "Mo"
+  },
+  {
+   "shot": "S6",
+   "at": "You#2"
+  },
+  {
+   "shot": "S7",
+   "at": "Breathe"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "And"
+  },
+  {
+   "shot": "S10",
+   "at": "Then"
+  },
+  {
+   "shot": "S11",
+   "at": "A"
+  },
+  {
+   "shot": "S12",
+   "at": "Is"
+  },
+  {
+   "shot": "S13",
+   "at": "Would"
+  },
+  {
+   "shot": "S14",
+   "at": "Tell"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
   }
  ],
- "end": "f:90",
  "fx": []
 }

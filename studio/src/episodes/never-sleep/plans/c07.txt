@@ -1,0 +1,15 @@
+S1 | f:0 | big word | bedroom | DAY 11, lights off
+S2 | You're | wide | bedroom | back in your own bed
+S3 | Ellie | insert | bedroom | the hallway light, just a crack
+S4 | Mum | medium | bedroom | mum at the end of the bed
+S5 | Mo | medium | bedroom | Mo asleep in a chair, snoring, crisps
+S6 | You#2 | close-up | bedroom | eyes close, count 1 2 3
+S7 | Breathe | graphic | schematic | breathe in/out, heartbeat slows to 58 BPM
+S8 | The | close-up | bedroom | the room goes soft and far away
+S9 | And | close-up | bedroom | eyelids heavy
+S10 | Then | insert | bedroom | the phone buzzes on the nightstand
+S11 | A | insert | phone | unknown number: don't fall asleep, not yet
+S12 | Is | graphic | schematic | is any of this real? ALL REAL, sources in description
+S13 | Would | big word | bedroom | 8 free hours?
+S14 | Tell | big word | bedroom | in the comments
+S15 | And | end card | dark | PART 2, subscribe
