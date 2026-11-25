@@ -87,17 +87,238 @@
  "shots": [
   {
    "id": "S1",
+   "size": "medium",
+   "set": "pod room",
+   "note": "just a sneeze",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "pod room",
+   "note": "then a fever",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "pod room night",
+   "note": "you can't get out of bed",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "pod room night",
+   "note": "Vee scans you",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "pod room night",
+   "note": "Vee: a common cold",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "viruses never stop changing",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "set": "schematic",
+   "note": "a new flu vaccine every year",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "your 2026 shield vs a thousand years of new germs",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "fact",
+   "set": "schematic",
+   "note": "after 1492: about 9 in 10 died",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "pod room",
+   "note": "Vee's shot fixes you",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "Earth's spin slowing",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "fact",
+   "set": "schematic",
+   "note": "17 thousandths of a second",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "city deck",
+   "note": "without the earpiece nobody understands",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "manuscript",
+   "note": "Beowulf: HWAET",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "city deck",
+   "note": "you sound just as strange",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "big word",
+   "set": "city",
+   "note": "WORK",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "museum",
+   "note": "the tours are getting old",
+   "key": 30
+  },
+  {
+   "id": "S18",
    "size": "wide",
    "set": "city",
-   "note": "stub",
-   "key": 10
+   "note": "every job done by machines",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "farm workers 1900 vs 2000",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "set": "museum",
+   "note": "your skills: a horse and cart",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "dark",
+   "note": "someone starts paying attention",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Then"
+  },
+  {
+   "shot": "S3",
+   "at": "By"
+  },
+  {
+   "shot": "S4",
+   "at": "Vee"
+  },
+  {
+   "shot": "S5",
+   "at": "This"
+  },
+  {
+   "shot": "S6",
+   "at": "Here's"
+  },
+  {
+   "shot": "S7",
+   "at": "The"
+  },
+  {
+   "shot": "S8",
+   "at": "Your"
+  },
+  {
+   "shot": "S9",
+   "at": "happened"
+  },
+  {
+   "shot": "S10",
+   "at": "Vee"
+  },
+  {
+   "shot": "S11",
+   "at": "Some"
+  },
+  {
+   "shot": "S12",
+   "at": "After"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "That's"
+  },
+  {
+   "shot": "S15",
+   "at": "To"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "Your"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "That"
+  },
+  {
+   "shot": "S20",
+   "at": "In#2"
+  },
+  {
+   "shot": "S21",
+   "at": "And"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 0.9
 }

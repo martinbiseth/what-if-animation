@@ -7,21 +7,361 @@
   {
    "shot": "S1",
    "a": 0,
+   "b": 65,
+   "t0": 0,
+   "t1": 65,
+   "line": "At first, it's just a sneeze."
+  },
+  {
+   "shot": "S2",
+   "a": 65,
+   "b": 96,
+   "t0": 0,
+   "t1": 31,
+   "line": "Then a fever."
+  },
+  {
+   "shot": "S3",
+   "a": 96,
+   "b": 165,
+   "t0": 0,
+   "t1": 69,
+   "line": "By night, you can't get out of bed."
+  },
+  {
+   "shot": "S4",
+   "a": 165,
+   "b": 197,
+   "t0": 0,
+   "t1": 32,
+   "line": "Vee scans you."
+  },
+  {
+   "shot": "S5",
+   "a": 197,
+   "b": 314,
+   "t0": 0,
+   "t1": 117,
+   "line": "'This is a common cold. Children here catch it and feel nothing'."
+  },
+  {
+   "shot": "S6",
+   "a": 314,
+   "b": 323,
+   "t0": 0,
+   "t1": 9,
+   "line": "Here's"
+  },
+  {
+   "shot": "S7",
+   "a": 323,
+   "b": 538,
+   "t0": 0,
+   "t1": 215,
+   "line": "the problem. Viruses never stop changing. The flu changes so much that scientists make a new flu vaccine every single year."
+  },
+  {
+   "shot": "S8",
+   "a": 538,
+   "b": 743,
+   "t0": 0,
+   "t1": 205,
+   "line": "Your body learned to fight the germs of twenty twenty-six. It has never seen almost a thousand years of new ones. It has"
+  },
+  {
+   "shot": "S9",
+   "a": 743,
+   "b": 1075,
+   "t0": 0,
+   "t1": 332,
+   "line": "happened before. After fourteen ninety-two, diseases from Europe reached the Americas, where nobody had immunity. Within about a century, in many places, around nine out of ten people had died."
+  },
+  {
+   "shot": "S10",
+   "a": 1075,
+   "b": 1295,
+   "t0": 0,
+   "t1": 220,
+   "line": "Vee gives you a shot that fixes you in an hour. Without the future's medicine, that little cold could have been the end of you."
+  },
+  {
+   "shot": "S11",
+   "a": 1295,
+   "b": 1513,
+   "t0": 0,
+   "t1": 218,
+   "line": "Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century."
+  },
+  {
+   "shot": "S12",
+   "a": 1513,
+   "b": 1761,
+   "t0": 0,
+   "t1": 248,
+   "line": "After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice."
+  },
+  {
+   "shot": "S13",
+   "a": 1761,
+   "b": 1936,
+   "t0": 0,
+   "t1": 175,
+   "line": "Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say."
+  },
+  {
+   "shot": "S14",
+   "a": 1936,
+   "b": 2264,
+   "t0": 0,
+   "t1": 328,
+   "line": "That's real too. English changes all the time. Beowulf was written in English about a thousand years ago, and today almost nobody can read it without lessons. It starts with the word 'Hwaet'."
+  },
+  {
+   "shot": "S15",
+   "a": 2264,
+   "b": 2384,
+   "t0": 0,
+   "t1": 120,
+   "line": "To the people of the year three thousand, you sound just as strange."
+  },
+  {
+   "shot": "S16",
+   "a": 2384,
+   "b": 2454,
+   "t0": 0,
+   "t1": 70,
+   "line": "And then, the worst one. Work."
+  },
+  {
+   "shot": "S17",
+   "a": 2454,
+   "b": 2581,
+   "t0": 0,
+   "t1": 127,
+   "line": "Your seven days of credit are almost gone, and the tours are getting old."
+  },
+  {
+   "shot": "S18",
+   "a": 2581,
+   "b": 2711,
+   "t0": 0,
+   "t1": 130,
+   "line": "You look for a job. Every job you know how to do is done by machines."
+  },
+  {
+   "shot": "S19",
+   "a": 2711,
+   "b": 2838,
+   "t0": 0,
+   "t1": 127,
+   "line": "That happened to your great-grandparents too. In nineteen hundred, about four"
+  },
+  {
+   "shot": "S20",
+   "a": 2838,
+   "b": 3113,
+   "t0": 0,
+   "t1": 275,
+   "line": "in ten American workers worked on farms. By the year two thousand, it was fewer than two in a hundred. In the year three thousand, your skills are like a horse"
+  },
+  {
+   "shot": "S21",
+   "a": 3113,
    "b": 3301,
    "t0": 0,
-   "t1": 3301,
-   "line": "At first, it's just a sneeze. Then a fever. By night, you can't get out of bed. Vee scans you. 'This is a common cold. Children here catch it and feel nothing'. Here's the problem. Viruses never stop changing. The flu changes so much that scientists make a new flu vaccine every single year. Your body learned to fight the germs of twenty twenty-six. It has never seen almost a thousand years of new ones. It has happened before. After fourteen ninety-two, diseases from Europe reached the Americas, where nobody had immunity. Within about a century, in many places, around nine out of ten people had died. Vee gives you a shot that fixes you in an hour. Without the future's medicine, that little cold could have been the end of you. Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say. Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century. After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice. That's real too. English changes all the time. Beowulf was written in English about a thousand years ago, and today almost nobody can read it without lessons. It starts with the word 'Hwaet'. To the people of the year three thousand, you sound just as strange. And then, the worst one. Work. Your seven days of credit are almost gone, and the tours are getting old. You look for a job. Every job you know how to do is done by machines. That happened to your great-grandparents too. In nineteen hundred, about four in ten American workers worked on farms. By the year two thousand, it was fewer than two in a hundred. In the year three thousand, your skills are like a horse and cart. Fun to look at. Useless. And that's when someone else starts paying attention."
+   "t1": 188,
+   "line": "and cart. Fun to look at. Useless. And that's when someone else starts paying attention."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 10,
-   "len": 3301,
+   "size": "medium",
+   "key": 30,
+   "len": 65,
    "first": 0,
-   "line": "At first, it's just a sneeze. Then a fever. By night, you can't get out of bed. Vee scans you. 'This is a common cold. Children here catch it and feel nothing'. Here's the problem. Viruses never stop changing. The flu changes so much that scientists make a new flu vaccine every single year. Your body learned to fight the germs of twenty twenty-six. It has never seen almost a thousand years of new ones. It has happened before. After fourteen ninety-two, diseases from Europe reached the Americas, where nobody had immunity. Within about a century, in many places, around nine out of ten people had died. Vee gives you a shot that fixes you in an hour. Without the future's medicine, that little cold could have been the end of you. Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say. Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century. After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice. That's real too. English changes all the time. Beowulf was written in English about a thousand years ago, and today almost nobody can read it without lessons. It starts with the word 'Hwaet'. To the people of the year three thousand, you sound just as strange. And then, the worst one. Work. Your seven days of credit are almost gone, and the tours are getting old. You look for a job. Every job you know how to do is done by machines. That happened to your great-grandparents too. In nineteen hundred, about four in ten American workers worked on farms. By the year two thousand, it was fewer than two in a hundred. In the year three thousand, your skills are like a horse and cart. Fun to look at. Useless. And that's when someone else starts paying attention.",
-   "note": "stub"
+   "line": "At first, it's just a sneeze.",
+   "note": "just a sneeze"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 30,
+   "len": 31,
+   "first": 65,
+   "line": "Then a fever.",
+   "note": "then a fever"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 30,
+   "len": 69,
+   "first": 96,
+   "line": "By night, you can't get out of bed.",
+   "note": "you can't get out of bed"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 32,
+   "first": 165,
+   "line": "Vee scans you.",
+   "note": "Vee scans you"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 30,
+   "len": 117,
+   "first": 197,
+   "line": "'This is a common cold. Children here catch it and feel nothing'.",
+   "note": "Vee: a common cold"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 30,
+   "len": 9,
+   "first": 314,
+   "line": "Here's",
+   "note": "viruses never stop changing"
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "key": 30,
+   "len": 215,
+   "first": 323,
+   "line": "the problem. Viruses never stop changing. The flu changes so much that scientists make a new flu vaccine every single year.",
+   "note": "a new flu vaccine every year"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 30,
+   "len": 205,
+   "first": 538,
+   "line": "Your body learned to fight the germs of twenty twenty-six. It has never seen almost a thousand years of new ones. It has",
+   "note": "your 2026 shield vs a thousand years of new germs"
+  },
+  {
+   "id": "S9",
+   "size": "fact",
+   "key": 30,
+   "len": 332,
+   "first": 743,
+   "line": "happened before. After fourteen ninety-two, diseases from Europe reached the Americas, where nobody had immunity. Within about a century, in many places, around nine out of ten people had died.",
+   "note": "after 1492: about 9 in 10 died"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 220,
+   "first": 1075,
+   "line": "Vee gives you a shot that fixes you in an hour. Without the future's medicine, that little cold could have been the end of you.",
+   "note": "Vee's shot fixes you"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 30,
+   "len": 218,
+   "first": 1295,
+   "line": "Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century.",
+   "note": "Earth's spin slowing"
+  },
+  {
+   "id": "S12",
+   "size": "fact",
+   "key": 30,
+   "len": 248,
+   "first": 1513,
+   "line": "After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice.",
+   "note": "17 thousandths of a second"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 30,
+   "len": 175,
+   "first": 1761,
+   "line": "Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say.",
+   "note": "without the earpiece nobody understands"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 30,
+   "len": 328,
+   "first": 1936,
+   "line": "That's real too. English changes all the time. Beowulf was written in English about a thousand years ago, and today almost nobody can read it without lessons. It starts with the word 'Hwaet'.",
+   "note": "Beowulf: HWAET"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 30,
+   "len": 120,
+   "first": 2264,
+   "line": "To the people of the year three thousand, you sound just as strange.",
+   "note": "you sound just as strange"
+  },
+  {
+   "id": "S16",
+   "size": "big word",
+   "key": 30,
+   "len": 70,
+   "first": 2384,
+   "line": "And then, the worst one. Work.",
+   "note": "WORK"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 30,
+   "len": 127,
+   "first": 2454,
+   "line": "Your seven days of credit are almost gone, and the tours are getting old.",
+   "note": "the tours are getting old"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 30,
+   "len": 130,
+   "first": 2581,
+   "line": "You look for a job. Every job you know how to do is done by machines.",
+   "note": "every job done by machines"
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "key": 30,
+   "len": 127,
+   "first": 2711,
+   "line": "That happened to your great-grandparents too. In nineteen hundred, about four",
+   "note": "farm workers 1900 vs 2000"
+  },
+  {
+   "id": "S20",
+   "size": "insert",
+   "key": 30,
+   "len": 275,
+   "first": 2838,
+   "line": "in ten American workers worked on farms. By the year two thousand, it was fewer than two in a hundred. In the year three thousand, your skills are like a horse",
+   "note": "your skills: a horse and cart"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 188,
+   "first": 3113,
+   "line": "and cart. Fun to look at. Useless. And that's when someone else starts paying attention.",
+   "note": "someone starts paying attention"
   }
  ],
  "fx": [],

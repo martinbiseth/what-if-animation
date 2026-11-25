@@ -39,17 +39,172 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "title",
    "set": "city",
-   "note": "stub",
-   "key": 10
+   "note": "HOW YOU GOT HERE",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "clinic 2026",
+   "note": "the clinic pays you $100",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "clinic 2026",
+   "note": "into the pod: just one night",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "clinic 2026",
+   "note": "the pod screen: ERROR",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide timelapse",
+   "set": "clinic",
+   "note": "years counting up to 3000",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "pod",
+   "note": "that sounds crazy",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "set": "schematic",
+   "note": "1967, James Bedford",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "fact",
+   "set": "schematic",
+   "note": "people brought back: 0",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "title",
+   "set": "city",
+   "note": "WHAT IF YOU WOKE UP IN THE YEAR 3000?",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "pod room",
+   "note": "Vee says its name",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "pod room",
+   "note": "the earpiece goes in",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "pod room",
+   "note": "Vee's rules hologram",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "museum",
+   "note": "everyone has a blue light",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "museum",
+   "note": "everyone except you",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "museum",
+   "note": "Vee says nothing",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Back"
+  },
+  {
+   "shot": "S3",
+   "at": "to"
+  },
+  {
+   "shot": "S4",
+   "at": "Something"
+  },
+  {
+   "shot": "S5",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S6",
+   "at": "That"
+  },
+  {
+   "shot": "S7",
+   "at": "In"
+  },
+  {
+   "shot": "S8",
+   "at": "He"
+  },
+  {
+   "shot": "S9",
+   "at": "Except"
+  },
+  {
+   "shot": "S10",
+   "at": "The"
+  },
+  {
+   "shot": "S11",
+   "at": "It"
+  },
+  {
+   "shot": "S12",
+   "at": "and"
+  },
+  {
+   "shot": "S13",
+   "at": "Then"
+  },
+  {
+   "shot": "S14",
+   "at": "Everyone#2"
+  },
+  {
+   "shot": "S15",
+   "at": "Vee"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 0.9
 }

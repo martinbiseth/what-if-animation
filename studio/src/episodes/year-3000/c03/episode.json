@@ -71,17 +71,216 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "big word",
    "set": "city",
-   "note": "stub",
-   "key": 10
+   "note": "DAY 1: you're famous",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "museum steps",
+   "note": "a crowd outside the museum",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "crowd",
+   "note": "the first face: Mo",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "split",
+   "set": "graphic",
+   "note": "Mo 2026 and Mo Seven: same face",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "set": "city deck",
+   "note": "I'm Mo Seven",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the family tree doubling back 32 generations",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "set": "schematic",
+   "note": "4,294,967,296 ancestor spots",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "city deck",
+   "note": "a huge part of this city could be his family",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "wide walk",
+   "set": "city deck",
+   "note": "Mo Seven becomes your guide",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "city deck",
+   "note": "the bus comes when you look at the stop",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "shop",
+   "note": "dinner printed in any shape",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "shop",
+   "note": "the burger that never met a cow",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "museum",
+   "note": "you write your name, kids gasp",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "city deck",
+   "note": "you tie your shoelaces, a crowd films",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "two-shot",
+   "set": "city deck",
+   "note": "loading bars: she bursts into tears",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "museum",
+   "note": "tours: the glass rectangle was for cat videos",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "museum",
+   "note": "credits pour in: rich by day three",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "museum",
+   "note": "you've got this figured out",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "museum",
+   "note": "day four: ACHOO",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "News"
+  },
+  {
+   "shot": "S3",
+   "at": "And"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "I'm"
+  },
+  {
+   "shot": "S6",
+   "at": "That's"
+  },
+  {
+   "shot": "S7",
+   "at": "Go"
+  },
+  {
+   "shot": "S8",
+   "at": "If"
+  },
+  {
+   "shot": "S9",
+   "at": "Mo"
+  },
+  {
+   "shot": "S10",
+   "at": "First"
+  },
+  {
+   "shot": "S11",
+   "at": "Dinner"
+  },
+  {
+   "shot": "S12",
+   "at": "It"
+  },
+  {
+   "shot": "S13",
+   "at": "You"
+  },
+  {
+   "shot": "S14",
+   "at": "You"
+  },
+  {
+   "shot": "S15",
+   "at": "A#2"
+  },
+  {
+   "shot": "S16",
+   "at": "At"
+  },
+  {
+   "shot": "S17",
+   "at": "Every"
+  },
+  {
+   "shot": "S18",
+   "at": "You"
+  },
+  {
+   "shot": "S19",
+   "at": "But"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 0.9
 }

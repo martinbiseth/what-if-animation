@@ -41,8 +41,8 @@ export const headAt = (p: Pose) => ({ x: p.x + (HEAD.x + p.yaw * 10) * p.scale, 
 export const EarLight: React.FC<{ pose: Pose; t: number; o?: number }> = ({ pose, t, o = 1 }) => {
   const h = headAt(pose);
   const side = pose.yaw >= 0 ? -1 : 1;
-  const x = h.x + side * HEAD.r * 0.78 * pose.scale * (1 - 0.25 * Math.abs(pose.yaw));
-  const y = h.y + 14 * pose.scale;
+  const x = h.x + side * HEAD.r * 1.0 * pose.scale * (1 - 0.2 * Math.abs(pose.yaw));
+  const y = h.y + 22 * pose.scale;
   const pulse = 0.75 + 0.25 * Math.sin(t / 6);
   return (
     <g opacity={o}>
@@ -80,7 +80,7 @@ export const Vee: React.FC<{ x: number; y: number; s?: number; t: number; mood?:
       {mood === 'happy' ? (
         <path d={`M ${ex - 22} 4 Q ${ex} -18 ${ex + 22} 4`} stroke={eyeC} strokeWidth={9} fill="none" strokeLinecap="round" />
       ) : mood === 'sad' ? (
-        <path d={`M ${ex - 22} -8 Q ${ex} 10 ${ex + 22} -8`} stroke={eyeC} strokeWidth={9} fill="none" strokeLinecap="round" />
+        <g><ellipse cx={ex} cy={4} rx={18} ry={7} fill={eyeC} /><path d={`M ${ex - 26} -10 L ${ex + 22} -2`} stroke="#14202C" strokeWidth={10} /></g>
       ) : (
         <ellipse cx={ex} cy={-3} rx={mood === 'scan' ? 34 : 18} ry={Math.max(2, 16 * (1 - bl))} fill={eyeC} />
       )}
@@ -95,7 +95,7 @@ export const Vee: React.FC<{ x: number; y: number; s?: number; t: number; mood?:
 export const SleepPod: React.FC<{ x: number; y: number; s?: number; t: number; open?: number; frost?: number; screen?: string; screen2?: string; glow?: number; inside?: React.ReactNode; dark?: boolean }> = ({
   x, y, s = 1, t, open = 0, frost = 0, screen, screen2, glow = 0.6, inside, dark = false,
 }) => {
-  const lift = open * 150;
+  const lift = open * 120;
   const body = dark ? '#5A6470' : '#EEF2F4';
   const shade = dark ? '#3E4650' : '#C8D2DA';
   return (
@@ -106,7 +106,7 @@ export const SleepPod: React.FC<{ x: number; y: number; s?: number; t: number; o
       <rect x={-250} y={-72} width={360} height={14} rx={7} fill="#4AE8FF" opacity={0.4 + 0.3 * Math.sin(t / 9) * glow} />
       <rect x={-300} y={-106} width={600} height={24} rx={12} fill={shade} stroke="#0B0816" strokeWidth={5} />
       {inside}
-      <g transform={`translate(0 ${-lift}) rotate(${-open * 8} -300 -100)`}>
+      {open < 0.95 ? <g transform={`translate(${open * 380} ${-lift}) rotate(${open * 10} 290 -100)`}>
         <path d="M -290 -100 Q -280 -250 0 -260 Q 280 -250 290 -100 Z" fill="#BFEFFF" fillOpacity={0.28 + frost * 0.5} stroke="#0B0816" strokeWidth={7} />
         <path d="M -200 -210 Q -60 -244 90 -236" stroke="#FFFFFF" strokeWidth={12} fill="none" strokeLinecap="round" opacity={0.7} />
         {frost > 0
@@ -114,7 +114,7 @@ export const SleepPod: React.FC<{ x: number; y: number; s?: number; t: number; o
               <circle key={i} cx={-250 + rnd(3, i) * 500} cy={-120 - rnd(5, i) * 120} r={8 + rnd(7, i) * 22} fill="#FFFFFF" opacity={0.35 * frost} />
             ))
           : null}
-      </g>
+      </g> : null}
       <g transform="translate(200 -46)">
         <rect x={-80} y={-34} width={170} height={68} rx={10} fill="#0E1822" stroke="#0B0816" strokeWidth={5} />
         {screen ? (
@@ -152,8 +152,8 @@ export const GlassCase: React.FC<{ x: number; y: number; s?: number; label?: str
     <path d="M -70 -240 L -40 -110" stroke="#FFFFFF" strokeWidth={8} opacity={0.4} strokeLinecap="round" />
     {label ? (
       <g transform="translate(0 -30)">
-        <rect x={-80} y={-16} width={160} height={label2 ? 40 : 28} rx={5} fill="#F2EEE4" stroke="#0B0816" strokeWidth={3} />
-        <text x={0} y={2} textAnchor="middle" fontFamily={FONT.ui} fontSize={13} fill="#1A1A22">{label}</text>
+        <rect x={-88} y={-16} width={176} height={label2 ? 40 : 28} rx={5} fill="#F2EEE4" stroke="#0B0816" strokeWidth={3} />
+        <text x={0} y={2} textAnchor="middle" fontFamily={FONT.ui} fontSize={label.length > 18 ? 9.5 : 13} fill="#1A1A22">{label}</text>
         {label2 ? <text x={0} y={18} textAnchor="middle" fontFamily={FONT.ui} fontSize={10} fill="#5A5A62">{label2}</text> : null}
       </g>
     ) : null}
@@ -555,6 +555,7 @@ export const hud = (keys: [number, string, number][]): React.FC<{ f: number; tot
     keys.forEach((kk, i) => {
       if (f >= kk[0]) k = i;
     });
+    if (f < keys[0][0]) return null;
     const [f0, day, cr] = keys[k];
     const prev = k > 0 ? keys[k - 1][2] : cr;
     const p = clamp((f - f0) / 24);
@@ -596,9 +597,9 @@ export const setShot = (Set: SetFC, cam: [number, number, number], cam1?: [numbe
 };
 
 /** A Vee close-up talking over a soft set. */
-export const veeCU = (o: { Bg: SetFC; mood?: 'open' | 'happy' | 'sad' | 'scan' | 'alarm'; words?: Word[]; talk?: [number, number]; zoom?: [number, number]; look?: number; extra?: (t: number) => React.ReactNode }): React.FC<ShotProps> => {
+export const veeCU = (o: { Bg: SetFC; mood?: 'open' | 'happy' | 'sad' | 'scan' | 'alarm'; words?: Word[]; talk?: [string, string, number?]; zoom?: [number, number]; look?: number; extra?: (t: number) => React.ReactNode }): React.FC<ShotProps> => {
   const Shot: React.FC<ShotProps> = ({ t, len, f }) => {
-    const open = o.words && o.talk ? talkAt(o.words, f, 30, [o.talk]) : 0;
+    const open = o.words && o.talk ? talkAt(o.words, f, 30, [span(o.words, o.talk[0], o.talk[1], o.talk[2] ?? 1)]) : 0;
     const z = kf(t, [[0, o.zoom?.[0] ?? 2.6], [Math.max(1, len), o.zoom?.[1] ?? 2.8]]);
     return (
       <g>

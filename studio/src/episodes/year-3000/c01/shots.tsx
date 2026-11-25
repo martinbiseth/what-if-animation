@@ -70,11 +70,12 @@ export const S5 = bigWord({ kicker: 'YOU HAVE BEEN ASLEEP FOR', word: '974 YEARS
 export const S6: React.FC<ShotProps> = ({ t, len }) => {
   const up = easeOut(clamp(t / 10));
   const laugh = Math.sin(t / 2.5) * 4;
-  const pose = podSit(POD_X - 140, POD_Y - 150 - up * 10 + laugh * 0.5, 1, { tilt: -30 + up * 30 + laugh, yaw: 0.4, armL: { a: 40, b: -60 }, armR: { a: 50, b: -90 } });
+  const pose = podSit(POD_X - 120, POD_Y - 110 - up * 10 + laugh * 0.5, 1, { tilt: -30 + up * 30 + laugh, yaw: 0.4, armL: { a: 40, b: -60 }, armR: { a: 50, b: -90 } });
   return (
-    <g transform={camT(POD_X - 60, 560, kf(t, [[0, 1.6], [len, 1.75]]))}>
+    <g transform={camT(POD_X + 40, 640, kf(t, [[0, 1.5], [len, 1.62]]))}>
       <PodRoom t={t + 40} />
-      <SleepPod x={POD_X} y={POD_Y} t={t} open={1} inside={<Body look={YOU} pose={pose} t={t} faces={[[0, 'happy']]} />} />
+      <SleepPod x={POD_X} y={POD_Y} t={t} open={1} />
+      <Body look={YOU} pose={pose} t={t} faces={[[0, 'happy']]} />
       <Vee x={POD_X + 320} y={460} s={0.7} t={t} mood="happy" look={-0.6} />
       <PopWord t={t} at={6} x={POD_X - 300} y={260} text="HA!" size={90} fill="#FFFFFF" hold={len} />
     </g>
@@ -212,7 +213,7 @@ export const S15: React.FC<ShotProps> = ({ t, len }) => (
       </g>
     </Soft>
     <g transform={camT(960, 540, kf(t, [[0, 1.0], [len, 1.08]]))}>
-      <g transform="translate(960 560) scale(5)">
+      <g transform="translate(960 640) scale(3.8)">
         <GlassCase x={0} y={60} s={1} label="SMARTPHONE · EARLY 21ST C." label2="DO NOT TOUCH">
           <Phone26 x={0} y={-10} s={0.7} rot={-8} />
         </GlassCase>
@@ -285,8 +286,8 @@ export const S19: React.FC<ShotProps> = ({ t, len }) => {
       <Citizen look={F1} pose={standAt(300, 1.1, 1040, { yaw: 0.5, tilt: -12 + sh(2) })} t={t} faces={[[0, 'happy']]} />
       <Citizen look={F2} pose={standAt(1600, 1.05, 1040, { yaw: -0.6, tilt: 10 + sh(3) })} t={t} faces={[[0, 'happy']]} />
       <Body look={YOU} pose={standAt(800, 1.1, 1040, { yaw: 0.4, armR: { a: 80, b: -20 } })} t={t} faces={[[0, 'oops']]} />
-      <PopWord t={t} at={4} x={420} y={300} text="HA HA" size={80} fill="#FFFFFF" hold={len} rot={-8} />
-      <PopWord t={t} at={10} x={1520} y={280} text="HA!" size={90} fill="#FFFFFF" hold={len} rot={8} />
+      <PopWord t={t} at={4} x={330} y={560} text="HA HA" size={80} fill="#FFFFFF" hold={len} rot={-8} />
+      <PopWord t={t} at={10} x={1640} y={560} text="HA!" size={90} fill="#FFFFFF" hold={len} rot={8} />
     </g>
   );
 };

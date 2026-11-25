@@ -58,16 +58,215 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "city",
-   "note": "stub",
-   "key": 10
+   "set": "museum",
+   "note": "the woman in silver walks in",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "low",
+   "set": "museum",
+   "note": "everybody steps aside",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "museum",
+   "note": "I am from the Archive",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "set": "museum",
+   "note": "and you are history",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "museum",
+   "note": "not a friendly smile",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "set": "museum",
+   "note": "your credit runs out tomorrow",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "museum",
+   "note": "to the city you don't exist",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "holo",
+   "note": "no food, no door, no train",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "holo",
+   "note": "the light: name, money, key",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "museum door",
+   "note": "the door opens for her",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "museum door",
+   "note": "the door doesn't see you",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "museum",
+   "note": "Mo Seven: nobody opens doors by hand",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "museum",
+   "note": "we can give you a home",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "glass room",
+   "note": "the glass room",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "glass room",
+   "note": "the sign: living exhibit 2026",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "set": "glass room",
+   "note": "Mo Seven grabs your arm",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "glass room",
+   "note": "helping you is a crime",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "glass room",
+   "note": "Mo Seven is in trouble too",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "glass room",
+   "note": "until tomorrow to decide",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S3",
+   "at": "I"
+  },
+  {
+   "shot": "S4",
+   "at": "And"
+  },
+  {
+   "shot": "S5",
+   "at": "She"
+  },
+  {
+   "shot": "S6",
+   "at": "Your"
+  },
+  {
+   "shot": "S7",
+   "at": "To"
+  },
+  {
+   "shot": "S8",
+   "at": "You#2"
+  },
+  {
+   "shot": "S9",
+   "at": "So"
+  },
+  {
+   "shot": "S10",
+   "at": "To"
+  },
+  {
+   "shot": "S11",
+   "at": "step"
+  },
+  {
+   "shot": "S12",
+   "at": "Mo"
+  },
+  {
+   "shot": "S13",
+   "at": "But"
+  },
+  {
+   "shot": "S14",
+   "at": "She"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "Mo"
+  },
+  {
+   "shot": "S17",
+   "at": "The"
+  },
+  {
+   "shot": "S18",
+   "at": "Now"
+  },
+  {
+   "shot": "S19",
+   "at": "You"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 0.9
 }

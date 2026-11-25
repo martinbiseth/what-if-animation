@@ -7,21 +7,327 @@
   {
    "shot": "S1",
    "a": 0,
+   "b": 60,
+   "t0": 0,
+   "t1": 60,
+   "line": "Day one. You're famous."
+  },
+  {
+   "shot": "S2",
+   "a": 60,
+   "b": 286,
+   "t0": 0,
+   "t1": 226,
+   "line": "News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six."
+  },
+  {
+   "shot": "S3",
+   "a": 286,
+   "b": 346,
+   "t0": 0,
+   "t1": 60,
+   "line": "And the first face in the crowd stops"
+  },
+  {
+   "shot": "S4",
+   "a": 346,
+   "b": 510,
+   "t0": 0,
+   "t1": 164,
+   "line": "your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh."
+  },
+  {
+   "shot": "S5",
+   "a": 510,
+   "b": 693,
+   "t0": 0,
+   "t1": 183,
+   "line": "'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'."
+  },
+  {
+   "shot": "S6",
+   "a": 693,
+   "b": 862,
+   "t0": 0,
+   "t1": 169,
+   "line": "That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations."
+  },
+  {
+   "shot": "S7",
+   "a": 862,
+   "b": 1159,
+   "t0": 0,
+   "t1": 297,
+   "line": "Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other."
+  },
+  {
+   "shot": "S8",
+   "a": 1159,
+   "b": 1164,
+   "t0": 0,
+   "t1": 5,
+   "line": "If"
+  },
+  {
+   "shot": "S9",
+   "a": 1164,
+   "b": 1375,
+   "t0": 0,
+   "t1": 211,
+   "line": "Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off."
+  },
+  {
+   "shot": "S10",
+   "a": 1375,
+   "b": 1503,
+   "t0": 0,
+   "t1": 128,
+   "line": "First he shows you his city. The bus comes when you look at the stop."
+  },
+  {
+   "shot": "S11",
+   "a": 1503,
+   "b": 1654,
+   "t0": 0,
+   "t1": 151,
+   "line": "Dinner gets printed in front of you, in any shape you like. You ask for a burger."
+  },
+  {
+   "shot": "S12",
+   "a": 1654,
+   "b": 1805,
+   "t0": 0,
+   "t1": 151,
+   "line": "It looks like a burger, tastes like a burger, and has never been anywhere near a cow."
+  },
+  {
+   "shot": "S13",
+   "a": 1805,
+   "b": 2014,
+   "t0": 0,
+   "t1": 209,
+   "line": "You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic."
+  },
+  {
+   "shot": "S14",
+   "a": 2014,
+   "b": 2106,
+   "t0": 0,
+   "t1": 92,
+   "line": "You tie your shoelaces. A small crowd films it."
+  },
+  {
+   "shot": "S15",
+   "a": 2106,
+   "b": 2326,
+   "t0": 0,
+   "t1": 220,
+   "line": "A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears."
+  },
+  {
+   "shot": "S16",
+   "a": 2326,
+   "b": 2622,
+   "t0": 0,
+   "t1": 296,
+   "line": "At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not."
+  },
+  {
+   "shot": "S17",
+   "a": 2622,
+   "b": 2647,
+   "t0": 0,
+   "t1": 25,
+   "line": "Every tour pays"
+  },
+  {
+   "shot": "S18",
+   "a": 2647,
+   "b": 2892,
+   "t0": 0,
+   "t1": 245,
+   "line": "you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out."
+  },
+  {
+   "shot": "S19",
+   "a": 2892,
    "b": 2968,
    "t0": 0,
-   "t1": 2968,
-   "line": "Day one. You're famous. News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six. And the first face in the crowd stops your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh. 'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'. That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations. Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other. If Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off. First he shows you his city. The bus comes when you look at the stop. Dinner gets printed in front of you, in any shape you like. You ask for a burger. It looks like a burger, tastes like a burger, and has never been anywhere near a cow. You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic. You tie your shoelaces. A small crowd films it. A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears. At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not. Every tour pays you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out. But on day four, you sneeze."
+   "t1": 76,
+   "line": "But on day four, you sneeze."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 10,
-   "len": 2968,
+   "size": "big word",
+   "key": 30,
+   "len": 60,
    "first": 0,
-   "line": "Day one. You're famous. News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six. And the first face in the crowd stops your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh. 'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'. That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations. Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other. If Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off. First he shows you his city. The bus comes when you look at the stop. Dinner gets printed in front of you, in any shape you like. You ask for a burger. It looks like a burger, tastes like a burger, and has never been anywhere near a cow. You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic. You tie your shoelaces. A small crowd films it. A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears. At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not. Every tour pays you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out. But on day four, you sneeze.",
-   "note": "stub"
+   "line": "Day one. You're famous.",
+   "note": "DAY 1: you're famous"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 30,
+   "len": 226,
+   "first": 60,
+   "line": "News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six.",
+   "note": "a crowd outside the museum"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 30,
+   "len": 60,
+   "first": 286,
+   "line": "And the first face in the crowd stops",
+   "note": "the first face: Mo"
+  },
+  {
+   "id": "S4",
+   "size": "split",
+   "key": 30,
+   "len": 164,
+   "first": 346,
+   "line": "your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh.",
+   "note": "Mo 2026 and Mo Seven: same face"
+  },
+  {
+   "id": "S5",
+   "size": "two-shot",
+   "key": 30,
+   "len": 183,
+   "first": 510,
+   "line": "'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'.",
+   "note": "I'm Mo Seven"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 30,
+   "len": 169,
+   "first": 693,
+   "line": "That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations.",
+   "note": "the family tree doubling back 32 generations"
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "key": 30,
+   "len": 297,
+   "first": 862,
+   "line": "Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other.",
+   "note": "4,294,967,296 ancestor spots"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 30,
+   "len": 5,
+   "first": 1159,
+   "line": "If",
+   "note": "a huge part of this city could be his family"
+  },
+  {
+   "id": "S9",
+   "size": "wide walk",
+   "key": 30,
+   "len": 211,
+   "first": 1164,
+   "line": "Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off.",
+   "note": "Mo Seven becomes your guide"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 128,
+   "first": 1375,
+   "line": "First he shows you his city. The bus comes when you look at the stop.",
+   "note": "the bus comes when you look at the stop"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 151,
+   "first": 1503,
+   "line": "Dinner gets printed in front of you, in any shape you like. You ask for a burger.",
+   "note": "dinner printed in any shape"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 151,
+   "first": 1654,
+   "line": "It looks like a burger, tastes like a burger, and has never been anywhere near a cow.",
+   "note": "the burger that never met a cow"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 209,
+   "first": 1805,
+   "line": "You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic.",
+   "note": "you write your name, kids gasp"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 92,
+   "first": 2014,
+   "line": "You tie your shoelaces. A small crowd films it.",
+   "note": "you tie your shoelaces, a crowd films"
+  },
+  {
+   "id": "S15",
+   "size": "two-shot",
+   "key": 30,
+   "len": 220,
+   "first": 2106,
+   "line": "A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears.",
+   "note": "loading bars: she bursts into tears"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 30,
+   "len": 296,
+   "first": 2326,
+   "line": "At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not.",
+   "note": "tours: the glass rectangle was for cat videos"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 25,
+   "first": 2622,
+   "line": "Every tour pays",
+   "note": "credits pour in: rich by day three"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 245,
+   "first": 2647,
+   "line": "you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out.",
+   "note": "you've got this figured out"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "key": 30,
+   "len": 76,
+   "first": 2892,
+   "line": "But on day four, you sneeze.",
+   "note": "day four: ACHOO"
   }
  ],
  "fx": [],

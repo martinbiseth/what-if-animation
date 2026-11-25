@@ -7,21 +7,259 @@
   {
    "shot": "S1",
    "a": 0,
+   "b": 51,
+   "t0": 0,
+   "t1": 51,
+   "line": "Here's how it happened."
+  },
+  {
+   "shot": "S2",
+   "a": 51,
+   "b": 153,
+   "t0": 0,
+   "t1": 102,
+   "line": "Back in twenty twenty-six, a clinic paid you one hundred dollars"
+  },
+  {
+   "shot": "S3",
+   "a": 153,
+   "b": 256,
+   "t0": 0,
+   "t1": 103,
+   "line": "to test a new sleep pod. 'Just one night', they said."
+  },
+  {
+   "shot": "S4",
+   "a": 256,
+   "b": 298,
+   "t0": 0,
+   "t1": 42,
+   "line": "Something went wrong."
+  },
+  {
+   "shot": "S5",
+   "a": 298,
+   "b": 404,
+   "t0": 0,
+   "t1": 106,
+   "line": "Nobody came to wake you up. For almost a thousand years."
+  },
+  {
+   "shot": "S6",
+   "a": 404,
+   "b": 488,
+   "t0": 0,
+   "t1": 84,
+   "line": "That sounds crazy, but people really try this."
+  },
+  {
+   "shot": "S7",
+   "a": 488,
+   "b": 632,
+   "t0": 0,
+   "t1": 144,
+   "line": "In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after"
+  },
+  {
+   "shot": "S8",
+   "a": 632,
+   "b": 813,
+   "t0": 0,
+   "t1": 181,
+   "line": "he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back."
+  },
+  {
+   "shot": "S9",
+   "a": 813,
+   "b": 878,
+   "t0": 0,
+   "t1": 65,
+   "line": "Except you. What if you woke up in"
+  },
+  {
+   "shot": "S10",
+   "a": 878,
+   "b": 976,
+   "t0": 0,
+   "t1": 98,
+   "line": "the year three thousand? The robot's name is Vee."
+  },
+  {
+   "shot": "S11",
+   "a": 976,
+   "b": 1127,
+   "t0": 0,
+   "t1": 151,
+   "line": "It works for the city museum. It gives you a tiny earpiece so you can understand people,"
+  },
+  {
+   "shot": "S12",
+   "a": 1127,
+   "b": 1335,
+   "t0": 0,
+   "t1": 208,
+   "line": "and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'."
+  },
+  {
+   "shot": "S13",
+   "a": 1335,
+   "b": 1476,
+   "t0": 0,
+   "t1": 141,
+   "line": "Then you notice something. Everyone here has a tiny blue light behind their ear."
+  },
+  {
+   "shot": "S14",
+   "a": 1476,
+   "b": 1516,
+   "t0": 0,
+   "t1": 40,
+   "line": "Everyone except you."
+  },
+  {
+   "shot": "S15",
+   "a": 1516,
    "b": 1608,
    "t0": 0,
-   "t1": 1608,
-   "line": "Here's how it happened. Back in twenty twenty-six, a clinic paid you one hundred dollars to test a new sleep pod. 'Just one night', they said. Something went wrong. Nobody came to wake you up. For almost a thousand years. That sounds crazy, but people really try this. In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back. Except you. What if you woke up in the year three thousand? The robot's name is Vee. It works for the city museum. It gives you a tiny earpiece so you can understand people, and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'. Then you notice something. Everyone here has a tiny blue light behind their ear. Everyone except you. Vee sees you looking, and says nothing."
+   "t1": 92,
+   "line": "Vee sees you looking, and says nothing."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 10,
-   "len": 1608,
+   "size": "title",
+   "key": 30,
+   "len": 51,
    "first": 0,
-   "line": "Here's how it happened. Back in twenty twenty-six, a clinic paid you one hundred dollars to test a new sleep pod. 'Just one night', they said. Something went wrong. Nobody came to wake you up. For almost a thousand years. That sounds crazy, but people really try this. In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back. Except you. What if you woke up in the year three thousand? The robot's name is Vee. It works for the city museum. It gives you a tiny earpiece so you can understand people, and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'. Then you notice something. Everyone here has a tiny blue light behind their ear. Everyone except you. Vee sees you looking, and says nothing.",
-   "note": "stub"
+   "line": "Here's how it happened.",
+   "note": "HOW YOU GOT HERE"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 102,
+   "first": 51,
+   "line": "Back in twenty twenty-six, a clinic paid you one hundred dollars",
+   "note": "the clinic pays you $100"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 103,
+   "first": 153,
+   "line": "to test a new sleep pod. 'Just one night', they said.",
+   "note": "into the pod: just one night"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 42,
+   "first": 256,
+   "line": "Something went wrong.",
+   "note": "the pod screen: ERROR"
+  },
+  {
+   "id": "S5",
+   "size": "wide timelapse",
+   "key": 30,
+   "len": 106,
+   "first": 298,
+   "line": "Nobody came to wake you up. For almost a thousand years.",
+   "note": "years counting up to 3000"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 30,
+   "len": 84,
+   "first": 404,
+   "line": "That sounds crazy, but people really try this.",
+   "note": "that sounds crazy"
+  },
+  {
+   "id": "S7",
+   "size": "fact",
+   "key": 30,
+   "len": 144,
+   "first": 488,
+   "line": "In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after",
+   "note": "1967, James Bedford"
+  },
+  {
+   "id": "S8",
+   "size": "fact",
+   "key": 30,
+   "len": 181,
+   "first": 632,
+   "line": "he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back.",
+   "note": "people brought back: 0"
+  },
+  {
+   "id": "S9",
+   "size": "title",
+   "key": 30,
+   "len": 65,
+   "first": 813,
+   "line": "Except you. What if you woke up in",
+   "note": "WHAT IF YOU WOKE UP IN THE YEAR 3000?"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 30,
+   "len": 98,
+   "first": 878,
+   "line": "the year three thousand? The robot's name is Vee.",
+   "note": "Vee says its name"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 151,
+   "first": 976,
+   "line": "It works for the city museum. It gives you a tiny earpiece so you can understand people,",
+   "note": "the earpiece goes in"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 30,
+   "len": 208,
+   "first": 1127,
+   "line": "and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'.",
+   "note": "Vee's rules hologram"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 30,
+   "len": 141,
+   "first": 1335,
+   "line": "Then you notice something. Everyone here has a tiny blue light behind their ear.",
+   "note": "everyone has a blue light"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 30,
+   "len": 40,
+   "first": 1476,
+   "line": "Everyone except you.",
+   "note": "everyone except you"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 30,
+   "len": 92,
+   "first": 1516,
+   "line": "Vee sees you looking, and says nothing.",
+   "note": "Vee says nothing"
   }
  ],
  "fx": [],
