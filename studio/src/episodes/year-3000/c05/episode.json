@@ -53,5 +53,21 @@
    "text": "You have until tomorrow to decide."
   }
  ],
- "science": []
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "city",
+   "note": "stub",
+   "key": 10
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "fx": []
 }

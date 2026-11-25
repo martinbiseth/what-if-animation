@@ -1,0 +1,29 @@
+{
+ "slug": "year-3000/c06",
+ "title": " ",
+ "fps": 30,
+ "total": 2317,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 2317,
+   "t0": 0,
+   "t1": 2317,
+   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case. At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door. Inside, on a screen, is a name you know. Your little sister. There's a message. It was recorded in twenty seventy-one. She's an old woman now, with the same laugh. 'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'. Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'. She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'. Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore. In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever. Mo Seven is standing by the exit. No light. No money. No promises. Vee floats beside you. 'I am not allowed to help you leave', it says. Then, very quietly, the exit door slides open. You look at the glass room. You look at Mo Seven. And you walk out the door. Behind you, the woman whispers two words into her sleeve. 'Find them'."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 2317,
+   "first": 0,
+   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case. At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door. Inside, on a screen, is a name you know. Your little sister. There's a message. It was recorded in twenty seventy-one. She's an old woman now, with the same laugh. 'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'. Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'. She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'. Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore. In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever. Mo Seven is standing by the exit. No light. No money. No promises. Vee floats beside you. 'I am not allowed to help you leave', it says. Then, very quietly, the exit door slides open. You look at the glass room. You look at Mo Seven. And you walk out the door. Behind you, the woman whispers two words into her sleeve. 'Find them'.",
+   "note": "stub"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

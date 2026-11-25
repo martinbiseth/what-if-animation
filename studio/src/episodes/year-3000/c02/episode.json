@@ -35,5 +35,21 @@
    "working": "Bedford, a psychology professor, was frozen on 12 January 1967 and is kept at the Alcor Life Extension Foundation. No technology exists to revive a cryopreserved human.",
    "source": "Alcor Life Extension Foundation, 'Dr. James Bedford' (alcor.org); Shoffstall, 'Freeze, wait, reanimate', Health Matrix 26 (2016)"
   }
- ]
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "city",
+   "note": "stub",
+   "key": 10
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "fx": []
 }

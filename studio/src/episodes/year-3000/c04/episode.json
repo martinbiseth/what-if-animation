@@ -26,11 +26,11 @@
   },
   {
    "beat": "p6",
-   "text": "Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say."
+   "text": "Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century. After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice."
   },
   {
    "beat": "p7",
-   "text": "Some things barely change. Earth's spin is slowing down, so the day gets about two thousandths of a second longer every century. After nine hundred and seventy-four years, your day is longer by about seventeen thousandths of a second. That's the one change you will never notice."
+   "text": "Then comes the next problem. Talking. Without your earpiece, nobody understands a word you say."
   },
   {
    "beat": "p8",
@@ -83,5 +83,21 @@
    "working": "USDA figures: 41 percent of the workforce in 1900, 1.9 percent in 2000.",
    "source": "Dimitri, Effland & Conklin, 'The 20th Century Transformation of U.S. Agriculture and Farm Policy', USDA ERS EIB-3 (2005)"
   }
- ]
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "city",
+   "note": "stub",
+   "key": 10
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "fx": []
 }

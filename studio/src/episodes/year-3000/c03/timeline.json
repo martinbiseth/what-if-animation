@@ -1,0 +1,29 @@
+{
+ "slug": "year-3000/c03",
+ "title": " ",
+ "fps": 30,
+ "total": 2968,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 2968,
+   "t0": 0,
+   "t1": 2968,
+   "line": "Day one. You're famous. News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six. And the first face in the crowd stops your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh. 'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'. That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations. Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other. If Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off. First he shows you his city. The bus comes when you look at the stop. Dinner gets printed in front of you, in any shape you like. You ask for a burger. It looks like a burger, tastes like a burger, and has never been anywhere near a cow. You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic. You tie your shoelaces. A small crowd films it. A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears. At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not. Every tour pays you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out. But on day four, you sneeze."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 2968,
+   "first": 0,
+   "line": "Day one. You're famous. News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six. And the first face in the crowd stops your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh. 'I'm Mo Seven', he says. 'Your Mo was my great, great, great... a lot of greats... grandfather'. That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations. Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other. If Mo had kids, a huge part of this city could be his family. Mo Seven becomes your guide. And you start showing off. First he shows you his city. The bus comes when you look at the stop. Dinner gets printed in front of you, in any shape you like. You ask for a burger. It looks like a burger, tastes like a burger, and has never been anywhere near a cow. You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic. You tie your shoelaces. A small crowd films it. A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears. At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not. Every tour pays you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city. You think you've got this figured out. But on day four, you sneeze.",
+   "note": "stub"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

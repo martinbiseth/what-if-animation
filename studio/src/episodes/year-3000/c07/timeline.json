@@ -1,0 +1,29 @@
+{
+ "slug": "year-3000/c07",
+ "title": " ",
+ "fps": 30,
+ "total": 1680,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 1680,
+   "t0": 0,
+   "t1": 1680,
+   "line": "It takes you all day to reach the old city. Broken towers, green with plants, quiet as a library. The dot leads you to a metal door. On it, scratched by hand, is your family name. Inside, it's cold. There's a sleep pod. Exactly like yours. And it's switched on. The screen says: 'Asleep since twenty twenty-six. Wake date: today'. Mo Seven wipes the frost off the glass. And the face inside... is yours. Mo Seven's hand is shaking. There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'. So who woke up in the museum? Is any of this real? The science is. Germs change faster than your body can learn them. A thousand years makes English almost unreadable. And thirty-two generations make nearly everyone family. The sources are in the description. What would you do first in the year three thousand? Tell me in the comments, and subscribe so you don't miss part two."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 1680,
+   "first": 0,
+   "line": "It takes you all day to reach the old city. Broken towers, green with plants, quiet as a library. The dot leads you to a metal door. On it, scratched by hand, is your family name. Inside, it's cold. There's a sleep pod. Exactly like yours. And it's switched on. The screen says: 'Asleep since twenty twenty-six. Wake date: today'. Mo Seven wipes the frost off the glass. And the face inside... is yours. Mo Seven's hand is shaking. There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'. So who woke up in the museum? Is any of this real? The science is. Germs change faster than your body can learn them. A thousand years makes English almost unreadable. And thirty-two generations make nearly everyone family. The sources are in the description. What would you do first in the year three thousand? Tell me in the comments, and subscribe so you don't miss part two.",
+   "note": "stub"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

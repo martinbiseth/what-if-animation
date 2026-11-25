@@ -10,4 +10,6 @@ import { gravityChapters } from './gravity';
 
 import { gta24HoursChapters } from './gta-24-hours';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters, ...gta24HoursChapters];
+import { year3000Chapters } from './year-3000';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters, ...gta24HoursChapters, ...year3000Chapters];

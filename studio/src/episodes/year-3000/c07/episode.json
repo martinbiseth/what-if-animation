@@ -45,5 +45,21 @@
    "text": "What would you do first in the year three thousand? Tell me in the comments, and subscribe so you don't miss part two."
   }
  ],
- "science": []
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "city",
+   "note": "stub",
+   "key": 10
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "fx": []
 }

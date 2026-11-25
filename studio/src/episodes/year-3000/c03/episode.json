@@ -67,5 +67,21 @@
    "working": "974 / 30 years per generation = 32.5. 2^32 = 4,294,967,296 ancestor slots, while the world population around the year 1000 was roughly 250-300 million, so the same people fill many slots (pedigree collapse). Modelling puts the common ancestor of everyone alive only a few thousand years back.",
    "source": "Rohde, Olson & Chang, 'Modelling the recent common ancestry of all living humans', Nature 431 (2004); Our World in Data, world population over the long run"
   }
- ]
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "city",
+   "note": "stub",
+   "key": 10
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "fx": []
 }

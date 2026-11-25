@@ -14,11 +14,11 @@
   },
   {
    "beat": "p3",
-   "text": "You ask the robot for a glass of water. It hands you a little clear cube. You bite it. It's water."
+   "text": "The sky is full of things that fly without wings. The towers are taller than the clouds. And there are no cars. Not one."
   },
   {
    "beat": "p4",
-   "text": "The sky is full of things that fly without wings. The towers are taller than the clouds. And there are no cars. Not one."
+   "text": "You ask the robot for a glass of water. It hands you a little clear cube. You bite it. It's water."
   },
   {
    "beat": "p5",
@@ -41,5 +41,253 @@
  "pace": {
   "min_cuts": 18,
   "max_hold": 5
- }
+ },
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "set": "pod room",
+   "note": "your eyes open",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "pov",
+   "set": "pod room",
+   "note": "everything is white, focus comes in",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "pov",
+   "set": "pod room",
+   "note": "Vee floats over your face",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "pod room",
+   "note": "Vee: good morning",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "big word",
+   "set": "pod room",
+   "note": "974 YEARS",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "pod room",
+   "note": "you sit up and laugh",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "over the shoulder",
+   "set": "pod room",
+   "note": "you look out the window",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "wide pan",
+   "set": "city",
+   "note": "the sky full of things that fly without wings",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "tilt up",
+   "set": "city",
+   "note": "towers taller than the clouds",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "city deck",
+   "note": "no cars, not one",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "pod room",
+   "note": "Vee hands you a clear cube",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "pod room",
+   "note": "you bite it: it's water",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "set": "pod room",
+   "note": "you pat your pockets",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "museum",
+   "note": "the phone in a glass case across the room",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "museum",
+   "note": "the label: do not touch",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "city deck",
+   "note": "you ask a kid where you are",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "city deck",
+   "note": "the kid stares: WOOF?",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "shop",
+   "note": "you hold out your wallet",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "shop",
+   "note": "the whole shop laughs",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "big word",
+   "set": "city",
+   "note": "YEAR 3000",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "city deck",
+   "note": "everything you know is from 2026",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "wide pullback",
+   "set": "city deck",
+   "note": "how long would you last?",
+   "key": 30
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Everything"
+  },
+  {
+   "shot": "S3",
+   "at": "A"
+  },
+  {
+   "shot": "S4",
+   "at": "Good"
+  },
+  {
+   "shot": "S5",
+   "at": "nine"
+  },
+  {
+   "shot": "S6",
+   "at": "You"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "The"
+  },
+  {
+   "shot": "S9",
+   "at": "towers"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "You"
+  },
+  {
+   "shot": "S12",
+   "at": "bite"
+  },
+  {
+   "shot": "S13",
+   "at": "reach"
+  },
+  {
+   "shot": "S14",
+   "at": "in#2"
+  },
+  {
+   "shot": "S15",
+   "at": "with"
+  },
+  {
+   "shot": "S16",
+   "at": "ask"
+  },
+  {
+   "shot": "S17",
+   "at": "He"
+  },
+  {
+   "shot": "S18",
+   "at": "pull"
+  },
+  {
+   "shot": "S19",
+   "at": "The"
+  },
+  {
+   "shot": "S20",
+   "at": "This"
+  },
+  {
+   "shot": "S21",
+   "at": "everything"
+  },
+  {
+   "shot": "S22",
+   "at": "So"
+  }
+ ],
+ "fx": [],
+ "tail": 0.9
 }

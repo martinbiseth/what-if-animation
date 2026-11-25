@@ -1,0 +1,29 @@
+{
+ "slug": "year-3000/c05",
+ "title": " ",
+ "fps": 30,
+ "total": 2169,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 2169,
+   "t0": 0,
+   "t1": 2169,
+   "line": "Day six. A woman in a silver suit walks into the museum. Everybody steps aside for her. 'I am from the Archive', she says. 'We keep the history of the human race. And you are history'. She smiles. It is not a friendly smile. 'Your credit runs out tomorrow. You have no light. To the city, you do not exist. You cannot buy food, open a door, or ride a train'. So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one. To prove it, she walks you to a door. It slides open for her. You step up. Nothing. The door doesn't even see you. Mo Seven says nobody here has opened a door by hand in two hundred years. 'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She shows you the room. It is beautiful. It's also made of glass. And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'. Mo Seven grabs your arm. 'If you go in there, they will never let you out'. The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'. Now it's not just you who's in trouble. You have until tomorrow to decide."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 2169,
+   "first": 0,
+   "line": "Day six. A woman in a silver suit walks into the museum. Everybody steps aside for her. 'I am from the Archive', she says. 'We keep the history of the human race. And you are history'. She smiles. It is not a friendly smile. 'Your credit runs out tomorrow. You have no light. To the city, you do not exist. You cannot buy food, open a door, or ride a train'. So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one. To prove it, she walks you to a door. It slides open for her. You step up. Nothing. The door doesn't even see you. Mo Seven says nobody here has opened a door by hand in two hundred years. 'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She shows you the room. It is beautiful. It's also made of glass. And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'. Mo Seven grabs your arm. 'If you go in there, they will never let you out'. The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'. Now it's not just you who's in trouble. You have until tomorrow to decide.",
+   "note": "stub"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

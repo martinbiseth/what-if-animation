@@ -1,0 +1,29 @@
+{
+ "slug": "year-3000/c02",
+ "title": " ",
+ "fps": 30,
+ "total": 1608,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 1608,
+   "t0": 0,
+   "t1": 1608,
+   "line": "Here's how it happened. Back in twenty twenty-six, a clinic paid you one hundred dollars to test a new sleep pod. 'Just one night', they said. Something went wrong. Nobody came to wake you up. For almost a thousand years. That sounds crazy, but people really try this. In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back. Except you. What if you woke up in the year three thousand? The robot's name is Vee. It works for the city museum. It gives you a tiny earpiece so you can understand people, and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'. Then you notice something. Everyone here has a tiny blue light behind their ear. Everyone except you. Vee sees you looking, and says nothing."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 1608,
+   "first": 0,
+   "line": "Here's how it happened. Back in twenty twenty-six, a clinic paid you one hundred dollars to test a new sleep pod. 'Just one night', they said. Something went wrong. Nobody came to wake you up. For almost a thousand years. That sounds crazy, but people really try this. In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back. Except you. What if you woke up in the year three thousand? The robot's name is Vee. It works for the city museum. It gives you a tiny earpiece so you can understand people, and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else'. Then you notice something. Everyone here has a tiny blue light behind their ear. Everyone except you. Vee sees you looking, and says nothing.",
+   "note": "stub"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}

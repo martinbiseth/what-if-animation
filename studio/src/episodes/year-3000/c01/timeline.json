@@ -1,0 +1,386 @@
+{
+ "slug": "year-3000/c01",
+ "title": " ",
+ "fps": 30,
+ "total": 1571,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 47,
+   "t0": 0,
+   "t1": 47,
+   "line": "You open your eyes."
+  },
+  {
+   "shot": "S2",
+   "a": 47,
+   "b": 87,
+   "t0": 0,
+   "t1": 40,
+   "line": "Everything is white."
+  },
+  {
+   "shot": "S3",
+   "a": 87,
+   "b": 173,
+   "t0": 0,
+   "t1": 86,
+   "line": "A little round robot floats over your face and says,"
+  },
+  {
+   "shot": "S4",
+   "a": 173,
+   "b": 242,
+   "t0": 0,
+   "t1": 69,
+   "line": "'Good morning. You have been asleep for"
+  },
+  {
+   "shot": "S5",
+   "a": 242,
+   "b": 304,
+   "t0": 0,
+   "t1": 62,
+   "line": "nine hundred and seventy-four years'."
+  },
+  {
+   "shot": "S6",
+   "a": 304,
+   "b": 330,
+   "t0": 0,
+   "t1": 26,
+   "line": "You laugh."
+  },
+  {
+   "shot": "S7",
+   "a": 330,
+   "b": 359,
+   "t0": 0,
+   "t1": 29,
+   "line": "Then you look out"
+  },
+  {
+   "shot": "S8",
+   "a": 359,
+   "b": 479,
+   "t0": 0,
+   "t1": 120,
+   "line": "the window. The sky is full of things that fly without wings. The"
+  },
+  {
+   "shot": "S9",
+   "a": 479,
+   "b": 542,
+   "t0": 0,
+   "t1": 63,
+   "line": "towers are taller than the clouds."
+  },
+  {
+   "shot": "S10",
+   "a": 542,
+   "b": 610,
+   "t0": 0,
+   "t1": 68,
+   "line": "And there are no cars. Not one."
+  },
+  {
+   "shot": "S11",
+   "a": 610,
+   "b": 752,
+   "t0": 0,
+   "t1": 142,
+   "line": "You ask the robot for a glass of water. It hands you a little clear cube. You"
+  },
+  {
+   "shot": "S12",
+   "a": 752,
+   "b": 807,
+   "t0": 0,
+   "t1": 55,
+   "line": "bite it. It's water. You"
+  },
+  {
+   "shot": "S13",
+   "a": 807,
+   "b": 903,
+   "t0": 0,
+   "t1": 96,
+   "line": "reach for your phone. It's not in your pocket. It's"
+  },
+  {
+   "shot": "S14",
+   "a": 903,
+   "b": 959,
+   "t0": 0,
+   "t1": 56,
+   "line": "in a glass case across the room,"
+  },
+  {
+   "shot": "S15",
+   "a": 959,
+   "b": 1105,
+   "t0": 0,
+   "t1": 146,
+   "line": "with a little sign: 'Smartphone. Early twenty-first century. Do not touch'. You"
+  },
+  {
+   "shot": "S16",
+   "a": 1105,
+   "b": 1154,
+   "t0": 0,
+   "t1": 49,
+   "line": "ask a kid where you are."
+  },
+  {
+   "shot": "S17",
+   "a": 1154,
+   "b": 1231,
+   "t0": 0,
+   "t1": 77,
+   "line": "He stares at you like you just barked. You"
+  },
+  {
+   "shot": "S18",
+   "a": 1231,
+   "b": 1299,
+   "t0": 0,
+   "t1": 68,
+   "line": "pull out your wallet to buy a drink."
+  },
+  {
+   "shot": "S19",
+   "a": 1299,
+   "b": 1343,
+   "t0": 0,
+   "t1": 44,
+   "line": "The whole shop laughs."
+  },
+  {
+   "shot": "S20",
+   "a": 1343,
+   "b": 1409,
+   "t0": 0,
+   "t1": 66,
+   "line": "This is the year three thousand. And"
+  },
+  {
+   "shot": "S21",
+   "a": 1409,
+   "b": 1487,
+   "t0": 0,
+   "t1": 78,
+   "line": "everything you know is from twenty twenty-six."
+  },
+  {
+   "shot": "S22",
+   "a": 1487,
+   "b": 1571,
+   "t0": 0,
+   "t1": 84,
+   "line": "So how long would you actually last?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "close-up",
+   "key": 30,
+   "len": 47,
+   "first": 0,
+   "line": "You open your eyes.",
+   "note": "your eyes open"
+  },
+  {
+   "id": "S2",
+   "size": "pov",
+   "key": 30,
+   "len": 40,
+   "first": 47,
+   "line": "Everything is white.",
+   "note": "everything is white, focus comes in"
+  },
+  {
+   "id": "S3",
+   "size": "pov",
+   "key": 30,
+   "len": 86,
+   "first": 87,
+   "line": "A little round robot floats over your face and says,",
+   "note": "Vee floats over your face"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 69,
+   "first": 173,
+   "line": "'Good morning. You have been asleep for",
+   "note": "Vee: good morning"
+  },
+  {
+   "id": "S5",
+   "size": "big word",
+   "key": 30,
+   "len": 62,
+   "first": 242,
+   "line": "nine hundred and seventy-four years'.",
+   "note": "974 YEARS"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 26,
+   "first": 304,
+   "line": "You laugh.",
+   "note": "you sit up and laugh"
+  },
+  {
+   "id": "S7",
+   "size": "over the shoulder",
+   "key": 30,
+   "len": 29,
+   "first": 330,
+   "line": "Then you look out",
+   "note": "you look out the window"
+  },
+  {
+   "id": "S8",
+   "size": "wide pan",
+   "key": 30,
+   "len": 120,
+   "first": 359,
+   "line": "the window. The sky is full of things that fly without wings. The",
+   "note": "the sky full of things that fly without wings"
+  },
+  {
+   "id": "S9",
+   "size": "tilt up",
+   "key": 30,
+   "len": 63,
+   "first": 479,
+   "line": "towers are taller than the clouds.",
+   "note": "towers taller than the clouds"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 68,
+   "first": 542,
+   "line": "And there are no cars. Not one.",
+   "note": "no cars, not one"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 142,
+   "first": 610,
+   "line": "You ask the robot for a glass of water. It hands you a little clear cube. You",
+   "note": "Vee hands you a clear cube"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 55,
+   "first": 752,
+   "line": "bite it. It's water. You",
+   "note": "you bite it: it's water"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 96,
+   "first": 807,
+   "line": "reach for your phone. It's not in your pocket. It's",
+   "note": "you pat your pockets"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 30,
+   "len": 56,
+   "first": 903,
+   "line": "in a glass case across the room,",
+   "note": "the phone in a glass case across the room"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 30,
+   "len": 146,
+   "first": 959,
+   "line": "with a little sign: 'Smartphone. Early twenty-first century. Do not touch'. You",
+   "note": "the label: do not touch"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 49,
+   "first": 1105,
+   "line": "ask a kid where you are.",
+   "note": "you ask a kid where you are"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 77,
+   "first": 1154,
+   "line": "He stares at you like you just barked. You",
+   "note": "the kid stares: WOOF?"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 68,
+   "first": 1231,
+   "line": "pull out your wallet to buy a drink.",
+   "note": "you hold out your wallet"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 30,
+   "len": 44,
+   "first": 1299,
+   "line": "The whole shop laughs.",
+   "note": "the whole shop laughs"
+  },
+  {
+   "id": "S20",
+   "size": "big word",
+   "key": 30,
+   "len": 66,
+   "first": 1343,
+   "line": "This is the year three thousand. And",
+   "note": "YEAR 3000"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 78,
+   "first": 1409,
+   "line": "everything you know is from twenty twenty-six.",
+   "note": "everything you know is from 2026"
+  },
+  {
+   "id": "S22",
+   "size": "wide pullback",
+   "key": 30,
+   "len": 84,
+   "first": 1487,
+   "line": "So how long would you actually last?",
+   "note": "how long would you last?"
+  }
+ ],
+ "fx": [],
+ "audio": {}
+}
