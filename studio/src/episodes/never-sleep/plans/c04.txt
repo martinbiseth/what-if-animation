@@ -1,0 +1,20 @@
+S1 | f:0 | big word | street blur | HOUR 19
+S2 | You're | medium | street | which house is yours? ? ? ?
+S3 | That | graphic | schematic | 0.05% after 17-19 h awake
+S3B | In | graphic | schematic | over the driving limit: keys crossed
+S4 | Hour | big word | classroom blur | HOUR 24
+S5 | Point | graphic | schematic | 0.10%
+S6 | Like | medium | classroom | sober, dizzy, holding a sandwich in maths
+S7 | And | close-up | classroom | microsleep: picture goes black
+S8 | Microsleeps#2 | graphic | schematic | a car drifts out of its lane
+S9 | You | wide | classroom | blink: page 12 -> 47 -> lesson over
+S10 | Here's | graphic | schematic | the brain wash
+S11 | In | graphic | schematic | cells open +60% in sleeping mice
+S12 | You're | graphic | schematic | beta-amyloid +5%
+S13 | And | graphic | schematic | memory -40%
+S14 | You | close-up | classroom | the book's pages go blank
+S15 | Hour | big word | street blur | HOUR 48
+S16 | Losing | graphic | schematic | hunger up, fullness down
+S17 | You've | medium | street | lunch #4, Mo hides his crisps
+S18 | And | wide | kitchen | day 3: you walk in
+S19 | and | close-up | kitchen | the fridge: GOOD MORNING!

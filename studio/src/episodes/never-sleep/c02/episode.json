@@ -43,19 +43,150 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
+   "size": "graphic",
+   "set": "schematic",
    "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "note": "the SLEEP NOW signal is gone"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "street",
+   "key": 30,
+   "note": "not tired, eyes fine, no yawn"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "FEELING TIRED ≠ NEEDING SLEEP"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "the alarm clock icon rings"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "adenosine piles up in the brain"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "hourglass fills with every hour"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "sleep flips the hourglass"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "caffeine blocks the alarm"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "alarm broken, clock still ticking"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "you and Mo: RULE: TELL MO"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "bedroom mirror",
+   "key": 30,
+   "note": "sticky note TELL MO!"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "street",
+   "key": 30,
+   "note": "Mo: Deal... the fridge... calling your mum"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "push in on the fridge, it opens two eyes"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "But"
+  },
+  {
+   "shot": "S4",
+   "at": "Feeling"
+  },
+  {
+   "shot": "S5",
+   "at": "It"
+  },
+  {
+   "shot": "S6",
+   "at": "Every"
+  },
+  {
+   "shot": "S7",
+   "at": "Sleep"
+  },
+  {
+   "shot": "S8",
+   "at": "Coffee"
+  },
+  {
+   "shot": "S9",
+   "at": "Your"
+  },
+  {
+   "shot": "S10",
+   "at": "So"
+  },
+  {
+   "shot": "S11",
+   "at": "You#3"
+  },
+  {
+   "shot": "S12",
+   "at": "Mo#2"
+  },
+  {
+   "shot": "S13",
+   "at": "Remember"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

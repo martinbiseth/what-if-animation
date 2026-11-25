@@ -1,27 +1,231 @@
 {
  "slug": "never-sleep/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1546,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 151,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 151,
+   "line": "Here's the deal. Your brain has stopped sending the signal that says, sleep now."
+  },
+  {
+   "shot": "S2",
+   "a": 151,
+   "b": 266,
+   "t0": 0,
+   "t1": 115,
+   "line": "You don't feel tired. Your eyes don't burn. You don't yawn."
+  },
+  {
+   "shot": "S3",
+   "a": 266,
+   "b": 332,
+   "t0": 0,
+   "t1": 66,
+   "line": "But here's the catch nobody told you."
+  },
+  {
+   "shot": "S4",
+   "a": 332,
+   "b": 489,
+   "t0": 0,
+   "t1": 157,
+   "line": "Feeling tired and needing sleep are two different things. Feeling sleepy is just the alarm."
+  },
+  {
+   "shot": "S5",
+   "a": 489,
+   "b": 563,
+   "t0": 0,
+   "t1": 74,
+   "line": "It comes from a chemical called adenosine."
+  },
+  {
+   "shot": "S6",
+   "a": 563,
+   "b": 714,
+   "t0": 0,
+   "t1": 151,
+   "line": "Every hour you're awake, more of it piles up in your brain, like sand in an hourglass."
+  },
+  {
+   "shot": "S7",
+   "a": 714,
+   "b": 791,
+   "t0": 0,
+   "t1": 77,
+   "line": "Sleep is what tips the hourglass back over."
+  },
+  {
+   "shot": "S8",
+   "a": 791,
+   "b": 844,
+   "t0": 0,
+   "t1": 53,
+   "line": "Coffee works by blocking it."
+  },
+  {
+   "shot": "S9",
+   "a": 844,
+   "b": 945,
+   "t0": 0,
+   "t1": 101,
+   "line": "Your alarm is broken. But the clock is still ticking."
+  },
+  {
+   "shot": "S10",
+   "a": 945,
+   "b": 1176,
+   "t0": 0,
+   "t1": 231,
+   "line": "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person"
+  },
+  {
+   "shot": "S11",
+   "a": 1176,
+   "b": 1314,
+   "t0": 0,
+   "t1": 138,
+   "line": "you know. You even write it on a sticky note on your mirror. Tell Mo."
+  },
+  {
+   "shot": "S12",
+   "a": 1314,
+   "b": 1487,
+   "t0": 0,
+   "t1": 173,
+   "line": "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum'."
+  },
+  {
+   "shot": "S13",
+   "a": 1487,
+   "b": 1546,
+   "t0": 0,
+   "t1": 59,
+   "line": "Remember the fridge."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "graphic",
+   "key": 30,
+   "len": 151,
+   "first": 0,
+   "line": "Here's the deal. Your brain has stopped sending the signal that says, sleep now.",
+   "note": "the SLEEP NOW signal is gone"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 30,
+   "len": 115,
+   "first": 151,
+   "line": "You don't feel tired. Your eyes don't burn. You don't yawn.",
+   "note": "not tired, eyes fine, no yawn"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 30,
+   "len": 66,
+   "first": 266,
+   "line": "But here's the catch nobody told you.",
+   "note": "FEELING TIRED ≠ NEEDING SLEEP"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 30,
+   "len": 157,
+   "first": 332,
+   "line": "Feeling tired and needing sleep are two different things. Feeling sleepy is just the alarm.",
+   "note": "the alarm clock icon rings"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 74,
+   "first": 489,
+   "line": "It comes from a chemical called adenosine.",
+   "note": "adenosine piles up in the brain"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 30,
+   "len": 151,
+   "first": 563,
+   "line": "Every hour you're awake, more of it piles up in your brain, like sand in an hourglass.",
+   "note": "hourglass fills with every hour"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 30,
+   "len": 77,
+   "first": 714,
+   "line": "Sleep is what tips the hourglass back over.",
+   "note": "sleep flips the hourglass"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 30,
+   "len": 53,
+   "first": 791,
+   "line": "Coffee works by blocking it.",
+   "note": "caffeine blocks the alarm"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 30,
+   "len": 101,
+   "first": 844,
+   "line": "Your alarm is broken. But the clock is still ticking.",
+   "note": "alarm broken, clock still ticking"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 231,
+   "first": 945,
+   "line": "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person",
+   "note": "you and Mo: RULE: TELL MO"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 30,
+   "len": 138,
+   "first": 1176,
+   "line": "you know. You even write it on a sticky note on your mirror. Tell Mo.",
+   "note": "sticky note TELL MO!"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 173,
+   "first": 1314,
+   "line": "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum'.",
+   "note": "Mo: Deal... the fridge... calling your mum"
+  },
+  {
+   "id": "S13",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "len": 59,
+   "first": 1487,
+   "line": "Remember the fridge.",
+   "note": "push in on the fridge, it opens two eyes"
   }
  ],
  "fx": [],

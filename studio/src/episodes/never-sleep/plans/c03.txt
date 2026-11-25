@@ -1,0 +1,16 @@
+S1 | f:0 | big word | bedroom blur | NIGHT 1
+S2 | You | medium | bedroom | homework flying done, + NEXT WEEK'S
+S3 | Then | wide | bedroom | the room by colour
+S4 | Two | medium | bedroom | juggling at 2, a ball drops
+S5 | Three | medium | bedroom | guitar, volume all the way down
+S6 | Four#2 | medium | bedroom | reading on the beanbag, books piling
+S7 | Then | wide | rooftop dawn | the sunrise from the roof
+S8 | Do | graphic | schematic | a third of a lifetime: 25+ YEARS back
+S9 | Six | wide | kitchen | mum walks in on breakfast
+S10 | She#2 | close-up | kitchen | mum: What did you break?
+S11 | At#4 | medium | classroom | first there, hand already up
+S12 | Your#2 | medium | street | Mo yawning, you on apple #3
+S13 | Night | wide pan | street night | the dog walking business, Pickle pulls
+S14 | Ellie | medium | bedroom | Ellie catches you: so cool
+S15 | And | close-up | rooftop | for a day and a half, it is
+S16 | Because | graphic | schematic | the brain at night: ?

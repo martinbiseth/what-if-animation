@@ -63,18 +63,182 @@
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "set": "bedroom blur",
+   "key": 30,
+   "note": "NIGHT 1"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "homework flying done, + NEXT WEEK'S"
+  },
+  {
+   "id": "S3",
    "size": "wide",
+   "set": "bedroom",
+   "key": 30,
+   "note": "the room by colour"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "juggling at 2, a ball drops"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "guitar, volume all the way down"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "reading on the beanbag, books piling"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "rooftop dawn",
+   "key": 30,
+   "note": "the sunrise from the roof"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "a third of a lifetime: 25+ YEARS back"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "mum walks in on breakfast"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "mum: What did you break?"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "set": "classroom",
+   "key": 30,
+   "note": "first there, hand already up"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "Mo yawning, you on apple #3"
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "set": "street night",
+   "key": 30,
+   "note": "the dog walking business, Pickle pulls"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 30,
+   "note": "Ellie catches you: so cool"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
    "set": "rooftop",
    "key": 30,
-   "note": "placeholder card: The fun part"
+   "note": "for a day and a half, it is"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "the brain at night: ?"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You"
+  },
+  {
+   "shot": "S3",
+   "at": "Then"
+  },
+  {
+   "shot": "S4",
+   "at": "Two"
+  },
+  {
+   "shot": "S5",
+   "at": "Three"
+  },
+  {
+   "shot": "S6",
+   "at": "Four#2"
+  },
+  {
+   "shot": "S7",
+   "at": "Then"
+  },
+  {
+   "shot": "S8",
+   "at": "Do"
+  },
+  {
+   "shot": "S9",
+   "at": "Six"
+  },
+  {
+   "shot": "S10",
+   "at": "She#2"
+  },
+  {
+   "shot": "S11",
+   "at": "At#4"
+  },
+  {
+   "shot": "S12",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S13",
+   "at": "Night"
+  },
+  {
+   "shot": "S14",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "Because"
   }
  ],
- "end": "f:90",
  "fx": []
 }

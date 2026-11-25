@@ -1,0 +1,13 @@
+S1 | f:0 | graphic | schematic | the SLEEP NOW signal is gone
+S2 | You | close-up | street | not tired, eyes fine, no yawn
+S3 | But | graphic | schematic | FEELING TIRED ≠ NEEDING SLEEP
+S4 | Feeling | graphic | schematic | the alarm clock icon rings
+S5 | It | graphic | schematic | adenosine piles up in the brain
+S6 | Every | graphic | schematic | hourglass fills with every hour
+S7 | Sleep | graphic | schematic | sleep flips the hourglass
+S8 | Coffee | graphic | schematic | caffeine blocks the alarm
+S9 | Your | graphic | schematic | alarm broken, clock still ticking
+S10 | So | medium | street | you and Mo: RULE: TELL MO
+S11 | You#3 | insert | bedroom mirror | sticky note TELL MO!
+S12 | Mo#2 | close-up | street | Mo: Deal... the fridge... calling your mum
+S13 | Remember | wide | kitchen | push in on the fridge, it opens two eyes

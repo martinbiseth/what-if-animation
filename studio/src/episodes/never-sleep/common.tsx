@@ -469,3 +469,16 @@ export const bedPose = (u = 0.22, extra: Partial<Pose> = {}): Pose => {
   const s = BEDROOM.s(0.25) / BEDROOM.s(0.05) * 0.62;
   return { ...basePose, x: p.x, y: p.y - 30 * s, scale: s, yaw: 0.2, legL: { a: 85, b: 0 }, legR: { a: 82, b: 0 }, armL: { a: 20, b: -20 }, armR: { a: 20, b: -20 }, ...extra };
 };
+
+/** The time span of a phrase (a run of consecutive words, punctuation ignored), [start, end] in seconds. */
+export const phrase = (words: Word[], text: string, nth = 1): [number, number] => {
+  const n = (w: string) => w.toLowerCase().replace(/’/g, "'").replace(/[^\w']/g, '').replace(/^'+|'+$/g, '');
+  const want = text.split(/\s+/).map(n);
+  let seen = 0;
+  for (let i = 0; i + want.length <= words.length; i++) {
+    if (want.every((w, k) => n(words[i + k].w) === w) && ++seen === nth) return [words[i].s, words[i + want.length - 1].e + 0.05];
+  }
+  return [0, 0];
+};
+/** The frame a phrase starts at. */
+export const phraseF = (words: Word[], text: string, nth = 1) => Math.round(phrase(words, text, nth)[0] * 30);

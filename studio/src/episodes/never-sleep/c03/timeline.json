@@ -1,27 +1,282 @@
 {
  "slug": "never-sleep/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3016,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 136,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 136,
+   "line": "Night one. Eight hours of silence. You've never had this much time."
+  },
+  {
+   "shot": "S2",
+   "a": 136,
+   "b": 209,
+   "t0": 0,
+   "t1": 73,
+   "line": "You finish all your homework by midnight."
+  },
+  {
+   "shot": "S3",
+   "a": 209,
+   "b": 337,
+   "t0": 0,
+   "t1": 128,
+   "line": "Then next week's homework. Then you reorganise your whole room by colour."
+  },
+  {
+   "shot": "S4",
+   "a": 337,
+   "b": 468,
+   "t0": 0,
+   "t1": 131,
+   "line": "Two a.m. You learn to juggle. Badly. Then a little less badly."
+  },
+  {
+   "shot": "S5",
+   "a": 468,
+   "b": 639,
+   "t0": 0,
+   "t1": 171,
+   "line": "Three a.m. You teach yourself four songs on the guitar, with the volume turned all the way down."
+  },
+  {
+   "shot": "S6",
+   "a": 639,
+   "b": 758,
+   "t0": 0,
+   "t1": 119,
+   "line": "Four a.m. You finish a three-hundred-page book and start another one."
+  },
+  {
+   "shot": "S7",
+   "a": 758,
+   "b": 935,
+   "t0": 0,
+   "t1": 177,
+   "line": "Then the sun comes up, and you watch the whole sunrise from the roof, like a movie made just for you."
+  },
+  {
+   "shot": "S8",
+   "a": 935,
+   "b": 1242,
+   "t0": 0,
+   "t1": 307,
+   "line": "Do the maths. Most people sleep about a third of their life away. For most people, that's twenty-five years or more with their eyes closed. Twenty-five years you just got back."
+  },
+  {
+   "shot": "S9",
+   "a": 1242,
+   "b": 1491,
+   "t0": 0,
+   "t1": 249,
+   "line": "Six a.m. Your mum walks into the kitchen and finds breakfast already made. Pancakes. Fresh juice. Her coffee, just how she likes it."
+  },
+  {
+   "shot": "S10",
+   "a": 1491,
+   "b": 1653,
+   "t0": 0,
+   "t1": 162,
+   "line": "She looks at you. Then at the pancakes. Then back at you. 'What did you break'?"
+  },
+  {
+   "shot": "S11",
+   "a": 1653,
+   "b": 1918,
+   "t0": 0,
+   "t1": 265,
+   "line": "At school, you're the first one there. You've read the whole chapter, and the next three. When the teacher asks a question, your hand is already up."
+  },
+  {
+   "shot": "S12",
+   "a": 1918,
+   "b": 2125,
+   "t0": 0,
+   "t1": 207,
+   "line": "Your friends are yawning into their lunch. You're on your third apple, explaining photosynthesis to anyone who will listen."
+  },
+  {
+   "shot": "S13",
+   "a": 2125,
+   "b": 2503,
+   "t0": 0,
+   "t1": 378,
+   "line": "Night two, you start a business. You walk dogs at midnight for people who work night shifts. Five dogs, five leashes, one very long walk. One of them is a Great Dane called Pickle. Mostly, Pickle walks you."
+  },
+  {
+   "shot": "S14",
+   "a": 2503,
+   "b": 2747,
+   "t0": 0,
+   "t1": 244,
+   "line": "Ellie catches you sneaking home at four a.m. with five leashes around your wrist. 'You don't sleep anymore', she whispers. 'That's so cool'."
+  },
+  {
+   "shot": "S15",
+   "a": 2747,
+   "b": 2824,
+   "t0": 0,
+   "t1": 77,
+   "line": "And for about a day and a half, it is."
+  },
+  {
+   "shot": "S16",
+   "a": 2824,
+   "b": 3016,
+   "t0": 0,
+   "t1": 192,
+   "line": "Because there's something your brain does every night while you sleep. Something you just stopped doing."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 30,
+   "len": 136,
+   "first": 0,
+   "line": "Night one. Eight hours of silence. You've never had this much time.",
+   "note": "NIGHT 1"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 73,
+   "first": 136,
+   "line": "You finish all your homework by midnight.",
+   "note": "homework flying done, + NEXT WEEK'S"
+  },
+  {
+   "id": "S3",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "len": 128,
+   "first": 209,
+   "line": "Then next week's homework. Then you reorganise your whole room by colour.",
+   "note": "the room by colour"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 131,
+   "first": 337,
+   "line": "Two a.m. You learn to juggle. Badly. Then a little less badly.",
+   "note": "juggling at 2, a ball drops"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 171,
+   "first": 468,
+   "line": "Three a.m. You teach yourself four songs on the guitar, with the volume turned all the way down.",
+   "note": "guitar, volume all the way down"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 119,
+   "first": 639,
+   "line": "Four a.m. You finish a three-hundred-page book and start another one.",
+   "note": "reading on the beanbag, books piling"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 177,
+   "first": 758,
+   "line": "Then the sun comes up, and you watch the whole sunrise from the roof, like a movie made just for you.",
+   "note": "the sunrise from the roof"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 30,
+   "len": 307,
+   "first": 935,
+   "line": "Do the maths. Most people sleep about a third of their life away. For most people, that's twenty-five years or more with their eyes closed. Twenty-five years you just got back.",
+   "note": "a third of a lifetime: 25+ YEARS back"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 30,
+   "len": 249,
+   "first": 1242,
+   "line": "Six a.m. Your mum walks into the kitchen and finds breakfast already made. Pancakes. Fresh juice. Her coffee, just how she likes it.",
+   "note": "mum walks in on breakfast"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 30,
+   "len": 162,
+   "first": 1491,
+   "line": "She looks at you. Then at the pancakes. Then back at you. 'What did you break'?",
+   "note": "mum: What did you break?"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 265,
+   "first": 1653,
+   "line": "At school, you're the first one there. You've read the whole chapter, and the next three. When the teacher asks a question, your hand is already up.",
+   "note": "first there, hand already up"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 207,
+   "first": 1918,
+   "line": "Your friends are yawning into their lunch. You're on your third apple, explaining photosynthesis to anyone who will listen.",
+   "note": "Mo yawning, you on apple #3"
+  },
+  {
+   "id": "S13",
+   "size": "wide pan",
+   "key": 30,
+   "len": 378,
+   "first": 2125,
+   "line": "Night two, you start a business. You walk dogs at midnight for people who work night shifts. Five dogs, five leashes, one very long walk. One of them is a Great Dane called Pickle. Mostly, Pickle walks you.",
+   "note": "the dog walking business, Pickle pulls"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 244,
+   "first": 2503,
+   "line": "Ellie catches you sneaking home at four a.m. with five leashes around your wrist. 'You don't sleep anymore', she whispers. 'That's so cool'.",
+   "note": "Ellie catches you: so cool"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 30,
+   "len": 77,
+   "first": 2747,
+   "line": "And for about a day and a half, it is.",
+   "note": "for a day and a half, it is"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 30,
+   "len": 192,
+   "first": 2824,
+   "line": "Because there's something your brain does every night while you sleep. Something you just stopped doing.",
+   "note": "the brain at night: ?"
   }
  ],
  "fx": [],

@@ -1,27 +1,350 @@
 {
  "slug": "never-sleep/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3096,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 38,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 38,
+   "line": "Hour nineteen."
+  },
+  {
+   "shot": "S2",
+   "a": 38,
+   "b": 217,
+   "t0": 0,
+   "t1": 179,
+   "line": "You're walking to school, and you can't remember if you locked the front door. Or which house is yours."
+  },
+  {
+   "shot": "S3",
+   "a": 217,
+   "b": 487,
+   "t0": 0,
+   "t1": 270,
+   "line": "That part is real. After about seventeen to nineteen hours awake, people do as badly on reaction tests as someone with a blood alcohol level of point zero five."
+  },
+  {
+   "shot": "S3B",
+   "a": 487,
+   "b": 592,
+   "t0": 0,
+   "t1": 105,
+   "line": "In many countries, that's already over the limit for driving."
+  },
+  {
+   "shot": "S4",
+   "a": 592,
+   "b": 651,
+   "t0": 0,
+   "t1": 59,
+   "line": "Hour twenty-four. It's worse."
+  },
+  {
+   "shot": "S5",
+   "a": 651,
+   "b": 677,
+   "t0": 0,
+   "t1": 26,
+   "line": "Point one."
+  },
+  {
+   "shot": "S6",
+   "a": 677,
+   "b": 833,
+   "t0": 0,
+   "t1": 156,
+   "line": "Like being properly drunk, except you're completely sober, holding a sandwich in maths class."
+  },
+  {
+   "shot": "S7",
+   "a": 833,
+   "b": 1097,
+   "t0": 0,
+   "t1": 264,
+   "line": "And then it starts. Microsleeps. Your brain switches off for a second or two, without asking you. Your eyes stay open. You just aren't there."
+  },
+  {
+   "shot": "S8",
+   "a": 1097,
+   "b": 1310,
+   "t0": 0,
+   "t1": 213,
+   "line": "Microsleeps are why tired drivers drift out of their lane. Their eyes are open, and for a few seconds, nobody is driving."
+  },
+  {
+   "shot": "S9",
+   "a": 1310,
+   "b": 1479,
+   "t0": 0,
+   "t1": 169,
+   "line": "You blink, and the teacher is on a different page. You blink again, and the lesson is over."
+  },
+  {
+   "shot": "S10",
+   "a": 1479,
+   "b": 1718,
+   "t0": 0,
+   "t1": 239,
+   "line": "Here's why. While you sleep, your brain cleans itself. Fluid washes through it and carries away the waste that builds up during the day."
+  },
+  {
+   "shot": "S11",
+   "a": 1718,
+   "b": 1940,
+   "t0": 0,
+   "t1": 222,
+   "line": "In sleeping mice, scientists found that the spaces between brain cells open up by about sixty percent, so the fluid can flush through."
+  },
+  {
+   "shot": "S12",
+   "a": 1940,
+   "b": 2225,
+   "t0": 0,
+   "t1": 285,
+   "line": "You're not getting that wash. In one study, a single night without sleep raised a waste protein called beta-amyloid, the one linked to Alzheimer's, by about five percent."
+  },
+  {
+   "shot": "S13",
+   "a": 2225,
+   "b": 2423,
+   "t0": 0,
+   "t1": 198,
+   "line": "And your memory? After one sleepless night, people's ability to store new memories dropped by about forty percent."
+  },
+  {
+   "shot": "S14",
+   "a": 2423,
+   "b": 2558,
+   "t0": 0,
+   "t1": 135,
+   "line": "You read three chapters last night. Today, you can't remember any of them."
+  },
+  {
+   "shot": "S15",
+   "a": 2558,
+   "b": 2638,
+   "t0": 0,
+   "t1": 80,
+   "line": "Hour forty-eight. Your stomach is roaring."
+  },
+  {
+   "shot": "S16",
+   "a": 2638,
+   "b": 2814,
+   "t0": 0,
+   "t1": 176,
+   "line": "Losing sleep pushes up the hormone that makes you hungry and pushes down the one that tells you you're full."
+  },
+  {
+   "shot": "S17",
+   "a": 2814,
+   "b": 2915,
+   "t0": 0,
+   "t1": 101,
+   "line": "You've eaten four lunches. Mo stops sharing his crisps."
+  },
+  {
+   "shot": "S18",
+   "a": 2915,
+   "b": 3017,
+   "t0": 0,
+   "t1": 102,
+   "line": "And on the morning of day three, you walk into the kitchen,"
+  },
+  {
+   "shot": "S19",
+   "a": 3017,
+   "b": 3096,
+   "t0": 0,
+   "t1": 79,
+   "line": "and the fridge says good morning."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 30,
+   "len": 38,
+   "first": 0,
+   "line": "Hour nineteen.",
+   "note": "HOUR 19"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 179,
+   "first": 38,
+   "line": "You're walking to school, and you can't remember if you locked the front door. Or which house is yours.",
+   "note": "which house is yours? ? ? ?"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 30,
+   "len": 270,
+   "first": 217,
+   "line": "That part is real. After about seventeen to nineteen hours awake, people do as badly on reaction tests as someone with a blood alcohol level of point zero five.",
+   "note": "0.05% after 17-19 h awake"
+  },
+  {
+   "id": "S3B",
+   "size": "graphic",
+   "key": 30,
+   "len": 105,
+   "first": 487,
+   "line": "In many countries, that's already over the limit for driving.",
+   "note": "over the driving limit: keys crossed"
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "key": 30,
+   "len": 59,
+   "first": 592,
+   "line": "Hour twenty-four. It's worse.",
+   "note": "HOUR 24"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 26,
+   "first": 651,
+   "line": "Point one.",
+   "note": "0.10%"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 156,
+   "first": 677,
+   "line": "Like being properly drunk, except you're completely sober, holding a sandwich in maths class.",
+   "note": "sober, dizzy, holding a sandwich in maths"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 30,
+   "len": 264,
+   "first": 833,
+   "line": "And then it starts. Microsleeps. Your brain switches off for a second or two, without asking you. Your eyes stay open. You just aren't there.",
+   "note": "microsleep: picture goes black"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 30,
+   "len": 213,
+   "first": 1097,
+   "line": "Microsleeps are why tired drivers drift out of their lane. Their eyes are open, and for a few seconds, nobody is driving.",
+   "note": "a car drifts out of its lane"
+  },
+  {
+   "id": "S9",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The catch"
+   "len": 169,
+   "first": 1310,
+   "line": "You blink, and the teacher is on a different page. You blink again, and the lesson is over.",
+   "note": "blink: page 12 -> 47 -> lesson over"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "key": 30,
+   "len": 239,
+   "first": 1479,
+   "line": "Here's why. While you sleep, your brain cleans itself. Fluid washes through it and carries away the waste that builds up during the day.",
+   "note": "the brain wash"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 30,
+   "len": 222,
+   "first": 1718,
+   "line": "In sleeping mice, scientists found that the spaces between brain cells open up by about sixty percent, so the fluid can flush through.",
+   "note": "cells open +60% in sleeping mice"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 30,
+   "len": 285,
+   "first": 1940,
+   "line": "You're not getting that wash. In one study, a single night without sleep raised a waste protein called beta-amyloid, the one linked to Alzheimer's, by about five percent.",
+   "note": "beta-amyloid +5%"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 30,
+   "len": 198,
+   "first": 2225,
+   "line": "And your memory? After one sleepless night, people's ability to store new memories dropped by about forty percent.",
+   "note": "memory -40%"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "key": 30,
+   "len": 135,
+   "first": 2423,
+   "line": "You read three chapters last night. Today, you can't remember any of them.",
+   "note": "the book's pages go blank"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "key": 30,
+   "len": 80,
+   "first": 2558,
+   "line": "Hour forty-eight. Your stomach is roaring.",
+   "note": "HOUR 48"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 30,
+   "len": 176,
+   "first": 2638,
+   "line": "Losing sleep pushes up the hormone that makes you hungry and pushes down the one that tells you you're full.",
+   "note": "hunger up, fullness down"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 101,
+   "first": 2814,
+   "line": "You've eaten four lunches. Mo stops sharing his crisps.",
+   "note": "lunch #4, Mo hides his crisps"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 30,
+   "len": 102,
+   "first": 2915,
+   "line": "And on the morning of day three, you walk into the kitchen,",
+   "note": "day 3: you walk in"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "key": 30,
+   "len": 79,
+   "first": 3017,
+   "line": "and the fridge says good morning.",
+   "note": "the fridge: GOOD MORNING!"
   }
  ],
  "fx": [],

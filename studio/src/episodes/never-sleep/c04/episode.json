@@ -80,18 +80,226 @@
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "set": "rooftop",
+   "size": "big word",
+   "set": "street blur",
    "key": 30,
-   "note": "placeholder card: The catch"
+   "note": "HOUR 19"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "which house is yours? ? ? ?"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "0.05% after 17-19 h awake"
+  },
+  {
+   "id": "S3B",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "over the driving limit: keys crossed"
+  },
+  {
+   "id": "S4",
+   "size": "big word",
+   "set": "classroom blur",
+   "key": 30,
+   "note": "HOUR 24"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "0.10%"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "classroom",
+   "key": 30,
+   "note": "sober, dizzy, holding a sandwich in maths"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "classroom",
+   "key": 30,
+   "note": "microsleep: picture goes black"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "a car drifts out of its lane"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "classroom",
+   "key": 30,
+   "note": "blink: page 12 -> 47 -> lesson over"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "the brain wash"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "cells open +60% in sleeping mice"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "beta-amyloid +5%"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "memory -40%"
+  },
+  {
+   "id": "S14",
+   "size": "close-up",
+   "set": "classroom",
+   "key": 30,
+   "note": "the book's pages go blank"
+  },
+  {
+   "id": "S15",
+   "size": "big word",
+   "set": "street blur",
+   "key": 30,
+   "note": "HOUR 48"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "key": 30,
+   "note": "hunger up, fullness down"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "street",
+   "key": 30,
+   "note": "lunch #4, Mo hides his crisps"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "kitchen",
+   "key": 30,
+   "note": "day 3: you walk in"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "kitchen",
+   "key": 30,
+   "note": "the fridge: GOOD MORNING!"
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "That"
+  },
+  {
+   "shot": "S3B",
+   "at": "In"
+  },
+  {
+   "shot": "S4",
+   "at": "Hour"
+  },
+  {
+   "shot": "S5",
+   "at": "Point"
+  },
+  {
+   "shot": "S6",
+   "at": "Like"
+  },
+  {
+   "shot": "S7",
+   "at": "And"
+  },
+  {
+   "shot": "S8",
+   "at": "Microsleeps#2"
+  },
+  {
+   "shot": "S9",
+   "at": "You"
+  },
+  {
+   "shot": "S10",
+   "at": "Here's"
+  },
+  {
+   "shot": "S11",
+   "at": "In"
+  },
+  {
+   "shot": "S12",
+   "at": "You're"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "You"
+  },
+  {
+   "shot": "S15",
+   "at": "Hour"
+  },
+  {
+   "shot": "S16",
+   "at": "Losing"
+  },
+  {
+   "shot": "S17",
+   "at": "You've"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "and"
   }
  ],
- "end": "f:90",
  "fx": []
 }
