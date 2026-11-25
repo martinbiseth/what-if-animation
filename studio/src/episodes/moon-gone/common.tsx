@@ -211,7 +211,19 @@ export const Beach: React.FC<{ t: number; id?: string; lights?: number; sweep?: 
       )}
       {/* the sea, right of the shore line */}
       <path d={`M ${shoreX - SW} ${B.horizon} L 2400 ${B.horizon} L 2400 1500 L ${shoreX} 1500 Q ${shoreX - SW * 0.47} 900 ${shoreX - SW} ${B.horizon} Z`} fill={dusk ? '#3A5A8A' : '#0C1426'} />
-      {seaGlow > 0 ? <rect x={shoreX - SW} y={B.horizon - 120} width={3400} height={160} fill="url(#kitShaft)" opacity={seaGlow * 0.5} /> : null}
+      {seaGlow > 0 ? (
+        <g opacity={seaGlow}>
+          <defs>
+            <linearGradient id={`${id}sg`} x1="0" y1={B.horizon - 260} x2="0" y2={B.horizon + 200} gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stopColor="#6A86C8" stopOpacity={0} />
+              <stop offset="60%" stopColor="#8AA4E0" stopOpacity={0.35} />
+              <stop offset="100%" stopColor="#8AA4E0" stopOpacity={0} />
+            </linearGradient>
+          </defs>
+          <rect x={shoreX - SW} y={B.horizon - 260} width={3400} height={460} fill={`url(#${id}sg)`} />
+          {Array.from({ length: 12 }).map((_, i) => <rect key={i} x={shoreX - SW + 200 + rnd(63, i) * 1400} y={B.horizon + 20 + i * 36} width={40 + rnd(64, i) * 60} height={4} fill="#B8C8F0" opacity={0.25 + 0.25 * Math.sin(t / 6 + i)} />)}
+        </g>
+      ) : null}
       {moon > 0 ? Array.from({ length: 14 }).map((_, i) => <rect key={i} x={1640 + rnd(61, i) * 180 + Math.sin(t / 8 + i) * 10} y={B.horizon + 20 + i * 40} width={60 + rnd(62, i) * 80} height={6} fill="#DDE6FF" opacity={moon * (0.4 + 0.4 * Math.sin(t / 5 + i))} />) : null}
       {Array.from({ length: 6 }).map((_, i) => {
         const k = ((t / 60 + i / 6) % 1);
