@@ -446,3 +446,11 @@ export const cueIn = (words: Word[], tl: { shots: { id: string; first: number }[
 };
 /** A character's speaking span on the chapter clock, as [from, to] seconds (for talkShot/people talk). */
 export const lineSpan = span;
+
+/** An empty, dashed cloud: the silent head. */
+export const Silent: React.FC<{ x: number; y: number; s?: number; t: number }> = ({ x, y, s = 1, t }) => (
+  <g transform={`translate(${x} ${y}) scale(${s})`} opacity={0.8}>
+    <ellipse cx={0} cy={-150} rx={130} ry={70} fill="#0B0816" opacity={0.5} stroke={THINK.glow} strokeWidth={5} strokeDasharray="14 12" strokeDashoffset={t} />
+    <text y={-136} textAnchor="middle" fontFamily={FONT.hand} fontWeight={700} fontSize={44} fill={THINK.glow}>. . .</text>
+  </g>
+);

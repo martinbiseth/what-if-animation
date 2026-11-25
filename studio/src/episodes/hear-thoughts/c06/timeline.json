@@ -1,29 +1,507 @@
 {
  "slug": "hear-thoughts/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2482,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 58,
+   "t0": 0,
+   "t1": 58,
+   "line": "After school, she's waiting at the gate."
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 121,
+   "t0": 0,
+   "t1": 63,
+   "line": "'It's loud, isn't it? ' she says."
+  },
+  {
+   "shot": "S3",
+   "a": 121,
+   "b": 202,
+   "t0": 0,
+   "t1": 81,
+   "line": "'All the time. I know. I had it for six years."
+  },
+  {
+   "shot": "S4",
+   "a": 202,
+   "b": 223,
+   "t0": 0,
+   "t1": 21,
+   "line": "' 'Had? '"
+  },
+  {
+   "shot": "S5",
+   "a": 223,
+   "b": 301,
+   "t0": 0,
+   "t1": 78,
+   "line": "'I gave it away. And I can make yours stop."
+  },
+  {
+   "shot": "S6",
+   "a": 301,
+   "b": 406,
+   "t0": 0,
+   "t1": 105,
+   "line": "Tonight. Silence. Forever. ' Silence."
+  },
+  {
+   "shot": "S7",
+   "a": 406,
+   "b": 466,
+   "t0": 0,
+   "t1": 60,
+   "line": "You think about sleeping a whole night."
+  },
+  {
+   "shot": "S8",
+   "a": 466,
+   "b": 538,
+   "t0": 0,
+   "t1": 72,
+   "line": "About Mo, and what he thought in the dark."
+  },
+  {
+   "shot": "S9",
+   "a": 538,
+   "b": 598,
+   "t0": 0,
+   "t1": 60,
+   "line": "About never hearing another lie."
+  },
+  {
+   "shot": "S10",
+   "a": 598,
+   "b": 643,
+   "t0": 0,
+   "t1": 45,
+   "line": "It's the only thing you want."
+  },
+  {
+   "shot": "S11",
+   "a": 643,
+   "b": 763,
+   "t0": 0,
+   "t1": 120,
+   "line": "'What's the catch? ' you ask. 'No catch, ' Nora says."
+  },
+  {
+   "shot": "S12",
+   "a": 763,
+   "b": 820,
+   "t0": 0,
+   "t1": 57,
+   "line": "And you can't tell if she's lying."
+  },
+  {
+   "shot": "S13",
+   "a": 820,
+   "b": 997,
+   "t0": 0,
+   "t1": 177,
+   "line": "For the first time in weeks, you have no idea what someone is thinking. It feels strange. It feels almost nice."
+  },
+  {
+   "shot": "S14",
+   "a": 997,
+   "b": 1111,
+   "t0": 0,
+   "t1": 114,
+   "line": "Then you go home, and Ellie is at the kitchen table, drawing."
+  },
+  {
+   "shot": "S15",
+   "a": 1111,
+   "b": 1201,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "'School was great, ' she says, and smiles."
+  },
+  {
+   "shot": "S16",
+   "a": 1201,
+   "b": 1345,
+   "t0": 0,
+   "t1": 144,
+   "line": "But her head says something else. 'Don't tell. If you tell, they'll do it more."
+  },
+  {
+   "shot": "S17",
+   "a": 1345,
+   "b": 1396,
+   "t0": 0,
+   "t1": 51,
+   "line": "Don't tell. Don't tell. '"
+  },
+  {
+   "shot": "S18",
+   "a": 1396,
+   "b": 1483,
+   "t0": 0,
+   "t1": 87,
+   "line": "Your little sister has been scared every day for a month."
+  },
+  {
+   "shot": "S19",
+   "a": 1483,
+   "b": 1549,
+   "t0": 0,
+   "t1": 66,
+   "line": "And nobody knew. Except you."
+  },
+  {
+   "shot": "S20",
+   "a": 1549,
+   "b": 1633,
+   "t0": 0,
+   "t1": 84,
+   "line": "The next morning, Nora is at the gate. 'Well?"
+  },
+  {
+   "shot": "S21",
+   "a": 1633,
+   "b": 1666,
+   "t0": 0,
+   "t1": 33,
+   "line": "' You think of Ellie."
+  },
+  {
+   "shot": "S22",
+   "a": 1666,
+   "b": 1717,
+   "t0": 0,
+   "t1": 51,
+   "line": "'No. I'm keeping it. '"
+  },
+  {
+   "shot": "S23",
+   "a": 1717,
+   "b": 1840,
+   "t0": 0,
+   "t1": 123,
+   "line": "Nora stops smiling. 'Okay, ' she says. 'Your choice. '"
+  },
+  {
+   "shot": "S24",
+   "a": 1840,
+   "b": 1885,
+   "t0": 0,
+   "t1": 45,
+   "line": "And she walks away."
+  },
+  {
+   "shot": "S25",
+   "a": 1885,
+   "b": 2065,
+   "t0": 0,
+   "t1": 180,
+   "line": "That afternoon, you go with Ellie to her teacher. You know exactly what to say, and exactly who to name."
+  },
+  {
+   "shot": "S26",
+   "a": 2065,
+   "b": 2197,
+   "t0": 0,
+   "t1": 132,
+   "line": "Mo comes too. He doesn't ask how you knew. He just stands next to you."
+  },
+  {
+   "shot": "S27",
+   "a": 2197,
+   "b": 2335,
+   "t0": 0,
+   "t1": 138,
+   "line": "And for once, his head says exactly what his mouth does: 'I've got you. '"
+  },
+  {
+   "shot": "S28",
+   "a": 2335,
+   "b": 2389,
+   "t0": 0,
+   "t1": 54,
+   "line": "By Friday, it's over."
+  },
+  {
+   "shot": "S29",
+   "a": 2389,
+   "b": 2482,
+   "t0": 0,
+   "t1": 93,
+   "line": "Ellie hugs you so hard your ribs hurt."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 0,
+   "line": "After school, she's waiting at the gate.",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 58,
+   "line": "'It's loud, isn't it? ' she says.",
+   "note": "gate: it's loud"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 121,
+   "line": "'All the time. I know. I had it for six years.",
+   "note": "Nora: six years"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 21,
+   "first": 202,
+   "line": "' 'Had? '",
+   "note": "you: had?"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 78,
+   "first": 223,
+   "line": "'I gave it away. And I can make yours stop.",
+   "note": "Nora: gave it away"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 105,
+   "first": 301,
+   "line": "Tonight. Silence. Forever. ' Silence.",
+   "note": "tonight silence forever"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 60,
+   "first": 406,
+   "line": "You think about sleeping a whole night.",
+   "note": "sleep a whole night"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 466,
+   "line": "About Mo, and what he thought in the dark.",
+   "note": "Mo in the dark"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 60,
+   "first": 538,
+   "line": "About never hearing another lie.",
+   "note": "no more lies"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 598,
+   "line": "It's the only thing you want.",
+   "note": "only thing you want"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 120,
+   "first": 643,
+   "line": "'What's the catch? ' you ask. 'No catch, ' Nora says.",
+   "note": "what's the catch"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 763,
+   "line": "And you can't tell if she's lying.",
+   "note": "can't tell if lying"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 177,
+   "first": 820,
+   "line": "For the first time in weeks, you have no idea what someone is thinking. It feels strange. It feels almost nice.",
+   "note": "first time no idea"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 997,
+   "line": "Then you go home, and Ellie is at the kitchen table, drawing.",
+   "note": "go home: Ellie drawing"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The choice"
+   "first": 1111,
+   "line": "'School was great, ' she says, and smiles.",
+   "note": "Ellie: school was great"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 144,
+   "first": 1201,
+   "line": "But her head says something else. 'Don't tell. If you tell, they'll do it more.",
+   "note": "her head: don't tell"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 51,
+   "first": 1345,
+   "line": "Don't tell. Don't tell. '",
+   "note": "don't tell swarm"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 87,
+   "first": 1396,
+   "line": "Your little sister has been scared every day for a month.",
+   "note": "scared for a month"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 66,
+   "first": 1483,
+   "line": "And nobody knew. Except you.",
+   "note": "nobody knew except you"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 84,
+   "first": 1549,
+   "line": "The next morning, Nora is at the gate. 'Well?",
+   "note": "next morning gate: well?"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 33,
+   "first": 1633,
+   "line": "' You think of Ellie.",
+   "note": "think of Ellie"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 51,
+   "first": 1666,
+   "line": "'No. I'm keeping it. '",
+   "note": "No. I'm keeping it."
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 123,
+   "first": 1717,
+   "line": "Nora stops smiling. 'Okay, ' she says. 'Your choice. '",
+   "note": "Nora stops smiling"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 1840,
+   "line": "And she walks away.",
+   "note": "she walks away"
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "key": 30,
+   "len": 180,
+   "first": 1885,
+   "line": "That afternoon, you go with Ellie to her teacher. You know exactly what to say, and exactly who to name.",
+   "note": "Ellie's teacher"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 30,
+   "len": 132,
+   "first": 2065,
+   "line": "Mo comes too. He doesn't ask how you knew. He just stands next to you.",
+   "note": "Mo comes too"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 30,
+   "len": 138,
+   "first": 2197,
+   "line": "And for once, his head says exactly what his mouth does: 'I've got you. '",
+   "note": "Mo: I've got you"
+  },
+  {
+   "id": "S28",
+   "size": "medium",
+   "key": 30,
+   "len": 54,
+   "first": 2335,
+   "line": "By Friday, it's over.",
+   "note": "by Friday it's over"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "key": 30,
+   "len": 93,
+   "first": 2389,
+   "line": "Ellie hugs you so hard your ribs hurt.",
+   "note": "Ellie hugs you"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c06/voice.wav"
+ }
 }

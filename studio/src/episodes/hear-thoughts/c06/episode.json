@@ -29,18 +29,297 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: The choice"
+      "note": "card"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "gate: it's loud"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "Nora: six years"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "you: had?"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "Nora: gave it away"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "tonight silence forever"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "sleep a whole night"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo in the dark"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "no more lies"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "only thing you want"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "what's the catch"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "can't tell if lying"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "first time no idea"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "go home: Ellie drawing"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "Ellie: school was great"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "her head: don't tell"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "don't tell swarm"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "scared for a month"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "nobody knew except you"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "next morning gate: well?"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "think of Ellie"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "No. I'm keeping it."
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "Nora stops smiling"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 30,
+      "note": "she walks away"
+    },
+    {
+      "id": "S25",
+      "size": "medium",
+      "key": 30,
+      "note": "Ellie's teacher"
+    },
+    {
+      "id": "S26",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo comes too"
+    },
+    {
+      "id": "S27",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo: I've got you"
+    },
+    {
+      "id": "S28",
+      "size": "medium",
+      "key": 30,
+      "note": "by Friday it's over"
+    },
+    {
+      "id": "S29",
+      "size": "medium",
+      "key": 30,
+      "note": "Ellie hugs you"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:1.93"
+    },
+    {
+      "shot": "S3",
+      "at": "s:4.03"
+    },
+    {
+      "shot": "S4",
+      "at": "s:6.73"
+    },
+    {
+      "shot": "S5",
+      "at": "s:7.43"
+    },
+    {
+      "shot": "S6",
+      "at": "s:10.03"
+    },
+    {
+      "shot": "S7",
+      "at": "s:13.53"
+    },
+    {
+      "shot": "S8",
+      "at": "s:15.53"
+    },
+    {
+      "shot": "S9",
+      "at": "s:17.93"
+    },
+    {
+      "shot": "S10",
+      "at": "s:19.93"
+    },
+    {
+      "shot": "S11",
+      "at": "s:21.43"
+    },
+    {
+      "shot": "S12",
+      "at": "s:25.43"
+    },
+    {
+      "shot": "S13",
+      "at": "s:27.33"
+    },
+    {
+      "shot": "S14",
+      "at": "s:33.23"
+    },
+    {
+      "shot": "S15",
+      "at": "s:37.03"
+    },
+    {
+      "shot": "S16",
+      "at": "s:40.03"
+    },
+    {
+      "shot": "S17",
+      "at": "s:44.83"
+    },
+    {
+      "shot": "S18",
+      "at": "s:46.53"
+    },
+    {
+      "shot": "S19",
+      "at": "s:49.43"
+    },
+    {
+      "shot": "S20",
+      "at": "s:51.63"
+    },
+    {
+      "shot": "S21",
+      "at": "s:54.43"
+    },
+    {
+      "shot": "S22",
+      "at": "s:55.53"
+    },
+    {
+      "shot": "S23",
+      "at": "s:57.23"
+    },
+    {
+      "shot": "S24",
+      "at": "s:61.33"
+    },
+    {
+      "shot": "S25",
+      "at": "s:62.83"
+    },
+    {
+      "shot": "S26",
+      "at": "s:68.83"
+    },
+    {
+      "shot": "S27",
+      "at": "s:73.23"
+    },
+    {
+      "shot": "S28",
+      "at": "s:77.83"
+    },
+    {
+      "shot": "S29",
+      "at": "s:79.63"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "tail": 1.0
 }

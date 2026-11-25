@@ -7,7 +7,7 @@ import words from './words.json';
 import tl from './timeline.json';
 import {
   YOU, MO, MUM, NORA, LEO, LEOMUM, TEACHER, PRIYA, N1, N2, N3, N4, N5, N6, KID, SHOPMAN, ClassSet, HallSet, KitchenSet,
-  faceCU, thinkCard, bigWord, people, scene, ThoughtField, cueIn, span, Soft, HeldPhone, propCU,
+  faceCU, thinkCard, Silent, bigWord, people, scene, ThoughtField, cueIn, span, Soft, HeldPhone, propCU,
 } from '../common';
 
 // Chapter 5, someone notices: the lost boy at the station, his tiny voice under the noise ("wait by the big clock"),
@@ -217,13 +217,6 @@ export const S18: React.FC<ShotProps> = ({ t }) => (
 
 // ---------- Nora ----------
 const ME_C = stand(CLS, 0.5, 0.62), NO_C = stand(CLS, 0.7, 0.4);
-/** An empty, dashed cloud: the silent head. */
-const Silent: React.FC<{ x: number; y: number; s?: number; t: number }> = ({ x, y, s = 1, t }) => (
-  <g transform={`translate(${x} ${y}) scale(${s})`} opacity={0.8}>
-    <ellipse cx={0} cy={-150} rx={130} ry={70} fill="#0B0816" opacity={0.5} stroke={THINK.glow} strokeWidth={5} strokeDasharray="14 12" strokeDashoffset={t} />
-    <text y={-136} textAnchor="middle" fontFamily={FONT.hand} fontWeight={700} fontSize={44} fill={THINK.glow}>. . .</text>
-  </g>
-);
 export const S19: React.FC<ShotProps> = (p) =>
   scene({
     Set: CLASS, cam: [(ME_C.x + NO_C.x) / 2, ME_C.y - 140, 1.45], to: [(ME_C.x + NO_C.x) / 2, ME_C.y - 150, 1.55], setT: 600,
