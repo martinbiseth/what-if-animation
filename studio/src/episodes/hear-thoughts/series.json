@@ -1,88 +1,105 @@
 {
- "id": "HearThoughts",
- "slug": "hear-thoughts",
- "topic": "What if you could hear everyone's thoughts?",
- "title": [
-  "WHAT IF YOU COULD HEAR",
-  "EVERYONE'S THOUGHTS?"
- ],
- "target_seconds": 540,
- "defaults": {
-  "voice": {
-   "id": "TX3LPaxmHKxFdv7VOQHJ",
-   "model": "eleven_multilingual_v2",
-   "settings": {
-    "stability": 0.45,
-    "similarity_boost": 0.8,
-    "style": 0.3,
-    "use_speaker_boost": true
-   }
-  },
-  "gaps": {
-   "word": 0.14,
-   "comma": 0.25,
-   "sentence": 0.42,
-   "question": 0.6
-  },
-  "pace": {
-   "min_cuts": 8,
-   "max_hold": 8
-  }
- },
- "chapters": [
-  {
-   "slug": "c01",
-   "name": "Cold open",
-   "words": 165
-  },
-  {
-   "slug": "c02",
-   "name": "The rules",
-   "words": 141
-  },
-  {
-   "slug": "c03",
-   "name": "The fun part",
-   "words": 316
-  },
-  {
-   "slug": "c04",
-   "name": "The catch",
-   "words": 327
-  },
-  {
-   "slug": "c05",
-   "name": "Someone notices",
-   "words": 268
-  },
-  {
-   "slug": "c06",
-   "name": "The choice",
-   "words": 247
-  },
-  {
-   "slug": "c07",
-   "name": "The loudest voice",
-   "words": 204
-  }
- ],
- "youtube": {
-  "title": "What if you could hear everyone's thoughts?",
-  "tags": [
-   "what if",
-   "animation",
-   "science"
+  "id": "HearThoughts",
+  "slug": "hear-thoughts",
+  "topic": "What if you could hear everyone's thoughts?",
+  "title": [
+    "WHAT IF YOU COULD HEAR",
+    "EVERYONE'S THOUGHTS?"
   ],
-  "category": 27,
-  "language": "en",
-  "privacy": "private",
-  "made_for_kids": false,
-  "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
-  "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+  "target_seconds": 540,
+  "defaults": {
+    "voice": {
+      "id": "TX3LPaxmHKxFdv7VOQHJ",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.45,
+        "similarity_boost": 0.8,
+        "style": 0.3,
+        "use_speaker_boost": true
+      }
+    },
+    "gaps": {
+      "word": 0.14,
+      "comma": 0.25,
+      "sentence": 0.42,
+      "question": 0.6
+    },
+    "pace": {
+      "min_cuts": 8,
+      "max_hold": 8
+    }
   },
-  "midroll_gap": 120
- }
+  "chapters": [
+    {
+      "slug": "c01",
+      "name": "Cold open",
+      "words": 165
+    },
+    {
+      "slug": "c02",
+      "name": "The rules",
+      "words": 141
+    },
+    {
+      "slug": "c03",
+      "name": "The fun part",
+      "words": 316
+    },
+    {
+      "slug": "c04",
+      "name": "The catch",
+      "words": 327
+    },
+    {
+      "slug": "c05",
+      "name": "Someone notices",
+      "words": 268
+    },
+    {
+      "slug": "c06",
+      "name": "The choice",
+      "words": 247
+    },
+    {
+      "slug": "c07",
+      "name": "The loudest voice",
+      "words": 204
+    }
+  ],
+  "youtube": {
+    "title": "What If You Could Hear Everyone's Thoughts?",
+    "tags": [
+      "what if",
+      "what if animation",
+      "what if you could hear everyone's thoughts",
+      "hear thoughts",
+      "read minds",
+      "mind reading",
+      "mind reader",
+      "superpower",
+      "what would happen if",
+      "animated story",
+      "story animation",
+      "inner voice",
+      "thoughts",
+      "psychology",
+      "brain implant",
+      "neuroscience",
+      "telepathy",
+      "cliffhanger",
+      "alternate reality",
+      "what if story"
+    ],
+    "category": 27,
+    "language": "en",
+    "privacy": "private",
+    "made_for_kids": false,
+    "synthetic_media": false,
+    "intro": "One Monday morning, you wake up and you can hear what everyone is thinking. Your mum, your best friend, the bus driver, the whole school. Nobody can hear yours. At first it's the best game in the world. Then the noise never stops, and one new girl's head is perfectly silent.",
+    "thumbnail": {
+      "composition": "HearThoughtsThumb"
+    },
+    "midroll_gap": 120,
+    "pinned_comment": "Would you keep the power, or take Nora's offer of silence? 👇\n\nAnd why did Nora give it to YOU? Best theory gets pinned before Part 2.\n\nThe real parts check out: people have about 6,000 thoughts a day, our minds wander almost half the time, 6 in 10 people lie in a 10-minute chat with a stranger, and brain implants have started to decode inner speech. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2: what happens when she takes it back?"
+  }
 }
