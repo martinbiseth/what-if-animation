@@ -477,8 +477,8 @@ const HOUSES = [
   { x: 1860, w: 440, h: 480, wall: '#6A5A4A', roof: '#2E2622', door: '#3A5A4A', kind: 'house' },
 ];
 
-export const StreetModern: React.FC<{ t: number; id?: string; mode?: 'night' | 'day' | 'dusk'; power?: number; sweep?: number; milky?: number; car?: boolean; garageOpen?: number; signal?: 'red' | 'green' | 'off' }> = ({
-  t, id = 'stm', mode = 'night', power = 1, sweep, milky = 0, car = true, garageOpen = 0, signal,
+export const StreetModern: React.FC<{ t: number; id?: string; mode?: 'night' | 'day' | 'dusk'; power?: number; sweep?: number; milky?: number; car?: boolean; garageOpen?: number; signal?: 'red' | 'green' | 'off'; moon?: boolean }> = ({
+  t, id = 'stm', mode = 'night', power = 1, sweep, milky = 0, car = true, garageOpen = 0, signal, moon = true,
 }) => {
   const night = mode === 'night';
   const dusk = mode === 'dusk';
@@ -497,7 +497,7 @@ export const StreetModern: React.FC<{ t: number; id?: string; mode?: 'night' | '
           <Stars seed={13} x0={-300} y0={-300} w={2500} h={900} t={t} n={Math.round(30 + 200 * dark)} o={0.5 + 0.5 * dark} />
           <MilkyWay x0={-200} y0={560} x1={2100} y1={-150} o={milky} t={t} w={300} />
           {power > 0.5 ? <rect x={-400} y={STREETM.horizon - 260} width={2800} height={300} fill="url(#kitShaft)" opacity={0.25} /> : null}
-          <Moon x={1650} y={170} r={34} bloom={0.6} />
+          {moon ? <Moon x={1650} y={170} r={34} bloom={0.6} /> : null}
         </g>
       ) : (
         <g>

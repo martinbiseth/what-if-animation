@@ -1,29 +1,456 @@
 {
  "slug": "moon-gone/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2642,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 93,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 93,
+   "line": "Three days later, the scientists hold a press conference."
+  },
+  {
+   "shot": "S2",
+   "a": 93,
+   "b": 146,
+   "t0": 0,
+   "t1": 53,
+   "line": "They look like they haven't slept."
+  },
+  {
+   "shot": "S3",
+   "a": 146,
+   "b": 209,
+   "t0": 0,
+   "t1": 63,
+   "line": "They explain something you never knew."
+  },
+  {
+   "shot": "S4",
+   "a": 209,
+   "b": 323,
+   "t0": 0,
+   "t1": 114,
+   "line": "When the astronauts went to the Moon, they left mirrors on the surface."
+  },
+  {
+   "shot": "S5",
+   "a": 323,
+   "b": 454,
+   "t0": 0,
+   "t1": 131,
+   "line": "For more than fifty years, observatories have fired lasers at those mirrors."
+  },
+  {
+   "shot": "S6",
+   "a": 454,
+   "b": 567,
+   "t0": 0,
+   "t1": 113,
+   "line": "About two and a half seconds later, a tiny bit of the light comes back."
+  },
+  {
+   "shot": "S7",
+   "a": 567,
+   "b": 700,
+   "t0": 0,
+   "t1": 133,
+   "line": "That's how we know the Moon is drifting away from us, nearly four centimeters every year."
+  },
+  {
+   "shot": "S8",
+   "a": 700,
+   "b": 805,
+   "t0": 0,
+   "t1": 105,
+   "line": "Last Tuesday at nine forty- seven, the light stopped coming back."
+  },
+  {
+   "shot": "S9",
+   "a": 805,
+   "b": 903,
+   "t0": 0,
+   "t1": 98,
+   "line": "Then they put up a picture of the Earth, tilted to one side."
+  },
+  {
+   "shot": "S10",
+   "a": 903,
+   "b": 1002,
+   "t0": 0,
+   "t1": 99,
+   "line": "'This is what really worries us, ' one of them says. The"
+  },
+  {
+   "shot": "S11",
+   "a": 1002,
+   "b": 1081,
+   "t0": 0,
+   "t1": 79,
+   "line": "Earth is tipped over by about twenty- three degrees."
+  },
+  {
+   "shot": "S12",
+   "a": 1081,
+   "b": 1145,
+   "t0": 0,
+   "t1": 64,
+   "line": "That tilt is why we have seasons."
+  },
+  {
+   "shot": "S13",
+   "a": 1145,
+   "b": 1272,
+   "t0": 0,
+   "t1": 127,
+   "line": "And the Moon works like a hand on a spinning top, keeping that tilt steady."
+  },
+  {
+   "shot": "S14",
+   "a": 1272,
+   "b": 1429,
+   "t0": 0,
+   "t1": 157,
+   "line": "Without it, the tilt can start to wander. Not in a day, or even in your lifetime."
+  },
+  {
+   "shot": "S15",
+   "a": 1429,
+   "b": 1550,
+   "t0": 0,
+   "t1": 121,
+   "line": "But over millions of years, some computer models say it could swing a lot."
+  },
+  {
+   "shot": "S16",
+   "a": 1550,
+   "b": 1677,
+   "t0": 0,
+   "t1": 127,
+   "line": "Mars has no big moon, and its tilt has swung by more than twenty degrees."
+  },
+  {
+   "shot": "S17",
+   "a": 1677,
+   "b": 1818,
+   "t0": 0,
+   "t1": 141,
+   "line": "A bigger tilt means wilder seasons. Hotter summers, longer winters."
+  },
+  {
+   "shot": "S18",
+   "a": 1818,
+   "b": 1883,
+   "t0": 0,
+   "t1": 65,
+   "line": "And there's one more slow change."
+  },
+  {
+   "shot": "S19",
+   "a": 1883,
+   "b": 2010,
+   "t0": 0,
+   "t1": 127,
+   "line": "The Moon's tides have been braking the Earth's spin like a giant hand brake."
+  },
+  {
+   "shot": "S20",
+   "a": 2010,
+   "b": 2133,
+   "t0": 0,
+   "t1": 123,
+   "line": "More than a billion years ago, a day was only about eighteen hours long."
+  },
+  {
+   "shot": "S21",
+   "a": 2133,
+   "b": 2198,
+   "t0": 0,
+   "t1": 65,
+   "line": "The Moon stretched it out to twenty- four."
+  },
+  {
+   "shot": "S22",
+   "a": 2198,
+   "b": 2285,
+   "t0": 0,
+   "t1": 87,
+   "line": "Without the Moon, that brake almost lets go."
+  },
+  {
+   "shot": "S23",
+   "a": 2285,
+   "b": 2371,
+   "t0": 0,
+   "t1": 86,
+   "line": "Mo raises his hand in your living room, like he's at school."
+  },
+  {
+   "shot": "S24",
+   "a": 2371,
+   "b": 2467,
+   "t0": 0,
+   "t1": 96,
+   "line": "'So it's bad, ' he says, 'but slow bad? '"
+  },
+  {
+   "shot": "S25",
+   "a": 2467,
+   "b": 2544,
+   "t0": 0,
+   "t1": 77,
+   "line": "Mostly. But not all of it is slow."
+  },
+  {
+   "shot": "S26",
+   "a": 2544,
+   "b": 2642,
+   "t0": 0,
+   "t1": 98,
+   "line": "Because tonight, Ellie's turtles are hatching."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 40,
+   "len": 93,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Three days later, the scientists hold a press conference.",
+   "note": "DAY 3: the scientists at the press conference"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 30,
+   "len": 53,
+   "first": 93,
+   "line": "They look like they haven't slept.",
+   "note": "a scientist with tired eyes"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 63,
+   "first": 146,
+   "line": "They explain something you never knew.",
+   "note": "you and Mo watching on TV"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 50,
+   "len": 114,
+   "first": 209,
+   "line": "When the astronauts went to the Moon, they left mirrors on the surface.",
+   "note": "the mirror left on the Moon"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 50,
+   "len": 131,
+   "first": 323,
+   "line": "For more than fifty years, observatories have fired lasers at those mirrors.",
+   "note": "an observatory fires a laser at the sky"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 80,
+   "len": 113,
+   "first": 454,
+   "line": "About two and a half seconds later, a tiny bit of the light comes back.",
+   "note": "Earth to Moon and back: 2.5 seconds"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 60,
+   "len": 133,
+   "first": 567,
+   "line": "That's how we know the Moon is drifting away from us, nearly four centimeters every year.",
+   "note": "3.8 CM A YEAR, THAT'S REAL"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 90,
+   "len": 105,
+   "first": 700,
+   "line": "Last Tuesday at nine forty- seven, the light stopped coming back.",
+   "note": "9:47 PM: the laser goes out, nothing comes back"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 98,
+   "first": 805,
+   "line": "Then they put up a picture of the Earth, tilted to one side.",
+   "note": "the screen: the Earth, tilted"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 30,
+   "len": 99,
+   "first": 903,
+   "line": "'This is what really worries us, ' one of them says. The",
+   "note": "scientist: this is what worries us"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 60,
+   "len": 79,
+   "first": 1002,
+   "line": "Earth is tipped over by about twenty- three degrees.",
+   "note": "the axis tilted 23.4 degrees"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 70,
+   "len": 64,
+   "first": 1081,
+   "line": "That tilt is why we have seasons.",
+   "note": "seasons round the Sun"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 60,
+   "len": 127,
+   "first": 1145,
+   "line": "And the Moon works like a hand on a spinning top, keeping that tilt steady.",
+   "note": "a spinning top steadied by a hand"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 60,
+   "len": 157,
+   "first": 1272,
+   "line": "Without it, the tilt can start to wander. Not in a day, or even in your lifetime.",
+   "note": "the top starts to wobble"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 70,
+   "len": 121,
+   "first": 1429,
+   "line": "But over millions of years, some computer models say it could swing a lot.",
+   "note": "MILLIONS OF YEARS: the tilt swings"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 60,
+   "len": 127,
+   "first": 1550,
+   "line": "Mars has no big moon, and its tilt has swung by more than twenty degrees.",
+   "note": "Mars, no big moon, its tilt swung 20+"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 50,
+   "len": 141,
+   "first": 1677,
+   "line": "A bigger tilt means wilder seasons. Hotter summers, longer winters.",
+   "note": "hotter summers / longer winters"
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "key": 20,
+   "len": 65,
+   "first": 1818,
+   "line": "And there's one more slow change.",
+   "note": "ONE MORE SLOW CHANGE"
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "key": 60,
+   "len": 127,
+   "first": 1883,
+   "line": "The Moon's tides have been braking the Earth's spin like a giant hand brake.",
+   "note": "the tides brake the spinning Earth"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 60,
+   "len": 123,
+   "first": 2010,
+   "line": "More than a billion years ago, a day was only about eighteen hours long.",
+   "note": "18 HOURS, a billion years ago"
+  },
+  {
+   "id": "S21",
+   "size": "graphic",
+   "key": 60,
+   "len": 65,
+   "first": 2133,
+   "line": "The Moon stretched it out to twenty- four.",
+   "note": "a clock stretching from 18 to 24"
+  },
+  {
+   "id": "S22",
+   "size": "graphic",
+   "key": 40,
+   "len": 87,
+   "first": 2198,
+   "line": "Without the Moon, that brake almost lets go.",
+   "note": "the brake lets go"
+  },
+  {
+   "id": "S23",
+   "size": "two-shot",
+   "key": 40,
+   "len": 86,
+   "first": 2285,
+   "line": "Mo raises his hand in your living room, like he's at school.",
+   "note": "Mo raises his hand"
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "key": 30,
+   "len": 96,
+   "first": 2371,
+   "line": "'So it's bad, ' he says, 'but slow bad? '",
+   "note": "Mo: slow bad?"
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "key": 30,
+   "len": 77,
+   "first": 2467,
+   "line": "Mostly. But not all of it is slow.",
+   "note": "you: not all of it is slow"
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "key": 40,
+   "len": 98,
+   "first": 2544,
+   "line": "Because tonight, Ellie's turtles are hatching.",
+   "note": "Ellie: THEY'RE HATCHING!!"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c05/voice.wav"
+ }
 }

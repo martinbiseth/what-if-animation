@@ -58,8 +58,8 @@ export const BedDuvet: React.FC<{ from?: number; knees?: number; kneeU?: number 
 };
 
 /** The bedroom at night. `clock` is what the bedside clock reads, `lamp` (0..1) how bright the lamp is (flicker it, kill it). */
-export const Bedroom: React.FC<{ t: number; id?: string; veil?: number; duvet?: boolean; clock?: string; lamp?: number; crossed?: number; pillowDent?: boolean }> = ({
-  t, id = 'bed', veil = 0.46, duvet = true, clock = '04:12', lamp = 1, crossed = 9, pillowDent = false,
+export const Bedroom: React.FC<{ t: number; id?: string; veil?: number; duvet?: boolean; clock?: string; lamp?: number; crossed?: number; pillowDent?: boolean; moon?: boolean }> = ({
+  t, id = 'bed', veil = 0.46, duvet = true, clock = '04:12', lamp = 1, crossed = 9, pillowDent = false, moon = true,
 }) => {
   const r = BEDROOM;
   const { P, Q } = r;
@@ -101,7 +101,7 @@ export const Bedroom: React.FC<{ t: number; id?: string; veil?: number; duvet?: 
       {/* the calendar between the bed and the window */}
       <WallCalendar x={CAL.x} y={CAL.y} w={CAL.w} crossed={crossed} />
       {/* the window: the moon, stars and the lit city */}
-      <BackWindow r={r} id={`${id}w`} t={t} x0={WINDOW.x0} x1={WINDOW.x1} y0={WINDOW.y0} y1={WINDOW.y1} sun={WINDOW.moon} cols={2} night />
+      <BackWindow r={r} id={`${id}w`} t={t} x0={WINDOW.x0} x1={WINDOW.x1} y0={WINDOW.y0} y1={WINDOW.y1} sun={moon ? WINDOW.moon : undefined} cols={2} night />
       {/* the dresser under the window, with a plant, a speaker and a trophy */}
       <FloorShadow r={r} u={[0.62, 0.86]} w={[0, 0.1]} />
       <Box r={r} u={[0.62, 0.86]} v={[0.76, 1]} w={[0, 0.1]} front="#40323A" top="#54434A" side="#30252C" rim />
@@ -226,7 +226,7 @@ export const Bedroom: React.FC<{ t: number; id?: string; veil?: number; duvet?: 
       />
       <Glow x={LAMP.x} y={LAMP.y + 6} r={300} o={0.6 * lamp} />
       <Glow x={LAMP.x} y={LAMP.y + 10} r={120} o={0.5 * lamp} />
-      <circle cx={WINDOW.moon.x} cy={WINDOW.moon.y} r={300} fill="url(#kitMoonBloom)" opacity={0.25} />
+      {moon ? <circle cx={WINDOW.moon.x} cy={WINDOW.moon.y} r={300} fill="url(#kitMoonBloom)" opacity={0.25} /> : null}
       <Glow x={door.x} y={door.y} r={160} o={0.3} />
       {fairy.map((p, i) => (i % 2 ? <Glow key={`fg${i}`} x={p.x} y={p.y + 6} r={34} o={0.6} /> : null))}
       <Dust t={t} seed={13} x0={LAMP.x - 200} y0={LAMP.y - 60} w={400} h={260} n={18} o={0.45 * lamp} />

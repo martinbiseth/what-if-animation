@@ -1,29 +1,422 @@
 {
  "slug": "moon-gone/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2635,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 87,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 87,
+   "line": "That first night is the darkest one you've ever seen."
+  },
+  {
+   "shot": "S2",
+   "a": 87,
+   "b": 217,
+   "t0": 0,
+   "t1": 130,
+   "line": "A full Moon lights up the ground about a hundred times brighter than starlight alone."
+  },
+  {
+   "shot": "S3",
+   "a": 217,
+   "b": 320,
+   "t0": 0,
+   "t1": 103,
+   "line": "Without it, every night is a moonless night. Forever."
+  },
+  {
+   "shot": "S4",
+   "a": 320,
+   "b": 391,
+   "t0": 0,
+   "t1": 71,
+   "line": "And honestly? It's beautiful."
+  },
+  {
+   "shot": "S5",
+   "a": 391,
+   "b": 565,
+   "t0": 0,
+   "t1": 174,
+   "line": "Out past the edge of town, the Milky Way spills across the sky like somebody knocked over a jar of glitter."
+  },
+  {
+   "shot": "S6",
+   "a": 565,
+   "b": 642,
+   "t0": 0,
+   "t1": 77,
+   "line": "Astronomers are having the best week of their lives."
+  },
+  {
+   "shot": "S7",
+   "a": 642,
+   "b": 769,
+   "t0": 0,
+   "t1": 127,
+   "line": "Mo sets up the telescope in your backyard and charges the neighbors a dollar a look."
+  },
+  {
+   "shot": "S8",
+   "a": 769,
+   "b": 853,
+   "t0": 0,
+   "t1": 84,
+   "line": "By midnight, he's made forty- three dollars."
+  },
+  {
+   "shot": "S9",
+   "a": 853,
+   "b": 1014,
+   "t0": 0,
+   "t1": 161,
+   "line": "Mrs. Alvarez from next door sees Saturn's rings for the first time in her life and starts crying."
+  },
+  {
+   "shot": "S10",
+   "a": 1014,
+   "b": 1142,
+   "t0": 0,
+   "t1": 128,
+   "line": "Mo gives her a refund. Then he charges her husband double."
+  },
+  {
+   "shot": "S11",
+   "a": 1142,
+   "b": 1314,
+   "t0": 0,
+   "t1": 172,
+   "line": "Online, it's chaos. Hashtag where is the Moon is trending in every country."
+  },
+  {
+   "shot": "S12",
+   "a": 1314,
+   "b": 1429,
+   "t0": 0,
+   "t1": 115,
+   "line": "Somebody sells a jar of 'genuine moonlight' for ten thousand dollars."
+  },
+  {
+   "shot": "S13",
+   "a": 1429,
+   "b": 1538,
+   "t0": 0,
+   "t1": 109,
+   "line": "A werewolf fan club announces that it is officially shutting down."
+  },
+  {
+   "shot": "S14",
+   "a": 1538,
+   "b": 1622,
+   "t0": 0,
+   "t1": 84,
+   "line": "There will never be another total solar eclipse."
+  },
+  {
+   "shot": "S15",
+   "a": 1622,
+   "b": 1773,
+   "t0": 0,
+   "t1": 151,
+   "line": "No more Moon landings, either. The rockets being built to go back there suddenly have nowhere to go."
+  },
+  {
+   "shot": "S16",
+   "a": 1773,
+   "b": 1842,
+   "t0": 0,
+   "t1": 69,
+   "line": "And your teacher points out something weird."
+  },
+  {
+   "shot": "S17",
+   "a": 1842,
+   "b": 1957,
+   "t0": 0,
+   "t1": 115,
+   "line": "The word 'month' comes from the Moon. So does 'Monday'."
+  },
+  {
+   "shot": "S18",
+   "a": 1957,
+   "b": 2071,
+   "t0": 0,
+   "t1": 114,
+   "line": "Every calendar on Earth was built around a thing that isn't there anymore."
+  },
+  {
+   "shot": "S19",
+   "a": 2071,
+   "b": 2235,
+   "t0": 0,
+   "t1": 164,
+   "line": "Ellie is not having fun. She lies on the trampoline, staring at the empty spot in the sky."
+  },
+  {
+   "shot": "S20",
+   "a": 2235,
+   "b": 2316,
+   "t0": 0,
+   "t1": 81,
+   "line": "'But what does the Moon actually do? ' she asks."
+  },
+  {
+   "shot": "S21",
+   "a": 2316,
+   "b": 2378,
+   "t0": 0,
+   "t1": 62,
+   "line": "You don't have an answer. Not yet."
+  },
+  {
+   "shot": "S22",
+   "a": 2378,
+   "b": 2446,
+   "t0": 0,
+   "t1": 68,
+   "line": "The next morning, Mo calls you at six."
+  },
+  {
+   "shot": "S23",
+   "a": 2446,
+   "b": 2525,
+   "t0": 0,
+   "t1": 79,
+   "line": "'You need to come down to the harbor, ' he says."
+  },
+  {
+   "shot": "S24",
+   "a": 2525,
+   "b": 2635,
+   "t0": 0,
+   "t1": 110,
+   "line": "'Grandpa's boat is stuck in the mud. '"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "title",
    "key": 30,
-   "len": 90,
+   "len": 87,
    "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "line": "That first night is the darkest one you've ever seen.",
+   "note": "NIGHT 1: THE DARKEST NIGHT"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 70,
+   "len": 130,
+   "first": 87,
+   "line": "A full Moon lights up the ground about a hundred times brighter than starlight alone.",
+   "note": "FULL MOON vs STARLIGHT: 100x"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 40,
+   "len": 103,
+   "first": 217,
+   "line": "Without it, every night is a moonless night. Forever.",
+   "note": "the street with no moonlight"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 71,
+   "first": 320,
+   "line": "And honestly? It's beautiful.",
+   "note": "you look up: beautiful"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 60,
+   "len": 174,
+   "first": 391,
+   "line": "Out past the edge of town, the Milky Way spills across the sky like somebody knocked over a jar of glitter.",
+   "note": "the Milky Way spills across the sky"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 77,
+   "first": 565,
+   "line": "Astronomers are having the best week of their lives.",
+   "note": "the observatory dome, an astronomer cheering"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 50,
+   "len": 127,
+   "first": 642,
+   "line": "Mo sets up the telescope in your backyard and charges the neighbors a dollar a look.",
+   "note": "Mo charges a dollar a look, a line of neighbours"
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "key": 40,
+   "len": 84,
+   "first": 769,
+   "line": "By midnight, he's made forty- three dollars.",
+   "note": "the jar: $43"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 40,
+   "len": 161,
+   "first": 853,
+   "line": "Mrs. Alvarez from next door sees Saturn's rings for the first time in her life and starts crying.",
+   "note": "Saturn's rings in the eyepiece"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 50,
+   "len": 128,
+   "first": 1014,
+   "line": "Mo gives her a refund. Then he charges her husband double.",
+   "note": "refund; then double for her husband"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 40,
+   "len": 172,
+   "first": 1142,
+   "line": "Online, it's chaos. Hashtag where is the Moon is trending in every country.",
+   "note": "#WhereIsTheMoon trending"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 40,
+   "len": 115,
+   "first": 1314,
+   "line": "Somebody sells a jar of 'genuine moonlight' for ten thousand dollars.",
+   "note": "GENUINE MOONLIGHT $10,000"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 30,
+   "len": 109,
+   "first": 1429,
+   "line": "A werewolf fan club announces that it is officially shutting down.",
+   "note": "WEREWOLF FAN CLUB: CLOSED"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 40,
+   "len": 84,
+   "first": 1538,
+   "line": "There will never be another total solar eclipse.",
+   "note": "NO MORE TOTAL SOLAR ECLIPSES"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 50,
+   "len": 151,
+   "first": 1622,
+   "line": "No more Moon landings, either. The rockets being built to go back there suddenly have nowhere to go.",
+   "note": "the rocket with nowhere to go"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 69,
+   "first": 1773,
+   "line": "And your teacher points out something weird.",
+   "note": "your teacher at the board"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 60,
+   "len": 115,
+   "first": 1842,
+   "line": "The word 'month' comes from the Moon. So does 'Monday'.",
+   "note": "MOON → MONTH · MONDAY"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 40,
+   "len": 114,
+   "first": 1957,
+   "line": "Every calendar on Earth was built around a thing that isn't there anymore.",
+   "note": "a calendar of moon phases fades"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 164,
+   "first": 2071,
+   "line": "Ellie is not having fun. She lies on the trampoline, staring at the empty spot in the sky.",
+   "note": "Ellie on the trampoline, staring up"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 30,
+   "len": 81,
+   "first": 2235,
+   "line": "'But what does the Moon actually do? ' she asks.",
+   "note": "Ellie: what does the Moon actually do?"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 62,
+   "first": 2316,
+   "line": "You don't have an answer. Not yet.",
+   "note": "you: no answer, not yet"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 20,
+   "len": 68,
+   "first": 2378,
+   "line": "The next morning, Mo calls you at six.",
+   "note": "MO calling, 6:00 AM"
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "key": 30,
+   "len": 79,
+   "first": 2446,
+   "line": "'You need to come down to the harbor, ' he says.",
+   "note": "you on the phone, half asleep"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 40,
+   "len": 110,
+   "first": 2525,
+   "line": "'Grandpa's boat is stuck in the mud. '",
+   "note": "grandpa's boat stuck in the mud"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c03/voice.wav"
+ }
 }

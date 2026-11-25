@@ -64,18 +64,270 @@
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "set": "dark",
+   "note": "NIGHT 1: THE DARKEST NIGHT",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "FULL MOON vs STARLIGHT: 100x",
+   "key": 70
+  },
+  {
+   "id": "S3",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The fun part"
+   "set": "street night",
+   "note": "the street with no moonlight",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "street night",
+   "note": "you look up: beautiful",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "field night",
+   "note": "the Milky Way spills across the sky",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "observatory",
+   "note": "the observatory dome, an astronomer cheering",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "backyard night",
+   "note": "Mo charges a dollar a look, a line of neighbours",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "insert",
+   "set": "backyard night",
+   "note": "the jar: $43",
+   "key": 40
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "eyepiece",
+   "note": "Saturn's rings in the eyepiece",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "backyard night",
+   "note": "refund; then double for her husband",
+   "key": 50
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "phone",
+   "note": "#WhereIsTheMoon trending",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "phone",
+   "note": "GENUINE MOONLIGHT $10,000",
+   "key": 40
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "street night",
+   "note": "WEREWOLF FAN CLUB: CLOSED",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "NO MORE TOTAL SOLAR ECLIPSES",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "launch pad",
+   "note": "the rocket with nowhere to go",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "set": "classroom",
+   "note": "your teacher at the board",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "MOON → MONTH · MONDAY",
+   "key": 60
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "set": "schematic",
+   "note": "a calendar of moon phases fades",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "backyard night",
+   "note": "Ellie on the trampoline, staring up",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "set": "backyard night",
+   "note": "Ellie: what does the Moon actually do?",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "set": "backyard night",
+   "note": "you: no answer, not yet",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "set": "phone",
+   "note": "MO calling, 6:00 AM",
+   "key": 20
+  },
+  {
+   "id": "S23",
+   "size": "close-up",
+   "set": "kitchen",
+   "note": "you on the phone, half asleep",
+   "key": 30
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "set": "harbor",
+   "note": "grandpa's boat stuck in the mud",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "A"
+  },
+  {
+   "shot": "S3",
+   "at": "Without"
+  },
+  {
+   "shot": "S4",
+   "at": "And"
+  },
+  {
+   "shot": "S5",
+   "at": "Out"
+  },
+  {
+   "shot": "S6",
+   "at": "Astronomers"
+  },
+  {
+   "shot": "S7",
+   "at": "Mo"
+  },
+  {
+   "shot": "S8",
+   "at": "By"
+  },
+  {
+   "shot": "S9",
+   "at": "Mrs"
+  },
+  {
+   "shot": "S10",
+   "at": "Mo"
+  },
+  {
+   "shot": "S11",
+   "at": "Online"
+  },
+  {
+   "shot": "S12",
+   "at": "Somebody"
+  },
+  {
+   "shot": "S13",
+   "at": "A#2"
+  },
+  {
+   "shot": "S14",
+   "at": "There"
+  },
+  {
+   "shot": "S15",
+   "at": "No"
+  },
+  {
+   "shot": "S16",
+   "at": "And"
+  },
+  {
+   "shot": "S17",
+   "at": "The"
+  },
+  {
+   "shot": "S18",
+   "at": "Every"
+  },
+  {
+   "shot": "S19",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S20",
+   "at": "But"
+  },
+  {
+   "shot": "S21",
+   "at": "You"
+  },
+  {
+   "shot": "S22",
+   "at": "The"
+  },
+  {
+   "shot": "S23",
+   "at": "You#2"
+  },
+  {
+   "shot": "S24",
+   "at": "Grandpa's"
   }
  ],
- "end": "f:90",
  "fx": []
 }

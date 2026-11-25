@@ -1,29 +1,354 @@
 {
  "slug": "moon-gone/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2110,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 76,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 76,
+   "line": "One by one, the turtles turn around."
+  },
+  {
+   "shot": "S2",
+   "a": 76,
+   "b": 159,
+   "t0": 0,
+   "t1": 83,
+   "line": "They scramble down the sand and into the waves."
+  },
+  {
+   "shot": "S3",
+   "a": 159,
+   "b": 270,
+   "t0": 0,
+   "t1": 111,
+   "line": "Ellie counts every single one. A hundred and twelve."
+  },
+  {
+   "shot": "S4",
+   "a": 270,
+   "b": 426,
+   "t0": 0,
+   "t1": 156,
+   "line": "Ellie is crying and laughing at the same time. 'Thirty years, ' she whispers."
+  },
+  {
+   "shot": "S5",
+   "a": 426,
+   "b": 539,
+   "t0": 0,
+   "t1": 113,
+   "line": "'The girls come back to this same beach in thirty years to lay their own eggs. '"
+  },
+  {
+   "shot": "S6",
+   "a": 539,
+   "b": 643,
+   "t0": 0,
+   "t1": 104,
+   "line": "Then she looks up at the black sky. 'How will they find it? '"
+  },
+  {
+   "shot": "S7",
+   "a": 643,
+   "b": 760,
+   "t0": 0,
+   "t1": 117,
+   "line": "But as the last one swims off, Grandpa looks at his watch and frowns."
+  },
+  {
+   "shot": "S8",
+   "a": 760,
+   "b": 823,
+   "t0": 0,
+   "t1": 63,
+   "line": "'That's not right, ' he says."
+  },
+  {
+   "shot": "S9",
+   "a": 823,
+   "b": 893,
+   "t0": 0,
+   "t1": 70,
+   "line": "The water is coming in. Fast."
+  },
+  {
+   "shot": "S10",
+   "a": 893,
+   "b": 1035,
+   "t0": 0,
+   "t1": 142,
+   "line": "Higher than it's been all week, like the old tides. Like something out there is still pulling."
+  },
+  {
+   "shot": "S11",
+   "a": 1035,
+   "b": 1068,
+   "t0": 0,
+   "t1": 33,
+   "line": "Mo looks up."
+  },
+  {
+   "shot": "S12",
+   "a": 1068,
+   "b": 1197,
+   "t0": 0,
+   "t1": 129,
+   "line": "Right where the Moon used to be, one little patch of sky has no stars in it at all."
+  },
+  {
+   "shot": "S13",
+   "a": 1197,
+   "b": 1302,
+   "t0": 0,
+   "t1": 105,
+   "line": "So, is any of this real? The science is."
+  },
+  {
+   "shot": "S14",
+   "a": 1302,
+   "b": 1406,
+   "t0": 0,
+   "t1": 104,
+   "line": "The Sun's tides really are less than half as strong as the Moon's."
+  },
+  {
+   "shot": "S15",
+   "a": 1406,
+   "b": 1489,
+   "t0": 0,
+   "t1": 83,
+   "line": "The Bay of Fundy really rises sixteen meters."
+  },
+  {
+   "shot": "S16",
+   "a": 1489,
+   "b": 1654,
+   "t0": 0,
+   "t1": 165,
+   "line": "Corals really time their spawning to the Moon, and hatchlings really crawl toward the brightest horizon."
+  },
+  {
+   "shot": "S17",
+   "a": 1654,
+   "b": 1749,
+   "t0": 0,
+   "t1": 95,
+   "line": "Which is why beach towns turn the lights off during nesting season."
+  },
+  {
+   "shot": "S18",
+   "a": 1749,
+   "b": 1805,
+   "t0": 0,
+   "t1": 56,
+   "line": "Would you have turned off the lights?"
+  },
+  {
+   "shot": "S19",
+   "a": 1805,
+   "b": 1914,
+   "t0": 0,
+   "t1": 109,
+   "line": "And what do you think is pulling on the ocean? Tell me in the comments."
+  },
+  {
+   "shot": "S20",
+   "a": 1914,
+   "b": 2110,
+   "t0": 0,
+   "t1": 196,
+   "line": "And subscribe, so you don't miss what's hiding in that dark spot in the sky."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
-   "key": 30,
-   "len": 90,
+   "size": "insert",
+   "key": 40,
+   "len": 76,
    "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "line": "One by one, the turtles turn around.",
+   "note": "one by one the turtles turn around"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 50,
+   "len": 83,
+   "first": 76,
+   "line": "They scramble down the sand and into the waves.",
+   "note": "they scramble into the waves"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 50,
+   "len": 111,
+   "first": 159,
+   "line": "Ellie counts every single one. A hundred and twelve.",
+   "note": "Ellie counting: 112"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 156,
+   "first": 270,
+   "line": "Ellie is crying and laughing at the same time. 'Thirty years, ' she whispers.",
+   "note": "Ellie crying and laughing"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 60,
+   "len": 113,
+   "first": 426,
+   "line": "'The girls come back to this same beach in thirty years to lay their own eggs. '",
+   "note": "a turtle swims away and back: 30 YEARS"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "key": 40,
+   "len": 104,
+   "first": 539,
+   "line": "Then she looks up at the black sky. 'How will they find it? '",
+   "note": "Ellie looks up: how will they find it?"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 40,
+   "len": 117,
+   "first": 643,
+   "line": "But as the last one swims off, Grandpa looks at his watch and frowns.",
+   "note": "grandpa looks at his watch and frowns"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 63,
+   "first": 760,
+   "line": "'That's not right, ' he says.",
+   "note": "grandpa: that's not right"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 70,
+   "first": 823,
+   "line": "The water is coming in. Fast.",
+   "note": "the water rushes in, fast"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 60,
+   "len": 142,
+   "first": 893,
+   "line": "Higher than it's been all week, like the old tides. Like something out there is still pulling.",
+   "note": "the tide post: water climbs past the line"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 20,
+   "len": 33,
+   "first": 1035,
+   "line": "Mo looks up.",
+   "note": "Mo looks up"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 80,
+   "len": 129,
+   "first": 1068,
+   "line": "Right where the Moon used to be, one little patch of sky has no stars in it at all.",
+   "note": "one patch of sky with no stars"
+  },
+  {
+   "id": "S13",
+   "size": "title",
+   "key": 20,
+   "len": 105,
+   "first": 1197,
+   "line": "So, is any of this real? The science is.",
+   "note": "IS ANY OF THIS REAL?"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 60,
+   "len": 104,
+   "first": 1302,
+   "line": "The Sun's tides really are less than half as strong as the Moon's.",
+   "note": "SUN'S TIDES: 46% OF THE MOON'S"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 50,
+   "len": 83,
+   "first": 1406,
+   "line": "The Bay of Fundy really rises sixteen meters.",
+   "note": "BAY OF FUNDY: 16 M"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 70,
+   "len": 165,
+   "first": 1489,
+   "line": "Corals really time their spawning to the Moon, and hatchlings really crawl toward the brightest horizon.",
+   "note": "CORALS TIME TO THE MOON · HATCHLINGS TO THE BRIGHTEST HORIZON"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 40,
+   "len": 95,
+   "first": 1654,
+   "line": "Which is why beach towns turn the lights off during nesting season.",
+   "note": "LIGHTS OUT: TURTLE NESTING SEASON"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 56,
+   "first": 1749,
+   "line": "Would you have turned off the lights?",
+   "note": "you on the dark beach"
+  },
+  {
+   "id": "S19",
+   "size": "title",
+   "key": 30,
+   "len": 109,
+   "first": 1805,
+   "line": "And what do you think is pulling on the ocean? Tell me in the comments.",
+   "note": "WHAT'S PULLING THE OCEAN?"
+  },
+  {
+   "id": "S20",
+   "size": "end card",
+   "key": 60,
+   "len": 196,
+   "first": 1914,
+   "line": "And subscribe, so you don't miss what's hiding in that dark spot in the sky.",
+   "note": "the dark spot · SUBSCRIBE"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c07/voice.wav"
+ }
 }

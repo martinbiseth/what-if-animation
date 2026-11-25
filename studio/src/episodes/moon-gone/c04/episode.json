@@ -75,18 +75,270 @@
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "set": "schematic",
+   "note": "THE MOON'S JOB #1: THE TIDES",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Moon's gravity pulls on the whole Earth",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "arrows: strongest near, weakest far",
+   "key": 60
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "two bulges; a town spins through them",
+   "key": 80
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Sun makes tides too",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "MOON 100 vs SUN 46",
+   "key": 60
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "today vs no Moon: a third",
+   "key": 80
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "16 M, BAY OF FUNDY",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a five-story building, water to the roof",
+   "key": 60
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the water drops to 5 m",
+   "key": 40
+  },
+  {
+   "id": "S11",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The catch"
+   "set": "shore",
+   "note": "rocks and tide pools where the sea meets the land",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "set": "tide pool",
+   "note": "crab, sea star, snails in the pool",
+   "key": 50
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "tide pool",
+   "note": "the pool dries out, the crab sweats",
+   "key": 50
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the deep ocean, cross-section",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "stirring arrows: tides do HALF",
+   "key": 70
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a globe with the currents carrying heat",
+   "key": 50
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "half the arrows fade: currents and weather change?",
+   "key": 70
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Moon as a clock face",
+   "key": 40
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "reef",
+   "note": "the corals release their eggs together",
+   "key": 80
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the clock face goes blank",
+   "key": 40
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "reef",
+   "note": "the reef at night, question marks",
+   "key": 40
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "set": "schematic",
+   "note": "a calendar, days being crossed off",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "set": "harbor",
+   "note": "grandpa on the dock, the boat in the mud",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "set": "harbor",
+   "note": "grandpa: never stood me up before",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "The#4"
+  },
+  {
+   "shot": "S3",
+   "at": "But"
+  },
+  {
+   "shot": "S4",
+   "at": "So"
+  },
+  {
+   "shot": "S5",
+   "at": "Sun"
+  },
+  {
+   "shot": "S6",
+   "at": "But"
+  },
+  {
+   "shot": "S7",
+   "at": "So"
+  },
+  {
+   "shot": "S8",
+   "at": "In"
+  },
+  {
+   "shot": "S9",
+   "at": "That's"
+  },
+  {
+   "shot": "S10",
+   "at": "Without"
+  },
+  {
+   "shot": "S11",
+   "at": "And"
+  },
+  {
+   "shot": "S12",
+   "at": "Crabs"
+  },
+  {
+   "shot": "S13",
+   "at": "With"
+  },
+  {
+   "shot": "S14",
+   "at": "Then"
+  },
+  {
+   "shot": "S15",
+   "at": "Tides"
+  },
+  {
+   "shot": "S16",
+   "at": "That"
+  },
+  {
+   "shot": "S17",
+   "at": "Take"
+  },
+  {
+   "shot": "S18",
+   "at": "And#2"
+  },
+  {
+   "shot": "S19",
+   "at": "On"
+  },
+  {
+   "shot": "S20",
+   "at": "Without"
+  },
+  {
+   "shot": "S21",
+   "at": "Nobody"
+  },
+  {
+   "shot": "S22",
+   "at": "Scientists"
+  },
+  {
+   "shot": "S23",
+   "at": "Grandpa"
+  },
+  {
+   "shot": "S24",
+   "at": "Fifty"
   }
  ],
- "end": "f:90",
  "fx": []
 }

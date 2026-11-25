@@ -1,29 +1,439 @@
 {
  "slug": "moon-gone/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2717,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 62,
+   "t0": 0,
+   "t1": 62,
+   "line": "You get to the beach just after dark."
+  },
+  {
+   "shot": "S2",
+   "a": 62,
+   "b": 241,
+   "t0": 0,
+   "t1": 179,
+   "line": "Ellie is already there, inside the little orange fence, with her flashlight off, like the turtle lady told her."
+  },
+  {
+   "shot": "S3",
+   "a": 241,
+   "b": 297,
+   "t0": 0,
+   "t1": 56,
+   "line": "The sand starts to move."
+  },
+  {
+   "shot": "S4",
+   "a": 297,
+   "b": 394,
+   "t0": 0,
+   "t1": 97,
+   "line": "Then a tiny flipper pokes out. Then another."
+  },
+  {
+   "shot": "S5",
+   "a": 394,
+   "b": 507,
+   "t0": 0,
+   "t1": 113,
+   "line": "Then about a hundred baby sea turtles boil out of the nest at once."
+  },
+  {
+   "shot": "S6",
+   "a": 507,
+   "b": 573,
+   "t0": 0,
+   "t1": 66,
+   "line": "Here's how hatchlings find the ocean."
+  },
+  {
+   "shot": "S7",
+   "a": 573,
+   "b": 641,
+   "t0": 0,
+   "t1": 68,
+   "line": "They crawl toward the brightest horizon."
+  },
+  {
+   "shot": "S8",
+   "a": 641,
+   "b": 822,
+   "t0": 0,
+   "t1": 181,
+   "line": "For millions of years, that was the open sky over the water, with the Moon and the stars bouncing off the waves."
+  },
+  {
+   "shot": "S9",
+   "a": 822,
+   "b": 933,
+   "t0": 0,
+   "t1": 111,
+   "line": "But tonight there's no Moon. The sea is pitch black."
+  },
+  {
+   "shot": "S10",
+   "a": 933,
+   "b": 1190,
+   "t0": 0,
+   "t1": 257,
+   "line": "And behind the beach, the boardwalk is lit up like a stadium, because the whole town came out for a Moon Vigil, with floodlights and phones and glowing lanterns."
+  },
+  {
+   "shot": "S11",
+   "a": 1190,
+   "b": 1237,
+   "t0": 0,
+   "t1": 47,
+   "line": "And the turtles turn around."
+  },
+  {
+   "shot": "S12",
+   "a": 1237,
+   "b": 1402,
+   "t0": 0,
+   "t1": 165,
+   "line": "All of them. They start crawling up the sand, away from the water, toward the lights and the road."
+  },
+  {
+   "shot": "S13",
+   "a": 1402,
+   "b": 1500,
+   "t0": 0,
+   "t1": 98,
+   "line": "Ellie grabs your arm. 'They're going the wrong way! '"
+  },
+  {
+   "shot": "S14",
+   "a": 1500,
+   "b": 1590,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "A few people at the vigil notice, and they run over to help."
+  },
+  {
+   "shot": "S15",
+   "a": 1590,
+   "b": 1724,
+   "t0": 0,
+   "t1": 134,
+   "line": "They switch on their phone flashlights to see. And it makes everything worse."
+  },
+  {
+   "shot": "S16",
+   "a": 1724,
+   "b": 1805,
+   "t0": 0,
+   "t1": 81,
+   "line": "Now even more turtles turn toward the lights."
+  },
+  {
+   "shot": "S17",
+   "a": 1805,
+   "b": 1966,
+   "t0": 0,
+   "t1": 161,
+   "line": "You can't carry a hundred turtles. Nobody can. But you know what they need. They don't need help."
+  },
+  {
+   "shot": "S18",
+   "a": 1966,
+   "b": 2001,
+   "t0": 0,
+   "t1": 35,
+   "line": "They need the dark."
+  },
+  {
+   "shot": "S19",
+   "a": 2001,
+   "b": 2136,
+   "t0": 0,
+   "t1": 135,
+   "line": "So you climb onto the lifeguard tower, and you shout as loud as you've ever shouted."
+  },
+  {
+   "shot": "S20",
+   "a": 2136,
+   "b": 2246,
+   "t0": 0,
+   "t1": 110,
+   "line": "'Everybody! Lights off! Phones off! Now! '"
+  },
+  {
+   "shot": "S21",
+   "a": 2246,
+   "b": 2315,
+   "t0": 0,
+   "t1": 69,
+   "line": "For a second, nobody moves. Then"
+  },
+  {
+   "shot": "S22",
+   "a": 2315,
+   "b": 2426,
+   "t0": 0,
+   "t1": 111,
+   "line": "Mo runs to the snack shack and flips the big switch on the floodlights."
+  },
+  {
+   "shot": "S23",
+   "a": 2426,
+   "b": 2481,
+   "t0": 0,
+   "t1": 55,
+   "line": "Grandpa turns off his truck."
+  },
+  {
+   "shot": "S24",
+   "a": 2481,
+   "b": 2579,
+   "t0": 0,
+   "t1": 98,
+   "line": "One by one, the phones go dark, and the lanterns go out."
+  },
+  {
+   "shot": "S25",
+   "a": 2579,
+   "b": 2717,
+   "t0": 0,
+   "t1": 138,
+   "line": "And now the brightest thing left is the faint glow of starlight over the sea."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 30,
-   "len": 90,
+   "key": 40,
+   "len": 62,
    "first": 0,
-   "line": "",
-   "note": "The choice"
+   "line": "You get to the beach just after dark.",
+   "note": "the beach after dark, the boardwalk lit behind"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 50,
+   "len": 179,
+   "first": 62,
+   "line": "Ellie is already there, inside the little orange fence, with her flashlight off, like the turtle lady told her.",
+   "note": "Ellie inside the orange fence, flashlight off"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 56,
+   "first": 241,
+   "line": "The sand starts to move.",
+   "note": "the sand starts to move"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 40,
+   "len": 97,
+   "first": 297,
+   "line": "Then a tiny flipper pokes out. Then another.",
+   "note": "a tiny flipper, then another"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 50,
+   "len": 113,
+   "first": 394,
+   "line": "Then about a hundred baby sea turtles boil out of the nest at once.",
+   "note": "a hundred hatchlings boil out"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 20,
+   "len": 66,
+   "first": 507,
+   "line": "Here's how hatchlings find the ocean.",
+   "note": "HOW HATCHLINGS FIND THE SEA"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 50,
+   "len": 68,
+   "first": 573,
+   "line": "They crawl toward the brightest horizon.",
+   "note": "they crawl to the BRIGHTEST horizon"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 60,
+   "len": 181,
+   "first": 641,
+   "line": "For millions of years, that was the open sky over the water, with the Moon and the stars bouncing off the waves.",
+   "note": "the sea glittering under a moon, turtles to the water"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 40,
+   "len": 111,
+   "first": 822,
+   "line": "But tonight there's no Moon. The sea is pitch black.",
+   "note": "no Moon: the sea pitch black"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 60,
+   "len": 257,
+   "first": 933,
+   "line": "And behind the beach, the boardwalk is lit up like a stadium, because the whole town came out for a Moon Vigil, with floodlights and phones and glowing lanterns.",
+   "note": "the boardwalk like a stadium: MOON VIGIL"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 40,
+   "len": 47,
+   "first": 1190,
+   "line": "And the turtles turn around.",
+   "note": "the hatchlings turn around"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 60,
+   "len": 165,
+   "first": 1237,
+   "line": "All of them. They start crawling up the sand, away from the water, toward the lights and the road.",
+   "note": "they crawl up the sand toward the lights"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 98,
+   "first": 1402,
+   "line": "Ellie grabs your arm. 'They're going the wrong way! '",
+   "note": "Ellie: they're going the wrong way!"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 90,
+   "first": 1500,
+   "line": "A few people at the vigil notice, and they run over to help.",
+   "note": "people from the vigil run over"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 40,
+   "len": 134,
+   "first": 1590,
+   "line": "They switch on their phone flashlights to see. And it makes everything worse.",
+   "note": "phone flashlights switch on"
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "key": 40,
+   "len": 81,
+   "first": 1724,
+   "line": "Now even more turtles turn toward the lights.",
+   "note": "even more turtles turn to the lights"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 161,
+   "first": 1805,
+   "line": "You can't carry a hundred turtles. Nobody can. But you know what they need. They don't need help.",
+   "note": "you: can't carry a hundred"
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "key": 20,
+   "len": 35,
+   "first": 1966,
+   "line": "They need the dark.",
+   "note": "THEY NEED THE DARK"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 40,
+   "len": 135,
+   "first": 2001,
+   "line": "So you climb onto the lifeguard tower, and you shout as loud as you've ever shouted.",
+   "note": "you climb the lifeguard tower"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 30,
+   "len": 110,
+   "first": 2136,
+   "line": "'Everybody! Lights off! Phones off! Now! '",
+   "note": "you shout: LIGHTS OFF!"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 30,
+   "len": 69,
+   "first": 2246,
+   "line": "For a second, nobody moves. Then",
+   "note": "nobody moves"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 40,
+   "len": 111,
+   "first": 2315,
+   "line": "Mo runs to the snack shack and flips the big switch on the floodlights.",
+   "note": "Mo flips the floodlight switch"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 30,
+   "len": 55,
+   "first": 2426,
+   "line": "Grandpa turns off his truck.",
+   "note": "grandpa's truck lights go off"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 60,
+   "len": 98,
+   "first": 2481,
+   "line": "One by one, the phones go dark, and the lanterns go out.",
+   "note": "one by one the phones and lanterns go out"
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "key": 60,
+   "len": 138,
+   "first": 2579,
+   "line": "And now the brightest thing left is the faint glow of starlight over the sea.",
+   "note": "the faint starlight over the sea"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c06/voice.wav"
+ }
 }

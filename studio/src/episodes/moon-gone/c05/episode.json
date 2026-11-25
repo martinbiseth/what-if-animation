@@ -76,17 +76,291 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Someone notices"
+   "set": "press room",
+   "note": "DAY 3: the scientists at the press conference",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "press room",
+   "note": "a scientist with tired eyes",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "living room",
+   "note": "you and Mo watching on TV",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "moon surface",
+   "note": "the mirror left on the Moon",
+   "key": 50
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "observatory",
+   "note": "an observatory fires a laser at the sky",
+   "key": 50
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "Earth to Moon and back: 2.5 seconds",
+   "key": 80
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "3.8 CM A YEAR, THAT'S REAL",
+   "key": 60
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "9:47 PM: the laser goes out, nothing comes back",
+   "key": 90
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "press room",
+   "note": "the screen: the Earth, tilted",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "set": "press room",
+   "note": "scientist: this is what worries us",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the axis tilted 23.4 degrees",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "seasons round the Sun",
+   "key": 70
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a spinning top steadied by a hand",
+   "key": 60
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the top starts to wobble",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "MILLIONS OF YEARS: the tilt swings",
+   "key": 70
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "Mars, no big moon, its tilt swung 20+",
+   "key": 60
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "hotter summers / longer winters",
+   "key": 50
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "ONE MORE SLOW CHANGE",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the tides brake the spinning Earth",
+   "key": 60
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "18 HOURS, a billion years ago",
+   "key": 60
+  },
+  {
+   "id": "S21",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a clock stretching from 18 to 24",
+   "key": 60
+  },
+  {
+   "id": "S22",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the brake lets go",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "two-shot",
+   "set": "living room",
+   "note": "Mo raises his hand",
+   "key": 40
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "set": "living room",
+   "note": "Mo: slow bad?",
+   "key": 30
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "set": "living room",
+   "note": "you: not all of it is slow",
+   "key": 30
+  },
+  {
+   "id": "S26",
+   "size": "insert",
+   "set": "phone",
+   "note": "Ellie: THEY'RE HATCHING!!",
+   "key": 40
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "They"
+  },
+  {
+   "shot": "S3",
+   "at": "They#2"
+  },
+  {
+   "shot": "S4",
+   "at": "When"
+  },
+  {
+   "shot": "S5",
+   "at": "For"
+  },
+  {
+   "shot": "S6",
+   "at": "About"
+  },
+  {
+   "shot": "S7",
+   "at": "That's"
+  },
+  {
+   "shot": "S8",
+   "at": "Last"
+  },
+  {
+   "shot": "S9",
+   "at": "Then"
+  },
+  {
+   "shot": "S10",
+   "at": "This"
+  },
+  {
+   "shot": "S11",
+   "at": "Earth"
+  },
+  {
+   "shot": "S12",
+   "at": "That"
+  },
+  {
+   "shot": "S13",
+   "at": "And"
+  },
+  {
+   "shot": "S14",
+   "at": "Without"
+  },
+  {
+   "shot": "S15",
+   "at": "But"
+  },
+  {
+   "shot": "S16",
+   "at": "Mars"
+  },
+  {
+   "shot": "S17",
+   "at": "A"
+  },
+  {
+   "shot": "S18",
+   "at": "And"
+  },
+  {
+   "shot": "S19",
+   "at": "The"
+  },
+  {
+   "shot": "S20",
+   "at": "More"
+  },
+  {
+   "shot": "S21",
+   "at": "The"
+  },
+  {
+   "shot": "S22",
+   "at": "Without"
+  },
+  {
+   "shot": "S23",
+   "at": "Mo"
+  },
+  {
+   "shot": "S24",
+   "at": "So"
+  },
+  {
+   "shot": "S25",
+   "at": "Mostly"
+  },
+  {
+   "shot": "S26",
+   "at": "Because"
   }
  ],
- "end": "f:90",
  "fx": []
 }

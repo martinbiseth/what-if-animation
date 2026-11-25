@@ -1,29 +1,422 @@
 {
  "slug": "moon-gone/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2913,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 97,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 97,
+   "line": "Here's the first job the Moon was doing. The tides."
+  },
+  {
+   "shot": "S2",
+   "a": 97,
+   "b": 171,
+   "t0": 0,
+   "t1": 74,
+   "line": "The Moon's gravity pulls on the whole Earth."
+  },
+  {
+   "shot": "S3",
+   "a": 171,
+   "b": 300,
+   "t0": 0,
+   "t1": 129,
+   "line": "But it pulls hardest on the side facing it, and weakest on the far side."
+  },
+  {
+   "shot": "S4",
+   "a": 300,
+   "b": 513,
+   "t0": 0,
+   "t1": 213,
+   "line": "So the oceans stretch into two bulges, and as the Earth spins through them, the water rises and falls, about twice a day. The"
+  },
+  {
+   "shot": "S5",
+   "a": 513,
+   "b": 561,
+   "t0": 0,
+   "t1": 48,
+   "line": "Sun makes tides too."
+  },
+  {
+   "shot": "S6",
+   "a": 561,
+   "b": 669,
+   "t0": 0,
+   "t1": 108,
+   "line": "But its pull on the oceans is less than half as strong as the Moon's."
+  },
+  {
+   "shot": "S7",
+   "a": 669,
+   "b": 835,
+   "t0": 0,
+   "t1": 166,
+   "line": "So without the Moon, the tides don't stop. They shrink, to about a third of a big tide today."
+  },
+  {
+   "shot": "S8",
+   "a": 835,
+   "b": 944,
+   "t0": 0,
+   "t1": 109,
+   "line": "In the Bay of Fundy in Canada, the water can rise sixteen meters."
+  },
+  {
+   "shot": "S9",
+   "a": 944,
+   "b": 1029,
+   "t0": 0,
+   "t1": 85,
+   "line": "That's as tall as a five- story building, twice a day."
+  },
+  {
+   "shot": "S10",
+   "a": 1029,
+   "b": 1102,
+   "t0": 0,
+   "t1": 73,
+   "line": "Without the Moon, it's barely five."
+  },
+  {
+   "shot": "S11",
+   "a": 1102,
+   "b": 1204,
+   "t0": 0,
+   "t1": 102,
+   "line": "And that's a problem for everything that lives where the sea meets the land."
+  },
+  {
+   "shot": "S12",
+   "a": 1204,
+   "b": 1391,
+   "t0": 0,
+   "t1": 187,
+   "line": "Crabs, mussels, sea stars and snails live in tide pools that fill and drain on the Moon's schedule."
+  },
+  {
+   "shot": "S13",
+   "a": 1391,
+   "b": 1494,
+   "t0": 0,
+   "t1": 103,
+   "line": "With smaller tides, a lot of those pools just dry out."
+  },
+  {
+   "shot": "S14",
+   "a": 1494,
+   "b": 1544,
+   "t0": 0,
+   "t1": 50,
+   "line": "Then there's the deep ocean."
+  },
+  {
+   "shot": "S15",
+   "a": 1544,
+   "b": 1690,
+   "t0": 0,
+   "t1": 146,
+   "line": "Tides do about half the work of stirring it, mixing warm water down and cold water up."
+  },
+  {
+   "shot": "S16",
+   "a": 1690,
+   "b": 1769,
+   "t0": 0,
+   "t1": 79,
+   "line": "That stirring carries heat around the planet."
+  },
+  {
+   "shot": "S17",
+   "a": 1769,
+   "b": 1861,
+   "t0": 0,
+   "t1": 92,
+   "line": "Take half of it away, and over time, ocean currents"
+  },
+  {
+   "shot": "S18",
+   "a": 1861,
+   "b": 1988,
+   "t0": 0,
+   "t1": 127,
+   "line": "and weather can start to change. And some animals use moonlight as a clock."
+  },
+  {
+   "shot": "S19",
+   "a": 1988,
+   "b": 2293,
+   "t0": 0,
+   "t1": 305,
+   "line": "On the Great Barrier Reef, the corals release their eggs all on the same few nights, right after a full Moon in late spring. Every year, it's one of the biggest spawning events on the planet."
+  },
+  {
+   "shot": "S20",
+   "a": 2293,
+   "b": 2363,
+   "t0": 0,
+   "t1": 70,
+   "line": "Without a Moon, that clock is gone."
+  },
+  {
+   "shot": "S21",
+   "a": 2363,
+   "b": 2573,
+   "t0": 0,
+   "t1": 210,
+   "line": "Nobody knows exactly what the corals will do now. Spawn on the wrong night? Spawn out of sync, so the eggs never meet?"
+  },
+  {
+   "shot": "S22",
+   "a": 2573,
+   "b": 2633,
+   "t0": 0,
+   "t1": 60,
+   "line": "Scientists start counting the days."
+  },
+  {
+   "shot": "S23",
+   "a": 2633,
+   "b": 2740,
+   "t0": 0,
+   "t1": 107,
+   "line": "Grandpa stands on the dock, staring at his boat sitting in the mud."
+  },
+  {
+   "shot": "S24",
+   "a": 2740,
+   "b": 2913,
+   "t0": 0,
+   "t1": 173,
+   "line": "'Fifty years, ' he says. 'And the water never stood me up before. '"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "title",
    "key": 30,
-   "len": 90,
+   "len": 97,
    "first": 0,
-   "line": "",
-   "note": "The catch"
+   "line": "Here's the first job the Moon was doing. The tides.",
+   "note": "THE MOON'S JOB #1: THE TIDES"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 40,
+   "len": 74,
+   "first": 97,
+   "line": "The Moon's gravity pulls on the whole Earth.",
+   "note": "the Moon's gravity pulls on the whole Earth"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 60,
+   "len": 129,
+   "first": 171,
+   "line": "But it pulls hardest on the side facing it, and weakest on the far side.",
+   "note": "arrows: strongest near, weakest far"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 80,
+   "len": 213,
+   "first": 300,
+   "line": "So the oceans stretch into two bulges, and as the Earth spins through them, the water rises and falls, about twice a day. The",
+   "note": "two bulges; a town spins through them"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 48,
+   "first": 513,
+   "line": "Sun makes tides too.",
+   "note": "the Sun makes tides too"
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "key": 60,
+   "len": 108,
+   "first": 561,
+   "line": "But its pull on the oceans is less than half as strong as the Moon's.",
+   "note": "MOON 100 vs SUN 46"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 80,
+   "len": 166,
+   "first": 669,
+   "line": "So without the Moon, the tides don't stop. They shrink, to about a third of a big tide today.",
+   "note": "today vs no Moon: a third"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 60,
+   "len": 109,
+   "first": 835,
+   "line": "In the Bay of Fundy in Canada, the water can rise sixteen meters.",
+   "note": "16 M, BAY OF FUNDY"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 60,
+   "len": 85,
+   "first": 944,
+   "line": "That's as tall as a five- story building, twice a day.",
+   "note": "a five-story building, water to the roof"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "key": 40,
+   "len": 73,
+   "first": 1029,
+   "line": "Without the Moon, it's barely five.",
+   "note": "the water drops to 5 m"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 40,
+   "len": 102,
+   "first": 1102,
+   "line": "And that's a problem for everything that lives where the sea meets the land.",
+   "note": "rocks and tide pools where the sea meets the land"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 50,
+   "len": 187,
+   "first": 1204,
+   "line": "Crabs, mussels, sea stars and snails live in tide pools that fill and drain on the Moon's schedule.",
+   "note": "crab, sea star, snails in the pool"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 50,
+   "len": 103,
+   "first": 1391,
+   "line": "With smaller tides, a lot of those pools just dry out.",
+   "note": "the pool dries out, the crab sweats"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 30,
+   "len": 50,
+   "first": 1494,
+   "line": "Then there's the deep ocean.",
+   "note": "the deep ocean, cross-section"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 70,
+   "len": 146,
+   "first": 1544,
+   "line": "Tides do about half the work of stirring it, mixing warm water down and cold water up.",
+   "note": "stirring arrows: tides do HALF"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 50,
+   "len": 79,
+   "first": 1690,
+   "line": "That stirring carries heat around the planet.",
+   "note": "a globe with the currents carrying heat"
+  },
+  {
+   "id": "S17",
+   "size": "graphic",
+   "key": 70,
+   "len": 92,
+   "first": 1769,
+   "line": "Take half of it away, and over time, ocean currents",
+   "note": "half the arrows fade: currents and weather change?"
+  },
+  {
+   "id": "S18",
+   "size": "graphic",
+   "key": 40,
+   "len": 127,
+   "first": 1861,
+   "line": "and weather can start to change. And some animals use moonlight as a clock.",
+   "note": "the Moon as a clock face"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 80,
+   "len": 305,
+   "first": 1988,
+   "line": "On the Great Barrier Reef, the corals release their eggs all on the same few nights, right after a full Moon in late spring. Every year, it's one of the biggest spawning events on the planet.",
+   "note": "the corals release their eggs together"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 40,
+   "len": 70,
+   "first": 2293,
+   "line": "Without a Moon, that clock is gone.",
+   "note": "the clock face goes blank"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 40,
+   "len": 210,
+   "first": 2363,
+   "line": "Nobody knows exactly what the corals will do now. Spawn on the wrong night? Spawn out of sync, so the eggs never meet?",
+   "note": "the reef at night, question marks"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 40,
+   "len": 60,
+   "first": 2573,
+   "line": "Scientists start counting the days.",
+   "note": "a calendar, days being crossed off"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 40,
+   "len": 107,
+   "first": 2633,
+   "line": "Grandpa stands on the dock, staring at his boat sitting in the mud.",
+   "note": "grandpa on the dock, the boat in the mud"
+  },
+  {
+   "id": "S24",
+   "size": "close-up",
+   "key": 30,
+   "len": 173,
+   "first": 2740,
+   "line": "'Fifty years, ' he says. 'And the water never stood me up before. '",
+   "note": "grandpa: never stood me up before"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c04/voice.wav"
+ }
 }

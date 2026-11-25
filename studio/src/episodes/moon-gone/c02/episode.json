@@ -41,19 +41,194 @@
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "set": "roof night",
+   "note": "the title over the empty sky: HERE'S THE DEAL",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "NO EXPLOSION",
+   "key": 20
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "NO ROCKS · NO CRATER",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Moon outline just stops existing",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "bedroom",
+   "note": "you in bed: you don't float off",
+   "key": 40
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "bathroom",
+   "note": "the scale reads the same",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "Earth keeps going round the Sun",
+   "key": 60
+  },
+  {
+   "id": "S8",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The premise and its rules"
+   "set": "street day",
+   "note": "a normal morning",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "kitchen",
+   "note": "Mom checks the news, shrugs",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "street day",
+   "note": "the bus stop: still late",
+   "key": 40
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "the Moon's jobs: TIDES · NIGHT LIGHT · CLOCK · BALANCE",
+   "key": 60
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "set": "schematic",
+   "note": "the time card stamped every night",
+   "key": 50
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "harbor",
+   "note": "Mo's grandpa on his boat, 50 years",
+   "key": 40
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "set": "harbor",
+   "note": "the tide table",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "set": "beach dusk",
+   "note": "Ellie at the orange fence",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "set": "beach dusk",
+   "note": "SEA TURTLE NEST sign",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "beach dusk",
+   "note": "the sand of the nest, pushing in",
+   "key": 50
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "There's"
+  },
+  {
+   "shot": "S3",
+   "at": "falling"
+  },
+  {
+   "shot": "S4",
+   "at": "The"
+  },
+  {
+   "shot": "S5",
+   "at": "And"
+  },
+  {
+   "shot": "S6",
+   "at": "Your#2"
+  },
+  {
+   "shot": "S7",
+   "at": "The#2"
+  },
+  {
+   "shot": "S8",
+   "at": "So"
+  },
+  {
+   "shot": "S9",
+   "at": "Your"
+  },
+  {
+   "shot": "S10",
+   "at": "School"
+  },
+  {
+   "shot": "S11",
+   "at": "But"
+  },
+  {
+   "shot": "S12",
+   "at": "because"
+  },
+  {
+   "shot": "S13",
+   "at": "Mo's"
+  },
+  {
+   "shot": "S14",
+   "at": "He"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "A"
+  },
+  {
+   "shot": "S17",
+   "at": "Remember"
   }
  ],
- "end": "f:90",
  "fx": [],
  "title": [
   "WHAT IF YOU COULD",

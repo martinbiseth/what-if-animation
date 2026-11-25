@@ -1,16 +1,136 @@
 {
  "slug": "moon-gone/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1198,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 68,
+   "t0": 0,
+   "t1": 68,
+   "line": "It's nine forty- seven on a Tuesday night."
+  },
+  {
+   "shot": "S2",
+   "a": 68,
+   "b": 157,
+   "t0": 0,
+   "t1": 89,
+   "line": "You're on the roof with your best friend Mo and a borrowed telescope,"
+  },
+  {
+   "shot": "S3",
+   "a": 157,
+   "b": 264,
+   "t0": 0,
+   "t1": 107,
+   "line": "because your little sister Ellie needs a drawing of the full Moon for school."
+  },
+  {
+   "shot": "S4",
+   "a": 264,
+   "b": 323,
+   "t0": 0,
+   "t1": 59,
+   "line": "You look down to sharpen your pencil."
+  },
+  {
+   "shot": "S5",
+   "a": 323,
+   "b": 359,
+   "t0": 0,
+   "t1": 36,
+   "line": "You look back up."
+  },
+  {
+   "shot": "S6",
+   "a": 359,
+   "b": 398,
+   "t0": 0,
+   "t1": 39,
+   "line": "And the Moon is gone."
+  },
+  {
+   "shot": "S7",
+   "a": 398,
+   "b": 427,
+   "t0": 0,
+   "t1": 29,
+   "line": "Not behind a cloud."
+  },
+  {
+   "shot": "S8",
+   "a": 427,
+   "b": 464,
+   "t0": 0,
+   "t1": 37,
+   "line": "Not an eclipse."
+  },
+  {
+   "shot": "S9",
+   "a": 464,
+   "b": 560,
+   "t0": 0,
+   "t1": 96,
+   "line": "There's just a round, black hole in the sky where it used to be."
+  },
+  {
+   "shot": "S10",
+   "a": 560,
+   "b": 650,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "Down the street, every dog starts barking at once."
+  },
+  {
+   "shot": "S11",
+   "a": 650,
+   "b": 708,
+   "t0": 0,
+   "t1": 58,
+   "line": "Every phone in the neighborhood lights up."
+  },
+  {
+   "shot": "S12",
+   "a": 708,
+   "b": 826,
+   "t0": 0,
+   "t1": 118,
+   "line": "Mo slowly lowers the telescope. 'Okay, ' he says."
+  },
+  {
+   "shot": "S13",
+   "a": 826,
+   "b": 858,
+   "t0": 0,
+   "t1": 32,
+   "line": "'Where did it go? '"
+  },
+  {
+   "shot": "S14",
+   "a": 858,
+   "b": 979,
+   "t0": 0,
+   "t1": 121,
+   "line": "And by the next morning, the ocean at the end of your street hasn't come back in."
+  },
+  {
+   "shot": "S15",
+   "a": 979,
+   "b": 1083,
+   "t0": 0,
+   "t1": 104,
+   "line": "So what would really happen if the Moon disappeared tonight? The"
+  },
+  {
+   "shot": "S16",
+   "a": 1083,
+   "b": 1198,
+   "t0": 0,
+   "t1": 115,
+   "line": "first night, the first year, and a million years from now."
   }
  ],
  "shots": [
@@ -18,12 +138,149 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 90,
+   "len": 68,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "It's nine forty- seven on a Tuesday night.",
+   "note": "the city at night, a huge full Moon, 9:47 PM"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 40,
+   "len": 89,
+   "first": 68,
+   "line": "You're on the roof with your best friend Mo and a borrowed telescope,",
+   "note": "you and Mo at the telescope"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 40,
+   "len": 107,
+   "first": 157,
+   "line": "because your little sister Ellie needs a drawing of the full Moon for school.",
+   "note": "Ellie's sketchpad: MOON PROJECT, half a moon drawn"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 20,
+   "len": 59,
+   "first": 264,
+   "line": "You look down to sharpen your pencil.",
+   "note": "you look down, sharpening the pencil"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 20,
+   "len": 36,
+   "first": 323,
+   "line": "You look back up.",
+   "note": "you look back up"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 20,
+   "len": 39,
+   "first": 359,
+   "line": "And the Moon is gone.",
+   "note": "the Moon blinks out of existence"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 30,
+   "len": 29,
+   "first": 398,
+   "line": "Not behind a cloud.",
+   "note": "a cloud drifts by: nothing behind it"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 20,
+   "len": 37,
+   "first": 427,
+   "line": "Not an eclipse.",
+   "note": "ECLIPSE? crossed out"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 40,
+   "len": 96,
+   "first": 464,
+   "line": "There's just a round, black hole in the sky where it used to be.",
+   "note": "a round black hole where it was"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 30,
+   "len": 90,
+   "first": 560,
+   "line": "Down the street, every dog starts barking at once.",
+   "note": "every dog barks: WOOF WOOF"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 58,
+   "first": 650,
+   "line": "Every phone in the neighborhood lights up.",
+   "note": "every window lights up with a phone"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 118,
+   "first": 708,
+   "line": "Mo slowly lowers the telescope. 'Okay, ' he says.",
+   "note": "Mo slowly lowers the telescope"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 20,
+   "len": 32,
+   "first": 826,
+   "line": "'Where did it go? '",
+   "note": "Mo: where did it go?"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 121,
+   "first": 858,
+   "line": "And by the next morning, the ocean at the end of your street hasn't come back in.",
+   "note": "next morning: the sea far out, boats on the mud"
+  },
+  {
+   "id": "S15",
+   "size": "title",
+   "key": 40,
+   "len": 104,
+   "first": 979,
+   "line": "So what would really happen if the Moon disappeared tonight? The",
+   "note": "WHAT IF THE MOON DISAPPEARED TONIGHT?"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 60,
+   "len": 115,
+   "first": 1083,
+   "line": "first night, the first year, and a million years from now.",
+   "note": "NIGHT 1 / YEAR 1 / 1,000,000 YEARS"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c01/voice.wav"
+ }
 }

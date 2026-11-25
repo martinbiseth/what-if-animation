@@ -44,18 +44,227 @@
  "shots": [
   {
    "id": "S1",
+   "size": "insert",
+   "set": "beach night",
+   "note": "one by one the turtles turn around",
+   "key": 40
+  },
+  {
+   "id": "S2",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cliffhanger"
+   "set": "beach night",
+   "note": "they scramble into the waves",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "beach night",
+   "note": "Ellie counting: 112",
+   "key": 50
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "Ellie crying and laughing",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "a turtle swims away and back: 30 YEARS",
+   "key": 60
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "Ellie looks up: how will they find it?",
+   "key": 40
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "beach night",
+   "note": "grandpa looks at his watch and frowns",
+   "key": 40
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "grandpa: that's not right",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "beach night",
+   "note": "the water rushes in, fast",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "beach night",
+   "note": "the tide post: water climbs past the line",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "Mo looks up",
+   "key": 20
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "sky",
+   "note": "one patch of sky with no stars",
+   "key": 80
+  },
+  {
+   "id": "S13",
+   "size": "title",
+   "set": "dark",
+   "note": "IS ANY OF THIS REAL?",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "SUN'S TIDES: 46% OF THE MOON'S",
+   "key": 60
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "BAY OF FUNDY: 16 M",
+   "key": 50
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "CORALS TIME TO THE MOON · HATCHLINGS TO THE BRIGHTEST HORIZON",
+   "key": 70
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "beach night",
+   "note": "LIGHTS OUT: TURTLE NESTING SEASON",
+   "key": 40
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "you on the dark beach",
+   "key": 30
+  },
+  {
+   "id": "S19",
+   "size": "title",
+   "set": "dark",
+   "note": "WHAT'S PULLING THE OCEAN?",
+   "key": 30
+  },
+  {
+   "id": "S20",
+   "size": "end card",
+   "set": "sky",
+   "note": "the dark spot · SUBSCRIBE",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "They"
+  },
+  {
+   "shot": "S3",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S4",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S5",
+   "at": "The#2"
+  },
+  {
+   "shot": "S6",
+   "at": "Then"
+  },
+  {
+   "shot": "S7",
+   "at": "But"
+  },
+  {
+   "shot": "S8",
+   "at": "That's"
+  },
+  {
+   "shot": "S9",
+   "at": "The"
+  },
+  {
+   "shot": "S10",
+   "at": "Higher"
+  },
+  {
+   "shot": "S11",
+   "at": "Mo"
+  },
+  {
+   "shot": "S12",
+   "at": "Right"
+  },
+  {
+   "shot": "S13",
+   "at": "So"
+  },
+  {
+   "shot": "S14",
+   "at": "The#2"
+  },
+  {
+   "shot": "S15",
+   "at": "The#2"
+  },
+  {
+   "shot": "S16",
+   "at": "Corals"
+  },
+  {
+   "shot": "S17",
+   "at": "Which"
+  },
+  {
+   "shot": "S18",
+   "at": "Would"
+  },
+  {
+   "shot": "S19",
+   "at": "And"
+  },
+  {
+   "shot": "S20",
+   "at": "And"
   }
  ],
- "end": "f:90",
- "fx": []
+ "fx": [],
+ "tail": 2.5
 }

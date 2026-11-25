@@ -60,17 +60,280 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: The choice"
+   "set": "beach night",
+   "note": "the beach after dark, the boardwalk lit behind",
+   "key": 40
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "beach night",
+   "note": "Ellie inside the orange fence, flashlight off",
+   "key": 50
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "beach night",
+   "note": "the sand starts to move",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "a tiny flipper, then another",
+   "key": 40
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "set": "beach night",
+   "note": "a hundred hatchlings boil out",
+   "key": 50
+  },
+  {
+   "id": "S6",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "HOW HATCHLINGS FIND THE SEA",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "they crawl to the BRIGHTEST horizon",
+   "key": 50
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "beach moon",
+   "note": "the sea glittering under a moon, turtles to the water",
+   "key": 60
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "beach night",
+   "note": "no Moon: the sea pitch black",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "boardwalk",
+   "note": "the boardwalk like a stadium: MOON VIGIL",
+   "key": 60
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "set": "beach night",
+   "note": "the hatchlings turn around",
+   "key": 40
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "beach night",
+   "note": "they crawl up the sand toward the lights",
+   "key": 60
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "Ellie: they're going the wrong way!",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "beach night",
+   "note": "people from the vigil run over",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "beach night",
+   "note": "phone flashlights switch on",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "wide",
+   "set": "beach night",
+   "note": "even more turtles turn to the lights",
+   "key": 40
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "you: can't carry a hundred",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "title",
+   "set": "dark",
+   "note": "THEY NEED THE DARK",
+   "key": 20
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "set": "beach night",
+   "note": "you climb the lifeguard tower",
+   "key": 40
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "set": "beach night",
+   "note": "you shout: LIGHTS OFF!",
+   "key": 30
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "boardwalk",
+   "note": "nobody moves",
+   "key": 30
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "boardwalk",
+   "note": "Mo flips the floodlight switch",
+   "key": 40
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "boardwalk",
+   "note": "grandpa's truck lights go off",
+   "key": 30
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "set": "boardwalk",
+   "note": "one by one the phones and lanterns go out",
+   "key": 60
+  },
+  {
+   "id": "S25",
+   "size": "wide",
+   "set": "beach night",
+   "note": "the faint starlight over the sea",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S3",
+   "at": "The#3"
+  },
+  {
+   "shot": "S4",
+   "at": "Then"
+  },
+  {
+   "shot": "S5",
+   "at": "Then#2"
+  },
+  {
+   "shot": "S6",
+   "at": "Here's"
+  },
+  {
+   "shot": "S7",
+   "at": "They"
+  },
+  {
+   "shot": "S8",
+   "at": "For"
+  },
+  {
+   "shot": "S9",
+   "at": "But"
+  },
+  {
+   "shot": "S10",
+   "at": "And"
+  },
+  {
+   "shot": "S11",
+   "at": "And#3"
+  },
+  {
+   "shot": "S12",
+   "at": "All"
+  },
+  {
+   "shot": "S13",
+   "at": "Ellie"
+  },
+  {
+   "shot": "S14",
+   "at": "A"
+  },
+  {
+   "shot": "S15",
+   "at": "They#2"
+  },
+  {
+   "shot": "S16",
+   "at": "Now"
+  },
+  {
+   "shot": "S17",
+   "at": "You"
+  },
+  {
+   "shot": "S18",
+   "at": "They#3"
+  },
+  {
+   "shot": "S19",
+   "at": "So"
+  },
+  {
+   "shot": "S20",
+   "at": "Everybody"
+  },
+  {
+   "shot": "S21",
+   "at": "For"
+  },
+  {
+   "shot": "S22",
+   "at": "Mo"
+  },
+  {
+   "shot": "S23",
+   "at": "Grandpa"
+  },
+  {
+   "shot": "S24",
+   "at": "One"
+  },
+  {
+   "shot": "S25",
+   "at": "And#2"
   }
  ],
- "end": "f:90",
  "fx": []
 }

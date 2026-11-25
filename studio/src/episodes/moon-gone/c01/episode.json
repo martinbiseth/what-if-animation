@@ -38,18 +38,182 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "rooftop",
-   "key": 30,
-   "note": "placeholder card: Cold open"
+   "set": "roof night",
+   "note": "the city at night, a huge full Moon, 9:47 PM",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "roof night",
+   "note": "you and Mo at the telescope",
+   "key": 40
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "set": "roof night",
+   "note": "Ellie's sketchpad: MOON PROJECT, half a moon drawn",
+   "key": 40
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "roof night",
+   "note": "you look down, sharpening the pencil",
+   "key": 20
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "roof night",
+   "note": "you look back up",
+   "key": 20
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "set": "sky",
+   "note": "the Moon blinks out of existence",
+   "key": 20
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "sky",
+   "note": "a cloud drifts by: nothing behind it",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "ECLIPSE? crossed out",
+   "key": 20
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "sky",
+   "note": "a round black hole where it was",
+   "key": 40
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "street night",
+   "note": "every dog barks: WOOF WOOF",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "set": "street night",
+   "note": "every window lights up with a phone",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "roof night",
+   "note": "Mo slowly lowers the telescope",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "roof night",
+   "note": "Mo: where did it go?",
+   "key": 20
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "harbor",
+   "note": "next morning: the sea far out, boats on the mud",
+   "key": 40
+  },
+  {
+   "id": "S15",
+   "size": "title",
+   "set": "sky",
+   "note": "WHAT IF THE MOON DISAPPEARED TONIGHT?",
+   "key": 40
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "schematic",
+   "note": "NIGHT 1 / YEAR 1 / 1,000,000 YEARS",
+   "key": 60
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "You're"
+  },
+  {
+   "shot": "S3",
+   "at": "because"
+  },
+  {
+   "shot": "S4",
+   "at": "You"
+  },
+  {
+   "shot": "S5",
+   "at": "You"
+  },
+  {
+   "shot": "S6",
+   "at": "And"
+  },
+  {
+   "shot": "S7",
+   "at": "Not"
+  },
+  {
+   "shot": "S8",
+   "at": "Not"
+  },
+  {
+   "shot": "S9",
+   "at": "There's"
+  },
+  {
+   "shot": "S10",
+   "at": "Down"
+  },
+  {
+   "shot": "S11",
+   "at": "Every#2"
+  },
+  {
+   "shot": "S12",
+   "at": "Mo"
+  },
+  {
+   "shot": "S13",
+   "at": "Where"
+  },
+  {
+   "shot": "S14",
+   "at": "And"
+  },
+  {
+   "shot": "S15",
+   "at": "So"
+  },
+  {
+   "shot": "S16",
+   "at": "first"
   }
  ],
- "end": "f:90",
  "fx": [],
  "pace": {
   "min_cuts": 24,

@@ -1,29 +1,303 @@
 {
  "slug": "moon-gone/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD ",
  "fps": 30,
- "total": 90,
+ "total": 1419,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 31,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 31,
+   "line": "Here's the deal."
+  },
+  {
+   "shot": "S2",
+   "a": 31,
+   "b": 79,
+   "t0": 0,
+   "t1": 48,
+   "line": "There's no explosion. No"
+  },
+  {
+   "shot": "S3",
+   "a": 79,
+   "b": 156,
+   "t0": 0,
+   "t1": 77,
+   "line": "falling rocks. No giant crater."
+  },
+  {
+   "shot": "S4",
+   "a": 156,
+   "b": 211,
+   "t0": 0,
+   "t1": 55,
+   "line": "The Moon just stops existing."
+  },
+  {
+   "shot": "S5",
+   "a": 211,
+   "b": 312,
+   "t0": 0,
+   "t1": 101,
+   "line": "And some things don't change at all. You don't float off your bed."
+  },
+  {
+   "shot": "S6",
+   "a": 312,
+   "b": 360,
+   "t0": 0,
+   "t1": 48,
+   "line": "Your weight stays the same."
+  },
+  {
+   "shot": "S7",
+   "a": 360,
+   "b": 474,
+   "t0": 0,
+   "t1": 114,
+   "line": "The Earth keeps going around the Sun, and the Sun still comes up in the morning."
+  },
+  {
+   "shot": "S8",
+   "a": 474,
+   "b": 547,
+   "t0": 0,
+   "t1": 73,
+   "line": "So at first, it doesn't feel like a big deal."
+  },
+  {
+   "shot": "S9",
+   "a": 547,
+   "b": 643,
+   "t0": 0,
+   "t1": 96,
+   "line": "Your mom checks the news, shrugs, and makes breakfast."
+  },
+  {
+   "shot": "S10",
+   "a": 643,
+   "b": 725,
+   "t0": 0,
+   "t1": 82,
+   "line": "School is still on. The bus is still late."
+  },
+  {
+   "shot": "S11",
+   "a": 725,
+   "b": 835,
+   "t0": 0,
+   "t1": 110,
+   "line": "But the Moon was doing a lot of jobs. Nobody ever had to think about them,"
+  },
+  {
+   "shot": "S12",
+   "a": 835,
+   "b": 900,
+   "t0": 0,
+   "t1": 65,
+   "line": "because the Moon always showed up for work."
+  },
+  {
+   "shot": "S13",
+   "a": 900,
+   "b": 998,
+   "t0": 0,
+   "t1": 98,
+   "line": "Mo's grandpa has fished the same bay for fifty years."
+  },
+  {
+   "shot": "S14",
+   "a": 998,
+   "b": 1086,
+   "t0": 0,
+   "t1": 88,
+   "line": "He reads the tide table the way other people read the weather."
+  },
+  {
+   "shot": "S15",
+   "a": 1086,
+   "b": 1196,
+   "t0": 0,
+   "t1": 110,
+   "line": "And Ellie has been checking on something at the beach every day for two months."
+  },
+  {
+   "shot": "S16",
+   "a": 1196,
+   "b": 1332,
+   "t0": 0,
+   "t1": 136,
+   "line": "A sea turtle nest, behind a little orange fence. It's due to hatch any night now."
+  },
+  {
+   "shot": "S17",
+   "a": 1332,
+   "b": 1419,
+   "t0": 0,
+   "t1": 87,
+   "line": "Remember that nest. It's going to matter."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "title",
+   "key": 30,
+   "len": 31,
+   "first": 0,
+   "line": "Here's the deal.",
+   "note": "the title over the empty sky: HERE'S THE DEAL"
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 20,
+   "len": 48,
+   "first": 31,
+   "line": "There's no explosion. No",
+   "note": "NO EXPLOSION"
+  },
+  {
+   "id": "S3",
+   "size": "graphic",
+   "key": 40,
+   "len": 77,
+   "first": 79,
+   "line": "falling rocks. No giant crater.",
+   "note": "NO ROCKS · NO CRATER"
+  },
+  {
+   "id": "S4",
+   "size": "graphic",
+   "key": 40,
+   "len": 55,
+   "first": 156,
+   "line": "The Moon just stops existing.",
+   "note": "the Moon outline just stops existing"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 40,
+   "len": 101,
+   "first": 211,
+   "line": "And some things don't change at all. You don't float off your bed.",
+   "note": "you in bed: you don't float off"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 48,
+   "first": 312,
+   "line": "Your weight stays the same.",
+   "note": "the scale reads the same"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 60,
+   "len": 114,
+   "first": 360,
+   "line": "The Earth keeps going around the Sun, and the Sun still comes up in the morning.",
+   "note": "Earth keeps going round the Sun"
+  },
+  {
+   "id": "S8",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "len": 73,
+   "first": 474,
+   "line": "So at first, it doesn't feel like a big deal.",
+   "note": "a normal morning"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 40,
+   "len": 96,
+   "first": 547,
+   "line": "Your mom checks the news, shrugs, and makes breakfast.",
+   "note": "Mom checks the news, shrugs"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 40,
+   "len": 82,
+   "first": 643,
+   "line": "School is still on. The bus is still late.",
+   "note": "the bus stop: still late"
+  },
+  {
+   "id": "S11",
+   "size": "graphic",
+   "key": 60,
+   "len": 110,
+   "first": 725,
+   "line": "But the Moon was doing a lot of jobs. Nobody ever had to think about them,",
+   "note": "the Moon's jobs: TIDES · NIGHT LIGHT · CLOCK · BALANCE"
+  },
+  {
+   "id": "S12",
+   "size": "insert",
+   "key": 50,
+   "len": 65,
+   "first": 835,
+   "line": "because the Moon always showed up for work.",
+   "note": "the time card stamped every night"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 40,
+   "len": 98,
+   "first": 900,
+   "line": "Mo's grandpa has fished the same bay for fifty years.",
+   "note": "Mo's grandpa on his boat, 50 years"
+  },
+  {
+   "id": "S14",
+   "size": "insert",
+   "key": 40,
+   "len": 88,
+   "first": 998,
+   "line": "He reads the tide table the way other people read the weather.",
+   "note": "the tide table"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 40,
+   "len": 110,
+   "first": 1086,
+   "line": "And Ellie has been checking on something at the beach every day for two months.",
+   "note": "Ellie at the orange fence"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 40,
+   "len": 136,
+   "first": 1196,
+   "line": "A sea turtle nest, behind a little orange fence. It's due to hatch any night now.",
+   "note": "SEA TURTLE NEST sign"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 50,
+   "len": 87,
+   "first": 1332,
+   "line": "Remember that nest. It's going to matter.",
+   "note": "the sand of the nest, pushing in"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "moon-gone/c02/voice.wav"
+ }
 }
