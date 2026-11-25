@@ -233,5 +233,176 @@
  "title": [
   "WHAT IF YOU COULD",
   ""
- ]
+ ],
+ "sound": {
+  "clips": {
+   "alarm": [
+    "a digital bedside alarm clock beeping, fast repeated beeps",
+    1.5
+   ],
+   "car_idle": [
+    "a car engine idling outside a house, low steady rumble",
+    4.0
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "night_desert": [
+    "a quiet desert at night, soft breeze, distant crickets, no voices",
+    10.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.18
+   ],
+   [
+    "S2+6",
+    "scratch",
+    0.25
+   ],
+   [
+    "S3+6",
+    "pop",
+    0.3
+   ],
+   [
+    "S4+10",
+    "sparkle",
+    0.25
+   ],
+   [
+    "S5+0",
+    "room_tone",
+    0.12,
+    "onset",
+    "S7"
+   ],
+   [
+    "S6+8",
+    "ding",
+    0.25
+   ],
+   [
+    "S7+0",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S8+0",
+    "alarm",
+    0.2
+   ],
+   [
+    "S9+20",
+    "paper",
+    0.3
+   ],
+   [
+    "S10+0",
+    "car_idle",
+    0.12,
+    "onset",
+    "S11"
+   ],
+   [
+    "S11+0",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S12+8",
+    "cash",
+    0.25
+   ],
+   [
+    "S13+0",
+    "river",
+    0.2,
+    "onset",
+    "S15"
+   ],
+   [
+    "S14+0",
+    "paper",
+    0.3
+   ],
+   [
+    "S15+0",
+    "night_desert",
+    0.15,
+    "onset",
+    "S17"
+   ],
+   [
+    "S16+0",
+    "pop",
+    0.25
+   ],
+   [
+    "S17+20",
+    "rumble_syn",
+    0.2
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
+ }
 }

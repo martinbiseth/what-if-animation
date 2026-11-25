@@ -335,5 +335,229 @@
    "at": "And#2"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crowd_cheer": [
+    "a large outdoor crowd cheering and laughing happily, many voices, no clear words",
+    2.5
+   ],
+   "crowd_shout": [
+    "a large crowd of workers outdoors shouting in alarm and surprise, many voices, no clear words",
+    2.5
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "kids_cheer": [
+    "a group of children cheering and clapping outdoors",
+    2.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pool_syn": [
+    "procedural: calm pool water lapping with a soft filter hum",
+    8.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "pool_syn",
+    0.15,
+    "onset",
+    "S3"
+   ],
+   [
+    "S1+0",
+    "crowd_cheer",
+    0.08
+   ],
+   [
+    "S3+0",
+    "rumble_syn",
+    0.2
+   ],
+   [
+    "S4+0",
+    "pop",
+    0.25
+   ],
+   [
+    "S5+0",
+    "kids_cheer",
+    0.12
+   ],
+   [
+    "S6+0",
+    "card_hit",
+    0.18
+   ],
+   [
+    "S8+0",
+    "pool_syn",
+    0.18,
+    "onset",
+    "S10"
+   ],
+   [
+    "S10+0",
+    "crowd_cheer",
+    0.18
+   ],
+   [
+    "S11+14",
+    "drone_hit",
+    0.18
+   ],
+   [
+    "S13+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "S14+0",
+    "crowd_shout",
+    0.15
+   ],
+   [
+    "S15+4",
+    "pop",
+    0.2
+   ],
+   [
+    "S15+12",
+    "pop",
+    0.2
+   ],
+   [
+    "S15+20",
+    "pop",
+    0.2
+   ],
+   [
+    "S16+0",
+    "heartbeat",
+    0.2
+   ],
+   [
+    "S18+0",
+    "card_hit",
+    0.2
+   ],
+   [
+    "S19+0",
+    "step",
+    0.25
+   ],
+   [
+    "S19+14",
+    "step",
+    0.25
+   ],
+   [
+    "S20+8",
+    "title_boom",
+    0.2
+   ],
+   [
+    "S21+0",
+    "pool_syn",
+    0.15,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+16",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S22+17",
+    "power_down",
+    0.3
+   ],
+   [
+    "S23+12",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S24+0",
+    "power_off",
+    0.2
+   ],
+   [
+    "S24+20",
+    "power_off",
+    0.2
+   ],
+   [
+    "S25+0",
+    "pool_syn",
+    0.2
+   ],
+   [
+    "S25+0",
+    "sparkle",
+    0.2
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true,
+   "until": "S21"
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
+ }
 }

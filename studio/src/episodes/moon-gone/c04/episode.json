@@ -340,5 +340,176 @@
    "at": "Fifty"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "pool_syn": [
+    "procedural: calm pool water lapping with a soft filter hum",
+    8.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.18
+   ],
+   [
+    "S1+0",
+    "river",
+    0.15
+   ],
+   [
+    "S2+6",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S4+0",
+    "pool_syn",
+    0.15,
+    "onset",
+    "S5"
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.2
+   ],
+   [
+    "S6+2",
+    "select_draw",
+    0.25
+   ],
+   [
+    "S7+14",
+    "select_draw",
+    0.25
+   ],
+   [
+    "S8+0",
+    "pool_syn",
+    0.2,
+    "onset",
+    "S10"
+   ],
+   [
+    "S8+0",
+    "counter_tick",
+    0.2
+   ],
+   [
+    "S10+24",
+    "drone_hit",
+    0.12
+   ],
+   [
+    "S11+0",
+    "river",
+    0.2,
+    "onset",
+    "S14"
+   ],
+   [
+    "S14+0",
+    "rumble_syn",
+    0.18
+   ],
+   [
+    "S15+0",
+    "pool_syn",
+    0.18,
+    "onset",
+    "S16"
+   ],
+   [
+    "S17+30",
+    "pop",
+    0.25
+   ],
+   [
+    "S18+0",
+    "tick",
+    0.2
+   ],
+   [
+    "S19+0",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S20+0",
+    "power_off",
+    0.3
+   ],
+   [
+    "S22+4",
+    "counter_tick",
+    0.2
+   ],
+   [
+    "S23+0",
+    "river",
+    0.18,
+    "onset",
+    "S24"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
+ }
 }

@@ -349,6 +349,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "moon-gone/c07/voice.wav"
+  "voice": "moon-gone/c07/voice.wav",
+  "sfx": "moon-gone/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.171,
+  "music": "moon-gone/c07/music.wav",
+  "musicVol": 0.0607
  }
 }

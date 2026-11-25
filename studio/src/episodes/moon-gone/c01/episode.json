@@ -218,5 +218,165 @@
  "pace": {
   "min_cuts": 24,
   "max_hold": 4
+ },
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "crowd_shout": [
+    "a large crowd of workers outdoors shouting in alarm and surprise, many voices, no clear words",
+    2.5
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "roof_wind",
+    0.2,
+    "onset",
+    "S6"
+   ],
+   [
+    "S2+10",
+    "step",
+    0.25
+   ],
+   [
+    "S3+6",
+    "paper",
+    0.3
+   ],
+   [
+    "S6+0",
+    "power_off",
+    0.3
+   ],
+   [
+    "S6+2",
+    "drone_hit",
+    0.25
+   ],
+   [
+    "S7+0",
+    "whoosh",
+    0.25
+   ],
+   [
+    "S8+6",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S9+0",
+    "drone",
+    0.15,
+    "onset",
+    "S12"
+   ],
+   [
+    "S10+0",
+    "crowd_shout",
+    0.25
+   ],
+   [
+    "S11+0",
+    "notify",
+    0.3
+   ],
+   [
+    "S11+8",
+    "buzz",
+    0.3
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.2
+   ],
+   [
+    "S14+0",
+    "river",
+    0.18,
+    "onset",
+    "S15"
+   ],
+   [
+    "S15+0",
+    "title_boom",
+    0.25
+   ],
+   [
+    "S16+0",
+    "card_hit",
+    0.2
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true,
+   "until": "S6"
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
  }
 }

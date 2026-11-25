@@ -3,8 +3,8 @@
  "slug": "moon-gone",
  "topic": "What if the Moon disappeared tonight?",
  "title": [
-  "WHAT IF YOU COULD",
-  ""
+  "WHAT IF THE MOON",
+  "DISAPPEARED TONIGHT?"
  ],
  "target_seconds": 540,
  "defaults": {
@@ -32,57 +32,74 @@
  "chapters": [
   {
    "slug": "c01",
-   "name": "Cold open",
+   "name": "The night the Moon vanished",
    "words": 130
   },
   {
    "slug": "c02",
-   "name": "The premise and its rules",
+   "name": "The rules (and Mo's grandpa)",
    "words": 120
   },
   {
    "slug": "c03",
-   "name": "The fun part",
+   "name": "The darkest night ever",
    "words": 260
   },
   {
    "slug": "c04",
-   "name": "The catch",
+   "name": "Job #1: the tides",
    "words": 260
   },
   {
    "slug": "c05",
-   "name": "Someone notices",
+   "name": "Someone finally notices",
    "words": 200
   },
   {
    "slug": "c06",
-   "name": "The choice",
+   "name": "The hatchlings and the lights",
    "words": 200
   },
   {
    "slug": "c07",
-   "name": "Cliffhanger",
+   "name": "Something is still pulling",
    "words": 130
   }
  ],
  "youtube": {
-  "title": "What if the Moon disappeared tonight?",
+  "title": "What If the Moon Disappeared Tonight?",
   "tags": [
    "what if",
-   "animation",
-   "science"
+   "what if animation",
+   "what if the moon disappeared",
+   "moon disappeared",
+   "no moon",
+   "what if there was no moon",
+   "moon",
+   "tides",
+   "sea turtles",
+   "sea turtle hatchlings",
+   "coral spawning",
+   "earth tilt",
+   "science animation",
+   "space animation",
+   "animated story",
+   "what would happen if",
+   "astronomy",
+   "bay of fundy",
+   "cliffhanger",
+   "classroom 4b"
   ],
   "category": 27,
   "language": "en",
   "privacy": "private",
   "made_for_kids": false,
   "synthetic_media": false,
-  "intro": "One line on what the episode is about, for the top of the description.",
+  "intro": "At 9:47 PM the Moon simply blinks out. No explosion, no rocks, just a black hole in the sky where it used to be. At first it's beautiful: the darkest night you've ever seen and the Milky Way across the whole sky. Then the tides shrink, the corals lose their calendar, and a hundred baby sea turtles crawl the wrong way.\n\nAn original animated story with original characters. The science behind it is real; sources are in the chapter notes and the pinned comment.",
   "thumbnail": {
-   "chapter": "c02",
-   "frame": 60
+   "composition": "MoonGoneThumb"
   },
-  "midroll_gap": 120
+  "midroll_gap": 120,
+  "pinned_comment": "Would you have turned off the lights? 🐢👇\n\nAnd what do you think is still pulling on the ocean? Best theory gets pinned before Part 2.\n\nThe science is real: the Sun's pull on the tides is less than half the Moon's (NOAA), the Bay of Fundy rises about 16 m, and hatchlings crawl toward the brightest horizon, which is why beach towns turn the lights off in nesting season.\n\n🔔 Subscribe and turn on notifications so you don't miss what's hiding in that dark spot in the sky."
  }
 }

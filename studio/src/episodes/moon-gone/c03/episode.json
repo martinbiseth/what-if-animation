@@ -329,5 +329,212 @@
    "at": "Grandpa's"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "cash": [
+    "an old mechanical cash register ding and drawer",
+    1.2
+   ],
+   "class_murmur": [
+    "a quiet classroom murmur, kids whispering, chairs shuffling",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "crowd_cheer": [
+    "a large outdoor crowd cheering and laughing happily, many voices, no clear words",
+    2.5
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "night_desert": [
+    "a quiet desert at night, soft breeze, distant crickets, no voices",
+    10.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "shutter": [
+    "a smartphone camera shutter click",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.2
+   ],
+   [
+    "S2+20",
+    "ding",
+    0.25
+   ],
+   [
+    "S3+0",
+    "night_desert",
+    0.12,
+    "onset",
+    "S6"
+   ],
+   [
+    "S5+0",
+    "sparkle",
+    0.25
+   ],
+   [
+    "S6+6",
+    "crowd_cheer",
+    0.15
+   ],
+   [
+    "S7+0",
+    "night_desert",
+    0.12,
+    "onset",
+    "S11"
+   ],
+   [
+    "S8+4",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S9+10",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S10+10",
+    "cash",
+    0.3
+   ],
+   [
+    "S11+0",
+    "notify",
+    0.2
+   ],
+   [
+    "S11+10",
+    "buzz",
+    0.15
+   ],
+   [
+    "S12+0",
+    "shutter",
+    0.3
+   ],
+   [
+    "S13+10",
+    "scratch",
+    0.25
+   ],
+   [
+    "S14+10",
+    "drone_hit",
+    0.15
+   ],
+   [
+    "S15+30",
+    "pop",
+    0.25
+   ],
+   [
+    "S16+0",
+    "class_murmur",
+    0.15
+   ],
+   [
+    "S17+10",
+    "ding",
+    0.25
+   ],
+   [
+    "S18+10",
+    "tick",
+    0.2
+   ],
+   [
+    "S19+0",
+    "night_desert",
+    0.15,
+    "onset",
+    "S22"
+   ],
+   [
+    "S22+0",
+    "buzz",
+    0.35
+   ],
+   [
+    "S23+0",
+    "room_tone",
+    0.12
+   ],
+   [
+    "S24+0",
+    "river",
+    0.2
+   ],
+   [
+    "S24+0",
+    "drone_hit",
+    0.15
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
+ }
 }

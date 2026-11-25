@@ -266,5 +266,185 @@
   }
  ],
  "fx": [],
- "tail": 2.5
+ "tail": 2.5,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "kids_cheer": [
+    "a group of children cheering and clapping outdoors",
+    2.0
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "pool_syn": [
+    "procedural: calm pool water lapping with a soft filter hum",
+    8.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "river": [
+    "gentle river water lapping against a wooden boat, soft breeze in reeds, no voices",
+    10.0
+   ],
+   "rumble_syn": [
+    "procedural: a deep heavy rumble pressing down",
+    2.2
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "splash_syn": [
+    "procedural: a heavy body splashing into a pool",
+    1.4
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "pool_syn",
+    0.15,
+    "onset",
+    "S3"
+   ],
+   [
+    "S2+0",
+    "splash_syn",
+    0.15
+   ],
+   [
+    "S3+0",
+    "counter_tick",
+    0.2
+   ],
+   [
+    "S3+30",
+    "kids_cheer",
+    0.15
+   ],
+   [
+    "S5+10",
+    "sparkle",
+    0.2
+   ],
+   [
+    "S7+16",
+    "tick",
+    0.2
+   ],
+   [
+    "S9+0",
+    "river",
+    0.3,
+    "onset",
+    "S11"
+   ],
+   [
+    "S9+0",
+    "drone",
+    0.15,
+    "onset",
+    "S12"
+   ],
+   [
+    "S10+0",
+    "rumble_syn",
+    0.2
+   ],
+   [
+    "S11+12",
+    "gasp",
+    0.25
+   ],
+   [
+    "S12+20",
+    "drone_hit",
+    0.25
+   ],
+   [
+    "S13+0",
+    "scratch",
+    0.25
+   ],
+   [
+    "S14+0",
+    "ding",
+    0.25
+   ],
+   [
+    "S15+0",
+    "ding",
+    0.25
+   ],
+   [
+    "S16+30",
+    "ding",
+    0.25
+   ],
+   [
+    "S17+0",
+    "pop",
+    0.25
+   ],
+   [
+    "S19+0",
+    "card_hit",
+    0.18
+   ],
+   [
+    "S20+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S20+0",
+    "drone",
+    0.12
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "until": "S9"
+  },
+  "levels": {
+   "sfx_lu": -10.0,
+   "music_lu": -16.0
+  }
+ }
 }
