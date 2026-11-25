@@ -1,70 +1,105 @@
 {
-  "id": "EveryoneGone",
-  "slug": "everyone-gone",
-  "topic": "What if everyone disappeared except you?",
-  "title": [
-    "WHAT IF EVERYONE",
-    "DISAPPEARED EXCEPT YOU?"
-  ],
-  "target_seconds": 540,
-  "defaults": {
-    "voice": {
-      "id": "TX3LPaxmHKxFdv7VOQHJ",
-      "model": "eleven_multilingual_v2",
-      "settings": {
-        "stability": 0.45,
-        "similarity_boost": 0.8,
-        "style": 0.3,
-        "use_speaker_boost": true
-      }
-    },
-    "gaps": {
-      "word": 0.14,
-      "comma": 0.25,
-      "sentence": 0.42,
-      "question": 0.6
-    },
-    "pace": {
-      "min_cuts": 8,
-      "max_hold": 8
-    }
+ "id": "EveryoneGone",
+ "slug": "everyone-gone",
+ "topic": "What if everyone disappeared except you?",
+ "title": [
+  "WHAT IF EVERYONE",
+  "DISAPPEARED EXCEPT YOU?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
   },
-  "chapters": [
-    {
-      "slug": "c01",
-      "name": "Cold open",
-      "words": 140
-    },
-    {
-      "slug": "c02",
-      "name": "The rules",
-      "words": 120
-    },
-    {
-      "slug": "c03",
-      "name": "The fun part",
-      "words": 260
-    },
-    {
-      "slug": "c04",
-      "name": "The catch",
-      "words": 260
-    },
-    {
-      "slug": "c05",
-      "name": "Someone notices",
-      "words": 200
-    },
-    {
-      "slug": "c06",
-      "name": "The choice",
-      "words": 200
-    },
-    {
-      "slug": "c07",
-      "name": "The other voice",
-      "words": 130
-    }
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 140
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 120
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 260
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 260
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 200
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 200
+  },
+  {
+   "slug": "c07",
+   "name": "The other voice",
+   "words": 130
+  }
+ ],
+ "youtube": {
+  "title": "What If Everyone Disappeared Except You?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "what if everyone disappeared",
+   "everyone disappeared",
+   "last person on earth",
+   "alone on earth",
+   "world without humans",
+   "what would happen if",
+   "empty city",
+   "blackout",
+   "nuclear reactors",
+   "subway flooding",
+   "loneliness",
+   "animated story",
+   "story animation",
+   "survival story",
+   "alternate reality",
+   "cliffhanger",
+   "mystery",
+   "classroom 4b"
   ],
-  "youtube": {}
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "At 3:07 AM, every person on Earth vanishes. Except you. The first days are the best of your life: free toy stores, ice cream for every meal, no homework ever again. Then the lights go out, the subway floods, the food rots, and the silence starts to get to you. And on day twelve, on an empty bridge, you meet a man in a grey suit who says you weren't supposed to be here.\n\nWould you have gone through the door? Tell us in the comments. Part 2 is coming.",
+  "thumbnail": {
+   "composition": "EveryoneGoneThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "The door, or Ellie? What would YOU have done? 👇\n\nAnd who was the voice on the walkie-talkie? Best theory gets pinned.\n\nThe real parts check out: most power stations would shut down within hours without people, New York's subway pumps out about 13 million gallons of water a day, petrol goes stale in 3 to 6 months, US nuclear plants keep about 7 days of diesel for their backup generators, and long-term loneliness is about as bad for your health as smoking 15 cigarettes a day. Sources are in the description.\n\n🔔 Subscribe so you don't miss Part 2."
+ }
 }
