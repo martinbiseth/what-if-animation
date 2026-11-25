@@ -1,292 +1,444 @@
 {
- "id": "NeverSleepC05",
- "slug": "never-sleep/c05",
- "chapter": "Someone notices",
- "topic": "What if you never slept again?",
- "script": [
-  {
-   "beat": "p1",
-   "text": "Day three. The fridge isn't really talking. You know that. Mostly."
-  },
-  {
-   "beat": "p2",
-   "text": "This is real too. After about three days without sleep, people start to see things that aren't there. First it's the edges: patterns crawling on the wall, shadows moving in the corner of your eye. Then whole things. Voices. People."
-  },
-  {
-   "beat": "p3",
-   "text": "That night, the wallpaper in your room starts to ripple, like water. The coat on your door looks exactly like someone standing there, watching you. You turn on every light in the house, and sit in the middle of the kitchen until morning."
-  },
-  {
-   "beat": "p4",
-   "text": "You keep your promise. You tell Mo. Mo looks at you for a long time. 'Okay. That's the fridge. I'm calling your mum.'"
-  },
-  {
-   "beat": "p5",
-   "text": "Day five. Your mum takes you to the doctor. The doctor sends you to a sleep clinic. The sleep clinic glues a tangle of wires to your head and watches you all night."
-  },
-  {
-   "beat": "p6",
-   "text": "You don't sleep for one second. The machine draws a busy, wide-awake line, hour after hour. 'That's not possible,' the technician says, tapping the screen. 'Everybody sleeps.' She calls her boss. Her boss calls someone else."
-  },
-  {
-   "beat": "p7",
-   "text": "Day seven. A man in a grey suit is waiting in the clinic. He doesn't have a name tag. He has a folder with your name on it. He sits down and slides a black-and-white photo across the table. A teenage boy, grinning, surrounded by scientists."
-  },
-  {
-   "beat": "p8",
-   "text": "'Do you know who Randy Gardner was?' he asks. In the winter of nineteen sixty-three, Randy was seventeen. For a school science fair, he stayed awake for eleven days and twenty-five minutes. It's still the longest scientifically recorded stretch without sleep. Guinness World Records stopped accepting attempts, because it's too dangerous."
-  },
-  {
-   "beat": "p9",
-   "text": "'You'll pass him in four days,' the man says. 'And we'd like to watch.'"
+  "id": "NeverSleepC05",
+  "slug": "never-sleep/c05",
+  "chapter": "Someone notices",
+  "topic": "What if you never slept again?",
+  "script": [
+    {
+      "beat": "p1",
+      "text": "Day three. The fridge isn't really talking. You know that. Mostly."
+    },
+    {
+      "beat": "p2",
+      "text": "This is real too. After about three days without sleep, people start to see things that aren't there. First it's the edges: patterns crawling on the wall, shadows moving in the corner of your eye. Then whole things. Voices. People."
+    },
+    {
+      "beat": "p3",
+      "text": "That night, the wallpaper in your room starts to ripple, like water. The coat on your door looks exactly like someone standing there, watching you. You turn on every light in the house, and sit in the middle of the kitchen until morning."
+    },
+    {
+      "beat": "p4",
+      "text": "You keep your promise. You tell Mo. Mo looks at you for a long time. 'Okay. That's the fridge. I'm calling your mum.'"
+    },
+    {
+      "beat": "p5",
+      "text": "Day five. Your mum takes you to the doctor. The doctor sends you to a sleep clinic. The sleep clinic glues a tangle of wires to your head and watches you all night."
+    },
+    {
+      "beat": "p6",
+      "text": "You don't sleep for one second. The machine draws a busy, wide-awake line, hour after hour. 'That's not possible,' the technician says, tapping the screen. 'Everybody sleeps.' She calls her boss. Her boss calls someone else."
+    },
+    {
+      "beat": "p7",
+      "text": "Day seven. A man in a grey suit is waiting in the clinic. He doesn't have a name tag. He has a folder with your name on it. He sits down and slides a black-and-white photo across the table. A teenage boy, grinning, surrounded by scientists."
+    },
+    {
+      "beat": "p8",
+      "text": "'Do you know who Randy Gardner was?' he asks. In the winter of nineteen sixty-three, Randy was seventeen. For a school science fair, he stayed awake for eleven days and twenty-five minutes. It's still the longest scientifically recorded stretch without sleep. Guinness World Records stopped accepting attempts, because it's too dangerous."
+    },
+    {
+      "beat": "p9",
+      "text": "'You'll pass him in four days,' the man says. 'And we'd like to watch.'"
+    }
+  ],
+  "science": [
+    {
+      "claim": "After about three days without sleep, people develop visual distortions and then complex hallucinations.",
+      "working": "A review of 21 studies found perceptual distortions, anxiety and depersonalisation rising with time awake, with complex hallucinations and delusions after about 72 hours.",
+      "source": "Waters et al., Frontiers in Psychiatry 9 (2018)"
+    },
+    {
+      "claim": "Randy Gardner, aged 17, stayed awake 11 days and 25 minutes (264.4 hours) in 1963-64; Guinness no longer accepts sleep-deprivation records.",
+      "working": "San Diego high-school science fair project, 28 Dec 1963 to 8 Jan 1964, observed by sleep researcher William Dement.",
+      "source": "Gulevich, Dement & Johnson, Archives of General Psychiatry 15 (1966); Guinness World Records"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "day 3, the fridge's face, MOSTLY."
+    },
+    {
+      "id": "S2",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "after ~3 days: HALLUCINATIONS"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "patterns crawling, a shadow in the corner"
+    },
+    {
+      "id": "S4",
+      "size": "close-up",
+      "set": "bedroom",
+      "key": 30,
+      "note": "whole things: voices"
+    },
+    {
+      "id": "S5",
+      "size": "wide",
+      "set": "bedroom",
+      "key": 30,
+      "note": "the wallpaper ripples like water"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "the coat on the door becomes someone"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "every light on, on the floor till morning"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "set": "street",
+      "key": 30,
+      "note": "you tell Mo"
+    },
+    {
+      "id": "S9",
+      "size": "close-up",
+      "set": "street",
+      "key": 30,
+      "note": "Mo: That's the fridge. I'm calling your mum."
+    },
+    {
+      "id": "S10",
+      "size": "big word",
+      "set": "clinic blur",
+      "key": 30,
+      "note": "DAY 5"
+    },
+    {
+      "id": "S11",
+      "size": "wide",
+      "set": "clinic",
+      "key": 30,
+      "note": "wires glued on, the technician"
+    },
+    {
+      "id": "S12",
+      "size": "graphic",
+      "set": "monitor",
+      "key": 30,
+      "note": "the EEG: busy, wide-awake, hour after hour"
+    },
+    {
+      "id": "S13",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "technician: not possible. Everybody sleeps."
+    },
+    {
+      "id": "S14",
+      "size": "graphic",
+      "set": "dark",
+      "key": 30,
+      "note": "calls up the chain"
+    },
+    {
+      "id": "S15",
+      "size": "wide",
+      "set": "clinic interview",
+      "key": 30,
+      "note": "DAY 7, the man in the grey suit, the folder"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "set": "table",
+      "key": 30,
+      "note": "the photo slides across"
+    },
+    {
+      "id": "S17",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "the suit: Randy Gardner?"
+    },
+    {
+      "id": "S18",
+      "size": "insert",
+      "set": "photo",
+      "key": 30,
+      "note": "winter 1963, Randy, 17, science fair"
+    },
+    {
+      "id": "S19",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "264 hours: 11 days 25 minutes"
+    },
+    {
+      "id": "S20",
+      "size": "graphic",
+      "set": "dark",
+      "key": 30,
+      "note": "TOO DANGEROUS"
+    },
+    {
+      "id": "S21",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "You'll pass him in four days. We'd like to watch."
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "This"
+    },
+    {
+      "shot": "S3",
+      "at": "First"
+    },
+    {
+      "shot": "S4",
+      "at": "Then"
+    },
+    {
+      "shot": "S5",
+      "at": "That"
+    },
+    {
+      "shot": "S6",
+      "at": "The#2"
+    },
+    {
+      "shot": "S7",
+      "at": "You#2"
+    },
+    {
+      "shot": "S8",
+      "at": "You"
+    },
+    {
+      "shot": "S9",
+      "at": "Okay"
+    },
+    {
+      "shot": "S10",
+      "at": "Day"
+    },
+    {
+      "shot": "S11",
+      "at": "The#3"
+    },
+    {
+      "shot": "S12",
+      "at": "You#2"
+    },
+    {
+      "shot": "S13",
+      "at": "That's"
+    },
+    {
+      "shot": "S14",
+      "at": "She"
+    },
+    {
+      "shot": "S15",
+      "at": "Day"
+    },
+    {
+      "shot": "S16",
+      "at": "He#3"
+    },
+    {
+      "shot": "S17",
+      "at": "Do"
+    },
+    {
+      "shot": "S18",
+      "at": "In"
+    },
+    {
+      "shot": "S19",
+      "at": "It's"
+    },
+    {
+      "shot": "S20",
+      "at": "Guinness"
+    },
+    {
+      "shot": "S21",
+      "at": "You'll"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "flash_old": [
+        "a vintage camera flash going off, a sharp pop and a quick electric whine",
+        1.0
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "laugh_low": [
+        "a man in a dark room laughing very softly, a quiet amused chuckle",
+        1.6
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "ring_syn": [
+        "procedural: a phone ringing twice",
+        3.0
+      ],
+      "slide": [
+        "a thick paper envelope sliding across a wooden table",
+        1.0
+      ],
+      "switch_off": [
+        "a heavy electrical breaker switching off with a dull clunk",
+        0.5
+      ]
+    },
+    "events": [
+      [
+        "S2+0",
+        "drone_hit",
+        0.3
+      ],
+      [
+        "S3+0",
+        "drone",
+        0.2,
+        "onset",
+        "S5"
+      ],
+      [
+        "S4+0",
+        "laugh_low",
+        0.25
+      ],
+      [
+        "S5+0",
+        "glitch",
+        0.2
+      ],
+      [
+        "S6+0",
+        "heartbeat",
+        0.3
+      ],
+      [
+        "S7+0",
+        "switch_off",
+        0.3
+      ],
+      [
+        "S10+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S11+0",
+        "beep",
+        0.3
+      ],
+      [
+        "S12+0",
+        "beep",
+        0.25
+      ],
+      [
+        "S14+0",
+        "ring_syn",
+        0.25
+      ],
+      [
+        "S15+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S16+0",
+        "slide",
+        0.4
+      ],
+      [
+        "S17+0",
+        "flash_old",
+        0.3
+      ],
+      [
+        "S19+0",
+        "counter_tick",
+        0.35
+      ],
+      [
+        "S20+0",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S21+0",
+        "drone_hit",
+        0.35
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -17.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "After about three days without sleep, people develop visual distortions and then complex hallucinations.",
-   "working": "A review of 21 studies found perceptual distortions, anxiety and depersonalisation rising with time awake, with complex hallucinations and delusions after about 72 hours.",
-   "source": "Waters et al., Frontiers in Psychiatry 9 (2018)"
-  },
-  {
-   "claim": "Randy Gardner, aged 17, stayed awake 11 days and 25 minutes (264.4 hours) in 1963-64; Guinness no longer accepts sleep-deprivation records.",
-   "working": "San Diego high-school science fair project, 28 Dec 1963 to 8 Jan 1964, observed by sleep researcher William Dement.",
-   "source": "Gulevich, Dement & Johnson, Archives of General Psychiatry 15 (1966); Guinness World Records"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "wide",
-   "set": "kitchen",
-   "key": 30,
-   "note": "day 3, the fridge's face, MOSTLY."
-  },
-  {
-   "id": "S2",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "after ~3 days: HALLUCINATIONS"
-  },
-  {
-   "id": "S3",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "patterns crawling, a shadow in the corner"
-  },
-  {
-   "id": "S4",
-   "size": "close-up",
-   "set": "bedroom",
-   "key": 30,
-   "note": "whole things: voices"
-  },
-  {
-   "id": "S5",
-   "size": "wide",
-   "set": "bedroom",
-   "key": 30,
-   "note": "the wallpaper ripples like water"
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "the coat on the door becomes someone"
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "set": "kitchen",
-   "key": 30,
-   "note": "every light on, on the floor till morning"
-  },
-  {
-   "id": "S8",
-   "size": "medium",
-   "set": "street",
-   "key": 30,
-   "note": "you tell Mo"
-  },
-  {
-   "id": "S9",
-   "size": "close-up",
-   "set": "street",
-   "key": 30,
-   "note": "Mo: That's the fridge. I'm calling your mum."
-  },
-  {
-   "id": "S10",
-   "size": "big word",
-   "set": "clinic blur",
-   "key": 30,
-   "note": "DAY 5"
-  },
-  {
-   "id": "S11",
-   "size": "wide",
-   "set": "clinic",
-   "key": 30,
-   "note": "wires glued on, the technician"
-  },
-  {
-   "id": "S12",
-   "size": "graphic",
-   "set": "monitor",
-   "key": 30,
-   "note": "the EEG: busy, wide-awake, hour after hour"
-  },
-  {
-   "id": "S13",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "technician: not possible. Everybody sleeps."
-  },
-  {
-   "id": "S14",
-   "size": "graphic",
-   "set": "dark",
-   "key": 30,
-   "note": "calls up the chain"
-  },
-  {
-   "id": "S15",
-   "size": "wide",
-   "set": "clinic interview",
-   "key": 30,
-   "note": "DAY 7, the man in the grey suit, the folder"
-  },
-  {
-   "id": "S16",
-   "size": "insert",
-   "set": "table",
-   "key": 30,
-   "note": "the photo slides across"
-  },
-  {
-   "id": "S17",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "the suit: Randy Gardner?"
-  },
-  {
-   "id": "S18",
-   "size": "insert",
-   "set": "photo",
-   "key": 30,
-   "note": "winter 1963, Randy, 17, science fair"
-  },
-  {
-   "id": "S19",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "264 hours: 11 days 25 minutes"
-  },
-  {
-   "id": "S20",
-   "size": "graphic",
-   "set": "dark",
-   "key": 30,
-   "note": "TOO DANGEROUS"
-  },
-  {
-   "id": "S21",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "You'll pass him in four days. We'd like to watch."
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "This"
-  },
-  {
-   "shot": "S3",
-   "at": "First"
-  },
-  {
-   "shot": "S4",
-   "at": "Then"
-  },
-  {
-   "shot": "S5",
-   "at": "That"
-  },
-  {
-   "shot": "S6",
-   "at": "The#2"
-  },
-  {
-   "shot": "S7",
-   "at": "You#2"
-  },
-  {
-   "shot": "S8",
-   "at": "You"
-  },
-  {
-   "shot": "S9",
-   "at": "Okay"
-  },
-  {
-   "shot": "S10",
-   "at": "Day"
-  },
-  {
-   "shot": "S11",
-   "at": "The#3"
-  },
-  {
-   "shot": "S12",
-   "at": "You#2"
-  },
-  {
-   "shot": "S13",
-   "at": "That's"
-  },
-  {
-   "shot": "S14",
-   "at": "She"
-  },
-  {
-   "shot": "S15",
-   "at": "Day"
-  },
-  {
-   "shot": "S16",
-   "at": "He#3"
-  },
-  {
-   "shot": "S17",
-   "at": "Do"
-  },
-  {
-   "shot": "S18",
-   "at": "In"
-  },
-  {
-   "shot": "S19",
-   "at": "It's"
-  },
-  {
-   "shot": "S20",
-   "at": "Guinness"
-  },
-  {
-   "shot": "S21",
-   "at": "You'll"
-  }
- ],
- "fx": []
 }

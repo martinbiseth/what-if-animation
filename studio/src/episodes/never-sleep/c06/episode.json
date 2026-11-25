@@ -1,222 +1,328 @@
 {
- "id": "NeverSleepC06",
- "slug": "never-sleep/c06",
- "chapter": "The choice",
- "topic": "What if you never slept again?",
- "script": [
-  {
-   "beat": "p1",
-   "text": "Day ten. You're in a white room with a window, a bed you never use, and a camera in the corner. They feed you well. They test you every hour."
-  },
-  {
-   "beat": "p2",
-   "text": "Your body is falling apart, quietly. Your hands shake. Your words come out in the wrong order. People who sleep less than six hours a night are about four times more likely to catch a cold. You haven't slept at all. You have three colds. You sneeze, and the scientist behind the glass writes it down."
-  },
-  {
-   "beat": "p3",
-   "text": "Then the man shows you a slide. Rats. In the nineteen-eighties, scientists kept rats awake on purpose, around the clock. Within about two to four weeks, every one of them died."
-  },
-  {
-   "beat": "p4",
-   "text": "'Your record falls on day eleven,' he says. 'Day twenty-one is the real question.'"
-  },
-  {
-   "beat": "p5",
-   "text": "That night, Ellie video calls you. She's in her pajamas, holding her teddy. 'Mum says you're helping scientists. Are you coming home? I leave the hallway light on for you every night. Like you do for me.'"
-  },
-  {
-   "beat": "p6",
-   "text": "Behind her, you can see your bedroom. Your bed. Your pillow. Things you haven't touched in ten days."
-  },
-  {
-   "beat": "p7",
-   "text": "And you decide. No record. You're going home, and you're going to learn to sleep again, even if your brain has forgotten how."
-  },
-  {
-   "beat": "p8",
-   "text": "You pull off the wires, walk past the camera, and ask for the one thing nobody in the building expected. 'Can someone please turn off the lights?' The man in the suit doesn't try to stop you. He just writes something in his folder, and smiles, like he already knew."
+  "id": "NeverSleepC06",
+  "slug": "never-sleep/c06",
+  "chapter": "The choice",
+  "topic": "What if you never slept again?",
+  "script": [
+    {
+      "beat": "p1",
+      "text": "Day ten. You're in a white room with a window, a bed you never use, and a camera in the corner. They feed you well. They test you every hour."
+    },
+    {
+      "beat": "p2",
+      "text": "Your body is falling apart, quietly. Your hands shake. Your words come out in the wrong order. People who sleep less than six hours a night are about four times more likely to catch a cold. You haven't slept at all. You have three colds. You sneeze, and the scientist behind the glass writes it down."
+    },
+    {
+      "beat": "p3",
+      "text": "Then the man shows you a slide. Rats. In the nineteen-eighties, scientists kept rats awake on purpose, around the clock. Within about two to four weeks, every one of them died."
+    },
+    {
+      "beat": "p4",
+      "text": "'Your record falls on day eleven,' he says. 'Day twenty-one is the real question.'"
+    },
+    {
+      "beat": "p5",
+      "text": "That night, Ellie video calls you. She's in her pajamas, holding her teddy. 'Mum says you're helping scientists. Are you coming home? I leave the hallway light on for you every night. Like you do for me.'"
+    },
+    {
+      "beat": "p6",
+      "text": "Behind her, you can see your bedroom. Your bed. Your pillow. Things you haven't touched in ten days."
+    },
+    {
+      "beat": "p7",
+      "text": "And you decide. No record. You're going home, and you're going to learn to sleep again, even if your brain has forgotten how."
+    },
+    {
+      "beat": "p8",
+      "text": "You pull off the wires, walk past the camera, and ask for the one thing nobody in the building expected. 'Can someone please turn off the lights?' The man in the suit doesn't try to stop you. He just writes something in his folder, and smiles, like he already knew."
+    }
+  ],
+  "science": [
+    {
+      "claim": "People sleeping under 6 hours a night were about 4 times as likely to catch a cold.",
+      "working": "164 adults exposed to a cold virus; those sleeping <6 h were 4.2 times more likely to develop a cold than those sleeping >7 h.",
+      "source": "Prather et al., Sleep 38 (2015)"
+    },
+    {
+      "claim": "Rats kept totally sleep deprived died within about two to four weeks.",
+      "working": "In the disk-over-water experiments, totally sleep-deprived rats died or were sacrificed when moribund after 11-32 days.",
+      "source": "Rechtschaffen et al., Sleep 12 (1989); Everson, Bergmann & Rechtschaffen, Sleep 12 (1989)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "big word",
+      "set": "clinic blur",
+      "key": 30,
+      "note": "DAY 10"
+    },
+    {
+      "id": "S2",
+      "size": "wide",
+      "set": "clinic",
+      "key": 30,
+      "note": "the white room: REC, test every hour"
+    },
+    {
+      "id": "S3",
+      "size": "insert",
+      "set": "clinic blur",
+      "key": 30,
+      "note": "your hands shake"
+    },
+    {
+      "id": "S4",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "words in the wrong order"
+    },
+    {
+      "id": "S5",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "under 6 h: 4.2x the colds"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "clinic",
+      "key": 30,
+      "note": "three colds, a sneeze, it's written down"
+    },
+    {
+      "id": "S7",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "the rat slide: 2 to 4 weeks"
+    },
+    {
+      "id": "S8",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "the suit: day 21 is the question"
+    },
+    {
+      "id": "S9",
+      "size": "insert",
+      "set": "phone",
+      "key": 30,
+      "note": "Ellie's video call"
+    },
+    {
+      "id": "S9B",
+      "size": "insert",
+      "set": "phone",
+      "key": 30,
+      "note": "close on Ellie: I leave the hallway light on"
+    },
+    {
+      "id": "S10",
+      "size": "insert",
+      "set": "phone",
+      "key": 30,
+      "note": "behind her: your bed, your pillow"
+    },
+    {
+      "id": "S11",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "you decide: NO RECORD"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "set": "clinic",
+      "key": 30,
+      "note": "wires off, past the camera"
+    },
+    {
+      "id": "S13",
+      "size": "close-up",
+      "set": "clinic",
+      "key": 30,
+      "note": "Can someone please turn off the lights?"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "set": "clinic",
+      "key": 30,
+      "note": "the suit writes in his folder, smiles"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You're"
+    },
+    {
+      "shot": "S3",
+      "at": "Your"
+    },
+    {
+      "shot": "S4",
+      "at": "Your#2"
+    },
+    {
+      "shot": "S5",
+      "at": "People"
+    },
+    {
+      "shot": "S6",
+      "at": "You"
+    },
+    {
+      "shot": "S7",
+      "at": "Then"
+    },
+    {
+      "shot": "S8",
+      "at": "Your"
+    },
+    {
+      "shot": "S9",
+      "at": "That"
+    },
+    {
+      "shot": "S9B",
+      "at": "I"
+    },
+    {
+      "shot": "S10",
+      "at": "Behind"
+    },
+    {
+      "shot": "S11",
+      "at": "And"
+    },
+    {
+      "shot": "S12",
+      "at": "You#2"
+    },
+    {
+      "shot": "S13",
+      "at": "Can"
+    },
+    {
+      "shot": "S14",
+      "at": "The#2"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "beep": [
+        "a soft electronic low battery warning beep",
+        0.6
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cough": [
+        "a little girl coughing softly in her sleep",
+        1.2
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "laugh_low": [
+        "a man in a dark room laughing very softly, a quiet amused chuckle",
+        1.6
+      ],
+      "m_sad": [
+        "soft sad solo piano, slow and gentle, instrumental background loop",
+        20.0
+      ],
+      "notify": [
+        "a soft modern smartphone message notification chime",
+        0.8
+      ],
+      "pencils": [
+        "many pencils scribbling quickly on paper in a quiet office",
+        3.0
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "step": [
+        "a single sneaker footstep on a wooden stair, close",
+        0.5
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S2+0",
+        "beep",
+        0.25
+      ],
+      [
+        "S5+0",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S6+0",
+        "cough",
+        0.3
+      ],
+      [
+        "S7+0",
+        "drone_hit",
+        0.25
+      ],
+      [
+        "S8+0",
+        "laugh_low",
+        0.25
+      ],
+      [
+        "S9+0",
+        "notify",
+        0.4
+      ],
+      [
+        "S11+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S12+0",
+        "step",
+        0.4
+      ],
+      [
+        "S14+0",
+        "pencils",
+        0.2,
+        "onset",
+        "S14+60"
+      ]
+    ],
+    "music": {
+      "clip": "m_sad",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -17.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "People sleeping under 6 hours a night were about 4 times as likely to catch a cold.",
-   "working": "164 adults exposed to a cold virus; those sleeping <6 h were 4.2 times more likely to develop a cold than those sleeping >7 h.",
-   "source": "Prather et al., Sleep 38 (2015)"
-  },
-  {
-   "claim": "Rats kept totally sleep deprived died within about two to four weeks.",
-   "working": "In the disk-over-water experiments, totally sleep-deprived rats died or were sacrificed when moribund after 11-32 days.",
-   "source": "Rechtschaffen et al., Sleep 12 (1989); Everson, Bergmann & Rechtschaffen, Sleep 12 (1989)"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "big word",
-   "set": "clinic blur",
-   "key": 30,
-   "note": "DAY 10"
-  },
-  {
-   "id": "S2",
-   "size": "wide",
-   "set": "clinic",
-   "key": 30,
-   "note": "the white room: REC, test every hour"
-  },
-  {
-   "id": "S3",
-   "size": "insert",
-   "set": "clinic blur",
-   "key": 30,
-   "note": "your hands shake"
-  },
-  {
-   "id": "S4",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "words in the wrong order"
-  },
-  {
-   "id": "S5",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "under 6 h: 4.2x the colds"
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "set": "clinic",
-   "key": 30,
-   "note": "three colds, a sneeze, it's written down"
-  },
-  {
-   "id": "S7",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "the rat slide: 2 to 4 weeks"
-  },
-  {
-   "id": "S8",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "the suit: day 21 is the question"
-  },
-  {
-   "id": "S9",
-   "size": "insert",
-   "set": "phone",
-   "key": 30,
-   "note": "Ellie's video call"
-  },
-  {
-   "id": "S9B",
-   "size": "insert",
-   "set": "phone",
-   "key": 30,
-   "note": "close on Ellie: I leave the hallway light on"
-  },
-  {
-   "id": "S10",
-   "size": "insert",
-   "set": "phone",
-   "key": 30,
-   "note": "behind her: your bed, your pillow"
-  },
-  {
-   "id": "S11",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "you decide: NO RECORD"
-  },
-  {
-   "id": "S12",
-   "size": "wide",
-   "set": "clinic",
-   "key": 30,
-   "note": "wires off, past the camera"
-  },
-  {
-   "id": "S13",
-   "size": "close-up",
-   "set": "clinic",
-   "key": 30,
-   "note": "Can someone please turn off the lights?"
-  },
-  {
-   "id": "S14",
-   "size": "medium",
-   "set": "clinic",
-   "key": 30,
-   "note": "the suit writes in his folder, smiles"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "You're"
-  },
-  {
-   "shot": "S3",
-   "at": "Your"
-  },
-  {
-   "shot": "S4",
-   "at": "Your#2"
-  },
-  {
-   "shot": "S5",
-   "at": "People"
-  },
-  {
-   "shot": "S6",
-   "at": "You"
-  },
-  {
-   "shot": "S7",
-   "at": "Then"
-  },
-  {
-   "shot": "S8",
-   "at": "Your"
-  },
-  {
-   "shot": "S9",
-   "at": "That"
-  },
-  {
-   "shot": "S9B",
-   "at": "I"
-  },
-  {
-   "shot": "S10",
-   "at": "Behind"
-  },
-  {
-   "shot": "S11",
-   "at": "And"
-  },
-  {
-   "shot": "S12",
-   "at": "You#2"
-  },
-  {
-   "shot": "S13",
-   "at": "Can"
-  },
-  {
-   "shot": "S14",
-   "at": "The#2"
-  }
- ],
- "fx": []
 }

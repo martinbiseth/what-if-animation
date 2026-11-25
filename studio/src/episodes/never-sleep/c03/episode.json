@@ -1,244 +1,379 @@
 {
- "id": "NeverSleepC03",
- "slug": "never-sleep/c03",
- "chapter": "Eight free hours",
- "topic": "What if you never slept again?",
- "script": [
-  {
-   "beat": "p1",
-   "text": "Night one. Eight hours of silence. You've never had this much time."
-  },
-  {
-   "beat": "p2",
-   "text": "You finish all your homework by midnight. Then next week's homework. Then you reorganise your whole room by colour."
-  },
-  {
-   "beat": "p3",
-   "text": "Two a.m. You learn to juggle. Badly. Then a little less badly."
-  },
-  {
-   "beat": "p4",
-   "text": "Three a.m. You teach yourself four songs on the guitar, with the volume turned all the way down."
-  },
-  {
-   "beat": "p5",
-   "text": "Four a.m. You finish a three-hundred-page book and start another one. Then the sun comes up, and you watch the whole sunrise from the roof, like a movie made just for you."
-  },
-  {
-   "beat": "p6",
-   "text": "Do the maths. Most people sleep about a third of their life away. For most people, that's twenty-five years or more with their eyes closed. Twenty-five years you just got back."
-  },
-  {
-   "beat": "p7",
-   "text": "Six a.m. Your mum walks into the kitchen and finds breakfast already made. Pancakes. Fresh juice. Her coffee, just how she likes it. She looks at you. Then at the pancakes. Then back at you. 'What did you break?'"
-  },
-  {
-   "beat": "p8",
-   "text": "At school, you're the first one there. You've read the whole chapter, and the next three. When the teacher asks a question, your hand is already up. Your friends are yawning into their lunch. You're on your third apple, explaining photosynthesis to anyone who will listen."
-  },
-  {
-   "beat": "p9",
-   "text": "Night two, you start a business. You walk dogs at midnight for people who work night shifts. Five dogs, five leashes, one very long walk. One of them is a Great Dane called Pickle. Mostly, Pickle walks you."
-  },
-  {
-   "beat": "p10",
-   "text": "Ellie catches you sneaking home at four a.m. with five leashes around your wrist. 'You don't sleep anymore,' she whispers. 'That's so cool.'"
-  },
-  {
-   "beat": "p11",
-   "text": "And for about a day and a half, it is."
-  },
-  {
-   "beat": "p12",
-   "text": "Because there's something your brain does every night while you sleep. Something you just stopped doing."
+  "id": "NeverSleepC03",
+  "slug": "never-sleep/c03",
+  "chapter": "Eight free hours",
+  "topic": "What if you never slept again?",
+  "script": [
+    {
+      "beat": "p1",
+      "text": "Night one. Eight hours of silence. You've never had this much time."
+    },
+    {
+      "beat": "p2",
+      "text": "You finish all your homework by midnight. Then next week's homework. Then you reorganise your whole room by colour."
+    },
+    {
+      "beat": "p3",
+      "text": "Two a.m. You learn to juggle. Badly. Then a little less badly."
+    },
+    {
+      "beat": "p4",
+      "text": "Three a.m. You teach yourself four songs on the guitar, with the volume turned all the way down."
+    },
+    {
+      "beat": "p5",
+      "text": "Four a.m. You finish a three-hundred-page book and start another one. Then the sun comes up, and you watch the whole sunrise from the roof, like a movie made just for you."
+    },
+    {
+      "beat": "p6",
+      "text": "Do the maths. Most people sleep about a third of their life away. For most people, that's twenty-five years or more with their eyes closed. Twenty-five years you just got back."
+    },
+    {
+      "beat": "p7",
+      "text": "Six a.m. Your mum walks into the kitchen and finds breakfast already made. Pancakes. Fresh juice. Her coffee, just how she likes it. She looks at you. Then at the pancakes. Then back at you. 'What did you break?'"
+    },
+    {
+      "beat": "p8",
+      "text": "At school, you're the first one there. You've read the whole chapter, and the next three. When the teacher asks a question, your hand is already up. Your friends are yawning into their lunch. You're on your third apple, explaining photosynthesis to anyone who will listen."
+    },
+    {
+      "beat": "p9",
+      "text": "Night two, you start a business. You walk dogs at midnight for people who work night shifts. Five dogs, five leashes, one very long walk. One of them is a Great Dane called Pickle. Mostly, Pickle walks you."
+    },
+    {
+      "beat": "p10",
+      "text": "Ellie catches you sneaking home at four a.m. with five leashes around your wrist. 'You don't sleep anymore,' she whispers. 'That's so cool.'"
+    },
+    {
+      "beat": "p11",
+      "text": "And for about a day and a half, it is."
+    },
+    {
+      "beat": "p12",
+      "text": "Because there's something your brain does every night while you sleep. Something you just stopped doing."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Adults sleep roughly a third of their life: at 8 hours a night, 25 years or more of a typical lifespan.",
+      "working": "8 h / 24 h = 1/3. A 75-80 year life at 7-8 h a night is about 22-27 years asleep; '25 years or more' for most people at 8 h.",
+      "source": "Arithmetic on WHO global life expectancy (73 years, 2019) and typical adult sleep of 7-9 h (AASM/SRS consensus, Sleep 2015)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "big word",
+      "set": "bedroom blur",
+      "key": 30,
+      "note": "NIGHT 1"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "homework flying done, + NEXT WEEK'S"
+    },
+    {
+      "id": "S3",
+      "size": "wide",
+      "set": "bedroom",
+      "key": 30,
+      "note": "the room by colour"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "juggling at 2, a ball drops"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "guitar, volume all the way down"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "reading on the beanbag, books piling"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "set": "rooftop dawn",
+      "key": 30,
+      "note": "the sunrise from the roof"
+    },
+    {
+      "id": "S8",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "a third of a lifetime: 25+ YEARS back"
+    },
+    {
+      "id": "S9",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "mum walks in on breakfast"
+    },
+    {
+      "id": "S10",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 30,
+      "note": "mum: What did you break?"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "set": "classroom",
+      "key": 30,
+      "note": "first there, hand already up"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "set": "street",
+      "key": 30,
+      "note": "Mo yawning, you on apple #3"
+    },
+    {
+      "id": "S13",
+      "size": "wide pan",
+      "set": "street night",
+      "key": 30,
+      "note": "the dog walking business, Pickle pulls"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "set": "bedroom",
+      "key": 30,
+      "note": "Ellie catches you: so cool"
+    },
+    {
+      "id": "S15",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 30,
+      "note": "for a day and a half, it is"
+    },
+    {
+      "id": "S16",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "the brain at night: ?"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You"
+    },
+    {
+      "shot": "S3",
+      "at": "Then"
+    },
+    {
+      "shot": "S4",
+      "at": "Two"
+    },
+    {
+      "shot": "S5",
+      "at": "Three"
+    },
+    {
+      "shot": "S6",
+      "at": "Four#2"
+    },
+    {
+      "shot": "S7",
+      "at": "Then"
+    },
+    {
+      "shot": "S8",
+      "at": "Do"
+    },
+    {
+      "shot": "S9",
+      "at": "Six"
+    },
+    {
+      "shot": "S10",
+      "at": "She#2"
+    },
+    {
+      "shot": "S11",
+      "at": "At#4"
+    },
+    {
+      "shot": "S12",
+      "at": "Your#2"
+    },
+    {
+      "shot": "S13",
+      "at": "Night"
+    },
+    {
+      "shot": "S14",
+      "at": "Ellie"
+    },
+    {
+      "shot": "S15",
+      "at": "And"
+    },
+    {
+      "shot": "S16",
+      "at": "Because"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bark_syn": [
+        "procedural: a big dog barking twice",
+        1.0
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ],
+      "land": [
+        "a heavy body landing flat on a wooden floor, cartoon thud",
+        0.6
+      ],
+      "m_fun": [
+        "upbeat playful 1920s ragtime piano with clarinet, light and curious, instrumental background loop",
+        20.0
+      ],
+      "paper": [
+        "a newspaper snapped open, paper rustle",
+        0.8
+      ],
+      "paper_land": [
+        "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+        0.7
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "sizzle": [
+        "meat patties sizzling loudly on a hot iron grill, close up, crackling fat",
+        3.0
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S2+0",
+        "paper_land",
+        0.45
+      ],
+      [
+        "S3+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S4+0",
+        "land",
+        0.35
+      ],
+      [
+        "S6+0",
+        "paper",
+        0.4
+      ],
+      [
+        "S7+0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "S8"
+      ],
+      [
+        "S8+0",
+        "counter_tick",
+        0.3
+      ],
+      [
+        "S9+0",
+        "sizzle",
+        0.15,
+        "onset",
+        "S10"
+      ],
+      [
+        "S10+0",
+        "gasp",
+        0.3
+      ],
+      [
+        "S11+0",
+        "ding",
+        0.35
+      ],
+      [
+        "S13+0",
+        "bark_syn",
+        0.3
+      ],
+      [
+        "S14+0",
+        "sparkle",
+        0.4
+      ],
+      [
+        "S16+0",
+        "drone_hit",
+        0.3
+      ]
+    ],
+    "music": {
+      "clip": "m_fun",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -17.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "Adults sleep roughly a third of their life: at 8 hours a night, 25 years or more of a typical lifespan.",
-   "working": "8 h / 24 h = 1/3. A 75-80 year life at 7-8 h a night is about 22-27 years asleep; '25 years or more' for most people at 8 h.",
-   "source": "Arithmetic on WHO global life expectancy (73 years, 2019) and typical adult sleep of 7-9 h (AASM/SRS consensus, Sleep 2015)"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "big word",
-   "set": "bedroom blur",
-   "key": 30,
-   "note": "NIGHT 1"
-  },
-  {
-   "id": "S2",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "homework flying done, + NEXT WEEK'S"
-  },
-  {
-   "id": "S3",
-   "size": "wide",
-   "set": "bedroom",
-   "key": 30,
-   "note": "the room by colour"
-  },
-  {
-   "id": "S4",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "juggling at 2, a ball drops"
-  },
-  {
-   "id": "S5",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "guitar, volume all the way down"
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "reading on the beanbag, books piling"
-  },
-  {
-   "id": "S7",
-   "size": "wide",
-   "set": "rooftop dawn",
-   "key": 30,
-   "note": "the sunrise from the roof"
-  },
-  {
-   "id": "S8",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "a third of a lifetime: 25+ YEARS back"
-  },
-  {
-   "id": "S9",
-   "size": "wide",
-   "set": "kitchen",
-   "key": 30,
-   "note": "mum walks in on breakfast"
-  },
-  {
-   "id": "S10",
-   "size": "close-up",
-   "set": "kitchen",
-   "key": 30,
-   "note": "mum: What did you break?"
-  },
-  {
-   "id": "S11",
-   "size": "medium",
-   "set": "classroom",
-   "key": 30,
-   "note": "first there, hand already up"
-  },
-  {
-   "id": "S12",
-   "size": "medium",
-   "set": "street",
-   "key": 30,
-   "note": "Mo yawning, you on apple #3"
-  },
-  {
-   "id": "S13",
-   "size": "wide pan",
-   "set": "street night",
-   "key": 30,
-   "note": "the dog walking business, Pickle pulls"
-  },
-  {
-   "id": "S14",
-   "size": "medium",
-   "set": "bedroom",
-   "key": 30,
-   "note": "Ellie catches you: so cool"
-  },
-  {
-   "id": "S15",
-   "size": "close-up",
-   "set": "rooftop",
-   "key": 30,
-   "note": "for a day and a half, it is"
-  },
-  {
-   "id": "S16",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "the brain at night: ?"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "You"
-  },
-  {
-   "shot": "S3",
-   "at": "Then"
-  },
-  {
-   "shot": "S4",
-   "at": "Two"
-  },
-  {
-   "shot": "S5",
-   "at": "Three"
-  },
-  {
-   "shot": "S6",
-   "at": "Four#2"
-  },
-  {
-   "shot": "S7",
-   "at": "Then"
-  },
-  {
-   "shot": "S8",
-   "at": "Do"
-  },
-  {
-   "shot": "S9",
-   "at": "Six"
-  },
-  {
-   "shot": "S10",
-   "at": "She#2"
-  },
-  {
-   "shot": "S11",
-   "at": "At#4"
-  },
-  {
-   "shot": "S12",
-   "at": "Your#2"
-  },
-  {
-   "shot": "S13",
-   "at": "Night"
-  },
-  {
-   "shot": "S14",
-   "at": "Ellie"
-  },
-  {
-   "shot": "S15",
-   "at": "And"
-  },
-  {
-   "shot": "S16",
-   "at": "Because"
-  }
- ],
- "fx": []
 }

@@ -1,305 +1,455 @@
 {
- "id": "NeverSleepC04",
- "slug": "never-sleep/c04",
- "chapter": "The catch",
- "topic": "What if you never slept again?",
- "script": [
-  {
-   "beat": "p1",
-   "text": "Hour nineteen. You're walking to school, and you can't remember if you locked the front door. Or which house is yours."
-  },
-  {
-   "beat": "p2",
-   "text": "That part is real. After about seventeen to nineteen hours awake, people do as badly on reaction tests as someone with a blood alcohol level of point zero five. In many countries, that's already over the limit for driving."
-  },
-  {
-   "beat": "p3",
-   "text": "Hour twenty-four. It's worse. Point one. Like being properly drunk, except you're completely sober, holding a sandwich in maths class."
-  },
-  {
-   "beat": "p4",
-   "text": "And then it starts. Microsleeps. Your brain switches off for a second or two, without asking you. Your eyes stay open. You just aren't there. Microsleeps are why tired drivers drift out of their lane. Their eyes are open, and for a few seconds, nobody is driving."
-  },
-  {
-   "beat": "p5",
-   "text": "You blink, and the teacher is on a different page. You blink again, and the lesson is over."
-  },
-  {
-   "beat": "p6",
-   "text": "Here's why. While you sleep, your brain cleans itself. Fluid washes through it and carries away the waste that builds up during the day. In sleeping mice, scientists found that the spaces between brain cells open up by about sixty percent, so the fluid can flush through."
-  },
-  {
-   "beat": "p7",
-   "text": "You're not getting that wash. In one study, a single night without sleep raised a waste protein called beta-amyloid, the one linked to Alzheimer's, by about five percent."
-  },
-  {
-   "beat": "p8",
-   "text": "And your memory? After one sleepless night, people's ability to store new memories dropped by about forty percent. You read three chapters last night. Today, you can't remember any of them."
-  },
-  {
-   "beat": "p9",
-   "text": "Hour forty-eight. Your stomach is roaring. Losing sleep pushes up the hormone that makes you hungry and pushes down the one that tells you you're full. You've eaten four lunches. Mo stops sharing his crisps."
-  },
-  {
-   "beat": "p10",
-   "text": "And on the morning of day three, you walk into the kitchen, and the fridge says good morning."
+  "id": "NeverSleepC04",
+  "slug": "never-sleep/c04",
+  "chapter": "The catch",
+  "topic": "What if you never slept again?",
+  "script": [
+    {
+      "beat": "p1",
+      "text": "Hour nineteen. You're walking to school, and you can't remember if you locked the front door. Or which house is yours."
+    },
+    {
+      "beat": "p2",
+      "text": "That part is real. After about seventeen to nineteen hours awake, people do as badly on reaction tests as someone with a blood alcohol level of point zero five. In many countries, that's already over the limit for driving."
+    },
+    {
+      "beat": "p3",
+      "text": "Hour twenty-four. It's worse. Point one. Like being properly drunk, except you're completely sober, holding a sandwich in maths class."
+    },
+    {
+      "beat": "p4",
+      "text": "And then it starts. Microsleeps. Your brain switches off for a second or two, without asking you. Your eyes stay open. You just aren't there. Microsleeps are why tired drivers drift out of their lane. Their eyes are open, and for a few seconds, nobody is driving."
+    },
+    {
+      "beat": "p5",
+      "text": "You blink, and the teacher is on a different page. You blink again, and the lesson is over."
+    },
+    {
+      "beat": "p6",
+      "text": "Here's why. While you sleep, your brain cleans itself. Fluid washes through it and carries away the waste that builds up during the day. In sleeping mice, scientists found that the spaces between brain cells open up by about sixty percent, so the fluid can flush through."
+    },
+    {
+      "beat": "p7",
+      "text": "You're not getting that wash. In one study, a single night without sleep raised a waste protein called beta-amyloid, the one linked to Alzheimer's, by about five percent."
+    },
+    {
+      "beat": "p8",
+      "text": "And your memory? After one sleepless night, people's ability to store new memories dropped by about forty percent. You read three chapters last night. Today, you can't remember any of them."
+    },
+    {
+      "beat": "p9",
+      "text": "Hour forty-eight. Your stomach is roaring. Losing sleep pushes up the hormone that makes you hungry and pushes down the one that tells you you're full. You've eaten four lunches. Mo stops sharing his crisps."
+    },
+    {
+      "beat": "p10",
+      "text": "And on the morning of day three, you walk into the kitchen, and the fridge says good morning."
+    }
+  ],
+  "science": [
+    {
+      "claim": "After 17-19 hours awake, performance is equivalent to a blood alcohol concentration of 0.05%.",
+      "working": "Subjects kept awake 17-19 h performed on several tests as badly as at 0.05% BAC.",
+      "source": "Williamson & Feyer, Occupational and Environmental Medicine 57 (2000)"
+    },
+    {
+      "claim": "After 24 hours awake, performance is equivalent to about 0.10% BAC.",
+      "working": "Tracking performance after 24 h of wakefulness matched that at a BAC of roughly 0.10%.",
+      "source": "Dawson & Reid, Nature 388 (1997)"
+    },
+    {
+      "claim": "During sleep the interstitial space of the brain expands by about 60%, speeding the clearance of waste.",
+      "working": "In mice, interstitial volume rose from ~14% to ~23% of brain volume during sleep, a 60% increase, with faster clearance of beta-amyloid.",
+      "source": "Xie et al., Science 342 (2013)"
+    },
+    {
+      "claim": "One night of sleep deprivation raised beta-amyloid in the brain by about 5%.",
+      "working": "PET imaging in 20 healthy adults after one night without sleep showed ~5% more beta-amyloid in the hippocampus and thalamus.",
+      "source": "Shokri-Kojori et al., PNAS 115 (2018)"
+    },
+    {
+      "claim": "One night without sleep cut the ability to form new memories by about 40%.",
+      "working": "Sleep-deprived subjects showed a ~40% deficit in memory encoding compared with rested subjects.",
+      "source": "Yoo et al., Nature Neuroscience 10 (2007)"
+    },
+    {
+      "claim": "Sleep loss raises ghrelin (hunger) and lowers leptin (fullness).",
+      "working": "Two nights of 4 h sleep: ghrelin +28%, leptin -18%, hunger +24%.",
+      "source": "Spiegel et al., Annals of Internal Medicine 141 (2004)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "big word",
+      "set": "street blur",
+      "key": 30,
+      "note": "HOUR 19"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "set": "street",
+      "key": 30,
+      "note": "which house is yours? ? ? ?"
+    },
+    {
+      "id": "S3",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "0.05% after 17-19 h awake"
+    },
+    {
+      "id": "S3B",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "over the driving limit: keys crossed"
+    },
+    {
+      "id": "S4",
+      "size": "big word",
+      "set": "classroom blur",
+      "key": 30,
+      "note": "HOUR 24"
+    },
+    {
+      "id": "S5",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "0.10%"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "classroom",
+      "key": 30,
+      "note": "sober, dizzy, holding a sandwich in maths"
+    },
+    {
+      "id": "S7",
+      "size": "close-up",
+      "set": "classroom",
+      "key": 30,
+      "note": "microsleep: picture goes black"
+    },
+    {
+      "id": "S8",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "a car drifts out of its lane"
+    },
+    {
+      "id": "S9",
+      "size": "wide",
+      "set": "classroom",
+      "key": 30,
+      "note": "blink: page 12 -> 47 -> lesson over"
+    },
+    {
+      "id": "S10",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "the brain wash"
+    },
+    {
+      "id": "S11",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "cells open +60% in sleeping mice"
+    },
+    {
+      "id": "S12",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "beta-amyloid +5%"
+    },
+    {
+      "id": "S13",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "memory -40%"
+    },
+    {
+      "id": "S14",
+      "size": "close-up",
+      "set": "classroom",
+      "key": 30,
+      "note": "the book's pages go blank"
+    },
+    {
+      "id": "S15",
+      "size": "big word",
+      "set": "street blur",
+      "key": 30,
+      "note": "HOUR 48"
+    },
+    {
+      "id": "S16",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "hunger up, fullness down"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "set": "street",
+      "key": 30,
+      "note": "lunch #4, Mo hides his crisps"
+    },
+    {
+      "id": "S18",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "day 3: you walk in"
+    },
+    {
+      "id": "S19",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 30,
+      "note": "the fridge: GOOD MORNING!"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You're"
+    },
+    {
+      "shot": "S3",
+      "at": "That"
+    },
+    {
+      "shot": "S3B",
+      "at": "In"
+    },
+    {
+      "shot": "S4",
+      "at": "Hour"
+    },
+    {
+      "shot": "S5",
+      "at": "Point"
+    },
+    {
+      "shot": "S6",
+      "at": "Like"
+    },
+    {
+      "shot": "S7",
+      "at": "And"
+    },
+    {
+      "shot": "S8",
+      "at": "Microsleeps#2"
+    },
+    {
+      "shot": "S9",
+      "at": "You"
+    },
+    {
+      "shot": "S10",
+      "at": "Here's"
+    },
+    {
+      "shot": "S11",
+      "at": "In"
+    },
+    {
+      "shot": "S12",
+      "at": "You're"
+    },
+    {
+      "shot": "S13",
+      "at": "And"
+    },
+    {
+      "shot": "S14",
+      "at": "You"
+    },
+    {
+      "shot": "S15",
+      "at": "Hour"
+    },
+    {
+      "shot": "S16",
+      "at": "Losing"
+    },
+    {
+      "shot": "S17",
+      "at": "You've"
+    },
+    {
+      "shot": "S18",
+      "at": "And"
+    },
+    {
+      "shot": "S19",
+      "at": "and"
+    }
+  ],
+  "fx": [],
+  "sound": {
+    "clips": {
+      "bubble_syn": [
+        "procedural: a giant water blob lifting with gloopy bubbles",
+        3.0
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "chew": [
+        "someone chewing food thoughtfully, close, cartoon",
+        1.0
+      ],
+      "cookie_crunch": [
+        "one crunchy bite into a chocolate chip cookie, close up",
+        0.6
+      ],
+      "dizzy": [
+        "cartoon dizzy birds tweeting in a circle after a bonk",
+        1.4
+      ],
+      "door_shut": [
+        "an old wooden door closing firmly with a latch click",
+        1.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "glitch": [
+        "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+        1.5
+      ],
+      "horn_syn": [
+        "procedural: a car horn honk, two tones",
+        0.7
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "power_off": [
+        "an electronic device powering off, a short descending tone into silence",
+        1.2
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S2+0",
+        "dizzy",
+        0.3
+      ],
+      [
+        "S3+0",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S3B+0",
+        "buzzer",
+        0.3
+      ],
+      [
+        "S4+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S6+0",
+        "dizzy",
+        0.3
+      ],
+      [
+        "S7+0",
+        "power_off",
+        0.4
+      ],
+      [
+        "S8+0",
+        "horn_syn",
+        0.25
+      ],
+      [
+        "S9+0",
+        "whoosh",
+        0.35
+      ],
+      [
+        "S10+0",
+        "bubble_syn",
+        0.2
+      ],
+      [
+        "S13+0",
+        "glitch",
+        0.25
+      ],
+      [
+        "S15+0",
+        "card_hit",
+        0.3
+      ],
+      [
+        "S16+0",
+        "chew",
+        0.35
+      ],
+      [
+        "S17+0",
+        "cookie_crunch",
+        0.4
+      ],
+      [
+        "S18+0",
+        "door_shut",
+        0.3
+      ],
+      [
+        "S19+0",
+        "drone_hit",
+        0.35
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -17.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "After 17-19 hours awake, performance is equivalent to a blood alcohol concentration of 0.05%.",
-   "working": "Subjects kept awake 17-19 h performed on several tests as badly as at 0.05% BAC.",
-   "source": "Williamson & Feyer, Occupational and Environmental Medicine 57 (2000)"
-  },
-  {
-   "claim": "After 24 hours awake, performance is equivalent to about 0.10% BAC.",
-   "working": "Tracking performance after 24 h of wakefulness matched that at a BAC of roughly 0.10%.",
-   "source": "Dawson & Reid, Nature 388 (1997)"
-  },
-  {
-   "claim": "During sleep the interstitial space of the brain expands by about 60%, speeding the clearance of waste.",
-   "working": "In mice, interstitial volume rose from ~14% to ~23% of brain volume during sleep, a 60% increase, with faster clearance of beta-amyloid.",
-   "source": "Xie et al., Science 342 (2013)"
-  },
-  {
-   "claim": "One night of sleep deprivation raised beta-amyloid in the brain by about 5%.",
-   "working": "PET imaging in 20 healthy adults after one night without sleep showed ~5% more beta-amyloid in the hippocampus and thalamus.",
-   "source": "Shokri-Kojori et al., PNAS 115 (2018)"
-  },
-  {
-   "claim": "One night without sleep cut the ability to form new memories by about 40%.",
-   "working": "Sleep-deprived subjects showed a ~40% deficit in memory encoding compared with rested subjects.",
-   "source": "Yoo et al., Nature Neuroscience 10 (2007)"
-  },
-  {
-   "claim": "Sleep loss raises ghrelin (hunger) and lowers leptin (fullness).",
-   "working": "Two nights of 4 h sleep: ghrelin +28%, leptin -18%, hunger +24%.",
-   "source": "Spiegel et al., Annals of Internal Medicine 141 (2004)"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "big word",
-   "set": "street blur",
-   "key": 30,
-   "note": "HOUR 19"
-  },
-  {
-   "id": "S2",
-   "size": "medium",
-   "set": "street",
-   "key": 30,
-   "note": "which house is yours? ? ? ?"
-  },
-  {
-   "id": "S3",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "0.05% after 17-19 h awake"
-  },
-  {
-   "id": "S3B",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "over the driving limit: keys crossed"
-  },
-  {
-   "id": "S4",
-   "size": "big word",
-   "set": "classroom blur",
-   "key": 30,
-   "note": "HOUR 24"
-  },
-  {
-   "id": "S5",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "0.10%"
-  },
-  {
-   "id": "S6",
-   "size": "medium",
-   "set": "classroom",
-   "key": 30,
-   "note": "sober, dizzy, holding a sandwich in maths"
-  },
-  {
-   "id": "S7",
-   "size": "close-up",
-   "set": "classroom",
-   "key": 30,
-   "note": "microsleep: picture goes black"
-  },
-  {
-   "id": "S8",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "a car drifts out of its lane"
-  },
-  {
-   "id": "S9",
-   "size": "wide",
-   "set": "classroom",
-   "key": 30,
-   "note": "blink: page 12 -> 47 -> lesson over"
-  },
-  {
-   "id": "S10",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "the brain wash"
-  },
-  {
-   "id": "S11",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "cells open +60% in sleeping mice"
-  },
-  {
-   "id": "S12",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "beta-amyloid +5%"
-  },
-  {
-   "id": "S13",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "memory -40%"
-  },
-  {
-   "id": "S14",
-   "size": "close-up",
-   "set": "classroom",
-   "key": 30,
-   "note": "the book's pages go blank"
-  },
-  {
-   "id": "S15",
-   "size": "big word",
-   "set": "street blur",
-   "key": 30,
-   "note": "HOUR 48"
-  },
-  {
-   "id": "S16",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "hunger up, fullness down"
-  },
-  {
-   "id": "S17",
-   "size": "medium",
-   "set": "street",
-   "key": 30,
-   "note": "lunch #4, Mo hides his crisps"
-  },
-  {
-   "id": "S18",
-   "size": "wide",
-   "set": "kitchen",
-   "key": 30,
-   "note": "day 3: you walk in"
-  },
-  {
-   "id": "S19",
-   "size": "close-up",
-   "set": "kitchen",
-   "key": 30,
-   "note": "the fridge: GOOD MORNING!"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "You're"
-  },
-  {
-   "shot": "S3",
-   "at": "That"
-  },
-  {
-   "shot": "S3B",
-   "at": "In"
-  },
-  {
-   "shot": "S4",
-   "at": "Hour"
-  },
-  {
-   "shot": "S5",
-   "at": "Point"
-  },
-  {
-   "shot": "S6",
-   "at": "Like"
-  },
-  {
-   "shot": "S7",
-   "at": "And"
-  },
-  {
-   "shot": "S8",
-   "at": "Microsleeps#2"
-  },
-  {
-   "shot": "S9",
-   "at": "You"
-  },
-  {
-   "shot": "S10",
-   "at": "Here's"
-  },
-  {
-   "shot": "S11",
-   "at": "In"
-  },
-  {
-   "shot": "S12",
-   "at": "You're"
-  },
-  {
-   "shot": "S13",
-   "at": "And"
-  },
-  {
-   "shot": "S14",
-   "at": "You"
-  },
-  {
-   "shot": "S15",
-   "at": "Hour"
-  },
-  {
-   "shot": "S16",
-   "at": "Losing"
-  },
-  {
-   "shot": "S17",
-   "at": "You've"
-  },
-  {
-   "shot": "S18",
-   "at": "And"
-  },
-  {
-   "shot": "S19",
-   "at": "and"
-  }
- ],
- "fx": []
 }

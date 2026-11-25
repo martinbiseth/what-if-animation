@@ -1,195 +1,302 @@
 {
- "id": "NeverSleepC02",
- "slug": "never-sleep/c02",
- "chapter": "The broken alarm",
- "topic": "What if you never slept again?",
- "script": [
-  {
-   "beat": "p1",
-   "text": "Here's the deal. Your brain has stopped sending the signal that says, sleep now. You don't feel tired. Your eyes don't burn. You don't yawn."
-  },
-  {
-   "beat": "p2",
-   "text": "But here's the catch nobody told you. Feeling tired and needing sleep are two different things."
-  },
-  {
-   "beat": "p3",
-   "text": "Feeling sleepy is just the alarm. It comes from a chemical called adenosine. Every hour you're awake, more of it piles up in your brain, like sand in an hourglass. Sleep is what tips the hourglass back over. Coffee works by blocking it."
-  },
-  {
-   "beat": "p4",
-   "text": "Your alarm is broken. But the clock is still ticking."
-  },
-  {
-   "beat": "p5",
-   "text": "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person you know. You even write it on a sticky note on your mirror. Tell Mo."
-  },
-  {
-   "beat": "p6",
-   "text": "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum.'"
-  },
-  {
-   "beat": "p7",
-   "text": "Remember the fridge."
+  "id": "NeverSleepC02",
+  "slug": "never-sleep/c02",
+  "chapter": "The broken alarm",
+  "topic": "What if you never slept again?",
+  "script": [
+    {
+      "beat": "p1",
+      "text": "Here's the deal. Your brain has stopped sending the signal that says, sleep now. You don't feel tired. Your eyes don't burn. You don't yawn."
+    },
+    {
+      "beat": "p2",
+      "text": "But here's the catch nobody told you. Feeling tired and needing sleep are two different things."
+    },
+    {
+      "beat": "p3",
+      "text": "Feeling sleepy is just the alarm. It comes from a chemical called adenosine. Every hour you're awake, more of it piles up in your brain, like sand in an hourglass. Sleep is what tips the hourglass back over. Coffee works by blocking it."
+    },
+    {
+      "beat": "p4",
+      "text": "Your alarm is broken. But the clock is still ticking."
+    },
+    {
+      "beat": "p5",
+      "text": "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person you know. You even write it on a sticky note on your mirror. Tell Mo."
+    },
+    {
+      "beat": "p6",
+      "text": "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum.'"
+    },
+    {
+      "beat": "p7",
+      "text": "Remember the fridge."
+    }
+  ],
+  "science": [
+    {
+      "claim": "Sleepiness builds with adenosine during waking hours, and caffeine works by blocking adenosine receptors.",
+      "working": "Adenosine accumulates in the basal forebrain during prolonged wakefulness and promotes sleep; caffeine is an adenosine receptor antagonist.",
+      "source": "Porkka-Heiskanen et al., Science 276 (1997); Fredholm et al., Pharmacological Reviews 51 (1999)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "the SLEEP NOW signal is gone"
+    },
+    {
+      "id": "S2",
+      "size": "close-up",
+      "set": "street",
+      "key": 30,
+      "note": "not tired, eyes fine, no yawn"
+    },
+    {
+      "id": "S3",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "FEELING TIRED ≠ NEEDING SLEEP"
+    },
+    {
+      "id": "S4",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "the alarm clock icon rings"
+    },
+    {
+      "id": "S5",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "adenosine piles up in the brain"
+    },
+    {
+      "id": "S6",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "hourglass fills with every hour"
+    },
+    {
+      "id": "S7",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "sleep flips the hourglass"
+    },
+    {
+      "id": "S8",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "caffeine blocks the alarm"
+    },
+    {
+      "id": "S9",
+      "size": "graphic",
+      "set": "schematic",
+      "key": 30,
+      "note": "alarm broken, clock still ticking"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "set": "street",
+      "key": 30,
+      "note": "you and Mo: RULE: TELL MO"
+    },
+    {
+      "id": "S11",
+      "size": "insert",
+      "set": "bedroom mirror",
+      "key": 30,
+      "note": "sticky note TELL MO!"
+    },
+    {
+      "id": "S12",
+      "size": "close-up",
+      "set": "street",
+      "key": 30,
+      "note": "Mo: Deal... the fridge... calling your mum"
+    },
+    {
+      "id": "S13",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "push in on the fridge, it opens two eyes"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "You"
+    },
+    {
+      "shot": "S3",
+      "at": "But"
+    },
+    {
+      "shot": "S4",
+      "at": "Feeling"
+    },
+    {
+      "shot": "S5",
+      "at": "It"
+    },
+    {
+      "shot": "S6",
+      "at": "Every"
+    },
+    {
+      "shot": "S7",
+      "at": "Sleep"
+    },
+    {
+      "shot": "S8",
+      "at": "Coffee"
+    },
+    {
+      "shot": "S9",
+      "at": "Your"
+    },
+    {
+      "shot": "S10",
+      "at": "So"
+    },
+    {
+      "shot": "S11",
+      "at": "You#3"
+    },
+    {
+      "shot": "S12",
+      "at": "Mo#2"
+    },
+    {
+      "shot": "S13",
+      "at": "Remember"
+    }
+  ],
+  "fx": [],
+  "title": [
+    "WHAT IF YOU COULD",
+    ""
+  ],
+  "sound": {
+    "clips": {
+      "alarm": [
+        "a digital bedside alarm clock beeping, fast repeated beeps",
+        1.5
+      ],
+      "clink": [
+        "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+        0.7
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "m_curious": [
+        "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "power_off": [
+        "an electronic device powering off, a short descending tone into silence",
+        1.2
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "tick": [
+        "a slow old clock ticking in a quiet room",
+        4.0
+      ],
+      "whoosh": [
+        "a quick soft cartoon whoosh, airy transition",
+        0.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "power_off",
+        0.3
+      ],
+      [
+        "S3+0",
+        "pop",
+        0.45
+      ],
+      [
+        "S4+0",
+        "alarm",
+        0.25
+      ],
+      [
+        "S6+0",
+        "select_draw",
+        0.35
+      ],
+      [
+        "S7+0",
+        "whoosh",
+        0.35,
+        "peak"
+      ],
+      [
+        "S8+0",
+        "clink",
+        0.4
+      ],
+      [
+        "S9+0",
+        "tick",
+        0.3,
+        "onset",
+        "S10"
+      ],
+      [
+        "S11+0",
+        "pop",
+        0.45
+      ],
+      [
+        "S12+0",
+        "gulp",
+        0.3
+      ],
+      [
+        "S13+0",
+        "drone_hit",
+        0.3
+      ]
+    ],
+    "music": {
+      "clip": "m_curious",
+      "loop": true
+    },
+    "levels": {
+      "sfx_lu": -8.0,
+      "music_lu": -17.0
+    }
   }
- ],
- "science": [
-  {
-   "claim": "Sleepiness builds with adenosine during waking hours, and caffeine works by blocking adenosine receptors.",
-   "working": "Adenosine accumulates in the basal forebrain during prolonged wakefulness and promotes sleep; caffeine is an adenosine receptor antagonist.",
-   "source": "Porkka-Heiskanen et al., Science 276 (1997); Fredholm et al., Pharmacological Reviews 51 (1999)"
-  }
- ],
- "shots": [
-  {
-   "id": "S1",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "the SLEEP NOW signal is gone"
-  },
-  {
-   "id": "S2",
-   "size": "close-up",
-   "set": "street",
-   "key": 30,
-   "note": "not tired, eyes fine, no yawn"
-  },
-  {
-   "id": "S3",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "FEELING TIRED ≠ NEEDING SLEEP"
-  },
-  {
-   "id": "S4",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "the alarm clock icon rings"
-  },
-  {
-   "id": "S5",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "adenosine piles up in the brain"
-  },
-  {
-   "id": "S6",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "hourglass fills with every hour"
-  },
-  {
-   "id": "S7",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "sleep flips the hourglass"
-  },
-  {
-   "id": "S8",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "caffeine blocks the alarm"
-  },
-  {
-   "id": "S9",
-   "size": "graphic",
-   "set": "schematic",
-   "key": 30,
-   "note": "alarm broken, clock still ticking"
-  },
-  {
-   "id": "S10",
-   "size": "medium",
-   "set": "street",
-   "key": 30,
-   "note": "you and Mo: RULE: TELL MO"
-  },
-  {
-   "id": "S11",
-   "size": "insert",
-   "set": "bedroom mirror",
-   "key": 30,
-   "note": "sticky note TELL MO!"
-  },
-  {
-   "id": "S12",
-   "size": "close-up",
-   "set": "street",
-   "key": 30,
-   "note": "Mo: Deal... the fridge... calling your mum"
-  },
-  {
-   "id": "S13",
-   "size": "wide",
-   "set": "kitchen",
-   "key": 30,
-   "note": "push in on the fridge, it opens two eyes"
-  }
- ],
- "edit": [
-  {
-   "shot": "S1",
-   "at": "f:0"
-  },
-  {
-   "shot": "S2",
-   "at": "You"
-  },
-  {
-   "shot": "S3",
-   "at": "But"
-  },
-  {
-   "shot": "S4",
-   "at": "Feeling"
-  },
-  {
-   "shot": "S5",
-   "at": "It"
-  },
-  {
-   "shot": "S6",
-   "at": "Every"
-  },
-  {
-   "shot": "S7",
-   "at": "Sleep"
-  },
-  {
-   "shot": "S8",
-   "at": "Coffee"
-  },
-  {
-   "shot": "S9",
-   "at": "Your"
-  },
-  {
-   "shot": "S10",
-   "at": "So"
-  },
-  {
-   "shot": "S11",
-   "at": "You#3"
-  },
-  {
-   "shot": "S12",
-   "at": "Mo#2"
-  },
-  {
-   "shot": "S13",
-   "at": "Remember"
-  }
- ],
- "fx": [],
- "title": [
-  "WHAT IF YOU COULD",
-  ""
- ]
 }
