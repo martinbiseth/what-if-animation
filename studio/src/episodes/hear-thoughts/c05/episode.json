@@ -36,18 +36,277 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: Someone notices"
+      "note": "card"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "station: Leo!"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "Leo mum CU"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "station crowd noise"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "you close eyes"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "tiny voice under noise"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "you run"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "Leo under clock"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "hug"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "someone films"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "lucky guess"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "million views"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "comments"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "mum: that's my kid"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "not the only one"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "2023 implant"
+    },
+    {
+      "id": "S27",
+      "size": "medium",
+      "key": 30,
+      "note": "fact 62 wpm"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "2025 inner speech"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "machines learning"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "new girl Nora"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "something wrong"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "Nora silent"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "teacher asks Nora"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "you stare"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 30,
+      "note": "at the bin"
+    },
+    {
+      "id": "S25",
+      "size": "medium",
+      "key": 30,
+      "note": "room full of noise"
+    },
+    {
+      "id": "S26",
+      "size": "medium",
+      "key": 30,
+      "note": "Nora smiles"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:2.23"
+    },
+    {
+      "shot": "S3",
+      "at": "s:6.03"
+    },
+    {
+      "shot": "S4",
+      "at": "s:7.43"
+    },
+    {
+      "shot": "S5",
+      "at": "s:8.83"
+    },
+    {
+      "shot": "S6",
+      "at": "s:10.83"
+    },
+    {
+      "shot": "S7",
+      "at": "s:17.33"
+    },
+    {
+      "shot": "S8",
+      "at": "s:18.23"
+    },
+    {
+      "shot": "S9",
+      "at": "s:20.73"
+    },
+    {
+      "shot": "S10",
+      "at": "s:23.43"
+    },
+    {
+      "shot": "S11",
+      "at": "s:26.33"
+    },
+    {
+      "shot": "S12",
+      "at": "s:28.13"
+    },
+    {
+      "shot": "S13",
+      "at": "s:32.33"
+    },
+    {
+      "shot": "S14",
+      "at": "s:35.23"
+    },
+    {
+      "shot": "S15",
+      "at": "s:39.53"
+    },
+    {
+      "shot": "S16",
+      "at": "s:41.93"
+    },
+    {
+      "shot": "S27",
+      "at": "s:48.43"
+    },
+    {
+      "shot": "S17",
+      "at": "s:50.33"
+    },
+    {
+      "shot": "S18",
+      "at": "s:56.43"
+    },
+    {
+      "shot": "S19",
+      "at": "s:59.83"
+    },
+    {
+      "shot": "S20",
+      "at": "s:64.53"
+    },
+    {
+      "shot": "S21",
+      "at": "s:65.93"
+    },
+    {
+      "shot": "S22",
+      "at": "s:69.23"
+    },
+    {
+      "shot": "S23",
+      "at": "s:73.13"
+    },
+    {
+      "shot": "S24",
+      "at": "s:75.53"
+    },
+    {
+      "shot": "S25",
+      "at": "s:78.43"
+    },
+    {
+      "shot": "S26",
+      "at": "s:81.93"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "tail": 1.0
 }

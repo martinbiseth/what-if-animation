@@ -1,29 +1,473 @@
 {
  "slug": "hear-thoughts/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2603,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 67,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 67,
+   "line": "Then, one afternoon at the train station,"
+  },
+  {
+   "shot": "S2",
+   "a": 67,
+   "b": 181,
+   "t0": 0,
+   "t1": 114,
+   "line": "a woman is screaming a name. 'Leo! Leo! '"
+  },
+  {
+   "shot": "S3",
+   "a": 181,
+   "b": 223,
+   "t0": 0,
+   "t1": 42,
+   "line": "Her little boy is gone."
+  },
+  {
+   "shot": "S4",
+   "a": 223,
+   "b": 265,
+   "t0": 0,
+   "t1": 42,
+   "line": "Hundreds of people."
+  },
+  {
+   "shot": "S5",
+   "a": 265,
+   "b": 325,
+   "t0": 0,
+   "t1": 60,
+   "line": "You close your eyes and listen."
+  },
+  {
+   "shot": "S6",
+   "a": 325,
+   "b": 520,
+   "t0": 0,
+   "t1": 195,
+   "line": "Under all the noise, there's one tiny voice. 'Mummy said wait by the big clock. Wait by the big clock. '"
+  },
+  {
+   "shot": "S7",
+   "a": 520,
+   "b": 547,
+   "t0": 0,
+   "t1": 27,
+   "line": "You run."
+  },
+  {
+   "shot": "S8",
+   "a": 547,
+   "b": 622,
+   "t0": 0,
+   "t1": 75,
+   "line": "He's under the clock, holding a toy bus."
+  },
+  {
+   "shot": "S9",
+   "a": 622,
+   "b": 703,
+   "t0": 0,
+   "t1": 81,
+   "line": "His mum hugs him so hard she nearly falls over."
+  },
+  {
+   "shot": "S10",
+   "a": 703,
+   "b": 790,
+   "t0": 0,
+   "t1": 87,
+   "line": "Someone films it. 'How did you know where he was? '"
+  },
+  {
+   "shot": "S11",
+   "a": 790,
+   "b": 844,
+   "t0": 0,
+   "t1": 54,
+   "line": "'Lucky guess, ' you say."
+  },
+  {
+   "shot": "S12",
+   "a": 844,
+   "b": 970,
+   "t0": 0,
+   "t1": 126,
+   "line": "By the evening, a million people have watched it. Your phone won't stop buzzing."
+  },
+  {
+   "shot": "S13",
+   "a": 970,
+   "b": 1057,
+   "t0": 0,
+   "t1": 87,
+   "line": "Strangers in the comments argue about whether it's fake."
+  },
+  {
+   "shot": "S14",
+   "a": 1057,
+   "b": 1186,
+   "t0": 0,
+   "t1": 129,
+   "line": "Your mum watches it four times and thinks, very loudly, 'That's my kid. '"
+  },
+  {
+   "shot": "S15",
+   "a": 1186,
+   "b": 1258,
+   "t0": 0,
+   "t1": 72,
+   "line": "And you aren't the only one listening to heads."
+  },
+  {
+   "shot": "S16",
+   "a": 1258,
+   "b": 1453,
+   "t0": 0,
+   "t1": 195,
+   "line": "In 2023, scientists at Stanford used a brain implant to turn a woman's attempted speech into words on a screen,"
+  },
+  {
+   "shot": "S27",
+   "a": 1453,
+   "b": 1510,
+   "t0": 0,
+   "t1": 57,
+   "line": "at sixty- two words a minute."
+  },
+  {
+   "shot": "S17",
+   "a": 1510,
+   "b": 1693,
+   "t0": 0,
+   "t1": 183,
+   "line": "In 2025, the same kind of implant started picking up inner speech: words people only thought."
+  },
+  {
+   "shot": "S18",
+   "a": 1693,
+   "b": 1795,
+   "t0": 0,
+   "t1": 102,
+   "line": "That's real. Machines are slowly learning to do what you do."
+  },
+  {
+   "shot": "S19",
+   "a": 1795,
+   "b": 1936,
+   "t0": 0,
+   "t1": 141,
+   "line": "On Monday, there's a new girl in your class. Nora. She sits right behind you."
+  },
+  {
+   "shot": "S20",
+   "a": 1936,
+   "b": 1978,
+   "t0": 0,
+   "t1": 42,
+   "line": "And something is wrong."
+  },
+  {
+   "shot": "S21",
+   "a": 1978,
+   "b": 2077,
+   "t0": 0,
+   "t1": 99,
+   "line": "You can't hear her. Not a whisper. Not one word."
+  },
+  {
+   "shot": "S22",
+   "a": 2077,
+   "b": 2194,
+   "t0": 0,
+   "t1": 117,
+   "line": "The teacher asks her a question, and she answers out loud, but her head stays silent."
+  },
+  {
+   "shot": "S23",
+   "a": 2194,
+   "b": 2266,
+   "t0": 0,
+   "t1": 72,
+   "line": "You try everything. You stare at her."
+  },
+  {
+   "shot": "S24",
+   "a": 2266,
+   "b": 2353,
+   "t0": 0,
+   "t1": 87,
+   "line": "You stand right next to her at the bin. Nothing."
+  },
+  {
+   "shot": "S25",
+   "a": 2353,
+   "b": 2458,
+   "t0": 0,
+   "t1": 105,
+   "line": "In a room full of noise, there's one perfectly silent head."
+  },
+  {
+   "shot": "S26",
+   "a": 2458,
+   "b": 2603,
+   "t0": 0,
+   "t1": 145,
+   "line": "She looks up from her book, straight at you, and smiles. As if she knows."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
    "key": 30,
-   "len": 90,
+   "len": 67,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Then, one afternoon at the train station,",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 67,
+   "line": "a woman is screaming a name. 'Leo! Leo! '",
+   "note": "station: Leo!"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 181,
+   "line": "Her little boy is gone.",
+   "note": "Leo mum CU"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 223,
+   "line": "Hundreds of people.",
+   "note": "station crowd noise"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 60,
+   "first": 265,
+   "line": "You close your eyes and listen.",
+   "note": "you close eyes"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 195,
+   "first": 325,
+   "line": "Under all the noise, there's one tiny voice. 'Mummy said wait by the big clock. Wait by the big clock. '",
+   "note": "tiny voice under noise"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 27,
+   "first": 520,
+   "line": "You run.",
+   "note": "you run"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 75,
+   "first": 547,
+   "line": "He's under the clock, holding a toy bus.",
+   "note": "Leo under clock"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 622,
+   "line": "His mum hugs him so hard she nearly falls over.",
+   "note": "hug"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 87,
+   "first": 703,
+   "line": "Someone films it. 'How did you know where he was? '",
+   "note": "someone films"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 54,
+   "first": 790,
+   "line": "'Lucky guess, ' you say.",
+   "note": "lucky guess"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 126,
+   "first": 844,
+   "line": "By the evening, a million people have watched it. Your phone won't stop buzzing.",
+   "note": "million views"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 87,
+   "first": 970,
+   "line": "Strangers in the comments argue about whether it's fake.",
+   "note": "comments"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 129,
+   "first": 1057,
+   "line": "Your mum watches it four times and thinks, very loudly, 'That's my kid. '",
+   "note": "mum: that's my kid"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 1186,
+   "line": "And you aren't the only one listening to heads.",
+   "note": "not the only one"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 195,
+   "first": 1258,
+   "line": "In 2023, scientists at Stanford used a brain implant to turn a woman's attempted speech into words on a screen,",
+   "note": "2023 implant"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 30,
+   "len": 57,
+   "first": 1453,
+   "line": "at sixty- two words a minute.",
+   "note": "fact 62 wpm"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 183,
+   "first": 1510,
+   "line": "In 2025, the same kind of implant started picking up inner speech: words people only thought.",
+   "note": "2025 inner speech"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 102,
+   "first": 1693,
+   "line": "That's real. Machines are slowly learning to do what you do.",
+   "note": "machines learning"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 141,
+   "first": 1795,
+   "line": "On Monday, there's a new girl in your class. Nora. She sits right behind you.",
+   "note": "new girl Nora"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 1936,
+   "line": "And something is wrong.",
+   "note": "something wrong"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 99,
+   "first": 1978,
+   "line": "You can't hear her. Not a whisper. Not one word.",
+   "note": "Nora silent"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 117,
+   "first": 2077,
+   "line": "The teacher asks her a question, and she answers out loud, but her head stays silent.",
+   "note": "teacher asks Nora"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 2194,
+   "line": "You try everything. You stare at her.",
+   "note": "you stare"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 30,
+   "len": 87,
+   "first": 2266,
+   "line": "You stand right next to her at the bin. Nothing.",
+   "note": "at the bin"
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "key": 30,
+   "len": 105,
+   "first": 2353,
+   "line": "In a room full of noise, there's one perfectly silent head.",
+   "note": "room full of noise"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 30,
+   "len": 145,
+   "first": 2458,
+   "line": "She looks up from her book, straight at you, and smiles. As if she knows.",
+   "note": "Nora smiles"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c05/voice.wav"
+ }
 }

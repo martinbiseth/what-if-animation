@@ -217,13 +217,13 @@ export { hallHip };
 export const typed = (t: number, since: number, text: string, rate = 1.1) => clamp((t - since - 2) / Math.max(6, text.length * rate * 0.5));
 
 /** A thought for a Who: text (or keys), the frame it pops (default 4), size, loudness. */
-export type ThoughtSpec = { th: Th; pop?: number; s?: number; loud?: number; side?: number; dim?: number; wrap?: number; lift?: number };
+export type ThoughtSpec = { th: Th; pop?: number; s?: number; loud?: number; side?: number; dim?: number; wrap?: number; lift?: number; color?: string };
 
 const drawThought = (t: number, pose: Pose, sp: ThoughtSpec) => {
   const k = thAt(t, sp.th);
   const since = typeof sp.th === 'string' ? sp.pop ?? 4 : k.since;
   if (!k.text || t < since) return null;
-  return <ThoughtOver pose={pose} text={k.text} t={t} pop={(t - since) / 7} type={typed(t, since, k.text)} s={sp.s} loud={sp.loud} side={sp.side} dim={sp.dim} wrap={sp.wrap} lift={sp.lift} />;
+  return <ThoughtOver pose={pose} text={k.text} t={t} pop={(t - since) / 7} type={typed(t, since, k.text)} s={sp.s} loud={sp.loud} side={sp.side} dim={sp.dim} wrap={sp.wrap} lift={sp.lift} color={sp.color} />;
 };
 
 /** A figure on a set, posed by hand, with a heard thought: the builder for a medium of one or more people. */

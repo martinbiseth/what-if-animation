@@ -49,18 +49,247 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: The catch"
+      "note": "card"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "mall noise"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "stadium of songs"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "grab mum's arm"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "fact 6200"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "millions"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "fact wander 47%"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "teacher rent"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "driver argument"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "fact lies 60%"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 30,
+      "note": "every lie"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "say/think rows"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "you worried"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "art girl weird"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "coach"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "sleepover thought"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "you can't sleep"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "street hums"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "neighbour money"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "baby mum"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "pillow"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "quiet people"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "never stop listening"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:2.53"
+    },
+    {
+      "shot": "S3",
+      "at": "s:9.73"
+    },
+    {
+      "shot": "S4",
+      "at": "s:13.13"
+    },
+    {
+      "shot": "S5",
+      "at": "s:16.63"
+    },
+    {
+      "shot": "S6",
+      "at": "s:23.53"
+    },
+    {
+      "shot": "S7",
+      "at": "s:30.43"
+    },
+    {
+      "shot": "S8",
+      "at": "s:37.13"
+    },
+    {
+      "shot": "S9",
+      "at": "s:40.93"
+    },
+    {
+      "shot": "S10",
+      "at": "s:45.13"
+    },
+    {
+      "shot": "S24",
+      "at": "s:52.33"
+    },
+    {
+      "shot": "S11",
+      "at": "s:54.33"
+    },
+    {
+      "shot": "S12",
+      "at": "s:60.23"
+    },
+    {
+      "shot": "S13",
+      "at": "s:63.23"
+    },
+    {
+      "shot": "S14",
+      "at": "s:66.23"
+    },
+    {
+      "shot": "S15",
+      "at": "s:69.33"
+    },
+    {
+      "shot": "S16",
+      "at": "s:71.43"
+    },
+    {
+      "shot": "S17",
+      "at": "s:78.13"
+    },
+    {
+      "shot": "S18",
+      "at": "s:79.33"
+    },
+    {
+      "shot": "S19",
+      "at": "s:81.73"
+    },
+    {
+      "shot": "S20",
+      "at": "s:84.73"
+    },
+    {
+      "shot": "S21",
+      "at": "s:90.63"
+    },
+    {
+      "shot": "S22",
+      "at": "s:93.33"
+    },
+    {
+      "shot": "S23",
+      "at": "s:97.13"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "tail": 1.0
 }

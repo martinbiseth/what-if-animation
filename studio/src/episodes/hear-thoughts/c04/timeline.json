@@ -1,29 +1,422 @@
 {
  "slug": "hear-thoughts/c04",
- "title": "The catch",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3006,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 76,
+   "t0": 0,
+   "t1": 76,
+   "line": "Hundreds of people, all thinking at once."
+  },
+  {
+   "shot": "S2",
+   "a": 76,
+   "b": 292,
+   "t0": 0,
+   "t1": 216,
+   "line": "'Where did I park? ' 'Is that a spot on my face? ' 'Ninety- nine dollars for a jacket? ' 'I'm so hungry. ' 'I'm so tired."
+  },
+  {
+   "shot": "S3",
+   "a": 292,
+   "b": 394,
+   "t0": 0,
+   "t1": 102,
+   "line": "' It's like standing in a stadium where everyone is shouting a different song."
+  },
+  {
+   "shot": "S4",
+   "a": 394,
+   "b": 499,
+   "t0": 0,
+   "t1": 105,
+   "line": "You grab your mum's arm. You can't even hear her real voice."
+  },
+  {
+   "shot": "S5",
+   "a": 499,
+   "b": 706,
+   "t0": 0,
+   "t1": 207,
+   "line": "Scientists in Canada worked out that a person has about six thousand two hundred separate thoughts every day. That's real."
+  },
+  {
+   "shot": "S6",
+   "a": 706,
+   "b": 913,
+   "t0": 0,
+   "t1": 207,
+   "line": "A busy shopping centre holds thousands of people. That's millions of thoughts, and you're standing in the middle of all of them."
+  },
+  {
+   "shot": "S7",
+   "a": 913,
+   "b": 1114,
+   "t0": 0,
+   "t1": 201,
+   "line": "And most of them aren't about what people are doing. A Harvard study found that people's minds wander almost half the time they're awake."
+  },
+  {
+   "shot": "S8",
+   "a": 1114,
+   "b": 1228,
+   "t0": 0,
+   "t1": 114,
+   "line": "Your teacher, explaining fractions, is thinking about her rent."
+  },
+  {
+   "shot": "S9",
+   "a": 1228,
+   "b": 1354,
+   "t0": 0,
+   "t1": 126,
+   "line": "The bus driver, steering through traffic, is replaying an argument from ten years ago."
+  },
+  {
+   "shot": "S10",
+   "a": 1354,
+   "b": 1570,
+   "t0": 0,
+   "t1": 216,
+   "line": "Then there are the lies. In one study, six out of ten people told at least one lie in a ten- minute chat with a stranger."
+  },
+  {
+   "shot": "S24",
+   "a": 1570,
+   "b": 1630,
+   "t0": 0,
+   "t1": 60,
+   "line": "Now you hear every single one."
+  },
+  {
+   "shot": "S11",
+   "a": 1630,
+   "b": 1807,
+   "t0": 0,
+   "t1": 177,
+   "line": "'I'm fine. ' Not fine. 'I love it. ' Hates it. 'Five minutes away. ' Hasn't left the house."
+  },
+  {
+   "shot": "S12",
+   "a": 1807,
+   "b": 1897,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "And worst of all, you start hearing what people think about you."
+  },
+  {
+   "shot": "S13",
+   "a": 1897,
+   "b": 1987,
+   "t0": 0,
+   "t1": 90,
+   "line": "The girl next to you in art: 'He's a bit weird. '"
+  },
+  {
+   "shot": "S14",
+   "a": 1987,
+   "b": 2080,
+   "t0": 0,
+   "t1": 93,
+   "line": "Your football coach: 'Not good enough for Saturday. '"
+  },
+  {
+   "shot": "S15",
+   "a": 2080,
+   "b": 2143,
+   "t0": 0,
+   "t1": 63,
+   "line": "And Mo. Your best friend."
+  },
+  {
+   "shot": "S16",
+   "a": 2143,
+   "b": 2344,
+   "t0": 0,
+   "t1": 201,
+   "line": "At a sleepover, in the dark, when he thinks you're asleep: 'Sometimes I think he only hangs out with me because nobody else will. '"
+  },
+  {
+   "shot": "S17",
+   "a": 2344,
+   "b": 2380,
+   "t0": 0,
+   "t1": 36,
+   "line": "You stop sleeping."
+  },
+  {
+   "shot": "S18",
+   "a": 2380,
+   "b": 2452,
+   "t0": 0,
+   "t1": 72,
+   "line": "Every house on your street hums like a fridge."
+  },
+  {
+   "shot": "S19",
+   "a": 2452,
+   "b": 2542,
+   "t0": 0,
+   "t1": 90,
+   "line": "At two in the morning, the man next door is worrying about money."
+  },
+  {
+   "shot": "S20",
+   "a": 2542,
+   "b": 2719,
+   "t0": 0,
+   "t1": 177,
+   "line": "Across the road, a baby is too little for words, but her mum is awake too, counting the hours until morning."
+  },
+  {
+   "shot": "S21",
+   "a": 2719,
+   "b": 2800,
+   "t0": 0,
+   "t1": 81,
+   "line": "You put a pillow over your head. It doesn't help."
+  },
+  {
+   "shot": "S22",
+   "a": 2800,
+   "b": 2914,
+   "t0": 0,
+   "t1": 114,
+   "line": "Even the quiet people aren't quiet. Hearing the truth doesn't make you happier."
+  },
+  {
+   "shot": "S23",
+   "a": 2914,
+   "b": 3006,
+   "t0": 0,
+   "t1": 92,
+   "line": "It just means you can never stop listening."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
+   "key": 30,
+   "len": 76,
+   "first": 0,
+   "line": "Hundreds of people, all thinking at once.",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 216,
+   "first": 76,
+   "line": "'Where did I park? ' 'Is that a spot on my face? ' 'Ninety- nine dollars for a jacket? ' 'I'm so hungry. ' 'I'm so tired.",
+   "note": "mall noise"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 102,
+   "first": 292,
+   "line": "' It's like standing in a stadium where everyone is shouting a different song.",
+   "note": "stadium of songs"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 105,
+   "first": 394,
+   "line": "You grab your mum's arm. You can't even hear her real voice.",
+   "note": "grab mum's arm"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 207,
+   "first": 499,
+   "line": "Scientists in Canada worked out that a person has about six thousand two hundred separate thoughts every day. That's real.",
+   "note": "fact 6200"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 207,
+   "first": 706,
+   "line": "A busy shopping centre holds thousands of people. That's millions of thoughts, and you're standing in the middle of all of them.",
+   "note": "millions"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 201,
+   "first": 913,
+   "line": "And most of them aren't about what people are doing. A Harvard study found that people's minds wander almost half the time they're awake.",
+   "note": "fact wander 47%"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 1114,
+   "line": "Your teacher, explaining fractions, is thinking about her rent.",
+   "note": "teacher rent"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 126,
+   "first": 1228,
+   "line": "The bus driver, steering through traffic, is replaying an argument from ten years ago.",
+   "note": "driver argument"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 216,
+   "first": 1354,
+   "line": "Then there are the lies. In one study, six out of ten people told at least one lie in a ten- minute chat with a stranger.",
+   "note": "fact lies 60%"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 30,
+   "len": 60,
+   "first": 1570,
+   "line": "Now you hear every single one.",
+   "note": "every lie"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 177,
+   "first": 1630,
+   "line": "'I'm fine. ' Not fine. 'I love it. ' Hates it. 'Five minutes away. ' Hasn't left the house.",
+   "note": "say/think rows"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The catch"
+   "first": 1807,
+   "line": "And worst of all, you start hearing what people think about you.",
+   "note": "you worried"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 90,
+   "first": 1897,
+   "line": "The girl next to you in art: 'He's a bit weird. '",
+   "note": "art girl weird"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 93,
+   "first": 1987,
+   "line": "Your football coach: 'Not good enough for Saturday. '",
+   "note": "coach"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 2080,
+   "line": "And Mo. Your best friend.",
+   "note": "Mo"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 201,
+   "first": 2143,
+   "line": "At a sleepover, in the dark, when he thinks you're asleep: 'Sometimes I think he only hangs out with me because nobody else will. '",
+   "note": "sleepover thought"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 36,
+   "first": 2344,
+   "line": "You stop sleeping.",
+   "note": "you can't sleep"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 2380,
+   "line": "Every house on your street hums like a fridge.",
+   "note": "street hums"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 90,
+   "first": 2452,
+   "line": "At two in the morning, the man next door is worrying about money.",
+   "note": "neighbour money"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 177,
+   "first": 2542,
+   "line": "Across the road, a baby is too little for words, but her mum is awake too, counting the hours until morning.",
+   "note": "baby mum"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 2719,
+   "line": "You put a pillow over your head. It doesn't help.",
+   "note": "pillow"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 2800,
+   "line": "Even the quiet people aren't quiet. Hearing the truth doesn't make you happier.",
+   "note": "quiet people"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 92,
+   "first": 2914,
+   "line": "It just means you can never stop listening.",
+   "note": "never stop listening"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c04/voice.wav"
+ }
 }
