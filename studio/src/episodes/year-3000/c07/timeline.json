@@ -2,26 +2,315 @@
  "slug": "year-3000/c07",
  "title": " ",
  "fps": 30,
- "total": 1680,
+ "total": 1728,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 1680,
+   "b": 86,
    "t0": 0,
-   "t1": 1680,
-   "line": "It takes you all day to reach the old city. Broken towers, green with plants, quiet as a library. The dot leads you to a metal door. On it, scratched by hand, is your family name. Inside, it's cold. There's a sleep pod. Exactly like yours. And it's switched on. The screen says: 'Asleep since twenty twenty-six. Wake date: today'. Mo Seven wipes the frost off the glass. And the face inside... is yours. Mo Seven's hand is shaking. There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'. So who woke up in the museum? Is any of this real? The science is. Germs change faster than your body can learn them. A thousand years makes English almost unreadable. And thirty-two generations make nearly everyone family. The sources are in the description. What would you do first in the year three thousand? Tell me in the comments, and subscribe so you don't miss part two."
+   "t1": 86,
+   "line": "It takes you all day to reach the old city."
+  },
+  {
+   "shot": "S2",
+   "a": 86,
+   "b": 185,
+   "t0": 0,
+   "t1": 99,
+   "line": "Broken towers, green with plants, quiet as a library."
+  },
+  {
+   "shot": "S3",
+   "a": 185,
+   "b": 340,
+   "t0": 0,
+   "t1": 155,
+   "line": "The dot leads you to a metal door. On it, scratched by hand, is your family name."
+  },
+  {
+   "shot": "S4",
+   "a": 340,
+   "b": 458,
+   "t0": 0,
+   "t1": 118,
+   "line": "Inside, it's cold. There's a sleep pod. Exactly like yours."
+  },
+  {
+   "shot": "S5",
+   "a": 458,
+   "b": 500,
+   "t0": 0,
+   "t1": 42,
+   "line": "And it's switched on."
+  },
+  {
+   "shot": "S6",
+   "a": 500,
+   "b": 624,
+   "t0": 0,
+   "t1": 124,
+   "line": "The screen says: 'Asleep since twenty twenty-six. Wake date: today'."
+  },
+  {
+   "shot": "S7",
+   "a": 624,
+   "b": 695,
+   "t0": 0,
+   "t1": 71,
+   "line": "Mo Seven wipes the frost off the glass."
+  },
+  {
+   "shot": "S8",
+   "a": 695,
+   "b": 761,
+   "t0": 0,
+   "t1": 66,
+   "line": "And the face inside... is yours."
+  },
+  {
+   "shot": "S9",
+   "a": 761,
+   "b": 811,
+   "t0": 0,
+   "t1": 50,
+   "line": "Mo Seven's hand is shaking."
+  },
+  {
+   "shot": "S10",
+   "a": 811,
+   "b": 987,
+   "t0": 0,
+   "t1": 176,
+   "line": "There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'."
+  },
+  {
+   "shot": "S11",
+   "a": 987,
+   "b": 1048,
+   "t0": 0,
+   "t1": 61,
+   "line": "So who woke up in the museum?"
+  },
+  {
+   "shot": "S12",
+   "a": 1048,
+   "b": 1129,
+   "t0": 0,
+   "t1": 81,
+   "line": "Is any of this real? The science is."
+  },
+  {
+   "shot": "S13",
+   "a": 1129,
+   "b": 1216,
+   "t0": 0,
+   "t1": 87,
+   "line": "Germs change faster than your body can learn them."
+  },
+  {
+   "shot": "S14",
+   "a": 1216,
+   "b": 1299,
+   "t0": 0,
+   "t1": 83,
+   "line": "A thousand years makes English almost unreadable."
+  },
+  {
+   "shot": "S15",
+   "a": 1299,
+   "b": 1388,
+   "t0": 0,
+   "t1": 89,
+   "line": "And thirty-two generations make nearly everyone family."
+  },
+  {
+   "shot": "S16",
+   "a": 1388,
+   "b": 1452,
+   "t0": 0,
+   "t1": 64,
+   "line": "The sources are in the description."
+  },
+  {
+   "shot": "S17",
+   "a": 1452,
+   "b": 1546,
+   "t0": 0,
+   "t1": 94,
+   "line": "What would you do first in the year three thousand?"
+  },
+  {
+   "shot": "S18",
+   "a": 1546,
+   "b": 1728,
+   "t0": 0,
+   "t1": 182,
+   "line": "Tell me in the comments, and subscribe so you don't miss part two."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 10,
-   "len": 1680,
+   "key": 30,
+   "len": 86,
    "first": 0,
-   "line": "It takes you all day to reach the old city. Broken towers, green with plants, quiet as a library. The dot leads you to a metal door. On it, scratched by hand, is your family name. Inside, it's cold. There's a sleep pod. Exactly like yours. And it's switched on. The screen says: 'Asleep since twenty twenty-six. Wake date: today'. Mo Seven wipes the frost off the glass. And the face inside... is yours. Mo Seven's hand is shaking. There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'. So who woke up in the museum? Is any of this real? The science is. Germs change faster than your body can learn them. A thousand years makes English almost unreadable. And thirty-two generations make nearly everyone family. The sources are in the description. What would you do first in the year three thousand? Tell me in the comments, and subscribe so you don't miss part two.",
-   "note": "stub"
+   "line": "It takes you all day to reach the old city.",
+   "note": "walking all day into the old city"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "key": 30,
+   "len": 99,
+   "first": 86,
+   "line": "Broken towers, green with plants, quiet as a library.",
+   "note": "broken towers, green, quiet"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 155,
+   "first": 185,
+   "line": "The dot leads you to a metal door. On it, scratched by hand, is your family name.",
+   "note": "the metal door with your family name"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "len": 118,
+   "first": 340,
+   "line": "Inside, it's cold. There's a sleep pod. Exactly like yours.",
+   "note": "cold room, a sleep pod like yours"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 458,
+   "line": "And it's switched on.",
+   "note": "the pod is switched on"
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "key": 30,
+   "len": 124,
+   "first": 500,
+   "line": "The screen says: 'Asleep since twenty twenty-six. Wake date: today'.",
+   "note": "screen: asleep since 2026, wake date today"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 71,
+   "first": 624,
+   "line": "Mo Seven wipes the frost off the glass.",
+   "note": "Mo Seven wipes the frost"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 66,
+   "first": 695,
+   "line": "And the face inside... is yours.",
+   "note": "the face inside is yours"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 30,
+   "len": 50,
+   "first": 761,
+   "line": "Mo Seven's hand is shaking.",
+   "note": "Mo Seven's hand is shaking"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 176,
+   "first": 811,
+   "line": "There's a note taped to the glass, in your sister's handwriting. It says: 'One of you is the copy'.",
+   "note": "the note: one of you is the copy"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 30,
+   "len": 61,
+   "first": 987,
+   "line": "So who woke up in the museum?",
+   "note": "so who woke up in the museum?"
+  },
+  {
+   "id": "S12",
+   "size": "title",
+   "key": 30,
+   "len": 81,
+   "first": 1048,
+   "line": "Is any of this real? The science is.",
+   "note": "is any of this real?"
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "key": 30,
+   "len": 87,
+   "first": 1129,
+   "line": "Germs change faster than your body can learn them.",
+   "note": "germs change faster than your body"
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 30,
+   "len": 83,
+   "first": 1216,
+   "line": "A thousand years makes English almost unreadable.",
+   "note": "1000 years makes English unreadable"
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "key": 30,
+   "len": 89,
+   "first": 1299,
+   "line": "And thirty-two generations make nearly everyone family.",
+   "note": "32 generations make everyone family"
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "key": 30,
+   "len": 64,
+   "first": 1388,
+   "line": "The sources are in the description.",
+   "note": "sources in the description"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 30,
+   "len": 94,
+   "first": 1452,
+   "line": "What would you do first in the year three thousand?",
+   "note": "what would you do first?"
+  },
+  {
+   "id": "S18",
+   "size": "end card",
+   "key": 30,
+   "len": 182,
+   "first": 1546,
+   "line": "Tell me in the comments, and subscribe so you don't miss part two.",
+   "note": "comment and subscribe for part two"
   }
  ],
  "fx": [],

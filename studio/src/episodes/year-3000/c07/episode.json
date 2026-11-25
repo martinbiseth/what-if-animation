@@ -50,16 +50,204 @@
   {
    "id": "S1",
    "size": "wide",
+   "set": "old city",
+   "note": "walking all day into the old city",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "old city",
+   "note": "broken towers, green, quiet",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "set": "old city",
+   "note": "the metal door with your family name",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "set": "vault",
+   "note": "cold room, a sleep pod like yours",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "vault",
+   "note": "the pod is switched on",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "insert",
+   "set": "vault",
+   "note": "screen: asleep since 2026, wake date today",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "set": "vault",
+   "note": "Mo Seven wipes the frost",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "vault",
+   "note": "the face inside is yours",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "set": "vault",
+   "note": "Mo Seven's hand is shaking",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "vault",
+   "note": "the note: one of you is the copy",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "vault",
+   "note": "so who woke up in the museum?",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "title",
    "set": "city",
-   "note": "stub",
-   "key": 10
+   "note": "is any of this real?",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "graphic",
+   "set": "fact",
+   "note": "germs change faster than your body",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "set": "fact",
+   "note": "1000 years makes English unreadable",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "graphic",
+   "set": "fact",
+   "note": "32 generations make everyone family",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "graphic",
+   "set": "fact",
+   "note": "sources in the description",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "city",
+   "note": "what would you do first?",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "end card",
+   "set": "city",
+   "note": "comment and subscribe for part two",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "Broken"
+  },
+  {
+   "shot": "S3",
+   "at": "The"
+  },
+  {
+   "shot": "S4",
+   "at": "Inside"
+  },
+  {
+   "shot": "S5",
+   "at": "And"
+  },
+  {
+   "shot": "S6",
+   "at": "The"
+  },
+  {
+   "shot": "S7",
+   "at": "Mo"
+  },
+  {
+   "shot": "S8",
+   "at": "And"
+  },
+  {
+   "shot": "S9",
+   "at": "Mo"
+  },
+  {
+   "shot": "S10",
+   "at": "There's"
+  },
+  {
+   "shot": "S11",
+   "at": "So"
+  },
+  {
+   "shot": "S12",
+   "at": "Is"
+  },
+  {
+   "shot": "S13",
+   "at": "Germs"
+  },
+  {
+   "shot": "S14",
+   "at": "A"
+  },
+  {
+   "shot": "S15",
+   "at": "And"
+  },
+  {
+   "shot": "S16",
+   "at": "The"
+  },
+  {
+   "shot": "S17",
+   "at": "What"
+  },
+  {
+   "shot": "S18",
+   "at": "Tell"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 2.5
 }
