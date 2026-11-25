@@ -10,4 +10,6 @@ import { gravityChapters } from './gravity';
 
 import { gtaPhysicsChapters } from './gta-physics';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters, ...gtaPhysicsChapters];
+import { moonGoneChapters } from './moon-gone';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...electricityChapters, ...gravityChapters, ...gtaPhysicsChapters, ...moonGoneChapters];

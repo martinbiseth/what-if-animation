@@ -1,0 +1,92 @@
+{
+ "id": "MoonGoneC04",
+ "slug": "moon-gone/c04",
+ "chapter": "The catch",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's the first job the Moon was doing. The tides."
+  },
+  {
+   "beat": "p2",
+   "text": "The Moon's gravity pulls on the whole Earth. But it pulls hardest on the side facing it, and weakest on the far side. So the oceans stretch into two bulges, and as the Earth spins through them, the water rises and falls, about twice a day."
+  },
+  {
+   "beat": "p3",
+   "text": "The Sun makes tides too. But its pull on the oceans is less than half as strong as the Moon's. So without the Moon, the tides don't stop. They shrink, to about a third of a big tide today."
+  },
+  {
+   "beat": "p4",
+   "text": "In the Bay of Fundy in Canada, the water can rise sixteen meters. That's as tall as a five-story building, twice a day. Without the Moon, it's barely five."
+  },
+  {
+   "beat": "p5",
+   "text": "And that's a problem for everything that lives where the sea meets the land. Crabs, mussels, sea stars and snails live in tide pools that fill and drain on the Moon's schedule. With smaller tides, a lot of those pools just dry out."
+  },
+  {
+   "beat": "p6",
+   "text": "Then there's the deep ocean. Tides do about half the work of stirring it, mixing warm water down and cold water up. That stirring carries heat around the planet. Take half of it away, and over time, ocean currents and weather can start to change."
+  },
+  {
+   "beat": "p7",
+   "text": "And some animals use moonlight as a clock. On the Great Barrier Reef, the corals release their eggs all on the same few nights, right after a full Moon in late spring. Every year, it's one of the biggest spawning events on the planet."
+  },
+  {
+   "beat": "p8",
+   "text": "Without a Moon, that clock is gone."
+  },
+  {
+   "beat": "p9",
+   "text": "Nobody knows exactly what the corals will do now. Spawn on the wrong night? Spawn out of sync, so the eggs never meet? Scientists start counting the days."
+  },
+  {
+   "beat": "p10",
+   "text": "Grandpa stands on the dock, staring at his boat sitting in the mud. 'Fifty years,' he says. 'And the water never stood me up before.'"
+  }
+ ],
+ "science": [
+  {
+   "claim": "The Sun's tide-raising force is about 46% of the Moon's.",
+   "working": "Tidal force scales with mass / distance^3; for the Sun vs the Moon that ratio is about 0.46.",
+   "source": "NOAA National Ocean Service, 'Tides and Water Levels'"
+  },
+  {
+   "claim": "Without the Moon, tides would be about a third of a big (spring) tide today.",
+   "working": "Spring tide = Moon + Sun = 1 + 0.46 = 1.46; Sun alone = 0.46; 0.46 / 1.46 = 0.32.",
+   "source": "From NOAA's 46% figure"
+  },
+  {
+   "claim": "Tides in the Bay of Fundy can rise up to 16 m, the largest range in the world.",
+   "working": "16 m x 0.32 is about 5 m with the Sun alone.",
+   "source": "NOAA / Bay of Fundy Tourism; Government of Canada, Fisheries and Oceans"
+  },
+  {
+   "claim": "Tides supply about half of the power that mixes the deep ocean.",
+   "working": "About 2 TW is needed; roughly 1 TW comes from tides, the rest from wind.",
+   "source": "Munk & Wunsch 1998, 'Abyssal recipes II', Deep-Sea Research"
+  },
+  {
+   "claim": "Corals on the Great Barrier Reef mass-spawn on a few nights after a full Moon in late spring (October-December).",
+   "working": "Moonlight is one of the cues that synchronises the spawning.",
+   "source": "Australian Institute of Marine Science (AIMS); Great Barrier Reef Marine Park Authority"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

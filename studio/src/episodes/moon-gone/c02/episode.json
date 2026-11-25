@@ -1,0 +1,62 @@
+{
+ "id": "MoonGoneC02",
+ "slug": "moon-gone/c02",
+ "chapter": "The rules",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's the deal. There's no explosion. No falling rocks. No giant crater. The Moon just stops existing."
+  },
+  {
+   "beat": "p2",
+   "text": "And some things don't change at all. You don't float off your bed. Your weight stays the same. The Earth keeps going around the Sun, and the Sun still comes up in the morning."
+  },
+  {
+   "beat": "p3",
+   "text": "So at first, it doesn't feel like a big deal."
+  },
+  {
+   "beat": "p4",
+   "text": "Your mom checks the news, shrugs, and makes breakfast. School is still on. The bus is still late."
+  },
+  {
+   "beat": "p5",
+   "text": "But the Moon was doing a lot of jobs. Nobody ever had to think about them, because the Moon always showed up for work."
+  },
+  {
+   "beat": "p6",
+   "text": "Mo's grandpa has fished the same bay for fifty years. He reads the tide table the way other people read the weather."
+  },
+  {
+   "beat": "p7",
+   "text": "And Ellie has been checking on something at the beach every day for two months. A sea turtle nest, behind a little orange fence. It's due to hatch any night now."
+  },
+  {
+   "beat": "p8",
+   "text": "Remember that nest. It's going to matter."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}

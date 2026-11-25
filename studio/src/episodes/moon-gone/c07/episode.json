@@ -1,0 +1,61 @@
+{
+ "id": "MoonGoneC07",
+ "slug": "moon-gone/c07",
+ "chapter": "Cliffhanger",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "One by one, the turtles turn around. They scramble down the sand and into the waves. Ellie counts every single one. A hundred and twelve."
+  },
+  {
+   "beat": "p2",
+   "text": "Ellie is crying and laughing at the same time. 'Thirty years,' she whispers. 'The girls come back to this same beach in thirty years to lay their own eggs.' Then she looks up at the black sky. 'How will they find it?'"
+  },
+  {
+   "beat": "p3",
+   "text": "But as the last one swims off, Grandpa looks at his watch and frowns. 'That's not right,' he says. The water is coming in. Fast. Higher than it's been all week, like the old tides. Like something out there is still pulling."
+  },
+  {
+   "beat": "p4",
+   "text": "Mo looks up. Right where the Moon used to be, one little patch of sky has no stars in it at all."
+  },
+  {
+   "beat": "p5",
+   "text": "So, is any of this real? The science is. The Sun's tides really are less than half as strong as the Moon's. The Bay of Fundy really rises sixteen meters. Corals really time their spawning to the Moon, and hatchlings really crawl toward the brightest horizon. Which is why beach towns turn the lights off during nesting season."
+  },
+  {
+   "beat": "p6",
+   "text": "Would you have turned off the lights? And what do you think is pulling on the ocean? Tell me in the comments. And subscribe, so you don't miss what's hiding in that dark spot in the sky."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Female sea turtles return to nest on the beach where they hatched, after about 20-30 years.",
+   "working": "Natal homing, guided partly by Earth's magnetic field.",
+   "source": "NOAA Fisheries; Lohmann et al. 2008, PNAS"
+  },
+  {
+   "claim": "Many beach towns have lights-out rules during sea turtle nesting season.",
+   "working": "Lighting ordinances in coastal counties, e.g. in Florida, from about May to October.",
+   "source": "Florida Fish and Wildlife Conservation Commission, Model Lighting Ordinance"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

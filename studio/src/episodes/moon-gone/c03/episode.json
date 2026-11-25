@@ -1,0 +1,81 @@
+{
+ "id": "MoonGoneC03",
+ "slug": "moon-gone/c03",
+ "chapter": "The first night",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "That first night is the darkest one you've ever seen."
+  },
+  {
+   "beat": "p2",
+   "text": "A full Moon lights up the ground about a hundred times brighter than starlight alone. Without it, every night is a moonless night. Forever."
+  },
+  {
+   "beat": "p3",
+   "text": "And honestly? It's beautiful. Out past the edge of town, the Milky Way spills across the sky like somebody knocked over a jar of glitter. Astronomers are having the best week of their lives."
+  },
+  {
+   "beat": "p4",
+   "text": "Mo sets up the telescope in your backyard and charges the neighbors a dollar a look. By midnight, he's made forty-three dollars."
+  },
+  {
+   "beat": "p5",
+   "text": "Mrs. Alvarez from next door sees Saturn's rings for the first time in her life and starts crying. Mo gives her a refund. Then he charges her husband double."
+  },
+  {
+   "beat": "p6",
+   "text": "Online, it's chaos. Hashtag where is the Moon is trending in every country. Somebody sells a jar of 'genuine moonlight' for ten thousand dollars. A werewolf fan club announces that it is officially shutting down."
+  },
+  {
+   "beat": "p7",
+   "text": "There will never be another total solar eclipse. No more Moon landings, either. The rockets being built to go back there suddenly have nowhere to go."
+  },
+  {
+   "beat": "p8",
+   "text": "And your teacher points out something weird. The word 'month' comes from the Moon. So does 'Monday'. Every calendar on Earth was built around a thing that isn't there anymore."
+  },
+  {
+   "beat": "p9",
+   "text": "Ellie is not having fun. She lies on the trampoline, staring at the empty spot in the sky. 'But what does the Moon actually do?' she asks."
+  },
+  {
+   "beat": "p10",
+   "text": "You don't have an answer. Not yet."
+  },
+  {
+   "beat": "p11",
+   "text": "The next morning, Mo calls you at six. 'You need to come down to the harbor,' he says. 'Grandpa's boat is stuck in the mud.'"
+  }
+ ],
+ "science": [
+  {
+   "claim": "A full Moon lights the ground about a hundred times more than starlight alone.",
+   "working": "Full Moon illuminance about 0.1-0.3 lux; a clear moonless sky about 0.001-0.002 lux.",
+   "source": "Schlyter, 'Radiometry and photometry in astronomy'; Kyba et al. 2017, Scientific Reports"
+  },
+  {
+   "claim": "'Month' and 'Monday' both come from the Moon.",
+   "working": "Old English monath (from mona, Moon) and Monandaeg, 'Moon's day'.",
+   "source": "Oxford English Dictionary / Online Etymology Dictionary"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

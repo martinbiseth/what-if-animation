@@ -1,0 +1,92 @@
+{
+ "id": "MoonGoneC05",
+ "slug": "moon-gone/c05",
+ "chapter": "Someone notices",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Three days later, the scientists hold a press conference. They look like they haven't slept."
+  },
+  {
+   "beat": "p2",
+   "text": "They explain something you never knew. When the astronauts went to the Moon, they left mirrors on the surface. For more than fifty years, observatories have fired lasers at those mirrors. About two and a half seconds later, a tiny bit of the light comes back. That's how we know the Moon is drifting away from us, nearly four centimeters every year."
+  },
+  {
+   "beat": "p3",
+   "text": "Last Tuesday at nine forty-seven, the light stopped coming back."
+  },
+  {
+   "beat": "p4",
+   "text": "Then they put up a picture of the Earth, tilted to one side. 'This is what really worries us,' one of them says."
+  },
+  {
+   "beat": "p5",
+   "text": "The Earth is tipped over by about twenty-three degrees. That tilt is why we have seasons. And the Moon works like a hand on a spinning top, keeping that tilt steady."
+  },
+  {
+   "beat": "p6",
+   "text": "Without it, the tilt can start to wander. Not in a day, or even in your lifetime. But over millions of years, some computer models say it could swing a lot. Mars has no big moon, and its tilt has swung by more than twenty degrees."
+  },
+  {
+   "beat": "p7",
+   "text": "A bigger tilt means wilder seasons. Hotter summers, longer winters."
+  },
+  {
+   "beat": "p8",
+   "text": "And there's one more slow change. The Moon's tides have been braking the Earth's spin like a giant hand brake. More than a billion years ago, a day was only about eighteen hours long. The Moon stretched it out to twenty-four. Without the Moon, that brake almost lets go."
+  },
+  {
+   "beat": "p9",
+   "text": "Mo raises his hand in your living room, like he's at school. 'So it's bad,' he says, 'but slow bad?'"
+  },
+  {
+   "beat": "p10",
+   "text": "Mostly. But not all of it is slow. Because tonight, Ellie's turtles are hatching."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Apollo astronauts left retroreflectors on the Moon; lasers fired at them return in about 2.5 seconds.",
+   "working": "Round trip 2 x 384,400 km / 299,792 km/s = 2.56 s.",
+   "source": "NASA, 'Lunar Laser Ranging'; Apache Point Observatory Lunar Laser-ranging Operation"
+  },
+  {
+   "claim": "The Moon moves away from Earth about 3.8 cm a year.",
+   "working": "Measured by lunar laser ranging since 1969.",
+   "source": "NASA"
+  },
+  {
+   "claim": "Earth's axis is tilted about 23.4 degrees, which causes the seasons, and the Moon helps keep it steady.",
+   "working": "Without the Moon, models disagree on how far it would drift: early work said up to 85 degrees, newer work says roughly 10-20 degrees over hundreds of millions of years.",
+   "source": "Laskar, Joutel & Robutel 1993, Nature; Lissauer, Barnes & Chambers 2012, Icarus"
+  },
+  {
+   "claim": "Mars has no large moon and its tilt has varied by more than 20 degrees.",
+   "working": "Mars's obliquity has ranged from about 15 to 45 degrees over the last ~20 million years.",
+   "source": "Laskar et al. 2004, Icarus"
+  },
+  {
+   "claim": "About 1.4 billion years ago a day lasted about 18 hours; tidal braking by the Moon has lengthened it.",
+   "working": "Today the day still lengthens by about 1.8 milliseconds a century.",
+   "source": "Meyers & Malinverno 2018, PNAS; Stephenson et al. 2016, Proc. R. Soc. A"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

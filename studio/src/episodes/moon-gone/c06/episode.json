@@ -1,0 +1,76 @@
+{
+ "id": "MoonGoneC06",
+ "slug": "moon-gone/c06",
+ "chapter": "The choice",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You get to the beach just after dark. Ellie is already there, inside the little orange fence, with her flashlight off, like the turtle lady told her."
+  },
+  {
+   "beat": "p2",
+   "text": "The sand starts to move. Then a tiny flipper pokes out. Then another. Then about a hundred baby sea turtles boil out of the nest at once."
+  },
+  {
+   "beat": "p3",
+   "text": "Here's how hatchlings find the ocean. They crawl toward the brightest horizon. For millions of years, that was the open sky over the water, with the Moon and the stars bouncing off the waves."
+  },
+  {
+   "beat": "p4",
+   "text": "But tonight there's no Moon. The sea is pitch black. And behind the beach, the boardwalk is lit up like a stadium, because the whole town came out for a Moon Vigil, with floodlights and phones and glowing lanterns."
+  },
+  {
+   "beat": "p5",
+   "text": "And the turtles turn around. All of them. They start crawling up the sand, away from the water, toward the lights and the road."
+  },
+  {
+   "beat": "p6",
+   "text": "Ellie grabs your arm. 'They're going the wrong way!'"
+  },
+  {
+   "beat": "p7",
+   "text": "A few people at the vigil notice, and they run over to help. They switch on their phone flashlights to see. And it makes everything worse. Now even more turtles turn toward the lights."
+  },
+  {
+   "beat": "p8",
+   "text": "You can't carry a hundred turtles. Nobody can. But you know what they need. They don't need help. They need the dark."
+  },
+  {
+   "beat": "p9",
+   "text": "So you climb onto the lifeguard tower, and you shout as loud as you've ever shouted. 'Everybody! Lights off! Phones off! Now!'"
+  },
+  {
+   "beat": "p10",
+   "text": "For a second, nobody moves. Then Mo runs to the snack shack and flips the big switch on the floodlights. Grandpa turns off his truck. One by one, the phones go dark, and the lanterns go out."
+  },
+  {
+   "beat": "p11",
+   "text": "And now the brightest thing left is the faint glow of starlight over the sea."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sea turtle hatchlings find the sea by crawling toward the brightest horizon, and artificial lights pull them the wrong way.",
+   "working": "Over an open beach the sky above the sea is the brightest direction; lights behind the beach reverse that.",
+   "source": "Florida Fish and Wildlife Conservation Commission; Witherington & Martin, 'Understanding, assessing and resolving light-pollution problems on sea turtle nesting beaches'"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The choice"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

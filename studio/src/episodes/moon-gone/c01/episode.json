@@ -1,0 +1,58 @@
+{
+ "id": "MoonGoneC01",
+ "slug": "moon-gone/c01",
+ "chapter": "Cold open",
+ "topic": "What if the Moon disappeared tonight?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "It's nine forty-seven on a Tuesday night. You're on the roof with your best friend Mo and a borrowed telescope, because your little sister Ellie needs a drawing of the full Moon for school."
+  },
+  {
+   "beat": "p2",
+   "text": "You look down to sharpen your pencil. You look back up. And the Moon is gone."
+  },
+  {
+   "beat": "p3",
+   "text": "Not behind a cloud. Not an eclipse. There's just a round, black hole in the sky where it used to be."
+  },
+  {
+   "beat": "p4",
+   "text": "Down the street, every dog starts barking at once. Every phone in the neighborhood lights up."
+  },
+  {
+   "beat": "p5",
+   "text": "Mo slowly lowers the telescope. 'Okay,' he says. 'Where did it go?'"
+  },
+  {
+   "beat": "p6",
+   "text": "And by the next morning, the ocean at the end of your street hasn't come back in."
+  },
+  {
+   "beat": "p7",
+   "text": "So what would really happen if the Moon disappeared tonight? The first night, the first year, and a million years from now."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}
