@@ -1,0 +1,21 @@
+S1 | f:0 | wide | kitchen | day 3, the fridge's face, MOSTLY.
+S2 | This | graphic | schematic | after ~3 days: HALLUCINATIONS
+S3 | First | medium | bedroom | patterns crawling, a shadow in the corner
+S4 | Then | close-up | bedroom | whole things: voices
+S5 | That | wide | bedroom | the wallpaper ripples like water
+S6 | The#2 | medium | bedroom | the coat on the door becomes someone
+S7 | You#2 | wide | kitchen | every light on, on the floor till morning
+S8 | You | medium | street | you tell Mo
+S9 | Okay | close-up | street | Mo: That's the fridge. I'm calling your mum.
+S10 | Day | big word | clinic blur | DAY 5
+S11 | The#3 | wide | clinic | wires glued on, the technician
+S12 | You#2 | graphic | monitor | the EEG: busy, wide-awake, hour after hour
+S13 | That's | close-up | clinic | technician: not possible. Everybody sleeps.
+S14 | She | graphic | dark | calls up the chain
+S15 | Day | wide | clinic interview | DAY 7, the man in the grey suit, the folder
+S16 | He#3 | insert | table | the photo slides across
+S17 | Do | close-up | clinic | the suit: Randy Gardner?
+S18 | In | insert | photo | winter 1963, Randy, 17, science fair
+S19 | It's | graphic | schematic | 264 hours: 11 days 25 minutes
+S20 | Guinness | graphic | dark | TOO DANGEROUS
+S21 | You'll | close-up | clinic | You'll pass him in four days. We'd like to watch.

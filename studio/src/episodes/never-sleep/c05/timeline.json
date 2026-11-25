@@ -1,16 +1,176 @@
 {
  "slug": "never-sleep/c05",
- "title": "Someone notices",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3035,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 142,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 142,
+   "line": "Day three. The fridge isn't really talking. You know that. Mostly."
+  },
+  {
+   "shot": "S2",
+   "a": 142,
+   "b": 319,
+   "t0": 0,
+   "t1": 177,
+   "line": "This is real too. After about three days without sleep, people start to see things that aren't there."
+  },
+  {
+   "shot": "S3",
+   "a": 319,
+   "b": 480,
+   "t0": 0,
+   "t1": 161,
+   "line": "First it's the edges: patterns crawling on the wall, shadows moving in the corner of your eye."
+  },
+  {
+   "shot": "S4",
+   "a": 480,
+   "b": 558,
+   "t0": 0,
+   "t1": 78,
+   "line": "Then whole things. Voices. People."
+  },
+  {
+   "shot": "S5",
+   "a": 558,
+   "b": 680,
+   "t0": 0,
+   "t1": 122,
+   "line": "That night, the wallpaper in your room starts to ripple, like water."
+  },
+  {
+   "shot": "S6",
+   "a": 680,
+   "b": 813,
+   "t0": 0,
+   "t1": 133,
+   "line": "The coat on your door looks exactly like someone standing there, watching you."
+  },
+  {
+   "shot": "S7",
+   "a": 813,
+   "b": 967,
+   "t0": 0,
+   "t1": 154,
+   "line": "You turn on every light in the house, and sit in the middle of the kitchen until morning."
+  },
+  {
+   "shot": "S8",
+   "a": 967,
+   "b": 1103,
+   "t0": 0,
+   "t1": 136,
+   "line": "You keep your promise. You tell Mo. Mo looks at you for a long time."
+  },
+  {
+   "shot": "S9",
+   "a": 1103,
+   "b": 1198,
+   "t0": 0,
+   "t1": 95,
+   "line": "'Okay. That's the fridge. I'm calling your mum'."
+  },
+  {
+   "shot": "S10",
+   "a": 1198,
+   "b": 1356,
+   "t0": 0,
+   "t1": 158,
+   "line": "Day five. Your mum takes you to the doctor. The doctor sends you to a sleep clinic."
+  },
+  {
+   "shot": "S11",
+   "a": 1356,
+   "b": 1492,
+   "t0": 0,
+   "t1": 136,
+   "line": "The sleep clinic glues a tangle of wires to your head and watches you all night."
+  },
+  {
+   "shot": "S12",
+   "a": 1492,
+   "b": 1655,
+   "t0": 0,
+   "t1": 163,
+   "line": "You don't sleep for one second. The machine draws a busy, wide-awake line, hour after hour."
+  },
+  {
+   "shot": "S13",
+   "a": 1655,
+   "b": 1798,
+   "t0": 0,
+   "t1": 143,
+   "line": "'That's not possible', the technician says, tapping the screen. 'Everybody sleeps'."
+  },
+  {
+   "shot": "S14",
+   "a": 1798,
+   "b": 1891,
+   "t0": 0,
+   "t1": 93,
+   "line": "She calls her boss. Her boss calls someone else."
+  },
+  {
+   "shot": "S15",
+   "a": 1891,
+   "b": 2123,
+   "t0": 0,
+   "t1": 232,
+   "line": "Day seven. A man in a grey suit is waiting in the clinic. He doesn't have a name tag. He has a folder with your name on it."
+  },
+  {
+   "shot": "S16",
+   "a": 2123,
+   "b": 2322,
+   "t0": 0,
+   "t1": 199,
+   "line": "He sits down and slides a black-and-white photo across the table. A teenage boy, grinning, surrounded by scientists."
+  },
+  {
+   "shot": "S17",
+   "a": 2322,
+   "b": 2413,
+   "t0": 0,
+   "t1": 91,
+   "line": "'Do you know who Randy Gardner was'? he asks."
+  },
+  {
+   "shot": "S18",
+   "a": 2413,
+   "b": 2653,
+   "t0": 0,
+   "t1": 240,
+   "line": "In the winter of nineteen sixty-three, Randy was seventeen. For a school science fair, he stayed awake for eleven days and twenty-five minutes."
+  },
+  {
+   "shot": "S19",
+   "a": 2653,
+   "b": 2764,
+   "t0": 0,
+   "t1": 111,
+   "line": "It's still the longest scientifically recorded stretch without sleep."
+  },
+  {
+   "shot": "S20",
+   "a": 2764,
+   "b": 2891,
+   "t0": 0,
+   "t1": 127,
+   "line": "Guinness World Records stopped accepting attempts, because it's too dangerous."
+  },
+  {
+   "shot": "S21",
+   "a": 2891,
+   "b": 3035,
+   "t0": 0,
+   "t1": 144,
+   "line": "'You'll pass him in four days', the man says. 'And we'd like to watch'."
   }
  ],
  "shots": [
@@ -18,10 +178,190 @@
    "id": "S1",
    "size": "wide",
    "key": 30,
-   "len": 90,
+   "len": 142,
    "first": 0,
-   "line": "",
-   "note": "Someone notices"
+   "line": "Day three. The fridge isn't really talking. You know that. Mostly.",
+   "note": "day 3, the fridge's face, MOSTLY."
+  },
+  {
+   "id": "S2",
+   "size": "graphic",
+   "key": 30,
+   "len": 177,
+   "first": 142,
+   "line": "This is real too. After about three days without sleep, people start to see things that aren't there.",
+   "note": "after ~3 days: HALLUCINATIONS"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 161,
+   "first": 319,
+   "line": "First it's the edges: patterns crawling on the wall, shadows moving in the corner of your eye.",
+   "note": "patterns crawling, a shadow in the corner"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 78,
+   "first": 480,
+   "line": "Then whole things. Voices. People.",
+   "note": "whole things: voices"
+  },
+  {
+   "id": "S5",
+   "size": "wide",
+   "key": 30,
+   "len": 122,
+   "first": 558,
+   "line": "That night, the wallpaper in your room starts to ripple, like water.",
+   "note": "the wallpaper ripples like water"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 133,
+   "first": 680,
+   "line": "The coat on your door looks exactly like someone standing there, watching you.",
+   "note": "the coat on the door becomes someone"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 30,
+   "len": 154,
+   "first": 813,
+   "line": "You turn on every light in the house, and sit in the middle of the kitchen until morning.",
+   "note": "every light on, on the floor till morning"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 136,
+   "first": 967,
+   "line": "You keep your promise. You tell Mo. Mo looks at you for a long time.",
+   "note": "you tell Mo"
+  },
+  {
+   "id": "S9",
+   "size": "close-up",
+   "key": 30,
+   "len": 95,
+   "first": 1103,
+   "line": "'Okay. That's the fridge. I'm calling your mum'.",
+   "note": "Mo: That's the fridge. I'm calling your mum."
+  },
+  {
+   "id": "S10",
+   "size": "big word",
+   "key": 30,
+   "len": 158,
+   "first": 1198,
+   "line": "Day five. Your mum takes you to the doctor. The doctor sends you to a sleep clinic.",
+   "note": "DAY 5"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 136,
+   "first": 1356,
+   "line": "The sleep clinic glues a tangle of wires to your head and watches you all night.",
+   "note": "wires glued on, the technician"
+  },
+  {
+   "id": "S12",
+   "size": "graphic",
+   "key": 30,
+   "len": 163,
+   "first": 1492,
+   "line": "You don't sleep for one second. The machine draws a busy, wide-awake line, hour after hour.",
+   "note": "the EEG: busy, wide-awake, hour after hour"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 143,
+   "first": 1655,
+   "line": "'That's not possible', the technician says, tapping the screen. 'Everybody sleeps'.",
+   "note": "technician: not possible. Everybody sleeps."
+  },
+  {
+   "id": "S14",
+   "size": "graphic",
+   "key": 30,
+   "len": 93,
+   "first": 1798,
+   "line": "She calls her boss. Her boss calls someone else.",
+   "note": "calls up the chain"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 232,
+   "first": 1891,
+   "line": "Day seven. A man in a grey suit is waiting in the clinic. He doesn't have a name tag. He has a folder with your name on it.",
+   "note": "DAY 7, the man in the grey suit, the folder"
+  },
+  {
+   "id": "S16",
+   "size": "insert",
+   "key": 30,
+   "len": 199,
+   "first": 2123,
+   "line": "He sits down and slides a black-and-white photo across the table. A teenage boy, grinning, surrounded by scientists.",
+   "note": "the photo slides across"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 91,
+   "first": 2322,
+   "line": "'Do you know who Randy Gardner was'? he asks.",
+   "note": "the suit: Randy Gardner?"
+  },
+  {
+   "id": "S18",
+   "size": "insert",
+   "key": 30,
+   "len": 240,
+   "first": 2413,
+   "line": "In the winter of nineteen sixty-three, Randy was seventeen. For a school science fair, he stayed awake for eleven days and twenty-five minutes.",
+   "note": "winter 1963, Randy, 17, science fair"
+  },
+  {
+   "id": "S19",
+   "size": "graphic",
+   "key": 30,
+   "len": 111,
+   "first": 2653,
+   "line": "It's still the longest scientifically recorded stretch without sleep.",
+   "note": "264 hours: 11 days 25 minutes"
+  },
+  {
+   "id": "S20",
+   "size": "graphic",
+   "key": 30,
+   "len": 127,
+   "first": 2764,
+   "line": "Guinness World Records stopped accepting attempts, because it's too dangerous.",
+   "note": "TOO DANGEROUS"
+  },
+  {
+   "id": "S21",
+   "size": "close-up",
+   "key": 30,
+   "len": 144,
+   "first": 2891,
+   "line": "'You'll pass him in four days', the man says. 'And we'd like to watch'.",
+   "note": "You'll pass him in four days. We'd like to watch."
   }
  ],
  "fx": [],

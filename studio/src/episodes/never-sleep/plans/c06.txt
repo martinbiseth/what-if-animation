@@ -1,0 +1,15 @@
+S1 | f:0 | big word | clinic blur | DAY 10
+S2 | You're | wide | clinic | the white room: REC, test every hour
+S3 | Your | insert | clinic blur | your hands shake
+S4 | Your#2 | close-up | clinic | words in the wrong order
+S5 | People | graphic | schematic | under 6 h: 4.2x the colds
+S6 | You | medium | clinic | three colds, a sneeze, it's written down
+S7 | Then | graphic | schematic | the rat slide: 2 to 4 weeks
+S8 | Your | close-up | clinic | the suit: day 21 is the question
+S9 | That | insert | phone | Ellie's video call
+S9B | I | insert | phone | close on Ellie: I leave the hallway light on
+S10 | Behind | insert | phone | behind her: your bed, your pillow
+S11 | And | close-up | clinic | you decide: NO RECORD
+S12 | You#2 | wide | clinic | wires off, past the camera
+S13 | Can | close-up | clinic | Can someone please turn off the lights?
+S14 | The#2 | medium | clinic | the suit writes in his folder, smiles

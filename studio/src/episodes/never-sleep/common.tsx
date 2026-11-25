@@ -405,8 +405,8 @@ export const Lead: React.FC<{ from: { x: number; y: number }; to: { x: number; y
 export const CoatFigure: React.FC<{ x: number; y: number; s?: number; who?: number; t?: number }> = ({ x, y, s = 1, who = 0, t = 0 }) => (
   <g transform={`translate(${x} ${y}) scale(${s})`}>
     <circle cx={0} cy={-10} r={10} fill="#8E8A80" />
-    <path d="M -10 0 Q -70 30 -80 120 L -90 380 L 90 380 L 80 120 Q 70 30 10 0 Z" fill={who > 0.5 ? '#14121C' : '#5A4A3E'} stroke="#14121C" strokeWidth={5} />
-    <ellipse cx={0} cy={-40} rx={46} ry={56} fill="#14121C" opacity={who} />
+    <path d="M -10 0 Q -70 30 -80 120 L -90 380 L 90 380 L 80 120 Q 70 30 10 0 Z" fill={who > 0.5 ? '#0B0816' : '#5A4A3E'} stroke={who > 0.5 ? '#C87ED8' : '#14121C'} strokeWidth={5} />
+    <ellipse cx={0} cy={-40} rx={46} ry={56} fill="#0B0816" stroke="#C87ED8" strokeWidth={4} strokeOpacity={who} opacity={who} />
     {who > 0.6 ? (
       <g opacity={clamp((who - 0.6) / 0.4) * (0.6 + 0.4 * Math.sin(t / 5))}>
         <circle cx={-16} cy={-44} r={6} fill="#F6EFE3" />

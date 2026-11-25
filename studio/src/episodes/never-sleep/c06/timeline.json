@@ -1,27 +1,265 @@
 {
  "slug": "never-sleep/c06",
- "title": "The choice",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2540,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 30,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 30,
+   "line": "Day ten."
+  },
+  {
+   "shot": "S2",
+   "a": 30,
+   "b": 273,
+   "t0": 0,
+   "t1": 243,
+   "line": "You're in a white room with a window, a bed you never use, and a camera in the corner. They feed you well. They test you every hour."
+  },
+  {
+   "shot": "S3",
+   "a": 273,
+   "b": 378,
+   "t0": 0,
+   "t1": 105,
+   "line": "Your body is falling apart, quietly. Your hands shake."
+  },
+  {
+   "shot": "S4",
+   "a": 378,
+   "b": 449,
+   "t0": 0,
+   "t1": 71,
+   "line": "Your words come out in the wrong order."
+  },
+  {
+   "shot": "S5",
+   "a": 449,
+   "b": 607,
+   "t0": 0,
+   "t1": 158,
+   "line": "People who sleep less than six hours a night are about four times more likely to catch a cold."
+  },
+  {
+   "shot": "S6",
+   "a": 607,
+   "b": 807,
+   "t0": 0,
+   "t1": 200,
+   "line": "You haven't slept at all. You have three colds. You sneeze, and the scientist behind the glass writes it down."
+  },
+  {
+   "shot": "S7",
+   "a": 807,
+   "b": 1124,
+   "t0": 0,
+   "t1": 317,
+   "line": "Then the man shows you a slide. Rats. In the nineteen-eighties, scientists kept rats awake on purpose, around the clock. Within about two to four weeks, every one of them died."
+  },
+  {
+   "shot": "S8",
+   "a": 1124,
+   "b": 1265,
+   "t0": 0,
+   "t1": 141,
+   "line": "'Your record falls on day eleven', he says. 'Day twenty-one is the real question'."
+  },
+  {
+   "shot": "S9",
+   "a": 1265,
+   "b": 1511,
+   "t0": 0,
+   "t1": 246,
+   "line": "That night, Ellie video calls you. She's in her pajamas, holding her teddy. 'Mum says you're helping scientists. Are you coming home?"
+  },
+  {
+   "shot": "S9B",
+   "a": 1511,
+   "b": 1640,
+   "t0": 0,
+   "t1": 129,
+   "line": "I leave the hallway light on for you every night. Like you do for me'."
+  },
+  {
+   "shot": "S10",
+   "a": 1640,
+   "b": 1833,
+   "t0": 0,
+   "t1": 193,
+   "line": "Behind her, you can see your bedroom. Your bed. Your pillow. Things you haven't touched in ten days."
+  },
+  {
+   "shot": "S11",
+   "a": 1833,
+   "b": 2059,
+   "t0": 0,
+   "t1": 226,
+   "line": "And you decide. No record. You're going home, and you're going to learn to sleep again, even if your brain has forgotten how."
+  },
+  {
+   "shot": "S12",
+   "a": 2059,
+   "b": 2238,
+   "t0": 0,
+   "t1": 179,
+   "line": "You pull off the wires, walk past the camera, and ask for the one thing nobody in the building expected."
+  },
+  {
+   "shot": "S13",
+   "a": 2238,
+   "b": 2313,
+   "t0": 0,
+   "t1": 75,
+   "line": "'Can someone please turn off the lights'?"
+  },
+  {
+   "shot": "S14",
+   "a": 2313,
+   "b": 2540,
+   "t0": 0,
+   "t1": 227,
+   "line": "The man in the suit doesn't try to stop you. He just writes something in his folder, and smiles, like he already knew."
   }
  ],
  "shots": [
   {
    "id": "S1",
+   "size": "big word",
+   "key": 30,
+   "len": 30,
+   "first": 0,
+   "line": "Day ten.",
+   "note": "DAY 10"
+  },
+  {
+   "id": "S2",
    "size": "wide",
    "key": 30,
-   "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The choice"
+   "len": 243,
+   "first": 30,
+   "line": "You're in a white room with a window, a bed you never use, and a camera in the corner. They feed you well. They test you every hour.",
+   "note": "the white room: REC, test every hour"
+  },
+  {
+   "id": "S3",
+   "size": "insert",
+   "key": 30,
+   "len": 105,
+   "first": 273,
+   "line": "Your body is falling apart, quietly. Your hands shake.",
+   "note": "your hands shake"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 71,
+   "first": 378,
+   "line": "Your words come out in the wrong order.",
+   "note": "words in the wrong order"
+  },
+  {
+   "id": "S5",
+   "size": "graphic",
+   "key": 30,
+   "len": 158,
+   "first": 449,
+   "line": "People who sleep less than six hours a night are about four times more likely to catch a cold.",
+   "note": "under 6 h: 4.2x the colds"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 200,
+   "first": 607,
+   "line": "You haven't slept at all. You have three colds. You sneeze, and the scientist behind the glass writes it down.",
+   "note": "three colds, a sneeze, it's written down"
+  },
+  {
+   "id": "S7",
+   "size": "graphic",
+   "key": 30,
+   "len": 317,
+   "first": 807,
+   "line": "Then the man shows you a slide. Rats. In the nineteen-eighties, scientists kept rats awake on purpose, around the clock. Within about two to four weeks, every one of them died.",
+   "note": "the rat slide: 2 to 4 weeks"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 30,
+   "len": 141,
+   "first": 1124,
+   "line": "'Your record falls on day eleven', he says. 'Day twenty-one is the real question'.",
+   "note": "the suit: day 21 is the question"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 30,
+   "len": 246,
+   "first": 1265,
+   "line": "That night, Ellie video calls you. She's in her pajamas, holding her teddy. 'Mum says you're helping scientists. Are you coming home?",
+   "note": "Ellie's video call"
+  },
+  {
+   "id": "S9B",
+   "size": "insert",
+   "key": 30,
+   "len": 129,
+   "first": 1511,
+   "line": "I leave the hallway light on for you every night. Like you do for me'.",
+   "note": "close on Ellie: I leave the hallway light on"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 30,
+   "len": 193,
+   "first": 1640,
+   "line": "Behind her, you can see your bedroom. Your bed. Your pillow. Things you haven't touched in ten days.",
+   "note": "behind her: your bed, your pillow"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 30,
+   "len": 226,
+   "first": 1833,
+   "line": "And you decide. No record. You're going home, and you're going to learn to sleep again, even if your brain has forgotten how.",
+   "note": "you decide: NO RECORD"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 30,
+   "len": 179,
+   "first": 2059,
+   "line": "You pull off the wires, walk past the camera, and ask for the one thing nobody in the building expected.",
+   "note": "wires off, past the camera"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 75,
+   "first": 2238,
+   "line": "'Can someone please turn off the lights'?",
+   "note": "Can someone please turn off the lights?"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 227,
+   "first": 2313,
+   "line": "The man in the suit doesn't try to stop you. He just writes something in his folder, and smiles, like he already knew.",
+   "note": "the suit writes in his folder, smiles"
   }
  ],
  "fx": [],
