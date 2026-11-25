@@ -298,5 +298,189 @@
    "at": "count"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "beep": [
+    "a soft electronic low battery warning beep",
+    0.6
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "dizzy": [
+    "cartoon dizzy birds tweeting in a circle after a bonk",
+    1.4
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "flies": [
+    "flies buzzing around, library",
+    2.0
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "power_down": [
+    "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+    2.5
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "water": [
+    "water rushing, library",
+    2.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.45,
+    "peak"
+   ],
+   [
+    "S2+10",
+    "power_hum",
+    0.3
+   ],
+   [
+    "S3+0",
+    "tick",
+    0.1
+   ],
+   [
+    "trips",
+    "switch_off",
+    0.55
+   ],
+   [
+    "trips+4",
+    "power_down",
+    0.5
+   ],
+   [
+    "S6+0",
+    "roof_wind",
+    0.15
+   ],
+   [
+    "S7+4",
+    "power_down",
+    0.35
+   ],
+   [
+    "signal",
+    "power_off",
+    0.35
+   ],
+   [
+    "S9+30",
+    "beep",
+    0.3
+   ],
+   [
+    "S10+0",
+    "water",
+    0.17
+   ],
+   [
+    "S11+6",
+    "counter_tick",
+    0.3
+   ],
+   [
+    "S12+48",
+    "ding",
+    0.3
+   ],
+   [
+    "S13+0",
+    "flies",
+    0.2
+   ],
+   [
+    "S14+10",
+    "dizzy",
+    0.3
+   ],
+   [
+    "S15+0",
+    "pop",
+    0.25
+   ],
+   [
+    "S16+6",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S18+0",
+    "drone_hit",
+    0.45,
+    "peak"
+   ],
+   [
+    "S19+0",
+    "heartbeat",
+    0.15
+   ],
+   [
+    "S22+30",
+    "beep",
+    0.35
+   ],
+   [
+    "S23+0",
+    "tick",
+    0.12
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -10.5
+  }
+ }
 }

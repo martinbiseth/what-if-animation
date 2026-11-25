@@ -315,6 +315,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "everyone-gone/c07/voice.wav"
+  "voice": "everyone-gone/c07/voice.wav",
+  "sfx": "everyone-gone/c07/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3222,
+  "music": "everyone-gone/c07/music.wav",
+  "musicVol": 0.1031
  }
 }

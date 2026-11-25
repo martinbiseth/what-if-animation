@@ -324,5 +324,173 @@
    "at": "One#2"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "alarm": [
+    "a bedside alarm clock beeping, library",
+    2.0
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "knock": [
+    "three firm knocks on an old wooden door",
+    1.2
+   ],
+   "m_sad": [
+    "soft sad solo piano, slow and gentle, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "radio_syn": [
+    "procedural: a short police radio crackle with squelch",
+    1.2
+   ],
+   "river": [
+    "a river flowing at night, library",
+    6.0
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "splash": [
+    "water splashing, library",
+    1.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.35,
+    "peak"
+   ],
+   [
+    "S5+0",
+    "alarm",
+    0.3,
+    "onset",
+    "S6+0"
+   ],
+   [
+    "S6+0",
+    "knock",
+    0.3
+   ],
+   [
+    "S7+4",
+    "splash",
+    0.15
+   ],
+   [
+    "S8+0",
+    "pop",
+    0.2
+   ],
+   [
+    "S9+20",
+    "paper",
+    0.2
+   ],
+   [
+    "S10+0",
+    "room_tone",
+    0.15
+   ],
+   [
+    "S11+0",
+    "radio_syn",
+    0.35
+   ],
+   [
+    "S12+0",
+    "roof_wind",
+    0.15
+   ],
+   [
+    "S12B+8",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S15+6",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S16+0",
+    "river",
+    0.12
+   ],
+   [
+    "S17+0",
+    "drone",
+    0.17
+   ],
+   [
+    "S19+0",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S22+0",
+    "counter_tick",
+    0.25
+   ],
+   [
+    "S24+0",
+    "door_shut",
+    0.25
+   ],
+   [
+    "S25+0",
+    "drone_hit",
+    0.45,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_sad",
+   "loop": true,
+   "until": "S17+0"
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -10.5
+  }
+ }
 }

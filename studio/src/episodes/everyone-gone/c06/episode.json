@@ -288,5 +288,174 @@
    "at": "Through"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "radio_syn": [
+    "procedural: a short police radio crackle with squelch",
+    1.2
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+0",
+    "room_tone",
+    0.12
+   ],
+   [
+    "S4+6",
+    "gasp",
+    0.35
+   ],
+   [
+    "S5+0",
+    "radio_syn",
+    0.45
+   ],
+   [
+    "S5B+0",
+    "radio_syn",
+    0.4
+   ],
+   [
+    "S6+0",
+    "radio_syn",
+    0.4
+   ],
+   [
+    "S7+0",
+    "heartbeat",
+    0.17
+   ],
+   [
+    "S9+0",
+    "radio_syn",
+    0.35
+   ],
+   [
+    "S10+0",
+    "radio_syn",
+    0.35
+   ],
+   [
+    "S10B+0",
+    "radio_syn",
+    0.5
+   ],
+   [
+    "S11+0",
+    "drone_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S12+20",
+    "power_off",
+    0.3
+   ],
+   [
+    "S13+0",
+    "tick",
+    0.15
+   ],
+   [
+    "S14+10",
+    "door_shut",
+    0.4
+   ],
+   [
+    "S15+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S16B+0",
+    "sparkle",
+    0.25
+   ],
+   [
+    "S19+30",
+    "switch_off",
+    0.3
+   ],
+   [
+    "S20+0",
+    "step",
+    0.4
+   ],
+   [
+    "S21+0",
+    "whoosh",
+    0.3,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -10.5
+  }
+ }
 }

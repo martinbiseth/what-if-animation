@@ -224,5 +224,112 @@
    "at": "Remember"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "buzz": [
+    "a smartphone vibrating on a wooden table, two short buzzes",
+    1.2
+   ],
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "m_curious": [
+    "curious playful pizzicato strings and celesta, light mystery, instrumental background loop",
+    20.0
+   ],
+   "notify": [
+    "a soft modern smartphone message notification chime",
+    0.8
+   ],
+   "pop": [
+    "a short bright cartoon pop",
+    0.5
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "radio_syn": [
+    "procedural: a short police radio crackle with squelch",
+    1.2
+   ],
+   "tick": [
+    "a slow old clock ticking in a quiet room",
+    4.0
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+6",
+    "pop",
+    0.3
+   ],
+   [
+    "S3+0",
+    "tick",
+    0.12
+   ],
+   [
+    "S4+6",
+    "notify",
+    0.3
+   ],
+   [
+    "S6+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S9+0",
+    "pop",
+    0.3
+   ],
+   [
+    "S12+0",
+    "buzz",
+    0.3
+   ],
+   [
+    "S14+0",
+    "radio_syn",
+    0.4
+   ],
+   [
+    "S15+0",
+    "radio_syn",
+    0.35
+   ],
+   [
+    "S17+18",
+    "power_off",
+    0.35
+   ],
+   [
+    "S18+4",
+    "drone_hit",
+    0.4,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_curious",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -10.5
+  }
+ }
 }

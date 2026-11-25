@@ -215,5 +215,154 @@
   }
  ],
  "fx": [],
- "tail": 15
+ "tail": 15,
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "door_shut": [
+    "an old wooden door closing firmly with a latch click",
+    1.0
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "gasp": [
+    "two young people gasping in surprise at the same moment, cartoon, short",
+    0.8
+   ],
+   "heartbeat": [
+    "a slow tense heartbeat, low and muffled",
+    3.0
+   ],
+   "m_tense": [
+    "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+    20.0
+   ],
+   "power_off": [
+    "an electronic device powering off, a short descending tone into silence",
+    1.2
+   ],
+   "radio_syn": [
+    "procedural: a short police radio crackle with squelch",
+    1.2
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S2+0",
+    "step",
+    0.3
+   ],
+   [
+    "S2+12",
+    "step",
+    0.3
+   ],
+   [
+    "S4+0",
+    "gasp",
+    0.3
+   ],
+   [
+    "flickers",
+    "power_off",
+    0.35
+   ],
+   [
+    "S6+0",
+    "door_shut",
+    0.45
+   ],
+   [
+    "S6+2",
+    "drone_hit",
+    0.45,
+    "peak"
+   ],
+   [
+    "barks",
+    "step",
+    0.01
+   ],
+   [
+    "S9+0",
+    "drone",
+    0.2
+   ],
+   [
+    "S11+0",
+    "radio_syn",
+    0.5
+   ],
+   [
+    "S11B+0",
+    "drone_hit",
+    0.5,
+    "peak"
+   ],
+   [
+    "S13+0",
+    "heartbeat",
+    0.15
+   ],
+   [
+    "S14+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S15+0",
+    "whoosh",
+    0.3,
+    "peak"
+   ],
+   [
+    "S15B+0",
+    "title_boom",
+    0.45,
+    "peak"
+   ],
+   [
+    "S16+0",
+    "whoosh",
+    0.3,
+    "peak"
+   ]
+  ],
+  "music": {
+   "clip": "m_tense",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -11
+  }
+ }
 }

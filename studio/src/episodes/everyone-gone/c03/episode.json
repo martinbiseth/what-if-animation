@@ -300,5 +300,115 @@
    "at": "realise"
   }
  ],
- "fx": []
+ "fx": [],
+ "sound": {
+  "clips": {
+   "card_hit": [
+    "a cinematic title hit, a deep soft boom with a short shimmering tail",
+    2.0
+   ],
+   "ding": [
+    "a bright bell ding, correct answer",
+    0.8
+   ],
+   "drone": [
+    "a dark low cinematic tension drone, slowly rising",
+    8.0
+   ],
+   "gulp": [
+    "a nervous cartoon gulp, short",
+    0.5
+   ],
+   "kids_cheer": [
+    "a group of children cheering and clapping outdoors",
+    2.0
+   ],
+   "m_fun": [
+    "upbeat playful 1920s ragtime piano with clarinet, light and curious, instrumental background loop",
+    20.0
+   ],
+   "paper": [
+    "a newspaper snapped open, paper rustle",
+    0.8
+   ],
+   "scratch": [
+    "a vinyl record scratch, music stops abruptly",
+    0.8
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "splash": [
+    "water splashing, library",
+    1.0
+   ],
+   "whoosh": [
+    "a quick soft cartoon whoosh, airy transition",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S1+0",
+    "card_hit",
+    0.4,
+    "peak"
+   ],
+   [
+    "S3+10",
+    "ding",
+    0.35
+   ],
+   [
+    "S5+4",
+    "paper",
+    0.3
+   ],
+   [
+    "S7+6",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S9+0",
+    "gulp",
+    0.35
+   ],
+   [
+    "S11+0",
+    "whoosh",
+    0.35,
+    "peak"
+   ],
+   [
+    "S13+0",
+    "splash",
+    0.35
+   ],
+   [
+    "S17+0",
+    "kids_cheer",
+    0.3
+   ],
+   [
+    "S19+0",
+    "scratch",
+    0.35
+   ],
+   [
+    "S21+4",
+    "drone",
+    0.15
+   ]
+  ],
+  "music": {
+   "clip": "m_fun",
+   "loop": true
+  },
+  "levels": {
+   "sfx_lu": -3.0,
+   "music_lu": -11
+  }
+ }
 }
