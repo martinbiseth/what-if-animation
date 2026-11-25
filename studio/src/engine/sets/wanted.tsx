@@ -312,14 +312,14 @@ export const BRIDGE = { feet: 880, deck: 700 };
 export const bridgeHip = (scale = 1) => BRIDGE.feet - LEG_LEN * scale;
 /** Night, the city behind, a bridge deck across the frame with its railings; `block` adds the roadblock: police cars
  *  nose to nose, barriers, cones, lights. */
-export const Bridge: React.FC<{ t: number; id?: string; block?: number; heli?: boolean }> = ({ t, id = 'bridge', block = 1 }) => (
+export const Bridge: React.FC<{ t: number; id?: string; block?: number; heli?: boolean; lit?: number }> = ({ t, id = 'bridge', block = 1, lit = 0.75 }) => (
   <g>
     <DaySky id={`${id}sky`} horizonY={500} tod="night" />
     <g transform="translate(0 -40)">
-      <CitySkyline t={t} id={`${id}city`} red={0} lit={0.75} />
+      <CitySkyline t={t} id={`${id}city`} red={0} lit={lit} />
     </g>
     <rect x={-400} y={560} width={2800} height={600} fill="#0A1426" />
-    {Array.from({ length: 16 }).map((_, i) => <path key={i} d={`M ${-300 + i * 160} ${600 + (i % 3) * 30} h 80`} stroke="#FFD88A" strokeOpacity={0.35} strokeWidth={4} />)}
+    {Array.from({ length: 16 }).map((_, i) => <path key={i} d={`M ${-300 + i * 160} ${600 + (i % 3) * 30} h 80`} stroke={lit > 0.2 ? '#FFD88A' : '#8AA0C8'} strokeOpacity={0.35} strokeWidth={4} />)}
     {/* towers and cables */}
     {[-60, 1980].map((x) => (
       <g key={x}>

@@ -115,7 +115,7 @@ export const RiverSet = (o: { one?: number; moon?: boolean; dawn?: number } = {}
 export const BridgeSet = (o: { dawn?: number; dark?: number } = {}): SetC => {
   const S: SetC = ({ t, id }) => (
     <g>
-      <Bridge t={t} id={id} block={0} />
+      <Bridge t={t} id={id} block={0} lit={0} />
       {o.dawn ? <rect x={-600} y={-600} width={3200} height={1300} fill="#F29A6A" opacity={0.22 * o.dawn} /> : null}
       <Dim k={o.dark ?? 0} />
     </g>
