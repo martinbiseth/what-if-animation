@@ -66,16 +66,204 @@
   {
    "id": "S1",
    "size": "wide",
-   "set": "city",
-   "note": "stub",
-   "key": 10
+   "set": "museum night",
+   "note": "walking past your phone at night",
+   "key": 30
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "museum night",
+   "note": "Family records: Vee opens the door",
+   "key": 30
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "set": "records room",
+   "note": "a name you know on the screen",
+   "key": 30
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "set": "records room",
+   "note": "your little sister",
+   "key": 30
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "records room",
+   "note": "a message from 2071",
+   "key": 30
+  },
+  {
+   "id": "S6",
+   "size": "screen",
+   "set": "records room",
+   "note": "an old woman, the same laugh",
+   "key": 30
+  },
+  {
+   "id": "S7",
+   "size": "screen close",
+   "set": "records room",
+   "note": "if you ever wake up",
+   "key": 30
+  },
+  {
+   "id": "S8",
+   "size": "screen close",
+   "set": "records room",
+   "note": "don't let anyone put you in a box",
+   "key": 30
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "set": "photo",
+   "note": "the trampoline photo",
+   "key": 30
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "set": "records room",
+   "note": "Vee's map: a dot in the old city",
+   "key": 30
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "set": "glass room",
+   "note": "morning: the woman waits by the open glass room",
+   "key": 30
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "museum exit",
+   "note": "Mo Seven by the exit",
+   "key": 30
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "museum",
+   "note": "Vee: I am not allowed to help",
+   "key": 30
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "museum exit",
+   "note": "the exit door slides open",
+   "key": 30
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "set": "museum",
+   "note": "you look at the glass room",
+   "key": 30
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "museum",
+   "note": "you look at Mo Seven",
+   "key": 30
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "set": "museum exit",
+   "note": "you walk out the door",
+   "key": 30
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "glass room",
+   "note": "find them",
+   "key": 30
   }
  ],
  "edit": [
   {
    "shot": "S1",
    "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "At"
+  },
+  {
+   "shot": "S3",
+   "at": "Inside"
+  },
+  {
+   "shot": "S4",
+   "at": "Your"
+  },
+  {
+   "shot": "S5",
+   "at": "There's"
+  },
+  {
+   "shot": "S6",
+   "at": "She's"
+  },
+  {
+   "shot": "S7",
+   "at": "If"
+  },
+  {
+   "shot": "S8",
+   "at": "Then"
+  },
+  {
+   "shot": "S9",
+   "at": "She#2"
+  },
+  {
+   "shot": "S10",
+   "at": "Vee"
+  },
+  {
+   "shot": "S11",
+   "at": "In#2"
+  },
+  {
+   "shot": "S12",
+   "at": "Mo"
+  },
+  {
+   "shot": "S13",
+   "at": "Vee"
+  },
+  {
+   "shot": "S14",
+   "at": "Then"
+  },
+  {
+   "shot": "S15",
+   "at": "You"
+  },
+  {
+   "shot": "S16",
+   "at": "You"
+  },
+  {
+   "shot": "S17",
+   "at": "And"
+  },
+  {
+   "shot": "S18",
+   "at": "Behind"
   }
  ],
- "fx": []
+ "fx": [],
+ "tail": 0.9
 }

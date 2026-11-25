@@ -7,21 +7,310 @@
   {
    "shot": "S1",
    "a": 0,
+   "b": 195,
+   "t0": 0,
+   "t1": 195,
+   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case."
+  },
+  {
+   "shot": "S2",
+   "a": 195,
+   "b": 370,
+   "t0": 0,
+   "t1": 175,
+   "line": "At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door."
+  },
+  {
+   "shot": "S3",
+   "a": 370,
+   "b": 452,
+   "t0": 0,
+   "t1": 82,
+   "line": "Inside, on a screen, is a name you know."
+  },
+  {
+   "shot": "S4",
+   "a": 452,
+   "b": 491,
+   "t0": 0,
+   "t1": 39,
+   "line": "Your little sister."
+  },
+  {
+   "shot": "S5",
+   "a": 491,
+   "b": 593,
+   "t0": 0,
+   "t1": 102,
+   "line": "There's a message. It was recorded in twenty seventy-one."
+  },
+  {
+   "shot": "S6",
+   "a": 593,
+   "b": 675,
+   "t0": 0,
+   "t1": 82,
+   "line": "She's an old woman now, with the same laugh."
+  },
+  {
+   "shot": "S7",
+   "a": 675,
+   "b": 885,
+   "t0": 0,
+   "t1": 210,
+   "line": "'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'."
+  },
+  {
+   "shot": "S8",
+   "a": 885,
+   "b": 1102,
+   "t0": 0,
+   "t1": 217,
+   "line": "Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'."
+  },
+  {
+   "shot": "S9",
+   "a": 1102,
+   "b": 1269,
+   "t0": 0,
+   "t1": 167,
+   "line": "She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'."
+  },
+  {
+   "shot": "S10",
+   "a": 1269,
+   "b": 1442,
+   "t0": 0,
+   "t1": 173,
+   "line": "Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore."
+  },
+  {
+   "shot": "S11",
+   "a": 1442,
+   "b": 1667,
+   "t0": 0,
+   "t1": 225,
+   "line": "In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever."
+  },
+  {
+   "shot": "S12",
+   "a": 1667,
+   "b": 1806,
+   "t0": 0,
+   "t1": 139,
+   "line": "Mo Seven is standing by the exit. No light. No money. No promises."
+  },
+  {
+   "shot": "S13",
+   "a": 1806,
+   "b": 1935,
+   "t0": 0,
+   "t1": 129,
+   "line": "Vee floats beside you. 'I am not allowed to help you leave', it says."
+  },
+  {
+   "shot": "S14",
+   "a": 1935,
+   "b": 2023,
+   "t0": 0,
+   "t1": 88,
+   "line": "Then, very quietly, the exit door slides open."
+  },
+  {
+   "shot": "S15",
+   "a": 2023,
+   "b": 2076,
+   "t0": 0,
+   "t1": 53,
+   "line": "You look at the glass room."
+  },
+  {
+   "shot": "S16",
+   "a": 2076,
+   "b": 2120,
+   "t0": 0,
+   "t1": 44,
+   "line": "You look at Mo Seven."
+  },
+  {
+   "shot": "S17",
+   "a": 2120,
+   "b": 2172,
+   "t0": 0,
+   "t1": 52,
+   "line": "And you walk out the door."
+  },
+  {
+   "shot": "S18",
+   "a": 2172,
    "b": 2317,
    "t0": 0,
-   "t1": 2317,
-   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case. At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door. Inside, on a screen, is a name you know. Your little sister. There's a message. It was recorded in twenty seventy-one. She's an old woman now, with the same laugh. 'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'. Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'. She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'. Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore. In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever. Mo Seven is standing by the exit. No light. No money. No promises. Vee floats beside you. 'I am not allowed to help you leave', it says. Then, very quietly, the exit door slides open. You look at the glass room. You look at Mo Seven. And you walk out the door. Behind you, the woman whispers two words into her sleeve. 'Find them'."
+   "t1": 145,
+   "line": "Behind you, the woman whispers two words into her sleeve. 'Find them'."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 10,
-   "len": 2317,
+   "key": 30,
+   "len": 195,
    "first": 0,
-   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case. At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door. Inside, on a screen, is a name you know. Your little sister. There's a message. It was recorded in twenty seventy-one. She's an old woman now, with the same laugh. 'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'. Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'. She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'. Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore. In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever. Mo Seven is standing by the exit. No light. No money. No promises. Vee floats beside you. 'I am not allowed to help you leave', it says. Then, very quietly, the exit door slides open. You look at the glass room. You look at Mo Seven. And you walk out the door. Behind you, the woman whispers two words into her sleeve. 'Find them'.",
-   "note": "stub"
+   "line": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case.",
+   "note": "walking past your phone at night"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 175,
+   "first": 195,
+   "line": "At the back, there's a room you've never seen. A sign says 'Family records'. Vee opens the door.",
+   "note": "Family records: Vee opens the door"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 30,
+   "len": 82,
+   "first": 370,
+   "line": "Inside, on a screen, is a name you know.",
+   "note": "a name you know on the screen"
+  },
+  {
+   "id": "S4",
+   "size": "close-up",
+   "key": 30,
+   "len": 39,
+   "first": 452,
+   "line": "Your little sister.",
+   "note": "your little sister"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 30,
+   "len": 102,
+   "first": 491,
+   "line": "There's a message. It was recorded in twenty seventy-one.",
+   "note": "a message from 2071"
+  },
+  {
+   "id": "S6",
+   "size": "screen",
+   "key": 30,
+   "len": 82,
+   "first": 593,
+   "line": "She's an old woman now, with the same laugh.",
+   "note": "an old woman, the same laugh"
+  },
+  {
+   "id": "S7",
+   "size": "screen close",
+   "key": 30,
+   "len": 210,
+   "first": 675,
+   "line": "'If you ever wake up', she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up'.",
+   "note": "if you ever wake up"
+  },
+  {
+   "id": "S8",
+   "size": "screen close",
+   "key": 30,
+   "len": 217,
+   "first": 885,
+   "line": "Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name'.",
+   "note": "don't let anyone put you in a box"
+  },
+  {
+   "id": "S9",
+   "size": "insert",
+   "key": 30,
+   "len": 167,
+   "first": 1102,
+   "line": "She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch'.",
+   "note": "the trampoline photo"
+  },
+  {
+   "id": "S10",
+   "size": "graphic",
+   "key": 30,
+   "len": 173,
+   "first": 1269,
+   "line": "Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore.",
+   "note": "Vee's map: a dot in the old city"
+  },
+  {
+   "id": "S11",
+   "size": "wide",
+   "key": 30,
+   "len": 225,
+   "first": 1442,
+   "line": "In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever.",
+   "note": "morning: the woman waits by the open glass room"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 139,
+   "first": 1667,
+   "line": "Mo Seven is standing by the exit. No light. No money. No promises.",
+   "note": "Mo Seven by the exit"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 129,
+   "first": 1806,
+   "line": "Vee floats beside you. 'I am not allowed to help you leave', it says.",
+   "note": "Vee: I am not allowed to help"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 88,
+   "first": 1935,
+   "line": "Then, very quietly, the exit door slides open.",
+   "note": "the exit door slides open"
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 30,
+   "len": 53,
+   "first": 2023,
+   "line": "You look at the glass room.",
+   "note": "you look at the glass room"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 30,
+   "len": 44,
+   "first": 2076,
+   "line": "You look at Mo Seven.",
+   "note": "you look at Mo Seven"
+  },
+  {
+   "id": "S17",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 2120,
+   "line": "And you walk out the door.",
+   "note": "you walk out the door"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 145,
+   "first": 2172,
+   "line": "Behind you, the woman whispers two words into her sleeve. 'Find them'.",
+   "note": "find them"
   }
  ],
  "fx": [],

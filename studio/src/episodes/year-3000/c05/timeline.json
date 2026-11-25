@@ -7,21 +7,327 @@
   {
    "shot": "S1",
    "a": 0,
+   "b": 115,
+   "t0": 0,
+   "t1": 115,
+   "line": "Day six. A woman in a silver suit walks into the museum."
+  },
+  {
+   "shot": "S2",
+   "a": 115,
+   "b": 170,
+   "t0": 0,
+   "t1": 55,
+   "line": "Everybody steps aside for her."
+  },
+  {
+   "shot": "S3",
+   "a": 170,
+   "b": 305,
+   "t0": 0,
+   "t1": 135,
+   "line": "'I am from the Archive', she says. 'We keep the history of the human race."
+  },
+  {
+   "shot": "S4",
+   "a": 305,
+   "b": 347,
+   "t0": 0,
+   "t1": 42,
+   "line": "And you are history'."
+  },
+  {
+   "shot": "S5",
+   "a": 347,
+   "b": 427,
+   "t0": 0,
+   "t1": 80,
+   "line": "She smiles. It is not a friendly smile."
+  },
+  {
+   "shot": "S6",
+   "a": 427,
+   "b": 521,
+   "t0": 0,
+   "t1": 94,
+   "line": "'Your credit runs out tomorrow. You have no light."
+  },
+  {
+   "shot": "S7",
+   "a": 521,
+   "b": 584,
+   "t0": 0,
+   "t1": 63,
+   "line": "To the city, you do not exist."
+  },
+  {
+   "shot": "S8",
+   "a": 584,
+   "b": 681,
+   "t0": 0,
+   "t1": 97,
+   "line": "You cannot buy food, open a door, or ride a train'."
+  },
+  {
+   "shot": "S9",
+   "a": 681,
+   "b": 877,
+   "t0": 0,
+   "t1": 196,
+   "line": "So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one."
+  },
+  {
+   "shot": "S10",
+   "a": 877,
+   "b": 1004,
+   "t0": 0,
+   "t1": 127,
+   "line": "To prove it, she walks you to a door. It slides open for her. You"
+  },
+  {
+   "shot": "S11",
+   "a": 1004,
+   "b": 1105,
+   "t0": 0,
+   "t1": 101,
+   "line": "step up. Nothing. The door doesn't even see you."
+  },
+  {
+   "shot": "S12",
+   "a": 1105,
+   "b": 1230,
+   "t0": 0,
+   "t1": 125,
+   "line": "Mo Seven says nobody here has opened a door by hand in two hundred years."
+  },
+  {
+   "shot": "S13",
+   "a": 1230,
+   "b": 1408,
+   "t0": 0,
+   "t1": 178,
+   "line": "'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She"
+  },
+  {
+   "shot": "S14",
+   "a": 1408,
+   "b": 1529,
+   "t0": 0,
+   "t1": 121,
+   "line": "shows you the room. It is beautiful. It's also made of glass."
+  },
+  {
+   "shot": "S15",
+   "a": 1529,
+   "b": 1724,
+   "t0": 0,
+   "t1": 195,
+   "line": "And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'."
+  },
+  {
+   "shot": "S16",
+   "a": 1724,
+   "b": 1863,
+   "t0": 0,
+   "t1": 139,
+   "line": "Mo Seven grabs your arm. 'If you go in there, they will never let you out'."
+  },
+  {
+   "shot": "S17",
+   "a": 1863,
+   "b": 2020,
+   "t0": 0,
+   "t1": 157,
+   "line": "The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'."
+  },
+  {
+   "shot": "S18",
+   "a": 2020,
+   "b": 2103,
+   "t0": 0,
+   "t1": 83,
+   "line": "Now it's not just you who's in trouble. You have"
+  },
+  {
+   "shot": "S19",
+   "a": 2103,
    "b": 2169,
    "t0": 0,
-   "t1": 2169,
-   "line": "Day six. A woman in a silver suit walks into the museum. Everybody steps aside for her. 'I am from the Archive', she says. 'We keep the history of the human race. And you are history'. She smiles. It is not a friendly smile. 'Your credit runs out tomorrow. You have no light. To the city, you do not exist. You cannot buy food, open a door, or ride a train'. So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one. To prove it, she walks you to a door. It slides open for her. You step up. Nothing. The door doesn't even see you. Mo Seven says nobody here has opened a door by hand in two hundred years. 'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She shows you the room. It is beautiful. It's also made of glass. And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'. Mo Seven grabs your arm. 'If you go in there, they will never let you out'. The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'. Now it's not just you who's in trouble. You have until tomorrow to decide."
+   "t1": 66,
+   "line": "until tomorrow to decide."
   }
  ],
  "shots": [
   {
    "id": "S1",
    "size": "wide",
-   "key": 10,
-   "len": 2169,
+   "key": 30,
+   "len": 115,
    "first": 0,
-   "line": "Day six. A woman in a silver suit walks into the museum. Everybody steps aside for her. 'I am from the Archive', she says. 'We keep the history of the human race. And you are history'. She smiles. It is not a friendly smile. 'Your credit runs out tomorrow. You have no light. To the city, you do not exist. You cannot buy food, open a door, or ride a train'. So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one. To prove it, she walks you to a door. It slides open for her. You step up. Nothing. The door doesn't even see you. Mo Seven says nobody here has opened a door by hand in two hundred years. 'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She shows you the room. It is beautiful. It's also made of glass. And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'. Mo Seven grabs your arm. 'If you go in there, they will never let you out'. The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'. Now it's not just you who's in trouble. You have until tomorrow to decide.",
-   "note": "stub"
+   "line": "Day six. A woman in a silver suit walks into the museum.",
+   "note": "the woman in silver walks in"
+  },
+  {
+   "id": "S2",
+   "size": "low",
+   "key": 30,
+   "len": 55,
+   "first": 115,
+   "line": "Everybody steps aside for her.",
+   "note": "everybody steps aside"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 30,
+   "len": 135,
+   "first": 170,
+   "line": "'I am from the Archive', she says. 'We keep the history of the human race.",
+   "note": "I am from the Archive"
+  },
+  {
+   "id": "S4",
+   "size": "two-shot",
+   "key": 30,
+   "len": 42,
+   "first": 305,
+   "line": "And you are history'.",
+   "note": "and you are history"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 30,
+   "len": 80,
+   "first": 347,
+   "line": "She smiles. It is not a friendly smile.",
+   "note": "not a friendly smile"
+  },
+  {
+   "id": "S6",
+   "size": "two-shot",
+   "key": 30,
+   "len": 94,
+   "first": 427,
+   "line": "'Your credit runs out tomorrow. You have no light.",
+   "note": "your credit runs out tomorrow"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 521,
+   "line": "To the city, you do not exist.",
+   "note": "to the city you don't exist"
+  },
+  {
+   "id": "S8",
+   "size": "graphic",
+   "key": 30,
+   "len": 97,
+   "first": 584,
+   "line": "You cannot buy food, open a door, or ride a train'.",
+   "note": "no food, no door, no train"
+  },
+  {
+   "id": "S9",
+   "size": "graphic",
+   "key": 30,
+   "len": 196,
+   "first": 681,
+   "line": "So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one.",
+   "note": "the light: name, money, key"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 127,
+   "first": 877,
+   "line": "To prove it, she walks you to a door. It slides open for her. You",
+   "note": "the door opens for her"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 101,
+   "first": 1004,
+   "line": "step up. Nothing. The door doesn't even see you.",
+   "note": "the door doesn't see you"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 30,
+   "len": 125,
+   "first": 1105,
+   "line": "Mo Seven says nobody here has opened a door by hand in two hundred years.",
+   "note": "Mo Seven: nobody opens doors by hand"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 178,
+   "first": 1230,
+   "line": "'But we can give you a home', she says. 'A beautiful room. Food. Doctors. Forever'. She",
+   "note": "we can give you a home"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 30,
+   "len": 121,
+   "first": 1408,
+   "line": "shows you the room. It is beautiful. It's also made of glass.",
+   "note": "the glass room"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 30,
+   "len": 195,
+   "first": 1529,
+   "line": "And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six'.",
+   "note": "the sign: living exhibit 2026"
+  },
+  {
+   "id": "S16",
+   "size": "two-shot",
+   "key": 30,
+   "len": 139,
+   "first": 1724,
+   "line": "Mo Seven grabs your arm. 'If you go in there, they will never let you out'.",
+   "note": "Mo Seven grabs your arm"
+  },
+  {
+   "id": "S17",
+   "size": "close-up",
+   "key": 30,
+   "len": 157,
+   "first": 1863,
+   "line": "The woman hears him. 'Mo Seven', she says, 'helping a person with no light is a crime'.",
+   "note": "helping you is a crime"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 30,
+   "len": 83,
+   "first": 2020,
+   "line": "Now it's not just you who's in trouble. You have",
+   "note": "Mo Seven is in trouble too"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "key": 30,
+   "len": 66,
+   "first": 2103,
+   "line": "until tomorrow to decide.",
+   "note": "until tomorrow to decide"
   }
  ],
  "fx": [],
