@@ -1,29 +1,218 @@
 {
  "slug": "hear-thoughts/c02",
- "title": "The premise and its rules",
+ "title": "WHAT IF YOU COULD HEAR EVERYONE'S THOUGHTS?",
  "fps": 30,
- "total": 90,
+ "total": 1400,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 37,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 37,
+   "line": "Here's how it works."
+  },
+  {
+   "shot": "S2",
+   "a": 37,
+   "b": 131,
+   "t0": 0,
+   "t1": 94,
+   "line": "One Monday morning, you wake up and the world is louder."
+  },
+  {
+   "shot": "S3",
+   "a": 131,
+   "b": 278,
+   "t0": 0,
+   "t1": 147,
+   "line": "Anything a person thinks in words, you hear, like they're whispering right into your ear."
+  },
+  {
+   "shot": "S4",
+   "a": 278,
+   "b": 391,
+   "t0": 0,
+   "t1": 113,
+   "line": "Not pictures. Not feelings. Just the words in their head."
+  },
+  {
+   "shot": "S5",
+   "a": 391,
+   "b": 506,
+   "t0": 0,
+   "t1": 115,
+   "line": "And they sound like them, too. Your mum's thoughts sound like your mum."
+  },
+  {
+   "shot": "S6",
+   "a": 506,
+   "b": 612,
+   "t0": 0,
+   "t1": 106,
+   "line": "Mo's sound like Mo, just a little faster, and a little ruder."
+  },
+  {
+   "shot": "S7",
+   "a": 612,
+   "b": 819,
+   "t0": 0,
+   "t1": 207,
+   "line": "There are rules. You only hear people close to you, about ten steps away. Any further, and they fade out. You"
+  },
+  {
+   "shot": "S8",
+   "a": 819,
+   "b": 961,
+   "t0": 0,
+   "t1": 142,
+   "line": "can't turn it off. Earplugs don't help, because it isn't coming through your ears. And"
+  },
+  {
+   "shot": "S9",
+   "a": 961,
+   "b": 1049,
+   "t0": 0,
+   "t1": 88,
+   "line": "the more someone is thinking about you, the louder they get."
+  },
+  {
+   "shot": "S10",
+   "a": 1049,
+   "b": 1121,
+   "t0": 0,
+   "t1": 72,
+   "line": "Remember that. It matters later."
+  },
+  {
+   "shot": "S11",
+   "a": 1121,
+   "b": 1275,
+   "t0": 0,
+   "t1": 154,
+   "line": "One more thing. Nobody can hear yours. Your head is the only quiet place left."
+  },
+  {
+   "shot": "S12",
+   "a": 1275,
+   "b": 1400,
+   "t0": 0,
+   "t1": 125,
+   "line": "This is what if you could hear everyone's thoughts."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
    "key": 30,
-   "len": 90,
+   "len": 37,
    "first": 0,
-   "line": "",
-   "note": "The premise and its rules"
+   "line": "Here's how it works.",
+   "note": "card: how it works"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 94,
+   "first": 37,
+   "line": "One Monday morning, you wake up and the world is louder.",
+   "note": "bedroom: world is louder"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 147,
+   "first": 131,
+   "line": "Anything a person thinks in words, you hear, like they're whispering right into your ear.",
+   "note": "street: a whisper into your ear"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 113,
+   "first": 278,
+   "line": "Not pictures. Not feelings. Just the words in their head.",
+   "note": "card: pictures x feelings x words ok"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 115,
+   "first": 391,
+   "line": "And they sound like them, too. Your mum's thoughts sound like your mum.",
+   "note": "mum's thoughts sound like mum"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 106,
+   "first": 506,
+   "line": "Mo's sound like Mo, just a little faster, and a little ruder.",
+   "note": "Mo's: faster, ruder"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 207,
+   "first": 612,
+   "line": "There are rules. You only hear people close to you, about ten steps away. Any further, and they fade out. You",
+   "note": "ten steps circle"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 142,
+   "first": 819,
+   "line": "can't turn it off. Earplugs don't help, because it isn't coming through your ears. And",
+   "note": "earplugs don't help"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 88,
+   "first": 961,
+   "line": "the more someone is thinking about you, the louder they get.",
+   "note": "thinking about you: louder"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 1049,
+   "line": "Remember that. It matters later.",
+   "note": "REMEMBER THAT"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 154,
+   "first": 1121,
+   "line": "One more thing. Nobody can hear yours. Your head is the only quiet place left.",
+   "note": "nobody can hear yours"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 125,
+   "first": 1275,
+   "line": "This is what if you could hear everyone's thoughts.",
+   "note": "title"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c02/voice.wav"
+ }
 }

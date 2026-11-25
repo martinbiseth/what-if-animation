@@ -41,18 +41,297 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: The fun part"
+      "note": "card"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "test in class"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "you: don't know q4"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "Priya knows"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "Priya thought 12.5"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "paper: 12.5"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "you feel bad"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "an A"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "game shop: forty"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "shopman thought: twenty"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "say twenty, fine, clever kid"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo: how did you know"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "you tell him; he goes quiet"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo: never again, do Priya"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "lunch: Priya's thoughts"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo walks over, hi"
+    },
+    {
+      "id": "S28",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo tomato face"
+    },
+    {
+      "id": "S29",
+      "size": "medium",
+      "key": 30,
+      "note": "Priya says hi back"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "cards: mum thought"
+    },
+    {
+      "id": "S27",
+      "size": "medium",
+      "key": 30,
+      "note": "Ellie thought"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "you win; mum: cheating?"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "you: no"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "mum thinking about boots"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "boots box, cries"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo's plan"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "price list on hand"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 30,
+      "note": "you laugh"
+    },
+    {
+      "id": "S25",
+      "size": "medium",
+      "key": 30,
+      "note": "Saturday: mall entrance"
+    },
+    {
+      "id": "S26",
+      "size": "medium",
+      "key": 30,
+      "note": "you stop laughing"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:1.93"
+    },
+    {
+      "shot": "S3",
+      "at": "s:4.23"
+    },
+    {
+      "shot": "S4",
+      "at": "s:5.83"
+    },
+    {
+      "shot": "S5",
+      "at": "s:8.53"
+    },
+    {
+      "shot": "S6",
+      "at": "s:10.63"
+    },
+    {
+      "shot": "S7",
+      "at": "s:12.73"
+    },
+    {
+      "shot": "S8",
+      "at": "s:14.03"
+    },
+    {
+      "shot": "S9",
+      "at": "s:15.13"
+    },
+    {
+      "shot": "S10",
+      "at": "s:20.73"
+    },
+    {
+      "shot": "S11",
+      "at": "s:24.43"
+    },
+    {
+      "shot": "S12",
+      "at": "s:29.53"
+    },
+    {
+      "shot": "S13",
+      "at": "s:33.33"
+    },
+    {
+      "shot": "S14",
+      "at": "s:39.43"
+    },
+    {
+      "shot": "S15",
+      "at": "s:44.13"
+    },
+    {
+      "shot": "S16",
+      "at": "s:50.23"
+    },
+    {
+      "shot": "S28",
+      "at": "s:53.23"
+    },
+    {
+      "shot": "S29",
+      "at": "s:55.63"
+    },
+    {
+      "shot": "S17",
+      "at": "s:58.33"
+    },
+    {
+      "shot": "S27",
+      "at": "s:64.03"
+    },
+    {
+      "shot": "S18",
+      "at": "s:67.23"
+    },
+    {
+      "shot": "S19",
+      "at": "s:71.63"
+    },
+    {
+      "shot": "S20",
+      "at": "s:74.83"
+    },
+    {
+      "shot": "S21",
+      "at": "s:79.93"
+    },
+    {
+      "shot": "S22",
+      "at": "s:84.43"
+    },
+    {
+      "shot": "S23",
+      "at": "s:91.63"
+    },
+    {
+      "shot": "S24",
+      "at": "s:96.83"
+    },
+    {
+      "shot": "S25",
+      "at": "s:97.83"
+    },
+    {
+      "shot": "S26",
+      "at": "s:102.03"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "tail": 1.0
 }

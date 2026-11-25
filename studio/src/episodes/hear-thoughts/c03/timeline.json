@@ -1,29 +1,507 @@
 {
  "slug": "hear-thoughts/c03",
- "title": "The fun part",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 3126,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 58,
+   "t0": 0,
+   "t1": 58,
+   "line": "And at first, it's amazing."
+  },
+  {
+   "shot": "S2",
+   "a": 58,
+   "b": 127,
+   "t0": 0,
+   "t1": 69,
+   "line": "On Tuesday, there's a maths test."
+  },
+  {
+   "shot": "S3",
+   "a": 127,
+   "b": 175,
+   "t0": 0,
+   "t1": 48,
+   "line": "You don't know question four."
+  },
+  {
+   "shot": "S4",
+   "a": 175,
+   "b": 256,
+   "t0": 0,
+   "t1": 81,
+   "line": "But Priya, two desks away, does."
+  },
+  {
+   "shot": "S5",
+   "a": 256,
+   "b": 319,
+   "t0": 0,
+   "t1": 63,
+   "line": "'Twelve point five. Easy. '"
+  },
+  {
+   "shot": "S6",
+   "a": 319,
+   "b": 382,
+   "t0": 0,
+   "t1": 63,
+   "line": "You write down twelve point five."
+  },
+  {
+   "shot": "S7",
+   "a": 382,
+   "b": 421,
+   "t0": 0,
+   "t1": 39,
+   "line": "You feel a bit bad."
+  },
+  {
+   "shot": "S8",
+   "a": 421,
+   "b": 454,
+   "t0": 0,
+   "t1": 33,
+   "line": "You get an A."
+  },
+  {
+   "shot": "S9",
+   "a": 454,
+   "b": 622,
+   "t0": 0,
+   "t1": 168,
+   "line": "After school, you want a second- hand game. The man in the shop says, 'Forty. Final price."
+  },
+  {
+   "shot": "S10",
+   "a": 622,
+   "b": 733,
+   "t0": 0,
+   "t1": 111,
+   "line": "' And in his head: 'I'd take twenty. I just want it gone. '"
+  },
+  {
+   "shot": "S11",
+   "a": 733,
+   "b": 886,
+   "t0": 0,
+   "t1": 153,
+   "line": "You say twenty. He sighs. 'Fine. ' Then he thinks, 'Clever kid. '"
+  },
+  {
+   "shot": "S12",
+   "a": 886,
+   "b": 1000,
+   "t0": 0,
+   "t1": 114,
+   "line": "Mo works it out by Wednesday. 'How did you know I was going to say that? '"
+  },
+  {
+   "shot": "S13",
+   "a": 1000,
+   "b": 1183,
+   "t0": 0,
+   "t1": 183,
+   "line": "So you tell him. He doesn't believe you, so you tell him exactly what he's thinking, right now. He goes very quiet."
+  },
+  {
+   "shot": "S14",
+   "a": 1183,
+   "b": 1324,
+   "t0": 0,
+   "t1": 141,
+   "line": "'Okay. Never do that again. Also... do Priya. ' So you do."
+  },
+  {
+   "shot": "S15",
+   "a": 1324,
+   "b": 1507,
+   "t0": 0,
+   "t1": 183,
+   "line": "At lunch, Priya looks over at Mo and thinks, 'Why is he always staring at me? ' Then: 'He's kind of funny, though. '"
+  },
+  {
+   "shot": "S16",
+   "a": 1507,
+   "b": 1597,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "You tell Mo. Mo walks over and says hi."
+  },
+  {
+   "shot": "S28",
+   "a": 1597,
+   "b": 1669,
+   "t0": 0,
+   "t1": 72,
+   "line": "Mo's face goes the colour of a tomato."
+  },
+  {
+   "shot": "S29",
+   "a": 1669,
+   "b": 1750,
+   "t0": 0,
+   "t1": 81,
+   "line": "For the first time in two years, she says hi back."
+  },
+  {
+   "shot": "S17",
+   "a": 1750,
+   "b": 1921,
+   "t0": 0,
+   "t1": 171,
+   "line": "On Thursday night, the family plays cards. Mum is thinking, 'Two kings. Don't smile."
+  },
+  {
+   "shot": "S27",
+   "a": 1921,
+   "b": 2017,
+   "t0": 0,
+   "t1": 96,
+   "line": "' Ellie is thinking, 'I have no idea what game this is. '"
+  },
+  {
+   "shot": "S18",
+   "a": 2017,
+   "b": 2149,
+   "t0": 0,
+   "t1": 132,
+   "line": "You win four rounds in a row. Mum narrows her eyes. 'Are you cheating?"
+  },
+  {
+   "shot": "S19",
+   "a": 2149,
+   "b": 2245,
+   "t0": 0,
+   "t1": 96,
+   "line": "' 'No, ' you say. And technically, you're not."
+  },
+  {
+   "shot": "S20",
+   "a": 2245,
+   "b": 2398,
+   "t0": 0,
+   "t1": 153,
+   "line": "Your mum's birthday is easy. She has been thinking about the same pair of blue boots for a week."
+  },
+  {
+   "shot": "S21",
+   "a": 2398,
+   "b": 2533,
+   "t0": 0,
+   "t1": 135,
+   "line": "When she opens the box, she cries. 'How did you know? ' You just shrug."
+  },
+  {
+   "shot": "S22",
+   "a": 2533,
+   "b": 2749,
+   "t0": 0,
+   "t1": 216,
+   "line": "By Friday, Mo has a plan. 'We could be detectives. Lost dogs. Lying boyfriends. Who stole the teacher's mug. '"
+  },
+  {
+   "shot": "S23",
+   "a": 2749,
+   "b": 2905,
+   "t0": 0,
+   "t1": 156,
+   "line": "He writes a price list on the back of his hand. Five dollars a question. Ten for the truth."
+  },
+  {
+   "shot": "S24",
+   "a": 2905,
+   "b": 2935,
+   "t0": 0,
+   "t1": 30,
+   "line": "You laugh."
+  },
+  {
+   "shot": "S25",
+   "a": 2935,
+   "b": 3061,
+   "t0": 0,
+   "t1": 126,
+   "line": "And then, on Saturday, your mum takes you and Ellie to the shopping centre."
+  },
+  {
+   "shot": "S26",
+   "a": 3061,
+   "b": 3126,
+   "t0": 0,
+   "t1": 65,
+   "line": "And you stop laughing."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 0,
+   "line": "And at first, it's amazing.",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 69,
+   "first": 58,
+   "line": "On Tuesday, there's a maths test.",
+   "note": "test in class"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 127,
+   "line": "You don't know question four.",
+   "note": "you: don't know q4"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 175,
+   "line": "But Priya, two desks away, does.",
+   "note": "Priya knows"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 256,
+   "line": "'Twelve point five. Easy. '",
+   "note": "Priya thought 12.5"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 319,
+   "line": "You write down twelve point five.",
+   "note": "paper: 12.5"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 382,
+   "line": "You feel a bit bad.",
+   "note": "you feel bad"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 33,
+   "first": 421,
+   "line": "You get an A.",
+   "note": "an A"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 168,
+   "first": 454,
+   "line": "After school, you want a second- hand game. The man in the shop says, 'Forty. Final price.",
+   "note": "game shop: forty"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 111,
+   "first": 622,
+   "line": "' And in his head: 'I'd take twenty. I just want it gone. '",
+   "note": "shopman thought: twenty"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 153,
+   "first": 733,
+   "line": "You say twenty. He sighs. 'Fine. ' Then he thinks, 'Clever kid. '",
+   "note": "say twenty, fine, clever kid"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 114,
+   "first": 886,
+   "line": "Mo works it out by Wednesday. 'How did you know I was going to say that? '",
+   "note": "Mo: how did you know"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 183,
+   "first": 1000,
+   "line": "So you tell him. He doesn't believe you, so you tell him exactly what he's thinking, right now. He goes very quiet.",
+   "note": "you tell him; he goes quiet"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 141,
+   "first": 1183,
+   "line": "'Okay. Never do that again. Also... do Priya. ' So you do.",
+   "note": "Mo: never again, do Priya"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 183,
+   "first": 1324,
+   "line": "At lunch, Priya looks over at Mo and thinks, 'Why is he always staring at me? ' Then: 'He's kind of funny, though. '",
+   "note": "lunch: Priya's thoughts"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "The fun part"
+   "first": 1507,
+   "line": "You tell Mo. Mo walks over and says hi.",
+   "note": "Mo walks over, hi"
+  },
+  {
+   "id": "S28",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 1597,
+   "line": "Mo's face goes the colour of a tomato.",
+   "note": "Mo tomato face"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 1669,
+   "line": "For the first time in two years, she says hi back.",
+   "note": "Priya says hi back"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 171,
+   "first": 1750,
+   "line": "On Thursday night, the family plays cards. Mum is thinking, 'Two kings. Don't smile.",
+   "note": "cards: mum thought"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 30,
+   "len": 96,
+   "first": 1921,
+   "line": "' Ellie is thinking, 'I have no idea what game this is. '",
+   "note": "Ellie thought"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 132,
+   "first": 2017,
+   "line": "You win four rounds in a row. Mum narrows her eyes. 'Are you cheating?",
+   "note": "you win; mum: cheating?"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 96,
+   "first": 2149,
+   "line": "' 'No, ' you say. And technically, you're not.",
+   "note": "you: no"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 153,
+   "first": 2245,
+   "line": "Your mum's birthday is easy. She has been thinking about the same pair of blue boots for a week.",
+   "note": "mum thinking about boots"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 135,
+   "first": 2398,
+   "line": "When she opens the box, she cries. 'How did you know? ' You just shrug.",
+   "note": "boots box, cries"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 216,
+   "first": 2533,
+   "line": "By Friday, Mo has a plan. 'We could be detectives. Lost dogs. Lying boyfriends. Who stole the teacher's mug. '",
+   "note": "Mo's plan"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 156,
+   "first": 2749,
+   "line": "He writes a price list on the back of his hand. Five dollars a question. Ten for the truth.",
+   "note": "price list on hand"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 30,
+   "len": 30,
+   "first": 2905,
+   "line": "You laugh.",
+   "note": "you laugh"
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "key": 30,
+   "len": 126,
+   "first": 2935,
+   "line": "And then, on Saturday, your mum takes you and Ellie to the shopping centre.",
+   "note": "Saturday: mall entrance"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 30,
+   "len": 65,
+   "first": 3061,
+   "line": "And you stop laughing.",
+   "note": "you stop laughing"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c03/voice.wav"
+ }
 }

@@ -1,29 +1,405 @@
 {
  "slug": "hear-thoughts/c01",
- "title": "Cold open",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 1677,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 41,
    "t0": 0,
-   "t1": 90,
-   "line": ""
+   "t1": 41,
+   "line": "You wake up, walk into"
+  },
+  {
+   "shot": "S2",
+   "a": 41,
+   "b": 102,
+   "t0": 0,
+   "t1": 61,
+   "line": "the kitchen, and your mum smiles."
+  },
+  {
+   "shot": "S3",
+   "a": 102,
+   "b": 141,
+   "t0": 0,
+   "t1": 39,
+   "line": "'Morning, sweetheart! '"
+  },
+  {
+   "shot": "S4",
+   "a": 141,
+   "b": 194,
+   "t0": 0,
+   "t1": 53,
+   "line": "But you hear something else."
+  },
+  {
+   "shot": "S5",
+   "a": 194,
+   "b": 256,
+   "t0": 0,
+   "t1": 62,
+   "line": "Her voice, from inside her head."
+  },
+  {
+   "shot": "S6",
+   "a": 256,
+   "b": 318,
+   "t0": 0,
+   "t1": 62,
+   "line": "'If he leaves that cereal bowl in the sink"
+  },
+  {
+   "shot": "S7",
+   "a": 318,
+   "b": 348,
+   "t0": 0,
+   "t1": 30,
+   "line": "one more time... '"
+  },
+  {
+   "shot": "S8",
+   "a": 348,
+   "b": 442,
+   "t0": 0,
+   "t1": 94,
+   "line": "On the bus, it's like everyone has a radio on. The"
+  },
+  {
+   "shot": "S9",
+   "a": 442,
+   "b": 543,
+   "t0": 0,
+   "t1": 101,
+   "line": "driver has the same three words of a song stuck on repeat. A"
+  },
+  {
+   "shot": "S10",
+   "a": 543,
+   "b": 638,
+   "t0": 0,
+   "t1": 95,
+   "line": "man in a suit is practising how to ask for a pay rise."
+  },
+  {
+   "shot": "S11",
+   "a": 638,
+   "b": 710,
+   "t0": 0,
+   "t1": 72,
+   "line": "'I deserve this. I deserve this. '"
+  },
+  {
+   "shot": "S12",
+   "a": 710,
+   "b": 848,
+   "t0": 0,
+   "t1": 138,
+   "line": "A woman smiles at a baby and thinks, 'Ugly. Very ugly. Cute, though. '"
+  },
+  {
+   "shot": "S13",
+   "a": 848,
+   "b": 934,
+   "t0": 0,
+   "t1": 86,
+   "line": "At the bus stop, a pigeon walks past, and for a second"
+  },
+  {
+   "shot": "S14",
+   "a": 934,
+   "b": 962,
+   "t0": 0,
+   "t1": 28,
+   "line": "you panic."
+  },
+  {
+   "shot": "S15",
+   "a": 962,
+   "b": 1042,
+   "t0": 0,
+   "t1": 80,
+   "line": "But no. Just people. Only people."
+  },
+  {
+   "shot": "S16",
+   "a": 1042,
+   "b": 1115,
+   "t0": 0,
+   "t1": 73,
+   "line": "At school, Mo looks at your new haircut."
+  },
+  {
+   "shot": "S17",
+   "a": 1115,
+   "b": 1168,
+   "t0": 0,
+   "t1": 53,
+   "line": "'Nice! ' he says."
+  },
+  {
+   "shot": "S18",
+   "a": 1168,
+   "b": 1268,
+   "t0": 0,
+   "t1": 100,
+   "line": "And inside his head: 'Oh no. What did he do? '"
+  },
+  {
+   "shot": "S19",
+   "a": 1268,
+   "b": 1353,
+   "t0": 0,
+   "t1": 85,
+   "line": "Your teacher says, 'Great question! ' And thinks,"
+  },
+  {
+   "shot": "S20",
+   "a": 1353,
+   "b": 1455,
+   "t0": 0,
+   "t1": 102,
+   "line": "'Please. Stop. Asking. Questions. '"
+  },
+  {
+   "shot": "S21",
+   "a": 1455,
+   "b": 1513,
+   "t0": 0,
+   "t1": 58,
+   "line": "Every person. Every thought."
+  },
+  {
+   "shot": "S22",
+   "a": 1513,
+   "b": 1571,
+   "t0": 0,
+   "t1": 58,
+   "line": "Out loud, but only for you."
+  },
+  {
+   "shot": "S23",
+   "a": 1571,
+   "b": 1677,
+   "t0": 0,
+   "t1": 106,
+   "line": "So what would actually happen if you could hear everyone's thoughts?"
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
    "key": 30,
-   "len": 90,
+   "len": 41,
    "first": 0,
-   "line": "",
-   "note": "Cold open"
+   "line": "You wake up, walk into",
+   "note": "wake"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 61,
+   "first": 41,
+   "line": "the kitchen, and your mum smiles.",
+   "note": "kitchen wide, mum smiles"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 102,
+   "line": "'Morning, sweetheart! '",
+   "note": "mum: morning sweetheart"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 53,
+   "first": 141,
+   "line": "But you hear something else.",
+   "note": "your face: hear something"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 62,
+   "first": 194,
+   "line": "Her voice, from inside her head.",
+   "note": "mum CU smiling, waves"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 62,
+   "first": 256,
+   "line": "'If he leaves that cereal bowl in the sink",
+   "note": "mum thought: cereal bowl"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 30,
+   "first": 318,
+   "line": "one more time... '",
+   "note": "ONE MORE TIME bubble"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 94,
+   "first": 348,
+   "line": "On the bus, it's like everyone has a radio on. The",
+   "note": "bus wide, waves everywhere"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 101,
+   "first": 442,
+   "line": "driver has the same three words of a song stuck on repeat. A",
+   "note": "driver song loop"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 95,
+   "first": 543,
+   "line": "man in a suit is practising how to ask for a pay rise.",
+   "note": "suit man practising"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 638,
+   "line": "'I deserve this. I deserve this. '",
+   "note": "I DESERVE THIS"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 30,
+   "len": 138,
+   "first": 710,
+   "line": "A woman smiles at a baby and thinks, 'Ugly. Very ugly. Cute, though. '",
+   "note": "woman + baby: ugly / cute"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 86,
+   "first": 848,
+   "line": "At the bus stop, a pigeon walks past, and for a second",
+   "note": "bus stop, pigeon"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 28,
+   "first": 934,
+   "line": "you panic.",
+   "note": "your face panic"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 80,
+   "first": 962,
+   "line": "But no. Just people. Only people.",
+   "note": "street: just people"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 73,
+   "first": 1042,
+   "line": "At school, Mo looks at your new haircut.",
+   "note": "school: Mo sees haircut"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 53,
+   "first": 1115,
+   "line": "'Nice! ' he says.",
+   "note": "Mo: nice!"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 100,
+   "first": 1168,
+   "line": "And inside his head: 'Oh no. What did he do? '",
+   "note": "Mo thought: oh no"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 85,
+   "first": 1268,
+   "line": "Your teacher says, 'Great question! ' And thinks,",
+   "note": "teacher: great question"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 102,
+   "first": 1353,
+   "line": "'Please. Stop. Asking. Questions. '",
+   "note": "teacher thought: please stop"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 1455,
+   "line": "Every person. Every thought.",
+   "note": "thought field crowd"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 58,
+   "first": 1513,
+   "line": "Out loud, but only for you.",
+   "note": "you CU, only you"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 106,
+   "first": 1571,
+   "line": "So what would actually happen if you could hear everyone's thoughts?",
+   "note": "title question on rooftop"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c01/voice.wav"
+ }
 }

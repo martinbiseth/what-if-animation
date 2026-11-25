@@ -25,22 +25,131 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: The premise and its rules"
+      "note": "card: how it works"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "bedroom: world is louder"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "street: a whisper into your ear"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "card: pictures x feelings x words ok"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "mum's thoughts sound like mum"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo's: faster, ruder"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "ten steps circle"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "earplugs don't help"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "thinking about you: louder"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "REMEMBER THAT"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "nobody can hear yours"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "title"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "One"
+    },
+    {
+      "shot": "S3",
+      "at": "Anything"
+    },
+    {
+      "shot": "S4",
+      "at": "Not"
+    },
+    {
+      "shot": "S5",
+      "at": "And"
+    },
+    {
+      "shot": "S6",
+      "at": "Mo's"
+    },
+    {
+      "shot": "S7",
+      "at": "There"
+    },
+    {
+      "shot": "S8",
+      "at": "can't"
+    },
+    {
+      "shot": "S9",
+      "at": "more"
+    },
+    {
+      "shot": "S10",
+      "at": "Remember"
+    },
+    {
+      "shot": "S11",
+      "at": "One"
+    },
+    {
+      "shot": "S12",
+      "at": "This"
     }
   ],
-  "end": "f:90",
   "fx": [],
   "title": [
     "WHAT IF YOU COULD HEAR",
     "EVERYONE'S THOUGHTS?"
-  ]
+  ],
+  "tail": 2.0
 }

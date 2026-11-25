@@ -29,22 +29,241 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: Cold open"
+      "note": "wake"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "kitchen wide, mum smiles"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "mum: morning sweetheart"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "your face: hear something"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "mum CU smiling, waves"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "mum thought: cereal bowl"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "ONE MORE TIME bubble"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "bus wide, waves everywhere"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "driver song loop"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "suit man practising"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "I DESERVE THIS"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "woman + baby: ugly / cute"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "bus stop, pigeon"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "your face panic"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "street: just people"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "school: Mo sees haircut"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo: nice!"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "Mo thought: oh no"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "teacher: great question"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "teacher thought: please stop"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "thought field crowd"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "you CU, only you"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "title question on rooftop"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "kitchen"
+    },
+    {
+      "shot": "S3",
+      "at": "'Morning"
+    },
+    {
+      "shot": "S4",
+      "at": "But"
+    },
+    {
+      "shot": "S5",
+      "at": "Her"
+    },
+    {
+      "shot": "S6",
+      "at": "'If"
+    },
+    {
+      "shot": "S7",
+      "at": "one"
+    },
+    {
+      "shot": "S8",
+      "at": "On"
+    },
+    {
+      "shot": "S9",
+      "at": "driver"
+    },
+    {
+      "shot": "S10",
+      "at": "man"
+    },
+    {
+      "shot": "S11",
+      "at": "'I"
+    },
+    {
+      "shot": "S12",
+      "at": "woman"
+    },
+    {
+      "shot": "S13",
+      "at": "At#2"
+    },
+    {
+      "shot": "S14",
+      "at": "you"
+    },
+    {
+      "shot": "S15",
+      "at": "But"
+    },
+    {
+      "shot": "S16",
+      "at": "At"
+    },
+    {
+      "shot": "S17",
+      "at": "'Nice"
+    },
+    {
+      "shot": "S18",
+      "at": "And"
+    },
+    {
+      "shot": "S19",
+      "at": "Your"
+    },
+    {
+      "shot": "S20",
+      "at": "'Please"
+    },
+    {
+      "shot": "S21",
+      "at": "Every"
+    },
+    {
+      "shot": "S22",
+      "at": "Out"
+    },
+    {
+      "shot": "S23",
+      "at": "So"
     }
   ],
-  "end": "f:90",
   "fx": [],
   "pace": {
     "min_cuts": 24,
     "max_hold": 4
-  }
+  },
+  "tail": 1.0
 }
