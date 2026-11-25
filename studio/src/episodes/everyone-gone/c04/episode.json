@@ -1,0 +1,70 @@
+{
+ "id": "EveryoneGoneC04",
+ "slug": "everyone-gone/c04",
+ "chapter": "The catch",
+ "topic": "What if everyone disappeared except you?",
+ "script": [
+  {
+   "beat": "lights",
+   "text": "Day seven, the lights go out. People who have studied a world without humans think most power stations would shut down within hours. Nobody is left to balance the grid."
+  },
+  {
+   "beat": "dam",
+   "text": "Your city was lucky. Its power comes from a dam in the mountains, and a dam can keep spinning on its own for weeks. Until something, somewhere, trips."
+  },
+  {
+   "beat": "blackout",
+   "text": "You're on the hotel roof when it happens. One district goes dark, then the next, then the whole skyline, until the only light left is the moon. A few hours later, your phone drops to no signal. Phone masts have backup batteries, and most of them only last a few hours."
+  },
+  {
+   "beat": "subway",
+   "text": "Then the water. Under the streets, the subway starts to flood. New York's subway pumps out about thirteen million gallons of water every single day. Without the pumps, its own engineers thought parts of it could flood in about thirty-six hours. That's real."
+  },
+  {
+   "beat": "food",
+   "text": "Then the food. Without fridges, the fresh food in every supermarket rots within days. You smell the meat counter from the car park. Canned food lasts for years. If you can find a can opener."
+  },
+  {
+   "beat": "fuel",
+   "text": "Then the fuel. Petrol starts to go stale after about three to six months. After that, every car in the city is just a very heavy chair."
+  },
+  {
+   "beat": "nuclear",
+   "text": "And then the scary one. There are more than four hundred nuclear reactors on Earth. Without people, they shut themselves down. But their fuel stays hot for years, and it has to be cooled. When the power goes, backup diesel generators keep the cooling running. In the United States, they must carry fuel for about seven days."
+  },
+  {
+   "beat": "count",
+   "text": "After that, nobody is there to refill them. You count on your fingers. Today is day eight."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Without people, most power stations would shut down within hours; a hydroelectric dam could keep running on its own for weeks.",
+   "working": "Grids need operators to match supply and demand every second; without them, protection systems trip plants offline within hours. Hydro plants with little maintenance need can keep generating far longer.",
+   "source": "Alan Weisman, The World Without Us (2007); National Geographic, Aftermath: Population Zero (2008)"
+  },
+  {
+   "claim": "Phone masts have backup batteries, and most only last a few hours.",
+   "working": "Typical cell sites carry battery backup of roughly 2 to 8 hours; the FCC proposed an 8-hour minimum after Hurricane Katrina.",
+   "source": "FCC Independent Panel Reviewing the Impact of Hurricane Katrina on Communications Networks (2006); FCC 07-177"
+  },
+  {
+   "claim": "New York's subway pumps out about 13 million gallons of water a day; without the pumps parts could flood in about 36 hours.",
+   "working": "MTA: 753 pumps remove about 13 million gallons a day. NYC Transit hydraulics staff quoted by Weisman: within 36 hours some tunnels could fill.",
+   "source": "MTA New York City Transit; Alan Weisman, The World Without Us (2007), ch. 2"
+  },
+  {
+   "claim": "Petrol starts to go stale after about three to six months.",
+   "working": "Gasoline oxidises and loses its light components; typical shelf life without stabiliser is 3-6 months.",
+   "source": "US EIA / AAA fuel storage guidance; Popular Mechanics, How long does gas last"
+  },
+  {
+   "claim": "More than 400 nuclear reactors on Earth; their backup diesel generators in the US must carry fuel for about seven days.",
+   "working": "IAEA PRIS lists about 415-440 operable power reactors. Reactors scram automatically, but decay heat needs cooling. US NRC Regulatory Guide 1.137 / ANSI N195: on-site fuel for 7 days of emergency diesel generator operation.",
+   "source": "IAEA Power Reactor Information System (PRIS); US NRC Regulatory Guide 1.137"
+  }
+ ],
+ "shots": [],
+ "edit": [],
+ "fx": []
+}

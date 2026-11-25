@@ -1,0 +1,70 @@
+{
+  "id": "EveryoneGone",
+  "slug": "everyone-gone",
+  "topic": "What if everyone disappeared except you?",
+  "title": [
+    "WHAT IF EVERYONE",
+    "DISAPPEARED EXCEPT YOU?"
+  ],
+  "target_seconds": 540,
+  "defaults": {
+    "voice": {
+      "id": "TX3LPaxmHKxFdv7VOQHJ",
+      "model": "eleven_multilingual_v2",
+      "settings": {
+        "stability": 0.45,
+        "similarity_boost": 0.8,
+        "style": 0.3,
+        "use_speaker_boost": true
+      }
+    },
+    "gaps": {
+      "word": 0.14,
+      "comma": 0.25,
+      "sentence": 0.42,
+      "question": 0.6
+    },
+    "pace": {
+      "min_cuts": 8,
+      "max_hold": 8
+    }
+  },
+  "chapters": [
+    {
+      "slug": "c01",
+      "name": "Cold open",
+      "words": 140
+    },
+    {
+      "slug": "c02",
+      "name": "The rules",
+      "words": 120
+    },
+    {
+      "slug": "c03",
+      "name": "The fun part",
+      "words": 260
+    },
+    {
+      "slug": "c04",
+      "name": "The catch",
+      "words": 260
+    },
+    {
+      "slug": "c05",
+      "name": "Someone notices",
+      "words": 200
+    },
+    {
+      "slug": "c06",
+      "name": "The choice",
+      "words": 200
+    },
+    {
+      "slug": "c07",
+      "name": "The other voice",
+      "words": 130
+    }
+  ],
+  "youtube": {}
+}

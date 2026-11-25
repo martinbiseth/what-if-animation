@@ -1,0 +1,44 @@
+{
+ "id": "EveryoneGoneC01",
+ "slug": "everyone-gone/c01",
+ "chapter": "Cold open",
+ "topic": "What if everyone disappeared except you?",
+ "script": [
+  {
+   "beat": "wake",
+   "text": "You wake up at 7:12, and something is wrong. It's quiet. Too quiet. No traffic. No birds. No Mum shouting that you're going to be late."
+  },
+  {
+   "beat": "kitchen",
+   "text": "Her coffee is on the kitchen table, still warm. Her car keys are next to it. Her phone's alarm is going off, and nobody is turning it off."
+  },
+  {
+   "beat": "bus",
+   "text": "Outside, a bus is stopped in the middle of the road, doors open, engine running. Nobody on it. A dog trots down the empty street, dragging its lead. Nobody holding it."
+  },
+  {
+   "beat": "shout",
+   "text": "You shout. Your voice bounces off a hundred windows, and nobody answers."
+  },
+  {
+   "beat": "search",
+   "text": "You check every house on the street. Every shop. Every car. Everything is exactly where it was last night. Every light. Every open laptop. Every half-eaten sandwich. Except the people."
+  },
+  {
+   "beat": "title",
+   "text": "Everyone on Earth is gone. Everyone, except you. What if everyone disappeared, except you?"
+  }
+ ],
+ "science": [],
+ "shots": [],
+ "edit": [],
+ "fx": [],
+ "title": [
+  "WHAT IF EVERYONE",
+  "DISAPPEARED EXCEPT YOU?"
+ ],
+ "pace": {
+  "min_cuts": 14,
+  "max_hold": 5
+ }
+}

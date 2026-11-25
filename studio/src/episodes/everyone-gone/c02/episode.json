@@ -1,0 +1,36 @@
+{
+ "id": "EveryoneGoneC02",
+ "slug": "everyone-gone/c02",
+ "chapter": "The rules",
+ "topic": "What if everyone disappeared except you?",
+ "script": [
+  {
+   "beat": "rules",
+   "text": "By the end of the first day, you have worked out three rules."
+  },
+  {
+   "beat": "rule1",
+   "text": "One. It happened at 3:07 in the morning. Every phone you pick up has its last message from before 3:07. Nothing after. The TV shows the same thing on every channel: an empty news desk, with the studio lights still on."
+  },
+  {
+   "beat": "rule2",
+   "text": "Two. Only people are gone. Dogs, cats, pigeons, the goldfish in the pet shop. All still here."
+  },
+  {
+   "beat": "rule3",
+   "text": "Three. Everything people were holding stayed exactly where it was. A pair of slippers in the middle of the hallway. A toothbrush on the bathroom floor."
+  },
+  {
+   "beat": "calls",
+   "text": "You call everyone you know. Mum. Your best friend Mo. Grandma. Every call just rings and rings, and you can picture each phone, buzzing on an empty table."
+  },
+  {
+   "beat": "walkie",
+   "text": "And then there's one more thing. On your little sister Ellie's bed, her walkie-talkie is switched on, hissing quietly. Ellie never leaves it on. You switch it off. Remember that walkie-talkie."
+  }
+ ],
+ "science": [],
+ "shots": [],
+ "edit": [],
+ "fx": []
+}

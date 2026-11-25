@@ -1,0 +1,46 @@
+{
+ "id": "EveryoneGoneC05",
+ "slug": "everyone-gone/c05",
+ "chapter": "Someone notices",
+ "topic": "What if everyone disappeared except you?",
+ "script": [
+  {
+   "beat": "alone",
+   "text": "Day twelve. You've stopped talking out loud. Well, except to the dog. He followed you home from the bus on the first morning. You call him Noodle."
+  },
+  {
+   "beat": "routine",
+   "text": "You have a routine now. Wake up. Check Mo's door. Feed Noodle. Collect cans. Count the days on the wall with a marker. The silence is the worst part. Some nights you leave the radio on, just for the hiss."
+  },
+  {
+   "beat": "lonely",
+   "text": "Scientists who study loneliness have found that being cut off from other people for a long time is about as bad for your health as smoking fifteen cigarettes a day. That's real. And you are starting to feel it."
+  },
+  {
+   "beat": "window",
+   "text": "That night, from the hotel roof, you see it. Across the river, one window is lit. One. In a city with no power."
+  },
+  {
+   "beat": "bridge",
+   "text": "At dawn, you cross the bridge. And standing in the middle of it, checking his watch, is a man in a grey suit. He isn't surprised to see you. He looks annoyed. His shoes are perfectly clean. Everything else in this city is covered in dust."
+  },
+  {
+   "beat": "missed",
+   "text": "'You weren't supposed to be here,' he says. 'At 3:07, everyone was moved. You were missed.' Moved where? He doesn't answer. 'Who are you?' you ask. 'I count people,' he says. 'And today, my count is wrong by one.'"
+  },
+  {
+   "beat": "door",
+   "text": "He just points at the lit window across the river. 'There's a door. It closes tomorrow at 3:07. I can take one more person through. Your mum, your friends, your whole life. Back to normal.' One more person. Just one."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Long-term social isolation is about as bad for your health as smoking 15 cigarettes a day.",
+   "working": "Meta-analysis of 148 studies (308,849 people): social connection raises survival odds by 50%; the US Surgeon General compares the mortality effect to smoking up to 15 cigarettes a day.",
+   "source": "Holt-Lunstad, Smith & Layton, PLoS Medicine (2010); US Surgeon General, Our Epidemic of Loneliness and Isolation (2023)"
+  }
+ ],
+ "shots": [],
+ "edit": [],
+ "fx": []
+}

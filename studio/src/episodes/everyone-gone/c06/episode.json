@@ -1,0 +1,40 @@
+{
+ "id": "EveryoneGoneC06",
+ "slug": "everyone-gone/c06",
+ "chapter": "The choice",
+ "topic": "What if everyone disappeared except you?",
+ "script": [
+  {
+   "beat": "pack",
+   "text": "You run home to pack a bag. You don't need much. Just the photo on the fridge. Mum, Ellie and you, at the beach, last summer."
+  },
+  {
+   "beat": "hiss",
+   "text": "And that's when you hear it, from Ellie's room. Hissing. The walkie-talkie. The one you switched off on the very first day. It's on again."
+  },
+  {
+   "beat": "voice",
+   "text": "And through the static, a tiny voice. 'Hello? Is anybody there? It's really dark.'"
+  },
+  {
+   "beat": "ellie",
+   "text": "It's Ellie. She's here. Somewhere in this city. Missed, just like you. You grab the walkie-talkie. 'Ellie! Where are you?' 'In the hiding place,' she whispers. 'Our place. I've been calling for days. Nobody answered.' Then the static swallows her. Your stomach drops. You switched it off on day one. She has been calling ever since."
+  },
+  {
+   "beat": "clock",
+   "text": "You look at the clock. It's 2:40 in the morning. The door closes at 3:07, and the man said one more person. One. Not two."
+  },
+  {
+   "beat": "photo",
+   "text": "You look at the photo. Mum, smiling. If you go through the door, you could see her by breakfast. You could tell her everything. And Ellie would be here, in the dark, alone."
+  },
+  {
+   "beat": "choice",
+   "text": "If you go to the bridge, you get your whole life back. If you go to find Ellie, you might never get out. You look at the photo one more time. Then you put it in your pocket, grab a torch, and run. Not towards the bridge. The other way. Through streets with no lights, the torch beam jumping over stopped cars, with Noodle at your heels."
+  }
+ ],
+ "science": [],
+ "shots": [],
+ "edit": [],
+ "fx": []
+}
