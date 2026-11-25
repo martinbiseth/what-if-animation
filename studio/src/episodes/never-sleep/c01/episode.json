@@ -1,0 +1,58 @@
+{
+ "id": "NeverSleepC01",
+ "slug": "never-sleep/c01",
+ "chapter": "Hour zero",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "It's three a.m. Your whole house is asleep. Your mum. Your little sister Ellie. Even the cat."
+  },
+  {
+   "beat": "p2",
+   "text": "Everyone except you."
+  },
+  {
+   "beat": "p3",
+   "text": "Because last night, something switched off inside your head. You lay down, closed your eyes, and nothing happened. No yawn. No heavy eyelids. Nothing."
+  },
+  {
+   "beat": "p4",
+   "text": "You're not tired. And you won't be. Not tonight, not tomorrow, not ever again."
+  },
+  {
+   "beat": "p5",
+   "text": "At first, it sounds like a superpower. Eight free hours, every single night. Homework done by midnight. A new hobby by two. Breakfast for the whole family by six."
+  },
+  {
+   "beat": "p6",
+   "text": "But your body keeps its own clock. By hour nineteen, your brain works like it's had a few drinks. By day three, the shadows in the hallway start to move. And by day eleven, you'll be chasing a world record that nobody is even allowed to attempt anymore."
+  },
+  {
+   "beat": "p7",
+   "text": "So what really happens, hour by hour, if you never sleep again?"
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cold open"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "pace": {
+  "min_cuts": 24,
+  "max_hold": 4
+ }
+}

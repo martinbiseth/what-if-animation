@@ -1,0 +1,97 @@
+{
+ "id": "NeverSleepC04",
+ "slug": "never-sleep/c04",
+ "chapter": "The catch",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Hour nineteen. You're walking to school, and you can't remember if you locked the front door. Or which house is yours."
+  },
+  {
+   "beat": "p2",
+   "text": "That part is real. After about seventeen to nineteen hours awake, people do as badly on reaction tests as someone with a blood alcohol level of point zero five. In many countries, that's already over the limit for driving."
+  },
+  {
+   "beat": "p3",
+   "text": "Hour twenty-four. It's worse. Point one. Like being properly drunk, except you're completely sober, holding a sandwich in maths class."
+  },
+  {
+   "beat": "p4",
+   "text": "And then it starts. Microsleeps. Your brain switches off for a second or two, without asking you. Your eyes stay open. You just aren't there. Microsleeps are why tired drivers drift out of their lane. Their eyes are open, and for a few seconds, nobody is driving."
+  },
+  {
+   "beat": "p5",
+   "text": "You blink, and the teacher is on a different page. You blink again, and the lesson is over."
+  },
+  {
+   "beat": "p6",
+   "text": "Here's why. While you sleep, your brain cleans itself. Fluid washes through it and carries away the waste that builds up during the day. In sleeping mice, scientists found that the spaces between brain cells open up by about sixty percent, so the fluid can flush through."
+  },
+  {
+   "beat": "p7",
+   "text": "You're not getting that wash. In one study, a single night without sleep raised a waste protein called beta-amyloid, the one linked to Alzheimer's, by about five percent."
+  },
+  {
+   "beat": "p8",
+   "text": "And your memory? After one sleepless night, people's ability to store new memories dropped by about forty percent. You read three chapters last night. Today, you can't remember any of them."
+  },
+  {
+   "beat": "p9",
+   "text": "Hour forty-eight. Your stomach is roaring. Losing sleep pushes up the hormone that makes you hungry and pushes down the one that tells you you're full. You've eaten four lunches. Mo stops sharing his crisps."
+  },
+  {
+   "beat": "p10",
+   "text": "And on the morning of day three, you walk into the kitchen, and the fridge says good morning."
+  }
+ ],
+ "science": [
+  {
+   "claim": "After 17-19 hours awake, performance is equivalent to a blood alcohol concentration of 0.05%.",
+   "working": "Subjects kept awake 17-19 h performed on several tests as badly as at 0.05% BAC.",
+   "source": "Williamson & Feyer, Occupational and Environmental Medicine 57 (2000)"
+  },
+  {
+   "claim": "After 24 hours awake, performance is equivalent to about 0.10% BAC.",
+   "working": "Tracking performance after 24 h of wakefulness matched that at a BAC of roughly 0.10%.",
+   "source": "Dawson & Reid, Nature 388 (1997)"
+  },
+  {
+   "claim": "During sleep the interstitial space of the brain expands by about 60%, speeding the clearance of waste.",
+   "working": "In mice, interstitial volume rose from ~14% to ~23% of brain volume during sleep, a 60% increase, with faster clearance of beta-amyloid.",
+   "source": "Xie et al., Science 342 (2013)"
+  },
+  {
+   "claim": "One night of sleep deprivation raised beta-amyloid in the brain by about 5%.",
+   "working": "PET imaging in 20 healthy adults after one night without sleep showed ~5% more beta-amyloid in the hippocampus and thalamus.",
+   "source": "Shokri-Kojori et al., PNAS 115 (2018)"
+  },
+  {
+   "claim": "One night without sleep cut the ability to form new memories by about 40%.",
+   "working": "Sleep-deprived subjects showed a ~40% deficit in memory encoding compared with rested subjects.",
+   "source": "Yoo et al., Nature Neuroscience 10 (2007)"
+  },
+  {
+   "claim": "Sleep loss raises ghrelin (hunger) and lowers leptin (fullness).",
+   "working": "Two nights of 4 h sleep: ghrelin +28%, leptin -18%, hunger +24%.",
+   "source": "Spiegel et al., Annals of Internal Medicine 141 (2004)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The catch"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,105 @@
+{
+ "id": "NeverSleep",
+ "slug": "never-sleep",
+ "topic": "What if you never slept again?",
+ "title": [
+  "WHAT IF YOU",
+  "NEVER SLEPT AGAIN?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Hour zero",
+   "words": 147
+  },
+  {
+   "slug": "c02",
+   "name": "The broken alarm",
+   "words": 162
+  },
+  {
+   "slug": "c03",
+   "name": "Eight free hours",
+   "words": 296
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 304
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 297
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 259
+  },
+  {
+   "slug": "c07",
+   "name": "Lights off",
+   "words": 171
+  }
+ ],
+ "youtube": {
+  "title": "What If You Never Slept Again?",
+  "tags": [
+   "what if",
+   "what if animation",
+   "never sleep again",
+   "what if you never slept",
+   "no sleep",
+   "sleep deprivation",
+   "what happens if you don't sleep",
+   "staying awake",
+   "randy gardner",
+   "11 days without sleep",
+   "sleep science",
+   "brain science",
+   "microsleep",
+   "hour by hour",
+   "day by day",
+   "what would happen if",
+   "what if scenarios",
+   "animated story",
+   "science animation",
+   "human body"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One night, your brain simply stops feeling tired. Eight free hours, every single night. Homework done by midnight, a new hobby by two, breakfast for the whole family by six. But feeling tired and needing sleep are two different things, and your body keeps its own clock. Here's what really happens, hour by hour and day by day, if you never sleep again.\n\nThis is an original animated story. It's not medical advice: please don't try staying awake at home.",
+  "thumbnail": {
+   "composition": "NeverSleepThumb"
+  },
+  "midroll_gap": 120,
+  "pinned_comment": "Would you take 8 free hours every night if you knew the price? 👇\n\nThe science checks out: after 17-19 hours awake your reaction times match a blood alcohol level of 0.05%, one sleepless night cuts your ability to store new memories by about 40%, and Randy Gardner really stayed awake for 11 days and 25 minutes in 1963-64. Sources are in the description.\n\nAnd who sent that last message? Best theory gets pinned before Part 2.\n\n🔔 Subscribe so you don't miss Part 2!"
+ }
+}

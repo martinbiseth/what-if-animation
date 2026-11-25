@@ -1,0 +1,73 @@
+{
+ "id": "NeverSleepC05",
+ "slug": "never-sleep/c05",
+ "chapter": "Someone notices",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day three. The fridge isn't really talking. You know that. Mostly."
+  },
+  {
+   "beat": "p2",
+   "text": "This is real too. After about three days without sleep, people start to see things that aren't there. First it's the edges: patterns crawling on the wall, shadows moving in the corner of your eye. Then whole things. Voices. People."
+  },
+  {
+   "beat": "p3",
+   "text": "That night, the wallpaper in your room starts to ripple, like water. The coat on your door looks exactly like someone standing there, watching you. You turn on every light in the house, and sit in the middle of the kitchen until morning."
+  },
+  {
+   "beat": "p4",
+   "text": "You keep your promise. You tell Mo. Mo looks at you for a long time. 'Okay. That's the fridge. I'm calling your mum.'"
+  },
+  {
+   "beat": "p5",
+   "text": "Day five. Your mum takes you to the doctor. The doctor sends you to a sleep clinic. The sleep clinic glues a tangle of wires to your head and watches you all night."
+  },
+  {
+   "beat": "p6",
+   "text": "You don't sleep for one second. The machine draws a busy, wide-awake line, hour after hour. 'That's not possible,' the technician says, tapping the screen. 'Everybody sleeps.' She calls her boss. Her boss calls someone else."
+  },
+  {
+   "beat": "p7",
+   "text": "Day seven. A man in a grey suit is waiting in the clinic. He doesn't have a name tag. He has a folder with your name on it. He sits down and slides a black-and-white photo across the table. A teenage boy, grinning, surrounded by scientists."
+  },
+  {
+   "beat": "p8",
+   "text": "'Do you know who Randy Gardner was?' he asks. In the winter of nineteen sixty-three, Randy was seventeen. For a school science fair, he stayed awake for eleven days and twenty-five minutes. It's still the longest scientifically recorded stretch without sleep. Guinness World Records stopped accepting attempts, because it's too dangerous."
+  },
+  {
+   "beat": "p9",
+   "text": "'You'll pass him in four days,' the man says. 'And we'd like to watch.'"
+  }
+ ],
+ "science": [
+  {
+   "claim": "After about three days without sleep, people develop visual distortions and then complex hallucinations.",
+   "working": "A review of 21 studies found perceptual distortions, anxiety and depersonalisation rising with time awake, with complex hallucinations and delusions after about 72 hours.",
+   "source": "Waters et al., Frontiers in Psychiatry 9 (2018)"
+  },
+  {
+   "claim": "Randy Gardner, aged 17, stayed awake 11 days and 25 minutes (264.4 hours) in 1963-64; Guinness no longer accepts sleep-deprivation records.",
+   "working": "San Diego high-school science fair project, 28 Dec 1963 to 8 Jan 1964, observed by sleep researcher William Dement.",
+   "source": "Gulevich, Dement & Johnson, Archives of General Psychiatry 15 (1966); Guinness World Records"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Someone notices"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,54 @@
+{
+ "id": "NeverSleepC07",
+ "slug": "never-sleep/c07",
+ "chapter": "Lights off",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day eleven. Lights off. You're back in your own bed. Ellie has left the hallway light on, just a crack. Mum sits at the end of the bed. Mo is asleep in a chair in the corner, snoring, still holding a packet of crisps."
+  },
+  {
+   "beat": "p2",
+   "text": "You close your eyes. You breathe slowly. You count. One. Two. Three."
+  },
+  {
+   "beat": "p3",
+   "text": "Breathe in. Breathe out. Your heartbeat slows down. The room starts to feel soft and far away."
+  },
+  {
+   "beat": "p4",
+   "text": "And for the first time in eleven days, something heavy pulls at your eyelids."
+  },
+  {
+   "beat": "p5",
+   "text": "Then your phone buzzes. A message, from a number you don't know. 'Don't fall asleep. Not yet. We need to talk about what you'll see when you do.'"
+  },
+  {
+   "beat": "p6",
+   "text": "Is any of this real? The adenosine alarm, the brain wash, the drunk-like reaction times, Randy Gardner's eleven days, and the rats. All real. The sources are in the description."
+  },
+  {
+   "beat": "p7",
+   "text": "Would you take eight free hours a night, if you knew the price? Tell me in the comments. And subscribe, so you don't miss part two."
+  }
+ ],
+ "science": [],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: Cliffhanger"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

@@ -1,0 +1,80 @@
+{
+ "id": "NeverSleepC03",
+ "slug": "never-sleep/c03",
+ "chapter": "Eight free hours",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Night one. Eight hours of silence. You've never had this much time."
+  },
+  {
+   "beat": "p2",
+   "text": "You finish all your homework by midnight. Then next week's homework. Then you reorganise your whole room by colour."
+  },
+  {
+   "beat": "p3",
+   "text": "Two a.m. You learn to juggle. Badly. Then a little less badly."
+  },
+  {
+   "beat": "p4",
+   "text": "Three a.m. You teach yourself four songs on the guitar, with the volume turned all the way down."
+  },
+  {
+   "beat": "p5",
+   "text": "Four a.m. You finish a three-hundred-page book and start another one. Then the sun comes up, and you watch the whole sunrise from the roof, like a movie made just for you."
+  },
+  {
+   "beat": "p6",
+   "text": "Do the maths. Most people sleep about a third of their life away. For most people, that's twenty-five years or more with their eyes closed. Twenty-five years you just got back."
+  },
+  {
+   "beat": "p7",
+   "text": "Six a.m. Your mum walks into the kitchen and finds breakfast already made. Pancakes. Fresh juice. Her coffee, just how she likes it. She looks at you. Then at the pancakes. Then back at you. 'What did you break?'"
+  },
+  {
+   "beat": "p8",
+   "text": "At school, you're the first one there. You've read the whole chapter, and the next three. When the teacher asks a question, your hand is already up. Your friends are yawning into their lunch. You're on your third apple, explaining photosynthesis to anyone who will listen."
+  },
+  {
+   "beat": "p9",
+   "text": "Night two, you start a business. You walk dogs at midnight for people who work night shifts. Five dogs, five leashes, one very long walk. One of them is a Great Dane called Pickle. Mostly, Pickle walks you."
+  },
+  {
+   "beat": "p10",
+   "text": "Ellie catches you sneaking home at four a.m. with five leashes around your wrist. 'You don't sleep anymore,' she whispers. 'That's so cool.'"
+  },
+  {
+   "beat": "p11",
+   "text": "And for about a day and a half, it is."
+  },
+  {
+   "beat": "p12",
+   "text": "Because there's something your brain does every night while you sleep. Something you just stopped doing."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Adults sleep roughly a third of their life: at 8 hours a night, 25 years or more of a typical lifespan.",
+   "working": "8 h / 24 h = 1/3. A 75-80 year life at 7-8 h a night is about 22-27 years asleep; '25 years or more' for most people at 8 h.",
+   "source": "Arithmetic on WHO global life expectancy (73 years, 2019) and typical adult sleep of 7-9 h (AASM/SRS consensus, Sleep 2015)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The fun part"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": []
+}

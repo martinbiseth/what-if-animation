@@ -1,0 +1,64 @@
+{
+ "id": "NeverSleepC02",
+ "slug": "never-sleep/c02",
+ "chapter": "The broken alarm",
+ "topic": "What if you never slept again?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's the deal. Your brain has stopped sending the signal that says, sleep now. You don't feel tired. Your eyes don't burn. You don't yawn."
+  },
+  {
+   "beat": "p2",
+   "text": "But here's the catch nobody told you. Feeling tired and needing sleep are two different things."
+  },
+  {
+   "beat": "p3",
+   "text": "Feeling sleepy is just the alarm. It comes from a chemical called adenosine, which builds up in your brain every hour you're awake. Every hour you're awake, more of it piles up, like sand in an hourglass. Sleep is what tips the hourglass back over. Coffee works by blocking it."
+  },
+  {
+   "beat": "p4",
+   "text": "Your alarm is broken. But the clock is still ticking."
+  },
+  {
+   "beat": "p5",
+   "text": "So you make one rule. If anything weird happens, anything at all, you tell Mo. Mo is your best friend, and the most honest person you know. You even write it on a sticky note on your mirror. Tell Mo."
+  },
+  {
+   "beat": "p6",
+   "text": "Mo thinks about it. 'Deal. But if you ever start talking to the fridge, I'm calling your mum.'"
+  },
+  {
+   "beat": "p7",
+   "text": "Remember the fridge."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sleepiness builds with adenosine during waking hours, and caffeine works by blocking adenosine receptors.",
+   "working": "Adenosine accumulates in the basal forebrain during prolonged wakefulness and promotes sleep; caffeine is an adenosine receptor antagonist.",
+   "source": "Porkka-Heiskanen et al., Science 276 (1997); Fredholm et al., Pharmacological Reviews 51 (1999)"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "placeholder card: The premise and its rules"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  }
+ ],
+ "end": "f:90",
+ "fx": [],
+ "title": [
+  "WHAT IF YOU COULD",
+  ""
+ ]
+}
