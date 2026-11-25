@@ -454,3 +454,28 @@ export const Silent: React.FC<{ x: number; y: number; s?: number; t: number }> =
     <text y={-136} textAnchor="middle" fontFamily={FONT.hand} fontWeight={700} fontSize={44} fill={THINK.glow}>. . .</text>
   </g>
 );
+
+/** The real-facts checklist for the recap. */
+export const listCard = (o: { title?: string; items: { at: number; text: string; ok: boolean; hot?: boolean }[] }): React.FC<ShotProps> => {
+  const Card: React.FC<ShotProps> = ({ t }) => (
+    <g>
+      <Schematic t={t} id="list" />
+      {o.title ? <text x={960} y={200} textAnchor="middle" fontFamily={FONT.ui} fontSize={44} letterSpacing={10} fill={SCH.dim}>{o.title}</text> : null}
+      {o.items.map((it, i) => {
+        const p = backOut(clamp((t - it.at) / 8));
+        const y = 330 + i * (560 / Math.max(o.items.length, 1));
+        return (
+          <g key={i} transform={`translate(560 ${y}) scale(${p})`} opacity={clamp((t - it.at) / 4)}>
+            {it.ok ? (
+              <path d="M -40 0 L -10 30 L 44 -34" stroke="#5BE08A" strokeWidth={18} fill="none" strokeLinecap="round" />
+            ) : (
+              <path d="M -34 -34 L 34 34 M 34 -34 L -34 34" stroke="#FF3A2A" strokeWidth={18} strokeLinecap="round" />
+            )}
+            <text x={90} y={26} fontFamily={FONT.title} fontWeight={800} fontSize={it.hot ? 92 : 76} fill={it.hot ? '#FFB15A' : '#F6EFE3'} textDecoration={it.ok ? undefined : 'line-through'}>{it.text}</text>
+          </g>
+        );
+      })}
+    </g>
+  );
+  return Card;
+};

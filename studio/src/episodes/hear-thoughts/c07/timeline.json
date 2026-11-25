@@ -1,29 +1,473 @@
 {
  "slug": "hear-thoughts/c07",
- "title": "Cliffhanger",
+ "title": " ",
  "fps": 30,
- "total": 90,
+ "total": 2008,
  "segments": [
   {
    "shot": "S1",
    "a": 0,
-   "b": 90,
+   "b": 64,
+   "t0": 0,
+   "t1": 64,
+   "line": "That night, for the first time in weeks,"
+  },
+  {
+   "shot": "S2",
+   "a": 64,
+   "b": 112,
+   "t0": 0,
+   "t1": 48,
+   "line": "everything feels okay."
+  },
+  {
+   "shot": "S3",
+   "a": 112,
+   "b": 148,
+   "t0": 0,
+   "t1": 36,
+   "line": "Mum is asleep."
+  },
+  {
+   "shot": "S4",
+   "a": 148,
+   "b": 187,
+   "t0": 0,
+   "t1": 39,
+   "line": "Ellie is asleep."
+  },
+  {
+   "shot": "S5",
+   "a": 187,
+   "b": 232,
+   "t0": 0,
+   "t1": 45,
+   "line": "The street is quiet."
+  },
+  {
+   "shot": "S6",
+   "a": 232,
+   "b": 286,
+   "t0": 0,
+   "t1": 54,
+   "line": "Then a voice starts."
+  },
+  {
+   "shot": "S7",
+   "a": 286,
+   "b": 352,
+   "t0": 0,
+   "t1": 66,
+   "line": "Louder than anything you have ever heard."
+  },
+  {
+   "shot": "S8",
+   "a": 352,
+   "b": 421,
+   "t0": 0,
+   "t1": 69,
+   "line": "So loud the glass in the window shakes."
+  },
+  {
+   "shot": "S9",
+   "a": 421,
+   "b": 514,
+   "t0": 0,
+   "t1": 93,
+   "line": "Because the more someone is thinking about you, the louder they get."
+  },
+  {
+   "shot": "S10",
+   "a": 514,
+   "b": 547,
+   "t0": 0,
+   "t1": 33,
+   "line": "It's Nora."
+  },
+  {
+   "shot": "S11",
+   "a": 547,
+   "b": 664,
+   "t0": 0,
+   "t1": 117,
+   "line": "'You thought your head was the only quiet place left, ' she thinks."
+  },
+  {
+   "shot": "S12",
+   "a": 664,
+   "b": 754,
    "t0": 0,
    "t1": 90,
-   "line": ""
+   "line": "'It never was. I've heard every thought you've had."
+  },
+  {
+   "shot": "S13",
+   "a": 754,
+   "b": 826,
+   "t0": 0,
+   "t1": 72,
+   "line": "I didn't give it away. I gave it to you."
+  },
+  {
+   "shot": "S14",
+   "a": 826,
+   "b": 889,
+   "t0": 0,
+   "t1": 63,
+   "line": "And tomorrow, I'm taking it back. '"
+  },
+  {
+   "shot": "S15",
+   "a": 889,
+   "b": 970,
+   "t0": 0,
+   "t1": 81,
+   "line": "Then the voice stops. Everything stops."
+  },
+  {
+   "shot": "S16",
+   "a": 970,
+   "b": 1072,
+   "t0": 0,
+   "t1": 102,
+   "line": "For the first time since that Monday, you can't hear anyone."
+  },
+  {
+   "shot": "S17",
+   "a": 1072,
+   "b": 1099,
+   "t0": 0,
+   "t1": 27,
+   "line": "Not Mum."
+  },
+  {
+   "shot": "S18",
+   "a": 1099,
+   "b": 1129,
+   "t0": 0,
+   "t1": 30,
+   "line": "Not Ellie."
+  },
+  {
+   "shot": "S19",
+   "a": 1129,
+   "b": 1162,
+   "t0": 0,
+   "t1": 33,
+   "line": "Not the street."
+  },
+  {
+   "shot": "S20",
+   "a": 1162,
+   "b": 1204,
+   "t0": 0,
+   "t1": 42,
+   "line": "Just silence."
+  },
+  {
+   "shot": "S21",
+   "a": 1204,
+   "b": 1339,
+   "t0": 0,
+   "t1": 135,
+   "line": "And on the other side of the road, under the streetlight, a girl is looking up at your window."
+  },
+  {
+   "shot": "S22",
+   "a": 1339,
+   "b": 1462,
+   "t0": 0,
+   "t1": 123,
+   "line": "So why did she give it to you? And what happens when she takes it back?"
+  },
+  {
+   "shot": "S23",
+   "a": 1462,
+   "b": 1501,
+   "t0": 0,
+   "t1": 39,
+   "line": "That's for part two."
+  },
+  {
+   "shot": "S24",
+   "a": 1501,
+   "b": 1588,
+   "t0": 0,
+   "t1": 87,
+   "line": "Is any of this real? Hearing thoughts, no."
+  },
+  {
+   "shot": "S25",
+   "a": 1588,
+   "b": 1747,
+   "t0": 0,
+   "t1": 159,
+   "line": "But people really have thousands of thoughts a day, our minds really wander almost half the time,"
+  },
+  {
+   "shot": "S27",
+   "a": 1747,
+   "b": 1837,
+   "t0": 0,
+   "t1": 90,
+   "line": "and brain implants really have started to read inner speech."
+  },
+  {
+   "shot": "S26",
+   "a": 1837,
+   "b": 2008,
+   "t0": 0,
+   "t1": 171,
+   "line": "So, would you want to hear everyone's thoughts? Tell me in the comments."
   }
  ],
  "shots": [
   {
    "id": "S1",
-   "size": "wide",
+   "size": "medium",
+   "key": 30,
+   "len": 64,
+   "first": 0,
+   "line": "That night, for the first time in weeks,",
+   "note": "card"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 30,
+   "len": 48,
+   "first": 64,
+   "line": "everything feels okay.",
+   "note": "feels okay"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 30,
+   "len": 36,
+   "first": 112,
+   "line": "Mum is asleep.",
+   "note": "mum asleep"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 148,
+   "line": "Ellie is asleep.",
+   "note": "ellie asleep"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 187,
+   "line": "The street is quiet.",
+   "note": "street quiet"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 30,
+   "len": 54,
+   "first": 232,
+   "line": "Then a voice starts.",
+   "note": "a voice starts"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 30,
+   "len": 66,
+   "first": 286,
+   "line": "Louder than anything you have ever heard.",
+   "note": "louder than anything"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 30,
+   "len": 69,
+   "first": 352,
+   "line": "So loud the glass in the window shakes.",
+   "note": "window shakes"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 30,
+   "len": 93,
+   "first": 421,
+   "line": "Because the more someone is thinking about you, the louder they get.",
+   "note": "rule 3"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 30,
+   "len": 33,
+   "first": 514,
+   "line": "It's Nora.",
+   "note": "it's Nora"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 30,
+   "len": 117,
+   "first": 547,
+   "line": "'You thought your head was the only quiet place left, ' she thinks.",
+   "note": "only quiet place"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
    "key": 30,
    "len": 90,
-   "first": 0,
-   "line": "",
-   "note": "Cliffhanger"
+   "first": 664,
+   "line": "'It never was. I've heard every thought you've had.",
+   "note": "it never was"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 30,
+   "len": 72,
+   "first": 754,
+   "line": "I didn't give it away. I gave it to you.",
+   "note": "gave it to you"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 30,
+   "len": 63,
+   "first": 826,
+   "line": "And tomorrow, I'm taking it back. '",
+   "note": "taking it back"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 30,
+   "len": 81,
+   "first": 889,
+   "line": "Then the voice stops. Everything stops.",
+   "note": "voice stops"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 102,
+   "first": 970,
+   "line": "For the first time since that Monday, you can't hear anyone.",
+   "note": "can't hear anyone"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 30,
+   "len": 27,
+   "first": 1072,
+   "line": "Not Mum.",
+   "note": "not mum"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 30,
+   "len": 30,
+   "first": 1099,
+   "line": "Not Ellie.",
+   "note": "not ellie"
+  },
+  {
+   "id": "S19",
+   "size": "medium",
+   "key": 30,
+   "len": 33,
+   "first": 1129,
+   "line": "Not the street.",
+   "note": "not the street"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 42,
+   "first": 1162,
+   "line": "Just silence.",
+   "note": "just silence"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 30,
+   "len": 135,
+   "first": 1204,
+   "line": "And on the other side of the road, under the streetlight, a girl is looking up at your window.",
+   "note": "girl under streetlight"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 30,
+   "len": 123,
+   "first": 1339,
+   "line": "So why did she give it to you? And what happens when she takes it back?",
+   "note": "why did she give it"
+  },
+  {
+   "id": "S23",
+   "size": "medium",
+   "key": 30,
+   "len": 39,
+   "first": 1462,
+   "line": "That's for part two.",
+   "note": "part two"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 30,
+   "len": 87,
+   "first": 1501,
+   "line": "Is any of this real? Hearing thoughts, no.",
+   "note": "is any of this real"
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "key": 30,
+   "len": 159,
+   "first": 1588,
+   "line": "But people really have thousands of thoughts a day, our minds really wander almost half the time,",
+   "note": "real facts"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 30,
+   "len": 90,
+   "first": 1747,
+   "line": "and brain implants really have started to read inner speech.",
+   "note": "implants"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 30,
+   "len": 171,
+   "first": 1837,
+   "line": "So, would you want to hear everyone's thoughts? Tell me in the comments.",
+   "note": "comments"
   }
  ],
  "fx": [],
- "audio": {}
+ "audio": {
+  "voice": "hear-thoughts/c07/voice.wav"
+ }
 }

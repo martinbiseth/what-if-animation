@@ -29,18 +29,277 @@
   "shots": [
     {
       "id": "S1",
-      "size": "wide",
-      "set": "rooftop",
+      "size": "medium",
       "key": 30,
-      "note": "placeholder card: Cliffhanger"
+      "note": "card"
+    },
+    {
+      "id": "S2",
+      "size": "medium",
+      "key": 30,
+      "note": "feels okay"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "key": 30,
+      "note": "mum asleep"
+    },
+    {
+      "id": "S4",
+      "size": "medium",
+      "key": 30,
+      "note": "ellie asleep"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "key": 30,
+      "note": "street quiet"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "key": 30,
+      "note": "a voice starts"
+    },
+    {
+      "id": "S7",
+      "size": "medium",
+      "key": 30,
+      "note": "louder than anything"
+    },
+    {
+      "id": "S8",
+      "size": "medium",
+      "key": 30,
+      "note": "window shakes"
+    },
+    {
+      "id": "S9",
+      "size": "medium",
+      "key": 30,
+      "note": "rule 3"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "key": 30,
+      "note": "it's Nora"
+    },
+    {
+      "id": "S11",
+      "size": "medium",
+      "key": 30,
+      "note": "only quiet place"
+    },
+    {
+      "id": "S12",
+      "size": "medium",
+      "key": 30,
+      "note": "it never was"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "key": 30,
+      "note": "gave it to you"
+    },
+    {
+      "id": "S14",
+      "size": "medium",
+      "key": 30,
+      "note": "taking it back"
+    },
+    {
+      "id": "S15",
+      "size": "medium",
+      "key": 30,
+      "note": "voice stops"
+    },
+    {
+      "id": "S16",
+      "size": "medium",
+      "key": 30,
+      "note": "can't hear anyone"
+    },
+    {
+      "id": "S17",
+      "size": "medium",
+      "key": 30,
+      "note": "not mum"
+    },
+    {
+      "id": "S18",
+      "size": "medium",
+      "key": 30,
+      "note": "not ellie"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "key": 30,
+      "note": "not the street"
+    },
+    {
+      "id": "S20",
+      "size": "medium",
+      "key": 30,
+      "note": "just silence"
+    },
+    {
+      "id": "S21",
+      "size": "medium",
+      "key": 30,
+      "note": "girl under streetlight"
+    },
+    {
+      "id": "S22",
+      "size": "medium",
+      "key": 30,
+      "note": "why did she give it"
+    },
+    {
+      "id": "S23",
+      "size": "medium",
+      "key": 30,
+      "note": "part two"
+    },
+    {
+      "id": "S24",
+      "size": "medium",
+      "key": 30,
+      "note": "is any of this real"
+    },
+    {
+      "id": "S25",
+      "size": "medium",
+      "key": 30,
+      "note": "real facts"
+    },
+    {
+      "id": "S27",
+      "size": "medium",
+      "key": 30,
+      "note": "implants"
+    },
+    {
+      "id": "S26",
+      "size": "medium",
+      "key": 30,
+      "note": "comments"
     }
   ],
   "edit": [
     {
       "shot": "S1",
       "at": "f:0"
+    },
+    {
+      "shot": "S2",
+      "at": "s:2.13"
+    },
+    {
+      "shot": "S3",
+      "at": "s:3.73"
+    },
+    {
+      "shot": "S4",
+      "at": "s:4.93"
+    },
+    {
+      "shot": "S5",
+      "at": "s:6.23"
+    },
+    {
+      "shot": "S6",
+      "at": "s:7.73"
+    },
+    {
+      "shot": "S7",
+      "at": "s:9.53"
+    },
+    {
+      "shot": "S8",
+      "at": "s:11.73"
+    },
+    {
+      "shot": "S9",
+      "at": "s:14.03"
+    },
+    {
+      "shot": "S10",
+      "at": "s:17.13"
+    },
+    {
+      "shot": "S11",
+      "at": "s:18.23"
+    },
+    {
+      "shot": "S12",
+      "at": "s:22.13"
+    },
+    {
+      "shot": "S13",
+      "at": "s:25.13"
+    },
+    {
+      "shot": "S14",
+      "at": "s:27.53"
+    },
+    {
+      "shot": "S15",
+      "at": "s:29.63"
+    },
+    {
+      "shot": "S16",
+      "at": "s:32.33"
+    },
+    {
+      "shot": "S17",
+      "at": "s:35.73"
+    },
+    {
+      "shot": "S18",
+      "at": "s:36.63"
+    },
+    {
+      "shot": "S19",
+      "at": "s:37.63"
+    },
+    {
+      "shot": "S20",
+      "at": "s:38.73"
+    },
+    {
+      "shot": "S21",
+      "at": "s:40.13"
+    },
+    {
+      "shot": "S22",
+      "at": "s:44.63"
+    },
+    {
+      "shot": "S23",
+      "at": "s:48.73"
+    },
+    {
+      "shot": "S24",
+      "at": "s:50.03"
+    },
+    {
+      "shot": "S25",
+      "at": "s:52.93"
+    },
+    {
+      "shot": "S27",
+      "at": "s:58.23"
+    },
+    {
+      "shot": "S26",
+      "at": "s:61.23"
     }
   ],
-  "end": "f:90",
-  "fx": []
+  "fx": [],
+  "tail": 2.0
 }
