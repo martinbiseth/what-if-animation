@@ -1,0 +1,46 @@
+{
+  "id": "HearThoughtsC02",
+  "slug": "hear-thoughts/c02",
+  "chapter": "The rules",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "how it works",
+      "text": "Here's how it works. One Monday morning, you wake up and the world is louder. Anything a person thinks in words, you hear, like they're whispering right into your ear. Not pictures. Not feelings. Just the words in their head. And they sound like them, too. Your mum's thoughts sound like your mum. Mo's sound like Mo, just a little faster, and a little ruder."
+    },
+    {
+      "beat": "the rules",
+      "text": "There are rules. You only hear people close to you, about ten steps away. Any further, and they fade out. You can't turn it off. Earplugs don't help, because it isn't coming through your ears. And the more someone is thinking about you, the louder they get. Remember that. It matters later."
+    },
+    {
+      "beat": "quiet place",
+      "text": "One more thing. Nobody can hear yours. Your head is the only quiet place left."
+    },
+    {
+      "beat": "title",
+      "text": "This is what if you could hear everyone's thoughts."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The premise and its rules"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": [],
+  "title": [
+    "WHAT IF YOU COULD HEAR",
+    "EVERYONE'S THOUGHTS?"
+  ]
+}

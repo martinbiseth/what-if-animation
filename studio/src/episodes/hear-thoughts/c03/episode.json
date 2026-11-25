@@ -1,0 +1,58 @@
+{
+  "id": "HearThoughtsC03",
+  "slug": "hear-thoughts/c03",
+  "chapter": "The fun part",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "the test",
+      "text": "And at first, it's amazing. On Tuesday, there's a maths test. You don't know question four. But Priya, two desks away, does. 'Twelve point five. Easy.' You write down twelve point five. You feel a bit bad. You get an A."
+    },
+    {
+      "beat": "the shop",
+      "text": "After school, you want a second-hand game. The man in the shop says, 'Forty. Final price.' And in his head: 'I'd take twenty. I just want it gone.' You say twenty. He sighs. 'Fine.' Then he thinks, 'Clever kid.'"
+    },
+    {
+      "beat": "mo finds out",
+      "text": "Mo works it out by Wednesday. 'How did you know I was going to say that?' So you tell him. He doesn't believe you, so you tell him exactly what he's thinking, right now. He goes very quiet. 'Okay. Never do that again. Also... do Priya.'"
+    },
+    {
+      "beat": "priya",
+      "text": "So you do. At lunch, Priya looks over at Mo and thinks, 'Why is he always staring at me?' Then: 'He's kind of funny, though.' You tell Mo. Mo walks over and says hi. Mo's face goes the colour of a tomato. For the first time in two years, she says hi back."
+    },
+    {
+      "beat": "cards",
+      "text": "On Thursday night, the family plays cards. Mum is thinking, 'Two kings. Don't smile.' Ellie is thinking, 'I have no idea what game this is.' You win four rounds in a row. Mum narrows her eyes. 'Are you cheating?' 'No,' you say. And technically, you're not."
+    },
+    {
+      "beat": "the boots",
+      "text": "Your mum's birthday is easy. She has been thinking about the same pair of blue boots for a week. When she opens the box, she cries. 'How did you know?' You just shrug."
+    },
+    {
+      "beat": "detectives",
+      "text": "By Friday, Mo has a plan. 'We could be detectives. Lost dogs. Lying boyfriends. Who stole the teacher's mug.' He writes a price list on the back of his hand. Five dollars a question. Ten for the truth. You laugh."
+    },
+    {
+      "beat": "turn",
+      "text": "And then, on Saturday, your mum takes you and Ellie to the shopping centre. And you stop laughing."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The fun part"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

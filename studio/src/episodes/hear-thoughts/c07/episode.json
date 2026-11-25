@@ -1,0 +1,46 @@
+{
+  "id": "HearThoughtsC07",
+  "slug": "hear-thoughts/c07",
+  "chapter": "The loudest voice",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "night",
+      "text": "That night, for the first time in weeks, everything feels okay. Mum is asleep. Ellie is asleep. The street is quiet. Then a voice starts. Louder than anything you have ever heard. So loud the glass in the window shakes. Because the more someone is thinking about you, the louder they get."
+    },
+    {
+      "beat": "nora",
+      "text": "It's Nora. 'You thought your head was the only quiet place left,' she thinks. 'It never was. I've heard every thought you've had. I didn't give it away. I gave it to you. And tomorrow, I'm taking it back.'"
+    },
+    {
+      "beat": "silence",
+      "text": "Then the voice stops. Everything stops. For the first time since that Monday, you can't hear anyone. Not Mum. Not Ellie. Not the street. Just silence. And on the other side of the road, under the streetlight, a girl is looking up at your window."
+    },
+    {
+      "beat": "part two",
+      "text": "So why did she give it to you? And what happens when she takes it back? That's for part two."
+    },
+    {
+      "beat": "is it real",
+      "text": "Is any of this real? Hearing thoughts, no. But people really have thousands of thoughts a day, our minds really wander almost half the time, and brain implants really have started to read inner speech. So, would you want to hear everyone's thoughts? Tell me in the comments."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Cliffhanger"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "HearThoughtsC01",
+  "slug": "hear-thoughts/c01",
+  "chapter": "Cold open",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "kitchen",
+      "text": "You wake up, walk into the kitchen, and your mum smiles. 'Morning, sweetheart!' But you hear something else. Her voice, from inside her head. 'If he leaves that cereal bowl in the sink one more time...'"
+    },
+    {
+      "beat": "the bus",
+      "text": "On the bus, it's like everyone has a radio on. The driver has the same three words of a song stuck on repeat. A man in a suit is practising how to ask for a pay rise. 'I deserve this. I deserve this.' A woman smiles at a baby and thinks, 'Ugly. Very ugly. Cute, though.' At the bus stop, a pigeon walks past, and for a second you panic. But no. Just people. Only people."
+    },
+    {
+      "beat": "the haircut",
+      "text": "At school, Mo looks at your new haircut. 'Nice!' he says. And inside his head: 'Oh no. What did he do?'"
+    },
+    {
+      "beat": "the teacher",
+      "text": "Your teacher says, 'Great question!' And thinks, 'Please. Stop. Asking. Questions.'"
+    },
+    {
+      "beat": "premise question",
+      "text": "Every person. Every thought. Out loud, but only for you. So what would actually happen if you could hear everyone's thoughts?"
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Cold open"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": [],
+  "pace": {
+    "min_cuts": 24,
+    "max_hold": 4
+  }
+}

@@ -10,4 +10,6 @@ import { bankBalanceChapters } from './bank-balance';
 
 import { gtaHospitalBillChapters } from './gta-hospital-bill';
 
-export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...bankBalanceChapters, ...gtaHospitalBillChapters];
+import { hearThoughtsChapters } from './hear-thoughts';
+
+export const EPISODES = [rewind, copyPaste, ...iphone1926Chapters, ...internetGoneChapters, ...bankBalanceChapters, ...gtaHospitalBillChapters, ...hearThoughtsChapters];

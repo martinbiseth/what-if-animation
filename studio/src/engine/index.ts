@@ -22,4 +22,6 @@ export * from './sets/street26';
 export * from './sets/jazzclub';
 export * from './modern';
 export * from './money';
+export * from './thoughts';
 export * from './sets/money';
+export * from './sets/hall';

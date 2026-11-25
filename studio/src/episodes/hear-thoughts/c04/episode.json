@@ -1,0 +1,66 @@
+{
+  "id": "HearThoughtsC04",
+  "slug": "hear-thoughts/c04",
+  "chapter": "The catch",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "the noise",
+      "text": "Hundreds of people, all thinking at once. 'Where did I park?' 'Is that a spot on my face?' 'Ninety-nine dollars for a jacket?' 'I'm so hungry.' 'I'm so tired.' It's like standing in a stadium where everyone is shouting a different song. You grab your mum's arm. You can't even hear her real voice."
+    },
+    {
+      "beat": "fact: 6200 thoughts",
+      "text": "Scientists in Canada worked out that a person has about six thousand two hundred separate thoughts every day. That's real. A busy shopping centre holds thousands of people. That's millions of thoughts, and you're standing in the middle of all of them."
+    },
+    {
+      "beat": "fact: wandering",
+      "text": "And most of them aren't about what people are doing. A Harvard study found that people's minds wander almost half the time they're awake. Your teacher, explaining fractions, is thinking about her rent. The bus driver, steering through traffic, is replaying an argument from ten years ago."
+    },
+    {
+      "beat": "fact: lies",
+      "text": "Then there are the lies. In one study, six out of ten people told at least one lie in a ten-minute chat with a stranger. Now you hear every single one. 'I'm fine.' Not fine. 'I love it.' Hates it. 'Five minutes away.' Hasn't left the house."
+    },
+    {
+      "beat": "about you",
+      "text": "And worst of all, you start hearing what people think about you. The girl next to you in art: 'He's a bit weird.' Your football coach: 'Not good enough for Saturday.' And Mo. Your best friend. At a sleepover, in the dark, when he thinks you're asleep: 'Sometimes I think he only hangs out with me because nobody else will.'"
+    },
+    {
+      "beat": "no sleep",
+      "text": "You stop sleeping. Every house on your street hums like a fridge. At two in the morning, the man next door is worrying about money. Across the road, a baby is too little for words, but her mum is awake too, counting the hours until morning. You put a pillow over your head. It doesn't help. Even the quiet people aren't quiet. Hearing the truth doesn't make you happier. It just means you can never stop listening."
+    }
+  ],
+  "science": [
+    {
+      "claim": "A person has about 6,200 thoughts a day.",
+      "working": "Tseng and Poppenk detected new \"thought worms\" in fMRI at about 6.5 per minute; over a typical waking day (~16 h) that is about 6,200.",
+      "source": "Tseng & Poppenk, Nature Communications 11, 3480 (2020), Queen's University, Canada"
+    },
+    {
+      "claim": "People's minds wander almost half of their waking hours.",
+      "working": "Experience sampling of 2,250 adults: minds were wandering in 46.9% of samples.",
+      "source": "Killingsworth & Gilbert, \"A Wandering Mind Is an Unhappy Mind\", Science 330, 932 (2010), Harvard"
+    },
+    {
+      "claim": "6 in 10 people told at least one lie in a 10-minute conversation with a stranger.",
+      "working": "60% of participants lied at least once during a 10-minute conversation, averaging about 2.9 lies.",
+      "source": "Feldman, Forrest & Happ, Basic and Applied Social Psychology 24(2), 2002 (University of Massachusetts)"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The catch"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

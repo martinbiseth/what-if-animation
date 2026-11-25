@@ -1,0 +1,88 @@
+{
+ "id": "HearThoughts",
+ "slug": "hear-thoughts",
+ "topic": "What if you could hear everyone's thoughts?",
+ "title": [
+  "WHAT IF YOU COULD HEAR",
+  "EVERYONE'S THOUGHTS?"
+ ],
+ "target_seconds": 540,
+ "defaults": {
+  "voice": {
+   "id": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.3,
+    "use_speaker_boost": true
+   }
+  },
+  "gaps": {
+   "word": 0.14,
+   "comma": 0.25,
+   "sentence": 0.42,
+   "question": 0.6
+  },
+  "pace": {
+   "min_cuts": 8,
+   "max_hold": 8
+  }
+ },
+ "chapters": [
+  {
+   "slug": "c01",
+   "name": "Cold open",
+   "words": 165
+  },
+  {
+   "slug": "c02",
+   "name": "The rules",
+   "words": 141
+  },
+  {
+   "slug": "c03",
+   "name": "The fun part",
+   "words": 316
+  },
+  {
+   "slug": "c04",
+   "name": "The catch",
+   "words": 327
+  },
+  {
+   "slug": "c05",
+   "name": "Someone notices",
+   "words": 268
+  },
+  {
+   "slug": "c06",
+   "name": "The choice",
+   "words": 247
+  },
+  {
+   "slug": "c07",
+   "name": "The loudest voice",
+   "words": 204
+  }
+ ],
+ "youtube": {
+  "title": "What if you could hear everyone's thoughts?",
+  "tags": [
+   "what if",
+   "animation",
+   "science"
+  ],
+  "category": 27,
+  "language": "en",
+  "privacy": "private",
+  "made_for_kids": false,
+  "synthetic_media": false,
+  "intro": "One line on what the episode is about, for the top of the description.",
+  "thumbnail": {
+   "chapter": "c02",
+   "frame": 60
+  },
+  "midroll_gap": 120
+ }
+}

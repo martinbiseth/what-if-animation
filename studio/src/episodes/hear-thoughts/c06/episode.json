@@ -1,0 +1,46 @@
+{
+  "id": "HearThoughtsC06",
+  "slug": "hear-thoughts/c06",
+  "chapter": "The choice",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "the gate",
+      "text": "After school, she's waiting at the gate. 'It's loud, isn't it?' she says. 'All the time. I know. I had it for six years.' 'Had?' 'I gave it away. And I can make yours stop. Tonight. Silence. Forever.'"
+    },
+    {
+      "beat": "silence",
+      "text": "Silence. You think about sleeping a whole night. About Mo, and what he thought in the dark. About never hearing another lie. It's the only thing you want. 'What's the catch?' you ask. 'No catch,' Nora says. And you can't tell if she's lying. For the first time in weeks, you have no idea what someone is thinking. It feels strange. It feels almost nice."
+    },
+    {
+      "beat": "ellie",
+      "text": "Then you go home, and Ellie is at the kitchen table, drawing. 'School was great,' she says, and smiles. But her head says something else. 'Don't tell. If you tell, they'll do it more. Don't tell. Don't tell.' Your little sister has been scared every day for a month. And nobody knew. Except you."
+    },
+    {
+      "beat": "no",
+      "text": "The next morning, Nora is at the gate. 'Well?' You think of Ellie. 'No. I'm keeping it.' Nora stops smiling. 'Okay,' she says. 'Your choice.' And she walks away."
+    },
+    {
+      "beat": "fixed",
+      "text": "That afternoon, you go with Ellie to her teacher. You know exactly what to say, and exactly who to name. Mo comes too. He doesn't ask how you knew. He just stands next to you. And for once, his head says exactly what his mouth does: 'I've got you.' By Friday, it's over. Ellie hugs you so hard your ribs hurt."
+    }
+  ],
+  "science": [],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: The choice"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}

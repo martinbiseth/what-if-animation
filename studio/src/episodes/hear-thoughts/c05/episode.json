@@ -1,0 +1,53 @@
+{
+  "id": "HearThoughtsC05",
+  "slug": "hear-thoughts/c05",
+  "chapter": "Someone notices",
+  "topic": "What if you could hear everyone's thoughts?",
+  "script": [
+    {
+      "beat": "lost boy",
+      "text": "Then, one afternoon at the train station, a woman is screaming a name. 'Leo! Leo!' Her little boy is gone. Hundreds of people. You close your eyes and listen. Under all the noise, there's one tiny voice. 'Mummy said wait by the big clock. Wait by the big clock.'"
+    },
+    {
+      "beat": "found",
+      "text": "You run. He's under the clock, holding a toy bus. His mum hugs him so hard she nearly falls over. Someone films it. 'How did you know where he was?' 'Lucky guess,' you say. By the evening, a million people have watched it. Your phone won't stop buzzing. Strangers in the comments argue about whether it's fake. Your mum watches it four times and thinks, very loudly, 'That's my kid.'"
+    },
+    {
+      "beat": "fact: implants",
+      "text": "And you aren't the only one listening to heads. In 2023, scientists at Stanford used a brain implant to turn a woman's attempted speech into words on a screen, at sixty-two words a minute. In 2025, the same kind of implant started picking up inner speech: words people only thought. That's real. Machines are slowly learning to do what you do."
+    },
+    {
+      "beat": "nora",
+      "text": "On Monday, there's a new girl in your class. Nora. She sits right behind you. And something is wrong. You can't hear her. Not a whisper. Not one word. The teacher asks her a question, and she answers out loud, but her head stays silent. You try everything. You stare at her. You stand right next to her at the bin. Nothing. In a room full of noise, there's one perfectly silent head. She looks up from her book, straight at you, and smiles. As if she knows."
+    }
+  ],
+  "science": [
+    {
+      "claim": "In 2023 a Stanford brain implant turned a woman's attempted speech into text at 62 words per minute.",
+      "working": "Intracortical speech BCI in a participant with ALS decoded attempted speech at 62 words per minute.",
+      "source": "Willett et al., \"A high-performance speech neuroprosthesis\", Nature 620, 1031 (2023)"
+    },
+    {
+      "claim": "In 2025 the same kind of implant began decoding inner speech.",
+      "working": "Motor-cortex arrays in people with paralysis decoded imagined (inner) speech sentences in real time.",
+      "source": "Kunz et al., \"Inner speech in motor cortex and implications for speech neuroprostheses\", Cell (August 2025), Stanford"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 30,
+      "note": "placeholder card: Someone notices"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "f:0"
+    }
+  ],
+  "end": "f:90",
+  "fx": []
+}
