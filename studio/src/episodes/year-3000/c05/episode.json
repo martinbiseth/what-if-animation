@@ -1,0 +1,57 @@
+{
+ "id": "Year3000C05",
+ "slug": "year-3000/c05",
+ "chapter": "The Archive",
+ "topic": "What if you woke up in the year 3000?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day six. A woman in a silver suit walks into the museum. Everybody steps aside for her."
+  },
+  {
+   "beat": "p2",
+   "text": "'I am from the Archive,' she says. 'We keep the history of the human race. And you are history.'"
+  },
+  {
+   "beat": "p3",
+   "text": "She smiles. It is not a friendly smile."
+  },
+  {
+   "beat": "p4",
+   "text": "'Your credit runs out tomorrow. You have no light. To the city, you do not exist. You cannot buy food, open a door, or ride a train.'"
+  },
+  {
+   "beat": "p5",
+   "text": "So that's what the blue light is. It's everyone's name, money and key, all in one. And you don't have one."
+  },
+  {
+   "beat": "p6",
+   "text": "To prove it, she walks you to a door. It slides open for her. You step up. Nothing. The door doesn't even see you. Mo Seven says nobody here has opened a door by hand in two hundred years."
+  },
+  {
+   "beat": "p7",
+   "text": "'But we can give you a home,' she says. 'A beautiful room. Food. Doctors. Forever.'"
+  },
+  {
+   "beat": "p8",
+   "text": "She shows you the room. It is beautiful. It's also made of glass. And outside the glass, there's a sign with your name on it, and the words: 'Living exhibit. Twenty twenty-six.'"
+  },
+  {
+   "beat": "p9",
+   "text": "Mo Seven grabs your arm. 'If you go in there, they will never let you out.'"
+  },
+  {
+   "beat": "p10",
+   "text": "The woman hears him. 'Mo Seven,' she says, 'helping a person with no light is a crime.'"
+  },
+  {
+   "beat": "p11",
+   "text": "Now it's not just you who's in trouble."
+  },
+  {
+   "beat": "p12",
+   "text": "You have until tomorrow to decide."
+  }
+ ],
+ "science": []
+}

@@ -1,0 +1,65 @@
+{
+ "id": "Year3000C06",
+ "slug": "year-3000/c06",
+ "chapter": "One message",
+ "topic": "What if you woke up in the year 3000?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "That night, you can't sleep. So you walk through the empty museum, past your own phone in its glass case."
+  },
+  {
+   "beat": "p2",
+   "text": "At the back, there's a room you've never seen. A sign says 'Family records.' Vee opens the door."
+  },
+  {
+   "beat": "p3",
+   "text": "Inside, on a screen, is a name you know. Your little sister."
+  },
+  {
+   "beat": "p4",
+   "text": "There's a message. It was recorded in twenty seventy-one. She's an old woman now, with the same laugh."
+  },
+  {
+   "beat": "p5",
+   "text": "'If you ever wake up,' she says, 'I'm sorry we couldn't wait for you. I looked for you every year. I never gave up.'"
+  },
+  {
+   "beat": "p6",
+   "text": "Then she leans close to the camera. 'And don't let anyone put you in a box. I left you something. Look for our name.'"
+  },
+  {
+   "beat": "p7",
+   "text": "She holds up an old photo of the two of you on a trampoline. 'And you still owe me a rematch.'"
+  },
+  {
+   "beat": "p8",
+   "text": "Vee shows a map. A tiny dot glows at the edge of the old city, in a place nobody goes anymore."
+  },
+  {
+   "beat": "p9",
+   "text": "In the morning, the woman in silver is waiting by the glass room. The door is open. Food, safety, doctors. Forever."
+  },
+  {
+   "beat": "p10",
+   "text": "Mo Seven is standing by the exit. No light. No money. No promises."
+  },
+  {
+   "beat": "p11",
+   "text": "Vee floats beside you. 'I am not allowed to help you leave,' it says. Then, very quietly, the exit door slides open."
+  },
+  {
+   "beat": "p12",
+   "text": "You look at the glass room. You look at Mo Seven."
+  },
+  {
+   "beat": "p13",
+   "text": "And you walk out the door."
+  },
+  {
+   "beat": "p14",
+   "text": "Behind you, the woman whispers two words into her sleeve. 'Find them.'"
+  }
+ ],
+ "science": []
+}

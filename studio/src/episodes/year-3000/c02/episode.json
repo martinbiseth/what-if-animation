@@ -1,0 +1,39 @@
+{
+ "id": "Year3000C02",
+ "slug": "year-3000/c02",
+ "chapter": "How you got here",
+ "topic": "What if you woke up in the year 3000?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Here's how it happened. Back in twenty twenty-six, a clinic paid you one hundred dollars to test a new sleep pod. 'Just one night,' they said."
+  },
+  {
+   "beat": "p2",
+   "text": "Something went wrong. Nobody came to wake you up. For almost a thousand years."
+  },
+  {
+   "beat": "p3",
+   "text": "That sounds crazy, but people really try this. In nineteen sixty-seven, a man named James Bedford became the first person ever frozen after he died, hoping the future could fix him. He is still waiting. Nobody has ever been brought back."
+  },
+  {
+   "beat": "p4",
+   "text": "Except you. What if you woke up in the year three thousand?"
+  },
+  {
+   "beat": "p5",
+   "text": "The robot's name is Vee. It works for the city museum. It gives you a tiny earpiece so you can understand people, and it gives you the rules. 'You get seven days of free credit. After that, you need a job, like everyone else.'"
+  },
+  {
+   "beat": "p6",
+   "text": "Then you notice something. Everyone here has a tiny blue light behind their ear. Everyone except you. Vee sees you looking, and says nothing."
+  }
+ ],
+ "science": [
+  {
+   "claim": "James Bedford was the first person to be cryopreserved after legal death, in January 1967, and is still in storage; no cryopreserved person has ever been revived.",
+   "working": "Bedford, a psychology professor, was frozen on 12 January 1967 and is kept at the Alcor Life Extension Foundation. No technology exists to revive a cryopreserved human.",
+   "source": "Alcor Life Extension Foundation, 'Dr. James Bedford' (alcor.org); Shoffstall, 'Freeze, wait, reanimate', Health Matrix 26 (2016)"
+  }
+ ]
+}

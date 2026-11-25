@@ -1,0 +1,71 @@
+{
+ "id": "Year3000C03",
+ "slug": "year-3000/c03",
+ "chapter": "The fun part",
+ "topic": "What if you woke up in the year 3000?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "Day one. You're famous."
+  },
+  {
+   "beat": "p2",
+   "text": "News moves fast in the year three thousand. By lunch, a crowd is waiting outside the museum to see the person from twenty twenty-six."
+  },
+  {
+   "beat": "p3",
+   "text": "And the first face in the crowd stops your heart. It's Mo. Your best friend, Mo. Same face, same grin, same laugh."
+  },
+  {
+   "beat": "p4",
+   "text": "'I'm Mo Seven,' he says. 'Your Mo was my great, great, great... a lot of greats... grandfather.'"
+  },
+  {
+   "beat": "p5",
+   "text": "That's not as crazy as it sounds. Nine hundred and seventy-four years is about thirty-two generations. Go back thirty-two generations, and your family tree has over four billion spots for ancestors. That's more people than were alive back then, so family trees fold into each other. If Mo had kids, a huge part of this city could be his family."
+  },
+  {
+   "beat": "p6",
+   "text": "Mo Seven becomes your guide. And you start showing off."
+  },
+  {
+   "beat": "p7",
+   "text": "First he shows you his city. The bus comes when you look at the stop. Dinner gets printed in front of you, in any shape you like. You ask for a burger. It looks like a burger, tastes like a burger, and has never been anywhere near a cow."
+  },
+  {
+   "beat": "p8",
+   "text": "You write your name with a pen. Nobody here has written by hand in five hundred years. The kids gasp like it's magic."
+  },
+  {
+   "beat": "p9",
+   "text": "You tie your shoelaces. A small crowd films it."
+  },
+  {
+   "beat": "p10",
+   "text": "A little girl asks if it's true that people used to wait for things. You tell her about loading bars. She bursts into tears."
+  },
+  {
+   "beat": "p11",
+   "text": "At the museum, you give tours of your own time. You explain that the glass rectangle was mostly for watching short videos of cats. They think you're joking. You're not."
+  },
+  {
+   "beat": "p12",
+   "text": "Every tour pays you credits. By day three, you're rich. Mo Seven says you're the most famous person in the city."
+  },
+  {
+   "beat": "p13",
+   "text": "You think you've got this figured out."
+  },
+  {
+   "beat": "p14",
+   "text": "But on day four, you sneeze."
+  }
+ ],
+ "science": [
+  {
+   "claim": "974 years is about 32 generations, and 32 generations back a family tree has over 4 billion ancestor slots, more than the people alive then, so trees overlap; within roughly a thousand years a person with descendants is likely an ancestor of a large share of their region.",
+   "working": "974 / 30 years per generation = 32.5. 2^32 = 4,294,967,296 ancestor slots, while the world population around the year 1000 was roughly 250-300 million, so the same people fill many slots (pedigree collapse). Modelling puts the common ancestor of everyone alive only a few thousand years back.",
+   "source": "Rohde, Olson & Chang, 'Modelling the recent common ancestry of all living humans', Nature 431 (2004); Our World in Data, world population over the long run"
+  }
+ ]
+}

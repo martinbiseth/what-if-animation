@@ -1,0 +1,45 @@
+{
+ "id": "Year3000C01",
+ "slug": "year-3000/c01",
+ "chapter": "Wake up",
+ "topic": "What if you woke up in the year 3000?",
+ "script": [
+  {
+   "beat": "p1",
+   "text": "You open your eyes. Everything is white. A little round robot floats over your face and says, 'Good morning. You have been asleep for nine hundred and seventy-four years.'"
+  },
+  {
+   "beat": "p2",
+   "text": "You laugh. Then you look out the window."
+  },
+  {
+   "beat": "p3",
+   "text": "You ask the robot for a glass of water. It hands you a little clear cube. You bite it. It's water."
+  },
+  {
+   "beat": "p4",
+   "text": "The sky is full of things that fly without wings. The towers are taller than the clouds. And there are no cars. Not one."
+  },
+  {
+   "beat": "p5",
+   "text": "You reach for your phone. It's not in your pocket. It's in a glass case across the room, with a little sign: 'Smartphone. Early twenty-first century. Do not touch.'"
+  },
+  {
+   "beat": "p6",
+   "text": "You ask a kid where you are. He stares at you like you just barked."
+  },
+  {
+   "beat": "p7",
+   "text": "You pull out your wallet to buy a drink. The whole shop laughs."
+  },
+  {
+   "beat": "p8",
+   "text": "This is the year three thousand. And everything you know is from twenty twenty-six. So how long would you actually last?"
+  }
+ ],
+ "science": [],
+ "pace": {
+  "min_cuts": 18,
+  "max_hold": 5
+ }
+}
