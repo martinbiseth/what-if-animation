@@ -321,5 +321,337 @@
     }
   ],
   "fx": [],
-  "tail": 1.0
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_sad": [
+        "soft sad solo piano, slow and gentle, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "power_down": [
+        "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+        2.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S2+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S3+0"
+      ],
+      [
+        "S2+20",
+        "drone",
+        0.3,
+        "onset"
+      ],
+      [
+        "S3+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S4+0"
+      ],
+      [
+        "S4+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S5+0"
+      ],
+      [
+        "S5+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S6+0"
+      ],
+      [
+        "S6+4",
+        "title_boom",
+        0.4,
+        "peak"
+      ],
+      [
+        "S6+30",
+        "power_down",
+        0.35,
+        "onset"
+      ],
+      [
+        "S7+0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "S8+0"
+      ],
+      [
+        "S9+6",
+        "pop",
+        0.35,
+        "onset"
+      ],
+      [
+        "S10+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S11+0"
+      ],
+      [
+        "S11+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S12+0"
+      ],
+      [
+        "S12+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S13+0"
+      ],
+      [
+        "S13+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S14+0"
+      ],
+      [
+        "S14+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S15+0"
+      ],
+      [
+        "S15+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S16+0"
+      ],
+      [
+        "S16+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S17+0"
+      ],
+      [
+        "S16+30",
+        "pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S17+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S18+0"
+      ],
+      [
+        "S17+0",
+        "heartbeat",
+        0.4,
+        "onset"
+      ],
+      [
+        "S18+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S19+0"
+      ],
+      [
+        "S19+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S20+0"
+      ],
+      [
+        "S19+0",
+        "sparkle",
+        0.3,
+        "onset"
+      ],
+      [
+        "S20+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S21+0"
+      ],
+      [
+        "S20+0",
+        "drone",
+        0.3,
+        "onset"
+      ],
+      [
+        "S21+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S22+0"
+      ],
+      [
+        "S22+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S23+0"
+      ],
+      [
+        "S22+10",
+        "card_hit",
+        0.35,
+        "peak"
+      ],
+      [
+        "S23+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S24+0"
+      ],
+      [
+        "S24+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S25+0"
+      ],
+      [
+        "S25+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S26+0"
+      ],
+      [
+        "S25+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S26+0"
+      ],
+      [
+        "S25+30",
+        "pop",
+        0.35,
+        "onset"
+      ],
+      [
+        "S26+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S27+0"
+      ],
+      [
+        "S26+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S27+0"
+      ],
+      [
+        "S27+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S28+0"
+      ],
+      [
+        "S27+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S28+0"
+      ],
+      [
+        "S27+30",
+        "pop",
+        0.25,
+        "onset"
+      ],
+      [
+        "S28+3",
+        "title_boom",
+        0.45,
+        "peak"
+      ],
+      [
+        "S29+0",
+        "room_tone",
+        0.25,
+        "onset"
+      ],
+      [
+        "S29+6",
+        "pop",
+        0.3,
+        "onset"
+      ]
+    ],
+    "music": {
+      "clip": "m_sad",
+      "loop": true,
+      "until": "S20+0",
+      "from": "S14+0"
+    },
+    "levels": {
+      "sfx_lu": -14.0,
+      "music_lu": -16.0
+    }
+  }
 }

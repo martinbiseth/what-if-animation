@@ -468,6 +468,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "hear-thoughts/c05/voice.wav"
+  "voice": "hear-thoughts/c05/voice.wav",
+  "sfx": "hear-thoughts/c05/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.1297,
+  "music": "hear-thoughts/c05/music.wav",
+  "musicVol": 0.1031
  }
 }

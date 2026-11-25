@@ -333,5 +333,461 @@
     }
   ],
   "fx": [],
-  "tail": 1.0
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cash": [
+        "an old mechanical cash register ding and drawer",
+        1.2
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "gulp": [
+        "a nervous cartoon gulp, short",
+        0.5
+      ],
+      "m_fun": [
+        "upbeat playful 1920s ragtime piano with clarinet, light and curious, instrumental background loop",
+        20.0
+      ],
+      "paste_pop": [
+        "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+        0.7
+      ],
+      "pencils": [
+        "many pencils scribbling quickly on paper in a quiet office",
+        3.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "scratch": [
+        "a vinyl record scratch, music stops abruptly",
+        0.8
+      ],
+      "sparkle": [
+        "a short bright magical sparkle twinkle, cartoon",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S2+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S3+0"
+      ],
+      [
+        "S2+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S3+0"
+      ],
+      [
+        "S2+0",
+        "pencils",
+        0.3,
+        "onset"
+      ],
+      [
+        "S3+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S4+0"
+      ],
+      [
+        "S3+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S4+0"
+      ],
+      [
+        "S4+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S5+0"
+      ],
+      [
+        "S4+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S5+0"
+      ],
+      [
+        "S5+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S6+0"
+      ],
+      [
+        "S5+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S6+0"
+      ],
+      [
+        "S5+6",
+        "pop",
+        0.45,
+        "onset"
+      ],
+      [
+        "S6+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S7+0"
+      ],
+      [
+        "S6+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S7+0"
+      ],
+      [
+        "S6+4",
+        "sparkle",
+        0.4,
+        "onset"
+      ],
+      [
+        "S7+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S8+0"
+      ],
+      [
+        "S7+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S8+0"
+      ],
+      [
+        "S8+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S9+0"
+      ],
+      [
+        "S8+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S9+0"
+      ],
+      [
+        "S8+4",
+        "ding",
+        0.4,
+        "onset"
+      ],
+      [
+        "S9+0",
+        "room_tone",
+        0.28,
+        "onset",
+        "S10+0"
+      ],
+      [
+        "S10+0",
+        "room_tone",
+        0.28,
+        "onset",
+        "S11+0"
+      ],
+      [
+        "S10+6",
+        "pop",
+        0.45,
+        "onset"
+      ],
+      [
+        "S11+0",
+        "room_tone",
+        0.28,
+        "onset",
+        "S12+0"
+      ],
+      [
+        "S11+30",
+        "cash",
+        0.4,
+        "onset"
+      ],
+      [
+        "S12+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S13+0"
+      ],
+      [
+        "S13+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S14+0"
+      ],
+      [
+        "S14+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S15+0"
+      ],
+      [
+        "S15+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S16+0"
+      ],
+      [
+        "S15+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S16+0"
+      ],
+      [
+        "S15+6",
+        "pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S16+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S28+0"
+      ],
+      [
+        "S16+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S28+0"
+      ],
+      [
+        "S28+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S29+0"
+      ],
+      [
+        "S28+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S29+0"
+      ],
+      [
+        "S28+0",
+        "gulp",
+        0.45,
+        "onset"
+      ],
+      [
+        "S29+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S17+0"
+      ],
+      [
+        "S29+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S17+0"
+      ],
+      [
+        "S17+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S27+0"
+      ],
+      [
+        "S17+6",
+        "pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S27+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S18+0"
+      ],
+      [
+        "S27+6",
+        "pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S18+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S19+0"
+      ],
+      [
+        "S18+10",
+        "buzzer",
+        0.3,
+        "onset"
+      ],
+      [
+        "S19+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S20+0"
+      ],
+      [
+        "S20+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S21+0"
+      ],
+      [
+        "S21+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S22+0"
+      ],
+      [
+        "S21+10",
+        "sparkle",
+        0.35,
+        "onset"
+      ],
+      [
+        "S22+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S23+0"
+      ],
+      [
+        "S23+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S24+0"
+      ],
+      [
+        "S23+4",
+        "paste_pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S24+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S25+0"
+      ],
+      [
+        "S25+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S26+0"
+      ],
+      [
+        "S25+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S26+0"
+      ],
+      [
+        "S26+0",
+        "room_tone",
+        0.3,
+        "onset"
+      ],
+      [
+        "S26+0",
+        "class_murmur",
+        0.25,
+        "onset"
+      ],
+      [
+        "S26+0",
+        "scratch",
+        0.25,
+        "onset"
+      ],
+      [
+        "S26+10",
+        "drone_hit",
+        0.28,
+        "onset"
+      ]
+    ],
+    "music": {
+      "clip": "m_fun",
+      "loop": true,
+      "until": "S26+0"
+    },
+    "levels": {
+      "sfx_lu": -14.0,
+      "music_lu": -16.0
+    }
+  }
 }

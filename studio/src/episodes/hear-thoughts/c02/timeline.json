@@ -213,6 +213,11 @@
  ],
  "fx": [],
  "audio": {
-  "voice": "hear-thoughts/c02/voice.wav"
+  "voice": "hear-thoughts/c02/voice.wav",
+  "sfx": "hear-thoughts/c02/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.1691,
+  "music": "hear-thoughts/c02/music.wav",
+  "musicVol": 0.1019
  }
 }

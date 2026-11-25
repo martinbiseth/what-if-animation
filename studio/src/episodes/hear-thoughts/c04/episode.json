@@ -291,5 +291,364 @@
     }
   ],
   "fx": [],
-  "tail": 1.0
+  "tail": 1.0,
+  "sound": {
+    "clips": {
+      "card_hit": [
+        "a cinematic title hit, a deep soft boom with a short shimmering tail",
+        2.0
+      ],
+      "cheer": [
+        "a small crowd in a club cheering and clapping",
+        2.0
+      ],
+      "class_murmur": [
+        "a quiet classroom murmur, kids whispering, chairs shuffling",
+        2.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone": [
+        "a dark low cinematic tension drone, slowly rising",
+        8.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "heartbeat": [
+        "a slow tense heartbeat, low and muffled",
+        3.0
+      ],
+      "m_tense": [
+        "dark suspenseful underscore, slow pulsing low strings, instrumental background loop",
+        20.0
+      ],
+      "pop": [
+        "a cartoon speech bubble pop, short and bright",
+        0.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "select_draw": [
+        "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+        0.6
+      ],
+      "tick": [
+        "a slow old clock ticking in a quiet room",
+        4.0
+      ]
+    },
+    "events": [
+      [
+        "S1+0",
+        "card_hit",
+        0.5,
+        "peak"
+      ],
+      [
+        "S2+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S3+0"
+      ],
+      [
+        "S2+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S3+0"
+      ],
+      [
+        "S2+0",
+        "drone",
+        0.1,
+        "onset"
+      ],
+      [
+        "S3+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S4+0"
+      ],
+      [
+        "S3+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S4+0"
+      ],
+      [
+        "S3+0",
+        "cheer",
+        0.15,
+        "onset"
+      ],
+      [
+        "S4+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S5+0"
+      ],
+      [
+        "S4+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S5+0"
+      ],
+      [
+        "S5+4",
+        "counter_tick",
+        0.35,
+        "onset"
+      ],
+      [
+        "S6+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S7+0"
+      ],
+      [
+        "S6+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S7+0"
+      ],
+      [
+        "S7+6",
+        "select_draw",
+        0.35,
+        "onset"
+      ],
+      [
+        "S8+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S9+0"
+      ],
+      [
+        "S8+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S9+0"
+      ],
+      [
+        "S9+0",
+        "roof_wind",
+        0.2,
+        "onset",
+        "S10+0"
+      ],
+      [
+        "S10+6",
+        "select_draw",
+        0.35,
+        "onset"
+      ],
+      [
+        "S11+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S12+0"
+      ],
+      [
+        "S11+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S12+0"
+      ],
+      [
+        "S11+6",
+        "pop",
+        0.35,
+        "onset"
+      ],
+      [
+        "S12+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S13+0"
+      ],
+      [
+        "S12+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S13+0"
+      ],
+      [
+        "S12+0",
+        "heartbeat",
+        0.4,
+        "onset"
+      ],
+      [
+        "S13+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S14+0"
+      ],
+      [
+        "S13+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S14+0"
+      ],
+      [
+        "S13+6",
+        "pop",
+        0.4,
+        "onset"
+      ],
+      [
+        "S14+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S15+0"
+      ],
+      [
+        "S14+0",
+        "class_murmur",
+        0.22,
+        "onset",
+        "S15+0"
+      ],
+      [
+        "S15+0",
+        "room_tone",
+        0.3,
+        "onset",
+        "S16+0"
+      ],
+      [
+        "S15+0",
+        "class_murmur",
+        0.25,
+        "onset",
+        "S16+0"
+      ],
+      [
+        "S16+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S17+0"
+      ],
+      [
+        "S16+6",
+        "pop",
+        0.25,
+        "onset"
+      ],
+      [
+        "S17+0",
+        "room_tone",
+        0.28,
+        "onset",
+        "S18+0"
+      ],
+      [
+        "S17+0",
+        "tick",
+        0.3,
+        "onset"
+      ],
+      [
+        "S18+0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "S19+0"
+      ],
+      [
+        "S19+0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "S20+0"
+      ],
+      [
+        "S19+6",
+        "pop",
+        0.35,
+        "onset"
+      ],
+      [
+        "S20+0",
+        "roof_wind",
+        0.15,
+        "onset",
+        "S21+0"
+      ],
+      [
+        "S20+6",
+        "pop",
+        0.35,
+        "onset"
+      ],
+      [
+        "S21+0",
+        "room_tone",
+        0.28,
+        "onset",
+        "S22+0"
+      ],
+      [
+        "S22+0",
+        "room_tone",
+        0.25,
+        "onset",
+        "S23+0"
+      ],
+      [
+        "S22+0",
+        "heartbeat",
+        0.35,
+        "onset"
+      ],
+      [
+        "S23+0",
+        "room_tone",
+        0.28,
+        "onset"
+      ],
+      [
+        "S23+10",
+        "drone_hit",
+        0.25,
+        "onset"
+      ]
+    ],
+    "music": {
+      "clip": "m_tense",
+      "loop": true,
+      "from": "S4+0"
+    },
+    "levels": {
+      "sfx_lu": -14.0,
+      "music_lu": -16.0
+    }
+  }
 }
